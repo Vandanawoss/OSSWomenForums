@@ -1,0 +1,66 @@
+From donna@genderchangers.org  Sat Mar 22 09:33:03 2008
+Return-Path: <donna@genderchangers.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CCE3D7503EC
+	for <gnome-women-list@gnome.org>; Sat, 22 Mar 2008 09:33:02 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 1.976
+X-Spam-Level: *
+X-Spam-Status: No, score=1.976 tagged_above=-999 required=2 tests=[BAYES_60=1, 
+	FORGED_RCVD_HELO=0.135, UNDISC_RECIPS=0.841]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 3) (up: 2815 hrs), (distance 20,
+	link: ethernet/modem), [82.94.255.120]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id n3-egRU+JGlI for <gnome-women-list@gnome.org>;
+	Sat, 22 Mar 2008 09:32:58 +0000 (GMT)
+Received: from mail.tuxic.nl (tuxic.nl [82.94.255.120])
+	by menubar.gnome.org (Postfix) with ESMTP id 7725575007B
+	for <gnome-women-list@gnome.org>; Sat, 22 Mar 2008 09:32:58 +0000 (GMT)
+Received: from tuxic.nl (tuxic [127.0.0.1])
+	by mail.tuxic.nl (Postfix) with ESMTP id A876910C01A;
+	Sat, 22 Mar 2008 10:32:52 +0100 (CET)
+Received: from 85.147.96.4 (SquirrelMail authenticated user donna)
+	by tuxic.nl with HTTP; Sat, 22 Mar 2008 10:32:52 +0100 (CET)
+Message-ID: <60393.85.147.96.4.1206178372.squirrel@tuxic.nl>
+From: "Donna Metzlar" <donna@genderchangers.org>
+User-Agent: SquirrelMail/1.4.10a
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+To: undisclosed-recipients:;
+X-Mailman-Approved-At: Tue, 15 Sep 2009 15:38:24 +0000
+Subject: [gnome-women] two women's tech events in the Netherlands
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+Date: Sat, 22 Mar 2008 09:33:03 -0000
+X-Original-Date: Sat, 22 Mar 2008 10:32:52 +0100 (CET)
+X-List-Received-Date: Sat, 22 Mar 2008 09:33:03 -0000
+
+Hi,
+
+I'd just like to let you know about the Girl Geek Dinner on April 10. The
+speaker will be Fabienne Serriere presenting the topic Hardware Hacking on
+the Cheap!
+http://girlgeekdinner.nl/
+
+And the seventh Eclectic Tech Carnival from May 25 until the 31st:
+http://eclectictechcarnival.org/
+
+Donna
+

@@ -1,0 +1,226 @@
+From lydia at kde.org  Sun Jun 28 15:45:03 2009
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sun, 28 Jun 2009 15:45:03 +0200
+Subject: [Kde-women] website
+Message-ID: <938b46780906280645x6f60f1ay2a051f9b469878d6@mail.gmail.com>
+
+Heya folks,
+
+we are sitting here at the KDE wiki sprint in Berlin and are looking
+at all the KDE webpages. http://women.kde.org is horribly outdated and
+pretty useless as is.
+Are there any objections to deleting the content and redirect it to a
+page on the soon to be set up community.kde.org wiki. This page would
+contain a short project summary and a hint to this mailing list.
+
+If no-one opposes within the next 2 weeks I am going to go ahead and
+get this done as the page in its current form does more harm than good
+to us.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+Amarok community manager
+kde.org - amarok.kde.org - kubuntu.org
+claimid.com/nightrose
+
+From eva.brucherseifer at basyskom.de  Mon Jun 29 18:52:21 2009
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Mon, 29 Jun 2009 18:52:21 +0200
+Subject: [Kde-women] website
+In-Reply-To: <938b46780906280645x6f60f1ay2a051f9b469878d6@mail.gmail.com>
+References: <938b46780906280645x6f60f1ay2a051f9b469878d6@mail.gmail.com>
+Message-ID: <200906291852.22410.eva.brucherseifer@basyskom.de>
+
+I am fine with it. What do others think?
+Eva
+
+Am So Juni 28 2009 15:45:03 schrieb Lydia Pintscher:
+> Heya folks,
+>
+> we are sitting here at the KDE wiki sprint in Berlin and are looking
+> at all the KDE webpages. http://women.kde.org is horribly outdated and
+> pretty useless as is.
+> Are there any objections to deleting the content and redirect it to a
+> page on the soon to be set up community.kde.org wiki. This page would
+> contain a short project summary and a hint to this mailing list.
+>
+> If no-one opposes within the next 2 weeks I am going to go ahead and
+> get this done as the page in its current form does more harm than good
+> to us.
+>
+>
+> Cheers
+> Lydia
+
+-- 
+Eva Brucherseifer
+Managing Director
+
+basysKom GmbH
+Robert-Bosch-Str. 7 | 64293 Darmstadt | Germany
+Tel: +49 6151 3969-961 | Fax: -736 | Mobile: +49 170 5533642
+eva.brucherseifer at basyskom.de | www.basyskom.de
+
+Handelsregister: Darmstadt HRB 9352
+Geschaeftsfuehrung: Eva Brucherseifer
+
+
+From annemarie.mahfouf at free.fr  Mon Jun 29 19:55:43 2009
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Mon, 29 Jun 2009 19:55:43 +0200
+Subject: [Kde-women] website
+In-Reply-To: <200906291852.22410.eva.brucherseifer@basyskom.de>
+References: <938b46780906280645x6f60f1ay2a051f9b469878d6@mail.gmail.com>
+	<200906291852.22410.eva.brucherseifer@basyskom.de>
+Message-ID: <200906291955.44172.annemarie.mahfouf@free.fr>
+
+On Monday 29 June 2009 18:52:21 Eva Brucherseifer wrote:
+> I am fine with it. What do others think?
+> Eva
+Fine too, thanks Lydia ! :-)
+Best regards,
+
+Anne-Marie
+> Am So Juni 28 2009 15:45:03 schrieb Lydia Pintscher:
+> > Heya folks,
+> >
+> > we are sitting here at the KDE wiki sprint in Berlin and are looking
+> > at all the KDE webpages. http://women.kde.org is horribly outdated and
+> > pretty useless as is.
+> > Are there any objections to deleting the content and redirect it to a
+> > page on the soon to be set up community.kde.org wiki. This page would
+> > contain a short project summary and a hint to this mailing list.
+> >
+> > If no-one opposes within the next 2 weeks I am going to go ahead and
+> > get this done as the page in its current form does more harm than good
+> > to us.
+> >
+> >
+> > Cheers
+> > Lydia
+
+
+From lydia at kde.org  Tue Jun 30 00:03:35 2009
+From: lydia at kde.org (Lydia Pintscher)
+Date: Tue, 30 Jun 2009 00:03:35 +0200
+Subject: [Kde-women] website
+In-Reply-To: <200906291955.44172.annemarie.mahfouf@free.fr>
+References: <938b46780906280645x6f60f1ay2a051f9b469878d6@mail.gmail.com> 
+	<200906291852.22410.eva.brucherseifer@basyskom.de>
+	<200906291955.44172.annemarie.mahfouf@free.fr>
+Message-ID: <938b46780906291503i7908e7d1ge4435d2a55306495@mail.gmail.com>
+
+Ok great :)
+I will get this done soon then. If someone feels like writing a nice
+short intro for the page on community.kde.org please let me know.
+Otherwise I'll try to do that.
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+Amarok community manager
+kde.org - amarok.kde.org - kubuntu.org
+claimid.com/nightrose
+
+From wendy.vancraen at kde.org  Tue Jun 30 11:17:27 2009
+From: wendy.vancraen at kde.org (Wendy Van Craen)
+Date: Tue, 30 Jun 2009 11:17:27 +0200
+Subject: [Kde-women] website
+In-Reply-To: <938b46780906291503i7908e7d1ge4435d2a55306495@mail.gmail.com>
+References: <938b46780906280645x6f60f1ay2a051f9b469878d6@mail.gmail.com> 
+	<200906291852.22410.eva.brucherseifer@basyskom.de>
+	<200906291955.44172.annemarie.mahfouf@free.fr> 
+	<938b46780906291503i7908e7d1ge4435d2a55306495@mail.gmail.com>
+Message-ID: <1cba9b420906300217g5d17fbdfj1a22b12069d15632@mail.gmail.com>
+
+great idea!
+
+So I guess somewhere between the lines I missed something?  Since we
+were discussing about communitybase.kde.org for about months now and
+nobody really reacted on this mailing-list question (promo, www and
+ev-marketing).
+
+I can only be possitive, Lydia, that you are doing a hell of a good job! :-)
+
+
+
+
+Wendy Van Craen
+KDE Promotion & Events
+
+IRC CRAEW
+wendyvancraen.blogspot.com
+
+
+
+2009/6/30 Lydia Pintscher <lydia at kde.org>:
+> Ok great :)
+> I will get this done soon then. If someone feels like writing a nice
+> short intro for the page on community.kde.org please let me know.
+> Otherwise I'll try to do that.
+>
+> Cheers
+> Lydia
+>
+> --
+> Lydia Pintscher
+> Amarok community manager
+> kde.org - amarok.kde.org - kubuntu.org
+> claimid.com/nightrose
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+>
+
+From lydia at kde.org  Tue Jun 30 11:26:16 2009
+From: lydia at kde.org (Lydia Pintscher)
+Date: Tue, 30 Jun 2009 11:26:16 +0200
+Subject: [Kde-women] website
+In-Reply-To: <1cba9b420906300217g5d17fbdfj1a22b12069d15632@mail.gmail.com>
+References: <938b46780906280645x6f60f1ay2a051f9b469878d6@mail.gmail.com> 
+	<200906291852.22410.eva.brucherseifer@basyskom.de>
+	<200906291955.44172.annemarie.mahfouf@free.fr> 
+	<938b46780906291503i7908e7d1ge4435d2a55306495@mail.gmail.com> 
+	<1cba9b420906300217g5d17fbdfj1a22b12069d15632@mail.gmail.com>
+Message-ID: <938b46780906300226u5a4fca7j69abfb1fa19f9cff@mail.gmail.com>
+
+On Tue, Jun 30, 2009 at 11:17, Wendy Van Craen<wendy.vancraen at kde.org> wrote:
+> great idea!
+>
+> So I guess somewhere between the lines I missed something? ?Since we
+> were discussing about communitybase.kde.org for about months now and
+> nobody really reacted on this mailing-list question (promo, www and
+> ev-marketing).
+
+Jep http://community.kde.org has been set up and is being filled with
+stuff from techbase now that doesn't belong there any more. (meaning
+danimo is working on doing automated migration of some pages) The guys
+at the wiki sprint decided against calling it communitybase though and
+to go with community wiki instead. *sob*
+
+http://wiki.kde.org will be a simple landing page with a very short
+intro of each wiki to help people find the right one. Design of that
+is done and needs some magic css and html now before I can put that
+online. And then _finally_ the old wiki.kde.org will be no more \o/
+
+> I can only be possitive, Lydia, that you are doing a hell of a good job! :-)
+
+Thanks :)
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+Amarok community manager
+kde.org - amarok.kde.org - kubuntu.org
+claimid.com/nightrose
+

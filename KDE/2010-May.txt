@@ -1,0 +1,35 @@
+From vid at svaksha.com  Thu May  6 08:00:31 2010
+From: vid at svaksha.com (=?UTF-8?B?IOCkuOCljeCkteCkleCljeCktyA=?=)
+Date: Thu, 6 May 2010 11:45:31 +0545
+Subject: [Kde-women] New list admins required
+In-Reply-To: <k2r12470af01004280510r739243f3ud2c2f62a5acbf860@mail.gmail.com>
+References: <k2r12470af01004280510r739243f3ud2c2f62a5acbf860@mail.gmail.com>
+Message-ID: <h2t12470af01005052300n31f8c94s170678dcdd616ff1@mail.gmail.com>
+
+On Wed, Apr 28, 2010 at 17:55, ?????? <vid at svaksha.com> wrote:
+> Hello All,
+>
+> This mail has been on my to-do list for a long time so here goes.
+> Since I will be busy with gsoc and other floss development work, I
+> would like to reduce the lists I manage, and hand over admin privs of
+> this list to any individual(s) interested in taking over the work of
+> discarding spam messages --not a very hard task to learn so its a nice
+> place to get started if you have a few minutes per day/week. Please
+> introduce yourself to the list and/or mail "kde-women-owner at kde.org".
+> I will keep this open till this weekend and announce my replacements
+> early next week. Its been nice meeting so many of you (virtually) in
+> the years that I have been on this list. Thanks:-)
+
+I meant to post this early this week but life .... Sorry for the
+delay. Today I added Lydia Pintscher <lydia at kde.org> and she along
+with Claire are the two list owners (not just moderators, although
+both names are in that field too) for the kde-women list.  I have
+removed my email from both -owner and moderator fields and sent the
+list password to Lydia in a private mail with a cc to the -owner, so
+please change the password.
+
+ciao,
+-- 
+thanks and regards,
+vid || http://svaksha.com
+

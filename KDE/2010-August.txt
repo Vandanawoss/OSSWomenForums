@@ -1,0 +1,87 @@
+From stormy at gnome.org  Mon Aug 23 20:01:43 2010
+From: stormy at gnome.org (Stormy Peters)
+Date: Mon, 23 Aug 2010 12:01:43 -0600
+Subject: [Kde-women] Free software booth at Grace Hopper
+Message-ID: <AANLkTi=hBEkM7=YD9xLr6M7oz=w6EnKKPY=Eoj6+Wq=M@mail.gmail.com>
+
+Hi KDE Women,
+
+We have a booth to represent free and open source software at Grace
+Hopper[1] this year!
+
+If you will be there and are willing to help out, even if only for a few
+hours, please let me know! You don't have to be an expert, just willing to
+talk about free software, your experience, and point people in the right
+direction.
+
+If you won't be there, but have some stickers or handouts about your project
+that you'd be willing to send, we'd love to have them!
+
+A bit of history: I noticed that there were lots of company booths at Grace
+Hopper but no booths where women could go ask about free software and while
+some of the companies that work with free software were represented, none of
+the free software projects had a booth. So I asked, and Grace Hopper
+generously gave us a free booth.
+
+Thanks in advance for your help!
+
+Stormy
+
+--
+Stormy Peters
+Executive Director
+GNOME Foundation
+
+[1] http://gracehopper.org/2010/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20100823/7a5cf2a5/attachment.htm 
+
+From lydia at kde.org  Mon Aug 23 20:18:39 2010
+From: lydia at kde.org (Lydia Pintscher)
+Date: Mon, 23 Aug 2010 20:18:39 +0200
+Subject: [Kde-women] Free software booth at Grace Hopper
+In-Reply-To: <AANLkTi=hBEkM7=YD9xLr6M7oz=w6EnKKPY=Eoj6+Wq=M@mail.gmail.com>
+References: <AANLkTi=hBEkM7=YD9xLr6M7oz=w6EnKKPY=Eoj6+Wq=M@mail.gmail.com>
+Message-ID: <AANLkTik+LL87RhAixGVrcTE1SGV1FteJQWq_8WbUhdwO@mail.gmail.com>
+
+2010/8/23 Stormy Peters <stormy at gnome.org>:
+> Hi KDE Women,
+> We have a booth to represent free and open source software at Grace
+> Hopper[1] this year!
+> If you will be there and are willing to help out, even if only for a few
+> hours, please let me know! You don't have to be an expert, just willing to
+> talk about free software, your experience, and point people in the right
+> direction.
+> If you won't be there, but have some stickers or handouts about your project
+> that you'd be willing to send, we'd love to have them!
+> A bit of history: I noticed that there were lots of company booths at Grace
+> Hopper but no booths where women could go ask about free software and while
+> some of the companies that work with free software were represented, none of
+> the free software projects had a booth. So I asked, and Grace Hopper
+> generously gave us a free booth.
+> Thanks in advance for your help!
+> Stormy
+> --
+> Stormy Peters
+> Executive Director
+> GNOME Foundation
+> [1]?http://gracehopper.org/2010/
+
+Hi Stormy :)
+
+Thanks for asking.
+I have not heard of anyone of us going to GH this year unfortunately.
+But maybe Claudia can send a few stickers and flyers to you to hand
+out.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+Amarok community manager
+kde.org - amarok.kde.org - kubuntu.org
+claimid.com/nightrose
+

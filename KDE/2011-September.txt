@@ -1,0 +1,377 @@
+From lydia at kde.org  Thu Sep  1 20:57:39 2011
+From: lydia at kde.org (Lydia Pintscher)
+Date: Thu, 1 Sep 2011 22:57:39 +0200
+Subject: [Kde-women] Ada Lovelace Day
+Message-ID: <CAFkLwpXWU=1BgCZYyPjtxzVEeMq5ZYJmGqkjTG0aKoURBq++6g@mail.gmail.com>
+
+Heya ladies :)
+
+Oct. 7th is Ada Lovelace Day and I was wondering if anyone has any
+cool ideas. Last year we did a video with photos of some of us and
+some nice music. What's it gonna be this year? Let's brainstorm a bit.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+KDE Community Working Group member
+http://kde.org - http://about.me/lydia.pintscher
+
+From the.lady.phoenix at gmail.com  Fri Sep  2 02:46:43 2011
+From: the.lady.phoenix at gmail.com (the.lady.phoenix at gmail.com)
+Date: Thu, 1 Sep 2011 22:46:43 -0400
+Subject: [Kde-women] Ada Lovelace Day
+In-Reply-To: <CAFkLwpXWU=1BgCZYyPjtxzVEeMq5ZYJmGqkjTG0aKoURBq++6g@mail.gmail.com>
+References: <CAFkLwpXWU=1BgCZYyPjtxzVEeMq5ZYJmGqkjTG0aKoURBq++6g@mail.gmail.com>
+Message-ID: <CAP1mu2wzwQVP+7_PH+53mZieQvqWtEYOoZ3KJGAm1+KWO4bA+w@mail.gmail.com>
+
+Well, I'm going to see if I can do an Avon Fund-raising Campaign for
+the National Cervical Cancer Coalition.  In the interests of full
+disclosure, I am an Independent Avon Representative.  And well I
+wonder if anyone else thinks that a fundraiser of some sort, to
+support those looking for a cure for the cause of her death would be a
+good way to honour her memory this year.
+
+Looking at all all I've found on her, makes me totally re-imagine the
+stereotypical female programmer from the socially inept geek we all
+see on TV, to a feminine social leader that can be respected by her
+peers as an "Enchantress"/woman and as Programmer (OK in her day it
+was, more like Mathematician and lady versus woman).  In fact it makes
+it more believable to me that until the 1950s, most programmers were
+women, because it was seen as 'light' work, versus the 'hard' work of
+computer engineering.  Makes you wonder what she would have
+accomplished had she not died at the age of 36.
+
+It might not be along the lines of what you were thinking as a
+response, but I think one of the best ways we can honour and celebrate
+those who have led the way and passed on is to do something to better
+the community.  Like for Grace Hopper, I would think a supporting the
+USO or to an organization working on making computers more user
+friendly (like say, any of the OSS community groups?) would be
+appropriate.
+
+Sara
+
+On 01/09/2011, Lydia Pintscher <lydia at kde.org> wrote:
+> Heya ladies :)
+>
+> Oct. 7th is Ada Lovelace Day and I was wondering if anyone has any
+> cool ideas. Last year we did a video with photos of some of us and
+> some nice music. What's it gonna be this year? Let's brainstorm a bit.
+>
+>
+> Cheers
+> Lydia
+>
+> --
+> Lydia Pintscher
+> KDE Community Working Group member
+> http://kde.org - http://about.me/lydia.pintscher
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+>
+
+From valorie.zimmerman at gmail.com  Fri Sep  2 09:29:40 2011
+From: valorie.zimmerman at gmail.com (Valorie Zimmerman)
+Date: Fri, 02 Sep 2011 02:29:40 -0700
+Subject: [Kde-women] Ada Lovelace Day
+In-Reply-To: <CAFkLwpXWU=1BgCZYyPjtxzVEeMq5ZYJmGqkjTG0aKoURBq++6g@mail.gmail.com>
+References: <CAFkLwpXWU=1BgCZYyPjtxzVEeMq5ZYJmGqkjTG0aKoURBq++6g@mail.gmail.com>
+Message-ID: <4E60A204.1000406@gmail.com>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+On 09/01/2011 01:57 PM, Lydia Pintscher wrote:
+> Heya ladies :)
+> 
+> Oct. 7th is Ada Lovelace Day and I was wondering if anyone has any
+> cool ideas. Last year we did a video with photos of some of us and
+> some nice music. What's it gonna be this year? Let's brainstorm a bit.
+> 
+> 
+> Cheers
+> Lydia
+
+
+Blogging is always cool. I did that two years ago, about the women in
+FOSS who have inspired me. This year the Ubuntu-Women are running a
+contest featuring stuff women make.
+
+By the way, it makes me happy to see this list (and the IRC channel)
+being used. :-)
+
+
+- -- 
+http://about.me/valoriez
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org/
+
+iQEcBAEBAgAGBQJOYKIEAAoJEOmkidVOeO2BftgIALh9iydAmRag6acHCEZoaO3g
+OfpJo+4sxWfT9doTbEFZw5NEF04Mj3fCznT3MP1lPgkklhNd+JshoB6WITpt6Zpi
+xv4hlFgSm+uxGo7whJv4aBjOsG1g/Xt8VOXU7Z61/cFG3unyiwKy+BREquQnGy8J
+vf2BL5mdO6LLDHW4eb8pP1CDN7Cxyo3VPLY3bp89qTRGBJgheUBztSthB+ZXvDVn
+S5Q7RgwueBTecIoVD+IFGM45Yrs7K5pXFAMgsNAnwZ3NsehkZxySI1WXqVk1gt0a
+qtx7R0nBvyE3cdiedVu1Q6ifsxry17haWLHgwgTOKHcQAuWx1I8QlGoUzOoCo0U=
+=cXhJ
+-----END PGP SIGNATURE-----
+
+From lydia at kde.org  Tue Sep 27 18:00:42 2011
+From: lydia at kde.org (Lydia Pintscher)
+Date: Tue, 27 Sep 2011 20:00:42 +0200
+Subject: [Kde-women] teacher needed for Ada Lovelace Day tutorial
+Message-ID: <CAFkLwpUOv+mtGS1Yrthmg6TbsNzaJygaF4dH6d9cUwouX94Otg@mail.gmail.com>
+
+Heya folks :)
+
+Ada Lovelace Day is on 7th of October and I and a few other people
+would love to have a programming tutorial on IRC on that day. It'd be
+a "for women and their friends" event, meaning men are welcome if
+they're nice but the main focus are women). The goal of the tutorial
+would be writing a first small KDE application or fixing a bug. If we
+have teachers for both we could also do two tutorials.
+I'm looking for a teacher for this. I and others will help with
+promotion. Any takers?
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+KDE Community Working Group member
+http://kde.org - http://about.me/lydia.pintscher
+
+From lydia at kde.org  Wed Sep 28 20:22:23 2011
+From: lydia at kde.org (Lydia Pintscher)
+Date: Wed, 28 Sep 2011 22:22:23 +0200
+Subject: [Kde-women] teacher needed for Ada Lovelace Day tutorial
+In-Reply-To: <CACk01_wu7S_6eQ4Dj4iWL6e7StYTtKzUG1TKLbkxcLtPQgZJXQ@mail.gmail.com>
+References: <CAFkLwpUOv+mtGS1Yrthmg6TbsNzaJygaF4dH6d9cUwouX94Otg@mail.gmail.com>
+ <CACk01_wu7S_6eQ4Dj4iWL6e7StYTtKzUG1TKLbkxcLtPQgZJXQ@mail.gmail.com>
+Message-ID: <CAFkLwpWoqSs8gGTenxz5ZbERyWVXbgMUy2R2aGHNN+7jH9vJBA@mail.gmail.com>
+
+On Wed, Sep 28, 2011 at 19:08, Tomaz Canabrava <tcanabrava at kde.org> wrote:
+> Must be a woman - teacher?
+
+Not necessarily but it would of course be nice.
+
+> what about annma?
+
+She said she can't promise she'll be available that day so can't do it.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+KDE Community Working Group member
+http://kde.org - http://about.me/lydia.pintscher
+
+From tcanabrava at kde.org  Wed Sep 28 17:08:36 2011
+From: tcanabrava at kde.org (Tomaz Canabrava)
+Date: Wed, 28 Sep 2011 14:08:36 -0300
+Subject: [Kde-women] teacher needed for Ada Lovelace Day tutorial
+In-Reply-To: <CAFkLwpUOv+mtGS1Yrthmg6TbsNzaJygaF4dH6d9cUwouX94Otg@mail.gmail.com>
+References: <CAFkLwpUOv+mtGS1Yrthmg6TbsNzaJygaF4dH6d9cUwouX94Otg@mail.gmail.com>
+Message-ID: <CACk01_wu7S_6eQ4Dj4iWL6e7StYTtKzUG1TKLbkxcLtPQgZJXQ@mail.gmail.com>
+
+Must be a woman - teacher?
+what about annma?
+
+On Tue, Sep 27, 2011 at 3:00 PM, Lydia Pintscher <lydia at kde.org> wrote:
+> Heya folks :)
+>
+> Ada Lovelace Day is on 7th of October and I and a few other people
+> would love to have a programming tutorial on IRC on that day. It'd be
+> a "for women and their friends" event, meaning men are welcome if
+> they're nice but the main focus are women). The goal of the tutorial
+> would be writing a first small KDE application or fixing a bug. If we
+> have teachers for both we could also do two tutorials.
+> I'm looking for a teacher for this. I and others will help with
+> promotion. Any takers?
+>
+>
+> Cheers
+> Lydia
+>
+> --
+> Lydia Pintscher
+> KDE Community Working Group member
+> http://kde.org - http://about.me/lydia.pintscher
+>
+
+From lydia at kde.org  Thu Sep 29 21:05:01 2011
+From: lydia at kde.org (Lydia Pintscher)
+Date: Thu, 29 Sep 2011 23:05:01 +0200
+Subject: [Kde-women] teachers needed for Ada Lovelace Day tutorial
+Message-ID: <CAFkLwpWp7+Hdf-8MHP0B37Ed09=+mWF1CXY3G=sJxAAvqaFVZg@mail.gmail.com>
+
+Heya folks :)
+
+We're planning to have some tutorials on Ada Lovelace Day (7th Oct.).
+It'll be a "for women and their friends" event, meaning men are
+welcome but not the main focus of the event. I have someone doing a
+programming tutorial already. It'd be awesome to have someone else do
+a non-programming tutorial. Bug triage, translation or documentation
+would be great topics for that I think. The tutorials would happen on
+IRC and I'd take care of most of the promotion.
+
+Anyone willing to be a teacher for this? Contact me asap please.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://about.me/lydia.pintscher
+
+From lydia at kde.org  Fri Sep 30 16:05:04 2011
+From: lydia at kde.org (Lydia Pintscher)
+Date: Fri, 30 Sep 2011 18:05:04 +0200
+Subject: [Kde-women] [Bugsquad] teachers needed for Ada Lovelace Day
+	tutorial
+In-Reply-To: <CAGzoOB_7CdUJMUKv9=0eKj5P2Ud9dYK004AU7iK95tO7Q-vr_g@mail.gmail.com>
+References: <CAFkLwpWp7+Hdf-8MHP0B37Ed09=+mWF1CXY3G=sJxAAvqaFVZg@mail.gmail.com>
+ <CAGzoOB_7CdUJMUKv9=0eKj5P2Ud9dYK004AU7iK95tO7Q-vr_g@mail.gmail.com>
+Message-ID: <CAFkLwpWZtT4Gmq+vFtvSGH5wOvnh_BWu+J2escvk9muWjAY_Sw@mail.gmail.com>
+
+On Fri, Sep 30, 2011 at 16:06, Myriam Schweingruber <myriam at kde.org> wrote:
+> On Thu, Sep 29, 2011 at 23:05, Lydia Pintscher <lydia at kde.org> wrote:
+>> Heya folks :)
+>>
+>> We're planning to have some tutorials on Ada Lovelace Day (7th Oct.).
+>> It'll be a "for women and their friends" event, meaning men are
+>> welcome but not the main focus of the event. I have someone doing a
+>> programming tutorial already. It'd be awesome to have someone else do
+>> a non-programming tutorial. Bug triage, translation or documentation
+>> would be great topics for that I think. The tutorials would happen on
+>> IRC and I'd take care of most of the promotion.
+>
+> I am interested in doing a bugsquad introduction: how to give a hand
+> in bug triaging.
+
+Perfect! It's yours. Thanks a lot.
+Could you give me a short blurb for your session and maybe an outline
+if you have that?
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://about.me/lydia.pintscher
+
+From lydia at kde.org  Fri Sep 30 18:14:35 2011
+From: lydia at kde.org (Lydia Pintscher)
+Date: Fri, 30 Sep 2011 20:14:35 +0200
+Subject: [Kde-women] [Bugsquad] teachers needed for Ada Lovelace Day
+	tutorial
+In-Reply-To: <CAGzoOB87=e=fKVwfHkF1TCdmqg83fVyw2PP=m_9Wmq6ghBA_hg@mail.gmail.com>
+References: <CAFkLwpWp7+Hdf-8MHP0B37Ed09=+mWF1CXY3G=sJxAAvqaFVZg@mail.gmail.com>
+ <CAGzoOB_7CdUJMUKv9=0eKj5P2Ud9dYK004AU7iK95tO7Q-vr_g@mail.gmail.com>
+ <CAFkLwpWZtT4Gmq+vFtvSGH5wOvnh_BWu+J2escvk9muWjAY_Sw@mail.gmail.com>
+ <CAGzoOB87=e=fKVwfHkF1TCdmqg83fVyw2PP=m_9Wmq6ghBA_hg@mail.gmail.com>
+Message-ID: <CAFkLwpWZrLSTH-QYabHi_NS-XNjuCQehXV4-eEap4TxJj_+Zzg@mail.gmail.com>
+
+On Fri, Sep 30, 2011 at 19:41, Myriam Schweingruber
+<schweingruber at pharma-traduction.ch> wrote:
+> On Fri, Sep 30, 2011 at 18:05, Lydia Pintscher <lydia at kde.org> wrote:
+>> On Fri, Sep 30, 2011 at 16:06, Myriam Schweingruber <myriam at kde.org> wrote:
+>>> On Thu, Sep 29, 2011 at 23:05, Lydia Pintscher <lydia at kde.org> wrote:
+>>>> Heya folks :)
+>>>>...
+>>> I am interested in doing a bugsquad introduction: how to give a hand
+>>> in bug triaging.
+>>
+>> Perfect! It's yours. Thanks a lot.
+>> Could you give me a short blurb for your session and maybe an outline
+>> if you have that?
+>
+> Yes, of course, I will work on that tonight. How long is a session?
+
+That's pretty much up to you. I'd suggest 30 mins or an hour.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://about.me/lydia.pintscher
+
+From myriam at kde.org  Fri Sep 30 14:06:58 2011
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Fri, 30 Sep 2011 16:06:58 +0200
+Subject: [Kde-women] [Bugsquad] teachers needed for Ada Lovelace Day
+	tutorial
+In-Reply-To: <CAFkLwpWp7+Hdf-8MHP0B37Ed09=+mWF1CXY3G=sJxAAvqaFVZg@mail.gmail.com>
+References: <CAFkLwpWp7+Hdf-8MHP0B37Ed09=+mWF1CXY3G=sJxAAvqaFVZg@mail.gmail.com>
+Message-ID: <CAGzoOB_7CdUJMUKv9=0eKj5P2Ud9dYK004AU7iK95tO7Q-vr_g@mail.gmail.com>
+
+On Thu, Sep 29, 2011 at 23:05, Lydia Pintscher <lydia at kde.org> wrote:
+> Heya folks :)
+>
+> We're planning to have some tutorials on Ada Lovelace Day (7th Oct.).
+> It'll be a "for women and their friends" event, meaning men are
+> welcome but not the main focus of the event. I have someone doing a
+> programming tutorial already. It'd be awesome to have someone else do
+> a non-programming tutorial. Bug triage, translation or documentation
+> would be great topics for that I think. The tutorials would happen on
+> IRC and I'd take care of most of the promotion.
+
+I am interested in doing a bugsquad introduction: how to give a hand
+in bug triaging.
+
+Regards, Myriam
+
+-- 
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+
+From schweingruber at pharma-traduction.ch  Fri Sep 30 17:41:03 2011
+From: schweingruber at pharma-traduction.ch (Myriam Schweingruber)
+Date: Fri, 30 Sep 2011 19:41:03 +0200
+Subject: [Kde-women] [Bugsquad] teachers needed for Ada Lovelace Day
+	tutorial
+In-Reply-To: <CAFkLwpWZtT4Gmq+vFtvSGH5wOvnh_BWu+J2escvk9muWjAY_Sw@mail.gmail.com>
+References: <CAFkLwpWp7+Hdf-8MHP0B37Ed09=+mWF1CXY3G=sJxAAvqaFVZg@mail.gmail.com>
+ <CAGzoOB_7CdUJMUKv9=0eKj5P2Ud9dYK004AU7iK95tO7Q-vr_g@mail.gmail.com>
+ <CAFkLwpWZtT4Gmq+vFtvSGH5wOvnh_BWu+J2escvk9muWjAY_Sw@mail.gmail.com>
+Message-ID: <CAGzoOB87=e=fKVwfHkF1TCdmqg83fVyw2PP=m_9Wmq6ghBA_hg@mail.gmail.com>
+
+On Fri, Sep 30, 2011 at 18:05, Lydia Pintscher <lydia at kde.org> wrote:
+> On Fri, Sep 30, 2011 at 16:06, Myriam Schweingruber <myriam at kde.org> wrote:
+>> On Thu, Sep 29, 2011 at 23:05, Lydia Pintscher <lydia at kde.org> wrote:
+>>> Heya folks :)
+>>>...
+>> I am interested in doing a bugsquad introduction: how to give a hand
+>> in bug triaging.
+>
+> Perfect! It's yours. Thanks a lot.
+> Could you give me a short blurb for your session and maybe an outline
+> if you have that?
+
+Yes, of course, I will work on that tonight. How long is a session?
+
+
+Regards, Myriam.
+-- 
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+

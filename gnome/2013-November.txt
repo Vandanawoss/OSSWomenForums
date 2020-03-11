@@ -1,0 +1,973 @@
+From mariaeugeniaraulino@gmail.com  Fri Nov  1 12:00:29 2013
+Return-Path: <mariaeugeniaraulino@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 7C99D762E6
+	for <gnome-women-list@mail.gnome.org>;
+	Fri,  1 Nov 2013 12:00:29 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.001
+X-Spam-Level: 
+X-Spam-Status: No, score=0.001 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id GkenHnUJdwx8 for <gnome-women-list@mail.gnome.org>;
+	Fri,  1 Nov 2013 12:00:24 +0000 (UTC)
+Received: from mail-ie0-f169.google.com (mail-ie0-f169.google.com
+	[209.85.223.169])
+	by restaurant.gnome.org (Postfix) with ESMTP id C49CA7631B
+	for <gnome-women-list@mail.gnome.org>;
+	Fri,  1 Nov 2013 12:00:13 +0000 (UTC)
+Received: by mail-ie0-f169.google.com with SMTP id ar20so7227523iec.14
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 01 Nov 2013 05:00:12 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=aCquNcG1VIUEdhHQtc7Bpu052rKj/42YWZK0k41lbWM=;
+	b=xE+0anwnfwJl1Y9JIMltDF8o/C6uaRyh7sS91rmGYdi4OZuBUwNLJ+1oN81ECNMv49
+	GYYKXftJfvSyPCWSgrbjIU4SQTFQj3Mfd+JAz87zyXCHBMTJQXwTN9w804ruszm7nGDp
+	iUz6brM3k/8pditeBtAVQrAnn9gqFsNeAczegg8KhOaN3LJuamTbPKpA6A5MFStrSxDE
+	Emvo99GCdjklAPqTHzU9zvLtq6kCHc8UBC7FgBlHlHKhJrKPZtBhrDahv/wR3tBajwXt
+	tAFBCrmqEpGN/K88zTx6CocjIDoxgsVKTBNSNKXE1hQui5NGPMHeYPncnksisEhODAun
+	EM0Q==
+MIME-Version: 1.0
+X-Received: by 10.43.80.67 with SMTP id zt3mr1611913icb.23.1383307212389; Fri,
+	01 Nov 2013 05:00:12 -0700 (PDT)
+Received: by 10.64.240.103 with HTTP; Fri, 1 Nov 2013 05:00:12 -0700 (PDT)
+Date: Fri, 1 Nov 2013 10:00:12 -0200
+Message-ID: <CALr1--L6u821RpJpnOCSXODgRTK8pKcZQOu_z9F2kW2jRZ_tbg@mail.gmail.com>
+From: Maria Eugenia Raulino <mariaeugeniaraulino@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=001a1133326a02967004ea1c4fc3
+Subject: [gnome-women] My interests
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 01 Nov 2013 12:00:29 -0000
+
+--001a1133326a02967004ea1c4fc3
+Content-Type: text/plain; charset=ISO-8859-1
+
+What GNOME projects would you like to contribute to?
+I would like to contribute with The GNOME Marketing
+Team<http://live.gnome.org/MarketingTeam>
+
+What kind of contributions would you like to make?
+I can help with the interface and posters, artwork, icons. I am a designer
+so all that envolves that i can do.
+
+--001a1133326a02967004ea1c4fc3
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>What GNOME projects would you like to contribute to? =
+<br></div>I would like to contribute with <a class=3D"" href=3D"http://live=
+.gnome.org/MarketingTeam">The GNOME Marketing Team</a><br><br><div>What kin=
+d of contributions would you like to make?<br>
+I can help with the interface and posters, artwork, icons. I am a designer =
+so all that envolves that i can do. <br></div></div>
+
+--001a1133326a02967004ea1c4fc3--
+From hnasarat@gmail.com  Fri Nov  1 12:56:42 2013
+Return-Path: <hnasarat@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 4DB4B762E5
+	for <gnome-women-list@mail.gnome.org>;
+	Fri,  1 Nov 2013 12:56:42 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0
+X-Spam-Level: 
+X-Spam-Status: No, score=0 tagged_above=-999 required=2 tests=[BAYES_50=0.8,
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001]
+	autolearn=unavailable
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id X4H6Vo-1obxu for <gnome-women-list@mail.gnome.org>;
+	Fri,  1 Nov 2013 12:56:37 +0000 (UTC)
+Received: from mail-qc0-f177.google.com (mail-qc0-f177.google.com
+	[209.85.216.177])
+	by restaurant.gnome.org (Postfix) with ESMTP id 7E301762EC
+	for <gnome-women-list@mail.gnome.org>;
+	Fri,  1 Nov 2013 12:56:26 +0000 (UTC)
+Received: by mail-qc0-f177.google.com with SMTP id u18so2398608qcx.22
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 01 Nov 2013 05:56:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=message-id:date:from:user-agent:mime-version:to:subject:references
+	:in-reply-to:content-type:content-transfer-encoding;
+	bh=LeiiftNy/qs2+UatQpwsl0JMlwi5rp3EjpRAJRP/nGY=;
+	b=gL89Zw1nDJYenwQ1uwkYeaMe1abeMF9r8ZGJ7H8La+bZDc1ZkmmiGpgosKf0GEoT6C
+	RvZzPxtmuaL+sINwFjnF+/xqJAFqyNsJN16s6zP9a01apSHLC7x7vLaEYehWhf+3g/YU
+	M1ARzeW0X0Okz2ExOGbTMypo0YxbmUvRpG6RoqdW5ByOColobIHw5iLv0djtgU7JPKTr
+	u/SNhTVet8rxL2x4d51JE8uHNAW76LJPCntQpu+Lqbh1mybO89IiBhaNCt+a8fnFZGOU
+	cICGPtQbUFlGOzDnGElytn3ss7dUrJA1Bch+itLqsLMBH/aRFQQxghgFnsCWJW3i8Lb7
+	kyLA==
+X-Received: by 10.224.98.200 with SMTP id r8mr3773461qan.26.1383310584986;
+	Fri, 01 Nov 2013 05:56:24 -0700 (PDT)
+Received: from [192.168.1.137] (c-66-31-36-232.hsd1.ma.comcast.net.
+	[66.31.36.232])
+	by mx.google.com with ESMTPSA id e7sm20636823qag.7.2013.11.01.05.56.24
+	for <multiple recipients>
+	(version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+	Fri, 01 Nov 2013 05:56:24 -0700 (PDT)
+Message-ID: <5273A4F7.50507@gmail.com>
+Date: Fri, 01 Nov 2013 08:56:23 -0400
+From: Hashem Nasarat <hnasarat@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64;
+	rv:24.0) Gecko/20100101 Thunderbird/24.0
+MIME-Version: 1.0
+To: Maria Eugenia Raulino <mariaeugeniaraulino@gmail.com>, 
+	gnome-women-list@mail.gnome.org, engagement-list@gnome.org
+References: <CALr1--L6u821RpJpnOCSXODgRTK8pKcZQOu_z9F2kW2jRZ_tbg@mail.gmail.com>
+In-Reply-To: <CALr1--L6u821RpJpnOCSXODgRTK8pKcZQOu_z9F2kW2jRZ_tbg@mail.gmail.com>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Subject: Re: [gnome-women] My interests
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 01 Nov 2013 12:56:42 -0000
+
+Glad to hear you're interested!
+I'm including the engagement team (formerly the marketing team) on this.
+
+Best of luck!
+
+On 11/01/2013 08:00 AM, Maria Eugenia Raulino wrote:
+> What GNOME projects would you like to contribute to?
+> I would like to contribute with The GNOME Marketing Team
+> <http://live.gnome.org/MarketingTeam>
+> 
+> What kind of contributions would you like to make?
+> I can help with the interface and posters, artwork, icons. I am a
+> designer so all that envolves that i can do.
+> 
+> 
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+> 
+From papa.nikoleta@ymail.com  Thu Nov  7 20:21:19 2013
+Return-Path: <papa.nikoleta@ymail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id D0C45765AC
+	for <gnome-women-list@gnome.org>; Thu,  7 Nov 2013 20:21:19 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.702
+X-Spam-Level: 
+X-Spam-Status: No, score=0.702 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id 9q6p5bgCEFxJ for <gnome-women-list@gnome.org>;
+	Thu,  7 Nov 2013 20:21:14 +0000 (UTC)
+Received: from nm25-vm0.bullet.mail.ne1.yahoo.com
+	(nm25-vm0.bullet.mail.ne1.yahoo.com [98.138.91.73])
+	by restaurant.gnome.org (Postfix) with ESMTP id A362F762E9
+	for <gnome-women-list@gnome.org>; Thu,  7 Nov 2013 20:21:03 +0000 (UTC)
+Received: from [98.138.226.178] by nm25.bullet.mail.ne1.yahoo.com with NNFMP;
+	07 Nov 2013 20:21:02 -0000
+Received: from [98.138.87.9] by tm13.bullet.mail.ne1.yahoo.com with NNFMP;
+	07 Nov 2013 20:21:02 -0000
+Received: from [127.0.0.1] by omp1009.mail.ne1.yahoo.com with NNFMP;
+	07 Nov 2013 20:21:02 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 243660.59778.bm@omp1009.mail.ne1.yahoo.com
+Received: (qmail 90444 invoked by uid 60001); 7 Nov 2013 20:21:02 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=ymail.com; s=s1024;
+	t=1383855661; bh=GRZx6Qg6cgBTN5BB+bNzIqJ/MTRobrjhjrsuMMmvF4U=;
+	h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+	b=FR75jL1LPdHQ4qXlVD4T65RjLAjXSDKeduTXi9qMxpGLDiow/Jl+xjWiqanwhmtKH4F/YWFJeJ6bKME14d3B3h4YU1usUEkMBSI2Hqwt+sbSV8ztW9GQ+AKb3RJ9cri52oT2kFzFU1waROdBooFmATkvqGVlb6uq5vnqQNuHtvY=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s1024; d=ymail.com;
+	h=X-YMail-OSG:Received:X-Rocket-MIMEInfo:X-Mailer:References:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+	b=p9YcB68aG/8u9b/h2MRyzY/3OA9iUcdmhPAbe2FLU3Aq0cMRaTs0GQJX92/bWJ/STVHw45QnYeLxxWpGO7J3lto1XwOpubsOYpg9tGlzqkRt56ma1z2MS4ByteiEQVa0lS/0MMa3QqrzDSkMFVTGWIsSUjSnudIydC8dgAt5Dro=;
+X-YMail-OSG: SLxYhigVM1m5ZF7_vik7VZqjWIDdcMrRxM9gDzV1OAsh6R.
+	Rjrti.oq52exFMFFANpb2dKPDvGkgPAzBlUfTqQKGdxVLplzufmBkPq3aJK3
+	dPoKUxexNxNTMdcGAc4uFG2JahQn2IUYc.eL.z2epHJPrJmUDXoc1AWhnMMM
+	Qz9oh8es0g9DzG7XH2BV.9SQPh2NreDi6DaO0TjKGzgB7COmHzH0C6pPBlKT
+	LeVw5IwiAdgz75hWTPR.nKuImHxWcTEWBuv1kEKoEF4lJ8d1MXgLQb1gps6b
+	rq.hXdd5CEDCWhbNa8q1vkT_0I0i_JgUBAC81y_RkubXFLzLpOL.1tN7w.z_
+	73uKhlBVN.Fd_Qxv9GvRMsLtiH3vT9XQ0_TOvgGhROnigPQThrQ2nVGJ44.p
+	9f9hIXJAl0UbQVNygzP.sB4Hgxs1Luhl9iVXn5ozAfA_V3KpPfsoj12oXaUx
+	TN2oRY5D4Xn6TdhzvW_WI1VRO.7nx0yCt7AFOIHgRC4pm36EdjpDrBOfYxBc
+	FBoOzTiLRiiXy7KUqf1NSmAySpdInmLaZzCTvUlEIuz1Es4PMRuVfPVrwxY3
+	XZChF.qgpiusBnW7HMJ7yHD9exKnTAGgADt664lU8TrpmOr2LnnA_Im4ny.0
+	4DEHix8YF6blx7hju8Q0WEgUdugM53LfhjhkZnEG3XADIig--
+Received: from [37.6.157.136] by web120806.mail.ne1.yahoo.com via HTTP;
+	Thu, 07 Nov 2013 12:21:01 PST
+X-Rocket-MIMEInfo: 002.001,
+	SGVsbG8gR25vbWUsCgoKwqDCoMKgIE15IG5hbWUgaXMgTmlrb2xldGEgUGFwYW5hc3Rhc2lvdSBhbmQgSSBhbSBhIHN0dWRlbnQgb2YgSW5mb3JtYXRpb24gClRlY2hub2xvZ3kgLSBBcHBsaWVkIEluZm9ybWF0aWNzIGRlcGFydG1lbnQsIFVuaXZlcnNpdHkgb2YgTWFjZWRvbmlhIAooVGhlc3NhbG9uaWtpLCBHcmVlY2UpIGFuZCBJJ20gaW4gbXkgbGFzdCB5ZWFyIG9mIHN0dWRpZXMuIAoKwqDCoMKgIEkgZmlyc3QgaGVhcmQgYWJvdXQgR25vbWUgb24gVHVlc2RheSBPY3RvYmVyIDIybmQsIHdoZW4gTGludXgBMAEBAQE-
+X-Mailer: YahooMailWebService/0.8.163.597
+References: 
+Message-ID: <1383855661.89466.YahooMailNeo@web120806.mail.ne1.yahoo.com>
+Date: Thu, 7 Nov 2013 12:21:01 -0800 (PST)
+From: Nikoleta Papa <papa.nikoleta@ymail.com>
+To: "gnome-women-list@gnome.org" <gnome-women-list@gnome.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="-1338226463-1714223604-1383855661=:89466"
+Subject: [gnome-women] WomenInGnome
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+Reply-To: Nikoleta Papa <papa.nikoleta@ymail.com>
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 07 Nov 2013 20:21:19 -0000
+
+---1338226463-1714223604-1383855661=:89466
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello Gnome,=0A=0A=0A=A0=A0=A0 My name is Nikoleta Papanastasiou and I am a=
+ student of Information =0ATechnology - Applied Informatics department, Uni=
+versity of Macedonia =0A(Thessaloniki, Greece) and I'm in my last year of s=
+tudies. =0A=0A=A0=A0=A0 I first heard about Gnome on Tuesday October 22nd, =
+when Linux and Free =0ASoftware Community of University of Macedonia gather=
+ed as team and had =0Atheir initial event to promote GNU/Linux to our =0Aun=
+iversity. I was informed by Stathis Iosifidis  about Gnome and OPW as =0Amu=
+ch as impressed by this interesting approach of programming, which =0Aintro=
+duces women to the computer world. So, I joined the Gnome =0Amailing-list a=
+nd also the Facebook page "women in GNOME".=0A=0A=A0=A0=A0 As long as the p=
+resent ideas of the list include programing languages =0Athat I'm not famil=
+iar with, I'm mainly and mostly interested in Stathis Iosifidis' idea about=
+ translating part of the "help gnome" page. =0A=A0=A0=A0 =0A=A0=A0 I have a=
+lready translated epiphany.help.master.el=A0 ( link: https://l10n.gnome.org=
+/vertimus/epiphany/master/help/el )=A0 to get used to the the translation p=
+rocess and I'm going for more...I'd like to know more about the internship,=
+ such as how can I get the approvement to participate in OPW.=0A=0A=0AThank=
+ you in advance!!=A0 
+---1338226463-1714223604-1383855661=:89466
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:He=
+lveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;fo=
+nt-size:12pt"><div id=3D"yiv4188760525"><div><div style=3D"color:#000;backg=
+round-color:#fff;font-family:HelveticaNeue, Helvetica Neue, Helvetica, Aria=
+l, Lucida Grande, sans-serif;font-size:12pt;"><div id=3D"yiv4188760525"><di=
+v><div class=3D"yiv4188760525yui_3_13_0_1_1383416277278_13775" style=3D"col=
+or:#000;background-color:#fff;font-family:HelveticaNeue, Helvetica Neue, He=
+lvetica, Arial, Lucida Grande, sans-serif;font-size:12pt;"><div id=3D"yiv41=
+88760525"><div><div class=3D"yiv4188760525yui_3_13_0_1_1383416277278_11400 =
+yiv4188760525yui_3_13_0_1_1383416277278_13776" style=3D"color:#000;backgrou=
+nd-color:#fff;font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, =
+Lucida Grande, sans-serif;font-size:12pt;"><div id=3D"yiv4188760525yui_3_13=
+_0_8_1383416277278_7"><span id=3D"yiv4188760525yui_3_13_0_7_1383081682821_9=
+9" class=3D"">=0A </span>Hello Gnome,<br><br><br><span id=3D"yiv4188760525y=
+ui_3_13_0_7_1383081682821_95" class=3D"">&nbsp;&nbsp;&nbsp; </span>My=0A na=
+me is Nikoleta Papanastasiou and I am a student of Information =0ATechnolog=
+y - Applied Informatics department, University of Macedonia =0A(Thessalonik=
+i, Greece) and I'm in my last year of studies. <br><br><span id=3D"yiv41887=
+60525yui_3_13_0_7_1383081682821_91" class=3D"">&nbsp;&nbsp;&nbsp; </span>I=
+=0A first heard about Gnome on Tuesday October 22nd, when Linux and Free =
+=0ASoftware Community of University of Macedonia gathered as team and had =
+=0Atheir initial event to promote GNU/Linux to our =0Auniversity. I was inf=
+ormed by Stathis Iosifidis  about Gnome and OPW as =0Amuch as impressed by =
+this interesting approach of programming, which =0Aintroduces women to the =
+computer world. So, I joined the Gnome =0Amailing-list and also the Faceboo=
+k page "women in GNOME".<br><br><span id=3D"yiv4188760525yui_3_13_0_7_13830=
+81682821_436" class=3D"">&nbsp;&nbsp;&nbsp;=0A As long as the present ideas=
+ of the list include programing languages =0Athat I'm not familiar with, I'=
+m mainly and mostly interested in </span><span id=3D"yiv4188760525yui_3_13_=
+0_7_1383081682821_436" class=3D"">Stathis Iosifidis' idea about translating=
+</span> part of the "help gnome" page. <span class=3D""></span><span class=
+=3D""><br></span><span class=3D"">&nbsp;&nbsp;&nbsp; <br></span><span class=
+=3D"">&nbsp;&nbsp;</span> I have already translated epiphany.help.master.el=
+&nbsp; ( link: https://l10n.gnome.org/vertimus/epiphany/master/help/el )&nb=
+sp; to get used to the <span id=3D"result_box" class=3D"" lang=3D"en"><span=
+ class=3D"">the</span> <span class=3D"">translation process </span></span>a=
+nd I'm going for more...<span class=3D""> </span>I'd like to know more abou=
+t the internship, such as how can I get the approvement to participate in O=
+PW.<br><br><br>Thank you in advance!!&nbsp;=0A </div></div></div></div></di=
+v></div></div></div></div></div></div></body></html>
+---1338226463-1714223604-1383855661=:89466--
+From jinca@pucp.pe  Sat Nov  9 00:21:22 2013
+Return-Path: <jinca@pucp.pe>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 5F13F76316
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  9 Nov 2013 00:21:22 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.1
+X-Spam-Level: 
+X-Spam-Status: No, score=0.1 tagged_above=-999 required=2 tests=[BAYES_50=0.8, 
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id vA80khddDeMI for <gnome-women-list@mail.gnome.org>;
+	Sat,  9 Nov 2013 00:21:18 +0000 (UTC)
+Received: from mail-ob0-f178.google.com (mail-ob0-f178.google.com
+	[209.85.214.178])
+	by restaurant.gnome.org (Postfix) with ESMTP id 75A73762E3
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  9 Nov 2013 00:21:07 +0000 (UTC)
+Received: by mail-ob0-f178.google.com with SMTP id va2so2188589obc.23
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 08 Nov 2013 16:21:06 -0800 (PST)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=1e100.net; s=20130820;
+	h=x-gm-message-state:mime-version:in-reply-to:references:date
+	:message-id:subject:from:to:content-type;
+	bh=bBdvnicAU54XbaaAThhsKu11X6dT9yYC4TFsjs8aWPI=;
+	b=Vc4udDa8SIogN5MlfRW8fCSeqUVtpb6uvUFgRNwoenAkhi821myzIZH21JHZ9K/3zh
+	Ipq1JbbMacm1/rZy5db7BUYGgOTznEyDMmxG7evx+Y6ELWbPJAREOgPbLQLlhtvz16HA
+	A57rsbYmkoDWxw36ia7otReapNxfNqcOCyjczR7t5gV4CdwDXbQDKifpLh2/YawLBAdq
+	m3Ct7ZM8W4uv8nmX/yYY02YYoOUS65neTdoGoABnuNJNqPhuW4yx3qmV3mqVZstgZ8+q
+	xxF+zsQzrvxpoa1XhEVrKgZ+ry2IjxJb7O+B24/NusYXvvmEgM2QqpxiVrlCXqYEdRkK
+	wZPw==
+X-Gm-Message-State: ALoCoQlYq2jTtrBupy5SroHWrYp88UBKpQt0v8/fhLuZy3jMXk/+iMmvLx//NpRzAfo4fURNMRdb
+MIME-Version: 1.0
+X-Received: by 10.182.81.197 with SMTP id c5mr7040315oby.40.1383956466074;
+	Fri, 08 Nov 2013 16:21:06 -0800 (PST)
+Received: by 10.76.86.103 with HTTP; Fri, 8 Nov 2013 16:21:06 -0800 (PST)
+In-Reply-To: <mailman.29.1383912002.8730.gnome-women-list@mail.gnome.org>
+References: <mailman.29.1383912002.8730.gnome-women-list@mail.gnome.org>
+Date: Fri, 8 Nov 2013 19:21:06 -0500
+Message-ID: <CAFP92tyyr4-sYJPA-x6U4SbRP7-FcY56UAO26H5jdMU=xe_OZg@mail.gmail.com>
+From: Julita Inca Chiroque <jinca@pucp.pe>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=047d7b2e4d588b9cce04eab379aa
+Subject: Re: [gnome-women] gnome-women-list Digest, Vol 65, Issue 3
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 09 Nov 2013 00:21:22 -0000
+
+--047d7b2e4d588b9cce04eab379aa
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Nikoleta,
+
+Yes, you are right, I read one mentor for translation in Greek is  [01]
+
+You can follow step by step the reading og the Wiki about the program [02]
+and may present a form with ideas based on [03],
+then the document can bereviewed by your "mentor", in this case [01]
+
+
+Bests regards and good luck!,
+Julita Inca
+
+
+[01] https://wiki.gnome.org/EfstathiosIosifidis
+
+[02] https://wiki.gnome.org/OutreachProgramForWomen
+
+[03] https://wiki.gnome.org/GnomeWomen/OutreachProgram/2013/DecemberMarch
+
+
+2013/11/8 <gnome-women-list-request@mail.gnome.org>
+
+> Send gnome-women-list mailing list submissions to
+>         gnome-women-list@mail.gnome.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>         https://mail.gnome.org/mailman/listinfo/gnome-women-list
+> or, via email, send a message with subject or body 'help' to
+>         gnome-women-list-request@mail.gnome.org
+>
+> You can reach the person managing the list at
+>         gnome-women-list-owner@mail.gnome.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of gnome-women-list digest..."
+>
+>
+> Today's Topics:
+>
+>    1.  WomenInGnome (Nikoleta Papa)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Thu, 7 Nov 2013 12:21:01 -0800 (PST)
+> From: Nikoleta Papa <papa.nikoleta@ymail.com>
+> To: "gnome-women-list@gnome.org" <gnome-women-list@gnome.org>
+> Subject: [gnome-women] WomenInGnome
+> Message-ID:
+>         <1383855661.89466.YahooMailNeo@web120806.mail.ne1.yahoo.com>
+> Content-Type: text/plain; charset="iso-8859-1"
+>
+> Hello Gnome,
+>
+>
+> ??? My name is Nikoleta Papanastasiou and I am a student of Information
+> Technology - Applied Informatics department, University of Macedonia
+> (Thessaloniki, Greece) and I'm in my last year of studies.
+>
+> ??? I first heard about Gnome on Tuesday October 22nd, when Linux and Free
+> Software Community of University of Macedonia gathered as team and had
+> their initial event to promote GNU/Linux to our
+> university. I was informed by Stathis Iosifidis  about Gnome and OPW as
+> much as impressed by this interesting approach of programming, which
+> introduces women to the computer world. So, I joined the Gnome
+> mailing-list and also the Facebook page "women in GNOME".
+>
+> ??? As long as the present ideas of the list include programing languages
+> that I'm not familiar with, I'm mainly and mostly interested in Stathis
+> Iosifidis' idea about translating part of the "help gnome" page.
+> ???
+> ?? I have already translated epiphany.help.master.el? ( link:
+> https://l10n.gnome.org/vertimus/epiphany/master/help/el )? to get used to
+> the the translation process and I'm going for more...I'd like to know more
+> about the internship, such as how can I get the approvement to participate
+> in OPW.
+>
+>
+> Thank you in advance!!?
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <
+> https://mail.gnome.org/archives/gnome-women-list/attachments/20131107/a43b025a/attachment.html
+> >
+>
+> ------------------------------
+>
+> Subject: Digest Footer
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+> ------------------------------
+>
+> End of gnome-women-list Digest, Vol 65, Issue 3
+> ***********************************************
+>
+
+--047d7b2e4d588b9cce04eab379aa
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div>Hi  Nikoleta,<br><br></div><div>Yes, you are rig=
+ht, I read one mentor for translation in Greek is=A0 [01]<br><br></div><div=
+>You can follow step by step the reading og the Wiki about the program [02]=
+ <br>
+and may present a form with ideas based on [03], <br>then the document can =
+bereviewed by your &quot;mentor&quot;, in this case [01]<br></div><div><br>=
+</div><div><br></div>Bests regards and good luck!,<br></div>Julita Inca <br=
+>
+<br><br>[01] <a href=3D"https://wiki.gnome.org/EfstathiosIosifidis">https:/=
+/wiki.gnome.org/EfstathiosIosifidis</a><br><br>[02] <a href=3D"https://wiki=
+.gnome.org/OutreachProgramForWomen">https://wiki.gnome.org/OutreachProgramF=
+orWomen</a><br>
+<br>[03] <a href=3D"https://wiki.gnome.org/GnomeWomen/OutreachProgram/2013/=
+DecemberMarch">https://wiki.gnome.org/GnomeWomen/OutreachProgram/2013/Decem=
+berMarch</a><br></div><div class=3D"gmail_extra"><br><br><div class=3D"gmai=
+l_quote">
+2013/11/8  <span dir=3D"ltr">&lt;<a href=3D"mailto:gnome-women-list-request=
+@mail.gnome.org" target=3D"_blank">gnome-women-list-request@mail.gnome.org<=
+/a>&gt;</span><br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .=
+8ex;border-left:1px #ccc solid;padding-left:1ex">
+Send gnome-women-list mailing list submissions to<br>
+=A0 =A0 =A0 =A0 <a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-wo=
+men-list@mail.gnome.org</a><br>
+<br>
+To subscribe or unsubscribe via the World Wide Web, visit<br>
+=A0 =A0 =A0 =A0 <a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-wo=
+men-list" target=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-w=
+omen-list</a><br>
+or, via email, send a message with subject or body &#39;help&#39; to<br>
+=A0 =A0 =A0 =A0 <a href=3D"mailto:gnome-women-list-request@mail.gnome.org">=
+gnome-women-list-request@mail.gnome.org</a><br>
+<br>
+You can reach the person managing the list at<br>
+=A0 =A0 =A0 =A0 <a href=3D"mailto:gnome-women-list-owner@mail.gnome.org">gn=
+ome-women-list-owner@mail.gnome.org</a><br>
+<br>
+When replying, please edit your Subject line so it is more specific<br>
+than &quot;Re: Contents of gnome-women-list digest...&quot;<br>
+<br>
+<br>
+Today&#39;s Topics:<br>
+<br>
+=A0 =A01. =A0WomenInGnome (Nikoleta Papa)<br>
+<br>
+<br>
+----------------------------------------------------------------------<br>
+<br>
+Message: 1<br>
+Date: Thu, 7 Nov 2013 12:21:01 -0800 (PST)<br>
+From: Nikoleta Papa &lt;<a href=3D"mailto:papa.nikoleta@ymail.com">papa.nik=
+oleta@ymail.com</a>&gt;<br>
+To: &quot;<a href=3D"mailto:gnome-women-list@gnome.org">gnome-women-list@gn=
+ome.org</a>&quot; &lt;<a href=3D"mailto:gnome-women-list@gnome.org">gnome-w=
+omen-list@gnome.org</a>&gt;<br>
+Subject: [gnome-women] WomenInGnome<br>
+Message-ID:<br>
+=A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:1383855661.89466.YahooMailNeo@web1208=
+06.mail.ne1.yahoo.com">1383855661.89466.YahooMailNeo@web120806.mail.ne1.yah=
+oo.com</a>&gt;<br>
+Content-Type: text/plain; charset=3D&quot;iso-8859-1&quot;<br>
+<br>
+Hello Gnome,<br>
+<br>
+<br>
+??? My name is Nikoleta Papanastasiou and I am a student of Information<br>
+Technology - Applied Informatics department, University of Macedonia<br>
+(Thessaloniki, Greece) and I&#39;m in my last year of studies.<br>
+<br>
+??? I first heard about Gnome on Tuesday October 22nd, when Linux and Free<=
+br>
+Software Community of University of Macedonia gathered as team and had<br>
+their initial event to promote GNU/Linux to our<br>
+university. I was informed by Stathis Iosifidis =A0about Gnome and OPW as<b=
+r>
+much as impressed by this interesting approach of programming, which<br>
+introduces women to the computer world. So, I joined the Gnome<br>
+mailing-list and also the Facebook page &quot;women in GNOME&quot;.<br>
+<br>
+??? As long as the present ideas of the list include programing languages<b=
+r>
+that I&#39;m not familiar with, I&#39;m mainly and mostly interested in Sta=
+this Iosifidis&#39; idea about translating part of the &quot;help gnome&quo=
+t; page.<br>
+???<br>
+?? I have already translated epiphany.help.master.el? ( link: <a href=3D"ht=
+tps://l10n.gnome.org/vertimus/epiphany/master/help/el" target=3D"_blank">ht=
+tps://l10n.gnome.org/vertimus/epiphany/master/help/el</a> )? to get used to=
+ the the translation process and I&#39;m going for more...I&#39;d like to k=
+now more about the internship, such as how can I get the approvement to par=
+ticipate in OPW.<br>
+
+<br>
+<br>
+Thank you in advance!!?<br>
+-------------- next part --------------<br>
+An HTML attachment was scrubbed...<br>
+URL: &lt;<a href=3D"https://mail.gnome.org/archives/gnome-women-list/attach=
+ments/20131107/a43b025a/attachment.html" target=3D"_blank">https://mail.gno=
+me.org/archives/gnome-women-list/attachments/20131107/a43b025a/attachment.h=
+tml</a>&gt;<br>
+
+<br>
+------------------------------<br>
+<br>
+Subject: Digest Footer<br>
+<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+>
+<br>
+------------------------------<br>
+<br>
+End of gnome-women-list Digest, Vol 65, Issue 3<br>
+***********************************************<br>
+</blockquote></div><br></div>
+
+--047d7b2e4d588b9cce04eab379aa--
+From sfmaraki@hotmail.com  Sun Nov 10 22:00:40 2013
+Return-Path: <sfmaraki@hotmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id D8408762F0
+	for <gnome-women-list@gnome.org>; Sun, 10 Nov 2013 22:00:40 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.245
+X-Spam-Level: 
+X-Spam-Status: No, score=0.245 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, RP_MATCHES_RCVD=-0.556, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id Nn0PiQahn57R for <gnome-women-list@gnome.org>;
+	Sun, 10 Nov 2013 22:00:35 +0000 (UTC)
+X-Greylist: delayed 338 seconds by postgrey-1.34 at restaurant.gnome.org;
+	Sun, 10 Nov 2013 22:00:34 UTC
+Received: from dub0-omc4-s33.dub0.hotmail.com (dub0-omc4-s33.dub0.hotmail.com
+	[157.55.2.108])
+	by restaurant.gnome.org (Postfix) with ESMTP id CCF4A762E3
+	for <gnome-women-list@gnome.org>; Sun, 10 Nov 2013 22:00:23 +0000 (UTC)
+Received: from DUB127-W19 ([157.55.2.71]) by dub0-omc4-s33.dub0.hotmail.com
+	with Microsoft SMTPSVC(6.0.3790.4675); 
+	Sun, 10 Nov 2013 13:54:43 -0800
+X-TMN: [qRS5MsaJpuv6/mr/JlkCqFE1oK6NtzFeOwH/gihrkMc=]
+X-Originating-Email: [sfmaraki@hotmail.com]
+Message-ID: <DUB127-W19538E9C95D0B362A066C9C7FC0@phx.gbl>
+Content-Type: multipart/alternative;
+	boundary="_55e53118-66a4-4eef-9be0-3e8d789e6a3b_"
+From: maraki a. <sfmaraki@hotmail.com>
+To: "gnome-women-list@gnome.org" <gnome-women-list@gnome.org>
+Date: Sun, 10 Nov 2013 23:54:43 +0200
+Importance: Normal
+MIME-Version: 1.0
+X-OriginalArrivalTime: 10 Nov 2013 21:54:43.0934 (UTC)
+	FILETIME=[76F4D7E0:01CEDE5F]
+Subject: [gnome-women] OPW
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 10 Nov 2013 22:00:40 -0000
+
+--_55e53118-66a4-4eef-9be0-3e8d789e6a3b_
+Content-Type: text/plain; charset="iso-8859-7"
+Content-Transfer-Encoding: quoted-printable
+
+Hello!    My name is Maria Aggelou and I am a student of Applied Informatic=
+s department=2CUniversity of Macedonia (Thessaloniki=2C Greece).    I joine=
+d the Gnome mailing-list.I'm mainly interested in documentation=2C translat=
+ions from english to greek!I'd like to know more about the internship=2C su=
+ch ashow can I get the approvement to participate in OPW.Thank you. 		 	   =
+		  =
+
+--_55e53118-66a4-4eef-9be0-3e8d789e6a3b_
+Content-Type: text/html; charset="iso-8859-7"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<style><!--
+.hmmessage P
+{
+margin:0px=3B
+padding:0px
+}
+body.hmmessage
+{
+font-size: 12pt=3B
+font-family:Calibri
+}
+--></style></head>
+<body class=3D'hmmessage'><div dir=3D'ltr'><div>Hello!</div><div>&nbsp=3B &=
+nbsp=3B My name is Maria Aggelou and I am a student of Applied Informatics =
+department=2C</div><div>University of Macedonia (Thessaloniki=2C Greece).</=
+div><div>&nbsp=3B &nbsp=3B&nbsp=3B<span style=3D"font-size: 12pt=3B">I join=
+ed the Gnome mailing-list.</span></div><div>I'm mainly <span style=3D"font-=
+size: 12pt=3B">interested in documentation=2C translations from english to =
+greek!</span></div><div><span style=3D"font-size: 12pt=3B">I'd like to know=
+ more about the internship=2C such as</span></div><div>how can I get the ap=
+provement to participate in OPW.</div><div>Thank you.</div> 		 	   		  </di=
+v></body>
+</html>=
+
+--_55e53118-66a4-4eef-9be0-3e8d789e6a3b_--
+From kittykat3756@gmail.com  Sun Nov 10 22:46:02 2013
+Return-Path: <kittykat3756@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 45DC1762F0
+	for <gnome-women-list@gnome.org>; Sun, 10 Nov 2013 22:46:02 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.25
+X-Spam-Level: 
+X-Spam-Status: No, score=0.25 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id jTo97UmKlGHH for <gnome-women-list@gnome.org>;
+	Sun, 10 Nov 2013 22:45:57 +0000 (UTC)
+Received: from mail-wg0-f50.google.com (mail-wg0-f50.google.com [74.125.82.50])
+	by restaurant.gnome.org (Postfix) with ESMTP id 669DC762E3
+	for <gnome-women-list@gnome.org>; Sun, 10 Nov 2013 22:45:46 +0000 (UTC)
+Received: by mail-wg0-f50.google.com with SMTP id k14so2297205wgh.17
+	for <gnome-women-list@gnome.org>; Sun, 10 Nov 2013 14:45:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=//6AUZwJeZUuAc3Y7L0QjqdAfbjvvA76Jz/FdnRSb5s=;
+	b=zZi/4LPnGHZb842DXatlOdo8WEk++/tsMcpGNnARhsRKeQVlFmaJDKOVrHQjEfZwFF
+	a27GSPJCISaTrqQiRZBiU1gUoIXWLiS7p8NxGcx6ibByT2gYtejcrokrhoj8rnlQrLOc
+	tAy9GIm4drHIVaHn/gV1VoBsakMfIXlgiS8AXFxe+3kXXdiqwukFLIr5i/DpuhfPS0AD
+	EbOYi807CQp/UOdMgMRTk4yCnOBlSFGls3A7ijxW61zi5MmkxzWvntgEa+6cfBUlzjxU
+	CtmUTt41ZrjygXXzuxjtNSgnJfolzmBway2K5JjpAjmhmidIrabuzxoV0o0u9F2W1qGn
+	RDGQ==
+MIME-Version: 1.0
+X-Received: by 10.180.85.226 with SMTP id k2mr10084259wiz.31.1384123544570;
+	Sun, 10 Nov 2013 14:45:44 -0800 (PST)
+Received: by 10.216.240.196 with HTTP; Sun, 10 Nov 2013 14:45:44 -0800 (PST)
+In-Reply-To: <DUB127-W19538E9C95D0B362A066C9C7FC0@phx.gbl>
+References: <DUB127-W19538E9C95D0B362A066C9C7FC0@phx.gbl>
+Date: Sun, 10 Nov 2013 22:45:44 +0000
+Message-ID: <CAM2D-RpjpYSFuBgemMTR7nxL7q0D6P79HNyvGVw7m8y7XmS2Yw@mail.gmail.com>
+From: Ekaterina Gerasimova <kittykat3756@gmail.com>
+To: "maraki a." <sfmaraki@hotmail.com>
+Content-Type: text/plain; charset=ISO-8859-1
+Cc: "gnome-women-list@gnome.org" <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] OPW
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 10 Nov 2013 22:46:02 -0000
+
+On 10 November 2013 21:54, maraki a. <sfmaraki@hotmail.com> wrote:
+> Hello!
+>     My name is Maria Aggelou and I am a student of Applied Informatics
+> department,
+> University of Macedonia (Thessaloniki, Greece).
+>     I joined the Gnome mailing-list.
+> I'm mainly interested in documentation, translations from english to greek!
+> I'd like to know more about the internship, such as
+> how can I get the approvement to participate in OPW.
+> Thank you.
+
+Hello, you can find instructions on how to apply at
+https://wiki.gnome.org/OutreachProgramForWomen#Application_Process
+From marinaz@redhat.com  Sun Nov 17 18:52:16 2013
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 7824A7634B
+	for <gnome-women-list@gnome.org>; Sun, 17 Nov 2013 18:52:16 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -4.758
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.758 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.556,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id B3pC5vLJ2Mwb for <gnome-women-list@gnome.org>;
+	Sun, 17 Nov 2013 18:52:11 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by restaurant.gnome.org (Postfix) with ESMTP id B50E77631E
+	for <gnome-women-list@gnome.org>; Sun, 17 Nov 2013 18:52:00 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id rAHIpxbO014226
+	for <gnome-women-list@gnome.org>; Sun, 17 Nov 2013 13:51:59 -0500
+Date: Sun, 17 Nov 2013 13:51:59 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <245364678.24845243.1384714319699.JavaMail.root@redhat.com>
+In-Reply-To: <1300906532.24845228.1384714294889.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.82.11]
+X-Mailer: Zimbra 8.0.3_GA_5664 (ZimbraWebClient - FF23 (Linux)/8.0.3_GA_5664)
+Thread-Topic: FLOSS Survey 2013 - please participate!
+Thread-Index: XLg9tFnUEFlsUcFz9o3dDWwQLzXp1g==
+Subject: [gnome-women] FLOSS Survey 2013 - please participate!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 17 Nov 2013 18:52:16 -0000
+
+Hi all,
+
+Below is an invitation to participate in the FLOSS Survey 2013. Please participate and spread the word!
+
+Thanks,
+Marina
+
+-----------
+
+Ten years after the successful FLOSS survey with over 2500 respondents, which had a major impact in community, academia and even politics, we want to recreate the survey with the goal of seeing how the community is nowadays and how it has changed.
+
+If you are a contributor of any type (not only a developer!) to FLOSS, we encourage you to participate in the survey. It takes around 10-15 minutes.
+
+http://floss2013.libresoft.es/survey.en.html
+
+We would also be grateful if you disseminate this announcement among your community and peers. More information about the survey, including privacy, results, authors and publications, can be found at http://floss2013.libresoft.es.
+
+The FLOSS2013 team
+floss2013 at libresoft.es
+@FLOSSSurvey2013
+From scarlett@scarlettgatelyclark.com  Sun Nov 17 19:24:46 2013
+Return-Path: <scarlett@scarlettgatelyclark.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id D6CF07634B
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Nov 2013 19:24:46 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 1.593
+X-Spam-Level: *
+X-Spam-Status: No, score=1.593 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, RDNS_NONE=0.793] autolearn=no
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id vn9FIcT2fpZl for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Nov 2013 19:24:42 +0000 (UTC)
+X-Greylist: delayed 473 seconds by postgrey-1.34 at restaurant.gnome.org;
+	Sun, 17 Nov 2013 19:24:42 UTC
+Received: from www.manonthebench.com (unknown [174.127.111.213])
+	by restaurant.gnome.org (Postfix) with ESMTP id 72FD17631E
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Nov 2013 19:24:31 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by www.manonthebench.com (Postfix) with ESMTP id EB915AC0F7
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Nov 2013 19:16:36 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at manonthebench.com
+Received: from www.manonthebench.com ([127.0.0.1])
+	by localhost (www.manonthebench.com [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id edIjuWPrclxF for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Nov 2013 19:16:35 +0000 (UTC)
+Received: from saturn.localnet (c-67-189-97-215.hsd1.wa.comcast.net
+	[67.189.97.215])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by www.manonthebench.com (Postfix) with ESMTPSA id 44617AC0F6
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Nov 2013 19:16:35 +0000 (UTC)
+From: Scarlett Clark <scarlett@scarlettgatelyclark.com>
+To: gnome-women-list@mail.gnome.org
+Date: Sun, 17 Nov 2013 12:16:15 -0700
+Message-ID: <11854671.0tqekzmt7H@saturn>
+User-Agent: KMail/4.11.2 (Linux/3.11.0-13-generic; KDE/4.11.2; x86_64; ; )
+In-Reply-To: <245364678.24845243.1384714319699.JavaMail.root@redhat.com>
+References: <245364678.24845243.1384714319699.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7Bit
+Content-Type: text/plain; charset="us-ascii"
+Subject: Re: [gnome-women] FLOSS Survey 2013 - please participate!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 17 Nov 2013 19:24:46 -0000
+
+On Sunday, November 17, 2013 01:51:59 PM Marina Zhurakhinskaya wrote:
+> Hi all,
+> 
+> Below is an invitation to participate in the FLOSS Survey 2013. Please
+> participate and spread the word!
+> 
+> Thanks,
+> Marina
+> 
+> -----------
+> 
+> Ten years after the successful FLOSS survey with over 2500 respondents,
+> which had a major impact in community, academia and even politics, we want
+> to recreate the survey with the goal of seeing how the community is
+> nowadays and how it has changed.
+> 
+> If you are a contributor of any type (not only a developer!) to FLOSS, we
+> encourage you to participate in the survey. It takes around 10-15 minutes.
+> 
+> http://floss2013.libresoft.es/survey.en.html
+> 
+> We would also be grateful if you disseminate this announcement among your
+> community and peers. More information about the survey, including privacy,
+> results, authors and publications, can be found at
+> http://floss2013.libresoft.es.
+
+Done and done :)
+Scarlett
+> 
+> The FLOSS2013 team
+> floss2013 at libresoft.es
+> @FLOSSSurvey2013
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+

@@ -1,0 +1,103 @@
+From g@socallinuxexpo.org  Wed Dec  3 05:16:20 2008
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 6299F750007
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  3 Dec 2008 05:16:20 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.11
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.11 tagged_above=-999 required=2
+	tests=[BAYES_05=-1.11]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 2) (up: 352 hrs), (distance 19,
+	link: ethernet/modem), [208.83.101.234]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id M-rxOOfJjYLh for <gnome-women-list@mail.gnome.org>;
+	Wed,  3 Dec 2008 05:16:12 +0000 (GMT)
+Received: from maggie.socallinuxexpo.org (scale-3.actusa.net [208.83.101.234])
+	by menubar.gnome.org (Postfix) with ESMTP id 81728750006
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  3 Dec 2008 05:16:12 +0000 (GMT)
+Received: from [208.127.52.172] (netblock-208-127-52-172.dslextreme.com
+	[208.127.52.172]) (authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	mB35Flg3021064
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <gnome-women-list@mail.gnome.org>; Tue, 2 Dec 2008 21:15:48 -0800
+Message-ID: <49361619.7090001@socallinuxexpo.org>
+Date: Tue, 02 Dec 2008 21:16:09 -0800
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+User-Agent: Thunderbird 2.0.0.18 (X11/20081125)
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: ClamAV 0.94.1/8714/Tue Dec  2 20:37:28 2008 on maggie
+X-Virus-Status: Clean
+Subject: [gnome-women] Women in Open Source at SCALE 7x
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.10
+Precedence: list
+Reply-To: gareth@socallinuxexpo.org
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 03 Dec 2008 05:16:20 -0000
+
+The Linux Expo of Southern California is proud to announce their second 
+Women in
+Open Source Conference. The conference will be held on February 20th, 
+2009 in
+conjunction with the 7th Annual So Cal Linux Expo.
+
+The SCALE 7X Women In Open Source conference continues last year's work in
+encouraging women of all ages to participate in the Free and Open Source
+Software (FOSS) community. The WIOS conference will be held on Friday,
+February 20th, prior to the 7th Annual So Cal Linux Expo. Widespread
+acceptance and encouragement from the user community has established
+SCALE as a premiere conference in the Southern California region.
+2009 marks the seventh year that SCALE has been engaging and inspiring
+the open source community in southern California. Our event is uniquely
+community-based and attracts a wide variety of sponsors, non-profit groups,
+user groups, and attendees.
+
+Continuing our efforts to encourage women of all ages to be a part of the
+Free and Open Source community, we invite you to showcase your work in the
+Free and Open Source community. Join us in sharing recent accomplishments,
+success stories, and advancements. Past attendees at this event have 
+included
+women in technology, teachers, and parents of young girls. As a woman, if
+you've had experience working on an Free & Open Source project, 
+deploying Free
+and Open Source software or been involved in the Free and Open Source
+community, please join us.
+
+Widespread acceptance of the Linux Expo and participation by the user 
+community
+have established SCALE as the premiere Open Source conference in the 
+Southwest.
+2009 marks the seventh year that SCALE has been engaging and inspiring 
+the open
+source community. Our event is uniquely community-based and attracts a wide
+variety of sponsors, non-profit groups, user groups, and attendees.
+
+The Call For Papers for the Women In Open Source conference can be found 
+here:
+http://scale7x.socallinuxexpo.org/conference-info/women-in-open-source-call-for-papers
+
+-- 
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+

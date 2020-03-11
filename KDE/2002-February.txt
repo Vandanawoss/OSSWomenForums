@@ -1,0 +1,22 @@
+From kde-women@mail.kde.org  Thu Feb 28 17:31:35 2002
+From: kde-women@mail.kde.org (Marie Ricketts)
+Date: Thu, 28 Feb 2002 12:31:35 -0500
+Subject: [Kde-women]Kdevelop Cross Platfrom Compile
+Message-ID: <MFELKBMEDPHALKHAGIHKOEGFCOAA.Marie.G.Ricketts@dartmouth.edu>
+
+Hi,
+
+I've seen articles saying that it can be done but I'm having trouble
+actually doing it.
+
+I need to compile a *.so file for Solaris using a linux box.
+
+I think that all I need to do is set some compiler flags.
+
+Has anybody done this?
+
+Thanks,
+
+Marie
+
+

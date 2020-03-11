@@ -1,0 +1,2705 @@
+From ekhugenbruch at us.ibm.com  Mon Oct  3 21:19:15 2016
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Mon, 3 Oct 2016 17:19:15 -0400
+Subject: [Women-of-openstack] [Mentoring] Call for Mentors for Barcelona
+	events
+Message-ID: <OF566BB698.F2A5D650-ON00258041.00750CDB-85258041.00751EAA@notes.na.collabserv.com>
+
+
+
+Hello,
+We have two (2) great mentoring opportunities coming up for the Barcelona
+summit.  These are a fairly short time commitment, so please consider
+taking a few hours to help out people new to the community.
+
+   Upstream University - Sunday October 23rd, 1:00-5:00PM & Monday, October
+   24th, 10:00AM-4:00PM
+   Schedule information here -
+   https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16638/upstream-university-day-1
+
+   Looking for 5-10 mentors to float around the training rooms, helping
+   students who are stuck and offering advice.  Please sign up on the
+   mentor signup form -
+   https://openstackfoundation.formstack.com/forms/mentor_mentee_signup_pre_barcelona
+   , put "Upstream university only" under "Additional information about
+   yourself.  You do *not* need to RSVP to the event on the schedule app if
+   you fill out the formstack form.
+
+   Speed Mentoring Breakfast sponsored by Intel - Tuesday, October 25,
+   7:30-8:35AM
+   Schedule information here -
+   https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16889/speed-mentoring-organized-by-women-of-openstack-sponsored-by-intel
+
+   We're looking for 10-20 mentors, who are interested in offering either
+   technical or career advice.  You'll meet with small groups of mentees in
+   15 minute intervals and answer their questions about how to grow in the
+   community.  It's a fast paced event and a great way to meet new people
+   and introduce them to the summit.  Mentors should plan to arrive at
+   7:15AM, although we will provide breakfast and caffeine!
+   Please sign up via the schedule and select "mentor".  We will contact
+   mentors ahead of time and hold a short call to go over logistics of the
+   event shortly before the summit.
+
+Thanks in advance for volunteering!
+Sincerely,
+Emily Kate Hugenbruch
+Women of OpenStack Mentoring
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161003/04d496ce/attachment.html>
+
+From jessicak at us.ibm.com  Tue Oct  4 05:46:50 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Tue, 4 Oct 2016 00:46:50 -0500
+Subject: [Women-of-openstack] Invitation: Women of OpenStack Demographic
+ Survey open until Tuesday, Oct 11
+Message-ID: <OFEC694ECD.1078BDDA-ON00258042.001DAC5F-86258042.001FC117@notes.na.collabserv.com>
+
+
+
+We'd like to learn more about Women of OpenStack by gathering more
+information about the women who make up our community.
+
+
+We've created a 5 question survey that is being distributed to the Women of
+OpenStack distribution list. The goal of the survey is to learn a little
+more about the women in our community, your role working with OpenStack,
+and where you'd like to see the Women of OpenStack focus our future
+efforts.
+
+
+Link to survey: http://ibm.biz/WOO_2016_Survey
+
+
+Your responses are anonymous and the survey will take you 2-3 minutes to
+complete. Please complete the survey by Monday, October 10.
+
+
+We appreciate the men who support the Women of OpenStack, but we ask that
+the responses come from the women in the community. We will share a summary
+of the responses at the Barcelona summit at the Wednesday morning working
+breakfast and with the Women of Openstack distribution list.
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/666871c8/attachment.html>
+
+From renata.leppich at gmail.com  Tue Oct  4 05:58:26 2016
+From: renata.leppich at gmail.com (Renata Leppich)
+Date: Tue, 4 Oct 2016 06:58:26 +0100
+Subject: [Women-of-openstack] Invitation: Women of OpenStack Demographic
+ Survey open until Tuesday, Oct 11
+In-Reply-To: <CABhkopiBLWcmSwkWayV+SSOcth9pp--iNqQm=j5_PAxgMp1-dA@mail.gmail.com>
+References: <OFEC694ECD.1078BDDA-ON00258042.001DAC5F-86258042.001FC117@notes.na.collabserv.com>
+ <CABhkopjetJQC_=1vd7D0-_q8Em5hdmStEwwZgufGAWkxrNfxcA@mail.gmail.com>
+ <CABhkopjcURHfP00Yd0Wk5dH8Hpp-r==R7bqAuCA1sgKyqMRW9w@mail.gmail.com>
+ <CABhkophfh9f1axz76Z=rccFN7=LNy+s9tXkZsrrDsBUHcdmnZg@mail.gmail.com>
+ <CABhkopiBLWcmSwkWayV+SSOcth9pp--iNqQm=j5_PAxgMp1-dA@mail.gmail.com>
+Message-ID: <CABhkopgtEWwn7hAEhOMr=VxpZ=5e9J9-q5KfD7TgCc94ESC=eg@mail.gmail.com>
+
+Hi Jessica,
+
+Thanks for sharing the link to the survey.
+
+I undertand you will be sharing the summary of responses at the OpenStack
+Summit during the working breakfast.
+
+Although, could you please share the summary with this group as well, for
+the benefit of those who won't be able to attend the Openstack Summit.
+
+Many thanks, Renata
+
+On 4 Oct 2016 6:47 a.m., "Jessica Murillo" <jessicak at us.ibm.com> wrote:
+
+We'd like to learn more about Women of OpenStack by gathering more
+information about the women who make up our community.
+
+
+We've created a 5 question survey that is being distributed to the Women of
+OpenStack distribution list. The goal of the survey is to learn a little
+more about the women in our community, your role working with OpenStack,
+and where you'd like to see the Women of OpenStack focus our future
+efforts.
+
+
+Link to survey: http://ibm.biz/WOO_2016_Survey
+
+
+Your responses are anonymous and the survey will take you 2-3 minutes to
+complete. Please complete the survey by Monday, October 10.
+
+
+We appreciate the men who support the Women of OpenStack, but we ask that
+the responses come from the women in the community. We will share a summary
+of the responses at the Barcelona summit at the Wednesday morning working
+breakfast and with the Women of Openstack distribution list.
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/0b8d90b1/attachment.html>
+
+From jessicak at us.ibm.com  Tue Oct  4 06:00:39 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Tue, 4 Oct 2016 01:00:39 -0500
+Subject: [Women-of-openstack] Invitation: Women of OpenStack Demographic
+ Survey open until Tuesday, Oct 11
+In-Reply-To: <CABhkopgtEWwn7hAEhOMr=VxpZ=5e9J9-q5KfD7TgCc94ESC=eg@mail.gmail.com>
+References: <OFEC694ECD.1078BDDA-ON00258042.001DAC5F-86258042.001FC117@notes.na.collabserv.com>
+ <CABhkopjetJQC_=1vd7D0-_q8Em5hdmStEwwZgufGAWkxrNfxcA@mail.gmail.com>
+ <CABhkopjcURHfP00Yd0Wk5dH8Hpp-r==R7bqAuCA1sgKyqMRW9w@mail.gmail.com>
+ <CABhkophfh9f1axz76Z=rccFN7=LNy+s9tXkZsrrDsBUHcdmnZg@mail.gmail.com>
+ <CABhkopiBLWcmSwkWayV+SSOcth9pp--iNqQm=j5_PAxgMp1-dA@mail.gmail.com>
+ <CABhkopgtEWwn7hAEhOMr=VxpZ=5e9J9-q5KfD7TgCc94ESC=eg@mail.gmail.com>
+Message-ID: <OF0877761C.6219B72F-ON00258042.0020F345-86258042.002104ED@notes.na.collabserv.com>
+
+
+Absolutely - I will share the results of the survey with the Women of
+OpenStack distribution list as well!
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Renata Leppich <renata.leppich at gmail.com>
+To:	Jessica Murillo/Austin/IBM at IBMUS
+Cc:	women-of-openstack at lists.openstack.org
+Date:	10/04/2016 12:58 AM
+Subject:	Re: [Women-of-openstack] Invitation: Women of OpenStack
+            Demographic Survey open until Tuesday, Oct 11
+
+
+
+Hi Jessica,
+
+
+Thanks for sharing the link to the survey.
+
+
+I undertand you will be sharing the summary of responses at the OpenStack
+Summit during the working breakfast.
+
+
+Although, could you please share the summary with this group as well, for
+the benefit of those who won't be able to attend the Openstack Summit.
+
+
+Many thanks, Renata
+
+
+
+On 4 Oct 2016 6:47 a.m., "Jessica Murillo" <jessicak at us.ibm.com> wrote:
+  We'd like to learn more about Women of OpenStack by gathering more
+  information about the women who make up our community.
+
+
+  We've created a 5 question survey that is being distributed to the Women
+  of OpenStack distribution list. The goal of the survey is to learn a
+  little more about the women in our community, your role working with
+  OpenStack, and where you'd like to see the Women of OpenStack focus our
+  future efforts.
+
+
+  Link to survey: http://ibm.biz/WOO_2016_Survey
+
+
+  Your responses are anonymous and the survey will take you 2-3 minutes to
+  complete. Please complete the survey by Monday, October 10.
+
+
+  We appreciate the men who support the Women of OpenStack, but we ask that
+  the responses come from the women in the community. We will share a
+  summary of the responses at the Barcelona summit at the Wednesday morning
+  working breakfast and with the Women of Openstack distribution list.
+
+
+  Jessica Murillo
+  Vice President, Strategy
+  IBM Systems
+  jessicak at us.ibm.com
+  Mobile Phone: 512-970-8466
+
+
+  _______________________________________________
+  Women-of-openstack mailing list
+  Women-of-openstack at lists.openstack.org
+  http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/08b0a8ba/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/08b0a8ba/attachment-0001.gif>
+
+From hsulcova at mirantis.com  Tue Oct  4 11:08:25 2016
+From: hsulcova at mirantis.com (Hana Sulcova)
+Date: Tue, 4 Oct 2016 13:08:25 +0200
+Subject: [Women-of-openstack] [Women of OpenStack] My first OpenStack Summit
+Message-ID: <CAE7sX5POcKPkGzXB29qvYJz0CQnkSz3B3Cp3302GX15txCgAjQ@mail.gmail.com>
+
+Hi All,
+
+I am going to my first OpenStack Summit in Barcelona and I would like to
+visit some events organized by WOO.
+
+First of all let me introduce myself. My name is Hana and I work for tcp
+cloud as Account Manager. This year I organized the first OpenStack Days
+Prague and in Barcelona I will be at Panel discussing What I have Learned
+as an OpenStack Day Organizer.
+
+I am so happy to be in Barcelona and looking forward to meet all of you
+from WOO community during sessions, breakfast or other events.
+
+I really appreciate to be part of this community. Could you please help me
+if I should know more information about the community before the Summit.
+
+Best regards
+
+Hana
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/62b860af/attachment.html>
+
+From Amy.Marrich at rackspace.com  Tue Oct  4 14:43:09 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Tue, 4 Oct 2016 14:43:09 +0000
+Subject: [Women-of-openstack] [Women of OpenStack] My first OpenStack
+ Summit
+In-Reply-To: <CAE7sX5POcKPkGzXB29qvYJz0CQnkSz3B3Cp3302GX15txCgAjQ@mail.gmail.com>
+References: <CAE7sX5POcKPkGzXB29qvYJz0CQnkSz3B3Cp3302GX15txCgAjQ@mail.gmail.com>
+Message-ID: <D41929DE.2164C%amy.marrich@rackspace.com>
+
+Hana,
+
+We generally post events prior to the Summit and we'll have a groupme link so folks can communicate and meet up so no one is on their own, unless they want to be!
+
+Welcome to the group.
+
+Amy
+
+From: Hana Sulcova <hsulcova at mirantis.com<mailto:hsulcova at mirantis.com>>
+Date: Tuesday, October 4, 2016 at 6:08 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] [Women of OpenStack] My first OpenStack Summit
+
+Hi All,
+
+I am going to my first OpenStack Summit in Barcelona and I would like to visit some events organized by WOO.
+
+First of all let me introduce myself. My name is Hana and I work for tcp cloud as Account Manager. This year I organized the first OpenStack Days Prague and in Barcelona I will be at Panel discussing What I have Learned as an OpenStack Day Organizer.
+
+I am so happy to be in Barcelona and looking forward to meet all of you from WOO community during sessions, breakfast or other events.
+
+I really appreciate to be part of this community. Could you please help me if I should know more information about the community before the Summit.
+
+Best regards
+
+Hana
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/7d8d0b94/attachment.html>
+
+From hsulcova at mirantis.com  Tue Oct  4 15:01:35 2016
+From: hsulcova at mirantis.com (Hana Sulcova)
+Date: Tue, 4 Oct 2016 17:01:35 +0200
+Subject: [Women-of-openstack] [Women of OpenStack] My first OpenStack
+	Summit
+In-Reply-To: <D41929DE.2164C%amy.marrich@rackspace.com>
+References: <CAE7sX5POcKPkGzXB29qvYJz0CQnkSz3B3Cp3302GX15txCgAjQ@mail.gmail.com>
+ <D41929DE.2164C%amy.marrich@rackspace.com>
+Message-ID: <CAE7sX5NLdZeF-jEU6ubFQQ1UJPpEJZFONiWe0iqA5TAe7f9wXw@mail.gmail.com>
+
+Thank you Amy, the groupme links sounds good.
+
+Regards
+
+Hana
+
+On Tue, Oct 4, 2016 at 4:43 PM, Amy Marrich <Amy.Marrich at rackspace.com>
+wrote:
+
+> Hana,
+>
+> We generally post events prior to the Summit and we?ll have a groupme link
+> so folks can communicate and meet up so no one is on their own, unless they
+> want to be!
+>
+> Welcome to the group.
+>
+> Amy
+>
+> From: Hana Sulcova <hsulcova at mirantis.com>
+> Date: Tuesday, October 4, 2016 at 6:08 AM
+> To: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.
+> openstack.org>
+> Subject: [Women-of-openstack] [Women of OpenStack] My first OpenStack
+> Summit
+>
+> Hi All,
+>
+> I am going to my first OpenStack Summit in Barcelona and I would like to
+> visit some events organized by WOO.
+>
+> First of all let me introduce myself. My name is Hana and I work for tcp
+> cloud as Account Manager. This year I organized the first OpenStack Days
+> Prague and in Barcelona I will be at Panel discussing What I have Learned
+> as an OpenStack Day Organizer.
+>
+> I am so happy to be in Barcelona and looking forward to meet all of you
+> from WOO community during sessions, breakfast or other events.
+>
+> I really appreciate to be part of this community. Could you please help me
+> if I should know more information about the community before the Summit.
+>
+> Best regards
+>
+> Hana
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/7324bcef/attachment.html>
+
+From claire at openstack.org  Tue Oct  4 15:30:42 2016
+From: claire at openstack.org (Claire Massey)
+Date: Tue, 4 Oct 2016 10:30:42 -0500
+Subject: [Women-of-openstack] [Women of OpenStack] My first OpenStack
+ Summit
+In-Reply-To: <D41929DE.2164C%amy.marrich@rackspace.com>
+References: <CAE7sX5POcKPkGzXB29qvYJz0CQnkSz3B3Cp3302GX15txCgAjQ@mail.gmail.com>
+ <D41929DE.2164C%amy.marrich@rackspace.com>
+Message-ID: <8674DCD8-0C0A-41EA-B80B-34AF13B46582@openstack.org>
+
+Hi all,
+
+The digital version of the WOO specific Summit map will be available to share with you next week and hard copies will be distributed onsite in Barcelona. The map will call out several things that aren?t included on the main Summit schedule - like WOO welcome greeters on Monday/Tuesday, dedicated WOO lunch tables, and the WOO Meet-up area inside the Marketplace Mixer. 
+
+The WOO Meet-up will be on Monday, Oct 24 during the Marketplace Mixer. This gathering, sponsored by Comcast, will take place 5:00-7:00pm in the lounge area on the backside of Headline Booth B1 (backside of the Deutsche Telekom booth). Please plan to join us there!
+
+In the meantime, this link aggregates all session that are currently on the Summit schedule and include the tag ?women-of-openstack?. It includes both the Tuesday and Wednesday morning breakfasts and is a good starting point for you to reference.
+
+http://bit.ly/BarcelonaWOO <http://bit.ly/BarcelonaWOO>
+
+Cheers,
+Claire
+
+
+> On Oct 4, 2016, at 9:43 AM, Amy Marrich <Amy.Marrich at rackspace.com> wrote:
+> 
+> Hana,
+> 
+> We generally post events prior to the Summit and we?ll have a groupme link so folks can communicate and meet up so no one is on their own, unless they want to be!
+> 
+> Welcome to the group.
+> 
+> Amy
+> 
+> From: Hana Sulcova <hsulcova at mirantis.com <mailto:hsulcova at mirantis.com>>
+> Date: Tuesday, October 4, 2016 at 6:08 AM
+> To: "women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>>
+> Subject: [Women-of-openstack] [Women of OpenStack] My first OpenStack Summit
+> 
+> Hi All,
+> 
+> I am going to my first OpenStack Summit in Barcelona and I would like to visit some events organized by WOO. 
+> 
+> First of all let me introduce myself. My name is Hana and I work for tcp cloud as Account Manager. This year I organized the first OpenStack Days Prague and in Barcelona I will be at Panel discussing What I have Learned as an OpenStack Day Organizer.
+> 
+> I am so happy to be in Barcelona and looking forward to meet all of you from WOO community during sessions, breakfast or other events.
+> 
+> I really appreciate to be part of this community. Could you please help me if I should know more information about the community before the Summit. 
+> 
+> Best regards
+> 
+> Hana
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/81b22050/attachment.html>
+
+From shilla.saebi at gmail.com  Tue Oct  4 20:03:27 2016
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Tue, 4 Oct 2016 16:03:27 -0400
+Subject: [Women-of-openstack] WOO Group Messaging for Barcelona
+Message-ID: <CAPrU3jFvWrf64SY_EEP2gpdxtp2xd+BBvgDs9DjYNUL8ox6MYw@mail.gmail.com>
+
+Hello Women of OpenStack,
+
+We will be using groupme for our group messaging and collaboration during
+the summit. Please download the application on your mobile device and feel
+free to join the group 'Women of OpenStack - Barcelona'. You can click on the
+link <https://app.groupme.com/join_group/25648340/Ig1gEI> to get started.
+
+Please let me know if you have any questions. Thank you and look fwd to
+seeing you in Spain!
+
+Shilla
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/97ab5646/attachment.html>
+
+From Amy.Marrich at rackspace.com  Tue Oct  4 21:05:06 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Tue, 4 Oct 2016 21:05:06 +0000
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for
+	helpers
+Message-ID: <D41983AE.216BE%amy.marrich@rackspace.com>
+
+We're looking for 5 folks to help with room support for the Git and Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55 at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of Git and Gerrit is helpful as you'll be helping attendees with questions during the presentation. Students tend to run Mac and Linux, but there are some Windows users.
+
+
+If you or someone you know uses Git and Gerrit and can help please let us know and if anyone knows Windows and can help even for a short time we'd appreciate it!
+
+
+Thanks,
+
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161004/6db5de63/attachment-0001.html>
+
+From agrawalshaifali09 at gmail.com  Wed Oct  5 05:48:49 2016
+From: agrawalshaifali09 at gmail.com (Shaifali Agrawal)
+Date: Wed, 5 Oct 2016 11:18:49 +0530
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for
+	helpers
+In-Reply-To: <D41983AE.216BE%amy.marrich@rackspace.com>
+References: <D41983AE.216BE%amy.marrich@rackspace.com>
+Message-ID: <CANjowdpEq59S=-JE4ZdUUmP=pRCZCDtkikoW7xHfg83uFYj5xQ@mail.gmail.com>
+
+Hi Amy!
+
+I can help for Git and Gerrit to the attendees. Will be present at the time
+and date you mentioned.
+
+On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich <Amy.Marrich at rackspace.com>
+wrote:
+
+> We?re looking for 5 folks to help with room support for the Git and Gerrit
+> Lunch and Learn to be held Wednesday October 26 from 1:05-2:55 at the
+> Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of Git and
+> Gerrit is helpful as you?ll be helping attendees with questions during the
+> presentation. Students tend to run Mac and Linux, but there are some
+> Windows users.
+>
+>
+> If you or someone you know uses Git and Gerrit and can help please let us
+> know and if anyone knows Windows and can help even for a short time we?d
+> appreciate it!
+>
+>
+> Thanks,
+>
+>
+> Amy
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+Thanks!!!
+
+@exploreshaifali <http://exploreshaifali.github.io/>
+Shaifali Agrawal
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161005/28942c71/attachment.html>
+
+From emma.l.foley at intel.com  Wed Oct  5 15:01:21 2016
+From: emma.l.foley at intel.com (Foley, Emma L)
+Date: Wed, 5 Oct 2016 15:01:21 +0000
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for
+ helpers
+Message-ID: <0078AE486081F642B4747581212AD05F0141D512@IRSMSX109.ger.corp.intel.com>
+
+Hi Amy, 
+
+I can lend a hand and (hopefully) help people come to terms with git and gerrit.
+
+Regards,
+Emma
+
+> Date: Wed, 5 Oct 2016 11:18:49 +0530
+> From: Shaifali Agrawal <agrawalshaifali09 at gmail.com>
+> To: Amy Marrich <Amy.Marrich at rackspace.com>
+> Cc: "women-of-openstack at lists.openstack.org"
+> 	<women-of-openstack at lists.openstack.org>
+> 
+> Content-Type: text/plain; charset="utf-8"
+> 
+> Hi Amy!
+> 
+> I can help for Git and Gerrit to the attendees. Will be present at the time and
+> date you mentioned.
+> 
+> On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich
+> <Amy.Marrich at rackspace.com>
+> wrote:
+> 
+> > We?re looking for 5 folks to help with room support for the Git and
+> > Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55
+> > at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of
+> > Git and Gerrit is helpful as you?ll be helping attendees with
+> > questions during the presentation. Students tend to run Mac and Linux,
+> > but there are some Windows users.
+> >
+> >
+> > If you or someone you know uses Git and Gerrit and can help please let
+> > us know and if anyone knows Windows and can help even for a short time
+> > we?d appreciate it!
+> >
+> >
+> > Thanks,
+> >
+> >
+> > Amy
+> >
+> > _______________________________________________
+> > Women-of-openstack mailing list
+> > Women-of-openstack at lists.openstack.org
+> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> >
+> >
+> 
+> 
+> --
+> Thanks!!!
+> 
+> @exploreshaifali <http://exploreshaifali.github.io/>
+> Shaifali Agrawal
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-
+> openstack/attachments/20161005/28942c71/attachment-0001.html>
+> 
+> ------------------------------
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> 
+> End of Women-of-openstack Digest, Vol 24, Issue 4
+> *************************************************
+
+
+From shilla.saebi at gmail.com  Wed Oct  5 15:27:05 2016
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Wed, 5 Oct 2016 11:27:05 -0400
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for
+	helpers
+In-Reply-To: <0078AE486081F642B4747581212AD05F0141D512@IRSMSX109.ger.corp.intel.com>
+References: <0078AE486081F642B4747581212AD05F0141D512@IRSMSX109.ger.corp.intel.com>
+Message-ID: <CAPrU3jHcs-Wea68qUcZQmQbQcJrZx+FP4_op6id78oH-BECRTQ@mail.gmail.com>
+
+Are we looking for women specifically to help with this or any volunteers?
+
+On Wed, Oct 5, 2016 at 11:01 AM, Foley, Emma L <emma.l.foley at intel.com>
+wrote:
+
+> Hi Amy,
+>
+> I can lend a hand and (hopefully) help people come to terms with git and
+> gerrit.
+>
+> Regards,
+> Emma
+>
+> > Date: Wed, 5 Oct 2016 11:18:49 +0530
+> > From: Shaifali Agrawal <agrawalshaifali09 at gmail.com>
+> > To: Amy Marrich <Amy.Marrich at rackspace.com>
+> > Cc: "women-of-openstack at lists.openstack.org"
+> >       <women-of-openstack at lists.openstack.org>
+> >
+> > Content-Type: text/plain; charset="utf-8"
+> >
+> > Hi Amy!
+> >
+> > I can help for Git and Gerrit to the attendees. Will be present at the
+> time and
+> > date you mentioned.
+> >
+> > On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich
+> > <Amy.Marrich at rackspace.com>
+> > wrote:
+> >
+> > > We?re looking for 5 folks to help with room support for the Git and
+> > > Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55
+> > > at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of
+> > > Git and Gerrit is helpful as you?ll be helping attendees with
+> > > questions during the presentation. Students tend to run Mac and Linux,
+> > > but there are some Windows users.
+> > >
+> > >
+> > > If you or someone you know uses Git and Gerrit and can help please let
+> > > us know and if anyone knows Windows and can help even for a short time
+> > > we?d appreciate it!
+> > >
+> > >
+> > > Thanks,
+> > >
+> > >
+> > > Amy
+> > >
+> > > _______________________________________________
+> > > Women-of-openstack mailing list
+> > > Women-of-openstack at lists.openstack.org
+> > > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> > >
+> > >
+> >
+> >
+> > --
+> > Thanks!!!
+> >
+> > @exploreshaifali <http://exploreshaifali.github.io/>
+> > Shaifali Agrawal
+> > -------------- next part --------------
+> > An HTML attachment was scrubbed...
+> > URL: <http://lists.openstack.org/pipermail/women-of-
+> > openstack/attachments/20161005/28942c71/attachment-0001.html>
+> >
+> > ------------------------------
+> >
+> > _______________________________________________
+> > Women-of-openstack mailing list
+> > Women-of-openstack at lists.openstack.org
+> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> >
+> >
+> > End of Women-of-openstack Digest, Vol 24, Issue 4
+> > *************************************************
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161005/a2837454/attachment.html>
+
+From Amy.Marrich at rackspace.com  Wed Oct  5 15:28:10 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Wed, 5 Oct 2016 15:28:10 +0000
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for
+ helpers
+In-Reply-To: <CAPrU3jHcs-Wea68qUcZQmQbQcJrZx+FP4_op6id78oH-BECRTQ@mail.gmail.com>
+References: <0078AE486081F642B4747581212AD05F0141D512@IRSMSX109.ger.corp.intel.com>
+ <CAPrU3jHcs-Wea68qUcZQmQbQcJrZx+FP4_op6id78oH-BECRTQ@mail.gmail.com>
+Message-ID: <D41A861F.21736%amy.marrich@rackspace.com>
+
+Shilla,
+
+We're looking for any volunteers.
+
+Thanks,
+
+Amy
+
+From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+Date: Wednesday, October 5, 2016 at 10:27 AM
+To: "Foley, Emma L" <emma.l.foley at intel.com<mailto:emma.l.foley at intel.com>>
+Cc: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for helpers
+
+Are we looking for women specifically to help with this or any volunteers?
+
+On Wed, Oct 5, 2016 at 11:01 AM, Foley, Emma L <emma.l.foley at intel.com<mailto:emma.l.foley at intel.com>> wrote:
+Hi Amy,
+
+I can lend a hand and (hopefully) help people come to terms with git and gerrit.
+
+Regards,
+Emma
+
+> Date: Wed, 5 Oct 2016 11:18:49 +0530
+> From: Shaifali Agrawal <agrawalshaifali09 at gmail.com<mailto:agrawalshaifali09 at gmail.com>>
+> To: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+> Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>"
+>       <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+>
+> Content-Type: text/plain; charset="utf-8"
+>
+> Hi Amy!
+>
+> I can help for Git and Gerrit to the attendees. Will be present at the time and
+> date you mentioned.
+>
+> On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich
+> <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+> wrote:
+>
+> > We?re looking for 5 folks to help with room support for the Git and
+> > Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55
+> > at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of
+> > Git and Gerrit is helpful as you?ll be helping attendees with
+> > questions during the presentation. Students tend to run Mac and Linux,
+> > but there are some Windows users.
+> >
+> >
+> > If you or someone you know uses Git and Gerrit and can help please let
+> > us know and if anyone knows Windows and can help even for a short time
+> > we?d appreciate it!
+> >
+> >
+> > Thanks,
+> >
+> >
+> > Amy
+> >
+> > _______________________________________________
+> > Women-of-openstack mailing list
+> > Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> >
+> >
+>
+>
+> --
+> Thanks!!!
+>
+> @exploreshaifali <http://exploreshaifali.github.io/>
+> Shaifali Agrawal
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-
+> openstack/attachments/20161005/28942c71/attachment-0001.html>
+>
+> ------------------------------
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+> End of Women-of-openstack Digest, Vol 24, Issue 4
+> *************************************************
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161005/c426b96a/attachment.html>
+
+From shilla.saebi at gmail.com  Wed Oct  5 15:32:01 2016
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Wed, 5 Oct 2016 11:32:01 -0400
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for
+	helpers
+In-Reply-To: <D41A861F.21736%amy.marrich@rackspace.com>
+References: <0078AE486081F642B4747581212AD05F0141D512@IRSMSX109.ger.corp.intel.com>
+ <CAPrU3jHcs-Wea68qUcZQmQbQcJrZx+FP4_op6id78oH-BECRTQ@mail.gmail.com>
+ <D41A861F.21736%amy.marrich@rackspace.com>
+Message-ID: <CAPrU3jGRJn8p-xRSdZ7885BS0OU4EN0xxGF934LJk2FRqpiDdQ@mail.gmail.com>
+
+Great, can you sign us up for 3 slots? We would love to help
+
+Shilla Saebi - Comcast (shilla.saebi at gmail.com)
+Victor Howard - Comcast (Victor_Howard at cable.comcast.com)
+Margaret Frances - Comcast (Margaret_Frances at cable.comcast.com)
+
+On Wed, Oct 5, 2016 at 11:28 AM, Amy Marrich <Amy.Marrich at rackspace.com>
+wrote:
+
+> Shilla,
+>
+> We?re looking for any volunteers.
+>
+> Thanks,
+>
+> Amy
+>
+> From: Shilla Saebi <shilla.saebi at gmail.com>
+> Date: Wednesday, October 5, 2016 at 10:27 AM
+> To: "Foley, Emma L" <emma.l.foley at intel.com>
+> Cc: Amy Marrich <amy.marrich at rackspace.com>, "women-of-openstack at lists.
+> openstack.org" <women-of-openstack at lists.openstack.org>
+> Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn - call
+> for helpers
+>
+> Are we looking for women specifically to help with this or any volunteers?
+>
+> On Wed, Oct 5, 2016 at 11:01 AM, Foley, Emma L <emma.l.foley at intel.com>
+> wrote:
+>
+>> Hi Amy,
+>>
+>> I can lend a hand and (hopefully) help people come to terms with git and
+>> gerrit.
+>>
+>> Regards,
+>> Emma
+>>
+>> > Date: Wed, 5 Oct 2016 11:18:49 +0530
+>> > From: Shaifali Agrawal <agrawalshaifali09 at gmail.com>
+>> > To: Amy Marrich <Amy.Marrich at rackspace.com>
+>> > Cc: "women-of-openstack at lists.openstack.org"
+>> >       <women-of-openstack at lists.openstack.org>
+>> >
+>> > Content-Type: text/plain; charset="utf-8"
+>> >
+>> > Hi Amy!
+>> >
+>> > I can help for Git and Gerrit to the attendees. Will be present at the
+>> time and
+>> > date you mentioned.
+>> >
+>> > On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich
+>> > <Amy.Marrich at rackspace.com>
+>> > wrote:
+>> >
+>> > > We?re looking for 5 folks to help with room support for the Git and
+>> > > Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55
+>> > > at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of
+>> > > Git and Gerrit is helpful as you?ll be helping attendees with
+>> > > questions during the presentation. Students tend to run Mac and Linux,
+>> > > but there are some Windows users.
+>> > >
+>> > >
+>> > > If you or someone you know uses Git and Gerrit and can help please let
+>> > > us know and if anyone knows Windows and can help even for a short time
+>> > > we?d appreciate it!
+>> > >
+>> > >
+>> > > Thanks,
+>> > >
+>> > >
+>> > > Amy
+>> > >
+>> > > _______________________________________________
+>> > > Women-of-openstack mailing list
+>> > > Women-of-openstack at lists.openstack.org
+>> > > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-
+>> of-openstack
+>> > >
+>> > >
+>> >
+>> >
+>> > --
+>> > Thanks!!!
+>> >
+>> > @exploreshaifali <http://exploreshaifali.github.io/>
+>> > Shaifali Agrawal
+>> > -------------- next part --------------
+>> > An HTML attachment was scrubbed...
+>> > URL: <http://lists.openstack.org/pipermail/women-of-
+>> > openstack/attachments/20161005/28942c71/attachment-0001.html>
+>> >
+>> > ------------------------------
+>> >
+>> > _______________________________________________
+>> > Women-of-openstack mailing list
+>> > Women-of-openstack at lists.openstack.org
+>> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> >
+>> >
+>> > End of Women-of-openstack Digest, Vol 24, Issue 4
+>> > *************************************************
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161005/4d1100dc/attachment-0001.html>
+
+From Amy.Marrich at rackspace.com  Wed Oct  5 15:35:10 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Wed, 5 Oct 2016 15:35:10 +0000
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for
+ helpers
+In-Reply-To: <CAPrU3jGRJn8p-xRSdZ7885BS0OU4EN0xxGF934LJk2FRqpiDdQ@mail.gmail.com>
+References: <0078AE486081F642B4747581212AD05F0141D512@IRSMSX109.ger.corp.intel.com>
+ <CAPrU3jHcs-Wea68qUcZQmQbQcJrZx+FP4_op6id78oH-BECRTQ@mail.gmail.com>
+ <D41A861F.21736%amy.marrich@rackspace.com>
+ <CAPrU3jGRJn8p-xRSdZ7885BS0OU4EN0xxGF934LJk2FRqpiDdQ@mail.gmail.com>
+Message-ID: <D41A87D3.21742%amy.marrich@rackspace.com>
+
+Will do thanks!
+
+From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+Date: Wednesday, October 5, 2016 at 10:32 AM
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>
+Cc: "Foley, Emma L" <emma.l.foley at intel.com<mailto:emma.l.foley at intel.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for helpers
+
+Great, can you sign us up for 3 slots? We would love to help
+
+Shilla Saebi - Comcast (shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>)
+Victor Howard - Comcast (Victor_Howard at cable.comcast.com<mailto:Victor_Howard at cable.comcast.com>)
+Margaret Frances - Comcast (Margaret_Frances at cable.comcast.com<mailto:Margaret_Frances at cable.comcast.com>)
+
+On Wed, Oct 5, 2016 at 11:28 AM, Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>> wrote:
+Shilla,
+
+We're looking for any volunteers.
+
+Thanks,
+
+Amy
+
+From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+Date: Wednesday, October 5, 2016 at 10:27 AM
+To: "Foley, Emma L" <emma.l.foley at intel.com<mailto:emma.l.foley at intel.com>>
+Cc: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for helpers
+
+Are we looking for women specifically to help with this or any volunteers?
+
+On Wed, Oct 5, 2016 at 11:01 AM, Foley, Emma L <emma.l.foley at intel.com<mailto:emma.l.foley at intel.com>> wrote:
+Hi Amy,
+
+I can lend a hand and (hopefully) help people come to terms with git and gerrit.
+
+Regards,
+Emma
+
+> Date: Wed, 5 Oct 2016 11:18:49 +0530
+> From: Shaifali Agrawal <agrawalshaifali09 at gmail.com<mailto:agrawalshaifali09 at gmail.com>>
+> To: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+> Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>"
+>       <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+>
+> Content-Type: text/plain; charset="utf-8"
+>
+> Hi Amy!
+>
+> I can help for Git and Gerrit to the attendees. Will be present at the time and
+> date you mentioned.
+>
+> On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich
+> <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+> wrote:
+>
+> > We?re looking for 5 folks to help with room support for the Git and
+> > Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55
+> > at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of
+> > Git and Gerrit is helpful as you?ll be helping attendees with
+> > questions during the presentation. Students tend to run Mac and Linux,
+> > but there are some Windows users.
+> >
+> >
+> > If you or someone you know uses Git and Gerrit and can help please let
+> > us know and if anyone knows Windows and can help even for a short time
+> > we?d appreciate it!
+> >
+> >
+> > Thanks,
+> >
+> >
+> > Amy
+> >
+> > _______________________________________________
+> > Women-of-openstack mailing list
+> > Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> >
+> >
+>
+>
+> --
+> Thanks!!!
+>
+> @exploreshaifali <http://exploreshaifali.github.io/>
+> Shaifali Agrawal
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-
+> openstack/attachments/20161005/28942c71/attachment-0001.html>
+>
+> ------------------------------
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+> End of Women-of-openstack Digest, Vol 24, Issue 4
+> *************************************************
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161005/6589ea5c/attachment.html>
+
+From assarava at cisco.com  Wed Oct  5 16:13:06 2016
+From: assarava at cisco.com (Asha Saravanamohan (assarava))
+Date: Wed, 5 Oct 2016 16:13:06 +0000
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 24, Issue 5
+In-Reply-To: <mailman.32589.1475681523.7714.women-of-openstack@lists.openstack.org>
+References: <mailman.32589.1475681523.7714.women-of-openstack@lists.openstack.org>
+Message-ID: <9036FCD7-5724-44A0-B5B6-807F7E627F66@cisco.com>
+
+Hi Amy,
+
+I can help out with git and gerrit as well!. I will be present during that time you mentioned.
+
+Thanks,
+Asha
+
+
+
+
+
+
+
+On 10/5/16, 8:32 AM, "women-of-openstack-request at lists.openstack.org" <women-of-openstack-request at lists.openstack.org> wrote:
+
+>Send Women-of-openstack mailing list submissions to
+>	women-of-openstack at lists.openstack.org
+>
+>To subscribe or unsubscribe via the World Wide Web, visit
+>	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>or, via email, send a message with subject or body 'help' to
+>	women-of-openstack-request at lists.openstack.org
+>
+>You can reach the person managing the list at
+>	women-of-openstack-owner at lists.openstack.org
+>
+>When replying, please edit your Subject line so it is more specific
+>than "Re: Contents of Women-of-openstack digest..."
+>
+>
+>Today's Topics:
+>
+>   1. Re: Git and Gerrit Lunch and Learn - call for helpers
+>      (Foley, Emma L)
+>   2. Re: Git and Gerrit Lunch and Learn - call for	helpers
+>      (Shilla Saebi)
+>   3. Re: Git and Gerrit Lunch and Learn - call for helpers
+>      (Amy Marrich)
+>   4. Re: Git and Gerrit Lunch and Learn - call for	helpers
+>      (Shilla Saebi)
+>
+>
+>----------------------------------------------------------------------
+>
+>Message: 1
+>Date: Wed, 5 Oct 2016 15:01:21 +0000
+>From: "Foley, Emma L" <emma.l.foley at intel.com>
+>To: "Amy.Marrich at rackspace.com" <Amy.Marrich at rackspace.com>
+>Cc: "women-of-openstack at lists.openstack.org"
+>	<women-of-openstack at lists.openstack.org>
+>Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn -
+>	call for helpers
+>Message-ID:
+>	<0078AE486081F642B4747581212AD05F0141D512 at IRSMSX109.ger.corp.intel.com>
+>	
+>Content-Type: text/plain; charset="us-ascii"
+>
+>Hi Amy, 
+>
+>I can lend a hand and (hopefully) help people come to terms with git and gerrit.
+>
+>Regards,
+>Emma
+>
+>> Date: Wed, 5 Oct 2016 11:18:49 +0530
+>> From: Shaifali Agrawal <agrawalshaifali09 at gmail.com>
+>> To: Amy Marrich <Amy.Marrich at rackspace.com>
+>> Cc: "women-of-openstack at lists.openstack.org"
+>> 	<women-of-openstack at lists.openstack.org>
+>> 
+>> Content-Type: text/plain; charset="utf-8"
+>> 
+>> Hi Amy!
+>> 
+>> I can help for Git and Gerrit to the attendees. Will be present at the time and
+>> date you mentioned.
+>> 
+>> On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich
+>> <Amy.Marrich at rackspace.com>
+>> wrote:
+>> 
+>> > We?re looking for 5 folks to help with room support for the Git and
+>> > Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55
+>> > at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of
+>> > Git and Gerrit is helpful as you?ll be helping attendees with
+>> > questions during the presentation. Students tend to run Mac and Linux,
+>> > but there are some Windows users.
+>> >
+>> >
+>> > If you or someone you know uses Git and Gerrit and can help please let
+>> > us know and if anyone knows Windows and can help even for a short time
+>> > we?d appreciate it!
+>> >
+>> >
+>> > Thanks,
+>> >
+>> >
+>> > Amy
+>> >
+>> > _______________________________________________
+>> > Women-of-openstack mailing list
+>> > Women-of-openstack at lists.openstack.org
+>> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> >
+>> >
+>> 
+>> 
+>> --
+>> Thanks!!!
+>> 
+>> @exploreshaifali <http://exploreshaifali.github.io/>
+>> Shaifali Agrawal
+>> -------------- next part --------------
+>> An HTML attachment was scrubbed...
+>> URL: <http://lists.openstack.org/pipermail/women-of-
+>> openstack/attachments/20161005/28942c71/attachment-0001.html>
+>> 
+>> ------------------------------
+>> 
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> 
+>> 
+>> End of Women-of-openstack Digest, Vol 24, Issue 4
+>> *************************************************
+>
+>
+>
+>------------------------------
+>
+>Message: 2
+>Date: Wed, 5 Oct 2016 11:27:05 -0400
+>From: Shilla Saebi <shilla.saebi at gmail.com>
+>To: "Foley, Emma L" <emma.l.foley at intel.com>
+>Cc: "women-of-openstack at lists.openstack.org"
+>	<women-of-openstack at lists.openstack.org>
+>Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn -
+>	call for	helpers
+>Message-ID:
+>	<CAPrU3jHcs-Wea68qUcZQmQbQcJrZx+FP4_op6id78oH-BECRTQ at mail.gmail.com>
+>Content-Type: text/plain; charset="utf-8"
+>
+>Are we looking for women specifically to help with this or any volunteers?
+>
+>On Wed, Oct 5, 2016 at 11:01 AM, Foley, Emma L <emma.l.foley at intel.com>
+>wrote:
+>
+>> Hi Amy,
+>>
+>> I can lend a hand and (hopefully) help people come to terms with git and
+>> gerrit.
+>>
+>> Regards,
+>> Emma
+>>
+>> > Date: Wed, 5 Oct 2016 11:18:49 +0530
+>> > From: Shaifali Agrawal <agrawalshaifali09 at gmail.com>
+>> > To: Amy Marrich <Amy.Marrich at rackspace.com>
+>> > Cc: "women-of-openstack at lists.openstack.org"
+>> >       <women-of-openstack at lists.openstack.org>
+>> >
+>> > Content-Type: text/plain; charset="utf-8"
+>> >
+>> > Hi Amy!
+>> >
+>> > I can help for Git and Gerrit to the attendees. Will be present at the
+>> time and
+>> > date you mentioned.
+>> >
+>> > On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich
+>> > <Amy.Marrich at rackspace.com>
+>> > wrote:
+>> >
+>> > > We?re looking for 5 folks to help with room support for the Git and
+>> > > Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55
+>> > > at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of
+>> > > Git and Gerrit is helpful as you?ll be helping attendees with
+>> > > questions during the presentation. Students tend to run Mac and Linux,
+>> > > but there are some Windows users.
+>> > >
+>> > >
+>> > > If you or someone you know uses Git and Gerrit and can help please let
+>> > > us know and if anyone knows Windows and can help even for a short time
+>> > > we?d appreciate it!
+>> > >
+>> > >
+>> > > Thanks,
+>> > >
+>> > >
+>> > > Amy
+>> > >
+>> > > _______________________________________________
+>> > > Women-of-openstack mailing list
+>> > > Women-of-openstack at lists.openstack.org
+>> > > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> > >
+>> > >
+>> >
+>> >
+>> > --
+>> > Thanks!!!
+>> >
+>> > @exploreshaifali <http://exploreshaifali.github.io/>
+>> > Shaifali Agrawal
+>> > -------------- next part --------------
+>> > An HTML attachment was scrubbed...
+>> > URL: <http://lists.openstack.org/pipermail/women-of-
+>> > openstack/attachments/20161005/28942c71/attachment-0001.html>
+>> >
+>> > ------------------------------
+>> >
+>> > _______________________________________________
+>> > Women-of-openstack mailing list
+>> > Women-of-openstack at lists.openstack.org
+>> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> >
+>> >
+>> > End of Women-of-openstack Digest, Vol 24, Issue 4
+>> > *************************************************
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>-------------- next part --------------
+>An HTML attachment was scrubbed...
+>URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161005/a2837454/attachment-0001.html>
+>
+>------------------------------
+>
+>Message: 3
+>Date: Wed, 5 Oct 2016 15:28:10 +0000
+>From: Amy Marrich <Amy.Marrich at rackspace.com>
+>To: Shilla Saebi <shilla.saebi at gmail.com>, "Foley, Emma L"
+>	<emma.l.foley at intel.com>
+>Cc: "women-of-openstack at lists.openstack.org"
+>	<women-of-openstack at lists.openstack.org>
+>Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn -
+>	call for helpers
+>Message-ID: <D41A861F.21736%amy.marrich at rackspace.com>
+>Content-Type: text/plain; charset="iso-8859-1"
+>
+>Shilla,
+>
+>We're looking for any volunteers.
+>
+>Thanks,
+>
+>Amy
+>
+>From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+>Date: Wednesday, October 5, 2016 at 10:27 AM
+>To: "Foley, Emma L" <emma.l.foley at intel.com<mailto:emma.l.foley at intel.com>>
+>Cc: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+>Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn - call for helpers
+>
+>Are we looking for women specifically to help with this or any volunteers?
+>
+>On Wed, Oct 5, 2016 at 11:01 AM, Foley, Emma L <emma.l.foley at intel.com<mailto:emma.l.foley at intel.com>> wrote:
+>Hi Amy,
+>
+>I can lend a hand and (hopefully) help people come to terms with git and gerrit.
+>
+>Regards,
+>Emma
+>
+>> Date: Wed, 5 Oct 2016 11:18:49 +0530
+>> From: Shaifali Agrawal <agrawalshaifali09 at gmail.com<mailto:agrawalshaifali09 at gmail.com>>
+>> To: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+>> Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>"
+>>       <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+>>
+>> Content-Type: text/plain; charset="utf-8"
+>>
+>> Hi Amy!
+>>
+>> I can help for Git and Gerrit to the attendees. Will be present at the time and
+>> date you mentioned.
+>>
+>> On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich
+>> <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+>> wrote:
+>>
+>> > We?re looking for 5 folks to help with room support for the Git and
+>> > Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55
+>> > at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of
+>> > Git and Gerrit is helpful as you?ll be helping attendees with
+>> > questions during the presentation. Students tend to run Mac and Linux,
+>> > but there are some Windows users.
+>> >
+>> >
+>> > If you or someone you know uses Git and Gerrit and can help please let
+>> > us know and if anyone knows Windows and can help even for a short time
+>> > we?d appreciate it!
+>> >
+>> >
+>> > Thanks,
+>> >
+>> >
+>> > Amy
+>> >
+>> > _______________________________________________
+>> > Women-of-openstack mailing list
+>> > Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+>> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> >
+>> >
+>>
+>>
+>> --
+>> Thanks!!!
+>>
+>> @exploreshaifali <http://exploreshaifali.github.io/>
+>> Shaifali Agrawal
+>> -------------- next part --------------
+>> An HTML attachment was scrubbed...
+>> URL: <http://lists.openstack.org/pipermail/women-of-
+>> openstack/attachments/20161005/28942c71/attachment-0001.html>
+>>
+>> ------------------------------
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>> End of Women-of-openstack Digest, Vol 24, Issue 4
+>> *************************************************
+>
+>_______________________________________________
+>Women-of-openstack mailing list
+>Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+>http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>-------------- next part --------------
+>An HTML attachment was scrubbed...
+>URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161005/c426b96a/attachment-0001.html>
+>
+>------------------------------
+>
+>Message: 4
+>Date: Wed, 5 Oct 2016 11:32:01 -0400
+>From: Shilla Saebi <shilla.saebi at gmail.com>
+>To: Amy Marrich <Amy.Marrich at rackspace.com>
+>Cc: "women-of-openstack at lists.openstack.org"
+>	<women-of-openstack at lists.openstack.org>, "Foley, Emma L"
+>	<emma.l.foley at intel.com>
+>Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn -
+>	call for	helpers
+>Message-ID:
+>	<CAPrU3jGRJn8p-xRSdZ7885BS0OU4EN0xxGF934LJk2FRqpiDdQ at mail.gmail.com>
+>Content-Type: text/plain; charset="utf-8"
+>
+>Great, can you sign us up for 3 slots? We would love to help
+>
+>Shilla Saebi - Comcast (shilla.saebi at gmail.com)
+>Victor Howard - Comcast (Victor_Howard at cable.comcast.com)
+>Margaret Frances - Comcast (Margaret_Frances at cable.comcast.com)
+>
+>On Wed, Oct 5, 2016 at 11:28 AM, Amy Marrich <Amy.Marrich at rackspace.com>
+>wrote:
+>
+>> Shilla,
+>>
+>> We?re looking for any volunteers.
+>>
+>> Thanks,
+>>
+>> Amy
+>>
+>> From: Shilla Saebi <shilla.saebi at gmail.com>
+>> Date: Wednesday, October 5, 2016 at 10:27 AM
+>> To: "Foley, Emma L" <emma.l.foley at intel.com>
+>> Cc: Amy Marrich <amy.marrich at rackspace.com>, "women-of-openstack at lists.
+>> openstack.org" <women-of-openstack at lists.openstack.org>
+>> Subject: Re: [Women-of-openstack] Git and Gerrit Lunch and Learn - call
+>> for helpers
+>>
+>> Are we looking for women specifically to help with this or any volunteers?
+>>
+>> On Wed, Oct 5, 2016 at 11:01 AM, Foley, Emma L <emma.l.foley at intel.com>
+>> wrote:
+>>
+>>> Hi Amy,
+>>>
+>>> I can lend a hand and (hopefully) help people come to terms with git and
+>>> gerrit.
+>>>
+>>> Regards,
+>>> Emma
+>>>
+>>> > Date: Wed, 5 Oct 2016 11:18:49 +0530
+>>> > From: Shaifali Agrawal <agrawalshaifali09 at gmail.com>
+>>> > To: Amy Marrich <Amy.Marrich at rackspace.com>
+>>> > Cc: "women-of-openstack at lists.openstack.org"
+>>> >       <women-of-openstack at lists.openstack.org>
+>>> >
+>>> > Content-Type: text/plain; charset="utf-8"
+>>> >
+>>> > Hi Amy!
+>>> >
+>>> > I can help for Git and Gerrit to the attendees. Will be present at the
+>>> time and
+>>> > date you mentioned.
+>>> >
+>>> > On Wed, Oct 5, 2016 at 2:35 AM, Amy Marrich
+>>> > <Amy.Marrich at rackspace.com>
+>>> > wrote:
+>>> >
+>>> > > We?re looking for 5 folks to help with room support for the Git and
+>>> > > Gerrit Lunch and Learn to be held Wednesday October 26 from 1:05-2:55
+>>> > > at the Hilton Diagonal Mar - Floor 0 - Ballroom C. Basic knowledge of
+>>> > > Git and Gerrit is helpful as you?ll be helping attendees with
+>>> > > questions during the presentation. Students tend to run Mac and Linux,
+>>> > > but there are some Windows users.
+>>> > >
+>>> > >
+>>> > > If you or someone you know uses Git and Gerrit and can help please let
+>>> > > us know and if anyone knows Windows and can help even for a short time
+>>> > > we?d appreciate it!
+>>> > >
+>>> > >
+>>> > > Thanks,
+>>> > >
+>>> > >
+>>> > > Amy
+>>> > >
+>>> > > _______________________________________________
+>>> > > Women-of-openstack mailing list
+>>> > > Women-of-openstack at lists.openstack.org
+>>> > > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-
+>>> of-openstack
+>>> > >
+>>> > >
+>>> >
+>>> >
+>>> > --
+>>> > Thanks!!!
+>>> >
+>>> > @exploreshaifali <http://exploreshaifali.github.io/>
+>>> > Shaifali Agrawal
+>>> > -------------- next part --------------
+>>> > An HTML attachment was scrubbed...
+>>> > URL: <http://lists.openstack.org/pipermail/women-of-
+>>> > openstack/attachments/20161005/28942c71/attachment-0001.html>
+>>> >
+>>> > ------------------------------
+>>> >
+>>> > _______________________________________________
+>>> > Women-of-openstack mailing list
+>>> > Women-of-openstack at lists.openstack.org
+>>> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>> >
+>>> >
+>>> > End of Women-of-openstack Digest, Vol 24, Issue 4
+>>> > *************************************************
+>>>
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>
+>>
+>>
+>-------------- next part --------------
+>An HTML attachment was scrubbed...
+>URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161005/4d1100dc/attachment.html>
+>
+>------------------------------
+>
+>_______________________________________________
+>Women-of-openstack mailing list
+>Women-of-openstack at lists.openstack.org
+>http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>End of Women-of-openstack Digest, Vol 24, Issue 5
+>*************************************************
+
+From jessicak at us.ibm.com  Thu Oct  6 18:21:36 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 6 Oct 2016 13:21:36 -0500
+Subject: [Women-of-openstack] 32 responses so far to the Women of OpenStack
+ Demographic Survey that is open until Tuesday, Oct 11
+Message-ID: <OF68B326A5.508986C2-ON00258044.00645904-85258044.0064DAEA@notes.na.collabserv.com>
+
+
+
+We've received 32 responses so far, if you haven't had a chance to respond
+to the WOO demographic survey it will only take 2-3 minutes of your time
+-- we'd love to hear from you!
+
+Link to survey: http://ibm.biz/WOO_2016_Survey
+
+Here are the current responses to the first question regarding roles we
+have working with the OpenStack community.
+
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+----- Forwarded by Jessica Murillo/Austin/IBM on 10/06/2016 02:16 PM -----
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Cc:	Jessica Murillo/Austin/IBM at IBMUS
+Date:	10/04/2016 01:46 AM
+Subject:	Invitation: Women of OpenStack Demographic Survey open until
+            Tuesday, Oct 11
+
+
+We'd like to learn more about Women of OpenStack by gathering more
+information about the women who make up our community.
+
+
+We've created a 5 question survey that is being distributed to the Women of
+OpenStack distribution list. The goal of the survey is to learn a little
+more about the women in our community, your role working with OpenStack,
+and where you'd like to see the Women of OpenStack focus our future
+efforts.
+
+
+Link to survey: http://ibm.biz/WOO_2016_Survey
+
+
+Your responses are anonymous and the survey will take you 2-3 minutes to
+complete. Please complete the survey by Monday, October 10.
+
+
+We appreciate the men who support the Women of OpenStack, but we ask that
+the responses come from the women in the community. We will share a summary
+of the responses at the Barcelona summit at the Wednesday morning working
+breakfast and with the Women of Openstack distribution list.
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161006/667984a9/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 19384762.jpg
+Type: image/jpeg
+Size: 58515 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161006/667984a9/attachment-0001.jpg>
+
+From jessicak at us.ibm.com  Tue Oct 11 01:31:40 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 10 Oct 2016 20:31:40 -0500
+Subject: [Women-of-openstack] LAST CHANCE: 63 responses so far to the Women
+ of OpenStack Demographic Survey that is open until Tuesday, Oct 11
+In-Reply-To: <OF68B326A5.508986C2-ON00258044.00645904-85258044.0064DAEA@LocalDomain>
+References: <OF68B326A5.508986C2-ON00258044.00645904-85258044.0064DAEA@LocalDomain>
+Message-ID: <OFA0832F83.340C113F-ON00258049.00080CA2-86258049.00086475@notes.na.collabserv.com>
+
+
+Thank you to everyone who has taken our survey. If you haven't had a chance
+yet, please take 2-3 minutes to submit your responses. I will be closing
+the survey tomorrow.
+
+Link to survey: http://ibm.biz/WOO_2016_Survey
+
+Updated responses to the first question regarding roles we have working
+with the OpenStack community.
+
+
+
+Jessica Murillo
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Date:	10/06/2016 01:21 PM
+Subject:	32 responses so far to the Women of OpenStack Demographic
+            Survey that is open until Tuesday, Oct 11
+
+
+We've received 32 responses so far, if you haven't had a chance to respond
+to the WOO demographic survey it will only take 2-3 minutes of your time
+-- we'd love to hear from you!
+
+Link to survey: http://ibm.biz/WOO_2016_Survey
+
+Here are the current responses to the first question regarding roles we
+have working with the OpenStack community.
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+----- Forwarded by Jessica Murillo/Austin/IBM on 10/06/2016 02:16 PM -----
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Cc:	Jessica Murillo/Austin/IBM at IBMUS
+Date:	10/04/2016 01:46 AM
+Subject:	Invitation: Women of OpenStack Demographic Survey open until
+            Tuesday, Oct 11
+
+
+We'd like to learn more about Women of OpenStack by gathering more
+information about the women who make up our community.
+
+
+We've created a 5 question survey that is being distributed to the Women of
+OpenStack distribution list. The goal of the survey is to learn a little
+more about the women in our community, your role working with OpenStack,
+and where you'd like to see the Women of OpenStack focus our future
+efforts.
+
+
+Link to survey: http://ibm.biz/WOO_2016_Survey
+
+
+Your responses are anonymous and the survey will take you 2-3 minutes to
+complete. Please complete the survey by Monday, October 10.
+
+
+We appreciate the men who support the Women of OpenStack, but we ask that
+the responses come from the women in the community. We will share a summary
+of the responses at the Barcelona summit at the Wednesday morning working
+breakfast and with the Women of Openstack distribution list.
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161010/26bb2644/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 06477112.jpg
+Type: image/jpeg
+Size: 58188 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161010/26bb2644/attachment-0002.jpg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161010/26bb2644/attachment-0001.gif>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 06791391.jpg
+Type: image/jpeg
+Size: 58515 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161010/26bb2644/attachment-0003.jpg>
+
+From claire at openstack.org  Tue Oct 11 15:18:29 2016
+From: claire at openstack.org (Claire Massey)
+Date: Tue, 11 Oct 2016 10:18:29 -0500
+Subject: [Women-of-openstack] Barcelona Summit Map specific for WOO
+Message-ID: <51A96BC8-D3D7-4FA1-9C39-5987BD80B70E@openstack.org>
+
+Hi all,
+
+As promised, attached you?ll find the Barcelona Summit map that highlights some of the key Women of OpenStack specific events happening throughout the week. We will also distribute hardcopies of these maps onsite in Barcelona. 
+
+Few reminders:
+- All Summit sessions that include the tag ?women-of-openstack?, including Tuesday and Wednesday morning breakfasts, can be found using this link: http://bit.ly/BarcelonaWOO <http://bit.ly/BarcelonaWOO>.
+
+ - Make sure to look for the WOO welcome greeters in the registration lobby on Monday afternoon and Tuesday morning.  
+ 
+- Join us for the WOO Welcome Meet-up on Monday, Oct 24 during the Marketplace Mixer. This gathering, sponsored by Comcast, will take place 5:00-7:00pm in the lounge area on the backside of Headline Booth B1 (backside of the Deutsche Telekom booth) shown on the map. 
+
+Cheers,
+Claire
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161011/46ade554/attachment-0002.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: OpenStackBarcelona_WOO_Map.pdf
+Type: application/pdf
+Size: 478207 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161011/46ade554/attachment-0001.pdf>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161011/46ade554/attachment-0003.html>
+
+From jchhatba at redhat.com  Thu Oct 13 06:50:39 2016
+From: jchhatba at redhat.com (Janki Chhatbar)
+Date: Thu, 13 Oct 2016 12:20:39 +0530
+Subject: [Women-of-openstack] Interested to volunteer at Barcelona Summit
+Message-ID: <CABN5Pc5fUXJLLy=F=R95uUAvVyA6UDG7O-d-9oy1J=upY4k1Yw@mail.gmail.com>
+
+Hi
+
+I am Janki Chhatbar. I work in RedHat and contribute to OpenStack actively.
+
+This would be my first summit. I would like to volunteer at the summit and
+help out in any way possible.
+
+I understand this might be a little late for this, I was waiting for visa.
+
+Any guidance/pointer would be much appreciated.
+
+Thanks
+Janki
+SE
+OpenStack Team
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161013/2b6051a4/attachment.html>
+
+From beth.cohen at verizon.com  Thu Oct 13 13:19:17 2016
+From: beth.cohen at verizon.com (Cohen, Beth F (Beth))
+Date: Thu, 13 Oct 2016 09:19:17 -0400
+Subject: [Women-of-openstack] [E] Women-of-openstack Digest, Vol 24,
+	Issue 10
+In-Reply-To: <mailman.1.1476360002.4675.women-of-openstack@lists.openstack.org>
+References: <mailman.1.1476360002.4675.women-of-openstack@lists.openstack.org>
+Message-ID: <24310489C27ED447A664542AA6E308A919BF421957@FHDP1LUMXC7V33.us.one.verizon.com>
+
+Hi Janti -
+I will reach out to you with an opportunity to volunteer at the Summit during the registration.  It is a great opportunity to meet people at the Summit.
+
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com
+
+????
+
+
+-----Original Message-----
+From: women-of-openstack-request at lists.openstack.org [mailto:women-of-openstack-request at lists.openstack.org] 
+Sent: Thursday, October 13, 2016 8:00 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [E] Women-of-openstack Digest, Vol 24, Issue 10
+
+Send Women-of-openstack mailing list submissions to
+	women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+	women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+	women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. Interested to volunteer at Barcelona Summit (Janki Chhatbar)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Thu, 13 Oct 2016 12:20:39 +0530
+From: Janki Chhatbar <jchhatba at redhat.com>
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Interested to volunteer at Barcelona
+	Summit
+Message-ID:
+	<CABN5Pc5fUXJLLy=F=R95uUAvVyA6UDG7O-d-9oy1J=upY4k1Yw at mail.gmail.com>
+Content-Type: text/plain; charset="utf-8"
+
+Hi
+
+I am Janki Chhatbar. I work in RedHat and contribute to OpenStack actively.
+
+This would be my first summit. I would like to volunteer at the summit and help out in any way possible.
+
+I understand this might be a little late for this, I was waiting for visa.
+
+Any guidance/pointer would be much appreciated.
+
+Thanks
+Janki
+SE
+OpenStack Team
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161013/2b6051a4/attachment-0001.html>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 24, Issue 10
+**************************************************
+
+
+From ekhugenbruch at us.ibm.com  Thu Oct 13 14:59:12 2016
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Thu, 13 Oct 2016 10:59:12 -0400
+Subject: [Women-of-openstack] Interested to volunteer at Barcelona Summit
+In-Reply-To: <CABN5Pc5fUXJLLy=F=R95uUAvVyA6UDG7O-d-9oy1J=upY4k1Yw@mail.gmail.com>
+References: <CABN5Pc5fUXJLLy=F=R95uUAvVyA6UDG7O-d-9oy1J=upY4k1Yw@mail.gmail.com>
+Message-ID: <OF9F70E11F.1A4BF28E-ON0025804B.0051BBA2-8525804B.0052532E@notes.na.collabserv.com>
+
+
+Hi Janki,
+This isn't a volunteering opportunity, but you're welcome to come to the
+Speed Mentoring breakfast to meet some other first time attendees:
+https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16889/speed-mentoring-organized-by-women-of-openstack-sponsored-by-intel
+
+If you're already an upstream contributor and you'll be in Barcelona a few
+days early, we're in need of mentors to help out with Upstream University
+on Sunday and Monday
+https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16638/upstream-university-day-1
+  You can send a note to Ildiko (ildiko.vancsa at gmail.com) if you're
+interested in helping out either or both days.
+
+Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	Janki Chhatbar <jchhatba at redhat.com>
+To:	women-of-openstack at lists.openstack.org
+Date:	10/13/2016 02:51 AM
+Subject:	[Women-of-openstack] Interested to volunteer at Barcelona
+            Summit
+
+
+
+Hi
+
+I am Janki Chhatbar. I work in RedHat and contribute to OpenStack actively.
+
+This would be my first summit. I would like to volunteer at the summit and
+help out in any way possible.
+
+I understand this might be a little late for this, I was waiting for visa.
+
+Any guidance/pointer would be much appreciated.
+
+Thanks
+Janki
+SE
+OpenStack Team_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161013/d11c4a2d/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161013/d11c4a2d/attachment.gif>
+
+From jessicak at us.ibm.com  Thu Oct 13 11:46:10 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 13 Oct 2016 06:46:10 -0500
+Subject: [Women-of-openstack] Interested to volunteer at Barcelona Summit
+In-Reply-To: <CABN5Pc5fUXJLLy=F=R95uUAvVyA6UDG7O-d-9oy1J=upY4k1Yw@mail.gmail.com>
+References: <CABN5Pc5fUXJLLy=F=R95uUAvVyA6UDG7O-d-9oy1J=upY4k1Yw@mail.gmail.com>
+Message-ID: <OF945F8AFC.927152C0-ON0025804B.004058AE-8625804B.0040A6E1@notes.na.collabserv.com>
+
+
+Hi Janki - I've included the list of the Women of OpenStack activities
+Claire Massey sent to the distribution list on October 11. These events are
+a great way to meet with other Women of OpenStack and get connected. See
+you in Barcelona!
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Janki Chhatbar <jchhatba at redhat.com>
+To:	women-of-openstack at lists.openstack.org
+Date:	10/13/2016 01:52 AM
+Subject:	[Women-of-openstack] Interested to volunteer at Barcelona
+            Summit
+
+
+
+Hi
+
+I am Janki Chhatbar. I work in RedHat and contribute to OpenStack actively.
+
+This would be my first summit. I would like to volunteer at the summit and
+help out in any way possible.
+
+I understand this might be a little late for this, I was waiting for visa.
+
+Any guidance/pointer would be much appreciated.
+
+Thanks
+Janki
+SE
+OpenStack Team_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161013/45b5bd0b/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 10440272.jpg
+Type: image/jpeg
+Size: 138037 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161013/45b5bd0b/attachment-0001.jpg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161013/45b5bd0b/attachment-0001.gif>
+
+From jchhatba at redhat.com  Fri Oct 14 07:21:20 2016
+From: jchhatba at redhat.com (Janki Chhatbar)
+Date: Fri, 14 Oct 2016 12:51:20 +0530
+Subject: [Women-of-openstack] Interested to volunteer at Barcelona Summit
+In-Reply-To: <OF9F70E11F.1A4BF28E-ON0025804B.0051BBA2-8525804B.0052532E@notes.na.collabserv.com>
+References: <CABN5Pc5fUXJLLy=F=R95uUAvVyA6UDG7O-d-9oy1J=upY4k1Yw@mail.gmail.com>
+ <OF9F70E11F.1A4BF28E-ON0025804B.0051BBA2-8525804B.0052532E@notes.na.collabserv.com>
+Message-ID: <CABN5Pc6jEkfYhO5RO4obVvvdgUUz2pgVj0LNrnDA78YoaMmvuA@mail.gmail.com>
+
+Hi Emily
+
+Thanks for sharing. Will definitely join for the breakfast session.
+I am reaching Barcelona on 24th afternoon, won't be able to make it to the
+university day :(.
+
+On Thu, Oct 13, 2016 at 8:29 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com
+> wrote:
+
+> Hi Janki,
+> This isn't a volunteering opportunity, but you're welcome to come to the
+> Speed Mentoring breakfast to meet some other first time attendees:
+> https://www.openstack.org/summit/barcelona-2016/summit-
+> schedule/events/16889/speed-mentoring-organized-by-women-
+> of-openstack-sponsored-by-intel
+>
+> If you're already an upstream contributor and you'll be in Barcelona a few
+> days early, we're in need of mentors to help out with Upstream University
+> on Sunday and Monday
+> https://www.openstack.org/summit/barcelona-2016/summit-
+> schedule/events/16638/upstream-university-day-1 You can send a note to
+> Ildiko (ildiko.vancsa at gmail.com) if you're interested in helping out
+> either or both days.
+>
+> Thanks!
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+>
+> [image: Inactive hide details for Janki Chhatbar ---10/13/2016 02:51:57
+> AM---Hi I am Janki Chhatbar. I work in RedHat and contribute to]Janki
+> Chhatbar ---10/13/2016 02:51:57 AM---Hi I am Janki Chhatbar. I work in
+> RedHat and contribute to OpenStack actively.
+>
+> From: Janki Chhatbar <jchhatba at redhat.com>
+> To: women-of-openstack at lists.openstack.org
+> Date: 10/13/2016 02:51 AM
+> Subject: [Women-of-openstack] Interested to volunteer at Barcelona Summit
+> ------------------------------
+>
+>
+>
+> Hi
+>
+> I am Janki Chhatbar. I work in RedHat and contribute to OpenStack actively.
+>
+> This would be my first summit. I would like to volunteer at the summit and
+> help out in any way possible.
+>
+> I understand this might be a little late for this, I was waiting for visa.
+>
+> Any guidance/pointer would be much appreciated.
+>
+> Thanks
+> Janki
+> SE
+> OpenStack Team_______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161014/2cd091ea/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161014/2cd091ea/attachment.gif>
+
+From jessicak at us.ibm.com  Mon Oct 17 17:48:30 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 17 Oct 2016 12:48:30 -0500
+Subject: [Women-of-openstack] Reminder: Women of OpenStack team meeting
+ today - 2000 UT / 3pm CT / 4pm ET / 1pm PT
+Message-ID: <OFB005BF3A.437A8537-ON0025804F.00618D1B-8625804F.0061D349@notes.na.collabserv.com>
+
+
+
+Women of OpenStack
+October 17, 2016
+2000 UTC
+
+
+Dial In: 1-203-277-8157 or 866-619-0383? Participant: 7217256# Leader 4018#
+
+
+Leader: Patricia Dugan
+
+Etherpad:? https://etherpad.openstack.org/p/WOS_10_17_16
+Previous Meeting Etherpad: https://etherpad.openstack.org/p/WOS_10_3_16
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161017/2692b834/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Mon Oct 17 21:25:14 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Mon, 17 Oct 2016 21:25:14 +0000
+Subject: [Women-of-openstack] Documentation PTL
+Message-ID: <SN1PR02MB2173A588125B2D238C7D4252F6D00@SN1PR02MB2173.namprd02.prod.outlook.com>
+
+Can someone kindly let me know who the PTL is for OpenStack Documentation project. I know it used to be Anne Gentle but we had this fabulous speaker at Austin who is now the current PTL.  I need to talk to her about an article I am writing.  Many thanks.
+
+
+Thank You,
+Nithya A. Ruff
+Director, WD Open Source Office,  CTO Office
+WIN Board Member
+Western Digital
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+[cid:image001.png at 01D21420.1EC2FD50]
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161017/5f7cedf6/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 10774 bytes
+Desc: image001.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161017/5f7cedf6/attachment-0001.png>
+
+From allison at openstack.org  Mon Oct 17 21:27:05 2016
+From: allison at openstack.org (Allison Price)
+Date: Mon, 17 Oct 2016 16:27:05 -0500
+Subject: [Women-of-openstack] Documentation PTL
+In-Reply-To: <SN1PR02MB2173A588125B2D238C7D4252F6D00@SN1PR02MB2173.namprd02.prod.outlook.com>
+References: <SN1PR02MB2173A588125B2D238C7D4252F6D00@SN1PR02MB2173.namprd02.prod.outlook.com>
+Message-ID: <62D4DD69-C6FF-4824-B230-D24F5DFF3C83@openstack.org>
+
+Hi Nithya, 
+
+It is Lana Brindley. 
+
+Cheers,
+Allison
+
+Allison Price
+OpenStack Foundation
+allison at openstack.org
+
+
+> On Oct 17, 2016, at 4:25 PM, Nithya Ruff <Nithya.Ruff at sandisk.com> wrote:
+> 
+> Can someone kindly let me know who the PTL is for OpenStack Documentation project. I know it used to be Anne Gentle but we had this fabulous speaker at Austin who is now the current PTL.  I need to talk to her about an article I am writing.  Many thanks.
+>  
+>  
+> Thank You,
+> Nithya A. Ruff
+> Director, WD Open Source Office,  CTO Office
+> WIN Board Member
+> Western Digital   
+> 951 SanDisk Drive, Milpitas, CA 95035
+> T: + (408-801-7068)| M: + (510-378-3159)
+> Nithya.Ruff at SanDisk.com <mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff <https://twitter.com/nithyaruff> 
+> 
+> <image001.png>
+> 
+>  
+> PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies). _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161017/94bdcb37/attachment.html>
+
+From Amy.Marrich at rackspace.com  Mon Oct 17 21:29:28 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Mon, 17 Oct 2016 21:29:28 +0000
+Subject: [Women-of-openstack] Documentation PTL
+Message-ID: <D42AACD2.22058%amy.marrich@rackspace.com>
+
+Lana Brindley lana.brindley at rackspace.com
+
+From: Nithya Ruff <Nithya.Ruff at sandisk.com<mailto:Nithya.Ruff at sandisk.com>>
+Date: Monday, October 17, 2016 at 4:25 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Documentation PTL
+
+Can someone kindly let me know who the PTL is for OpenStack Documentation project. I know it used to be Anne Gentle but we had this fabulous speaker at Austin who is now the current PTL.  I need to talk to her about an article I am writing.  Many thanks.
+
+
+Thank You,
+Nithya A. Ruff
+Director, WD Open Source Office,  CTO Office
+WIN Board Member
+Western Digital
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter:@nithyaruff<https://twitter.com/nithyaruff>
+[cid:image001.png at 01D21420.1EC2FD50]
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161017/51f32ecc/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 10774 bytes
+Desc: image001.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161017/51f32ecc/attachment-0001.png>
+
+From openstack at lanabrindley.com  Mon Oct 17 21:32:02 2016
+From: openstack at lanabrindley.com (Lana Brindley)
+Date: Tue, 18 Oct 2016 07:32:02 +1000
+Subject: [Women-of-openstack] Documentation PTL
+In-Reply-To: <D42AACD2.22058%amy.marrich@rackspace.com>
+References: <D42AACD2.22058%amy.marrich@rackspace.com>
+Message-ID: <0f2ce81e-6bc7-c3a6-ef01-4b57d2099747@lanabrindley.com>
+
+Hi! That's me :)
+
+L
+
+On 18/10/16 07:29, Amy Marrich wrote:
+> Lana Brindley lana.brindley at rackspace.com
+> 
+> From: Nithya Ruff <Nithya.Ruff at sandisk.com <mailto:Nithya.Ruff at sandisk.com>>
+> Date: Monday, October 17, 2016 at 4:25 PM
+> To: "women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>>
+> Subject: [Women-of-openstack] Documentation PTL
+> 
+> Can someone kindly let me know who the PTL is for OpenStack Documentation project. I know it used to be Anne Gentle but we had this fabulous speaker at Austin who is now the current PTL.  I need to talk to her about an article I am writing.  Many thanks.
+> 
+>  
+> 
+>  
+> 
+> Thank You,
+> 
+> *Nithya A. Ruff*
+> 
+> *Director, WD Open Source Office,  CTO Office *
+> 
+> *WIN Board Member*
+> 
+> *Western Digital **  *
+> 951 SanDisk Drive, Milpitas, CA 95035
+> T: + (408-801-7068)| M: + (510-378-3159)
+> 
+> Nithya.Ruff at SanDisk.com <mailto:Nithya.Ruff at SanDisk.com>        Twitter:@nithyaruff <https://twitter.com/nithyaruff> 
+> 
+> cid:image001.png at 01D21420.1EC2FD50
+> 
+>  
+> 
+> PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+
+-- 
+Lana Brindley
+Technical Writer
+Rackspace Cloud Builders Australia
+http://lanabrindley.com
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 538 bytes
+Desc: OpenPGP digital signature
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161018/4ff907f0/attachment.pgp>
+
+From solangebf at cnis-mag.com  Mon Oct 24 15:52:33 2016
+From: solangebf at cnis-mag.com (solange)
+Date: Mon, 24 Oct 2016 17:52:33 +0200
+Subject: [Women-of-openstack] Interested to volunteer at Barcelona Summit
+In-Reply-To: <CABN5Pc6jEkfYhO5RO4obVvvdgUUz2pgVj0LNrnDA78YoaMmvuA@mail.gmail.com>
+References: <CABN5Pc5fUXJLLy=F=R95uUAvVyA6UDG7O-d-9oy1J=upY4k1Yw@mail.gmail.com>
+ <OF9F70E11F.1A4BF28E-ON0025804B.0051BBA2-8525804B.0052532E@notes.na.collabserv.com>
+ <CABN5Pc6jEkfYhO5RO4obVvvdgUUz2pgVj0LNrnDA78YoaMmvuA@mail.gmail.com>
+Message-ID: <D433FA9A.16E69%solangebf@cnis-mag.com>
+
+HI !!! 
+
+I am journalist and I would like to speak with one of yours in Barcelona to
+speak about your association. Who would like to meet me ?
+
+Regards,
+
+Solange
+
+Solange Belkhayat-Fuchs
+Editeur et R?dactrice en chef CNIS Mag
+
++336 60 81 94 69
+www.cnis-mag.com
+
+
+De :  Janki Chhatbar <jchhatba at redhat.com>
+Date :  vendredi 14 octobre 2016 09:21
+? :  Emily K Hugenbruch <ekhugenbruch at us.ibm.com>
+Cc :  <women-of-openstack at lists.openstack.org>
+Objet :  Re: [Women-of-openstack] Interested to volunteer at Barcelona
+Summit
+
+Hi Emily
+
+Thanks for sharing. Will definitely join for the breakfast session.
+I am reaching Barcelona on 24th afternoon, won't be able to make it to the
+university day :(.
+
+On Thu, Oct 13, 2016 at 8:29 PM, Emily K Hugenbruch
+<ekhugenbruch at us.ibm.com> wrote:
+> Hi Janki,
+> This isn't a volunteering opportunity, but you're welcome to come to the Speed
+> Mentoring breakfast to meet some other first time attendees:
+> https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16889/s
+> peed-mentoring-organized-by-women-of-openstack-sponsored-by-intel
+> 
+> If you're already an upstream contributor and you'll be in Barcelona a few
+> days early, we're in need of mentors to help out with Upstream University on
+> Sunday and Monday
+> https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16638/u
+> pstream-university-day-1  You can send a note to Ildiko
+> (ildiko.vancsa at gmail.com) if you're interested in helping out either or both
+> days. 
+> 
+> Thanks!
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+> 
+> Janki Chhatbar ---10/13/2016 02:51:57 AM---Hi I am Janki Chhatbar. I work in
+> RedHat and contribute to OpenStack actively.
+> 
+> From:        Janki Chhatbar <jchhatba at redhat.com>
+> To:        women-of-openstack at lists.openstack.org
+> Date:        10/13/2016 02:51 AM
+> Subject:        [Women-of-openstack] Interested to volunteer at Barcelona
+> Summit
+> 
+> 
+> 
+> 
+> Hi
+> 
+> I am Janki Chhatbar. I work in RedHat and contribute to OpenStack actively.
+> 
+> This would be my first summit. I would like to volunteer at the summit and
+> help out in any way possible.
+> 
+> I understand this might be a little late for this, I was waiting for visa.
+> 
+> Any guidance/pointer would be much appreciated.
+> 
+> Thanks
+> Janki
+> SE
+> OpenStack Team_______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> 
+> 
+> 
+
+_______________________________________________ Women-of-openstack mailing
+list Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161024/198ab6b1/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161024/198ab6b1/attachment.gif>
+
+From bfcohen at luthcomputer.com  Mon Oct 24 17:53:56 2016
+From: bfcohen at luthcomputer.com (bfcohen)
+Date: Mon, 24 Oct 2016 19:53:56 +0200
+Subject: [Women-of-openstack] Interested to volunteer at Barcelona Summit
+Message-ID: <lbe2ud34vtlj3odtkrjngf1k.1477331636028@email.android.com>
+
+I can talk to you about it if you would like. ?Are you attending the Summit this week??
+
+
+Sent from my Verizon, Samsung Galaxy smartphone
+-------- Original message --------From: solange <solangebf at cnis-mag.com> Date: 10/24/16  5:52 PM  (GMT+01:00) To: Janki Chhatbar <jchhatba at redhat.com>, Emily K Hugenbruch <ekhugenbruch at us.ibm.com> Cc: women-of-openstack at lists.openstack.org Subject: Re: [Women-of-openstack] Interested to volunteer at Barcelona Summit 
+HI !!!?
+I am journalist and I would like to speak with one of yours in Barcelona to speak about your association. Who would like to meet me ??
+Regards,
+Solange
+Solange Belkhayat-FuchsEditeur et R?dactrice en chef CNIS Mag
++336 60 81 94 69www.cnis-mag.com
+
+De?:  Janki Chhatbar <jchhatba at redhat.com>
+Date?:  vendredi 14 octobre 2016 09:21
+??:  Emily K Hugenbruch <ekhugenbruch at us.ibm.com>
+Cc?:  <women-of-openstack at lists.openstack.org>
+Objet?:  Re: [Women-of-openstack] Interested to volunteer at Barcelona Summit
+
+Hi Emily
+
+Thanks for sharing. Will definitely join for the breakfast session. 
+I am reaching Barcelona on 24th afternoon, won't be able to make it to the university day :(.
+
+On Thu, Oct 13, 2016 at 8:29 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com> wrote:
+Hi Janki,
+This isn't a volunteering opportunity, but you're welcome to come to the Speed Mentoring breakfast to meet some other first time attendees:
+https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16889/speed-mentoring-organized-by-women-of-openstack-sponsored-by-intel
+
+If you're already an upstream contributor and you'll be in Barcelona a few days early, we're in need of mentors to help out with Upstream University on Sunday and Monday 
+https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16638/upstream-university-day-1  You can send a note to Ildiko (ildiko.vancsa at gmail.com) if you're interested in helping out either or both days. 
+
+Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+Janki Chhatbar ---10/13/2016 02:51:57 AM---Hi I am Janki Chhatbar. I work in RedHat and contribute to OpenStack actively.
+
+From:        Janki Chhatbar <jchhatba at redhat.com>
+To:        women-of-openstack at lists.openstack.org
+Date:        10/13/2016 02:51 AM
+Subject:        [Women-of-openstack] Interested to volunteer at Barcelona Summit
+
+
+
+Hi
+
+I am Janki Chhatbar. I work in RedHat and contribute to OpenStack actively.
+
+This would be my first summit. I would like to volunteer at the summit and help out in any way possible.
+
+I understand this might be a little late for this, I was waiting for visa.
+
+Any guidance/pointer would be much appreciated.
+
+Thanks
+Janki
+SE
+OpenStack Team_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161024/62af2d0f/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161024/62af2d0f/attachment-0001.gif>
+
+From solangebf at cnis-mag.com  Tue Oct 25 07:39:43 2016
+From: solangebf at cnis-mag.com (solange)
+Date: Tue, 25 Oct 2016 09:39:43 +0200
+Subject: [Women-of-openstack] Interested to volunteer at Barcelona Summit
+In-Reply-To: <lbe2ud34vtlj3odtkrjngf1k.1477331636028@email.android.com>
+References: <lbe2ud34vtlj3odtkrjngf1k.1477331636028@email.android.com>
+Message-ID: <D434D8C7.16EB7%solangebf@cnis-mag.com>
+
+Yes I am there ? tell me where and when ?
+
+Regards,
+
+Solange
+
+Solange Belkhayat-Fuchs
+Editeur et R?dactrice en chef CNIS Mag
+
++336 60 81 94 69
+www.cnis-mag.com
+
+
+De :  bfcohen <bfcohen at luthcomputer.com> on behalf of bfcohen
+<bfcohen at luthcomputer.com>
+Date :  lundi 24 octobre 2016 19:53
+? :  solange <solangebf at cnis-mag.com>, Janki Chhatbar <jchhatba at redhat.com>,
+Emily K Hugenbruch <ekhugenbruch at us.ibm.com>
+Cc :  <women-of-openstack at lists.openstack.org>
+Objet :  Re: [Women-of-openstack] Interested to volunteer at Barcelona
+Summit
+
+I can talk to you about it if you would like.  Are you attending the Summit
+this week? 
+
+
+
+Sent from my Verizon, Samsung Galaxy smartphone
+
+-------- Original message --------
+From: solange <solangebf at cnis-mag.com>
+Date: 10/24/16  5:52 PM  (GMT+01:00)
+To: Janki Chhatbar <jchhatba at redhat.com>, Emily K Hugenbruch
+<ekhugenbruch at us.ibm.com>
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Interested to volunteer at Barcelona
+Summit 
+
+HI !!! 
+
+I am journalist and I would like to speak with one of yours in Barcelona to
+speak about your association. Who would like to meet me ?
+
+Regards,
+
+Solange
+
+Solange Belkhayat-Fuchs
+Editeur et R?dactrice en chef CNIS Mag
+
++336 60 81 94 69
+www.cnis-mag.com
+
+
+De :  Janki Chhatbar <jchhatba at redhat.com>
+Date :  vendredi 14 octobre 2016 09:21
+? :  Emily K Hugenbruch <ekhugenbruch at us.ibm.com>
+Cc :  <women-of-openstack at lists.openstack.org>
+Objet :  Re: [Women-of-openstack] Interested to volunteer at Barcelona
+Summit
+
+Hi Emily
+
+Thanks for sharing. Will definitely join for the breakfast session.
+I am reaching Barcelona on 24th afternoon, won't be able to make it to the
+university day :(.
+
+On Thu, Oct 13, 2016 at 8:29 PM, Emily K Hugenbruch
+<ekhugenbruch at us.ibm.com> wrote:
+> Hi Janki,
+> This isn't a volunteering opportunity, but you're welcome to come to the Speed
+> Mentoring breakfast to meet some other first time attendees:
+> https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16889/s
+> peed-mentoring-organized-by-women-of-openstack-sponsored-by-intel
+> 
+> If you're already an upstream contributor and you'll be in Barcelona a few
+> days early, we're in need of mentors to help out with Upstream University on
+> Sunday and Monday
+> https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/16638/u
+> pstream-university-day-1  You can send a note to Ildiko
+> (ildiko.vancsa at gmail.com) if you're interested in helping out either or both
+> days. 
+> 
+> Thanks!
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+> 
+> Janki Chhatbar ---10/13/2016 02:51:57 AM---Hi I am Janki Chhatbar. I work in
+> RedHat and contribute to OpenStack actively.
+> 
+> From:        Janki Chhatbar <jchhatba at redhat.com>
+> To:        women-of-openstack at lists.openstack.org
+> Date:        10/13/2016 02:51 AM
+> Subject:        [Women-of-openstack] Interested to volunteer at Barcelona
+> Summit
+> 
+> 
+> 
+> 
+> Hi
+> 
+> I am Janki Chhatbar. I work in RedHat and contribute to OpenStack actively.
+> 
+> This would be my first summit. I would like to volunteer at the summit and
+> help out in any way possible.
+> 
+> I understand this might be a little late for this, I was waiting for visa.
+> 
+> Any guidance/pointer would be much appreciated.
+> 
+> Thanks
+> Janki
+> SE
+> OpenStack Team_______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> 
+> 
+> 
+
+_______________________________________________ Women-of-openstack mailing
+list 
+Women-of-openstack at lists.openstack.orghttp://lists.openstack.org/cgi-bin/mai
+lman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161025/004a8b67/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161025/004a8b67/attachment.gif>
+

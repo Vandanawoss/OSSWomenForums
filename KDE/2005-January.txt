@@ -1,0 +1,32 @@
+From hase at umbc.edu  Fri Jan 21 23:47:58 2005
+From: hase at umbc.edu (Human Aspects of Software Engineering)
+Date: Fri Jan 21 23:48:05 2005
+Subject: [Kde-women] KDE Perceived Software Quality Survey
+Message-ID: <2020.130.85.90.164.1106347678.squirrel@130.85.90.164>
+
+Dear KDE Users and Developers:
+
+We are conducting empirical research on the quality and interface aspects
+of various software. Therefore, we are investigating the perceived quality
+of the KDE desktop software. For this purpose, we have created a short
+survey. We would highly appreciate it if you could follow the link below
+and fill out this survey:
+
+http://www.umbc.edu/hase/kdesurvey.html
+
+
+The developers who use KDE during their daily computer operations can
+respond too.
+
+Many thanks for your help. Apologies if you received more than one copy.
+
+HASE
+HUMAN ASPECTS of SOFTWARE ENGINEERING
+INFORMATION SYSTEMS DEPARTMENT, UMBC
+hase@umbc.edu
+
+All HASE surveys are reviewed and approved by the Institutional Review
+Board of UMBC.
+
+
+

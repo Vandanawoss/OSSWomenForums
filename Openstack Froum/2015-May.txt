@@ -1,0 +1,1779 @@
+From claire at openstack.org  Fri May 15 16:08:32 2015
+From: claire at openstack.org (Claire Massey)
+Date: Fri, 15 May 2015 11:08:32 -0500
+Subject: [Women-of-openstack] Summit Events - Vancouver 2015
+Message-ID: <0CF774FB-9363-425C-A10D-CC44019483D4@openstack.org>
+
+Hello wonderful women of OpenStack,
+
+We look forward to seeing everyone who?s able to attend the Summit in Vancouver next week!  Below is a list of the women-specific events that we have planned.
+
+See you soon!
+
+Cheers,
+Claire
+
+
+
+OpenStack Summit Vancouver, May 18-22, 2015
+
+SUNDAY
+Women of OpenStack Networking Event sponsored by Intel and IBM
+This two-part event is now at max capacity. Thank you to everyone who RSVP?d. 
+Yacht Cruise, 3:00 - 6:00pm
+Happy Hour, 6:00 - 7:30pm
+Directions will be emailed to everyone who RSVP?d. We?ll see you soon!
+
+
+MONDAY
+Ally Skills Workshop <https://adainitiative.org/2015/04/register-now-ally-skills-workshop-at-openstack-summit-2015/> lead by the Ada Initiative - Sponsored by the Women of OpenStack, 2:00-6:00pm
+Help change the culture of open source to be more welcoming to women, newcomers, and people in marginalized groups. This workshop is designed to teach men simple, everyday ways to support women in their workplaces and communities. The workshop is primarily geared towards men participants and has a very limited capacity. Please encourage your male colleagues to apply <https://adainitiative.org/2015/04/register-now-ally-skills-workshop-at-openstack-summit-2015/>!
+
+
+TUESDAY
+Breakfast Working Session <https://openstacksummitmay2015vancouver.sched.org/event/1f775890cefa37dabd4adb3cad3260c9#.VVYXVc7yS5I>, 7:00-8:45am
+Room 111/112
+There will again be a working breakfast session for the Women of OpenStack on Tuesday morning before keynotes. We?ll hear lightning talks covering various topics including imposter syndrome, mentorship and leadership. We?ll then break into smaller discussion groups to identify actions and goals for the Women of OpenStack to achieve over the next six months. Breakfast and coffee will be provided. No RSVP required. 
+
+Session: Standing Tall in the Room <https://openstacksummitmay2015vancouver.sched.org/event/b284b605b47b6652358b8ac650366eca#.VSbb1VzyS5I>, 2:00-2:40pm
+Room 110
+Join this panel of empowered women as we cover some of the tips and tricks for getting heard in an environment filled with many egos and opinions. Presenters: Beth Cohen, Nalee Jang, Liz Joseph, Rainya Mosher, Radha Ratnaparkhi, Shilla Saebi and Alexandra Settle. 
+
+Tech Talk Presentations <http://openstack.prov12n.com/vbrownbag-techtalks-at-vancouver-summitthe-schedule/>, 11:00am - 6:00pm
+Room 106
+The #vBrownBag Tech Talks are brief 10-minute talks presented to a very small audience (less than 20 people). The talks are livestreamed, video recorded and posted online within 24 hours. All of the Tech Talks slots on Tuesday have been reserved for the Women of OpenStack. View the schedule here <http://openstack.prov12n.com/vbrownbag-techtalks-at-vancouver-summitthe-schedule/>.
+
+
+WEDNESDAY
+Afternoon Coffee Break Sync,  4:00-4:30pm
+Park area of the Expo Hall
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150515/0de4abc5/attachment.html>
+
+From valerie at adainitiative.org  Sat May 16 23:37:08 2015
+From: valerie at adainitiative.org (Valerie Aurora)
+Date: Sat, 16 May 2015 16:37:08 -0700
+Subject: [Women-of-openstack] Summit Events - Vancouver 2015
+In-Reply-To: <0CF774FB-9363-425C-A10D-CC44019483D4@openstack.org>
+References: <0CF774FB-9363-425C-A10D-CC44019483D4@openstack.org>
+Message-ID: <CAJTcPQD5N4Z9dH_mno7Dhx_E_V2x8KOOqiX6K7krjOFK+kN9Ug@mail.gmail.com>
+
+On Fri, May 15, 2015 at 9:08 AM, Claire Massey <claire at openstack.org> wrote:
+
+> Hello wonderful women of OpenStack,
+>
+> We look forward to seeing everyone who?s able to attend the Summit in
+> Vancouver next week!  Below is a list of the women-specific events that we
+> have planned.
+>
+> See you soon!
+>
+> MONDAY
+> *Ally Skills Workshop
+> <https://adainitiative.org/2015/04/register-now-ally-skills-workshop-at-openstack-summit-2015/> lead
+> by the Ada Initiative - Sponsored by the Women of OpenStack, 2:00-6:00pm*
+> Help change the culture of open source to be more welcoming to women,
+> newcomers, and people in marginalized groups. This workshop is designed to
+> teach men simple, everyday ways to support women in their workplaces and
+> communities. The workshop is primarily geared towards men participants and
+> has a very limited capacity. Please encourage your male colleagues to
+> apply
+> <https://adainitiative.org/2015/04/register-now-ally-skills-workshop-at-openstack-summit-2015/>
+> !
+>
+
+Hello again, wonderful women of OpenStack! I will be teaching the Ally
+Skills Workshop, and thanks to your help, we are nearly at capacity. Thank
+you!
+
+Claire and I would like to encourage a few more women to take the remaining
+spots at the workshop. A crucial part of the workshop is women sharing
+their knowledge and experiences (and men listening), and we would really
+appreciate your help. If you were interested in attending but didn't want
+to take up a spot, now is the time to register
+<https://adainitiative.org/2015/04/register-now-ally-skills-workshop-at-openstack-summit-2015/>
+!
+
+https://adainitiative.org/2015/04/register-now-ally-skills-workshop-at-openstack-summit-2015/
+
+Here are some things women in particular have said about attending this
+workshop:
+
+"Hearing [my co-workers] discuss power and privilege in the workplace, and
+the various "a?ha!" moments people had, were very encouraging and made me
+feel heard and encouraged."
+
+"I loved the open dialogue of this workshop, and the fact that it wasn't a
+discussion of whether issues of sexism exist, but how to deal with the fact
+that they do."
+
+"It was a great workshop. I liked pretty much everything." (!!! not a
+plant!)
+
+See you at one of the many great Women of OpenStack events next week!
+
+-VAL
+
+-- 
+Valerie Aurora
+Director of Training
+
+You can help increase the participation of women in open technology and
+culture!
+Donate today at http://adainitiative.org/donate/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150516/e21f8bb9/attachment.html>
+
+From openstack at lanabrindley.com  Sat May 16 23:55:15 2015
+From: openstack at lanabrindley.com (Lana Brindley)
+Date: Sat, 16 May 2015 16:55:15 -0700
+Subject: [Women-of-openstack] Summit Events - Vancouver 2015
+In-Reply-To: <CAJTcPQD5N4Z9dH_mno7Dhx_E_V2x8KOOqiX6K7krjOFK+kN9Ug@mail.gmail.com>
+References: <0CF774FB-9363-425C-A10D-CC44019483D4@openstack.org>
+ <CAJTcPQD5N4Z9dH_mno7Dhx_E_V2x8KOOqiX6K7krjOFK+kN9Ug@mail.gmail.com>
+Message-ID: <4C35822C-0644-4221-A971-AA276B8D8F21@lanabrindley.com>
+
+
+On 16 May 2015, at 4:37 pm, Valerie Aurora <valerie at adainitiative.org> wrote:
+
+> On Fri, May 15, 2015 at 9:08 AM, Claire Massey <claire at openstack.org> wrote:
+> Hello wonderful women of OpenStack,
+> 
+> We look forward to seeing everyone who?s able to attend the Summit in Vancouver next week!  Below is a list of the women-specific events that we have planned.
+> 
+> See you soon!
+> 
+> MONDAY
+> Ally Skills Workshop lead by the Ada Initiative - Sponsored by the Women of OpenStack, 2:00-6:00pm
+> Help change the culture of open source to be more welcoming to women, newcomers, and people in marginalized groups. This workshop is designed to teach men simple, everyday ways to support women in their workplaces and communities. The workshop is primarily geared towards men participants and has a very limited capacity. Please encourage your male colleagues to apply!
+> 
+> Hello again, wonderful women of OpenStack! I will be teaching the Ally Skills Workshop, and thanks to your help, we are nearly at capacity. Thank you!
+> 
+> Claire and I would like to encourage a few more women to take the remaining spots at the workshop. A crucial part of the workshop is women sharing their knowledge and experiences (and men listening), and we would really appreciate your help. If you were interested in attending but didn't want to take up a spot, now is the time to register!
+> 
+> https://adainitiative.org/2015/04/register-now-ally-skills-workshop-at-openstack-summit-2015/
+> 
+> Here are some things women in particular have said about attending this workshop:
+> 
+> "Hearing [my co-workers] discuss power and privilege in the workplace, and the various "a?ha!" moments people had, were very encouraging and made me feel heard and encouraged."
+> 
+> "I loved the open dialogue of this workshop, and the fact that it wasn't a discussion of whether issues of sexism exist, but how to deal with the fact that they do."
+> 
+> "It was a great workshop. I liked pretty much everything." (!!! not a plant!)
+> 
+> See you at one of the many great Women of OpenStack events next week!
+
+Sadly, I have a conflict, but I strongly recommend this course to anyone who would like to tag along :)
+
+L
+
+Lana Brindley
+Technical Writer
+Rackspace Cloud Builders Australia
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150516/2c31e8ec/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 496 bytes
+Desc: Message signed with OpenPGP using GPGMail
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150516/2c31e8ec/attachment.pgp>
+
+From jessicak at us.ibm.com  Mon May 18 05:36:36 2015
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 18 May 2015 00:36:36 -0500
+Subject: [Women-of-openstack] Great start to Vancouver Summit - please join
+	these other events
+Message-ID: <OF4E7C6B6A.16F87BE0-ON87257E49.001E32C6-86257E49.001ED966@us.ibm.com>
+
+
+Thanks to everyone who was able to attend today's Women of OpenStack events
+-- it was great to see so many new faces!
+
+I hope you are also able to attend the other Women of OpenStack events
+scheduled throughout the week including our breakfast working session on
+Tuesday morning.
+
+It isn't the power of me, it is the power of we.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Office Phone: 512-286-7691, T/L: 363-7691
+Mobile Phone: 512-970-8466
+jessicak at us.ibm.com
+----- Forwarded by Jessica Murillo/Austin/IBM on 05/18/2015 12:30 AM -----
+
+From:	Claire Massey <claire at openstack.org>
+To:	women-of-openstack at lists.openstack.org
+Date:	05/15/2015 11:18 AM
+Subject:	[Women-of-openstack] Summit Events - Vancouver 2015
+
+
+
+Hello wonderful women of OpenStack,
+
+We look forward to seeing everyone who?s able to attend the Summit in
+Vancouver next week!  Below is a list of the women-specific events that we
+have planned.
+
+See you soon!
+
+Cheers,
+Claire
+
+
+
+OpenStack Summit Vancouver, May 18-22, 2015
+
+SUNDAY
+Women of OpenStack Networking Event sponsored by Intel and IBM
+This two-part event is now at max capacity. Thank you to everyone who
+RSVP?d.
+Yacht Cruise, 3:00 - 6:00pm
+Happy Hour, 6:00 - 7:30pm
+Directions will be emailed to everyone who RSVP?d. We?ll see you soon!
+
+
+MONDAY
+Ally Skills Workshop lead by the Ada Initiative - Sponsored by the Women of
+OpenStack, 2:00-6:00pm
+Help change the culture of open source to be more welcoming to women,
+newcomers, and people in marginalized groups. This workshop is designed to
+teach men simple, everyday ways to support women in their workplaces and
+communities. The workshop is primarily geared towards men participants and
+has a very limited capacity. Please encourage your male colleagues to apply
+!
+
+
+TUESDAY
+Breakfast Working Session, 7:00-8:45am
+Room 111/112
+There will again be a working breakfast session for the Women of OpenStack
+on Tuesday morning before keynotes. We?ll hear lightning talks covering
+various topics including imposter syndrome, mentorship and leadership.
+We?ll then break into smaller discussion groups to identify actions and
+goals for the Women of OpenStack to achieve over the next six months.
+Breakfast and coffee will be provided. No RSVP required.
+
+Session: Standing Tall in the Room, 2:00-2:40pm
+Room 110
+Join this panel of empowered women as we cover some of the tips and tricks
+for getting heard in an environment filled with many egos and opinions.
+Presenters: Beth Cohen, Nalee Jang, Liz Joseph, Rainya Mosher, Radha
+Ratnaparkhi, Shilla Saebi and Alexandra Settle.
+
+Tech Talk Presentations, 11:00am - 6:00pm
+Room 106
+The #vBrownBag Tech Talks are brief 10-minute talks presented to a very
+small audience (less than 20 people). The talks are livestreamed, video
+recorded and posted online within 24 hours. All of the Tech Talks slots on
+Tuesday have been reserved for the Women of OpenStack. View the schedule
+here.
+
+
+WEDNESDAY
+Afternoon Coffee Break Sync,  4:00-4:30pm
+Park area of the Expo Hall
+Join your fellow Women of OpenStack to sync up once more during the Summit
+and provide feedback on how your Summit experience is going thus far.
+Coffee and snacks will be provided. No RSVP required.
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150518/b220d2b5/attachment.html>
+
+From rukhsana.ansari at oneconvergence.com  Tue May 19 20:17:00 2015
+From: rukhsana.ansari at oneconvergence.com (Rukhsana Ansari)
+Date: Tue, 19 May 2015 13:17:00 -0700
+Subject: [Women-of-openstack] Openstack Summit Vancouver talk: Policy Based
+ Network Services for OpenStack Cloud
+Message-ID: <CAMkjQ1fGC1wDwy8C-=Xhqgy+dwJ1-BhG7qh7X6ANTnfyna+mUQ@mail.gmail.com>
+
+Hi,
+
+For those of you attending the summit, I hope if you still around on
+Thursday, May 21 (1:10-1:30 PM),  you are able to attend  this talk:
+One Convergence: Policy Based Network Services for OpenStack Cloud
+http://openstacksummitmay2015vancouver.sched.org/event/d328525ec6d87ffdfffe13bfc9815885#
+
+-Rukhsana
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150519/ccf8c234/attachment.html>
+
+From claire at openstack.org  Wed May 20 23:03:28 2015
+From: claire at openstack.org (Claire Massey)
+Date: Wed, 20 May 2015 16:03:28 -0700
+Subject: [Women-of-openstack] Join us for a WOO Coffee Sync
+Message-ID: <A9F06F08-80BB-4E90-9621-DD33AC6D51DF@openstack.org>
+
+Join us now for an afternoon Coffee Break Sync (from 4:00-4:30pm)
+
+Meet us in the back left corner (when you're facing the water) of the Marketplace Expo Hall by the windows. 
+
+Come join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. 
+
+Claire Massey
+OpenStack Marketing
+claire at openstack.org
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150520/626fb0ff/attachment.html>
+
+From aplimpton at gmail.com  Thu May 21 18:32:48 2015
+From: aplimpton at gmail.com (APlimpton)
+Date: Thu, 21 May 2015 11:32:48 -0700
+Subject: [Women-of-openstack] Twitter hashtag for the group
+Message-ID: <CA+8x=aq4TzhGAWPBTjYvwYbZn=jPv+167bsQHS3c1bEw+Sy0VA@mail.gmail.com>
+
+Does the Women of OpenStack group have a twitter hashtag that we should be
+using?
+
+Thanks,
+Amanda
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150521/7a599219/attachment.html>
+
+From shilla.saebi at gmail.com  Thu May 21 18:36:38 2015
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Thu, 21 May 2015 11:36:38 -0700
+Subject: [Women-of-openstack] Twitter hashtag for the group
+In-Reply-To: <CA+8x=aq4TzhGAWPBTjYvwYbZn=jPv+167bsQHS3c1bEw+Sy0VA@mail.gmail.com>
+References: <CA+8x=aq4TzhGAWPBTjYvwYbZn=jPv+167bsQHS3c1bEw+Sy0VA@mail.gmail.com>
+Message-ID: <5DF85407-83E8-48C5-BF24-C7076A47DAC8@gmail.com>
+
+I was thinking and wondering that myself. Time to start one! I've been using #WomenofOpenStack any other suggestions?
+
+Sent from my iPhone
+
+> On May 21, 2015, at 11:32 AM, APlimpton <aplimpton at gmail.com> wrote:
+> 
+> Does the Women of OpenStack group have a twitter hashtag that we should be using?
+> 
+> Thanks,
+> Amanda
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+From aplimpton at gmail.com  Thu May 21 18:38:23 2015
+From: aplimpton at gmail.com (APlimpton)
+Date: Thu, 21 May 2015 11:38:23 -0700
+Subject: [Women-of-openstack] Twitter hashtag for the group
+In-Reply-To: <5DF85407-83E8-48C5-BF24-C7076A47DAC8@gmail.com>
+References: <CA+8x=aq4TzhGAWPBTjYvwYbZn=jPv+167bsQHS3c1bEw+Sy0VA@mail.gmail.com>
+ <5DF85407-83E8-48C5-BF24-C7076A47DAC8@gmail.com>
+Message-ID: <CA+8x=aqdhYJN59jLM_fcP21ww2JsKMy=DLP4qDOyWVuM8DqxsQ@mail.gmail.com>
+
+Yes, #WomenofOpenStack seems logical if long. The abbreviation though would
+be unfortunate, we don't really seem like WoO girls. ;-)
+
+Other suggestions?
+
+:)
+
+On Thu, May 21, 2015 at 11:36 AM, Shilla Saebi <shilla.saebi at gmail.com>
+wrote:
+
+> I was thinking and wondering that myself. Time to start one! I've been
+> using #WomenofOpenStack any other suggestions?
+>
+> Sent from my iPhone
+>
+> > On May 21, 2015, at 11:32 AM, APlimpton <aplimpton at gmail.com> wrote:
+> >
+> > Does the Women of OpenStack group have a twitter hashtag that we should
+> be using?
+> >
+> > Thanks,
+> > Amanda
+> > _______________________________________________
+> > Women-of-openstack mailing list
+> > Women-of-openstack at lists.openstack.org
+> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150521/a0d01d4f/attachment.html>
+
+From jessicak at us.ibm.com  Thu May 21 18:46:15 2015
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 21 May 2015 14:46:15 -0400
+Subject: [Women-of-openstack] Twitter hashtag for the group
+In-Reply-To: <CA+8x=aqdhYJN59jLM_fcP21ww2JsKMy=DLP4qDOyWVuM8DqxsQ@mail.gmail.com>
+Message-ID: <592A213B-2B82-4FD9-8ED6-25D20661D2F5@us.ibm.com>
+
+We have been using #womenofopenstack 
+
+Jessica
+Sent from my iPhone
+
+> On May 21, 2015, at 1:38 PM, APlimpton <aplimpton at gmail.com> wrote:
+> 
+> Yes, #WomenofOpenStack seems logical if long. The abbreviation though would be unfortunate, we don't really seem like WoO girls. ;-)
+> 
+> Other suggestions?
+> 
+> :)
+> 
+>> On Thu, May 21, 2015 at 11:36 AM, Shilla Saebi <shilla.saebi at gmail.com> wrote:
+>> I was thinking and wondering that myself. Time to start one! I've been using #WomenofOpenStack any other suggestions?
+>> 
+>> Sent from my iPhone
+>> 
+>> > On May 21, 2015, at 11:32 AM, APlimpton <aplimpton at gmail.com> wrote:
+>> >
+>> > Does the Women of OpenStack group have a twitter hashtag that we should be using?
+>> >
+>> > Thanks,
+>> > Amanda
+>> > _______________________________________________
+>> > Women-of-openstack mailing list
+>> > Women-of-openstack at lists.openstack.org
+>> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150521/a1f8a63e/attachment.html>
+
+From alexis.m.crowell at intel.com  Thu May 21 18:49:44 2015
+From: alexis.m.crowell at intel.com (Crowell, Alexis M)
+Date: Thu, 21 May 2015 18:49:44 +0000
+Subject: [Women-of-openstack] Twitter hashtag for the group
+In-Reply-To: <592A213B-2B82-4FD9-8ED6-25D20661D2F5@us.ibm.com>
+References: <CA+8x=aqdhYJN59jLM_fcP21ww2JsKMy=DLP4qDOyWVuM8DqxsQ@mail.gmail.com>
+ <592A213B-2B82-4FD9-8ED6-25D20661D2F5@us.ibm.com>
+Message-ID: <776B384E1F9472469C93B2E0B784CFB04FFDCB16@ORSMSX112.amr.corp.intel.com>
+
+We have been using #womenofopenstack as well
+
+From: Jessica Murillo [mailto:jessicak at us.ibm.com]
+Sent: Thursday, May 21, 2015 11:46 AM
+To: APlimpton
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Twitter hashtag for the group
+
+We have been using #womenofopenstack
+
+Jessica
+Sent from my iPhone
+
+On May 21, 2015, at 1:38 PM, APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>> wrote:
+Yes, #WomenofOpenStack seems logical if long. The abbreviation though would be unfortunate, we don't really seem like WoO girls. ;-)
+
+Other suggestions?
+
+:)
+
+On Thu, May 21, 2015 at 11:36 AM, Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>> wrote:
+I was thinking and wondering that myself. Time to start one! I've been using #WomenofOpenStack any other suggestions?
+
+Sent from my iPhone
+
+> On May 21, 2015, at 11:32 AM, APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>> wrote:
+>
+> Does the Women of OpenStack group have a twitter hashtag that we should be using?
+>
+> Thanks,
+> Amanda
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150521/a3b83774/attachment.html>
+
+From rainya.mosher at gmail.com  Tue May 26 21:34:26 2015
+From: rainya.mosher at gmail.com (Rainya Mosher)
+Date: Tue, 26 May 2015 16:34:26 -0500
+Subject: [Women-of-openstack] WOS Standing Tall in the Room Panel Recording
+	+ Blogs
+Message-ID: <CAPGMpJ=CF8RHCXHM-=o6877y6Zsv6keQ8Zg1mPx_RHNzJoE7tw@mail.gmail.com>
+
+I posted this to the LinkedIn group but also wanted to send it out to the
+list for those not active on LinkedIn. Cheers!
+
+*****
+
+If you were unable to attend the Summit, held last week in Vancouver,
+recordings of all the session talks and keynotes are online. I want to
+highlight the record of the Women of OpenStack Panel, Standing Tall in the
+Room. I had the great pleasure of speaking on this panel with 4 other
+amazing women (Nalee Jang, Elizabeth Joseph, Radha Ratnaparkhi and Shilla
+Saebi ) and our fearless leader and moderator, Beth Cohen.
+
+Alexandra Settle was not able to make it to Vancouver from Australia, but
+has a featured post on rackspace.com blog discussing the history of the WOS
+group, a summar of the panel discussion, and a call to join the group. The
+post can be found here:
+http://www.rackspace.com/blog/women-of-openstack-is-growing-come-join-us/
+<http://www.linkedin.com/redir/redirect?url=http%3A%2F%2Fwww%2Erackspace%2Ecom%2Fblog%2Fwomen-of-openstack-is-growing-come-join-us%2F&urlhash=l8pn&_t=tracking_anet>
+
+Radha is also writing a post (I believe for IBM's blog) and I am planning
+to add to the conversation on my personal blog (rainya.com) later this
+week.
+
+You can find the full panel recording, which had a lively Q&A session,
+here:
+https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/standing-tall-in-the-room-sponsored-by-the-women-of-openstack
+<http://www.linkedin.com/redir/redirect?url=https%3A%2F%2Fwww%2Eopenstack%2Eorg%2Fsummit%2Fvancouver-2015%2Fsummit-videos%2Fpresentation%2Fstanding-tall-in-the-room-sponsored-by-the-women-of-openstack&urlhash=lg8L&_t=tracking_anet>
+
+Have a lovely week, all!
+
+Rainya Mosher
+@rainyamosher | rainya.com
+*Not all of us can save the world. Some of us have to make it worth saving.
+- RFM*
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150526/eaf035ee/attachment.html>
+
+From shilla.saebi at gmail.com  Wed May 27 15:34:35 2015
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Wed, 27 May 2015 11:34:35 -0400
+Subject: [Women-of-openstack] Diversity Working Group
+Message-ID: <CAPrU3jEng2tqaXQC4vdbbsRf-nVugvVvJAKduTtg_FFhPHcHAg@mail.gmail.com>
+
+Hi All,
+
+At the women of OpenStack breakfast working session it was mentioned that
+there is a diversity working group developing. Does anyone have any further
+information on that? A wiki page perhaps or somewhere I can go to find more
+details? Thank you!
+
+Shilla Saebi
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/d53be87b/attachment.html>
+
+From claire at openstack.org  Wed May 27 15:53:07 2015
+From: claire at openstack.org (Claire Massey)
+Date: Wed, 27 May 2015 10:53:07 -0500
+Subject: [Women-of-openstack] Diversity Working Group
+In-Reply-To: <CAPrU3jEng2tqaXQC4vdbbsRf-nVugvVvJAKduTtg_FFhPHcHAg@mail.gmail.com>
+References: <CAPrU3jEng2tqaXQC4vdbbsRf-nVugvVvJAKduTtg_FFhPHcHAg@mail.gmail.com>
+Message-ID: <44BAB3E5-A012-4792-ABD3-5D9D09D4862B@openstack.org>
+
+Hi Shilla,
+
+The Diversity Working Group was just created/approved on May 17 at the Foundation board meeting in Vancouver. It?s spearheaded by board members Imad, Kavit and Egle. 
+
+The Foundation staff and board need to sync-up to create a clear and consistent path for community members who want to learn more and get involved in this new working group. 
+
+I?m sure a wiki page and other information will be shared with both the Community and Women of OpenStack mailing lists soon. 
+
+Thanks for proactively reaching out!
+
+Cheers,
+Claire
+
+
+
+> On May 27, 2015, at 10:34 AM, Shilla Saebi <shilla.saebi at gmail.com> wrote:
+> 
+> Hi All,
+> 
+> At the women of OpenStack breakfast working session it was mentioned that there is a diversity working group developing. Does anyone have any further information on that? A wiki page perhaps or somewhere I can go to find more details? Thank you!
+> 
+> Shilla Saebi
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/707f4f93/attachment.html>
+
+From ushnishtha at hotmail.com  Wed May 27 15:55:22 2015
+From: ushnishtha at hotmail.com (Egle Sigler)
+Date: Wed, 27 May 2015 10:55:22 -0500
+Subject: [Women-of-openstack] Diversity Working Group
+In-Reply-To: <CAPrU3jEng2tqaXQC4vdbbsRf-nVugvVvJAKduTtg_FFhPHcHAg@mail.gmail.com>
+References: <CAPrU3jEng2tqaXQC4vdbbsRf-nVugvVvJAKduTtg_FFhPHcHAg@mail.gmail.com>
+Message-ID: <BAY173-W75D164F67954A6D1EC82FC0CB0@phx.gbl>
+
+
+Hello Shilla,
+I do not have the details yet, hopefully will have something to share next week. So far, we just had the working group charter approved by the board, and more info (and work) to come! I will email the group when I have more information.
+Thank you,Egle
+
+
+
+Date: Wed, 27 May 2015 11:34:35 -0400
+From: shilla.saebi at gmail.com
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Diversity Working Group
+
+Hi All,
+At the women of OpenStack breakfast working session it was mentioned that there is a diversity working group developing. Does anyone have any further information on that? A wiki page perhaps or somewhere I can go to find more details? Thank you!
+Shilla Saebi
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack 		 	   		  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/f90c9a35/attachment.html>
+
+From shilla.saebi at gmail.com  Wed May 27 15:56:16 2015
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Wed, 27 May 2015 11:56:16 -0400
+Subject: [Women-of-openstack] Diversity Working Group
+In-Reply-To: <BAY173-W75D164F67954A6D1EC82FC0CB0@phx.gbl>
+References: <CAPrU3jEng2tqaXQC4vdbbsRf-nVugvVvJAKduTtg_FFhPHcHAg@mail.gmail.com>
+ <BAY173-W75D164F67954A6D1EC82FC0CB0@phx.gbl>
+Message-ID: <CAPrU3jF7D8amwMoF+JvGnaxTUrTAhJPF-zEd8zFLAUQCbPAFeQ@mail.gmail.com>
+
+Great, thank you for the information and I am looking forward to seeing
+more details soon!
+
+Shilla
+
+On Wed, May 27, 2015 at 11:55 AM, Egle Sigler <ushnishtha at hotmail.com>
+wrote:
+
+>
+> Hello Shilla,
+>
+> I do not have the details yet, hopefully will have something to share next
+> week.
+> So far, we just had the working group charter approved by the board, and
+> more info (and work) to come! I will email the group when I have more
+> information.
+>
+> Thank you,
+> Egle
+>
+>
+> ------------------------------
+> Date: Wed, 27 May 2015 11:34:35 -0400
+> From: shilla.saebi at gmail.com
+> To: women-of-openstack at lists.openstack.org
+> Subject: [Women-of-openstack] Diversity Working Group
+>
+> Hi All,
+>
+> At the women of OpenStack breakfast working session it was mentioned that
+> there is a diversity working group developing. Does anyone have any further
+> information on that? A wiki page perhaps or somewhere I can go to find more
+> details? Thank you!
+>
+> Shilla Saebi
+>
+> _______________________________________________ Women-of-openstack mailing
+> list Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/0f6e12e0/attachment.html>
+
+From aplimpton at gmail.com  Wed May 27 16:01:47 2015
+From: aplimpton at gmail.com (APlimpton)
+Date: Wed, 27 May 2015 09:01:47 -0700
+Subject: [Women-of-openstack] Results from Breakfast Session?
+Message-ID: <CA+8x=apbYPpnwgdB8xiKVQp8=kYadiBp_fWwi=1yYJMicV_VSw@mail.gmail.com>
+
+Hi,
+
+I noticed that never actually picked the specific goals for the next six
+months after presenting during the session. How are we handling that?
+
+Thanks,
+Amanda
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/b248240f/attachment.html>
+
+From jessicak at us.ibm.com  Wed May 27 16:11:54 2015
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Wed, 27 May 2015 11:11:54 -0500
+Subject: [Women-of-openstack] Results from Breakfast Session?
+In-Reply-To: <CA+8x=apbYPpnwgdB8xiKVQp8=kYadiBp_fWwi=1yYJMicV_VSw@mail.gmail.com>
+References: <CA+8x=apbYPpnwgdB8xiKVQp8=kYadiBp_fWwi=1yYJMicV_VSw@mail.gmail.com>
+Message-ID: <OF22725CFB.0BDAA1A6-ON87257E52.0058EF1D-86257E52.005907B5@us.ibm.com>
+
+
+I am summarizing the input now and will send later this week -- thanks for
+attending the session and providing your input.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Office Phone: 512-286-7691, T/L: 363-7691
+Mobile Phone: 512-970-8466
+jessicak at us.ibm.com
+
+
+
+From:	APlimpton <aplimpton at gmail.com>
+To:	women-of-openstack at lists.openstack.org
+Date:	05/27/2015 11:03 AM
+Subject:	[Women-of-openstack] Results from Breakfast Session?
+
+
+
+Hi,
+
+I noticed that never actually picked the specific goals for the next six
+months after presenting during the session. How are we handling that?
+
+Thanks,
+Amanda_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/254c6b6c/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/254c6b6c/attachment.gif>
+
+From aplimpton at gmail.com  Wed May 27 17:02:11 2015
+From: aplimpton at gmail.com (APlimpton)
+Date: Wed, 27 May 2015 10:02:11 -0700
+Subject: [Women-of-openstack] Results from Breakfast Session?
+In-Reply-To: <OF22725CFB.0BDAA1A6-ON87257E52.0058EF1D-86257E52.005907B5@us.ibm.com>
+References: <CA+8x=apbYPpnwgdB8xiKVQp8=kYadiBp_fWwi=1yYJMicV_VSw@mail.gmail.com>
+ <OF22725CFB.0BDAA1A6-ON87257E52.0058EF1D-86257E52.005907B5@us.ibm.com>
+Message-ID: <CA+8x=aoKSS95zfGjSxFA=nDqN0CfCMdmHpmFSPsmGnH0SOh1bQ@mail.gmail.com>
+
+Thanks Jessica!
+
+On Wed, May 27, 2015 at 9:11 AM, Jessica Murillo <jessicak at us.ibm.com>
+wrote:
+
+> I am summarizing the input now and will send later this week -- thanks for
+> attending the session and providing your input.
+>
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> Office Phone: 512-286-7691, T/L: 363-7691
+> Mobile Phone: 512-970-8466
+> jessicak at us.ibm.com
+>
+> [image: Inactive hide details for APlimpton ---05/27/2015 11:03:42
+> AM---Hi, I noticed that never actually picked the specific goals for]APlimpton
+> ---05/27/2015 11:03:42 AM---Hi, I noticed that never actually picked the
+> specific goals for the next six
+>
+> From: APlimpton <aplimpton at gmail.com>
+> To: women-of-openstack at lists.openstack.org
+> Date: 05/27/2015 11:03 AM
+> Subject: [Women-of-openstack] Results from Breakfast Session?
+> ------------------------------
+>
+>
+>
+> Hi,
+>
+> I noticed that never actually picked the specific goals for the next six
+> months after presenting during the session. How are we handling that?
+>
+> Thanks,
+> Amanda_______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/52351458/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/52351458/attachment-0001.gif>
+
+From editucci at cisco.com  Wed May 27 17:16:30 2015
+From: editucci at cisco.com (Liz DiTucci (editucci))
+Date: Wed, 27 May 2015 17:16:30 +0000
+Subject: [Women-of-openstack] Thank you to the women of openstack mailing
+	list!
+Message-ID: <D18B742F.74D42%editucci@cisco.com>
+
+A note of thanks to the women-of-openstack mailing list. Through this list, I connected with Jeanne Colon-Bonet, who was putting together a panel submission for the Vancouver Summit. I jumped at the chance and feel extremely fortunate that I had the opportunity to speak in Vancouver. I learned a great deal from my fellow panelists: Angela Brown, Jeanne Colon-Bonet, Sharon Cordesse and Gary Kevorkian. I likely wouldn?t have submitted anything on my own and want to say THANK YOU to Jean and the women-of-openstack mailing list for bringing us together.
+
+If you want to checkout our session, Building the Cloud Community: Crafting Unforgettable Events and Meetups, it?s available here:
+https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/building-the-cloud-community-crafting-unforgettable-events-and-meetups
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/e2ecfcc6/attachment.html>
+
+From haley.carriere at hp.com  Thu May 28 13:53:27 2015
+From: haley.carriere at hp.com (Carriere, Haley)
+Date: Thu, 28 May 2015 13:53:27 +0000
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 7, Issue 9
+In-Reply-To: <mailman.3.1432814401.11739.women-of-openstack@lists.openstack.org>
+References: <mailman.3.1432814401.11739.women-of-openstack@lists.openstack.org>
+Message-ID: <007C33AAA40A704A8991301F29EFFCA91CC9D98B@G2W2436.americas.hpqcorp.net>
+
+Hi Women of OpenStack,
+
+This is the first time I've participated in this mailing lists. The topic caught my attention because I attended the panel discussion at OpenStack Summit and learned a great deal from all of the panelist's experiences in the cloud community and crafting Open Source events. I learned that knowing who your attendee audience will be is crucial when planning out event activities and the tone to the event. I sometimes work alongside Jeanne at HP events and the amount of effort, patience, and planning she puts into events is astounding. So a big THANK YOU to all the panelists, Jeanne, Angela, Sharon, Liz, and Gary. 
+
+Haley
+
+Haley Carriere
+Social Media Architect,? Corporate Marketing, HP Helion Cloud 
+Haley.carriere at hp.com? |? 1.501.269.5611
+Social Media: www.facebook.com/hphelion
+
+
+
+
+
+
+
+
+-----Original Message-----
+From: women-of-openstack-request at lists.openstack.org [mailto:women-of-openstack-request at lists.openstack.org] 
+Sent: Thursday, May 28, 2015 8:00 AM
+To: women-of-openstack at lists.openstack.org
+Subject: Women-of-openstack Digest, Vol 7, Issue 9
+
+Send Women-of-openstack mailing list submissions to
+	women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+	women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+	women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. Thank you to the women of openstack mailing	list!
+      (Liz DiTucci (editucci))
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Wed, 27 May 2015 17:16:30 +0000
+From: "Liz DiTucci (editucci)" <editucci at cisco.com>
+To: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Thank you to the women of openstack
+	mailing	list!
+Message-ID: <D18B742F.74D42%editucci at cisco.com>
+Content-Type: text/plain; charset="utf-8"
+
+A note of thanks to the women-of-openstack mailing list. Through this list, I connected with Jeanne Colon-Bonet, who was putting together a panel submission for the Vancouver Summit. I jumped at the chance and feel extremely fortunate that I had the opportunity to speak in Vancouver. I learned a great deal from my fellow panelists: Angela Brown, Jeanne Colon-Bonet, Sharon Cordesse and Gary Kevorkian. I likely wouldn?t have submitted anything on my own and want to say THANK YOU to Jean and the women-of-openstack mailing list for bringing us together.
+
+If you want to checkout our session, Building the Cloud Community: Crafting Unforgettable Events and Meetups, it?s available here:
+https://www.openstack.org/summit/vancouver-2015/summit-videos/presentation/building-the-cloud-community-crafting-unforgettable-events-and-meetups
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150527/e2ecfcc6/attachment-0001.html>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 7, Issue 9
+************************************************
+
+
+From mpatterson at servosity.com  Thu May 28 15:31:46 2015
+From: mpatterson at servosity.com (Melissa Patterson)
+Date: Thu, 28 May 2015 11:31:46 -0400
+Subject: [Women-of-openstack] City Meet Ups
+Message-ID: <CAKOC-cgCBBT-bGbBr1CxFFbPsNdoXmoRuNhQ39Gw-ud1F=FnUA@mail.gmail.com>
+
+Hi Women of Openstack,
+  I recently joined the mailing list and have already gotten great benefits
+from other members!  I was wondering if anyone knew of city openstack meet
+ups around the Greenville, SC area or surrounding cities.  Would love to
+start a monthly get together with other fellow WOO if there's not already
+one.
+
+Thanks everyone!
+
+*Melissa Patterson*
+
+Servosity | http://www.servosity.com
+
+Toll Free: 800-429-0500
+Direct: 864-406-2029
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150528/2ae259f4/attachment.html>
+
+From ridolfodenise at gmail.com  Thu May 28 15:38:11 2015
+From: ridolfodenise at gmail.com (Denise Ridolfo)
+Date: Thu, 28 May 2015 09:38:11 -0600
+Subject: [Women-of-openstack] Call for Proposals: OSCON's Open Cloud Day and
+ Ignite - deadline to submit your OpenStack proposal is tomorrow.
+Message-ID: <D18C9283.FD67%ridolfodenise@gmail.com>
+
+Hi Women of OpenStack,
+Sending this reminder also out to the WOO list directly.  A friendly
+reminder to be sure to submit your OpenStack proposals for OSCON?s Open
+Cloud Day and Ignite.
+More details are below - the deadline for Open Cloud Day is tomorrow, May
+29th and Ignite is June 5th.
+
+Best regards,
+Denise
+
+Denise Ridolfo
+Marketing Consultant
+On behalf of the OpenStack Foundation
+
+From: Denise Ridolfo Consultancy <ridolfodenise at gmail.com>
+Date: Thursday, May 7, 2015 at 3:16 A
+To: OpenStack Marketing Mailing List <marketing at lists.openstack.org>,
+OpenStack Community List <community at lists.openstack.org>
+Cc: Denise Ridolfo Consultancy <ridolfodenise at gmail.com>
+Subject: OSCON: Call for proposals for Open Cloud Day and Ignite - now is
+the time to send in your OpenStack submissions
+
+Hi Everyone,
+Just a quick email to let you know that there is a new call out for OSCON
+Open Cloud Day &  Ignite proposal submissions.
+
+Here are the details:
+
+OSCON - Open Cloud Day
+Tuesday, July 21, 2015 at the Oregon Convention Center
+Deadline: midnight on May 29, 2015
+Link to submit your proposal:
+http://www.oscon.com/open-source-2015/public/cfp/395
+* Open Cloud Day is an all-day event focused on the State of Cloud in 2015,
+co-sponsored by Red Hat & IBM
+* They are specifically looking for proposals on these topics:  Open Source,
+IssS, PaaS, Linux Containers, Sofware Defined Networking, and lessons
+learned in deploying new and rapidly changing technologies
+* This is a 30 minute presentation for a developer audience focused on the
+next-generation of scale-out applications in a software defined
+infrastructure 
+Ignite OSCON
+Monday, July 20, 2015 located in the Portland Ballroom at the Oregon
+Convention Center
+Deadline: midnight on June 5, 2015
+Link to submit your proposal:
+http://www.oscon.com/open-source-2015/public/cfp/397
+* Any topic is fair game as long as it?s interesting
+* ? - 
+* from technology to culture to business to science fiction
+* This is a 5-minute presentation to deliver something inspirational,
+lessons learned, or an interesting story
+* Speakers are limited to 20 slides, which automatically advance after 15
+seconds?that?s the fun of Ignite!
+Act now to send in your OpenStack submissions!
+
+Best regards,
+
+Denise Ridolfo
+Marketing Consultant
+On behalf of the OpenStack Foundation
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150528/b9c4078e/attachment.html>
+
+From annegentle at justwriteclick.com  Thu May 28 16:58:21 2015
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Thu, 28 May 2015 11:58:21 -0500
+Subject: [Women-of-openstack] City Meet Ups
+In-Reply-To: <CAKOC-cgCBBT-bGbBr1CxFFbPsNdoXmoRuNhQ39Gw-ud1F=FnUA@mail.gmail.com>
+References: <CAKOC-cgCBBT-bGbBr1CxFFbPsNdoXmoRuNhQ39Gw-ud1F=FnUA@mail.gmail.com>
+Message-ID: <CAD0KtVFdf-yDx=goNAiz4W8_3fDt2-3wHFiTMKsF9SU6NbPn2A@mail.gmail.com>
+
+Hi Melissa,
+
+The one that shows up on http://www.openstack.org/community/ is the
+Triangle OpenStack meetup:
+
+Meetup: http://www.meetup.com/Triangle-OpenStack-Meetup
+Coordinator: Mark Voelker, Arvind Somya, Amy Lewis
+
+You can also set up your own through https://groups.openstack.org/.
+
+Hope that helps!
+Anne
+
+On Thu, May 28, 2015 at 10:31 AM, Melissa Patterson <
+mpatterson at servosity.com> wrote:
+
+> Hi Women of Openstack,
+>   I recently joined the mailing list and have already gotten great
+> benefits from other members!  I was wondering if anyone knew of city
+> openstack meet ups around the Greenville, SC area or surrounding cities.
+> Would love to start a monthly get together with other fellow WOO if there's
+> not already one.
+>
+> Thanks everyone!
+>
+> *Melissa Patterson*
+>
+> Servosity | http://www.servosity.com
+>
+> Toll Free: 800-429-0500
+> Direct: 864-406-2029
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+Anne Gentle
+annegentle at justwriteclick.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150528/3d3257e2/attachment.html>
+
+From jessicak at us.ibm.com  Thu May 28 16:59:53 2015
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 28 May 2015 11:59:53 -0500
+Subject: [Women-of-openstack] City Meet Ups
+In-Reply-To: <CAKOC-cgCBBT-bGbBr1CxFFbPsNdoXmoRuNhQ39Gw-ud1F=FnUA@mail.gmail.com>
+References: <CAKOC-cgCBBT-bGbBr1CxFFbPsNdoXmoRuNhQ39Gw-ud1F=FnUA@mail.gmail.com>
+Message-ID: <OFCA65F59B.6FCC82C6-ON87257E53.005CFCAB-86257E53.005D6D38@us.ibm.com>
+
+
+Hi Melissa - I didn't find an OpenStack meetup group in Greenville, but I
+did find a Women who code group to check out:
+
+http://www.meetup.com/find/
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Office Phone: 512-286-7691, T/L: 363-7691
+Mobile Phone: 512-970-8466
+jessicak at us.ibm.com
+
+
+
+From:	Melissa Patterson <mpatterson at servosity.com>
+To:	women-of-openstack at lists.openstack.org
+Date:	05/28/2015 10:32 AM
+Subject:	[Women-of-openstack] City Meet Ups
+
+
+
+Hi Women of Openstack,
+? I recently joined the mailing list and have already gotten great benefits
+from other members!? I was wondering if anyone knew of city openstack meet
+ups around the Greenville, SC area or surrounding cities.? Would love to
+start a monthly get together with other fellow WOO if there's not already
+one.
+
+Thanks everyone!
+
+Melissa Patterson
+Servosity | http://www.servosity.com
+Toll Free: 800-429-0500
+Direct: 864-406-2029
+
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150528/96495325/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150528/96495325/attachment-0001.gif>
+
+From mpatterson at servosity.com  Thu May 28 17:44:47 2015
+From: mpatterson at servosity.com (Melissa Patterson)
+Date: Thu, 28 May 2015 13:44:47 -0400
+Subject: [Women-of-openstack] City Meet Ups
+In-Reply-To: <OFCA65F59B.6FCC82C6-ON87257E53.005CFCAB-86257E53.005D6D38@us.ibm.com>
+References: <CAKOC-cgCBBT-bGbBr1CxFFbPsNdoXmoRuNhQ39Gw-ud1F=FnUA@mail.gmail.com>
+ <OFCA65F59B.6FCC82C6-ON87257E53.005CFCAB-86257E53.005D6D38@us.ibm.com>
+Message-ID: <CAKOC-ciT+b3EfDnKTUaYJy6Ff3p-ZoMpmbhxtwFFzunYf3jAYw@mail.gmail.com>
+
+Great!  Thank you ladies!!
+
+*Melissa Patterson*
+
+Servosity | http://www.servosity.com
+
+Toll Free: 800-429-0500
+Direct: 864-406-2029
+
+
+
+
+
+
+On Thu, May 28, 2015 at 12:59 PM, Jessica Murillo <jessicak at us.ibm.com>
+wrote:
+
+> Hi Melissa - I didn't find an OpenStack meetup group in Greenville, but I
+> did find a Women who code group to check out:
+>
+> http://www.meetup.com/find/
+>
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> Office Phone: 512-286-7691, T/L: 363-7691
+> Mobile Phone: 512-970-8466
+> jessicak at us.ibm.com
+>
+> [image: Inactive hide details for Melissa Patterson ---05/28/2015 10:32:27
+> AM---Hi Women of Openstack, I recently joined the mailing]Melissa
+> Patterson ---05/28/2015 10:32:27 AM---Hi Women of Openstack,   I recently
+> joined the mailing list and have already gotten great benefits
+>
+> From: Melissa Patterson <mpatterson at servosity.com>
+> To: women-of-openstack at lists.openstack.org
+> Date: 05/28/2015 10:32 AM
+> Subject: [Women-of-openstack] City Meet Ups
+> ------------------------------
+>
+>
+>
+> Hi Women of Openstack,
+>   I recently joined the mailing list and have already gotten great
+> benefits from other members!  I was wondering if anyone knew of city
+> openstack meet ups around the Greenville, SC area or surrounding cities.
+> Would love to start a monthly get together with other fellow WOO if there's
+> not already one.
+>
+> Thanks everyone!
+>
+> *Melissa Patterson*
+> Servosity | *http://www.servosity.com* <http://www.servosity.com/>
+> Toll Free: 800-429-0500
+> Direct: 864-406-2029
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150528/e891c5a4/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150528/e891c5a4/attachment.gif>
+
+From ichi.sara at gmail.com  Fri May 29 11:34:20 2015
+From: ichi.sara at gmail.com (ICHIBA Sara)
+Date: Fri, 29 May 2015 13:34:20 +0200
+Subject: [Women-of-openstack] [HEAT][CEILOMETER] autoscaling
+Message-ID: <CADeXowjbuDejV52D6BFc-z-vkA3-sw4bh4hkHcndWdp7XUigOQ@mail.gmail.com>
+
+Hello ladies,
+
+This is my first email to the women of openstack mailing list and I hope
+I'll find some support here.
+
+My name is Sara and i'm an engineering student In France. Right Now i'm
+doing my final intership before graduation and I'm working on Openstack. I
+need to scale some VMs based on CPU, RAM and Network workloads combined. I
+started with basic things. Now my VMs can scale up and down based on CPU.
+BUT when I try to connect them to a load balancer nothing works.
+
+I really need to make this first step work.So for those of you who already
+played with autoscaling, can you please provide me with clues , examples,
+tutos I can use to do a first demo for my team?!
+
+
+Looking forward to hearing from you,
+Sara
+
+P.S: find attached my templates
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: environment1.yaml
+Type: application/octet-stream
+Size: 76 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment.obj>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: scale_up_down_lb.yaml
+Type: application/octet-stream
+Size: 3489 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment-0001.obj>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: scale_up_down_NoLb.yaml
+Type: application/octet-stream
+Size: 1412 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment-0002.obj>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: single_instance.yaml
+Type: application/octet-stream
+Size: 526 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment-0003.obj>
+
+From haley.carriere at hp.com  Fri May 29 15:53:40 2015
+From: haley.carriere at hp.com (Carriere, Haley)
+Date: Fri, 29 May 2015 15:53:40 +0000
+Subject: [Women-of-openstack] RE [HEAT][CEILOMETER] autoscaling (ICHIBA Sara)
+Message-ID: <007C33AAA40A704A8991301F29EFFCA91CC9E0EE@G2W2436.americas.hpqcorp.net>
+
+Hey Sara,
+
+So for your auto scaling troubleshooting I have HP Helion's Developer webpage that has webinars, doc's for installations and configs etc. Hope maybe that helps http://hdn.hpcloud.com/
+
+Haley
+
+
+Haley Carriere
+Social Media Architect,? Corporate Marketing, HP Helion Cloud 
+Haley.carriere at hp.com? |? 1.501.269.5611
+Social Media: www.facebook.com/hphelion
+
+
+
+-----Original Message-----
+From: women-of-openstack-request at lists.openstack.org [mailto:women-of-openstack-request at lists.openstack.org] 
+Sent: Friday, May 29, 2015 8:00 AM
+To: women-of-openstack at lists.openstack.org
+Subject: Women-of-openstack Digest, Vol 7, Issue 11
+
+Send Women-of-openstack mailing list submissions to
+	women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+	women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+	women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. Re: City Meet Ups (Melissa Patterson)
+   2. [HEAT][CEILOMETER] autoscaling (ICHIBA Sara)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Thu, 28 May 2015 13:44:47 -0400
+From: Melissa Patterson <mpatterson at servosity.com>
+To: Jessica Murillo <jessicak at us.ibm.com>
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] City Meet Ups
+Message-ID:
+	<CAKOC-ciT+b3EfDnKTUaYJy6Ff3p-ZoMpmbhxtwFFzunYf3jAYw at mail.gmail.com>
+Content-Type: text/plain; charset="utf-8"
+
+Great!  Thank you ladies!!
+
+*Melissa Patterson*
+
+Servosity | http://www.servosity.com
+
+Toll Free: 800-429-0500
+Direct: 864-406-2029
+
+
+
+
+
+
+On Thu, May 28, 2015 at 12:59 PM, Jessica Murillo <jessicak at us.ibm.com>
+wrote:
+
+> Hi Melissa - I didn't find an OpenStack meetup group in Greenville, 
+> but I did find a Women who code group to check out:
+>
+> http://www.meetup.com/find/
+>
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> Office Phone: 512-286-7691, T/L: 363-7691 Mobile Phone: 512-970-8466 
+> jessicak at us.ibm.com
+>
+> [image: Inactive hide details for Melissa Patterson ---05/28/2015 
+> 10:32:27 AM---Hi Women of Openstack, I recently joined the mailing]Melissa
+> Patterson ---05/28/2015 10:32:27 AM---Hi Women of Openstack,   I recently
+> joined the mailing list and have already gotten great benefits
+>
+> From: Melissa Patterson <mpatterson at servosity.com>
+> To: women-of-openstack at lists.openstack.org
+> Date: 05/28/2015 10:32 AM
+> Subject: [Women-of-openstack] City Meet Ups
+> ------------------------------
+>
+>
+>
+> Hi Women of Openstack,
+>   I recently joined the mailing list and have already gotten great 
+> benefits from other members!  I was wondering if anyone knew of city 
+> openstack meet ups around the Greenville, SC area or surrounding cities.
+> Would love to start a monthly get together with other fellow WOO if 
+> there's not already one.
+>
+> Thanks everyone!
+>
+> *Melissa Patterson*
+> Servosity | *http://www.servosity.com* <http://www.servosity.com/> 
+> Toll Free: 800-429-0500
+> Direct: 864-406-2029
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150528/e891c5a4/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150528/e891c5a4/attachment-0001.gif>
+
+------------------------------
+
+Message: 2
+Date: Fri, 29 May 2015 13:34:20 +0200
+From: ICHIBA Sara <ichi.sara at gmail.com>
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] [HEAT][CEILOMETER] autoscaling
+Message-ID:
+	<CADeXowjbuDejV52D6BFc-z-vkA3-sw4bh4hkHcndWdp7XUigOQ at mail.gmail.com>
+Content-Type: text/plain; charset="utf-8"
+
+Hello ladies,
+
+This is my first email to the women of openstack mailing list and I hope I'll find some support here.
+
+My name is Sara and i'm an engineering student In France. Right Now i'm doing my final intership before graduation and I'm working on Openstack. I need to scale some VMs based on CPU, RAM and Network workloads combined. I started with basic things. Now my VMs can scale up and down based on CPU.
+BUT when I try to connect them to a load balancer nothing works.
+
+I really need to make this first step work.So for those of you who already played with autoscaling, can you please provide me with clues , examples, tutos I can use to do a first demo for my team?!
+
+
+Looking forward to hearing from you,
+Sara
+
+P.S: find attached my templates
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: environment1.yaml
+Type: application/octet-stream
+Size: 76 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment-0004.obj>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: scale_up_down_lb.yaml
+Type: application/octet-stream
+Size: 3489 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment-0005.obj>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: scale_up_down_NoLb.yaml
+Type: application/octet-stream
+Size: 1412 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment-0006.obj>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: single_instance.yaml
+Type: application/octet-stream
+Size: 526 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/c444789d/attachment-0007.obj>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 7, Issue 11
+*************************************************
+
+
+From padma.dakoju at oracle.com  Fri May 29 18:51:25 2015
+From: padma.dakoju at oracle.com (Padma Dakoju)
+Date: Fri, 29 May 2015 11:51:25 -0700
+Subject: [Women-of-openstack] City Meet Ups
+In-Reply-To: <CAKOC-cgCBBT-bGbBr1CxFFbPsNdoXmoRuNhQ39Gw-ud1F=FnUA@mail.gmail.com>
+References: <CAKOC-cgCBBT-bGbBr1CxFFbPsNdoXmoRuNhQ39Gw-ud1F=FnUA@mail.gmail.com>
+Message-ID: <5568B52D.9080102@oracle.com>
+
+Hello all,
+I am also interested in attending OpenStack meet ups in the San 
+Francisco bay area. On the meetups page I don't see any upcoming 
+meetings in the bay area. If you know of any or if anyone has done this 
+before, let me know the details.
+
+Thanks,
+Padma
+
+On 5/28/2015 8:31 AM, Melissa Patterson wrote:
+> Hi Women of Openstack,
+>   I recently joined the mailing list and have already gotten great 
+> benefits from other members!  I was wondering if anyone knew of city 
+> openstack meet ups around the Greenville, SC area or surrounding 
+> cities.  Would love to start a monthly get together with other fellow 
+> WOO if there's not already one.
+>
+> Thanks everyone!
+>
+> *Melissa Patterson*
+> Servosity | http://www.servosity.com
+> Toll Free: 800-429-0500
+> Direct: 864-406-2029
+>
+>
+>
+> /*
+> */
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/a2409ab8/attachment.html>
+
+From Tamara.Johnston at emc.com  Fri May 29 19:12:23 2015
+From: Tamara.Johnston at emc.com (Johnston, Tamara)
+Date: Fri, 29 May 2015 19:12:23 +0000
+Subject: [Women-of-openstack] City Meet Ups
+Message-ID: <D18E03D2.1A22D%Tamara.Johnston@emc.com>
+
+Padma,
+
+There are a handful of SFBay OpenStack meet ups planned for the upcoming weeks that may be of interest to you.
+
+http://www.meetup.com/openstack/
+5/30 - Massive Storage Systems and Technology Conference, Tutorial Sessions ($) - http://www.meetup.com/openstack/events/222499230/
+6/4 - South Bay OpenStack Meetup, Beginner track Topic: Vagrant Technology - http://www.meetup.com/openstack/events/214328752/
+6/18 - SFBay OpenStack Advanced Track #OSSFO Topic: OpenStack Networking - http://www.meetup.com/openstack/events/214328892/
+7/2 - South Bay OpenStack Meetup, Beginner track - http://www.meetup.com/openstack/events/214328772/
+7/16 - SFBay OpenStack Hackathon #OSSFO - http://www.meetup.com/openstack/events/215648062/
+
+
+Regards,
+
+Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C) 1-510-398-9114  |  (E) tamara.johnston at emc.com<mailto:tamara.johnston at emc.com>
+
+
+From: Padma Dakoju <padma.dakoju at oracle.com<mailto:padma.dakoju at oracle.com>>
+Organization: Oracle Corporation
+Date: Friday, May 29, 2015 at 11:51 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] City Meet Ups
+
+Hello all,
+I am also interested in attending OpenStack meet ups in the San Francisco bay area. On the meetups page I don't see any upcoming meetings in the bay area. If you know of any or if anyone has done this before, let me know the details.
+
+Thanks,
+Padma
+
+On 5/28/2015 8:31 AM, Melissa Patterson wrote:
+Hi Women of Openstack,
+  I recently joined the mailing list and have already gotten great benefits from other members!  I was wondering if anyone knew of city openstack meet ups around the Greenville, SC area or surrounding cities.  Would love to start a monthly get together with other fellow WOO if there's not already one.
+
+Thanks everyone!
+
+Melissa Patterson
+Servosity | http://www.servosity.com
+Toll Free: 800-429-0500
+Direct: 864-406-2029
+
+
+
+
+
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/7a91a591/attachment-0001.html>
+
+From cferry at carpathia.com  Fri May 29 19:31:23 2015
+From: cferry at carpathia.com (Courtney Ferry)
+Date: Fri, 29 May 2015 19:31:23 +0000
+Subject: [Women-of-openstack] City Meet Ups
+In-Reply-To: <D18E03D2.1A22D%Tamara.Johnston@emc.com>
+References: <D18E03D2.1A22D%Tamara.Johnston@emc.com>
+Message-ID: <D18E356D.3EEFF%cferry@carpathia.com>
+
+You inspired me to look in my area....
+I found the one in Washington DC. (C.hicks, I'm waving at you)
+Next week, 6/3, is on deployment with Ansible: http://www.meetup.com/OpenStackDC/events/220776469/
+
+C-
+
+--
+Courtney Coulson Ferry
+Solutions Engineer
+Carpathia, Inc.
+21000 Atlantic Blvd., Suite 500
+Dulles, VA 20166
+w: 703.652.5959 | c:703.731.8928| 24x7 Support: 703.840.3900 Opt 2
+cferry at carpathia.com<mailto:cferry at carpathia.com> | www.carpathia.com
+
+From: <Johnston>, Tamara <Tamara.Johnston at emc.com<mailto:Tamara.Johnston at emc.com>>
+Date: Friday, May 29, 2015 at 3:12 PM
+To: Padma Dakoju <padma.dakoju at oracle.com<mailto:padma.dakoju at oracle.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] City Meet Ups
+
+Padma,
+
+There are a handful of SFBay OpenStack meet ups planned for the upcoming weeks that may be of interest to you.
+
+http://www.meetup.com/openstack/
+5/30 - Massive Storage Systems and Technology Conference, Tutorial Sessions ($) - http://www.meetup.com/openstack/events/222499230/
+6/4 - South Bay OpenStack Meetup, Beginner track Topic: Vagrant Technology - http://www.meetup.com/openstack/events/214328752/
+6/18 - SFBay OpenStack Advanced Track #OSSFO Topic: OpenStack Networking - http://www.meetup.com/openstack/events/214328892/
+7/2 - South Bay OpenStack Meetup, Beginner track - http://www.meetup.com/openstack/events/214328772/
+7/16 - SFBay OpenStack Hackathon #OSSFO - http://www.meetup.com/openstack/events/215648062/
+
+
+Regards,
+
+Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C) 1-510-398-9114  |  (E) tamara.johnston at emc.com<mailto:tamara.johnston at emc.com>
+
+
+From: Padma Dakoju <padma.dakoju at oracle.com<mailto:padma.dakoju at oracle.com>>
+Organization: Oracle Corporation
+Date: Friday, May 29, 2015 at 11:51 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] City Meet Ups
+
+Hello all,
+I am also interested in attending OpenStack meet ups in the San Francisco bay area. On the meetups page I don't see any upcoming meetings in the bay area. If you know of any or if anyone has done this before, let me know the details.
+
+Thanks,
+Padma
+
+On 5/28/2015 8:31 AM, Melissa Patterson wrote:
+Hi Women of Openstack,
+  I recently joined the mailing list and have already gotten great benefits from other members!  I was wondering if anyone knew of city openstack meet ups around the Greenville, SC area or surrounding cities.  Would love to start a monthly get together with other fellow WOO if there's not already one.
+
+Thanks everyone!
+
+Melissa Patterson
+Servosity | http://www.servosity.com
+Toll Free: 800-429-0500
+Direct: 864-406-2029
+
+
+
+
+
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/92fef1f3/attachment-0001.html>
+
+From shilla.saebi at gmail.com  Fri May 29 19:58:15 2015
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Fri, 29 May 2015 15:58:15 -0400
+Subject: [Women-of-openstack] City Meet Ups
+In-Reply-To: <D18E356D.3EEFF%cferry@carpathia.com>
+References: <D18E03D2.1A22D%Tamara.Johnston@emc.com>
+ <D18E356D.3EEFF%cferry@carpathia.com>
+Message-ID: <E915B183-F20D-425A-92AD-84D1B112F1DE@gmail.com>
+
+Courtney,
+
+There is also a Northern Virginia OpenStack group based out of Reston if that's closer to you! We'd love to see you there! 
+
+Shilla
+
+Sent from my iPhone
+
+> On May 29, 2015, at 3:31 PM, Courtney Ferry <cferry at carpathia.com> wrote:
+> 
+> You inspired me to look in my area?.
+> I found the one in Washington DC. (C.hicks, I'm waving at you)
+> Next week, 6/3, is on deployment with Ansible: http://www.meetup.com/OpenStackDC/events/220776469/
+> 
+> C-
+> 
+> --
+> Courtney Coulson Ferry
+> Solutions Engineer
+> Carpathia, Inc.
+> 21000 Atlantic Blvd., Suite 500
+> Dulles, VA 20166
+> w: 703.652.5959 | c:703.731.8928| 24x7 Support: 703.840.3900 Opt 2
+> cferry at carpathia.com | www.carpathia.com
+> 
+> From: <Johnston>, Tamara <Tamara.Johnston at emc.com>
+> Date: Friday, May 29, 2015 at 3:12 PM
+> To: Padma Dakoju <padma.dakoju at oracle.com>, "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+> Subject: Re: [Women-of-openstack] City Meet Ups
+> 
+> Padma,
+> 
+> There are a handful of SFBay OpenStack meet ups planned for the upcoming weeks that may be of interest to you.
+> 
+> http://www.meetup.com/openstack/
+> 5/30 - Massive Storage Systems and Technology Conference, Tutorial Sessions ($) - http://www.meetup.com/openstack/events/222499230/
+> 6/4 - South Bay OpenStack Meetup, Beginner track Topic: Vagrant Technology - http://www.meetup.com/openstack/events/214328752/ 
+> 6/18 - SFBay OpenStack Advanced Track #OSSFO Topic: OpenStack Networking - http://www.meetup.com/openstack/events/214328892/
+> 7/2 - South Bay OpenStack Meetup, Beginner track - http://www.meetup.com/openstack/events/214328772/ 
+> 7/16 - SFBay OpenStack Hackathon #OSSFO - http://www.meetup.com/openstack/events/215648062/
+> 
+> 
+> Regards,
+> 
+> Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C) 1-510-398-9114  |  (E) tamara.johnston at emc.com
+> 
+> 
+> 
+> From: Padma Dakoju <padma.dakoju at oracle.com>
+> Organization: Oracle Corporation
+> Date: Friday, May 29, 2015 at 11:51 AM
+> To: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+> Subject: Re: [Women-of-openstack] City Meet Ups
+> 
+> Hello all,
+> I am also interested in attending OpenStack meet ups in the San Francisco bay area. On the meetups page I don't see any upcoming meetings in the bay area. If you know of any or if anyone has done this before, let me know the details.
+> 
+> Thanks,
+> Padma
+> 
+>> On 5/28/2015 8:31 AM, Melissa Patterson wrote:
+>> Hi Women of Openstack,
+>>   I recently joined the mailing list and have already gotten great benefits from other members!  I was wondering if anyone knew of city openstack meet ups around the Greenville, SC area or surrounding cities.  Would love to start a monthly get together with other fellow WOO if there's not already one.
+>> 
+>> Thanks everyone!
+>> 
+>> Melissa Patterson
+>> Servosity | http://www.servosity.com
+>> Toll Free: 800-429-0500
+>> Direct: 864-406-2029
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> 
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.orghttp://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150529/fcf31d23/attachment-0001.html>
+

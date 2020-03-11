@@ -1,0 +1,426 @@
+From chandniverma2112@gmail.com  Thu Jan  3 10:18:38 2013
+Return-Path: <chandniverma2112@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 002B3750235;
+	Thu,  3 Jan 2013 10:18:37 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.105
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.105 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FILL_THIS_FORM_FRAUD_PHISH=0.334,
+	FREEMAIL_ENVFROM_END_DIGIT=0.25, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001,
+	T_FILL_THIS_FORM_SHORT=0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2fSBwfj-+EyD; Thu,  3 Jan 2013 10:18:36 +0000 (UTC)
+Received: from mail-ie0-f175.google.com (mail-ie0-f175.google.com
+	[209.85.223.175])
+	by menubar.gnome.org (Postfix) with ESMTP id 20E337501C9;
+	Thu,  3 Jan 2013 10:18:35 +0000 (UTC)
+Received: by mail-ie0-f175.google.com with SMTP id qd14so18014554ieb.34
+	for <multiple recipients>; Thu, 03 Jan 2013 02:19:06 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:content-type; bh=Zr+5fQ8mKS4iwJaQT9l8NJXG6ncaun5sVXOhLvxp4SU=;
+	b=rSrbfS6joSNnCOogPVQYJQlueNiMtTzs50tfSZvj9QroQph5Ha0wc/aMHgOEEAeTpb
+	q5hNBL4sz5i9cHUU8WX4zAEf/gHPF9Dy08WAvd0D2BnTMZFwbxAkPHuit0s650Ysxfz0
+	9R6MvwANueEoTYxKFM94zNxwmTtNRui6++2DcHV5HyXaZt8ayOGCxgJ7cOyyZpzYugbx
+	D2JABVvhxrE3VYGkjR8WEL7aBUy3lwLvb9/RK6m63GfORkaTgSBP+YsBfaA84b5zf0mF
+	OPAoTL+wjI4TC4qaVNZY5XFqe0KEV+1GUkDCQbpkbRLWoMiLLTIxsXqYBwkT/Raqu2SN
+	SINw==
+MIME-Version: 1.0
+Received: by 10.50.91.198 with SMTP id cg6mr36165760igb.102.1357208346006;
+	Thu, 03 Jan 2013 02:19:06 -0800 (PST)
+Received: by 10.64.137.225 with HTTP; Thu, 3 Jan 2013 02:19:05 -0800 (PST)
+In-Reply-To: <CADttZZqSH5NjEo2He8rGf_ZscsvAQOHePq+ZYZwpbaYQ0L3_+w@mail.gmail.com>
+References: <CADttZZqSH5NjEo2He8rGf_ZscsvAQOHePq+ZYZwpbaYQ0L3_+w@mail.gmail.com>
+Date: Thu, 3 Jan 2013 15:49:05 +0530
+Message-ID: <CADttZZqO1JO7B49ZuxCn6qM2vk0zy_5eUc_CJkVkYBvj1Zp-2Q@mail.gmail.com>
+From: Chandni Verma <chandniverma2112@gmail.com>
+To: gnome-women-list <gnome-women-list@gnome.org>, gnome-lk-list@gnome.org
+Content-Type: multipart/alternative; boundary=e89a8f3ba0c559936604d25fb19b
+Subject: [gnome-women] Fwd: Application for job continuation
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 03 Jan 2013 10:18:39 -0000
+
+--e89a8f3ba0c559936604d25fb19b
+Content-Type: text/plain; charset=ISO-8859-1
+
+---------- Forwarded message ----------
+From: Chandni Verma <chandniverma2112@gmail.com>
+Date: 3 January 2013 15:46
+Subject: Application for job continuation
+To: jobs <jobs@collabora.co.uk>
+
+
+Name = Chandni Verma
+Bank = State bank of India
+Branch = Daliganj
+Account Number = 30205991449
+IFSC code = SBIN0003813
+
+Thanks and regards,
+-- 
+Chandni
+
+
+
+-- 
+Chandni
+
+--e89a8f3ba0c559936604d25fb19b
+Content-Type: text/html; charset=ISO-8859-1
+
+<br><br><div class="gmail_quote">---------- Forwarded message ----------<br>From: <b class="gmail_sendername">Chandni Verma</b> <span dir="ltr">&lt;<a href="mailto:chandniverma2112@gmail.com">chandniverma2112@gmail.com</a>&gt;</span><br>
+Date: 3 January 2013 15:46<br>Subject: Application for job continuation<br>To: jobs &lt;<a href="mailto:jobs@collabora.co.uk">jobs@collabora.co.uk</a>&gt;<br><br><br>Name = Chandni Verma<div>Bank = State bank of India</div>
+<div>Branch = Daliganj</div><div>Account Number = 30205991449</div><div>IFSC code = SBIN0003813</div><div><br></div><div><div>Thanks and regards,</div><span class="HOEnZb"><font color="#888888">-- <br>Chandni
+</font></span></div>
+</div><br><br clear="all"><div><br></div>-- <br>Chandni
+
+--e89a8f3ba0c559936604d25fb19b--
+From meg387@gmail.com  Thu Jan  3 14:04:18 2013
+Return-Path: <meg387@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 429327501EA;
+	Thu,  3 Jan 2013 14:04:18 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wEDsJfNWuWjA; Thu,  3 Jan 2013 14:04:16 +0000 (UTC)
+Received: from mail-oa0-f41.google.com (mail-oa0-f41.google.com
+	[209.85.219.41])
+	by menubar.gnome.org (Postfix) with ESMTP id 005387501C9;
+	Thu,  3 Jan 2013 14:04:15 +0000 (UTC)
+Received: by mail-oa0-f41.google.com with SMTP id k14so14197885oag.0
+	for <multiple recipients>; Thu, 03 Jan 2013 06:04:46 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=2iQXiZ0iJcPgqaUAtIBZ6AeyZpjG8u7X3A63lCyebNY=;
+	b=SWOs/cTWhbSZPOQzDiMSaMFEYgXAxJOJtts6esDDWdty90ajIsqISl/Aih2E/Ok8xj
+	Ri19CCAoL4G+ItfbaYjM0FV7TF0hq+xMiFeeYX8RmGW5zniu5UWXAEz/KifoG3HKKFwN
+	tyxR21BBNePnlP7H9EgkWfFpUReNDUfDnTrLrt2h7vdIDpx+Kypa2gfnIcsn1DiR1Eqi
+	ksYCfKhVNr21uEuN9qZ0dMVdj4u2mYUH/DQ6OiL7MZK2yWQl/8T4hTOIk34uoWJBfN3p
+	Rdh0v/kqzvynimemEk413c7Py4/TUMv7kbFEKVUyEtdxxJ3ytPnJU2HMwggZFV7ptAfj
+	hZ5A==
+MIME-Version: 1.0
+Received: by 10.60.171.38 with SMTP id ar6mr27483839oec.1.1357221886367; Thu,
+	03 Jan 2013 06:04:46 -0800 (PST)
+Received: by 10.60.155.201 with HTTP; Thu, 3 Jan 2013 06:04:46 -0800 (PST)
+In-Reply-To: <CADttZZqO1JO7B49ZuxCn6qM2vk0zy_5eUc_CJkVkYBvj1Zp-2Q@mail.gmail.com>
+References: <CADttZZqSH5NjEo2He8rGf_ZscsvAQOHePq+ZYZwpbaYQ0L3_+w@mail.gmail.com>
+	<CADttZZqO1JO7B49ZuxCn6qM2vk0zy_5eUc_CJkVkYBvj1Zp-2Q@mail.gmail.com>
+Date: Thu, 3 Jan 2013 08:04:46 -0600
+Message-ID: <CAC4QDKj1HjytKSOHYZh7qp798aXgH8Nuej8=AmyX2frGWM4PUw@mail.gmail.com>
+From: meg ford <meg387@gmail.com>
+To: Chandni Verma <chandniverma2112@gmail.com>
+Content-Type: multipart/alternative; boundary=bcaec54d3edc6b178904d262d8f3
+Cc: gnome-lk-list@gnome.org, gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] Fwd: Application for job continuation
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 03 Jan 2013 14:04:18 -0000
+
+--bcaec54d3edc6b178904d262d8f3
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi,
+
+Does anyone know Chadni personally? This is a really weird email and I'm
+wondering if her email might have been hacked?
+
+Meg
+
+On Thu, Jan 3, 2013 at 4:19 AM, Chandni Verma <chandniverma2112@gmail.com>wrote:
+
+>
+>
+> ---------- Forwarded message ----------
+> From: Chandni Verma <chandniverma2112@gmail.com>
+> Date: 3 January 2013 15:46
+> Subject: Application for job continuation
+> To: jobs <jobs@collabora.co.uk>
+>
+>
+> Name = Chandni Verma
+> Bank = State bank of India
+> Branch = Daliganj
+> Account Number = 30205991449
+> IFSC code = SBIN0003813
+>
+> Thanks and regards,
+> --
+> Chandni
+>
+>
+>
+> --
+> Chandni
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--bcaec54d3edc6b178904d262d8f3
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi,<br><br>Does anyone know Chadni personally? This is a really weird email=
+ and I&#39;m wondering if her email might have been hacked?<br><br>Meg<br><=
+br><div class=3D"gmail_quote">On Thu, Jan 3, 2013 at 4:19 AM, Chandni Verma=
+ <span dir=3D"ltr">&lt;<a href=3D"mailto:chandniverma2112@gmail.com" target=
+=3D"_blank">chandniverma2112@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><br><br><div class=3D"gmail_quote">---------=
+- Forwarded message ----------<br>From: <b class=3D"gmail_sendername">Chand=
+ni Verma</b> <span dir=3D"ltr">&lt;<a href=3D"mailto:chandniverma2112@gmail=
+.com" target=3D"_blank">chandniverma2112@gmail.com</a>&gt;</span><br>
+
+Date: 3 January 2013 15:46<br>Subject: Application for job continuation<br>=
+To: jobs &lt;<a href=3D"mailto:jobs@collabora.co.uk" target=3D"_blank">jobs=
+@collabora.co.uk</a>&gt;<br><br><br>Name =3D Chandni Verma<div>Bank =3D Sta=
+te bank of India</div>
+
+<div>Branch =3D Daliganj</div><div>Account Number =3D 30205991449</div><div=
+>IFSC code =3D SBIN0003813</div><div><br></div><div><div>Thanks and regards=
+,</div><span class=3D"HOEnZb"><font color=3D"#888888"><span><font color=3D"=
+#888888">-- <br>
+Chandni
+</font></span></font></span></div><span class=3D"HOEnZb"><font color=3D"#88=
+8888">
+</font></span></div><span class=3D"HOEnZb"><font color=3D"#888888"><br><br =
+clear=3D"all"><div><br></div>-- <br>Chandni
+</font></span><br>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+></blockquote></div><br>
+
+--bcaec54d3edc6b178904d262d8f3--
+From sindhu.oxf@gmail.com  Fri Jan  4 02:50:05 2013
+Return-Path: <sindhu.oxf@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E570F7500C8;
+	Fri,  4 Jan 2013 02:50:04 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id kbOXXUQlROmI; Fri,  4 Jan 2013 02:49:51 +0000 (UTC)
+Received: from mail-oa0-f45.google.com (mail-oa0-f45.google.com
+	[209.85.219.45])
+	by menubar.gnome.org (Postfix) with ESMTP id BB2697500C7;
+	Fri,  4 Jan 2013 02:49:50 +0000 (UTC)
+Received: by mail-oa0-f45.google.com with SMTP id i18so14772843oag.18
+	for <multiple recipients>; Thu, 03 Jan 2013 18:50:22 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:sender:in-reply-to:references:from:date
+	:x-google-sender-auth:message-id:subject:to:cc:content-type;
+	bh=tsIRLektronBc7H3UrDDegTqBr76ONdvPrFp7CEM2f4=;
+	b=JNHkXJnh0KZtvb1AvA+OSBrZNVL9j1PoKOpYftlw3/XtCgQRUGvMSGQavbHnvM/Wwq
+	iuPHZsAtQ3mdz6dYnYD6+DaVO+GsT5W1sjii8Pn3jhoZHXmOnHsOjvVO2a89vqa6BTFN
+	vNktSyt68nf2wD+NsSehIl96LxrxI8az7nw//Zd2AJWp7ZQ0hWfvvSfv+jGt8QEpZc06
+	Js8DxoukRJhhTNjTJA/CkTrTvKGCitcDvua7kqYyxmEq7cFkAUVFe1N1oiSm1RGnf9eG
+	hho3xi3aqzD9CtJvUMJKOkvrJDWNLrzY0+2IQudgcCpiPgtN1LyVgFBXeIeYkRxvNici
+	Fc2Q==
+Received: by 10.60.32.67 with SMTP id g3mr28580133oei.77.1357267822179; Thu,
+	03 Jan 2013 18:50:22 -0800 (PST)
+MIME-Version: 1.0
+Sender: sindhu.oxf@gmail.com
+Received: by 10.76.79.232 with HTTP; Thu, 3 Jan 2013 18:49:41 -0800 (PST)
+In-Reply-To: <CAC4QDKj1HjytKSOHYZh7qp798aXgH8Nuej8=AmyX2frGWM4PUw@mail.gmail.com>
+References: <CADttZZqSH5NjEo2He8rGf_ZscsvAQOHePq+ZYZwpbaYQ0L3_+w@mail.gmail.com>
+	<CADttZZqO1JO7B49ZuxCn6qM2vk0zy_5eUc_CJkVkYBvj1Zp-2Q@mail.gmail.com>
+	<CAC4QDKj1HjytKSOHYZh7qp798aXgH8Nuej8=AmyX2frGWM4PUw@mail.gmail.com>
+From: Sindhu S <sindhus@live.in>
+Date: Fri, 4 Jan 2013 08:19:41 +0530
+X-Google-Sender-Auth: dHmUe0S7xgnRBV3CAkVJhZyVUWU
+Message-ID: <CAAjia4Yt12Jp3aYjgKW5STOe3XKXuZ8ZirP5mq-MiOwLH4DMFw@mail.gmail.com>
+To: meg ford <meg387@gmail.com>
+Content-Type: multipart/alternative; boundary=e89a8fb1f84667f62104d26d8ae6
+Cc: gnome-women-list <gnome-women-list@gnome.org>,
+	Chandni Verma <chandniverma2112@gmail.com>, gnome-lk-list@gnome.org
+Subject: Re: [gnome-women] Fwd: Application for job continuation
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 04 Jan 2013 02:50:05 -0000
+
+--e89a8fb1f84667f62104d26d8ae6
+Content-Type: text/plain; charset=UTF-8
+
+I don't know Chandini Verma personally but there is something funny going
+on. There is a blog post titled SCARY MOVIE
+2013<http://chandniverma.blogspot.com/2013/01/scary-movie-2013.html>
+with
+a picture of Chandini. I don't think she'd post this herself knowing very
+well that the content is aggregated to a Planet.
+
+
+On Thu, Jan 3, 2013 at 7:34 PM, meg ford <meg387@gmail.com> wrote:
+
+> Hi,
+>
+> Does anyone know Chadni personally? This is a really weird email and I'm
+> wondering if her email might have been hacked?
+>
+> Meg
+>
+> On Thu, Jan 3, 2013 at 4:19 AM, Chandni Verma <chandniverma2112@gmail.com>wrote:
+>
+>>
+>>
+>> ---------- Forwarded message ----------
+>> From: Chandni Verma <chandniverma2112@gmail.com>
+>> Date: 3 January 2013 15:46
+>> Subject: Application for job continuation
+>> To: jobs <jobs@collabora.co.uk>
+>>
+>>
+>> Name = Chandni Verma
+>> Bank = State bank of India
+>> Branch = Daliganj
+>> Account Number = 30205991449
+>> IFSC code = SBIN0003813
+>>
+>> Thanks and regards,
+>> --
+>> Chandni
+>>
+>>
+>>
+>> --
+>> Chandni
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>>
+>
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--e89a8fb1f84667f62104d26d8ae6
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">I don&#39;t know Chandini Verma personally but there is so=
+mething funny going on. There is a blog post titled=C2=A0<a href=3D"http://=
+chandniverma.blogspot.com/2013/01/scary-movie-2013.html">SCARY MOVIE 2013</=
+a>=C2=A0with a picture of Chandini. I don&#39;t think she&#39;d post this h=
+erself knowing very well that the content is aggregated to a Planet.</div>
+
+<div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">On Thu, Jan 3=
+, 2013 at 7:34 PM, meg ford <span dir=3D"ltr">&lt;<a href=3D"mailto:meg387@=
+gmail.com" target=3D"_blank">meg387@gmail.com</a>&gt;</span> wrote:<br><blo=
+ckquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #c=
+cc solid;padding-left:1ex">
+
+Hi,<br><br>Does anyone know Chadni personally? This is a really weird email=
+ and I&#39;m wondering if her email might have been hacked?<span class=3D"H=
+OEnZb"><font color=3D"#888888"><br><br>Meg<br><br></font></span><div class=
+=3D"gmail_quote">
+
+<div><div class=3D"h5">On Thu, Jan 3, 2013 at 4:19 AM, Chandni Verma <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:chandniverma2112@gmail.com" target=3D"_bl=
+ank">chandniverma2112@gmail.com</a>&gt;</span> wrote:<br>
+</div></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bo=
+rder-left:1px #ccc solid;padding-left:1ex"><div><div class=3D"h5"><br><br><=
+div class=3D"gmail_quote">---------- Forwarded message ----------<br>From: =
+<b class=3D"gmail_sendername">Chandni Verma</b> <span dir=3D"ltr">&lt;<a hr=
+ef=3D"mailto:chandniverma2112@gmail.com" target=3D"_blank">chandniverma2112=
+@gmail.com</a>&gt;</span><br>
+
+
+
+Date: 3 January 2013 15:46<br>Subject: Application for job continuation<br>=
+To: jobs &lt;<a href=3D"mailto:jobs@collabora.co.uk" target=3D"_blank">jobs=
+@collabora.co.uk</a>&gt;<br><br><br>Name =3D Chandni Verma<div>Bank =3D Sta=
+te bank of India</div>
+
+
+
+<div>Branch =3D Daliganj</div><div>Account Number =3D 30205991449</div><div=
+>IFSC code =3D SBIN0003813</div><div><br></div><div><div>Thanks and regards=
+,</div><span><font color=3D"#888888"><span><font color=3D"#888888">-- <br>
+Chandni
+</font></span></font></span></div><span><font color=3D"#888888">
+</font></span></div><span><font color=3D"#888888"><br><br clear=3D"all"><di=
+v><br></div>-- <br>Chandni
+</font></span><br></div></div><div class=3D"im">___________________________=
+____________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org" target=3D"_blank">gnome-=
+women-list@mail.gnome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+></div></blockquote></div><br>
+<br>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+></blockquote></div><br></div>
+
+--e89a8fb1f84667f62104d26d8ae6--

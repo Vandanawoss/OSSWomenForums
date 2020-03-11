@@ -1,0 +1,3394 @@
+From allison at openstack.org  Wed Mar  1 17:42:18 2017
+From: allison at openstack.org (Allison Price)
+Date: Wed, 1 Mar 2017 11:42:18 -0600
+Subject: [Women-of-openstack] The OpenStack Summit is returning to Vancouver
+	in May 2018
+Message-ID: <A7E0E88D-6F9D-4D1F-82B5-C1B1A322FEDF@openstack.org>
+
+Hi everyone, 
+
+Back by popular demand, the OpenStack Summit is returning to Vancouver <https://www.openstack.org/summit/vancouver-2018/>,?BC <https://www.openstack.org/summit/vancouver-2018/>, <https://www.openstack.org/summit/vancouver-2018/> BC from May 21-24, 2018. Registration, sponsorship opportunities and more information for the 17th OpenStack Summit will be available in the upcoming months. 
+
+Can?t wait until 2018? Brush up on your OpenStack skills in 2017 by registering to attend the OpenStack Summit Boston <https://www.openstack.org/summit/boston-2017/>, May 8-11 and marking your calendar for the OpenStack Summit Sydney <https://www.openstack.org/summit/sydney-2017/>, November 6-8.
+
+For news on upcoming OpenStack Summits, visit openstack.org/summit <http://openstack.org/summit>. 
+
+
+Cheers,
+Allison
+
+Allison Price
+OpenStack Foundation
+allison at openstack.org <mailto:allison at openstack.org>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170301/2ffb7a4f/attachment.html>
+
+From ynisha11 at gmail.com  Sat Mar  4 19:10:12 2017
+From: ynisha11 at gmail.com (Nisha Yadav)
+Date: Sun, 5 Mar 2017 00:40:12 +0530
+Subject: [Women-of-openstack] Meeting Reminder - 2/6/17
+In-Reply-To: <OF445DE603.8BA5DA2A-ON002580C0.0049D117-852580C0.004BEFBC@notes.na.collabserv.com>
+References: <CAFs83QqqH3G=M_QrhvU9HjAovmdY1=5Sk8-7rSiT2-VtgAqfCQ@mail.gmail.com>
+ <OF805B3302.9E729DC6-ON852580BF.005093BE-852580BF.00516E3A@notes.na.collabserv.com>
+ <4EC6E9FD-4177-4724-8415-4B160ACFF62D@intel.com>
+ <OF445DE603.8BA5DA2A-ON002580C0.0049D117-852580C0.004BEFBC@notes.na.collabserv.com>
+Message-ID: <CABGKpcEE-7e=-Sp4srRg1T2CCq5xtWLA2nLcmVEcoDETOH+V5g@mail.gmail.com>
+
+Hey all,
+
+I attended the the Speed Mentoring session
+<https://www.openstack.org/videos/barcelona-2016/speed-mentoring-organized-by-women-of-openstack-sponsored-by-intel>
+and Women of OpenStack session
+<https://www.openstack.org/videos/barcelona-2016/women-of-openstack-breakfast-sponsored-by-ibm>
+in the Barcelona Summit. A big thanks to Emily Hugenbruch, Nithya Ruff and
+Jessica Murillo for their valuable insights. I also presented a talk OpenStack
+Outreachy Internships
+<https://www.openstack.org/videos/barcelona-2016/a-dice-with-several-faces-coordinators-mentors-and-interns-on-openstack-outreachy-internships>
+
+At the Boston Summit, I would be glad to volunteer at the Speed Mentoring
+session or any other Women of OpenStack event, sharing my experience.
+Please le'me know if I can signup for the same or there's anything else I
+can help with.
+
+P.S. I recently wrote a beginner's guide to attend OpenStack Summit. Please
+have a look here
+<https://nishayadavsite.wordpress.com/2017/03/04/beginners-guide-attending-openstack-summit/>.
+
+
+Waiting for kind reply. Thanks.
+
+Best regards,
+Nisha Yadav
+Twitter :@nisha_yadav_
+
+On Tue, Feb 7, 2017 at 7:19 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com>
+wrote:
+
+> Hi Khanak,
+> We're happy for volunteers (or attendees) at the Speed Mentoring session,
+> which will be first thing in the morning on the Monday of the summit
+> (7:30-8:45). I know it's early, but we do provide coffee (and breakfast,
+> thanks to Intel).
+> Thanks!
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+>
+> [image: Inactive hide details for "Nangia, Khanak" ---02/06/2017 03:32:04
+> PM---Hi All, This is Khanak Nangia, a member of Intel OSIC Se]"Nangia,
+> Khanak" ---02/06/2017 03:32:04 PM---Hi All, This is Khanak Nangia, a member
+> of Intel OSIC Security Team, working in San Antonio, Texas.
+>
+> From: "Nangia, Khanak" <khanak.nangia at intel.com>
+> To: Maria Rita Villari/Raleigh/IBM at IBMUS, "women-of-openstack at lists.
+> openstack.org" <women-of-openstack at lists.openstack.org>
+> Date: 02/06/2017 03:32 PM
+> Subject: Re: [Women-of-openstack] Meeting Reminder - 2/6/17
+> ------------------------------
+>
+>
+>
+> Hi All,
+>
+> This is Khanak Nangia, a member of Intel OSIC Security Team, working in
+> San Antonio, Texas.
+> I attended my first Women of OpenStack meeting today (leaving some audio
+> glitches). It was great to hear you all and how you are planning for the
+> Boston Summit.
+> Please let me know if I can help in anyway, would love to volunteer and
+> hoping to meet in Boston :)
+>
+> Cheers,
+> Khanak
+>
+>
+>
+> *From: *Maria Rita Villari <*mvillari at us.ibm.com* <mvillari at us.ibm.com>>
+> *Date: *Monday, February 6, 2017 at 8:49 AM
+> *To: *"*women-of-openstack at lists.openstack.org*
+> <women-of-openstack at lists.openstack.org>" <
+> *women-of-openstack at lists.openstack.org*
+> <women-of-openstack at lists.openstack.org>>
+> *Subject: *[Women-of-openstack] Meeting Reminder - 2/6/17
+>
+> Please join us for the Women of OpenStack meeting today Monday 2/6/17 at
+> 12pm PST, 2pm CST and 3pm EST.
+>
+> Dial-in info is: 1-203-277-8157 or 866-619-0383 Participant: 7217256#
+> Leader 4018#
+> webex - URL:
+> *https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2*
+> <https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2>
+>
+> Etherpad is at *https://etherpad.openstack.org/p/WOS_02_06_17*
+> <https://etherpad.openstack.org/p/WOS_02_06_17>. Feel free to add new
+> topics on today's agenda.
+>
+> Regards,
+>
+> *Maria Rita Villari*
+> Program Manager
+> IBM Cloud, Open Cloud Technologies
+> ------------------------------
+> *E-mail:**mvillari at us.ibm.com* <mvillari at us.ibm.com>
+> 4205 S Miami Blvd
+> Durham, NC 27703-9141
+> United States
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170305/b6553c0d/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170305/b6553c0d/attachment.gif>
+
+From ynisha11 at gmail.com  Sat Mar  4 19:39:06 2017
+From: ynisha11 at gmail.com (Nisha Yadav)
+Date: Sun, 5 Mar 2017 01:09:06 +0530
+Subject: [Women-of-openstack] Unable to add myself to the list of Women of
+	OpenStack Directory
+Message-ID: <CABGKpcGYJ7B5K69iJWdGL2MFSd0PDLOuRS9aJ1VZJYyXRR=QTQ@mail.gmail.com>
+
+Hey all,
+I am unable to add myself to the list here,
+
+https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_of_OpenStack_Directory
+
+Getting the following error, even when I am not adding any link.
+Spam protection filter
+
+The text you wanted to save was blocked by the spam filter. This is
+probably caused by a link to a blacklisted external site.
+
+The following text is what triggered our spam filter: Facebook.
+
+
+Please help me fix this issue. Thanks a lot!
+
+Regards,
+
+Nisha
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170305/736a5745/attachment.html>
+
+From annegentle at justwriteclick.com  Sat Mar  4 20:17:29 2017
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Sat, 4 Mar 2017 14:17:29 -0600
+Subject: [Women-of-openstack] Unable to add myself to the list of Women
+ of OpenStack Directory
+In-Reply-To: <CABGKpcGYJ7B5K69iJWdGL2MFSd0PDLOuRS9aJ1VZJYyXRR=QTQ@mail.gmail.com>
+References: <CABGKpcGYJ7B5K69iJWdGL2MFSd0PDLOuRS9aJ1VZJYyXRR=QTQ@mail.gmail.com>
+Message-ID: <CAD0KtVF3AWZooB5qDJN90+Ru7zX+BibNKE=EeQCMZSw_UaJqwA@mail.gmail.com>
+
+Yes, I get the same thing. I think the spam filter has blocked any edits to
+the page. I've removed the two keywords that seemed to trigger. Had to
+change a reference to gmail to gee mail, and remove Facebook mention and
+link.
+
+Try again and see if you can edit now.
+Hope this helps -
+Anne
+
+On Sat, Mar 4, 2017 at 1:39 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+
+> Hey all,
+> I am unable to add myself to the list here,
+>
+> https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_
+> of_OpenStack_Directory
+>
+> Getting the following error, even when I am not adding any link.
+> Spam protection filter
+>
+> The text you wanted to save was blocked by the spam filter. This is
+> probably caused by a link to a blacklisted external site.
+>
+> The following text is what triggered our spam filter: Facebook.
+>
+>
+> Please help me fix this issue. Thanks a lot!
+>
+> Regards,
+>
+> Nisha
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+
+Read my blog: justwrite.click <https://justwriteclick.com>
+Subscribe to Docs|Code: docslikecode.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170304/bca329a6/attachment.html>
+
+From ynisha11 at gmail.com  Sat Mar  4 20:24:19 2017
+From: ynisha11 at gmail.com (Nisha Yadav)
+Date: Sun, 5 Mar 2017 01:54:19 +0530
+Subject: [Women-of-openstack] Unable to add myself to the list of Women
+ of OpenStack Directory
+In-Reply-To: <CAD0KtVF3AWZooB5qDJN90+Ru7zX+BibNKE=EeQCMZSw_UaJqwA@mail.gmail.com>
+References: <CABGKpcGYJ7B5K69iJWdGL2MFSd0PDLOuRS9aJ1VZJYyXRR=QTQ@mail.gmail.com>
+ <CAD0KtVF3AWZooB5qDJN90+Ru7zX+BibNKE=EeQCMZSw_UaJqwA@mail.gmail.com>
+Message-ID: <CABGKpcHBJh7Wu2YSQ4ERs0PDga+Ru-f8yeN8JMeQ4C1GPsQW2w@mail.gmail.com>
+
+Thanks a lot Anne. That was really a quick fix. I added myself to the list
+:)
+Best Regards,
+Nisha
+
+On Sun, Mar 5, 2017 at 1:47 AM, Anne Gentle <annegentle at justwriteclick.com>
+wrote:
+
+> Yes, I get the same thing. I think the spam filter has blocked any edits
+> to the page. I've removed the two keywords that seemed to trigger. Had to
+> change a reference to gmail to gee mail, and remove Facebook mention and
+> link.
+>
+> Try again and see if you can edit now.
+> Hope this helps -
+> Anne
+>
+> On Sat, Mar 4, 2017 at 1:39 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>
+>> Hey all,
+>> I am unable to add myself to the list here,
+>>
+>> https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_of_
+>> OpenStack_Directory
+>>
+>> Getting the following error, even when I am not adding any link.
+>> Spam protection filter
+>>
+>> The text you wanted to save was blocked by the spam filter. This is
+>> probably caused by a link to a blacklisted external site.
+>>
+>> The following text is what triggered our spam filter: Facebook.
+>>
+>>
+>> Please help me fix this issue. Thanks a lot!
+>>
+>> Regards,
+>>
+>> Nisha
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>
+>
+> --
+>
+> Read my blog: justwrite.click <https://justwriteclick.com>
+> Subscribe to Docs|Code: docslikecode.com
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170305/418b8e87/attachment-0001.html>
+
+From amy at demarco.com  Mon Mar  6 17:07:46 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 6 Mar 2017 11:07:46 -0600
+Subject: [Women-of-openstack] Meeting Reminder
+Message-ID: <CAFs83QpXmZQnqqgr-vhoPxmf_=W4GWy912Kn2F-xkiOHbO_CJw@mail.gmail.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the next meeting will be today 3/6/17 at
+12pm PST, 2pm CST and 3pm EST.
+
+Dial-in info is: 1-203-277-8157 <(203)%20277-8157> or 866-619-0383
+<(866)%20619-0383>  Participant: 7217256# Leader 4018#
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=
+m0e7ba518a2d4487bc0a78d00055f62e2
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_03_06_17 and if you
+would like to add something to the agenda please do so. I've thrown a few
+topics on that I think wed like to at least touch base on. On today's
+agenda is  "My experience @ the PTG with speakers Aimee Ukasick & Kendall
+Nelson"
+
+I've gone ahead and fleshed out the next couple of meetings at
+https://etherpad.openstack.org/p/WOS_Agenda_Tracker so please sign up if
+you'd like to lead a meeting. It's a great way to get some experience
+leading and talking to a group in a very low key environment (we don't
+bite).
+
+Hope everyone had a good break!
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170306/a095b654/attachment.html>
+
+From ynisha11 at gmail.com  Mon Mar  6 17:11:50 2017
+From: ynisha11 at gmail.com (Nisha Yadav)
+Date: Mon, 6 Mar 2017 22:41:50 +0530
+Subject: [Women-of-openstack] Unable to add myself to the list of Women
+ of OpenStack Directory
+In-Reply-To: <CABGKpcHBJh7Wu2YSQ4ERs0PDga+Ru-f8yeN8JMeQ4C1GPsQW2w@mail.gmail.com>
+References: <CABGKpcGYJ7B5K69iJWdGL2MFSd0PDLOuRS9aJ1VZJYyXRR=QTQ@mail.gmail.com>
+ <CAD0KtVF3AWZooB5qDJN90+Ru7zX+BibNKE=EeQCMZSw_UaJqwA@mail.gmail.com>
+ <CABGKpcHBJh7Wu2YSQ4ERs0PDga+Ru-f8yeN8JMeQ4C1GPsQW2w@mail.gmail.com>
+Message-ID: <CABGKpcGMgqxcCGuRhMxPPKSP7Z=TWtihtYTkecSAREVHG2yr7Q@mail.gmail.com>
+
+Hey Anne,
+
+I am sorry to ping you again. But the same issue arises when I try to edit
+https://wiki.openstack.org/wiki/Outreachy#Mentors
+Can you please help me with this? Or if I can do something to fix the
+issue, that would work as well.
+
+Even adding a single alphabet gives the following error,
+Spam protection filter
+
+The text you wanted to save was blocked by the spam filter. This is
+probably caused by a link to a blacklisted external site.
+
+The following text is what triggered our spam filter: gmail.
+
+
+
+Thanks and regards,
+Nisha
+
+On Sun, Mar 5, 2017 at 1:54 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+
+> Thanks a lot Anne. That was really a quick fix. I added myself to the list
+> :)
+> Best Regards,
+> Nisha
+>
+> On Sun, Mar 5, 2017 at 1:47 AM, Anne Gentle <annegentle at justwriteclick.com
+> > wrote:
+>
+>> Yes, I get the same thing. I think the spam filter has blocked any edits
+>> to the page. I've removed the two keywords that seemed to trigger. Had to
+>> change a reference to gmail to gee mail, and remove Facebook mention and
+>> link.
+>>
+>> Try again and see if you can edit now.
+>> Hope this helps -
+>> Anne
+>>
+>> On Sat, Mar 4, 2017 at 1:39 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>
+>>> Hey all,
+>>> I am unable to add myself to the list here,
+>>>
+>>> https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_of_
+>>> OpenStack_Directory
+>>>
+>>> Getting the following error, even when I am not adding any link.
+>>> Spam protection filter
+>>>
+>>> The text you wanted to save was blocked by the spam filter. This is
+>>> probably caused by a link to a blacklisted external site.
+>>>
+>>> The following text is what triggered our spam filter: Facebook.
+>>>
+>>>
+>>> Please help me fix this issue. Thanks a lot!
+>>>
+>>> Regards,
+>>>
+>>> Nisha
+>>>
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>
+>>>
+>>
+>>
+>> --
+>>
+>> Read my blog: justwrite.click <https://justwriteclick.com>
+>> Subscribe to Docs|Code: docslikecode.com
+>>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170306/7cc770c7/attachment.html>
+
+From annegentle at justwriteclick.com  Mon Mar  6 17:15:45 2017
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Mon, 6 Mar 2017 11:15:45 -0600
+Subject: [Women-of-openstack] Unable to add myself to the list of Women
+ of OpenStack Directory
+In-Reply-To: <CABGKpcGMgqxcCGuRhMxPPKSP7Z=TWtihtYTkecSAREVHG2yr7Q@mail.gmail.com>
+References: <CABGKpcGYJ7B5K69iJWdGL2MFSd0PDLOuRS9aJ1VZJYyXRR=QTQ@mail.gmail.com>
+ <CAD0KtVF3AWZooB5qDJN90+Ru7zX+BibNKE=EeQCMZSw_UaJqwA@mail.gmail.com>
+ <CABGKpcHBJh7Wu2YSQ4ERs0PDga+Ru-f8yeN8JMeQ4C1GPsQW2w@mail.gmail.com>
+ <CABGKpcGMgqxcCGuRhMxPPKSP7Z=TWtihtYTkecSAREVHG2yr7Q@mail.gmail.com>
+Message-ID: <CAD0KtVFGf+Yn683e7twwuC0cjObw-K9JLE5frJ2ODd4xXWVFUQ@mail.gmail.com>
+
+No worries, I should have been more clear previously.
+
+To fix it yourself, look for "gmail" in the page and edit it to "gee mail"
+or something. It's a bit of a pain if the best way to get in touch with
+someone is through gmail, but hopefully people will still be able to
+interpret the non-spammy wording.
+
+Anne
+
+
+On Mon, Mar 6, 2017 at 11:11 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+
+> Hey Anne,
+>
+> I am sorry to ping you again. But the same issue arises when I try to edit
+> https://wiki.openstack.org/wiki/Outreachy#Mentors
+> Can you please help me with this? Or if I can do something to fix the
+> issue, that would work as well.
+>
+> Even adding a single alphabet gives the following error,
+> Spam protection filter
+>
+> The text you wanted to save was blocked by the spam filter. This is
+> probably caused by a link to a blacklisted external site.
+>
+> The following text is what triggered our spam filter: gmail.
+>
+>
+>
+> Thanks and regards,
+> Nisha
+>
+> On Sun, Mar 5, 2017 at 1:54 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>
+>> Thanks a lot Anne. That was really a quick fix. I added myself to the
+>> list :)
+>> Best Regards,
+>> Nisha
+>>
+>> On Sun, Mar 5, 2017 at 1:47 AM, Anne Gentle <
+>> annegentle at justwriteclick.com> wrote:
+>>
+>>> Yes, I get the same thing. I think the spam filter has blocked any edits
+>>> to the page. I've removed the two keywords that seemed to trigger. Had to
+>>> change a reference to gmail to gee mail, and remove Facebook mention and
+>>> link.
+>>>
+>>> Try again and see if you can edit now.
+>>> Hope this helps -
+>>> Anne
+>>>
+>>> On Sat, Mar 4, 2017 at 1:39 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>>
+>>>> Hey all,
+>>>> I am unable to add myself to the list here,
+>>>>
+>>>> https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_of_
+>>>> OpenStack_Directory
+>>>>
+>>>> Getting the following error, even when I am not adding any link.
+>>>> Spam protection filter
+>>>>
+>>>> The text you wanted to save was blocked by the spam filter. This is
+>>>> probably caused by a link to a blacklisted external site.
+>>>>
+>>>> The following text is what triggered our spam filter: Facebook.
+>>>>
+>>>>
+>>>> Please help me fix this issue. Thanks a lot!
+>>>>
+>>>> Regards,
+>>>>
+>>>> Nisha
+>>>>
+>>>> _______________________________________________
+>>>> Women-of-openstack mailing list
+>>>> Women-of-openstack at lists.openstack.org
+>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>>
+>>> Read my blog: justwrite.click <https://justwriteclick.com>
+>>> Subscribe to Docs|Code: docslikecode.com
+>>>
+>>
+>>
+>
+
+
+-- 
+
+Read my blog: justwrite.click <https://justwriteclick.com>
+Subscribe to Docs|Code: docslikecode.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170306/cf1f14a1/attachment-0001.html>
+
+From ynisha11 at gmail.com  Mon Mar  6 17:23:48 2017
+From: ynisha11 at gmail.com (Nisha Yadav)
+Date: Mon, 6 Mar 2017 22:53:48 +0530
+Subject: [Women-of-openstack] Unable to add myself to the list of Women
+ of OpenStack Directory
+In-Reply-To: <CAD0KtVFGf+Yn683e7twwuC0cjObw-K9JLE5frJ2ODd4xXWVFUQ@mail.gmail.com>
+References: <CABGKpcGYJ7B5K69iJWdGL2MFSd0PDLOuRS9aJ1VZJYyXRR=QTQ@mail.gmail.com>
+ <CAD0KtVF3AWZooB5qDJN90+Ru7zX+BibNKE=EeQCMZSw_UaJqwA@mail.gmail.com>
+ <CABGKpcHBJh7Wu2YSQ4ERs0PDga+Ru-f8yeN8JMeQ4C1GPsQW2w@mail.gmail.com>
+ <CABGKpcGMgqxcCGuRhMxPPKSP7Z=TWtihtYTkecSAREVHG2yr7Q@mail.gmail.com>
+ <CAD0KtVFGf+Yn683e7twwuC0cjObw-K9JLE5frJ2ODd4xXWVFUQ@mail.gmail.com>
+Message-ID: <CABGKpcHnw-k96E-UoDR0LZG6fmMSq0_wQxRXFPLH_saJ89eMqQ@mail.gmail.com>
+
+Hey,
+Sure will do that, but I wanted to know more. Should we consider it as a
+temporary quick fix or is it due to some recent spam filtering changes in
+the wiki page. Because, last time someone would have added their email
+address mentioning gmail the changes did in fact got saved, right? I don't
+really know how the editing of wiki page really works. Sorry if I am
+bugging you.
+
+Regards,
+Nisha
+
+On Mon, Mar 6, 2017 at 10:45 PM, Anne Gentle <annegentle at justwriteclick.com>
+wrote:
+
+> No worries, I should have been more clear previously.
+>
+> To fix it yourself, look for "gmail" in the page and edit it to "gee mail"
+> or something. It's a bit of a pain if the best way to get in touch with
+> someone is through gmail, but hopefully people will still be able to
+> interpret the non-spammy wording.
+>
+> Anne
+>
+>
+> On Mon, Mar 6, 2017 at 11:11 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>
+>> Hey Anne,
+>>
+>> I am sorry to ping you again. But the same issue arises when I try to
+>> edit https://wiki.openstack.org/wiki/Outreachy#Mentors
+>> Can you please help me with this? Or if I can do something to fix the
+>> issue, that would work as well.
+>>
+>> Even adding a single alphabet gives the following error,
+>> Spam protection filter
+>>
+>> The text you wanted to save was blocked by the spam filter. This is
+>> probably caused by a link to a blacklisted external site.
+>>
+>> The following text is what triggered our spam filter: gmail.
+>>
+>>
+>>
+>> Thanks and regards,
+>> Nisha
+>>
+>> On Sun, Mar 5, 2017 at 1:54 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>
+>>> Thanks a lot Anne. That was really a quick fix. I added myself to the
+>>> list :)
+>>> Best Regards,
+>>> Nisha
+>>>
+>>> On Sun, Mar 5, 2017 at 1:47 AM, Anne Gentle <
+>>> annegentle at justwriteclick.com> wrote:
+>>>
+>>>> Yes, I get the same thing. I think the spam filter has blocked any
+>>>> edits to the page. I've removed the two keywords that seemed to trigger.
+>>>> Had to change a reference to gmail to gee mail, and remove Facebook mention
+>>>> and link.
+>>>>
+>>>> Try again and see if you can edit now.
+>>>> Hope this helps -
+>>>> Anne
+>>>>
+>>>> On Sat, Mar 4, 2017 at 1:39 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>>>
+>>>>> Hey all,
+>>>>> I am unable to add myself to the list here,
+>>>>>
+>>>>> https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_of_
+>>>>> OpenStack_Directory
+>>>>>
+>>>>> Getting the following error, even when I am not adding any link.
+>>>>> Spam protection filter
+>>>>>
+>>>>> The text you wanted to save was blocked by the spam filter. This is
+>>>>> probably caused by a link to a blacklisted external site.
+>>>>>
+>>>>> The following text is what triggered our spam filter: Facebook.
+>>>>>
+>>>>>
+>>>>> Please help me fix this issue. Thanks a lot!
+>>>>>
+>>>>> Regards,
+>>>>>
+>>>>> Nisha
+>>>>>
+>>>>> _______________________________________________
+>>>>> Women-of-openstack mailing list
+>>>>> Women-of-openstack at lists.openstack.org
+>>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>>>
+>>>>>
+>>>>
+>>>>
+>>>> --
+>>>>
+>>>> Read my blog: justwrite.click <https://justwriteclick.com>
+>>>> Subscribe to Docs|Code: docslikecode.com
+>>>>
+>>>
+>>>
+>>
+>
+>
+> --
+>
+> Read my blog: justwrite.click <https://justwriteclick.com>
+> Subscribe to Docs|Code: docslikecode.com
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170306/b398b6b9/attachment.html>
+
+From ynisha11 at gmail.com  Mon Mar  6 18:06:44 2017
+From: ynisha11 at gmail.com (Nisha Yadav)
+Date: Mon, 6 Mar 2017 23:36:44 +0530
+Subject: [Women-of-openstack] Unable to add myself to the list of Women
+ of OpenStack Directory
+In-Reply-To: <CABGKpcHnw-k96E-UoDR0LZG6fmMSq0_wQxRXFPLH_saJ89eMqQ@mail.gmail.com>
+References: <CABGKpcGYJ7B5K69iJWdGL2MFSd0PDLOuRS9aJ1VZJYyXRR=QTQ@mail.gmail.com>
+ <CAD0KtVF3AWZooB5qDJN90+Ru7zX+BibNKE=EeQCMZSw_UaJqwA@mail.gmail.com>
+ <CABGKpcHBJh7Wu2YSQ4ERs0PDga+Ru-f8yeN8JMeQ4C1GPsQW2w@mail.gmail.com>
+ <CABGKpcGMgqxcCGuRhMxPPKSP7Z=TWtihtYTkecSAREVHG2yr7Q@mail.gmail.com>
+ <CAD0KtVFGf+Yn683e7twwuC0cjObw-K9JLE5frJ2ODd4xXWVFUQ@mail.gmail.com>
+ <CABGKpcHnw-k96E-UoDR0LZG6fmMSq0_wQxRXFPLH_saJ89eMqQ@mail.gmail.com>
+Message-ID: <CABGKpcHDtc=WQ3mDdxBYi6O2=xO-X5KwrinC3oFT8fGac=FtaA@mail.gmail.com>
+
+Anne, I edited the wiki page. I first removed the last occurrence of gmail.
+Added myself to the list along with my 'gmail' address and it got saved.
+Then, I again edited the wiki page, reversing the former occurence of gmail
+to how it was initially. It worked, though I am still wondering why.
+
+Thanks for help once again!
+
+On Mon, Mar 6, 2017 at 10:53 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+
+> Hey,
+> Sure will do that, but I wanted to know more. Should we consider it as a
+> temporary quick fix or is it due to some recent spam filtering changes in
+> the wiki page. Because, last time someone would have added their email
+> address mentioning gmail the changes did in fact got saved, right? I don't
+> really know how the editing of wiki page really works. Sorry if I am
+> bugging you.
+>
+> Regards,
+> Nisha
+>
+>
+> On Mon, Mar 6, 2017 at 10:45 PM, Anne Gentle <
+> annegentle at justwriteclick.com> wrote:
+>
+>> No worries, I should have been more clear previously.
+>>
+>> To fix it yourself, look for "gmail" in the page and edit it to "gee
+>> mail" or something. It's a bit of a pain if the best way to get in touch
+>> with someone is through gmail, but hopefully people will still be able to
+>> interpret the non-spammy wording.
+>>
+>> Anne
+>>
+>>
+>> On Mon, Mar 6, 2017 at 11:11 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>
+>>> Hey Anne,
+>>>
+>>> I am sorry to ping you again. But the same issue arises when I try to
+>>> edit https://wiki.openstack.org/wiki/Outreachy#Mentors
+>>> Can you please help me with this? Or if I can do something to fix the
+>>> issue, that would work as well.
+>>>
+>>> Even adding a single alphabet gives the following error,
+>>> Spam protection filter
+>>>
+>>> The text you wanted to save was blocked by the spam filter. This is
+>>> probably caused by a link to a blacklisted external site.
+>>>
+>>> The following text is what triggered our spam filter: gmail.
+>>>
+>>>
+>>>
+>>> Thanks and regards,
+>>> Nisha
+>>>
+>>> On Sun, Mar 5, 2017 at 1:54 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>>
+>>>> Thanks a lot Anne. That was really a quick fix. I added myself to the
+>>>> list :)
+>>>> Best Regards,
+>>>> Nisha
+>>>>
+>>>> On Sun, Mar 5, 2017 at 1:47 AM, Anne Gentle <
+>>>> annegentle at justwriteclick.com> wrote:
+>>>>
+>>>>> Yes, I get the same thing. I think the spam filter has blocked any
+>>>>> edits to the page. I've removed the two keywords that seemed to trigger.
+>>>>> Had to change a reference to gmail to gee mail, and remove Facebook mention
+>>>>> and link.
+>>>>>
+>>>>> Try again and see if you can edit now.
+>>>>> Hope this helps -
+>>>>> Anne
+>>>>>
+>>>>> On Sat, Mar 4, 2017 at 1:39 PM, Nisha Yadav <ynisha11 at gmail.com>
+>>>>> wrote:
+>>>>>
+>>>>>> Hey all,
+>>>>>> I am unable to add myself to the list here,
+>>>>>>
+>>>>>> https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_of_
+>>>>>> OpenStack_Directory
+>>>>>>
+>>>>>> Getting the following error, even when I am not adding any link.
+>>>>>> Spam protection filter
+>>>>>>
+>>>>>> The text you wanted to save was blocked by the spam filter. This is
+>>>>>> probably caused by a link to a blacklisted external site.
+>>>>>>
+>>>>>> The following text is what triggered our spam filter: Facebook.
+>>>>>>
+>>>>>>
+>>>>>> Please help me fix this issue. Thanks a lot!
+>>>>>>
+>>>>>> Regards,
+>>>>>>
+>>>>>> Nisha
+>>>>>>
+>>>>>> _______________________________________________
+>>>>>> Women-of-openstack mailing list
+>>>>>> Women-of-openstack at lists.openstack.org
+>>>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of
+>>>>>> -openstack
+>>>>>>
+>>>>>>
+>>>>>
+>>>>>
+>>>>> --
+>>>>>
+>>>>> Read my blog: justwrite.click <https://justwriteclick.com>
+>>>>> Subscribe to Docs|Code: docslikecode.com
+>>>>>
+>>>>
+>>>>
+>>>
+>>
+>>
+>> --
+>>
+>> Read my blog: justwrite.click <https://justwriteclick.com>
+>> Subscribe to Docs|Code: docslikecode.com
+>>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170306/47961e6c/attachment-0001.html>
+
+From annegentle at justwriteclick.com  Mon Mar  6 20:14:33 2017
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Mon, 6 Mar 2017 14:14:33 -0600
+Subject: [Women-of-openstack] Unable to add myself to the list of Women
+ of OpenStack Directory
+In-Reply-To: <CABGKpcHDtc=WQ3mDdxBYi6O2=xO-X5KwrinC3oFT8fGac=FtaA@mail.gmail.com>
+References: <CABGKpcGYJ7B5K69iJWdGL2MFSd0PDLOuRS9aJ1VZJYyXRR=QTQ@mail.gmail.com>
+ <CAD0KtVF3AWZooB5qDJN90+Ru7zX+BibNKE=EeQCMZSw_UaJqwA@mail.gmail.com>
+ <CABGKpcHBJh7Wu2YSQ4ERs0PDga+Ru-f8yeN8JMeQ4C1GPsQW2w@mail.gmail.com>
+ <CABGKpcGMgqxcCGuRhMxPPKSP7Z=TWtihtYTkecSAREVHG2yr7Q@mail.gmail.com>
+ <CAD0KtVFGf+Yn683e7twwuC0cjObw-K9JLE5frJ2ODd4xXWVFUQ@mail.gmail.com>
+ <CABGKpcHnw-k96E-UoDR0LZG6fmMSq0_wQxRXFPLH_saJ89eMqQ@mail.gmail.com>
+ <CABGKpcHDtc=WQ3mDdxBYi6O2=xO-X5KwrinC3oFT8fGac=FtaA@mail.gmail.com>
+Message-ID: <CAD0KtVF7ZJ15zUOJBEuYKJ7D7XNHdMX8EELjSTA6nV--XCHyYQ@mail.gmail.com>
+
+Hi again Nisha -
+
+I asked Jeremy Stanley on the Infra team if there was a "window" of time
+that gmail would be a blocked word. Sounds like it's a keyword within their
+control (some are controlled by Mediawiki itself), so he unblocked it
+earlier today. You can read more context, around this timestamp, from the
+IRC logs if you're curious:
+http://eavesdrop.openstack.org/irclogs/%23openstack-infra/%23openstack-infra.2017-03-06.log.html#t2017-03-06T17:26:07
+
+So my best guess is that you hit the timing just right. :)
+
+Anne
+
+On Mon, Mar 6, 2017 at 12:06 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+
+> Anne, I edited the wiki page. I first removed the last occurrence of
+> gmail. Added myself to the list along with my 'gmail' address and it got
+> saved. Then, I again edited the wiki page, reversing the former occurence
+> of gmail to how it was initially. It worked, though I am still wondering
+> why.
+>
+> Thanks for help once again!
+>
+> On Mon, Mar 6, 2017 at 10:53 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>
+>> Hey,
+>> Sure will do that, but I wanted to know more. Should we consider it as a
+>> temporary quick fix or is it due to some recent spam filtering changes in
+>> the wiki page. Because, last time someone would have added their email
+>> address mentioning gmail the changes did in fact got saved, right? I don't
+>> really know how the editing of wiki page really works. Sorry if I am
+>> bugging you.
+>>
+>> Regards,
+>> Nisha
+>>
+>>
+>> On Mon, Mar 6, 2017 at 10:45 PM, Anne Gentle <
+>> annegentle at justwriteclick.com> wrote:
+>>
+>>> No worries, I should have been more clear previously.
+>>>
+>>> To fix it yourself, look for "gmail" in the page and edit it to "gee
+>>> mail" or something. It's a bit of a pain if the best way to get in touch
+>>> with someone is through gmail, but hopefully people will still be able to
+>>> interpret the non-spammy wording.
+>>>
+>>> Anne
+>>>
+>>>
+>>> On Mon, Mar 6, 2017 at 11:11 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>>
+>>>> Hey Anne,
+>>>>
+>>>> I am sorry to ping you again. But the same issue arises when I try to
+>>>> edit https://wiki.openstack.org/wiki/Outreachy#Mentors
+>>>> Can you please help me with this? Or if I can do something to fix the
+>>>> issue, that would work as well.
+>>>>
+>>>> Even adding a single alphabet gives the following error,
+>>>> Spam protection filter
+>>>>
+>>>> The text you wanted to save was blocked by the spam filter. This is
+>>>> probably caused by a link to a blacklisted external site.
+>>>>
+>>>> The following text is what triggered our spam filter: gmail.
+>>>>
+>>>>
+>>>>
+>>>> Thanks and regards,
+>>>> Nisha
+>>>>
+>>>> On Sun, Mar 5, 2017 at 1:54 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>>>
+>>>>> Thanks a lot Anne. That was really a quick fix. I added myself to the
+>>>>> list :)
+>>>>> Best Regards,
+>>>>> Nisha
+>>>>>
+>>>>> On Sun, Mar 5, 2017 at 1:47 AM, Anne Gentle <
+>>>>> annegentle at justwriteclick.com> wrote:
+>>>>>
+>>>>>> Yes, I get the same thing. I think the spam filter has blocked any
+>>>>>> edits to the page. I've removed the two keywords that seemed to trigger.
+>>>>>> Had to change a reference to gmail to gee mail, and remove Facebook mention
+>>>>>> and link.
+>>>>>>
+>>>>>> Try again and see if you can edit now.
+>>>>>> Hope this helps -
+>>>>>> Anne
+>>>>>>
+>>>>>> On Sat, Mar 4, 2017 at 1:39 PM, Nisha Yadav <ynisha11 at gmail.com>
+>>>>>> wrote:
+>>>>>>
+>>>>>>> Hey all,
+>>>>>>> I am unable to add myself to the list here,
+>>>>>>>
+>>>>>>> https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_of_
+>>>>>>> OpenStack_Directory
+>>>>>>>
+>>>>>>> Getting the following error, even when I am not adding any link.
+>>>>>>> Spam protection filter
+>>>>>>>
+>>>>>>> The text you wanted to save was blocked by the spam filter. This is
+>>>>>>> probably caused by a link to a blacklisted external site.
+>>>>>>>
+>>>>>>> The following text is what triggered our spam filter: Facebook.
+>>>>>>>
+>>>>>>>
+>>>>>>> Please help me fix this issue. Thanks a lot!
+>>>>>>>
+>>>>>>> Regards,
+>>>>>>>
+>>>>>>> Nisha
+>>>>>>>
+>>>>>>> _______________________________________________
+>>>>>>> Women-of-openstack mailing list
+>>>>>>> Women-of-openstack at lists.openstack.org
+>>>>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of
+>>>>>>> -openstack
+>>>>>>>
+>>>>>>>
+>>>>>>
+>>>>>>
+>>>>>> --
+>>>>>>
+>>>>>> Read my blog: justwrite.click <https://justwriteclick.com>
+>>>>>> Subscribe to Docs|Code: docslikecode.com
+>>>>>>
+>>>>>
+>>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>>
+>>> Read my blog: justwrite.click <https://justwriteclick.com>
+>>> Subscribe to Docs|Code: docslikecode.com
+>>>
+>>
+>>
+>
+
+
+-- 
+
+Read my blog: justwrite.click <https://justwriteclick.com>
+Subscribe to Docs|Code: docslikecode.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170306/038e202c/attachment.html>
+
+From farrell_rhonda at bah.com  Tue Mar  7 01:56:02 2017
+From: farrell_rhonda at bah.com (Farrell, Rhonda [USA])
+Date: Tue, 7 Mar 2017 01:56:02 +0000
+Subject: [Women-of-openstack] [External] Women-of-openstack Digest,
+	Vol 29, Issue 4
+In-Reply-To: <mailman.75.1488823607.18088.women-of-openstack@lists.openstack.org>
+References: <mailman.75.1488823607.18088.women-of-openstack@lists.openstack.org>
+Message-ID: <92DF79C5-846A-4DC1-846C-4B4DE5BC612E@bah.com>
+
+Looking for some great women speakers on SDLC related topics in N.VA. Please contact me if you have interest. 
+
+Sent from my iPhone
+
+> On Mar 6, 2017, at 1:19 PM, "women-of-openstack-request at lists.openstack.org" <women-of-openstack-request at lists.openstack.org> wrote:
+> 
+> Send Women-of-openstack mailing list submissions to
+>    women-of-openstack at lists.openstack.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+>    http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> or, via email, send a message with subject or body 'help' to
+>    women-of-openstack-request at lists.openstack.org
+> 
+> You can reach the person managing the list at
+>    women-of-openstack-owner at lists.openstack.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of Women-of-openstack digest..."
+> 
+> 
+> Today's Topics:
+> 
+>   1. Re: Unable to add myself to the list of Women of OpenStack
+>      Directory (Nisha Yadav)
+>   2. Re: Unable to add myself to the list of Women of OpenStack
+>      Directory (Nisha Yadav)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Mon, 6 Mar 2017 22:53:48 +0530
+> From: Nisha Yadav <ynisha11 at gmail.com>
+> To: Anne Gentle <annegentle at justwriteclick.com>
+> Cc: women-of-openstack at lists.openstack.org, Victoria Martinez de la
+>    Cruz <victoria at redhat.com>, mahati.chamarthy at intel.com
+> Subject: Re: [Women-of-openstack] Unable to add myself to the list of
+>    Women of OpenStack Directory
+> Message-ID:
+>    <CABGKpcHnw-k96E-UoDR0LZG6fmMSq0_wQxRXFPLH_saJ89eMqQ at mail.gmail.com>
+> Content-Type: text/plain; charset="utf-8"
+> 
+> Hey,
+> Sure will do that, but I wanted to know more. Should we consider it as a
+> temporary quick fix or is it due to some recent spam filtering changes in
+> the wiki page. Because, last time someone would have added their email
+> address mentioning gmail the changes did in fact got saved, right? I don't
+> really know how the editing of wiki page really works. Sorry if I am
+> bugging you.
+> 
+> Regards,
+> Nisha
+> 
+> On Mon, Mar 6, 2017 at 10:45 PM, Anne Gentle <annegentle at justwriteclick.com>
+> wrote:
+> 
+>> No worries, I should have been more clear previously.
+>> 
+>> To fix it yourself, look for "gmail" in the page and edit it to "gee mail"
+>> or something. It's a bit of a pain if the best way to get in touch with
+>> someone is through gmail, but hopefully people will still be able to
+>> interpret the non-spammy wording.
+>> 
+>> Anne
+>> 
+>> 
+>>> On Mon, Mar 6, 2017 at 11:11 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>> 
+>>> Hey Anne,
+>>> 
+>>> I am sorry to ping you again. But the same issue arises when I try to
+>>> edit https://wiki.openstack.org/wiki/Outreachy#Mentors
+>>> Can you please help me with this? Or if I can do something to fix the
+>>> issue, that would work as well.
+>>> 
+>>> Even adding a single alphabet gives the following error,
+>>> Spam protection filter
+>>> 
+>>> The text you wanted to save was blocked by the spam filter. This is
+>>> probably caused by a link to a blacklisted external site.
+>>> 
+>>> The following text is what triggered our spam filter: gmail.
+>>> 
+>>> 
+>>> 
+>>> Thanks and regards,
+>>> Nisha
+>>> 
+>>>> On Sun, Mar 5, 2017 at 1:54 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>>> 
+>>>> Thanks a lot Anne. That was really a quick fix. I added myself to the
+>>>> list :)
+>>>> Best Regards,
+>>>> Nisha
+>>>> 
+>>>> On Sun, Mar 5, 2017 at 1:47 AM, Anne Gentle <
+>>>> annegentle at justwriteclick.com> wrote:
+>>>> 
+>>>>> Yes, I get the same thing. I think the spam filter has blocked any
+>>>>> edits to the page. I've removed the two keywords that seemed to trigger.
+>>>>> Had to change a reference to gmail to gee mail, and remove Facebook mention
+>>>>> and link.
+>>>>> 
+>>>>> Try again and see if you can edit now.
+>>>>> Hope this helps -
+>>>>> Anne
+>>>>> 
+>>>>>> On Sat, Mar 4, 2017 at 1:39 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>>>>> 
+>>>>>> Hey all,
+>>>>>> I am unable to add myself to the list here,
+>>>>>> 
+>>>>>> https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_of_
+>>>>>> OpenStack_Directory
+>>>>>> 
+>>>>>> Getting the following error, even when I am not adding any link.
+>>>>>> Spam protection filter
+>>>>>> 
+>>>>>> The text you wanted to save was blocked by the spam filter. This is
+>>>>>> probably caused by a link to a blacklisted external site.
+>>>>>> 
+>>>>>> The following text is what triggered our spam filter: Facebook.
+>>>>>> 
+>>>>>> 
+>>>>>> Please help me fix this issue. Thanks a lot!
+>>>>>> 
+>>>>>> Regards,
+>>>>>> 
+>>>>>> Nisha
+>>>>>> 
+>>>>>> _______________________________________________
+>>>>>> Women-of-openstack mailing list
+>>>>>> Women-of-openstack at lists.openstack.org
+>>>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>>> 
+>>>>> 
+>>>>> --
+>>>>> 
+>>>>> Read my blog: justwrite.click <https://justwriteclick.com>
+>>>>> Subscribe to Docs|Code: docslikecode.com
+>> 
+>> 
+>> --
+>> 
+>> Read my blog: justwrite.click <https://justwriteclick.com>
+>> Subscribe to Docs|Code: docslikecode.com
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170306/b398b6b9/attachment-0001.html>
+> 
+> ------------------------------
+> 
+> Message: 2
+> Date: Mon, 6 Mar 2017 23:36:44 +0530
+> From: Nisha Yadav <ynisha11 at gmail.com>
+> To: Anne Gentle <annegentle at justwriteclick.com>
+> Cc: women-of-openstack at lists.openstack.org, Victoria Martinez de la
+>    Cruz <victoria at redhat.com>, mahati.chamarthy at intel.com
+> Subject: Re: [Women-of-openstack] Unable to add myself to the list of
+>    Women of OpenStack Directory
+> Message-ID:
+>    <CABGKpcHDtc=WQ3mDdxBYi6O2=xO-X5KwrinC3oFT8fGac=FtaA at mail.gmail.com>
+> Content-Type: text/plain; charset="utf-8"
+> 
+> Anne, I edited the wiki page. I first removed the last occurrence of gmail.
+> Added myself to the list along with my 'gmail' address and it got saved.
+> Then, I again edited the wiki page, reversing the former occurence of gmail
+> to how it was initially. It worked, though I am still wondering why.
+> 
+> Thanks for help once again!
+> 
+>> On Mon, Mar 6, 2017 at 10:53 PM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>> 
+>> Hey,
+>> Sure will do that, but I wanted to know more. Should we consider it as a
+>> temporary quick fix or is it due to some recent spam filtering changes in
+>> the wiki page. Because, last time someone would have added their email
+>> address mentioning gmail the changes did in fact got saved, right? I don't
+>> really know how the editing of wiki page really works. Sorry if I am
+>> bugging you.
+>> 
+>> Regards,
+>> Nisha
+>> 
+>> 
+>> On Mon, Mar 6, 2017 at 10:45 PM, Anne Gentle <
+>> annegentle at justwriteclick.com> wrote:
+>> 
+>>> No worries, I should have been more clear previously.
+>>> 
+>>> To fix it yourself, look for "gmail" in the page and edit it to "gee
+>>> mail" or something. It's a bit of a pain if the best way to get in touch
+>>> with someone is through gmail, but hopefully people will still be able to
+>>> interpret the non-spammy wording.
+>>> 
+>>> Anne
+>>> 
+>>> 
+>>>> On Mon, Mar 6, 2017 at 11:11 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>>> 
+>>>> Hey Anne,
+>>>> 
+>>>> I am sorry to ping you again. But the same issue arises when I try to
+>>>> edit https://wiki.openstack.org/wiki/Outreachy#Mentors
+>>>> Can you please help me with this? Or if I can do something to fix the
+>>>> issue, that would work as well.
+>>>> 
+>>>> Even adding a single alphabet gives the following error,
+>>>> Spam protection filter
+>>>> 
+>>>> The text you wanted to save was blocked by the spam filter. This is
+>>>> probably caused by a link to a blacklisted external site.
+>>>> 
+>>>> The following text is what triggered our spam filter: gmail.
+>>>> 
+>>>> 
+>>>> 
+>>>> Thanks and regards,
+>>>> Nisha
+>>>> 
+>>>>> On Sun, Mar 5, 2017 at 1:54 AM, Nisha Yadav <ynisha11 at gmail.com> wrote:
+>>>>> 
+>>>>> Thanks a lot Anne. That was really a quick fix. I added myself to the
+>>>>> list :)
+>>>>> Best Regards,
+>>>>> Nisha
+>>>>> 
+>>>>> On Sun, Mar 5, 2017 at 1:47 AM, Anne Gentle <
+>>>>> annegentle at justwriteclick.com> wrote:
+>>>>> 
+>>>>>> Yes, I get the same thing. I think the spam filter has blocked any
+>>>>>> edits to the page. I've removed the two keywords that seemed to trigger.
+>>>>>> Had to change a reference to gmail to gee mail, and remove Facebook mention
+>>>>>> and link.
+>>>>>> 
+>>>>>> Try again and see if you can edit now.
+>>>>>> Hope this helps -
+>>>>>> Anne
+>>>>>> 
+>>>>>> On Sat, Mar 4, 2017 at 1:39 PM, Nisha Yadav <ynisha11 at gmail.com>
+>>>>>> wrote:
+>>>>>> 
+>>>>>>> Hey all,
+>>>>>>> I am unable to add myself to the list here,
+>>>>>>> 
+>>>>>>> https://wiki.openstack.org/wiki/Women_of_OpenStack#Women_of_
+>>>>>>> OpenStack_Directory
+>>>>>>> 
+>>>>>>> Getting the following error, even when I am not adding any link.
+>>>>>>> Spam protection filter
+>>>>>>> 
+>>>>>>> The text you wanted to save was blocked by the spam filter. This is
+>>>>>>> probably caused by a link to a blacklisted external site.
+>>>>>>> 
+>>>>>>> The following text is what triggered our spam filter: Facebook.
+>>>>>>> 
+>>>>>>> 
+>>>>>>> Please help me fix this issue. Thanks a lot!
+>>>>>>> 
+>>>>>>> Regards,
+>>>>>>> 
+>>>>>>> Nisha
+>>>>>>> 
+>>>>>>> _______________________________________________
+>>>>>>> Women-of-openstack mailing list
+>>>>>>> Women-of-openstack at lists.openstack.org
+>>>>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of
+>>>>>>> -openstack
+>>>>>> 
+>>>>>> 
+>>>>>> --
+>>>>>> 
+>>>>>> Read my blog: justwrite.click <https://justwriteclick.com>
+>>>>>> Subscribe to Docs|Code: docslikecode.com
+>>> 
+>>> 
+>>> --
+>>> 
+>>> Read my blog: justwrite.click <https://justwriteclick.com>
+>>> Subscribe to Docs|Code: docslikecode.com
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170306/47961e6c/attachment.html>
+> 
+> ------------------------------
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> 
+> End of Women-of-openstack Digest, Vol 29, Issue 4
+> *************************************************
+
+
+From ekhugenbruch at us.ibm.com  Tue Mar  7 17:49:07 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Tue, 7 Mar 2017 12:49:07 -0500
+Subject: [Women-of-openstack] Meeting Reminder - 2/6/17
+In-Reply-To: <CABGKpcEE-7e=-Sp4srRg1T2CCq5xtWLA2nLcmVEcoDETOH+V5g@mail.gmail.com>
+References: <CAFs83QqqH3G=M_QrhvU9HjAovmdY1=5Sk8-7rSiT2-VtgAqfCQ@mail.gmail.com>
+ <OF805B3302.9E729DC6-ON852580BF.005093BE-852580BF.00516E3A@notes.na.collabserv.com>
+ <4EC6E9FD-4177-4724-8415-4B160ACFF62D@intel.com>
+ <OF445DE603.8BA5DA2A-ON002580C0.0049D117-852580C0.004BEFBC@notes.na.collabserv.com>
+ <CABGKpcEE-7e=-Sp4srRg1T2CCq5xtWLA2nLcmVEcoDETOH+V5g@mail.gmail.com>
+Message-ID: <OF93CAE219.E73742A8-ON002580DC.0061A193-852580DC.0061E185@notes.na.collabserv.com>
+
+
+Hi Nisha,
+Great guide to the summit!  Thanks so much for the shout out to Speed
+Mentoring!
+We are organizing another Speed Mentoring session for first thing on Monday
+morning in Boston and we'd love to have you help.  We're going to put out a
+call for mentors shortly, or if you're interested in helping with the
+session organization, please let me know.  FYI the mentoring team meets
+Wednesdays at 2000 UTC on openstack-meeting and all are welcome!
+Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	Nisha Yadav <ynisha11 at gmail.com>
+To:	Emily K Hugenbruch/Endicott/IBM at IBMUS, nithya.ruff at gmail.com
+Cc:	"Nangia, Khanak" <khanak.nangia at intel.com>,
+            "women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>, Victoria Martinez de
+            la Cruz <victoria at redhat.com>
+Date:	03/04/2017 02:10 PM
+Subject:	Re: [Women-of-openstack] Meeting Reminder - 2/6/17
+
+
+
+Hey all,
+
+I attended the the Speed Mentoring session and Women of OpenStack session
+in the Barcelona Summit. A big thanks to Emily Hugenbruch, Nithya Ruff and
+Jessica Murillo for their valuable insights. I also presented a talk
+OpenStack Outreachy Internships
+
+At the Boston Summit, I would be glad to volunteer at the Speed Mentoring
+session or any other Women of OpenStack event, sharing my experience.
+Please le'me know if I can signup for the same or there's anything else I
+can help with.
+
+P.S. I recently wrote a beginner's guide to attend OpenStack Summit. Please
+have a look here.
+
+Waiting for kind reply. Thanks.
+
+Best regards,
+Nisha Yadav
+Twitter :@nisha_yadav_
+
+On Tue, Feb 7, 2017 at 7:19 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com
+> wrote:
+  Hi Khanak,
+  We're happy for volunteers (or attendees) at the Speed Mentoring session,
+  which will be first thing in the morning on the Monday of the summit
+  (7:30-8:45). I know it's early, but we do provide coffee (and breakfast,
+  thanks to Intel).
+  Thanks!
+  Sincerely,
+  Emily Kate Hugenbruch
+  OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+  IBM Corporation Endicott, NY
+  Twitter: @ekhugen
+  IRC: ekhugen at freenode
+
+  Inactive hide details for "Nangia, Khanak" ---02/06/2017 03:32:04 PM---Hi
+  All, This is Khanak Nangia, a member of Intel OSIC Se"Nangia, Khanak"
+  ---02/06/2017 03:32:04 PM---Hi All, This is Khanak Nangia, a member of
+  Intel OSIC Security Team, working in San Antonio, Texas.
+
+  From: "Nangia, Khanak" <khanak.nangia at intel.com>
+  To: Maria Rita Villari/Raleigh/IBM at IBMUS, "
+  women-of-openstack at lists.openstack.org" <
+  women-of-openstack at lists.openstack.org>
+  Date: 02/06/2017 03:32 PM
+  Subject: Re: [Women-of-openstack] Meeting Reminder - 2/6/17
+
+
+
+
+  Hi All,
+
+  This is Khanak Nangia, a member of Intel OSIC Security Team, working in
+  San Antonio, Texas.
+  I attended my first Women of OpenStack meeting today (leaving some audio
+  glitches). It was great to hear you all and how you are planning for the
+  Boston Summit.
+  Please let me know if I can help in anyway, would love to volunteer and
+  hoping to meet in Boston :)
+
+  Cheers,
+  Khanak
+
+
+
+  From: Maria Rita Villari <mvillari at us.ibm.com>
+  Date: Monday, February 6, 2017 at 8:49 AM
+  To: "women-of-openstack at lists.openstack.org" <
+  women-of-openstack at lists.openstack.org>
+  Subject: [Women-of-openstack] Meeting Reminder - 2/6/17
+
+
+  Please join us for the Women of OpenStack meeting today Monday 2/6/17 at
+  12pm PST, 2pm CST and 3pm EST.
+
+  Dial-in info is: 1-203-277-8157 or 866-619-0383 Participant: 7217256#
+  Leader 4018#
+  webex - URL:
+  https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+
+  Etherpad is at https://etherpad.openstack.org/p/WOS_02_06_17. Feel free
+  to add new topics on today's agenda.
+
+  Regards,
+
+  Maria Rita Villari
+  Program Manager
+  IBM Cloud, Open Cloud Technologies
+                                                                                    
+                                                                                    
+                                                                                    
+ E-mail:mvillari at us.ibm.com                                       4205 S Miami Blvd 
+                                                              Durham, NC 27703-9141 
+                                                                      United States 
+                                                                                    
+
+
+  _______________________________________________
+  Women-of-openstack mailing list
+  Women-of-openstack at lists.openstack.org
+  http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+
+  _______________________________________________
+  Women-of-openstack mailing list
+  Women-of-openstack at lists.openstack.org
+  http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170307/f0833dd3/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170307/f0833dd3/attachment.gif>
+
+From ynisha11 at gmail.com  Wed Mar  8 00:08:41 2017
+From: ynisha11 at gmail.com (Nisha Yadav)
+Date: Wed, 8 Mar 2017 05:38:41 +0530
+Subject: [Women-of-openstack] Meeting Reminder - 2/6/17
+In-Reply-To: <OF93CAE219.E73742A8-ON002580DC.0061A193-852580DC.0061E185@notes.na.collabserv.com>
+References: <CAFs83QqqH3G=M_QrhvU9HjAovmdY1=5Sk8-7rSiT2-VtgAqfCQ@mail.gmail.com>
+ <OF805B3302.9E729DC6-ON852580BF.005093BE-852580BF.00516E3A@notes.na.collabserv.com>
+ <4EC6E9FD-4177-4724-8415-4B160ACFF62D@intel.com>
+ <OF445DE603.8BA5DA2A-ON002580C0.0049D117-852580C0.004BEFBC@notes.na.collabserv.com>
+ <CABGKpcEE-7e=-Sp4srRg1T2CCq5xtWLA2nLcmVEcoDETOH+V5g@mail.gmail.com>
+ <OF93CAE219.E73742A8-ON002580DC.0061A193-852580DC.0061E185@notes.na.collabserv.com>
+Message-ID: <CABGKpcHKtxLF3tq46D8bMTO-Oq_XSoZ4T+1P=ySCRo+Dsoe8bQ@mail.gmail.com>
+
+Hey Emily,
+
+Thanks a lot for the support. I will surely attend the meetings and ping
+back once a call for mentors is out.
+
+Cheers!
+Best Regards ,
+Nisha
+
+On 07-Mar-2017 11:19 PM, "Emily K Hugenbruch" <ekhugenbruch at us.ibm.com>
+wrote:
+
+> Hi Nisha,
+> Great guide to the summit! Thanks so much for the shout out to Speed
+> Mentoring!
+> We are organizing another Speed Mentoring session for first thing on
+> Monday morning in Boston and we'd love to have you help. We're going to put
+> out a call for mentors shortly, or if you're interested in helping with the
+> session organization, please let me know. FYI the mentoring team meets
+> Wednesdays at 2000 UTC on openstack-meeting and all are welcome!
+> Thanks!
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+>
+> [image: Inactive hide details for Nisha Yadav ---03/04/2017 02:10:23
+> PM---Hey all, I attended the the Speed Mentoring session]Nisha Yadav
+> ---03/04/2017 02:10:23 PM---Hey all, I attended the the Speed Mentoring
+> session
+>
+> From: Nisha Yadav <ynisha11 at gmail.com>
+> To: Emily K Hugenbruch/Endicott/IBM at IBMUS, nithya.ruff at gmail.com
+> Cc: "Nangia, Khanak" <khanak.nangia at intel.com>, "women-of-openstack at lists.
+> openstack.org" <women-of-openstack at lists.openstack.org>, Victoria
+> Martinez de la Cruz <victoria at redhat.com>
+> Date: 03/04/2017 02:10 PM
+> Subject: Re: [Women-of-openstack] Meeting Reminder - 2/6/17
+> ------------------------------
+>
+>
+>
+> Hey all,
+>
+> I attended the the *Speed Mentoring session*
+> <https://www.openstack.org/videos/barcelona-2016/speed-mentoring-organized-by-women-of-openstack-sponsored-by-intel>
+> and *Women of OpenStack session*
+> <https://www.openstack.org/videos/barcelona-2016/women-of-openstack-breakfast-sponsored-by-ibm>
+> in the Barcelona Summit. A big thanks to Emily Hugenbruch, Nithya Ruff and
+> Jessica Murillo for their valuable insights. I also presented a talk *OpenStack
+> Outreachy Internships*
+> <https://www.openstack.org/videos/barcelona-2016/a-dice-with-several-faces-coordinators-mentors-and-interns-on-openstack-outreachy-internships>
+>
+> At the Boston Summit, I would be glad to volunteer at the Speed Mentoring
+> session or any other Women of OpenStack event, sharing my experience.
+> Please le'me know if I can signup for the same or there's anything else I
+> can help with.
+>
+> P.S. I recently wrote a beginner's guide to attend OpenStack Summit.
+> Please have a look *here*
+> <https://nishayadavsite.wordpress.com/2017/03/04/beginners-guide-attending-openstack-summit/>.
+>
+>
+> Waiting for kind reply. Thanks.
+>
+> Best regards,
+> Nisha Yadav
+> Twitter :@nisha_yadav_
+>
+> On Tue, Feb 7, 2017 at 7:19 PM, Emily K Hugenbruch <
+> *ekhugenbruch at us.ibm.com* <ekhugenbruch at us.ibm.com>> wrote:
+>
+>    Hi Khanak,
+>    We're happy for volunteers (or attendees) at the Speed Mentoring
+>    session, which will be first thing in the morning on the Monday of the
+>    summit (7:30-8:45). I know it's early, but we do provide coffee (and
+>    breakfast, thanks to Intel).
+>    Thanks!
+>    Sincerely,
+>    Emily Kate Hugenbruch
+>    OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+>    IBM Corporation Endicott, NY
+>    Twitter: @ekhugen
+>    IRC: ekhugen at freenode
+>
+>    [image: Inactive hide details for "Nangia, Khanak" ---02/06/2017
+>    03:32:04 PM---Hi All, This is Khanak Nangia, a member of Intel OSIC Se]"Nangia,
+>    Khanak" ---02/06/2017 03:32:04 PM---Hi All, This is Khanak Nangia, a member
+>    of Intel OSIC Security Team, working in San Antonio, Texas.
+>
+>    From: "Nangia, Khanak" <*khanak.nangia at intel.com*
+>    <khanak.nangia at intel.com>>
+>    To: Maria Rita Villari/Raleigh/IBM at IBMUS, "
+>    *women-of-openstack at lists.openstack.org*
+>    <women-of-openstack at lists.openstack.org>" <
+>    *women-of-openstack at lists.openstack.org*
+>    <women-of-openstack at lists.openstack.org>>
+>    Date: 02/06/2017 03:32 PM
+>    Subject: Re: [Women-of-openstack] Meeting Reminder - 2/6/17
+>    ------------------------------
+>
+>
+>
+>
+>    Hi All,
+>
+>    This is Khanak Nangia, a member of Intel OSIC Security Team, working
+>    in San Antonio, Texas.
+>    I attended my first Women of OpenStack meeting today (leaving some
+>    audio glitches). It was great to hear you all and how you are planning for
+>    the Boston Summit.
+>    Please let me know if I can help in anyway, would love to volunteer
+>    and hoping to meet in Boston :)
+>
+>    Cheers,
+>    Khanak
+>
+>
+>
+> * From: *Maria Rita Villari <*mvillari at us.ibm.com* <mvillari at us.ibm.com>>
+> * Date: *Monday, February 6, 2017 at 8:49 AM
+> * To: *"*women-of-openstack at lists.openstack.org*
+>    <women-of-openstack at lists.openstack.org>" <
+>    *women-of-openstack at lists.openstack.org*
+>    <women-of-openstack at lists.openstack.org>>
+> * Subject: *[Women-of-openstack] Meeting Reminder - 2/6/17
+>
+>    Please join us for the Women of OpenStack meeting today Monday 2/6/17
+>    at 12pm PST, 2pm CST and 3pm EST.
+>
+>    Dial-in info is: 1-203-277-8157 or 866-619-0383 Participant: 7217256#
+>    Leader 4018#
+>    webex - URL:
+>    *https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2*
+>    <https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2>
+>
+>    Etherpad is at *https://etherpad.openstack.org/p/WOS_02_06_17*
+>    <https://etherpad.openstack.org/p/WOS_02_06_17>. Feel free to add new
+>    topics on today's agenda.
+>
+>    Regards,
+>
+> * Maria Rita Villari*
+>    Program Manager
+>    IBM Cloud, Open Cloud Technologies
+>    ------------------------------
+>    *E-mail:**mvillari at us.ibm.com* <mvillari at us.ibm.com>
+>    4205 S Miami Blvd
+>    Durham, NC 27703-9141
+>    United States
+>
+>    _______________________________________________
+>    Women-of-openstack mailing list
+> *Women-of-openstack at lists.openstack.org*
+>    <Women-of-openstack at lists.openstack.org>
+> *http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack*
+>    <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>
+>
+>
+>
+>    _______________________________________________
+>    Women-of-openstack mailing list
+> *Women-of-openstack at lists.openstack.org*
+>    <Women-of-openstack at lists.openstack.org>
+> *http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack*
+>    <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>
+>
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170308/708ef2f9/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170308/708ef2f9/attachment-0001.gif>
+
+From ekhugenbruch at us.ibm.com  Wed Mar  8 20:56:54 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Wed, 8 Mar 2017 15:56:54 -0500
+Subject: [Women-of-openstack] [openstack] [summit] Call for Mentors for
+	Speed Mentoring
+Message-ID: <OF9BF651C5.A33480D3-ON002580DD.00722CA2-852580DD.007312AB@notes.na.collabserv.com>
+
+
+Hello,
+We are so pleased to?again offer?Speed Mentoring on the first morning of
+the Boston summit. We're looking?for mentors of all types who can?join us
+for part of the morning. Please consider taking a few hours to help out and
+give advice to people new?and not so new to the community.
+
+
+            Speed Mentoring Breakfast sponsored by Intel -?Monday May
+            8,?7:30-8:45AM
+            We're looking for 10-20 mentors,?women and men alike, who are
+            interested in offering either technical or career advice.
+
+
+
+
+
+            What?s Required?
+
+
+            You'll meet with small groups of mentees in?15-minute?intervals
+            and answer their questions about how to grow in the community.
+            It's a fast-paced event and a great way to meet new people,
+            introduce them to the summit,?and welcome them into the
+            OpenStack community. Mentors?will be provided with mentee
+            questions in advance and?should plan to arrive at?7:15AM.
+            Breakfast and caffeine will be provided!
+
+
+            We will contact mentors ahead of time and hold a short call to
+            go over logistics of the event shortly before the summit.
+
+
+            Sign up here -
+            https://openstackfoundation.formstack.com/forms/boston_woo_speed_mentoring_baseballcard_info
+              We'll use this information to create fun baseball cards for
+            each mentor, like this one from the Barcelona summit for
+            super-mentor Andrew Mitry?(See attached file:
+            AndrewMitryMentorTradingCard.pdf)
+
+
+
+            Thanks in advance for volunteering!
+Sincerely,
+Emily Kate Hugenbruch
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170308/5abb754c/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: AndrewMitryMentorTradingCard.pdf
+Type: application/pdf
+Size: 142809 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170308/5abb754c/attachment-0001.pdf>
+
+From jchhatba at redhat.com  Thu Mar  9 12:08:03 2017
+From: jchhatba at redhat.com (Janki Chhatbar)
+Date: Thu, 9 Mar 2017 17:38:03 +0530
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 29, Issue 7
+In-Reply-To: <mailman.63.1489007167.16299.women-of-openstack@lists.openstack.org>
+References: <mailman.63.1489007167.16299.women-of-openstack@lists.openstack.org>
+Message-ID: <CABN5Pc6-76PtsJAUtk-sJE_cs2=rmJffotzKmYZTsSVBKx1FzQ@mail.gmail.com>
+
+Hi
+
+I just applied for the mentor for woo speed mentoring. Is there any
+selection process? When would I be notified of selection?
+
+Thanks
+Janki
+
+On Thu, Mar 9, 2017 at 2:36 AM, <
+women-of-openstack-request at lists.openstack.org> wrote:
+
+> Send Women-of-openstack mailing list submissions to
+>         women-of-openstack at lists.openstack.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>         http://lists.openstack.org/cgi-bin/mailman/listinfo/
+> women-of-openstack
+>
+> or, via email, send a message with subject or body 'help' to
+>         women-of-openstack-request at lists.openstack.org
+>
+> You can reach the person managing the list at
+>         women-of-openstack-owner at lists.openstack.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of Women-of-openstack digest..."
+>
+>
+> Today's Topics:
+>
+>    1. [openstack] [summit] Call for Mentors for Speed Mentoring
+>       (Emily K Hugenbruch)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Wed, 8 Mar 2017 15:56:54 -0500
+> From: "Emily K Hugenbruch" <ekhugenbruch at us.ibm.com>
+> To: openstack-dev at lists.openstack.org,
+>         women-of-openstack at lists.openstack.org,
+> openstack at lists.openstack.org
+> Subject: [Women-of-openstack] [openstack] [summit] Call for Mentors
+>         for     Speed Mentoring
+> Message-ID:
+>         <OF9BF651C5.A33480D3-ON002580DD.00722CA2-852580DD.
+> 007312AB at notes.na.collabserv.com>
+>
+> Content-Type: text/plain; charset="utf-8"
+>
+>
+> Hello,
+> We are so pleased to?again offer?Speed Mentoring on the first morning of
+> the Boston summit. We're looking?for mentors of all types who can?join us
+> for part of the morning. Please consider taking a few hours to help out and
+> give advice to people new?and not so new to the community.
+>
+>
+>             Speed Mentoring Breakfast sponsored by Intel -?Monday May
+>             8,?7:30-8:45AM
+>             We're looking for 10-20 mentors,?women and men alike, who are
+>             interested in offering either technical or career advice.
+>
+>
+>
+>
+>
+>             What?s Required?
+>
+>
+>             You'll meet with small groups of mentees in?15-minute?intervals
+>             and answer their questions about how to grow in the community.
+>             It's a fast-paced event and a great way to meet new people,
+>             introduce them to the summit,?and welcome them into the
+>             OpenStack community. Mentors?will be provided with mentee
+>             questions in advance and?should plan to arrive at?7:15AM.
+>             Breakfast and caffeine will be provided!
+>
+>
+>             We will contact mentors ahead of time and hold a short call to
+>             go over logistics of the event shortly before the summit.
+>
+>
+>             Sign up here -
+>             https://openstackfoundation.formstack.com/forms/boston_
+> woo_speed_mentoring_baseballcard_info
+>               We'll use this information to create fun baseball cards for
+>             each mentor, like this one from the Barcelona summit for
+>             super-mentor Andrew Mitry?(See attached file:
+>             AndrewMitryMentorTradingCard.pdf)
+>
+>
+>
+>             Thanks in advance for volunteering!
+> Sincerely,
+> Emily Kate Hugenbruch
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/
+> attachments/20170308/5abb754c/attachment.html>
+> -------------- next part --------------
+> A non-text attachment was scrubbed...
+> Name: AndrewMitryMentorTradingCard.pdf
+> Type: application/pdf
+> Size: 142809 bytes
+> Desc: not available
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/
+> attachments/20170308/5abb754c/attachment.pdf>
+>
+> ------------------------------
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+> End of Women-of-openstack Digest, Vol 29, Issue 7
+> *************************************************
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170309/692b2560/attachment.html>
+
+From ekhugenbruch at us.ibm.com  Thu Mar  9 14:00:11 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Thu, 9 Mar 2017 09:00:11 -0500
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 29, Issue 7
+In-Reply-To: <CABN5Pc6-76PtsJAUtk-sJE_cs2=rmJffotzKmYZTsSVBKx1FzQ@mail.gmail.com>
+References: <mailman.63.1489007167.16299.women-of-openstack@lists.openstack.org>
+ <CABN5Pc6-76PtsJAUtk-sJE_cs2=rmJffotzKmYZTsSVBKx1FzQ@mail.gmail.com>
+Message-ID: <OFE8C4A26A.F45ABF26-ON002580DE.004CC6B1-852580DE.004CEBFE@notes.na.collabserv.com>
+
+
+Hi Janki,
+There's no selection process, if you applied, we're happy to have you.  In
+the unlikely event we get too many mentors signed up, we'll just close down
+the survey to new signups.  We're expecting to have the logistics call
+sometime around April 17.  Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	Janki Chhatbar <jchhatba at redhat.com>
+To:	women-of-openstack at lists.openstack.org
+Date:	03/09/2017 07:09 AM
+Subject:	Re: [Women-of-openstack] Women-of-openstack Digest, Vol 29,
+            Issue 7
+
+
+
+Hi
+
+I just applied for the mentor for woo speed mentoring. Is there any
+selection process? When would I be notified of selection?
+
+Thanks
+Janki
+
+On Thu, Mar 9, 2017 at 2:36 AM, <
+women-of-openstack-request at lists.openstack.org> wrote:
+  Send Women-of-openstack mailing list submissions to
+  ? ? ? ? women-of-openstack at lists.openstack.org
+
+  To subscribe or unsubscribe via the World Wide Web, visit
+
+  http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+  or, via email, send a message with subject or body 'help' to
+  ? ? ? ? women-of-openstack-request at lists.openstack.org
+
+  You can reach the person managing the list at
+  ? ? ? ? women-of-openstack-owner at lists.openstack.org
+
+  When replying, please edit your Subject line so it is more specific
+  than "Re: Contents of Women-of-openstack digest..."
+
+
+  Today's Topics:
+
+  ? ?1. [openstack] [summit] Call for Mentors for Speed Mentoring
+  ? ? ? (Emily K Hugenbruch)
+
+
+  ----------------------------------------------------------------------
+
+  Message: 1
+  Date: Wed, 8 Mar 2017 15:56:54 -0500
+  From: "Emily K Hugenbruch" <ekhugenbruch at us.ibm.com>
+  To: openstack-dev at lists.openstack.org,
+  ? ? ? ? women-of-openstack at lists.openstack.org,
+  openstack at lists.openstack.org
+  Subject: [Women-of-openstack] [openstack] [summit] Call for Mentors
+  ? ? ? ? for? ? ?Speed Mentoring
+  Message-ID:
+  ? ? ? ? <
+  OF9BF651C5.A33480D3-ON002580DD.00722CA2-852580DD.007312AB at notes.na.collabserv.com
+  >
+
+  Content-Type: text/plain; charset="utf-8"
+
+
+  Hello,
+  We are so pleased to?again offer?Speed Mentoring on the first morning of
+  the Boston summit. We're looking?for mentors of all types who can?join us
+  for part of the morning. Please consider taking a few hours to help out
+  and
+  give advice to people new?and not so new to the community.
+
+
+  ? ? ? ? ? ? Speed Mentoring Breakfast sponsored by Intel -?Monday May
+  ? ? ? ? ? ? 8,?7:30-8:45AM
+  ? ? ? ? ? ? We're looking for 10-20 mentors,?women and men alike, who are
+  ? ? ? ? ? ? interested in offering either technical or career advice.
+
+
+
+
+
+  ? ? ? ? ? ? What?s Required?
+
+
+  ? ? ? ? ? ? You'll meet with small groups of mentees
+  in?15-minute?intervals
+  ? ? ? ? ? ? and answer their questions about how to grow in the
+  community.
+  ? ? ? ? ? ? It's a fast-paced event and a great way to meet new people,
+  ? ? ? ? ? ? introduce them to the summit,?and welcome them into the
+  ? ? ? ? ? ? OpenStack community. Mentors?will be provided with mentee
+  ? ? ? ? ? ? questions in advance and?should plan to arrive at?7:15AM.
+  ? ? ? ? ? ? Breakfast and caffeine will be provided!
+
+
+  ? ? ? ? ? ? We will contact mentors ahead of time and hold a short call
+  to
+  ? ? ? ? ? ? go over logistics of the event shortly before the summit.
+
+
+  ? ? ? ? ? ? Sign up here -
+
+  https://openstackfoundation.formstack.com/forms/boston_woo_speed_mentoring_baseballcard_info
+
+  ? ? ? ? ? ? ? We'll use this information to create fun baseball cards for
+  ? ? ? ? ? ? each mentor, like this one from the Barcelona summit for
+  ? ? ? ? ? ? super-mentor Andrew Mitry?(See attached file:
+  ? ? ? ? ? ? AndrewMitryMentorTradingCard.pdf)
+
+
+
+  ? ? ? ? ? ? Thanks in advance for volunteering!
+  Sincerely,
+  Emily Kate Hugenbruch
+  -------------- next part --------------
+  An HTML attachment was scrubbed...
+  URL: <
+  http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170308/5abb754c/attachment.html
+  >
+  -------------- next part --------------
+  A non-text attachment was scrubbed...
+  Name: AndrewMitryMentorTradingCard.pdf
+  Type: application/pdf
+  Size: 142809 bytes
+  Desc: not available
+  URL: <
+  http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170308/5abb754c/attachment.pdf
+  >
+
+  ------------------------------
+
+  _______________________________________________
+  Women-of-openstack mailing list
+  Women-of-openstack at lists.openstack.org
+  http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+  End of Women-of-openstack Digest, Vol 29, Issue 7
+  *************************************************
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170309/4313b127/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170309/4313b127/attachment-0001.gif>
+
+From amy at demarco.com  Thu Mar  9 20:17:09 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 9 Mar 2017 14:17:09 -0600
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn
+Message-ID: <CAFs83QrF-KiVZe9FgtPS0gugMwxL+MZnZH2kfpwmkCsfgyNU6Q@mail.gmail.com>
+
+While the Women of OpenStack events aren't on the summit schedule yet it's
+time to start thinking about helping out!
+
+We will be looking for 4-8 people to assist participants in the room with
+their Git and Gerrit configurations if they run into trouble. If you or
+anyone you know are available to help let me know, and as soon as we know
+the day and time I'll pass that information out.
+
+Remember all helpers will be placed on a slide with their company's logo so
+if you need a little something extra to get your boss to let you go this is
+it!
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170309/9e3908c3/attachment.html>
+
+From erin at openstack.org  Thu Mar  9 22:42:05 2017
+From: erin at openstack.org (Erin Disney)
+Date: Thu, 9 Mar 2017 16:42:05 -0600
+Subject: [Women-of-openstack] OpenStack Summit Boston- Schedule Now Live!
+Message-ID: <575D3486-7F81-4250-AB01-18E1BC337195@openstack.org>
+
+Hi everyone,
+
+The main conference schedule for the upcoming OpenStack Summit in BOSTON <https://www.openstack.org/summit/boston-2017/summit-schedule/> is now available! 
+
+SCHEDULE: https://www.openstack.org/summit/boston-2017/summit-schedule/ <https://www.openstack.org/summit/boston-2017/summit-schedule/>
+Hear from these OpenStack users: Gap Inc., Harvard, US Army Cyber School, AT&T, Bloomberg, China Mobile, CERN & more! 
+
+Log in with your OpenStackID <https://openstackid.org/> and start building your schedule now! It will automatically sync with the mobile app, which will be available by mid-April. Please note: iCal and Google calendar integration will be available once we finalize the room assignments for all events. 
+
+Register now <https://openstacksummit2017boston.eventbrite.com/> at the early bird discounted rate & save 50% on your Summit ticket before prices increase on March 14 at 11:59pm PDT (March 15 at 7:59 UTC).
+
+
+IMPORTANT INFORMATION
+Hotels: Discounted rates for attendees and booking information are available here <https://www.openstack.org/summit/boston-2017/travel/#hotels>. Book soon to ensure your spot!
+Interested in sponsoring the Summit? Sponsorship opportunities are still available. Find more information HERE <https://www.openstack.org/summit/boston-2017/sponsors/>. Deadline to sign the contract is March 13.
+The StackCity community party <https://www.openstack.org/summit/boston-2017/summit-schedule/events/18621/save-the-date-stackcity-boston> is returning! Add it to your schedule and stay tuned - registration will be open soon! 
+Take the Certified OpenStack Administrator exam onsite at the Boston Summit! Learn more and register.  <https://www.openstack.org/summit/boston-2017/#openstackcoa>
+Visas: If you require a Visa Invitation Letter, forms must be submitted before April 17. Because of minimum mailing and approval periods, no exceptions can be made. Submit your Visa Invitation Letter request here. <https://www.openstack.org/summit/boston-2017/travel/#visa> 
+Plan your visit with the Boston City Guide <https://www.openstack.org/summit/boston-2017/boston-city-guide/>. From restaurants to must see sites??we?ve done the research for you.
+
+
+SPEAKER NOTIFICATIONS
+If you submitted a talk - check your email. Everyone who submitted a speaking proposal for the Summit will receive an email notification to let them know whether or not their talk has been accepted. The email sent to selected speakers was sent from speakersupport at openstack.org <mailto:speakersupport at openstack.org> and contains important next steps and speaker registration codes. Each speaker is responsible for registering themselves to attend the Summit; please make sure your colleagues read the email and complete this step.
+
+Contact summit at openstack.org with any questions.
+
+See you in Boston!
+
+Cheers,
+Erin
+
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170309/7a1e0282/attachment-0001.html>
+
+From kendall at openstack.org  Tue Mar 14 21:16:26 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Tue, 14 Mar 2017 16:16:26 -0500
+Subject: [Women-of-openstack] March 17 Price Increase - OpenStack Summit
+	Boston
+Message-ID: <E1A84FFA-B6C6-4DF3-9F56-4A67139D72D5@openstack.org>
+
+Hi everyone, 
+
+It?s your last chance to save on your OpenStack Summit Boston tickets before prices increase this Friday, March 17 at 11:59pm PDT (March 18 at 7:59 UTC).
+
+REGISTER HERE: https://openstacksummit2017boston.eventbrite.com <https://openstacksummit2017boston.eventbrite.com/>
+Contact summit at openstack.org <mailto:summit at openstack.org> if you have any questions. 
+
+IMPORTANT LINKS
+Check out the Summit schedule <https://www.openstack.org/summit/boston-2017/summit-schedule/>
+Book a discounted hotel room <https://www.openstack.org/summit/boston-2017/travel/#hotels>
+Interested in sponsoring the Summit? Find more information here <https://www.openstack.org/summit/boston-2017/sponsors/>. 
+Request a visa invitation letter <https://www.openstack.org/summit/boston-2017/travel/#visa>
+Cheers,
+Kendall
+ 
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170314/40dd23ca/attachment.html>
+
+From amy at demarco.com  Thu Mar 16 16:09:06 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 16 Mar 2017 11:09:06 -0500
+Subject: [Women-of-openstack] Meeting Reminder - Time Change!!!
+Message-ID: <CAFs83QoV0GKYy=B_K5yGHL2BYaOE2kLezB-ba1KBv+di3+t6tQ@mail.gmail.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the next meeting will be today 3/20/17 at
+1pm PST, 3pm CST and 4pm EST. This new meeting time is *1 hour later *due
+to DST.
+
+Dial-in info is: 1-203-277-8157 <(203)%20277-8157> or 866-619-0383
+<(866)%20619-0383>  Participant: 7217256# Leader 4018#
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e
+7ba518a2d4487bc0a78d00055f62e2
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_03_20_17 and if you
+would like to add something to the agenda please do so. I've thrown a few
+topics on that I think we'd like to at least touch base on.
+
+I've gone ahead and fleshed out the next couple of meetings at https://
+etherpad.openstack.org/p/WOS_Agenda_Tracker so please sign up if you'd like
+to lead a meeting. It's a great way to get some experience leading and
+talking to a group in a very low key environment (we don't bite).
+
+And again remember NEW meeting time due to time change
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170316/12745af9/attachment.html>
+
+From amy at demarco.com  Fri Mar 17 17:47:25 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Fri, 17 Mar 2017 12:47:25 -0500
+Subject: [Women-of-openstack] Meeting Reminder - Correction
+Message-ID: <CAFs83QpWeOwxT2FHZE8-+2QUABDNZ=_V+95LvMOKra9TaZDcMQ@mail.gmail.com>
+
+Because I'm bad at the time change... We'll go with that!
+
+It is Monday 3/20 for our next meeting, corrected message below!
+
+Hey everyone,
+
+Just wanted to remind everyone the next meeting will be* Monday 3/20/17* at
+1pm PST, 3pm CST and 4pm EST. This new meeting time is *1 hour later *due
+to DST.
+
+Dial-in info is: 1-203-277-8157 <(203)%20277-8157> or 866-619-0383
+<(866)%20619-0383>  Participant: 7217256# Leader 4018#
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e
+7ba518a2d4487bc0a78d00055f62e2
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_03_20_17 and if you
+would like to add something to the agenda please do so. I've thrown a few
+topics on that I think we'd like to at least touch base on.
+
+I've gone ahead and fleshed out the next couple of meetings at
+https://etherpad.openstack.org/p/WOS_Agenda_Tracker so please sign up if
+you'd like to lead a meeting. It's a great way to get some experience
+leading and talking to a group in a very low key environment (we don't
+bite).
+
+And again remember NEW meeting time due to time change
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170317/72d3c249/attachment.html>
+
+From aqsamm at gmail.com  Sun Mar 19 12:50:14 2017
+From: aqsamm at gmail.com (Aqsa Malik)
+Date: Sun, 19 Mar 2017 13:50:14 +0100
+Subject: [Women-of-openstack] Suggestion for Contribution
+Message-ID: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+
+Hi all,
+
+I would like to contribute to any OpenStack or OPNFV project by writing the
+unit tests, can anyone suggest which project will be suitable as a starter?
+I have a background in NFV related areas.
+Another question is whether is it possible to get any mentor to work with
+if you are not part of outreachy or any such platform, just for guidance
+and help from time to time?
+
+Thanks,
+-- 
+Aqsa Malik
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170319/2ffd8b16/attachment.html>
+
+From amy at demarco.com  Sun Mar 19 14:58:36 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Sun, 19 Mar 2017 09:58:36 -0500
+Subject: [Women-of-openstack] Suggestion for Contribution
+In-Reply-To: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+References: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+Message-ID: <CAFs83QoY_uBcG7RZLEzQcngbpV2Tb6uMzAs1cx9w=+mmouJuRg@mail.gmail.com>
+
+Aqsa,
+
+Welcome!!! I'm sure most groups would be open to help with their unit
+tests, is there an area that interests you? What coding language do you
+like?
+
+As far as mentoring there is the Women of OpenStack mentoring program which
+I believe is taking applications again or will be shortly. If you're going
+to Summit there will be a Speed Mentoring session as well.
+
+Most groups will answer questions on their IRC channel and help you, I know
+my main project is great for that. There will also be Project On-Boarding
+rooms for many projects at Summit, there are more groups interested then
+rooms unfortunately.
+
+Thanks,
+
+Amy
+
+On Sun, Mar 19, 2017 at 7:50 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+
+> Hi all,
+>
+> I would like to contribute to any OpenStack or OPNFV project by writing
+> the unit tests, can anyone suggest which project will be suitable as a
+> starter? I have a background in NFV related areas.
+> Another question is whether is it possible to get any mentor to work with
+> if you are not part of outreachy or any such platform, just for guidance
+> and help from time to time?
+>
+> Thanks,
+> --
+> Aqsa Malik
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170319/a84ff58f/attachment.html>
+
+From aqsamm at gmail.com  Mon Mar 20 10:49:54 2017
+From: aqsamm at gmail.com (Aqsa Malik)
+Date: Mon, 20 Mar 2017 11:49:54 +0100
+Subject: [Women-of-openstack] Suggestion for Contribution
+In-Reply-To: <CAFs83QoY_uBcG7RZLEzQcngbpV2Tb6uMzAs1cx9w=+mmouJuRg@mail.gmail.com>
+References: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+ <CAFs83QoY_uBcG7RZLEzQcngbpV2Tb6uMzAs1cx9w=+mmouJuRg@mail.gmail.com>
+Message-ID: <CA+85TMuj_1Lo8+c0urp3jVwDKnfCsoVek8vRhSjxe0hV1=TBrQ@mail.gmail.com>
+
+Hi Amy,
+
+Thanks for your email. I am most comfortable with working in python. I have
+been contributing in Tacker by solving bugs but I feel it is better to have
+more stable contribution rather than jumping from one bug to another in
+various projects.
+Writing unit tests feels like the best option as per my interests.
+
+As for the mentoring program unfortunately I can't apply in it as I have a
+full time position at NEC Europe. I have applied for the travel support
+program for the Summit if I can make it.
+I can start with writing unit tests in Tacker, but I will appreciate to
+know any OPNFV projects which are looking for dedicated people for this
+task.
+
+Aqsa
+
+
+On Sun, Mar 19, 2017 at 3:58 PM, Amy Marrich <amy at demarco.com> wrote:
+
+> Aqsa,
+>
+> Welcome!!! I'm sure most groups would be open to help with their unit
+> tests, is there an area that interests you? What coding language do you
+> like?
+>
+> As far as mentoring there is the Women of OpenStack mentoring program
+> which I believe is taking applications again or will be shortly. If you're
+> going to Summit there will be a Speed Mentoring session as well.
+>
+> Most groups will answer questions on their IRC channel and help you, I
+> know my main project is great for that. There will also be Project
+> On-Boarding rooms for many projects at Summit, there are more groups
+> interested then rooms unfortunately.
+>
+> Thanks,
+>
+> Amy
+>
+> On Sun, Mar 19, 2017 at 7:50 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+>
+>> Hi all,
+>>
+>> I would like to contribute to any OpenStack or OPNFV project by writing
+>> the unit tests, can anyone suggest which project will be suitable as a
+>> starter? I have a background in NFV related areas.
+>> Another question is whether is it possible to get any mentor to work with
+>> if you are not part of outreachy or any such platform, just for guidance
+>> and help from time to time?
+>>
+>> Thanks,
+>> --
+>> Aqsa Malik
+>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>
+
+
+-- 
+Aqsa Malik
+
+visit my blog at
+http://www.techiworld4u.blogspot.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170320/ed8eb6a7/attachment.html>
+
+From amy at demarco.com  Mon Mar 20 11:42:01 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 20 Mar 2017 06:42:01 -0500
+Subject: [Women-of-openstack] Suggestion for Contribution
+In-Reply-To: <CA+85TMuj_1Lo8+c0urp3jVwDKnfCsoVek8vRhSjxe0hV1=TBrQ@mail.gmail.com>
+References: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+ <CAFs83QoY_uBcG7RZLEzQcngbpV2Tb6uMzAs1cx9w=+mmouJuRg@mail.gmail.com>
+ <CA+85TMuj_1Lo8+c0urp3jVwDKnfCsoVek8vRhSjxe0hV1=TBrQ@mail.gmail.com>
+Message-ID: <CAFs83QoAUit9oPbEZpNVnn=PTzKy+e42MfqWSm5PohHKf6Bj7g@mail.gmail.com>
+
+Aqsa,
+
+Most folks in the Mentoring Program do have full-time jobs, here is a link
+for more information https://wiki.openstack.org/wiki/Mentors.
+
+And please don't discount the need for solving bugs, that is actually where
+a lot of development goes as they may not just be bugs but new work to be
+done as well. If you've been doing Tracker bugs and like that project I
+would highly recommend joining their IRC channel and attending their
+meetings.
+
+Thanks,
+
+Amy
+
+On Mon, Mar 20, 2017 at 5:49 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+
+> Hi Amy,
+>
+> Thanks for your email. I am most comfortable with working in python. I
+> have been contributing in Tacker by solving bugs but I feel it is better to
+> have more stable contribution rather than jumping from one bug to another
+> in various projects.
+> Writing unit tests feels like the best option as per my interests.
+>
+> As for the mentoring program unfortunately I can't apply in it as I have a
+> full time position at NEC Europe. I have applied for the travel support
+> program for the Summit if I can make it.
+> I can start with writing unit tests in Tacker, but I will appreciate to
+> know any OPNFV projects which are looking for dedicated people for this
+> task.
+>
+> Aqsa
+>
+>
+> On Sun, Mar 19, 2017 at 3:58 PM, Amy Marrich <amy at demarco.com> wrote:
+>
+>> Aqsa,
+>>
+>> Welcome!!! I'm sure most groups would be open to help with their unit
+>> tests, is there an area that interests you? What coding language do you
+>> like?
+>>
+>> As far as mentoring there is the Women of OpenStack mentoring program
+>> which I believe is taking applications again or will be shortly. If you're
+>> going to Summit there will be a Speed Mentoring session as well.
+>>
+>> Most groups will answer questions on their IRC channel and help you, I
+>> know my main project is great for that. There will also be Project
+>> On-Boarding rooms for many projects at Summit, there are more groups
+>> interested then rooms unfortunately.
+>>
+>> Thanks,
+>>
+>> Amy
+>>
+>> On Sun, Mar 19, 2017 at 7:50 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+>>
+>>> Hi all,
+>>>
+>>> I would like to contribute to any OpenStack or OPNFV project by writing
+>>> the unit tests, can anyone suggest which project will be suitable as a
+>>> starter? I have a background in NFV related areas.
+>>> Another question is whether is it possible to get any mentor to work
+>>> with if you are not part of outreachy or any such platform, just for
+>>> guidance and help from time to time?
+>>>
+>>> Thanks,
+>>> --
+>>> Aqsa Malik
+>>>
+>>>
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>
+>>>
+>>
+>
+>
+> --
+> Aqsa Malik
+>
+> visit my blog at
+> http://www.techiworld4u.blogspot.com
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170320/261216cc/attachment-0001.html>
+
+From ildiko.vancsa at gmail.com  Mon Mar 20 18:02:55 2017
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Mon, 20 Mar 2017 19:02:55 +0100
+Subject: [Women-of-openstack] Suggestion for Contribution
+In-Reply-To: <CAFs83QoAUit9oPbEZpNVnn=PTzKy+e42MfqWSm5PohHKf6Bj7g@mail.gmail.com>
+References: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+ <CAFs83QoY_uBcG7RZLEzQcngbpV2Tb6uMzAs1cx9w=+mmouJuRg@mail.gmail.com>
+ <CA+85TMuj_1Lo8+c0urp3jVwDKnfCsoVek8vRhSjxe0hV1=TBrQ@mail.gmail.com>
+ <CAFs83QoAUit9oPbEZpNVnn=PTzKy+e42MfqWSm5PohHKf6Bj7g@mail.gmail.com>
+Message-ID: <D9E04E33-23CC-42EC-8C77-D8420FD72F06@gmail.com>
+
+Hi Aqsa,
+
+First of all a warm welcome from me too we are happy to have you on board! :)
+
+I?m glad you reached out for guidance on getting more involved in the community and being more strategic. As Amy pointed out bug fixing is a really important activity and while finding a more complex task for you to work on please don?t quit doing that.
+
+I?m working for the OpenStack Foundation where one of my focus areas is Telecom/NFV, I?m also involved in the OPNFV Community. I would be happy to help you find an interesting project and/or task to work on in a more focused way. I?m in Central European Time time zone, which should make it easier for us to communicate.
+
+In order to find the best fit, I would like to better understand what your areas of interest are within NFV. Would you be available to have a short chat about it? You can find me on IRC as ildikov, feel free to ping me any time that works for you.
+
+I also hope for the best for the travel support program! In addition to the main events there are several smaller OpenStack events around Europe and around the globe called OpenStack Days [1]. Are you planning to attend any of those?
+
+Thanks and Best Regards,
+Ildik?
+
+[1] https://www.openstack.org/community/events/openstackdays#tab=events_tab
+
+
+> On 2017. Mar 20., at 12:42, Amy Marrich <amy at demarco.com> wrote:
+> 
+> Aqsa,
+> 
+> Most folks in the Mentoring Program do have full-time jobs, here is a link for more information https://wiki.openstack.org/wiki/Mentors <https://wiki.openstack.org/wiki/Mentors>.
+> 
+> And please don't discount the need for solving bugs, that is actually where a lot of development goes as they may not just be bugs but new work to be done as well. If you've been doing Tracker bugs and like that project I would highly recommend joining their IRC channel and attending their meetings.
+> 
+> Thanks,
+> 
+> Amy
+> 
+> On Mon, Mar 20, 2017 at 5:49 AM, Aqsa Malik <aqsamm at gmail.com <mailto:aqsamm at gmail.com>> wrote:
+> Hi Amy,
+> 
+> Thanks for your email. I am most comfortable with working in python. I have been contributing in Tacker by solving bugs but I feel it is better to have more stable contribution rather than jumping from one bug to another in various projects.
+> Writing unit tests feels like the best option as per my interests.
+> 
+> As for the mentoring program unfortunately I can't apply in it as I have a full time position at NEC Europe. I have applied for the travel support program for the Summit if I can make it.
+> I can start with writing unit tests in Tacker, but I will appreciate to know any OPNFV projects which are looking for dedicated people for this task.
+> 
+> Aqsa
+> 
+> 
+> On Sun, Mar 19, 2017 at 3:58 PM, Amy Marrich <amy at demarco.com <mailto:amy at demarco.com>> wrote:
+> Aqsa,
+> 
+> Welcome!!! I'm sure most groups would be open to help with their unit tests, is there an area that interests you? What coding language do you like?
+> 
+> As far as mentoring there is the Women of OpenStack mentoring program which I believe is taking applications again or will be shortly. If you're going to Summit there will be a Speed Mentoring session as well. 
+> 
+> Most groups will answer questions on their IRC channel and help you, I know my main project is great for that. There will also be Project On-Boarding rooms for many projects at Summit, there are more groups interested then rooms unfortunately.
+> 
+> Thanks,
+> 
+> Amy
+> 
+> On Sun, Mar 19, 2017 at 7:50 AM, Aqsa Malik <aqsamm at gmail.com <mailto:aqsamm at gmail.com>> wrote:
+> Hi all,
+> 
+> I would like to contribute to any OpenStack or OPNFV project by writing the unit tests, can anyone suggest which project will be suitable as a starter? I have a background in NFV related areas.
+> Another question is whether is it possible to get any mentor to work with if you are not part of outreachy or any such platform, just for guidance and help from time to time? 
+> 
+> Thanks,
+> -- 
+> Aqsa Malik
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> 
+> 
+> 
+> 
+> 
+> -- 
+> Aqsa Malik
+> 
+> visit my blog at
+> http://www.techiworld4u.blogspot.com <http://www.techiworld4u.blogspot.com/>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170320/a6d5d1c6/attachment.html>
+
+From aqsamm at gmail.com  Tue Mar 21 21:07:39 2017
+From: aqsamm at gmail.com (Aqsa Malik)
+Date: Tue, 21 Mar 2017 22:07:39 +0100
+Subject: [Women-of-openstack] Suggestion for Contribution
+In-Reply-To: <D9E04E33-23CC-42EC-8C77-D8420FD72F06@gmail.com>
+References: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+ <CAFs83QoY_uBcG7RZLEzQcngbpV2Tb6uMzAs1cx9w=+mmouJuRg@mail.gmail.com>
+ <CA+85TMuj_1Lo8+c0urp3jVwDKnfCsoVek8vRhSjxe0hV1=TBrQ@mail.gmail.com>
+ <CAFs83QoAUit9oPbEZpNVnn=PTzKy+e42MfqWSm5PohHKf6Bj7g@mail.gmail.com>
+ <D9E04E33-23CC-42EC-8C77-D8420FD72F06@gmail.com>
+Message-ID: <CA+85TMudte4Lgi5k=X_k+FR_CHRO6EXABqR1LA2sJmkekTnO2A@mail.gmail.com>
+
+Thanks a lot to all you amazing ladies. Its a pity why I didn't reach out
+earlier. But better late than never.
+
+Amy: thanks for pointing out, I had no idea they take people with a full
+time job as well. I am on it now. :)
+
+Aimee: That's just wonderful piece of information you shared, exactly the
+pointers I was looking for. I'll have a thorough look at Models and get in
+touch.
+
+Ildik?: I might attend the one in London but not sure about that right now.
+Plus I really appreciate your offering for help, I'll definitely get in
+touch via IRC because I really could do with such kind of guidance.
+
+Kind Regards,
+Aqsa
+
+
+On Mon, Mar 20, 2017 at 7:02 PM, Ildiko Vancsa <ildiko.vancsa at gmail.com>
+wrote:
+
+> Hi Aqsa,
+>
+> First of all a warm welcome from me too we are happy to have you on board!
+> :)
+>
+> I?m glad you reached out for guidance on getting more involved in the
+> community and being more strategic. As Amy pointed out bug fixing is a
+> really important activity and while finding a more complex task for you to
+> work on please don?t quit doing that.
+>
+> I?m working for the OpenStack Foundation where one of my focus areas is
+> Telecom/NFV, I?m also involved in the OPNFV Community. I would be happy to
+> help you find an interesting project and/or task to work on in a more
+> focused way. I?m in Central European Time time zone, which should make it
+> easier for us to communicate.
+>
+> In order to find the best fit, I would like to better understand what your
+> areas of interest are within NFV. Would you be available to have a short
+> chat about it? You can find me on IRC as ildikov, feel free to ping me any
+> time that works for you.
+>
+> I also hope for the best for the travel support program! In addition to
+> the main events there are several smaller OpenStack events around Europe
+> and around the globe called OpenStack Days [1]. Are you planning to attend
+> any of those?
+>
+> Thanks and Best Regards,
+> Ildik?
+>
+> [1] https://www.openstack.org/community/events/
+> openstackdays#tab=events_tab
+>
+>
+> On 2017. Mar 20., at 12:42, Amy Marrich <amy at demarco.com> wrote:
+>
+> Aqsa,
+>
+> Most folks in the Mentoring Program do have full-time jobs, here is a link
+> for more information https://wiki.openstack.org/wiki/Mentors.
+>
+> And please don't discount the need for solving bugs, that is actually
+> where a lot of development goes as they may not just be bugs but new work
+> to be done as well. If you've been doing Tracker bugs and like that project
+> I would highly recommend joining their IRC channel and attending their
+> meetings.
+>
+> Thanks,
+>
+> Amy
+>
+> On Mon, Mar 20, 2017 at 5:49 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+>
+>> Hi Amy,
+>>
+>> Thanks for your email. I am most comfortable with working in python. I
+>> have been contributing in Tacker by solving bugs but I feel it is better to
+>> have more stable contribution rather than jumping from one bug to another
+>> in various projects.
+>> Writing unit tests feels like the best option as per my interests.
+>>
+>> As for the mentoring program unfortunately I can't apply in it as I have
+>> a full time position at NEC Europe. I have applied for the travel support
+>> program for the Summit if I can make it.
+>> I can start with writing unit tests in Tacker, but I will appreciate to
+>> know any OPNFV projects which are looking for dedicated people for this
+>> task.
+>>
+>> Aqsa
+>>
+>>
+>> On Sun, Mar 19, 2017 at 3:58 PM, Amy Marrich <amy at demarco.com> wrote:
+>>
+>>> Aqsa,
+>>>
+>>> Welcome!!! I'm sure most groups would be open to help with their unit
+>>> tests, is there an area that interests you? What coding language do you
+>>> like?
+>>>
+>>> As far as mentoring there is the Women of OpenStack mentoring program
+>>> which I believe is taking applications again or will be shortly. If you're
+>>> going to Summit there will be a Speed Mentoring session as well.
+>>>
+>>> Most groups will answer questions on their IRC channel and help you, I
+>>> know my main project is great for that. There will also be Project
+>>> On-Boarding rooms for many projects at Summit, there are more groups
+>>> interested then rooms unfortunately.
+>>>
+>>> Thanks,
+>>>
+>>> Amy
+>>>
+>>> On Sun, Mar 19, 2017 at 7:50 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+>>>
+>>>> Hi all,
+>>>>
+>>>> I would like to contribute to any OpenStack or OPNFV project by writing
+>>>> the unit tests, can anyone suggest which project will be suitable as a
+>>>> starter? I have a background in NFV related areas.
+>>>> Another question is whether is it possible to get any mentor to work
+>>>> with if you are not part of outreachy or any such platform, just for
+>>>> guidance and help from time to time?
+>>>>
+>>>> Thanks,
+>>>> --
+>>>> Aqsa Malik
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> Women-of-openstack mailing list
+>>>> Women-of-openstack at lists.openstack.org
+>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>>
+>>>>
+>>>
+>>
+>>
+>> --
+>> Aqsa Malik
+>>
+>> visit my blog at
+>> http://www.techiworld4u.blogspot.com
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170321/19af12ba/attachment.html>
+
+From mahati.chamarthy at gmail.com  Wed Mar 22 10:28:23 2017
+From: mahati.chamarthy at gmail.com (Mahati C)
+Date: Wed, 22 Mar 2017 15:58:23 +0530
+Subject: [Women-of-openstack] Suggestion for Contribution
+In-Reply-To: <CA+85TMudte4Lgi5k=X_k+FR_CHRO6EXABqR1LA2sJmkekTnO2A@mail.gmail.com>
+References: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+ <CAFs83QoY_uBcG7RZLEzQcngbpV2Tb6uMzAs1cx9w=+mmouJuRg@mail.gmail.com>
+ <CA+85TMuj_1Lo8+c0urp3jVwDKnfCsoVek8vRhSjxe0hV1=TBrQ@mail.gmail.com>
+ <CAFs83QoAUit9oPbEZpNVnn=PTzKy+e42MfqWSm5PohHKf6Bj7g@mail.gmail.com>
+ <D9E04E33-23CC-42EC-8C77-D8420FD72F06@gmail.com>
+ <CA+85TMudte4Lgi5k=X_k+FR_CHRO6EXABqR1LA2sJmkekTnO2A@mail.gmail.com>
+Message-ID: <CAPfWQsrkZEcBNGOgQdPvWJJcQEHXKMGYwfOThzspkHUS1=jDeA@mail.gmail.com>
+
+Hello Aqsa,
+
+Welcome to the community! Glad to know of your interest!
+
+I happened to see your cross post in the Outreachy mailing list. If you're
+interested in applying for the Outreachy internship program as a
+participant (and not as a mentor), it is indeed true that one cannot be
+working full time. Please have a look here for guidelines -
+https://wiki.gnome.org/Outreachy/#Eligibility
+
+The other mentoring programs over here -
+https://wiki.openstack.org/wiki/Mentors do not seem to have that criteria.
+I hope this info helps.
+
+Best,
+Mahati
+
+On Wed, Mar 22, 2017 at 2:37 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+
+> Thanks a lot to all you amazing ladies. Its a pity why I didn't reach out
+> earlier. But better late than never.
+>
+> Amy: thanks for pointing out, I had no idea they take people with a full
+> time job as well. I am on it now. :)
+>
+> Aimee: That's just wonderful piece of information you shared, exactly the
+> pointers I was looking for. I'll have a thorough look at Models and get in
+> touch.
+>
+> Ildik?: I might attend the one in London but not sure about that right
+> now. Plus I really appreciate your offering for help, I'll definitely get
+> in touch via IRC because I really could do with such kind of guidance.
+>
+> Kind Regards,
+> Aqsa
+>
+>
+> On Mon, Mar 20, 2017 at 7:02 PM, Ildiko Vancsa <ildiko.vancsa at gmail.com>
+> wrote:
+>
+>> Hi Aqsa,
+>>
+>> First of all a warm welcome from me too we are happy to have you on
+>> board! :)
+>>
+>> I?m glad you reached out for guidance on getting more involved in the
+>> community and being more strategic. As Amy pointed out bug fixing is a
+>> really important activity and while finding a more complex task for you to
+>> work on please don?t quit doing that.
+>>
+>> I?m working for the OpenStack Foundation where one of my focus areas is
+>> Telecom/NFV, I?m also involved in the OPNFV Community. I would be happy to
+>> help you find an interesting project and/or task to work on in a more
+>> focused way. I?m in Central European Time time zone, which should make it
+>> easier for us to communicate.
+>>
+>> In order to find the best fit, I would like to better understand what
+>> your areas of interest are within NFV. Would you be available to have a
+>> short chat about it? You can find me on IRC as ildikov, feel free to ping
+>> me any time that works for you.
+>>
+>> I also hope for the best for the travel support program! In addition to
+>> the main events there are several smaller OpenStack events around Europe
+>> and around the globe called OpenStack Days [1]. Are you planning to attend
+>> any of those?
+>>
+>> Thanks and Best Regards,
+>> Ildik?
+>>
+>> [1] https://www.openstack.org/community/events/openstackdays
+>> #tab=events_tab
+>>
+>>
+>> On 2017. Mar 20., at 12:42, Amy Marrich <amy at demarco.com> wrote:
+>>
+>> Aqsa,
+>>
+>> Most folks in the Mentoring Program do have full-time jobs, here is a
+>> link for more information https://wiki.openstack.org/wiki/Mentors.
+>>
+>> And please don't discount the need for solving bugs, that is actually
+>> where a lot of development goes as they may not just be bugs but new work
+>> to be done as well. If you've been doing Tracker bugs and like that project
+>> I would highly recommend joining their IRC channel and attending their
+>> meetings.
+>>
+>> Thanks,
+>>
+>> Amy
+>>
+>> On Mon, Mar 20, 2017 at 5:49 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+>>
+>>> Hi Amy,
+>>>
+>>> Thanks for your email. I am most comfortable with working in python. I
+>>> have been contributing in Tacker by solving bugs but I feel it is better to
+>>> have more stable contribution rather than jumping from one bug to another
+>>> in various projects.
+>>> Writing unit tests feels like the best option as per my interests.
+>>>
+>>> As for the mentoring program unfortunately I can't apply in it as I have
+>>> a full time position at NEC Europe. I have applied for the travel support
+>>> program for the Summit if I can make it.
+>>> I can start with writing unit tests in Tacker, but I will appreciate to
+>>> know any OPNFV projects which are looking for dedicated people for this
+>>> task.
+>>>
+>>> Aqsa
+>>>
+>>>
+>>> On Sun, Mar 19, 2017 at 3:58 PM, Amy Marrich <amy at demarco.com> wrote:
+>>>
+>>>> Aqsa,
+>>>>
+>>>> Welcome!!! I'm sure most groups would be open to help with their unit
+>>>> tests, is there an area that interests you? What coding language do you
+>>>> like?
+>>>>
+>>>> As far as mentoring there is the Women of OpenStack mentoring program
+>>>> which I believe is taking applications again or will be shortly. If you're
+>>>> going to Summit there will be a Speed Mentoring session as well.
+>>>>
+>>>> Most groups will answer questions on their IRC channel and help you, I
+>>>> know my main project is great for that. There will also be Project
+>>>> On-Boarding rooms for many projects at Summit, there are more groups
+>>>> interested then rooms unfortunately.
+>>>>
+>>>> Thanks,
+>>>>
+>>>> Amy
+>>>>
+>>>> On Sun, Mar 19, 2017 at 7:50 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+>>>>
+>>>>> Hi all,
+>>>>>
+>>>>> I would like to contribute to any OpenStack or OPNFV project by
+>>>>> writing the unit tests, can anyone suggest which project will be suitable
+>>>>> as a starter? I have a background in NFV related areas.
+>>>>> Another question is whether is it possible to get any mentor to work
+>>>>> with if you are not part of outreachy or any such platform, just for
+>>>>> guidance and help from time to time?
+>>>>>
+>>>>> Thanks,
+>>>>> --
+>>>>> Aqsa Malik
+>>>>>
+>>>>>
+>>>>> _______________________________________________
+>>>>> Women-of-openstack mailing list
+>>>>> Women-of-openstack at lists.openstack.org
+>>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>>>
+>>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Aqsa Malik
+>>>
+>>> visit my blog at
+>>> http://www.techiworld4u.blogspot.com
+>>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170322/be0851cd/attachment-0001.html>
+
+From ildiko.vancsa at gmail.com  Wed Mar 22 19:12:44 2017
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Wed, 22 Mar 2017 20:12:44 +0100
+Subject: [Women-of-openstack] Suggestion for Contribution
+In-Reply-To: <CA+85TMudte4Lgi5k=X_k+FR_CHRO6EXABqR1LA2sJmkekTnO2A@mail.gmail.com>
+References: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+ <CAFs83QoY_uBcG7RZLEzQcngbpV2Tb6uMzAs1cx9w=+mmouJuRg@mail.gmail.com>
+ <CA+85TMuj_1Lo8+c0urp3jVwDKnfCsoVek8vRhSjxe0hV1=TBrQ@mail.gmail.com>
+ <CAFs83QoAUit9oPbEZpNVnn=PTzKy+e42MfqWSm5PohHKf6Bj7g@mail.gmail.com>
+ <D9E04E33-23CC-42EC-8C77-D8420FD72F06@gmail.com>
+ <CA+85TMudte4Lgi5k=X_k+FR_CHRO6EXABqR1LA2sJmkekTnO2A@mail.gmail.com>
+Message-ID: <9F2AC132-26EB-4B0E-94DA-B094A449D16A@gmail.com>
+
+Hi Aqsa,
+
+> On 2017. Mar 21., at 22:07, Aqsa Malik <aqsamm at gmail.com> wrote:
+> 
+> Thanks a lot to all you amazing ladies. Its a pity why I didn't reach out earlier. But better late than never.
+> 
+> Amy: thanks for pointing out, I had no idea they take people with a full time job as well. I am on it now. :)
+> 
+> Aimee: That's just wonderful piece of information you shared, exactly the pointers I was looking for. I'll have a thorough look at Models and get in touch.
+> 
+> Ildik?: I might attend the one in London but not sure about that right now. Plus I really appreciate your offering for help, I'll definitely get in touch via IRC because I really could do with such kind of guidance.
+
+Sounds great, I will be attending the London one so hopefully see you there the latest. :)
+
+Looking forward to chatting with you on IRC!
+
+Best Regards,
+Ildik?
+IRC: ildikov
+
+
+> 
+> Kind Regards,
+> Aqsa
+>  
+> 
+> On Mon, Mar 20, 2017 at 7:02 PM, Ildiko Vancsa <ildiko.vancsa at gmail.com <mailto:ildiko.vancsa at gmail.com>> wrote:
+> Hi Aqsa,
+> 
+> First of all a warm welcome from me too we are happy to have you on board! :)
+> 
+> I?m glad you reached out for guidance on getting more involved in the community and being more strategic. As Amy pointed out bug fixing is a really important activity and while finding a more complex task for you to work on please don?t quit doing that.
+> 
+> I?m working for the OpenStack Foundation where one of my focus areas is Telecom/NFV, I?m also involved in the OPNFV Community. I would be happy to help you find an interesting project and/or task to work on in a more focused way. I?m in Central European Time time zone, which should make it easier for us to communicate.
+> 
+> In order to find the best fit, I would like to better understand what your areas of interest are within NFV. Would you be available to have a short chat about it? You can find me on IRC as ildikov, feel free to ping me any time that works for you.
+> 
+> I also hope for the best for the travel support program! In addition to the main events there are several smaller OpenStack events around Europe and around the globe called OpenStack Days [1]. Are you planning to attend any of those?
+> 
+> Thanks and Best Regards,
+> Ildik?
+> 
+> [1] https://www.openstack.org/community/events/openstackdays#tab=events_tab <https://www.openstack.org/community/events/openstackdays#tab=events_tab>
+> 
+> 
+>> On 2017. Mar 20., at 12:42, Amy Marrich <amy at demarco.com <mailto:amy at demarco.com>> wrote:
+>> 
+>> Aqsa,
+>> 
+>> Most folks in the Mentoring Program do have full-time jobs, here is a link for more information https://wiki.openstack.org/wiki/Mentors <https://wiki.openstack.org/wiki/Mentors>.
+>> 
+>> And please don't discount the need for solving bugs, that is actually where a lot of development goes as they may not just be bugs but new work to be done as well. If you've been doing Tracker bugs and like that project I would highly recommend joining their IRC channel and attending their meetings.
+>> 
+>> Thanks,
+>> 
+>> Amy
+>> 
+>> On Mon, Mar 20, 2017 at 5:49 AM, Aqsa Malik <aqsamm at gmail.com <mailto:aqsamm at gmail.com>> wrote:
+>> Hi Amy,
+>> 
+>> Thanks for your email. I am most comfortable with working in python. I have been contributing in Tacker by solving bugs but I feel it is better to have more stable contribution rather than jumping from one bug to another in various projects.
+>> Writing unit tests feels like the best option as per my interests.
+>> 
+>> As for the mentoring program unfortunately I can't apply in it as I have a full time position at NEC Europe. I have applied for the travel support program for the Summit if I can make it.
+>> I can start with writing unit tests in Tacker, but I will appreciate to know any OPNFV projects which are looking for dedicated people for this task.
+>> 
+>> Aqsa
+>> 
+>> 
+>> On Sun, Mar 19, 2017 at 3:58 PM, Amy Marrich <amy at demarco.com <mailto:amy at demarco.com>> wrote:
+>> Aqsa,
+>> 
+>> Welcome!!! I'm sure most groups would be open to help with their unit tests, is there an area that interests you? What coding language do you like?
+>> 
+>> As far as mentoring there is the Women of OpenStack mentoring program which I believe is taking applications again or will be shortly. If you're going to Summit there will be a Speed Mentoring session as well. 
+>> 
+>> Most groups will answer questions on their IRC channel and help you, I know my main project is great for that. There will also be Project On-Boarding rooms for many projects at Summit, there are more groups interested then rooms unfortunately.
+>> 
+>> Thanks,
+>> 
+>> Amy
+>> 
+>> On Sun, Mar 19, 2017 at 7:50 AM, Aqsa Malik <aqsamm at gmail.com <mailto:aqsamm at gmail.com>> wrote:
+>> Hi all,
+>> 
+>> I would like to contribute to any OpenStack or OPNFV project by writing the unit tests, can anyone suggest which project will be suitable as a starter? I have a background in NFV related areas.
+>> Another question is whether is it possible to get any mentor to work with if you are not part of outreachy or any such platform, just for guidance and help from time to time? 
+>> 
+>> Thanks,
+>> -- 
+>> Aqsa Malik
+>> 
+>> 
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>> 
+>> 
+>> 
+>> 
+>> 
+>> -- 
+>> Aqsa Malik
+>> 
+>> visit my blog at
+>> http://www.techiworld4u.blogspot.com <http://www.techiworld4u.blogspot.com/>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> 
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170322/455a2b69/attachment.html>
+
+From hkirksey at linuxfoundation.org  Wed Mar 22 22:44:31 2017
+From: hkirksey at linuxfoundation.org (Heather Kirksey)
+Date: Wed, 22 Mar 2017 15:44:31 -0700
+Subject: [Women-of-openstack] Suggestion for Contribution
+In-Reply-To: <9F2AC132-26EB-4B0E-94DA-B094A449D16A@gmail.com>
+References: <CA+85TMvRct9hWBWFO+43YnuoMBtde1iRKWHQ5oYg8ecp_HA5zQ@mail.gmail.com>
+ <CAFs83QoY_uBcG7RZLEzQcngbpV2Tb6uMzAs1cx9w=+mmouJuRg@mail.gmail.com>
+ <CA+85TMuj_1Lo8+c0urp3jVwDKnfCsoVek8vRhSjxe0hV1=TBrQ@mail.gmail.com>
+ <CAFs83QoAUit9oPbEZpNVnn=PTzKy+e42MfqWSm5PohHKf6Bj7g@mail.gmail.com>
+ <D9E04E33-23CC-42EC-8C77-D8420FD72F06@gmail.com>
+ <CA+85TMudte4Lgi5k=X_k+FR_CHRO6EXABqR1LA2sJmkekTnO2A@mail.gmail.com>
+ <9F2AC132-26EB-4B0E-94DA-B094A449D16A@gmail.com>
+Message-ID: <CAOZp5QsT+gFn0Xx-aPCkg5c+Jq3w+g1uj3UkYr=aWhiEpfFb-Q@mail.gmail.com>
+
+Welcome, Aqsa.
+
+I'm the Executive Director of OPNFV; it's great to hear about your interest
+in NFV, OpenStack, and testing! OpenStack is one of our core upstream
+technologies.
+
+Ildiko is a great person to give you direct technical guidance -- she is
+well immersed in both the technology and both communities. If you'd like to
+chat with me as well, I'd be more than happy to. I can be found on IRC w/
+the handle hkirksey, usually lurking in the #opnfv-meeting room, or I'm
+happy to set up a call.
+
+And while I'm at it (since I often lurk here) I really do have to say that
+I've been continuously impressed with OpenStack's focus on diversity and by
+this group.
+
+Cheers,
+Heather
+
+On Wed, Mar 22, 2017 at 12:12 PM, Ildiko Vancsa <ildiko.vancsa at gmail.com>
+wrote:
+
+> Hi Aqsa,
+>
+> On 2017. Mar 21., at 22:07, Aqsa Malik <aqsamm at gmail.com> wrote:
+>
+> Thanks a lot to all you amazing ladies. Its a pity why I didn't reach out
+> earlier. But better late than never.
+>
+> Amy: thanks for pointing out, I had no idea they take people with a full
+> time job as well. I am on it now. :)
+>
+> Aimee: That's just wonderful piece of information you shared, exactly the
+> pointers I was looking for. I'll have a thorough look at Models and get in
+> touch.
+>
+> Ildik?: I might attend the one in London but not sure about that right
+> now. Plus I really appreciate your offering for help, I'll definitely get
+> in touch via IRC because I really could do with such kind of guidance.
+>
+>
+> Sounds great, I will be attending the London one so hopefully see you
+> there the latest. :)
+>
+> Looking forward to chatting with you on IRC!
+>
+> Best Regards,
+> Ildik?
+> IRC: ildikov
+>
+>
+>
+> Kind Regards,
+> Aqsa
+>
+>
+> On Mon, Mar 20, 2017 at 7:02 PM, Ildiko Vancsa <ildiko.vancsa at gmail.com>
+> wrote:
+>
+>> Hi Aqsa,
+>>
+>> First of all a warm welcome from me too we are happy to have you on
+>> board! :)
+>>
+>> I?m glad you reached out for guidance on getting more involved in the
+>> community and being more strategic. As Amy pointed out bug fixing is a
+>> really important activity and while finding a more complex task for you to
+>> work on please don?t quit doing that.
+>>
+>> I?m working for the OpenStack Foundation where one of my focus areas is
+>> Telecom/NFV, I?m also involved in the OPNFV Community. I would be happy to
+>> help you find an interesting project and/or task to work on in a more
+>> focused way. I?m in Central European Time time zone, which should make it
+>> easier for us to communicate.
+>>
+>> In order to find the best fit, I would like to better understand what
+>> your areas of interest are within NFV. Would you be available to have a
+>> short chat about it? You can find me on IRC as ildikov, feel free to ping
+>> me any time that works for you.
+>>
+>> I also hope for the best for the travel support program! In addition to
+>> the main events there are several smaller OpenStack events around Europe
+>> and around the globe called OpenStack Days [1]. Are you planning to attend
+>> any of those?
+>>
+>> Thanks and Best Regards,
+>> Ildik?
+>>
+>> [1] https://www.openstack.org/community/events/openstackdays
+>> #tab=events_tab
+>>
+>>
+>> On 2017. Mar 20., at 12:42, Amy Marrich <amy at demarco.com> wrote:
+>>
+>> Aqsa,
+>>
+>> Most folks in the Mentoring Program do have full-time jobs, here is a
+>> link for more information https://wiki.openstack.org/wiki/Mentors.
+>>
+>> And please don't discount the need for solving bugs, that is actually
+>> where a lot of development goes as they may not just be bugs but new work
+>> to be done as well. If you've been doing Tracker bugs and like that project
+>> I would highly recommend joining their IRC channel and attending their
+>> meetings.
+>>
+>> Thanks,
+>>
+>> Amy
+>>
+>> On Mon, Mar 20, 2017 at 5:49 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+>>
+>>> Hi Amy,
+>>>
+>>> Thanks for your email. I am most comfortable with working in python. I
+>>> have been contributing in Tacker by solving bugs but I feel it is better to
+>>> have more stable contribution rather than jumping from one bug to another
+>>> in various projects.
+>>> Writing unit tests feels like the best option as per my interests.
+>>>
+>>> As for the mentoring program unfortunately I can't apply in it as I have
+>>> a full time position at NEC Europe. I have applied for the travel support
+>>> program for the Summit if I can make it.
+>>> I can start with writing unit tests in Tacker, but I will appreciate to
+>>> know any OPNFV projects which are looking for dedicated people for this
+>>> task.
+>>>
+>>> Aqsa
+>>>
+>>>
+>>> On Sun, Mar 19, 2017 at 3:58 PM, Amy Marrich <amy at demarco.com> wrote:
+>>>
+>>>> Aqsa,
+>>>>
+>>>> Welcome!!! I'm sure most groups would be open to help with their unit
+>>>> tests, is there an area that interests you? What coding language do you
+>>>> like?
+>>>>
+>>>> As far as mentoring there is the Women of OpenStack mentoring program
+>>>> which I believe is taking applications again or will be shortly. If you're
+>>>> going to Summit there will be a Speed Mentoring session as well.
+>>>>
+>>>> Most groups will answer questions on their IRC channel and help you, I
+>>>> know my main project is great for that. There will also be Project
+>>>> On-Boarding rooms for many projects at Summit, there are more groups
+>>>> interested then rooms unfortunately.
+>>>>
+>>>> Thanks,
+>>>>
+>>>> Amy
+>>>>
+>>>> On Sun, Mar 19, 2017 at 7:50 AM, Aqsa Malik <aqsamm at gmail.com> wrote:
+>>>>
+>>>>> Hi all,
+>>>>>
+>>>>> I would like to contribute to any OpenStack or OPNFV project by
+>>>>> writing the unit tests, can anyone suggest which project will be suitable
+>>>>> as a starter? I have a background in NFV related areas.
+>>>>> Another question is whether is it possible to get any mentor to work
+>>>>> with if you are not part of outreachy or any such platform, just for
+>>>>> guidance and help from time to time?
+>>>>>
+>>>>> Thanks,
+>>>>> --
+>>>>> Aqsa Malik
+>>>>>
+>>>>>
+>>>>> _______________________________________________
+>>>>> Women-of-openstack mailing list
+>>>>> Women-of-openstack at lists.openstack.org
+>>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>>>
+>>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Aqsa Malik
+>>>
+>>> visit my blog at
+>>> http://www.techiworld4u.blogspot.com
+>>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+*Heather Kirksey*
+Director, OPNFV
+Mobile: +1.512.917.7938
+Email/Google Talk: hkirksey at linuxfoundation.org
+Skype: HeatherReneeKirksey
+IRC: HKirksey
+
+[image: OPNFV_RGB.png]
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170322/caa4209a/attachment-0001.html>
+
+From anne at openstack.org  Wed Mar 29 19:22:28 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Wed, 29 Mar 2017 12:22:28 -0700
+Subject: [Women-of-openstack] Encouraging more women to take the COA
+Message-ID: <8A9CFE46-0E2F-4782-A502-AD6F0D7ACFEE@openstack.org>
+
+Hi all,
+
+Anne Bertucio from the OpenStack Foundation?s COA program here. The Certified OpenStack Administrator program has been growing since its kickoff last April, but the percentage of women taking the exam is below the typical numbers for WOO representation. I want to encourage you all to consider the exam; I would love to see the number better reflect the strong presence of WOO. We?re seeing an increasing number of companies ask for COAs, and opportunities for COAs continues to grow. 
+
+If you?re headed to the Boston Summit, you can take the COA onsite, save $50 off the typical exam fee, and be a Certified OpenStack Administrator by the time you leave Boston! You do need to pre-reg; no walkup or onsite registration is available: https://www.openstack.org/summit/boston-2017/coa-in-boston <https://www.openstack.org/summit/boston-2017/coa-in-boston> 
+
+If you want to learn more first, swing by a Summit talk about the COA by WOO?s own Amy Marrich and Holly Bazemore: https://www.openstack.org/summit/boston-2017/summit-schedule/global-search?t=COA <https://www.openstack.org/summit/boston-2017/summit-schedule/global-search?t=COA>
+
+Drop me a line at anytime if you have questions, comments, or suggestions on how we can better bring the COA to WOO.   
+
+Best,
+Anne Bertucio
+Marketing Coordinator, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170329/756347bd/attachment.html>
+
+From khanak.nangia at intel.com  Fri Mar 31 19:17:32 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Fri, 31 Mar 2017 19:17:32 +0000
+Subject: [Women-of-openstack] Women-Of-Openstack Meeting Reminder : April3,
+	2017
+Message-ID: <5F0735F5-706F-4C14-AE8E-A34B3817A747@intel.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the next meeting will be on Monday, 4/3//17 at 1pm PST, 3pm CST and 4pm EST. This new meeting time is 1 hour later due to DST.
+
+Dial-in info is: 1-203-277-8157<tel:(203)%20277-8157> or 866-619-0383<tel:(866)%20619-0383>  Participant: 7217256# Leader 4018#
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+This time we?ll have speakers to share their experiences at the past summits and providing tips to network and how to be successful at talks. Ours speakers are members of OpenStack Innovation Center (OSIC) from Intel : Michal Jastrzebski, Hector Issac Gonzalez Mendoza, Dariusz Smigiel, and Aradhana Singh.
+
+Etherpad for this meeting is at https://etherpad.openstack.org/p/WOS_04_03_17 and if you would like to add something to the agenda please do so. I've added few topics already.
+
+Etherpad for tracking the agenda is at  https://etherpad.openstack.org/p/WOS_Agenda_Tracker . If you'd like to lead a meeting, please sign up.
+
+Talk  to you all on Monday :)
+
+Thank you !
+
+Best,
+
+Khanak
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170331/0e24391d/attachment.html>
+
+From khanak.nangia at intel.com  Fri Mar 31 19:19:43 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Fri, 31 Mar 2017 19:19:43 +0000
+Subject: [Women-of-openstack] Women-Of-OpenStack meeting : April 3, 2017
+Message-ID: <E814E370964CA745B7C55E6FCAFC2AFD38F5C5@FMSMSX105.amr.corp.intel.com>
+
+When: Monday, April 03, 2017 3:00 PM-4:00 PM. (UTC-06:00) Central Time (US & Canada)
+
+*~*~*~*~*~*~*~*~*~*
+
+Hey everyone,
+
+Just wanted to remind you the next meeting will be on Monday, 4/3//17 at 1pm PST, 3pm CST and 4pm EST. This new meeting time is 1 hour later due to DST.
+
+Dial-in info is: 1-203-277-8157<tel:(203)%20277-8157> or 866-619-0383<tel:(866)%20619-0383>  Participant: 7217256# Leader 4018#
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+This time we?ll have speakers to share their experiences at the past summits and providing tips to network and how to be successful at talks. Ours speakers are members of OpenStack Innovation Center (OSIC) from Intel : Michal Jastrzebski, Hector Issac Gonzalez Mendoza, Dariusz Smigiel, and Aradhana Singh.
+
+Etherpad for this meeting is at https://etherpad.openstack.org/p/WOS_04_03_17 and if you would like to add something to the agenda please do so. I've added few topics already.
+
+
+Etherpad for tracking the agenda is at  https://etherpad.openstack.org/p/WOS_Agenda_Tracker . If you'd like to lead a meeting, please sign up.
+
+Talk  to you all on Monday :)
+
+Thank you !
+
+
+Best,
+
+Khanak
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170331/ff57d12f/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 2675 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170331/ff57d12f/attachment.ics>
+

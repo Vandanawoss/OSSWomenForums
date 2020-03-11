@@ -1,0 +1,550 @@
+From duffy@redhat.com  Sat Mar 10 20:08:37 2007
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id AF0C83B0098
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:37 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.564
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.564 tagged_above=-999 required=2 tests=[AWL=0.037, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6, seldom 2.4 (older, 4) (NAT!) (up: 10605
+	hrs), (distance 11, link: GPRS, T1, FreeS/WAN), [66.187.233.31]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id c-bZ0C6rUs7r for <gnome-women-list@gnome.org>;
+	Sat, 10 Mar 2007 20:08:35 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 682FB3B0091
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:34 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.13.1/8.13.1) with ESMTP id l2B18Xrf010175
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:33 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.13.1/8.13.1) with ESMTP id
+	l2B18WBi009112
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:32 -0500
+Received: from [10.13.248.50] (vpn-248-50.boston.redhat.com [10.13.248.50])
+	by mail.boston.redhat.com (8.12.11.20060308/8.12.11) with ESMTP id
+	l2B18Wg1018349
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:32 -0500
+Message-ID: <45F35690.30305@redhat.com>
+Date: Sat, 10 Mar 2007 20:08:32 -0500
+From: =?ISO-8859-1?Q?M=E1ir=ED=ADn_Duffy?= <duffy@redhat.com>
+User-Agent: Thunderbird 1.5.0.7 (X11/20061008)
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: multipart/mixed; boundary="------------050300030504010703030500"
+Subject: [gnome-women] [Fwd: Bug Day on March 21st]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 11 Mar 2007 01:08:37 -0000
+
+This is a multi-part message in MIME format.
+--------------050300030504010703030500
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+
+
+--------------050300030504010703030500
+Content-Type: message/rfc822;
+ name="Bug Day on March 21st"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline;
+ filename="Bug Day on March 21st"
+
+Return-Path: <gnome-bugsquad-bounces@gnome.org>
+Received: from mail.boston.redhat.com ([unix socket])
+	by mail.boston.redhat.com (Cyrus v2.1.12) with LMTP;
+	Sat, 10 Mar 2007 16:32:31 -0500
+X-Sieve: CMU Sieve 2.2
+Received: from int-mx2.corp.redhat.com (int-mx2.corp.redhat.com [172.16.27.26])
+	by mail.boston.redhat.com (8.12.11.20060308/8.12.11) with ESMTP id
+	l2ALWUGu028721
+	for <duffy@boston.redhat.com>; Sat, 10 Mar 2007 16:32:31 -0500
+Received: from mx2.redhat.com (mx2.redhat.com [10.255.15.25])
+	by int-mx2.corp.redhat.com (8.13.1/8.13.1) with ESMTP id l2ALWTi5021507
+	for <duffy@redhat.com>; Sat, 10 Mar 2007 16:32:29 -0500
+Received: from menubar.gnome.org (menubar.gnome.org [209.132.176.177])
+	by mx2.redhat.com (8.13.1/8.13.1) with ESMTP id l2ALWSDm013203
+	for <duffy@redhat.com>; Sat, 10 Mar 2007 16:32:28 -0500
+Received: from menubar.gnome.org (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DE08D3B00FC;
+	Sat, 10 Mar 2007 16:32:22 -0500 (EST)
+X-Original-To: gnome-bugsquad@gnome.org
+Delivered-To: gnome-bugsquad@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C45C13B002C;
+	Sat, 10 Mar 2007 16:32:19 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.463 tagged_above=-999 required=2
+	tests=[BAYES_20=-0.74, FORGED_RCVD_HELO=0.135, L_P0F_Unix=-1,
+	SPF_FAIL=1.142]
+X-Amavis-OS-Fingerprint: Solaris 9 (NAT!), (distance 20, link: GPRS, T1,
+	FreeS/WAN), [146.102.16.2]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1fIm4pkT0ADO; Sat, 10 Mar 2007 16:32:16 -0500 (EST)
+Received: from vse.vse.cz (vse.vse.cz [146.102.16.2])
+	by menubar.gnome.org (Postfix) with ESMTP id D76303B0010;
+	Sat, 10 Mar 2007 16:32:15 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+	by vse.vse.cz (Postfix) with ESMTP id 1D72D13417;
+	Sat, 10 Mar 2007 22:32:14 +0100 (CET)
+X-Virus-Scanned: amavisd-new at vse.cz
+Received: from vse.vse.cz ([127.0.0.1])
+	by localhost (vse.vse.cz [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Qi3d1hPCyfI9; Sat, 10 Mar 2007 22:32:12 +0100 (CET)
+Received: from vse.cz (veverka.vse.cz [146.102.16.66])
+	by vse.vse.cz (Postfix) with ESMTP id 9E3EA13403;
+	Sat, 10 Mar 2007 22:32:12 +0100 (CET)
+Received: from [146.102.114.5] (account qklaa51 [146.102.114.5] verified)
+	by vse.cz (CommuniGate Pro SMTP 4.1.8)
+	with ESMTP-TLS id 25556322; Sat, 10 Mar 2007 22:32:12 +0100
+Subject: Bug Day on March 21st
+From: Andre Klapper <ak-47@gmx.net>
+To: GNOME Bugsquad <gnome-bugsquad@gnome.org>, gnome-love@gnome.org,
+	gnome-list@gnome.org
+Date: Sat, 10 Mar 2007 22:29:58 +0100
+Message-Id: <1173562198.6220.5.camel@embrace.domain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.9.91 
+X-BeenThere: gnome-bugsquad@gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: List to discuss bug maintenance in GNOME <gnome-bugsquad.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-bugsquad>,
+	<mailto:gnome-bugsquad-request@gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-bugsquad>
+List-Post: <mailto:gnome-bugsquad@gnome.org>
+List-Help: <mailto:gnome-bugsquad-request@gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-bugsquad>,
+	<mailto:gnome-bugsquad-request@gnome.org?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0589128271=="
+Sender: gnome-bugsquad-bounces@gnome.org
+Errors-To: gnome-bugsquad-bounces@gnome.org
+X-RedHat-Spam-Score: 0 
+
+
+--===============0589128271==
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature";
+	boundary="=-TYQD+A4OyI4dNiq8yCJL"
+
+
+--=-TYQD+A4OyI4dNiq8yCJL
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+Ahoj,
+
+The GNOME Bugsquad will have a Bug Day from Wednesday, March 21, 16:00
+UTC to March 22, 05:00 UTC in #bugs on irc.gnome.org.
+
+Virtually anyone can help who is interested in improving GNOME by
+cleaning up Bugzilla, our bug database.
+
+Please see http://live.gnome.org/Bugsquad/BugDays for more information.
+
+andre
+
+--=20
+ mailto:ak-47@gmx.net | failed!
+ http://www.iomc.de/  | http://blogs.gnome.org/portal/aklapper
+
+--=-TYQD+A4OyI4dNiq8yCJL
+Content-Type: application/pgp-signature; name=signature.asc
+Content-Description: Dies ist ein digital signierter Nachrichtenteil
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQBF8yNWUZw3dUr5LoARAvc1AJ9nWi/GUjBbzGaNcEuQT2qbTAdEIgCg/WMs
+OsGOOGYC4tS9GC23Zrn69Fw=
+=QWW/
+-----END PGP SIGNATURE-----
+
+--=-TYQD+A4OyI4dNiq8yCJL--
+
+
+--===============0589128271==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+_______________________________________________
+Gnome-bugsquad mailing list
+Gnome-bugsquad@gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-bugsquad
+
+--===============0589128271==--
+
+
+--------------050300030504010703030500--
+From gardiner@ics.mq.edu.au  Tue Mar 20 23:06:47 2007
+Return-Path: <gardiner@ics.mq.edu.au>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 17FF63B00ED
+	for <gnome-women-list@gnome.org>; Tue, 20 Mar 2007 23:06:47 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Amavis-OS-Fingerprint: Linux 2.4-2.6 (up: 6955 hrs), (distance 14, link:
+	ethernet/modem), [137.111.216.16]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id dGtv9ENrstqc for <gnome-women-list@gnome.org>;
+	Tue, 20 Mar 2007 23:06:45 -0400 (EDT)
+Received: from vacuum.ics.mq.edu.au (vacuum.ics.mq.edu.au [137.111.216.16])
+	by menubar.gnome.org (Postfix) with ESMTP id 0468F3B00BD
+	for <gnome-women-list@gnome.org>; Tue, 20 Mar 2007 23:06:44 -0400 (EDT)
+Received: from marygardiner (comp-pc019.ics.mq.edu.au [137.111.238.29])
+	by vacuum.ics.mq.edu.au (8.13.8+Sun/8.13.8) with ESMTP id
+	l2L36gVl023283
+	for <gnome-women-list@gnome.org>; Wed, 21 Mar 2007 14:06:42 +1100 (EST)
+Received: by marygardiner (Postfix, from userid 1000)
+	id 2C25B644C5; Wed, 21 Mar 2007 14:06:43 +1100 (EST)
+Resent-From: gardiner@ics.mq.edu.au
+Resent-Date: Wed, 21 Mar 2007 14:06:43 +1100
+Resent-Message-ID: <20070321030643.GC27694@comp-pc019.ics.mq.edu.au>
+Resent-To: gnome-women-list@gnome.org
+Date: Wed, 21 Mar 2007 13:54:38 +1100
+From: Mary Gardiner <mary@puzzling.org>
+To: Gnome Women <gnome-women-list@gnome.org>
+Message-ID: <20070321025438.GC16249@comp-pc019.ics.mq.edu.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+User-Agent: Mutt/1.5.12-2006-07-14
+Subject: [gnome-women] LinuxChix seeking to unite Summer of Code applicants
+	and projects
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 21 Mar 2007 03:06:47 -0000
+
+Hi GNOME Women,
+
+Google Summer of Code applications are due March 26. Over on LinuxChix
+we're trying to get women to network about their applications.
+
+If anyone here is either a potential Summer of Code mentor or is willing
+to help women prepare their applications for Summer of Code, please let
+us know. You could just read them, or point people at appropriate
+projects or introduce them to mentors.
+
+If you want to do this, you can either subscribe to the LinuxChix
+grrltalk list at http://linuxchix.org/mailman/listinfo/grrltalk or send
+me an email off-list with your contact details and a summary of how you
+can help women prepare Summer of Code applications. I will pass that
+onto the grrltalk list.
+
+-Mary
+From duffy@redhat.com  Sat Mar 10 20:08:37 2007
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id AF0C83B0098
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:37 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.564
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.564 tagged_above=-999 required=2 tests=[AWL=0.037, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6, seldom 2.4 (older, 4) (NAT!) (up: 10605
+	hrs), (distance 11, link: GPRS, T1, FreeS/WAN), [66.187.233.31]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id c-bZ0C6rUs7r for <gnome-women-list@gnome.org>;
+	Sat, 10 Mar 2007 20:08:35 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 682FB3B0091
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:34 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.13.1/8.13.1) with ESMTP id l2B18Xrf010175
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:33 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.13.1/8.13.1) with ESMTP id
+	l2B18WBi009112
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:32 -0500
+Received: from [10.13.248.50] (vpn-248-50.boston.redhat.com [10.13.248.50])
+	by mail.boston.redhat.com (8.12.11.20060308/8.12.11) with ESMTP id
+	l2B18Wg1018349
+	for <gnome-women-list@gnome.org>; Sat, 10 Mar 2007 20:08:32 -0500
+Message-ID: <45F35690.30305@redhat.com>
+Date: Sat, 10 Mar 2007 20:08:32 -0500
+From: =?ISO-8859-1?Q?M=E1ir=ED=ADn_Duffy?= <duffy@redhat.com>
+User-Agent: Thunderbird 1.5.0.7 (X11/20061008)
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: multipart/mixed; boundary="------------050300030504010703030500"
+Subject: [gnome-women] [Fwd: Bug Day on March 21st]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 11 Mar 2007 01:08:37 -0000
+
+This is a multi-part message in MIME format.
+--------------050300030504010703030500
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+
+
+--------------050300030504010703030500
+Content-Type: message/rfc822;
+ name="Bug Day on March 21st"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline;
+ filename="Bug Day on March 21st"
+
+Return-Path: <gnome-bugsquad-bounces@gnome.org>
+Received: from mail.boston.redhat.com ([unix socket])
+	by mail.boston.redhat.com (Cyrus v2.1.12) with LMTP;
+	Sat, 10 Mar 2007 16:32:31 -0500
+X-Sieve: CMU Sieve 2.2
+Received: from int-mx2.corp.redhat.com (int-mx2.corp.redhat.com [172.16.27.26])
+	by mail.boston.redhat.com (8.12.11.20060308/8.12.11) with ESMTP id
+	l2ALWUGu028721
+	for <duffy@boston.redhat.com>; Sat, 10 Mar 2007 16:32:31 -0500
+Received: from mx2.redhat.com (mx2.redhat.com [10.255.15.25])
+	by int-mx2.corp.redhat.com (8.13.1/8.13.1) with ESMTP id l2ALWTi5021507
+	for <duffy@redhat.com>; Sat, 10 Mar 2007 16:32:29 -0500
+Received: from menubar.gnome.org (menubar.gnome.org [209.132.176.177])
+	by mx2.redhat.com (8.13.1/8.13.1) with ESMTP id l2ALWSDm013203
+	for <duffy@redhat.com>; Sat, 10 Mar 2007 16:32:28 -0500
+Received: from menubar.gnome.org (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DE08D3B00FC;
+	Sat, 10 Mar 2007 16:32:22 -0500 (EST)
+X-Original-To: gnome-bugsquad@gnome.org
+Delivered-To: gnome-bugsquad@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C45C13B002C;
+	Sat, 10 Mar 2007 16:32:19 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.463 tagged_above=-999 required=2
+	tests=[BAYES_20=-0.74, FORGED_RCVD_HELO=0.135, L_P0F_Unix=-1,
+	SPF_FAIL=1.142]
+X-Amavis-OS-Fingerprint: Solaris 9 (NAT!), (distance 20, link: GPRS, T1,
+	FreeS/WAN), [146.102.16.2]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1fIm4pkT0ADO; Sat, 10 Mar 2007 16:32:16 -0500 (EST)
+Received: from vse.vse.cz (vse.vse.cz [146.102.16.2])
+	by menubar.gnome.org (Postfix) with ESMTP id D76303B0010;
+	Sat, 10 Mar 2007 16:32:15 -0500 (EST)
+Received: from localhost (localhost [127.0.0.1])
+	by vse.vse.cz (Postfix) with ESMTP id 1D72D13417;
+	Sat, 10 Mar 2007 22:32:14 +0100 (CET)
+X-Virus-Scanned: amavisd-new at vse.cz
+Received: from vse.vse.cz ([127.0.0.1])
+	by localhost (vse.vse.cz [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Qi3d1hPCyfI9; Sat, 10 Mar 2007 22:32:12 +0100 (CET)
+Received: from vse.cz (veverka.vse.cz [146.102.16.66])
+	by vse.vse.cz (Postfix) with ESMTP id 9E3EA13403;
+	Sat, 10 Mar 2007 22:32:12 +0100 (CET)
+Received: from [146.102.114.5] (account qklaa51 [146.102.114.5] verified)
+	by vse.cz (CommuniGate Pro SMTP 4.1.8)
+	with ESMTP-TLS id 25556322; Sat, 10 Mar 2007 22:32:12 +0100
+Subject: Bug Day on March 21st
+From: Andre Klapper <ak-47@gmx.net>
+To: GNOME Bugsquad <gnome-bugsquad@gnome.org>, gnome-love@gnome.org,
+	gnome-list@gnome.org
+Date: Sat, 10 Mar 2007 22:29:58 +0100
+Message-Id: <1173562198.6220.5.camel@embrace.domain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.9.91 
+X-BeenThere: gnome-bugsquad@gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: List to discuss bug maintenance in GNOME <gnome-bugsquad.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-bugsquad>,
+	<mailto:gnome-bugsquad-request@gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-bugsquad>
+List-Post: <mailto:gnome-bugsquad@gnome.org>
+List-Help: <mailto:gnome-bugsquad-request@gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-bugsquad>,
+	<mailto:gnome-bugsquad-request@gnome.org?subject=subscribe>
+Content-Type: multipart/mixed; boundary="===============0589128271=="
+Sender: gnome-bugsquad-bounces@gnome.org
+Errors-To: gnome-bugsquad-bounces@gnome.org
+X-RedHat-Spam-Score: 0 
+
+
+--===============0589128271==
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature";
+	boundary="=-TYQD+A4OyI4dNiq8yCJL"
+
+
+--=-TYQD+A4OyI4dNiq8yCJL
+Content-Type: text/plain
+Content-Transfer-Encoding: quoted-printable
+
+Ahoj,
+
+The GNOME Bugsquad will have a Bug Day from Wednesday, March 21, 16:00
+UTC to March 22, 05:00 UTC in #bugs on irc.gnome.org.
+
+Virtually anyone can help who is interested in improving GNOME by
+cleaning up Bugzilla, our bug database.
+
+Please see http://live.gnome.org/Bugsquad/BugDays for more information.
+
+andre
+
+--=20
+ mailto:ak-47@gmx.net | failed!
+ http://www.iomc.de/  | http://blogs.gnome.org/portal/aklapper
+
+--=-TYQD+A4OyI4dNiq8yCJL
+Content-Type: application/pgp-signature; name=signature.asc
+Content-Description: Dies ist ein digital signierter Nachrichtenteil
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQBF8yNWUZw3dUr5LoARAvc1AJ9nWi/GUjBbzGaNcEuQT2qbTAdEIgCg/WMs
+OsGOOGYC4tS9GC23Zrn69Fw=
+=QWW/
+-----END PGP SIGNATURE-----
+
+--=-TYQD+A4OyI4dNiq8yCJL--
+
+
+--===============0589128271==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+_______________________________________________
+Gnome-bugsquad mailing list
+Gnome-bugsquad@gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-bugsquad
+
+--===============0589128271==--
+
+
+--------------050300030504010703030500--
+
+From gardiner@ics.mq.edu.au  Tue Mar 20 23:06:47 2007
+Return-Path: <gardiner@ics.mq.edu.au>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 17FF63B00ED
+	for <gnome-women-list@gnome.org>; Tue, 20 Mar 2007 23:06:47 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Amavis-OS-Fingerprint: Linux 2.4-2.6 (up: 6955 hrs), (distance 14, link:
+	ethernet/modem), [137.111.216.16]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id dGtv9ENrstqc for <gnome-women-list@gnome.org>;
+	Tue, 20 Mar 2007 23:06:45 -0400 (EDT)
+Received: from vacuum.ics.mq.edu.au (vacuum.ics.mq.edu.au [137.111.216.16])
+	by menubar.gnome.org (Postfix) with ESMTP id 0468F3B00BD
+	for <gnome-women-list@gnome.org>; Tue, 20 Mar 2007 23:06:44 -0400 (EDT)
+Received: from marygardiner (comp-pc019.ics.mq.edu.au [137.111.238.29])
+	by vacuum.ics.mq.edu.au (8.13.8+Sun/8.13.8) with ESMTP id
+	l2L36gVl023283
+	for <gnome-women-list@gnome.org>; Wed, 21 Mar 2007 14:06:42 +1100 (EST)
+Received: by marygardiner (Postfix, from userid 1000)
+	id 2C25B644C5; Wed, 21 Mar 2007 14:06:43 +1100 (EST)
+Resent-From: gardiner@ics.mq.edu.au
+Resent-Date: Wed, 21 Mar 2007 14:06:43 +1100
+Resent-Message-ID: <20070321030643.GC27694@comp-pc019.ics.mq.edu.au>
+Resent-To: gnome-women-list@gnome.org
+Date: Wed, 21 Mar 2007 13:54:38 +1100
+From: Mary Gardiner <mary@puzzling.org>
+To: Gnome Women <gnome-women-list@gnome.org>
+Message-ID: <20070321025438.GC16249@comp-pc019.ics.mq.edu.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+User-Agent: Mutt/1.5.12-2006-07-14
+Subject: [gnome-women] LinuxChix seeking to unite Summer of Code applicants
+	and projects
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 21 Mar 2007 03:06:47 -0000
+
+Hi GNOME Women,
+
+Google Summer of Code applications are due March 26. Over on LinuxChix
+we're trying to get women to network about their applications.
+
+If anyone here is either a potential Summer of Code mentor or is willing
+to help women prepare their applications for Summer of Code, please let
+us know. You could just read them, or point people at appropriate
+projects or introduce them to mentors.
+
+If you want to do this, you can either subscribe to the LinuxChix
+grrltalk list at http://linuxchix.org/mailman/listinfo/grrltalk or send
+me an email off-list with your contact details and a summary of how you
+can help women prepare Summer of Code applications. I will pass that
+onto the grrltalk list.
+
+-Mary
+

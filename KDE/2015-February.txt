@@ -1,0 +1,58 @@
+From stormy.peters at gmail.com  Thu Feb 12 19:29:07 2015
+From: stormy.peters at gmail.com (Stormy Peters)
+Date: Thu, 12 Feb 2015 12:29:07 -0700
+Subject: [Kde-women] Grace Hopper Women in Computing Conference Call for
+	Papers is open now!
+Message-ID: <CAJHV1TBKXh5jHJP3ytcmHgf012yUFRGAhmBsdjcau9Hj9KhHyA@mail.gmail.com>
+
+Hi KDE Women,
+
+Want to meet awesome women in technology? Submit your talk proposal now.
+
+The Grace Hopper Celebration of Women in Computing Conference will be held
+October 14-16, 2015 in Houston, TX (http://gracehopper.org/2015/).  Founded
+in 1996, the Grace Hopper Celebration of Women in Computing is an annual
+conference that provides attendees with technical sessions covering a wide
+range of subjects as well  as a rich offering of professional development
+sessions for attendees at all career levels.
+
+Heidi Ellis and I are co-chairing the new Open Source Software Track.
+
+We would like to invite presentations, lightening talks, panels, workshops,
+and birds of a feather to the Open Source Track.  Submissions that discuss
+Free and Open Source Software (FOSS) development are welcomed and we are
+looking for submissions that enable more interactions between presenters
+and the audience. We'd like to see successful stories that encourage and
+teach participants how to use and deploy the best about FOSS. Possible
+topics include:
+
+
+   - FOSS intellectual property, copyrights and licensing
+   - Non-Governmental Organizations and FOSS
+   - Incorporating FOSS within organization's development lifecycle
+   - Lessons from FOSS for conventional development
+   - Successful stories about encouraging diversity in FOSS projects
+   - FOSS and social & humanitarian issues
+   - FOSS technologies, in particular how to use them or how to get started.
+   - Adoption/ use / acceptance of FOSS
+   - Dissemination / redistribution / crowdsourcing of FOSS systems
+   - Expanding scientific research and technology development methods
+   through openness
+   - Adopting innovation in FOSS projects
+   - Role of FOSS in ICT and sustainable development
+   - Learning, knowledge sharing, collaboration, control or conflict in
+   FOSS projects
+   - FOSS usability, scalability, maintainability and other quality issues
+   - Talk or workshop on specific FOSS technologies, such as version control
+
+
+To submit:  http://gracehopper.org/call-for-participation/open-source/
+
+Let me know if you have any questions.
+
+
+Stormy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20150212/2224e1b4/attachment.html>
+

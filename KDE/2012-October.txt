@@ -1,0 +1,367 @@
+From araceletorres at gmail.com  Tue Oct  2 20:50:42 2012
+From: araceletorres at gmail.com (Aracele Torres)
+Date: Tue, 2 Oct 2012 17:50:42 -0300
+Subject: [Kde-women] Schedule for Ada Lovelace day
+In-Reply-To: <CAFkLwpXPiPJAx-dgiDagoFtOy661+CJ-od7XoU_fnk9aP3BfjQ@mail.gmail.com>
+References: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+ <CAFkLwpWCthxidd8hQNAmXHy7n_ESOuPDo9mqVvayjjj7S2j6UA@mail.gmail.com>
+ <CAKQ=CTry1Ev1RUHWMGns-_oxmUBJM9Xk3M=EeOvWtP2vqg=2CQ@mail.gmail.com>
+ <CAFkLwpXPiPJAx-dgiDagoFtOy661+CJ-od7XoU_fnk9aP3BfjQ@mail.gmail.com>
+Message-ID: <CAKQ=CTpjP5Hcvto6trjL53o2SfMbp8A25q6UDD_utsFmZ_NNPQ@mail.gmail.com>
+
+Hi everybody!
+
+I need to know all the schedules to the disclosure text. Please, add to the
+docs:
+
+https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc#gid=0
+
+
+Cheers
+Aracele
+
+2012/9/23 Lydia Pintscher <lydia at kde.org>
+
+> On Sun, Sep 23, 2012 at 6:23 PM, Aracele Torres <araceletorres at gmail.com>
+> wrote:
+> > Hi everybody!
+>
+>
+> > As I had said I can write something to spread around. Is there a deadline
+> > for this?
+>
+> I'd be great if you could do it on Friday. (Not before Wednesday.
+> Hopefully until then we'll have 1 or 2 more tutorials.)
+>
+> > I can help to write the dot story too.
+>
+> Great! https://promo.notes.kde.org/81 is the place for it. The password
+> is ada.
+>
+> > There is someone else here in Brazil who will make a tutorial. Her name
+> is
+> > Melissa.
+> > Maybe her tutorial is about kile and LaTex. I added her to this list.
+>
+> That'd be sweet!
+>
+>
+> Cheers
+> Lydia
+>
+> --
+> Lydia Pintscher - http://about.me/lydia.pintscher
+> KDE Community Working Group / KDE e.V. board member
+> http://kde.org - http://open-advice.org
+>
+
+
+
+-- 
+Aracele Torres
+http://cibermundi.wordpress.com
+http://about.me/araceletorres
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20121002/462db5c6/attachment.html>
+
+From lydia at kde.org  Wed Oct  3 14:16:11 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Wed, 3 Oct 2012 16:16:11 +0200
+Subject: [Kde-women] Schedule for Ada Lovelace day
+In-Reply-To: <CAKQ=CTpjP5Hcvto6trjL53o2SfMbp8A25q6UDD_utsFmZ_NNPQ@mail.gmail.com>
+References: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+ <CAFkLwpWCthxidd8hQNAmXHy7n_ESOuPDo9mqVvayjjj7S2j6UA@mail.gmail.com>
+ <CAKQ=CTry1Ev1RUHWMGns-_oxmUBJM9Xk3M=EeOvWtP2vqg=2CQ@mail.gmail.com>
+ <CAFkLwpXPiPJAx-dgiDagoFtOy661+CJ-od7XoU_fnk9aP3BfjQ@mail.gmail.com>
+ <CAKQ=CTpjP5Hcvto6trjL53o2SfMbp8A25q6UDD_utsFmZ_NNPQ@mail.gmail.com>
+Message-ID: <CAFkLwpXfAyk2UYYv1bHnhquVDE78K7HbB2zATT-0N81k7q=SiQ@mail.gmail.com>
+
+On Tue, Oct 2, 2012 at 10:50 PM, Aracele Torres <araceletorres at gmail.com> wrote:
+> Hi everybody!
+>
+> I need to know all the schedules to the disclosure text. Please, add to the
+> docs:
+>
+> https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc#gid=0
+
+I have now started a wiki page here:
+http://community.kde.org/AdaLovelaceDay/2012 and added times. Each
+slot should be 1 hour plus 30 min break afterwards.
+This page still needs heavy expansion. Some things that are still needed:
+* explain what individual tutorials are about
+* add links to timezone conversion like
+http://www.timeanddate.com/worldclock/fixedtime.html?msg=Building+your+own+launcher&iso=20111007T15
+* give hints how to connect to IRC (link to tutorial?). The channel on
+irc is #kde-tutorials
+* add images
+* write a sentence or two about the instructors
+
+It would be great if _everyone_ of you would do a bit here. Otherwise
+we'll not get this off the ground. The event is happening soon.
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From smayres at gmail.com  Fri Oct  5 12:11:40 2012
+From: smayres at gmail.com (Camila Ayres)
+Date: Fri, 5 Oct 2012 14:11:40 +0200
+Subject: [Kde-women] Schedule for Ada Lovelace day
+In-Reply-To: <CAFkLwpXfAyk2UYYv1bHnhquVDE78K7HbB2zATT-0N81k7q=SiQ@mail.gmail.com>
+References: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+ <CAFkLwpWCthxidd8hQNAmXHy7n_ESOuPDo9mqVvayjjj7S2j6UA@mail.gmail.com>
+ <CAKQ=CTry1Ev1RUHWMGns-_oxmUBJM9Xk3M=EeOvWtP2vqg=2CQ@mail.gmail.com>
+ <CAFkLwpXPiPJAx-dgiDagoFtOy661+CJ-od7XoU_fnk9aP3BfjQ@mail.gmail.com>
+ <CAKQ=CTpjP5Hcvto6trjL53o2SfMbp8A25q6UDD_utsFmZ_NNPQ@mail.gmail.com>
+ <CAFkLwpXfAyk2UYYv1bHnhquVDE78K7HbB2zATT-0N81k7q=SiQ@mail.gmail.com>
+Message-ID: <CABe7M6vf_0DSeWHo6JF90hT7ty5nvOcTmh4foR3qCOvjJ9dJDg@mail.gmail.com>
+
+Hi,
+
+
+Please, take a look: http://community.kde.org/AdaLovelaceDay/2012
+I did some improvement as Lydia pointed out.
+
+*You* just need to write about you and your tutorial.
+
+Then, do you think we can start to promote this page?
+
+Hugs,
+Camila
+
+On Wed, Oct 3, 2012 at 4:16 PM, Lydia Pintscher <lydia at kde.org> wrote:
+> On Tue, Oct 2, 2012 at 10:50 PM, Aracele Torres <araceletorres at gmail.com> wrote:
+>> Hi everybody!
+>>
+>> I need to know all the schedules to the disclosure text. Please, add to the
+>> docs:
+>>
+>> https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc#gid=0
+>
+> I have now started a wiki page here:
+> http://community.kde.org/AdaLovelaceDay/2012 and added times. Each
+> slot should be 1 hour plus 30 min break afterwards.
+> This page still needs heavy expansion. Some things that are still needed:
+> * explain what individual tutorials are about
+> * add links to timezone conversion like
+> http://www.timeanddate.com/worldclock/fixedtime.html?msg=Building+your+own+launcher&iso=20111007T15
+> * give hints how to connect to IRC (link to tutorial?). The channel on
+> irc is #kde-tutorials
+> * add images
+> * write a sentence or two about the instructors
+>
+> It would be great if _everyone_ of you would do a bit here. Otherwise
+> we'll not get this off the ground. The event is happening soon.
+>
+> Cheers
+> Lydia
+>
+> --
+> Lydia Pintscher - http://about.me/lydia.pintscher
+> KDE Community Working Group / KDE e.V. board member
+> http://kde.org - http://open-advice.org
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+From araceletorres at gmail.com  Fri Oct  5 13:39:36 2012
+From: araceletorres at gmail.com (Aracele Torres)
+Date: Fri, 5 Oct 2012 10:39:36 -0300
+Subject: [Kde-women] Schedule for Ada Lovelace day
+In-Reply-To: <CABe7M6vf_0DSeWHo6JF90hT7ty5nvOcTmh4foR3qCOvjJ9dJDg@mail.gmail.com>
+References: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+ <CAFkLwpWCthxidd8hQNAmXHy7n_ESOuPDo9mqVvayjjj7S2j6UA@mail.gmail.com>
+ <CAKQ=CTry1Ev1RUHWMGns-_oxmUBJM9Xk3M=EeOvWtP2vqg=2CQ@mail.gmail.com>
+ <CAFkLwpXPiPJAx-dgiDagoFtOy661+CJ-od7XoU_fnk9aP3BfjQ@mail.gmail.com>
+ <CAKQ=CTpjP5Hcvto6trjL53o2SfMbp8A25q6UDD_utsFmZ_NNPQ@mail.gmail.com>
+ <CAFkLwpXfAyk2UYYv1bHnhquVDE78K7HbB2zATT-0N81k7q=SiQ@mail.gmail.com>
+ <CABe7M6vf_0DSeWHo6JF90hT7ty5nvOcTmh4foR3qCOvjJ9dJDg@mail.gmail.com>
+Message-ID: <CAKQ=CTooesmQ8Bg3B-dvzi070OfUMqHW3Kd8O5sOmjCU7tvA8w@mail.gmail.com>
+
+Hi,
+
+I'm going to publish the portuguese text today. ;-)
+
+Cheers,
+Aracele
+
+2012/10/5 Camila Ayres <smayres at gmail.com>
+
+> Hi,
+>
+>
+> Please, take a look: http://community.kde.org/AdaLovelaceDay/2012
+> I did some improvement as Lydia pointed out.
+>
+> *You* just need to write about you and your tutorial.
+>
+> Then, do you think we can start to promote this page?
+>
+> Hugs,
+> Camila
+>
+> On Wed, Oct 3, 2012 at 4:16 PM, Lydia Pintscher <lydia at kde.org> wrote:
+> > On Tue, Oct 2, 2012 at 10:50 PM, Aracele Torres <araceletorres at gmail.com>
+> wrote:
+> >> Hi everybody!
+> >>
+> >> I need to know all the schedules to the disclosure text. Please, add to
+> the
+> >> docs:
+> >>
+> >>
+> https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc#gid=0
+> >
+> > I have now started a wiki page here:
+> > http://community.kde.org/AdaLovelaceDay/2012 and added times. Each
+> > slot should be 1 hour plus 30 min break afterwards.
+> > This page still needs heavy expansion. Some things that are still needed:
+> > * explain what individual tutorials are about
+> > * add links to timezone conversion like
+> >
+> http://www.timeanddate.com/worldclock/fixedtime.html?msg=Building+your+own+launcher&iso=20111007T15
+> > * give hints how to connect to IRC (link to tutorial?). The channel on
+> > irc is #kde-tutorials
+> > * add images
+> > * write a sentence or two about the instructors
+> >
+> > It would be great if _everyone_ of you would do a bit here. Otherwise
+> > we'll not get this off the ground. The event is happening soon.
+> >
+> > Cheers
+> > Lydia
+> >
+> > --
+> > Lydia Pintscher - http://about.me/lydia.pintscher
+> > KDE Community Working Group / KDE e.V. board member
+> > http://kde.org - http://open-advice.org
+> > _______________________________________________
+> > kde-women mailing list
+> > kde-women at kde.org
+> > https://mail.kde.org/mailman/listinfo/kde-women
+>
+
+
+
+-- 
+Aracele Torres
+http://cibermundi.wordpress.com
+http://about.me/araceletorres
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20121005/2ea8baa9/attachment.html>
+
+From lydia at kde.org  Fri Oct  5 18:01:21 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Fri, 5 Oct 2012 20:01:21 +0200
+Subject: [Kde-women] Schedule for Ada Lovelace day
+In-Reply-To: <CABe7M6vf_0DSeWHo6JF90hT7ty5nvOcTmh4foR3qCOvjJ9dJDg@mail.gmail.com>
+References: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+ <CAFkLwpWCthxidd8hQNAmXHy7n_ESOuPDo9mqVvayjjj7S2j6UA@mail.gmail.com>
+ <CAKQ=CTry1Ev1RUHWMGns-_oxmUBJM9Xk3M=EeOvWtP2vqg=2CQ@mail.gmail.com>
+ <CAFkLwpXPiPJAx-dgiDagoFtOy661+CJ-od7XoU_fnk9aP3BfjQ@mail.gmail.com>
+ <CAKQ=CTpjP5Hcvto6trjL53o2SfMbp8A25q6UDD_utsFmZ_NNPQ@mail.gmail.com>
+ <CAFkLwpXfAyk2UYYv1bHnhquVDE78K7HbB2zATT-0N81k7q=SiQ@mail.gmail.com>
+ <CABe7M6vf_0DSeWHo6JF90hT7ty5nvOcTmh4foR3qCOvjJ9dJDg@mail.gmail.com>
+Message-ID: <CAFkLwpXSq1tiiDdmt4rbBL-HSLBoZ5KmzK8e2g1H499S_hydnA@mail.gmail.com>
+
+On Fri, Oct 5, 2012 at 2:11 PM, Camila Ayres <smayres at gmail.com> wrote:
+> Hi,
+>
+>
+> Please, take a look: http://community.kde.org/AdaLovelaceDay/2012
+> I did some improvement as Lydia pointed out.
+
+\o/
+Thank you!
+
+> *You* just need to write about you and your tutorial.
+>
+> Then, do you think we can start to promote this page?
+
+Yes please promote the hell out of it.
+I'll ask on promo if anyone is willing to write a dot story.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From lydia at kde.org  Sun Oct 14 18:23:56 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sun, 14 Oct 2012 20:23:56 +0200
+Subject: [Kde-women] Ada Lovelace Day tutorials on Tuesday - spread the word
+Message-ID: <CAFkLwpUtZC_5Q3JaZg3PMeRHLorFO+Ezd45hNaLBVgJhpWbJxg@mail.gmail.com>
+
+Heya folks :)
+
+Don't forget the tutorials we're doing on Thursday:
+http://dot.kde.org/2012/10/14/kde-celebrates-ada-lovelace-day-tutorials
+Spread the word about this among your friends!
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From carlsymons at gmail.com  Sun Oct 14 18:35:52 2012
+From: carlsymons at gmail.com (Carl Symons)
+Date: Sun, 14 Oct 2012 11:35:52 -0700
+Subject: [Kde-women] Ada Lovelace Day tutorials on Tuesday - spread the
+	word
+In-Reply-To: <CAFkLwpUtZC_5Q3JaZg3PMeRHLorFO+Ezd45hNaLBVgJhpWbJxg@mail.gmail.com>
+References: <CAFkLwpUtZC_5Q3JaZg3PMeRHLorFO+Ezd45hNaLBVgJhpWbJxg@mail.gmail.com>
+Message-ID: <CAPu7pz+inyXLA61WQ9FVf4JWMnjwPH=Mg2ATFN_MS==QNohPBg@mail.gmail.com>
+
+On Sun, Oct 14, 2012 at 11:23 AM, Lydia Pintscher <lydia at kde.org> wrote:
+> Heya folks :)
+>
+> Don't forget the tutorials we're doing on Thursday:
+> http://dot.kde.org/2012/10/14/kde-celebrates-ada-lovelace-day-tutorials
+> Spread the word about this among your friends!
+>
+>
+> Cheers
+> Lydia
+>
+
+It's Tuesday, not Thursday right?
+
+From lydia.pintscher at gmail.com  Sun Oct 14 18:44:33 2012
+From: lydia.pintscher at gmail.com (Lydia Pintscher)
+Date: Sun, 14 Oct 2012 20:44:33 +0200
+Subject: [Kde-women] Ada Lovelace Day tutorials on Tuesday - spread the
+	word
+In-Reply-To: <CAPu7pz+inyXLA61WQ9FVf4JWMnjwPH=Mg2ATFN_MS==QNohPBg@mail.gmail.com>
+References: <CAFkLwpUtZC_5Q3JaZg3PMeRHLorFO+Ezd45hNaLBVgJhpWbJxg@mail.gmail.com>
+ <CAPu7pz+inyXLA61WQ9FVf4JWMnjwPH=Mg2ATFN_MS==QNohPBg@mail.gmail.com>
+Message-ID: <CAFkLwpXOcxBNmpn4PO4-HkGWYkZ6tUshTpJ=U=44NmsbwV4Ejw@mail.gmail.com>
+
+On Sun, Oct 14, 2012 at 8:35 PM, Carl Symons <carlsymons at gmail.com> wrote:
+> It's Tuesday, not Thursday right?
+
+Doh! Of course. Thanks.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+

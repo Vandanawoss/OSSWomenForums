@@ -1,0 +1,314 @@
+From vandanawoss@gmail.com  Mon Mar 27 16:19:09 2017
+Return-Path: <vandanawoss@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.gnome.org (Postfix) with ESMTP id 46BFB7621C
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Mar 2017 16:19:09 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.999
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.999 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001] autolearn=ham
+Received: from smtp.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id vxTR1TTiWgtt for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Mar 2017 16:19:07 +0000 (UTC)
+Received: from mail-wr0-f177.google.com (mail-wr0-f177.google.com
+	[209.85.128.177])
+	by smtp.gnome.org (Postfix) with ESMTPS id 60732761E2
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Mar 2017 16:19:07 +0000 (UTC)
+Received: by mail-wr0-f177.google.com with SMTP id u1so64273708wra.2
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Mar 2017 09:19:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20161025;
+	h=mime-version:in-reply-to:references:from:date:message-id:subject:to; 
+	bh=LiVSJjYZ4DOcd1AzpGAu1SrAOpeR5kewuBCBl8vv/Wo=;
+	b=GoWb36IBTTyHC9xYzw6ogYO2LeFFg8MOVFFi4Z6qwS44FQlW7f4UbDAfF22UM3qh1E
+	awXCNX8Khyy1eGy0nkcNd8HW41fqNZ1W4CAKZBHkX+ssd8lXFzP+XlFdBvkANlOJQE1M
+	XYh7uKA6ELnnjQgxOjsl92+TyUw7OYy+g4S892BqbVZ3hKECbdSxsmZmXEak9gk79pFt
+	YszGVe4Cp1UBAh1sqRenpwr8Kwii6Ou40Y0Bzb6/zvSOfoIwjS0yRTDt/fVbA58BjDO3
+	0Uw+Dob59/ao33MxI4Zh7t78xITQvBXowVLUoz0RynWQ+rwY+cfQ3G3vlKFipo8lr4be
+	7ZZA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=1e100.net; s=20161025;
+	h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+	:message-id:subject:to;
+	bh=LiVSJjYZ4DOcd1AzpGAu1SrAOpeR5kewuBCBl8vv/Wo=;
+	b=Wjy6jTI8wdpmzkWuEliMYUN9/5dvBIcMdiBa0lh4cfoUffeX/5W//WJQXG1TugLp83
+	JOWd51xD2+xB0izO/FbOGvZn/0613HPAfuuNenZ0Rn9XQG/OAhFtCH0w8Jknm+INFnvd
+	Gugo3Rn0PzO3GEuHhRKr7MwcLr37xxaEseJ7DX+fer7IBo6/4ArgAQXo2aA7G1md2ftK
+	mZ1AposJuIFAZHxSNWgKitBj7+/3ww9FwK3J7mkB3YlTkmTG4MpBvReb5W75dzndJtex
+	EJ1D+Jze/aQvDU11sAtA7yMjdylj7P9OCmJw0Z9kS8kXVUtPN6GbPUeucfo7bLHGOhQJ
+	RHKQ==
+X-Gm-Message-State: AFeK/H0oB93Za3xrJvaMcHQRj+skooWFkpGf6NFC+Tyjj5Eqwb5TVk4zDKvEpDfAjy2d5XL0YllJB70o+UmSBQ==
+X-Received: by 10.28.220.139 with SMTP id t133mr5256429wmg.95.1490631544241;
+	Mon, 27 Mar 2017 09:19:04 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.223.169.74 with HTTP; Mon, 27 Mar 2017 09:19:03 -0700 (PDT)
+In-Reply-To: <CAPwYFYD40bjmMKL2UP48BNT4AsFEOrt-rin2VnjK=qO=Udbuiw@mail.gmail.com>
+References: <CAPwYFYD40bjmMKL2UP48BNT4AsFEOrt-rin2VnjK=qO=Udbuiw@mail.gmail.com>
+From: Vandana Singh <vandanawoss@gmail.com>
+Date: Mon, 27 Mar 2017 12:19:03 -0400
+Message-ID: <CAPwYFYCo0eyeHjJ_rNBsSue5UjFQw5yT3w-0Gsx=KYggAzkQ3g@mail.gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=001a114b3114af8978054bb8b34b
+Subject: [gnome-women] Fwd: Request for a Survey about Women in Open Source
+ Software
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.23
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 27 Mar 2017 16:19:09 -0000
+
+--001a114b3114af8978054bb8b34b
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi,
+
+
+
+This is a request for your participation in a web-based online survey on
+women in open source software. This is survey is part of a research project
+being conducted by Vandana Singh, an Associate Professor at School of
+information Sciences, University of Tennessee.   The objectives of this
+study are to explore the status of women involved in Open Source Software
+communities and to develop a better understanding of opportunities and
+challenges in this setting.
+
+
+
+You have to be above 18 years of age and involved in Open Source Software
+communities to participate in this survey. It should take about 30 minutes
+to complete this survey. Please click on the link below to begin the survey=
+.
+
+
+https://utk.co1.qualtrics.com/jfe/form/SV_0feu9n6cDoCdJtj
+
+
+Your participation in this survey is voluntary. You may refuse to take part
+in the research or exit the survey at any time without penalty. You are
+free to decline to answer any particular question you do not wish to answer
+for any reason.
+
+
+
+You will receive no direct benefits from participating in this research
+study. However, your responses may help us learn more about the status of
+women in open source software development.
+
+
+
+At the end of the survey you will be asked if you are interested in
+participating in an additional interview [by phone, via video conferencing
+or email]. If you chose to volunteer for this interview, you will provide
+contact information to the researcher and therefore your survey responses
+will no longer be anonymous to the researcher. There is a possible risk of
+breach of confidentiality if you chose to interview via email. The
+researcher has signed a confidentiality pledge to maintain your
+confidentiality at all stages. No names or identifying information would be
+included in any publications or presentations based on these data, and your
+responses will remain confidential. The interview will be recorded and
+transcribed. The transcribed interviews will be stored on OneDrive with
+transmission and storage encryption to ensure confidentiality. After one
+year, the interview tapes will be destroyed.  All the identifiers from the
+transcribed data will be removed and data with no identifiers will be
+stored and used for further analysis. The recordings from the interview
+will be destroyed within one year of the creation of the recording.
+
+
+
+If you have questions at any time about the study or the procedures, you
+may contact Vandana Singh at 865-974-2785 <(865)%20974-2785> or Vandana@utk
+.edu
+
+
+If you feel you have not been treated according to the descriptions in this
+form, or that your rights as a participant in research have not been
+honored during the course of this project, or you have any questions,
+concerns, or complaints that you wish to address to someone other than the
+investigator, you may contact the University of Tennessee IRB Compliance
+Officer at utkirb@utk.edu or (865) 974-7697.
+
+
+Best Regards,
+
+Vandana Singh
+
+
+PS: I would greatly appreciate if you could please forward this survey to
+other women who work with OSS.
+
+
+<<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>><<>>
+
+*Vandana Singh, PhD*
+
+Associate Professor,
+
+School of Information Sciences,
+
+University of Tennessee, Knoxville,
+
+453 Communications Building,
+
+1345 Circle Park Drive,
+
+Knoxville, TN 37996-0341,
+
+Phone : (865) 974-2785.
+
+Email: vandana@utk.edu
+
+Website: http://scholar.cci.utk.edu/vandana-singh
+
+ILS Portal from IMLS Project =E2=80=93 http://opensource-ils.cci.utk.edu/
+
+Women of Open Source Software: http://scholar.cci.utk.edu/woss/woss
+
+--001a114b3114af8978054bb8b34b
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div class=3D"gmail_quote"><div dir=3D"ltr"><span class=3D=
+"m_6769407224868869443m_8207062471364536035gmail-m_8034631713429574926gmail=
+-m_6068203959176036008gmail-im" style=3D"font-size:12.8px"><p class=3D"MsoN=
+ormal" style=3D"font-size:12.8px"><span style=3D"font-size:12.8px">Hi,</spa=
+n><br style=3D"font-size:12.8px"></p><p class=3D"MsoNormal" style=3D"font-s=
+ize:12.8px">=C2=A0</p><p class=3D"MsoNormal" style=3D"font-size:12.8px">Thi=
+s is a request for your participation in a web-based online survey on women=
+ in open source software.=C2=A0This is survey is part of a research project=
+ being conducted by Vandana Singh, an Associate Professor at School of info=
+rmation Sciences, University of Tennessee.=C2=A0 =C2=A0The objectives of th=
+is study are to explore the status of women involved in Open Source Softwar=
+e communities and to develop a better understanding of opportunities and ch=
+allenges in this setting.</p><p class=3D"MsoNormal" style=3D"font-size:12.8=
+px">=C2=A0</p><p class=3D"MsoNormal" style=3D"font-size:12.8px">You have to=
+ be above 18 years of age and involved in Open Source Software communities =
+to participate in this survey. It should take about 30 minutes to complete =
+this survey. Please click on the link below to begin the survey.</p><p clas=
+s=3D"MsoNormal" style=3D"font-size:12.8px"><br></p><p class=3D"MsoNormal"><=
+span style=3D"font-size:12.8px;background-color:rgb(255,255,0)"><font color=
+=3D"#000000"><a href=3D"https://utk.co1.qualtrics.com/jfe/form/SV_0feu9n6cD=
+oCdJtj" target=3D"_blank">https://utk.co1.qualtrics.com/<wbr>jfe/form/SV_0f=
+eu9n6cDoCdJtj</a></font></span><br></p><p class=3D"MsoNormal"><span style=
+=3D"font-size:12.8px"><br></span></p><p class=3D"MsoNormal"><span style=3D"=
+font-size:12.8px">Your participation in this survey is voluntary. You may r=
+efuse to take part in the research or exit the survey at any time without p=
+enalty. You are free to decline to answer any particular question you do no=
+t wish to answer for any reason.</span><br></p><p class=3D"MsoNormal" style=
+=3D"font-size:12.8px">=C2=A0</p><p class=3D"MsoNormal" style=3D"font-size:1=
+2.8px">You will receive no direct benefits from participating in this resea=
+rch study.=C2=A0However, your responses may help us learn more about the st=
+atus of women in open source software development.</p><p class=3D"MsoNormal=
+" style=3D"font-size:12.8px">=C2=A0</p><p class=3D"MsoNormal" style=3D"font=
+-size:12.8px">At the end of the survey you will be asked if you are interes=
+ted in participating in an additional interview [by phone, via video confer=
+encing or email]. If you chose to volunteer for this interview, you will pr=
+ovide contact information to the researcher and therefore your survey respo=
+nses will no longer be anonymous to the researcher. There is a possible ris=
+k of breach of confidentiality if you chose to interview via email. The res=
+earcher has signed a confidentiality pledge to maintain your confidentialit=
+y at all stages. No names or identifying information would be included in a=
+ny publications or presentations based on these data, and your responses wi=
+ll remain confidential. The interview will be recorded and transcribed. The=
+ transcribed interviews will be stored on OneDrive with transmission and st=
+orage encryption to ensure confidentiality. After one year, the interview t=
+apes will be destroyed.=C2=A0 All the identifiers from the transcribed data=
+ will be removed and data with no identifiers will be stored and used for f=
+urther analysis. The recordings from the interview will be destroyed within=
+ one year of the creation of the recording.</p><p class=3D"MsoNormal" style=
+=3D"font-size:12.8px">=C2=A0</p><p class=3D"MsoNormal" style=3D"font-size:1=
+2.8px">If you have questions at any time about the study or the procedures,=
+ you may contact Vandana Singh at=C2=A0<a href=3D"tel:(865)%20974-2785" val=
+ue=3D"+18659742785" target=3D"_blank">865-974-2785</a>=C2=A0or=C2=A0<a href=
+=3D"mailto:Vandana@utk.edu" target=3D"_blank">Vandana@utk<wbr>.edu</a></p><=
+p class=3D"MsoNormal" style=3D"font-size:12.8px"><br>If you feel you have n=
+ot been treated according to the descriptions in this form, or that your ri=
+ghts as a participant in research have not been honored during the course o=
+f this project, or you have any questions, concerns, or complaints that you=
+ wish to address to someone other than the investigator, you may contact th=
+e University of Tennessee IRB Compliance Officer at=C2=A0<a href=3D"mailto:=
+utkirb@utk.edu" target=3D"_blank">utkirb@utk.edu</a>=C2=A0or=C2=A0<a href=
+=3D"tel:(865)%20974-7697" value=3D"+18659747697" target=3D"_blank">(865) 97=
+4-7697</a>.</p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><br></p><p=
+ class=3D"MsoNormal" style=3D"font-size:12.8px">Best Regards,</p><p class=
+=3D"MsoNormal" style=3D"font-size:12.8px">Vandana Singh</p><p class=3D"MsoN=
+ormal" style=3D"font-size:12.8px"><br></p></span><p class=3D"MsoNormal" sty=
+le=3D"font-size:12.8px"><span style=3D"background-color:rgb(0,255,0)">PS: I=
+ would greatly appreciate if you could please forward this survey to other =
+women who work with OSS.</span></p><div class=3D"m_6769407224868869443m_820=
+7062471364536035gmail-m_8034631713429574926gmail-m_6068203959176036008gmail=
+-yj6qo m_6769407224868869443m_8207062471364536035gmail-m_803463171342957492=
+6gmail-m_6068203959176036008gmail-ajU" style=3D"font-size:12.8px;margin:2px=
+ 0px 0px"><div id=3D"m_6769407224868869443m_8207062471364536035gmail-m_8034=
+631713429574926gmail-m_6068203959176036008gmail-:2f" class=3D"m_67694072248=
+68869443m_8207062471364536035gmail-m_8034631713429574926gmail-m_60682039591=
+76036008gmail-ajR"><img class=3D"m_6769407224868869443m_8207062471364536035=
+gmail-m_8034631713429574926gmail-m_6068203959176036008gmail-ajT m_676940722=
+4868869443m_8207062471364536035gmail-m_8034631713429574926gmail-CToWUd m_67=
+69407224868869443m_8207062471364536035gmail-CToWUd" src=3D"https://ssl.gsta=
+tic.com/ui/v1/icons/mail/images/cleardot.gif"></div></div><div class=3D"m_6=
+769407224868869443m_8207062471364536035gmail-m_8034631713429574926gmail-m_6=
+068203959176036008gmail-adL" style=3D"font-size:12.8px"><span class=3D"m_67=
+69407224868869443m_8207062471364536035gmail-m_8034631713429574926gmail-m_60=
+68203959176036008gmail-im"><p class=3D"MsoNormal" style=3D"font-size:12.8px=
+"><br></p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><span lang=3D"I=
+T" style=3D"font-family:&quot;times new roman&quot;,serif">&lt;&lt;&gt;&gt;=
+&lt;&lt;&gt;&gt;&lt;&lt;&gt;&gt;&lt;&lt;&gt;&gt;&lt;&lt;&gt;&gt;&lt;&lt;&gt=
+;&gt;&lt;&lt;&gt;&gt;&lt;&lt;<wbr>&gt;&gt;&lt;&lt;&gt;&gt;&lt;&lt;&gt;&gt;&=
+lt;&lt;&gt;&gt;&lt;&lt;&gt;&gt;&lt;&lt;&gt;&gt;=C2=A0</span></p><p class=3D=
+"MsoNormal" style=3D"font-size:12.8px"><b><span lang=3D"IT" style=3D"font-f=
+amily:&quot;times new roman&quot;,serif">Vandana Singh, PhD</span></b><span=
+ lang=3D"IT" style=3D"font-family:&quot;times new roman&quot;,serif"></span=
+></p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><span lang=3D"IT" st=
+yle=3D"font-family:&quot;times new roman&quot;,serif">Associate Professor,<=
+/span></p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><span style=3D"=
+font-family:&quot;times new roman&quot;,serif">School of Information Scienc=
+es,</span></p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><span style=
+=3D"font-family:&quot;times new roman&quot;,serif">University of Tennessee,=
+ Knoxville,</span></p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><sp=
+an style=3D"font-family:&quot;times new roman&quot;,serif">453 Communicatio=
+ns Building,</span></p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><s=
+pan style=3D"font-family:&quot;times new roman&quot;,serif">1345 Circle Par=
+k Drive,</span></p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><span =
+style=3D"font-family:&quot;times new roman&quot;,serif">Knoxville, TN 37996=
+-0341,</span></p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><span st=
+yle=3D"font-family:&quot;times new roman&quot;,serif">Phone :=C2=A0<a href=
+=3D"tel:(865)%20974-2785" value=3D"+18659742785" target=3D"_blank">(865) 97=
+4-2785</a>.</span></p><p class=3D"MsoNormal" style=3D"font-size:12.8px"><sp=
+an style=3D"font-family:&quot;times new roman&quot;,serif">Email:=C2=A0<a h=
+ref=3D"mailto:vandana@utk.edu" target=3D"_blank"><span style=3D"color:rgb(5=
+,99,193)">vandana@utk.edu</span></a></span></p><p class=3D"MsoNormal" style=
+=3D"font-size:12.8px"><span style=3D"font-family:&quot;times new roman&quot=
+;,serif">Website:=C2=A0<a href=3D"http://scholar.cci.utk.edu/vandana-singh"=
+ target=3D"_blank"><span style=3D"color:rgb(5,99,193)">http://scholar.cci.u=
+t<wbr>k.edu/vandana-singh</span></a></span></p><p class=3D"MsoNormal" style=
+=3D"font-size:12.8px"><span style=3D"font-family:&quot;times new roman&quot=
+;,serif">ILS Portal from IMLS Project =E2=80=93=C2=A0<span style=3D"color:r=
+gb(5,99,193)"><a href=3D"http://opensource-ils.cci.utk.edu/" target=3D"_bla=
+nk">http://opensource-ils.cci.ut<wbr>k.edu/</a></span></span></p><p class=
+=3D"MsoNormal" style=3D"font-size:12.8px"><span style=3D"font-family:&quot;=
+times new roman&quot;,serif">Women of Open Source Software:=C2=A0</span><fo=
+nt face=3D"times new roman, serif"><a href=3D"http://scholar.cci.utk.edu/wo=
+ss/woss" target=3D"_blank">http://scholar.cci.u<wbr>tk.edu/woss/woss</a></f=
+ont></p></span></div></div>
+</div><br></div>
+
+--001a114b3114af8978054bb8b34b--

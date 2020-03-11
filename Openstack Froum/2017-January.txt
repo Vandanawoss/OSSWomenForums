@@ -1,0 +1,1725 @@
+From amy at demarco.com  Fri Jan  6 15:10:40 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Fri, 6 Jan 2017 09:10:40 -0600
+Subject: [Women-of-openstack] Meeting Reminder - 1/9/17
+Message-ID: <CAFs83QqqH3G=M_QrhvU9HjAovmdY1=5Sk8-7rSiT2-VtgAqfCQ@mail.gmail.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the next meeting will be Monday 1/9/17 at
+12pm PST, 2pm CST and 3pm EST.
+
+Dial-in info is: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader
+4018#
+webex - URL:
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_01_09_17
+<https://etherpad.openstack.org/p/WOS_11_28_16> and if you would like to
+add something to the agenda please do so. I've thrown a few topics on that
+I think wed like to at least touch base on.
+
+I've gone ahead and fleshed out the next couple of meetings at
+https://etherpad.openstack.org/p/WOS_Agenda_Tracker so please sign up if
+you'd like to lead a meeting. It's a great way to get some experience
+leading and talking to a group in a very low key environment (we don't
+bite).
+
+Hope everyone had a good break!
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170106/07fe7705/attachment.html>
+
+From clbpdx09 at gmail.com  Thu Jan  5 22:45:37 2017
+From: clbpdx09 at gmail.com (clbpdx09 at gmail.com)
+Date: Thu, 05 Jan 2017 22:45:37 +0000
+Subject: [Women-of-openstack] Updated Invitation: [OpenStack]Women of
+ Openstack Team Meeting Invite @ Every 4 weeks from 7pm to 8pm on Monday
+ from Mon Sep 28, 2015 to Mon Dec 19,
+ 2016 (PDT) (women-of-openstack@lists.openstack.org)
+Message-ID: <001a114a378cf0e9de054560a812@google.com>
+
+This event has been changed.
+
+Title: [OpenStack]Women of Openstack Team Meeting Invite
+This is the APAC-Friendly meeting time for the Women Of OpenStack. This  
+meeting will occur every 4 weeks. Pls join either meeting time!
+When: Every 4 weeks from 7pm to 8pm on Monday from Mon Sep 28, 2015 to Mon  
+Dec 19, 2016 Pacific Time (changed)
+Where: #openstack-meeting
+Calendar: women-of-openstack at lists.openstack.org
+Who:
+     * Carol Barrett - organizer
+     * women-of-openstack at lists.openstack.org
+
+Event details:  
+https://www.google.com/calendar/event?action=VIEW&eid=NDY3cWtlM2VwN2Fjb3FlMGZsOHZrdm5xOW8gd29tZW4tb2Ytb3BlbnN0YWNrQGxpc3RzLm9wZW5zdGFjay5vcmc&tok=MTgjY2xicGR4MDlAZ21haWwuY29tN2UzM2Q5MmNjMGMxMjNmNTc4ZThlNTU0OWRmM2VkNmE2MWVlMjA5ZQ&ctz=America/Los_Angeles&hl=en
+
+Invitation from Google Calendar: https://www.google.com/calendar/
+
+You are receiving this courtesy email at the account  
+women-of-openstack at lists.openstack.org because you are an attendee of this  
+event.
+
+To stop receiving future updates for this event, decline this event.  
+Alternatively you can sign up for a Google account at  
+https://www.google.com/calendar/ and control your notification settings for  
+your entire calendar.
+
+Forwarding this invitation could allow any recipient to modify your RSVP  
+response. Learn more at  
+https://support.google.com/calendar/answer/37135#forwarding
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170105/43c739f3/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 1781 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170105/43c739f3/attachment.ics>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: invite.ics
+Type: application/ics
+Size: 1832 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170105/43c739f3/attachment.bin>
+
+From erin at openstack.org  Fri Jan  6 18:08:02 2017
+From: erin at openstack.org (Erin Disney)
+Date: Fri, 6 Jan 2017 12:08:02 -0600
+Subject: [Women-of-openstack] Track Chair Nomination Reminder
+Message-ID: <7E72FE8A-BF05-4FCA-A774-0F653FB7D0BE@openstack.org>
+
+Hey all- a friendly WOO reminder to nominate yourselves and colleagues to be Track Chairs for the upcoming OpenStack Summit in Boston! If you?ve participated in this capacity before, we would love to have you back. If not, this is a great way to influence content at the Summits and help support our diversity initiatives across the community. 
+
+Deadline is January 18th, submit your nominations here <https://openstackfoundation.formstack.com/forms/openstack_summit_boston2017_track_chair_nominations>. 
+
+Thanks in advance, let me know if you have any questions! 
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170106/b43fcc56/attachment-0001.html>
+
+From amy at demarco.com  Mon Jan  9 21:56:04 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 9 Jan 2017 15:56:04 -0600
+Subject: [Women-of-openstack] Meeting Follow-Up - APAC meeting and How did
+	you find Us
+Message-ID: <CAFs83QrPc-8otd=_HCTnonkzL5UFmS2JfCHCy_YiqfzxzYS7Lg@mail.gmail.com>
+
+We had a few action items from today's meeting. If either of the following
+topics are relevant, please reply to the list with your responses.
+
+APAC Meeting
+Is there any interest in holding a once a month APAC meeting? Would you
+attend? Would you be interested in leading occasionally?
+
+
+New to the group
+How did you learn about the Women of OpenStack? Do you have any suggestions
+for spreading the word about the group?
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170109/a32646a3/attachment.html>
+
+From rochelle.grober at huawei.com  Thu Jan 12 03:02:51 2017
+From: rochelle.grober at huawei.com (Rochelle Grober)
+Date: Thu, 12 Jan 2017 03:02:51 +0000
+Subject: [Women-of-openstack] FW: [openstack-dev] [Openstack] [mentoring]
+ Discuss mentor/mentee experience in Boston?
+In-Reply-To: <589582909.739637.1484061706577@mail.yahoo.com>
+References: <589582909.739637.1484061706577.ref@mail.yahoo.com>
+ <589582909.739637.1484061706577@mail.yahoo.com>
+Message-ID: <DA7681A6D234954992BD2FB907F966620A588E4E@dfweml501-mbb>
+
+FYI.
+
+Someone want to reach out and help Namrata get a session submitted?
+
+I?ve gotta fly off to China ?
+
+--Rocky
+
+From: Namrata Sitlani [mailto:sitlani.namrata at yahoo.in]
+Sent: Tuesday, January 10, 2017 7:22 AM
+To: openstack-dev at lists.openstack.org
+Subject: Re: [openstack-dev] [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+
+Hello,
+
+
+I am openstack intern for the outreachy program(December 2016 - March 2017).
+I would love to share the experience of learning and working with experienced and motivated mentor and the communication shared by them.
+
+Regards,
+Namrata Sitlani
+
+
+
+From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Mon, Jan 9, 2017 at 1:59 PM
+Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+To: Amrith Kumar <amrith at tesora.com<mailto:amrith at tesora.com>>, "Anne McCormick (amccormi)"
+<amccormi at cisco.com<mailto:amccormi at cisco.com>>, "openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>"
+<openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>>, "Emily K Hugenbruch
+(ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>)" <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>>
+
+
+Sounds like a great proposal! If you want some help putting this
+together, the Women of OpenStack Mentoring Program team is Wednesday
+Jan 11th at Noon Pacific on IRC #openstack-meeting. Come join us!
+
+
+
+Thanks
+Carol
+
+
+
+From: Amrith Kumar [mailto:amrith at tesora.com<mailto:amrith at tesora.com>]
+Sent: Monday, January 09, 2017 9:54 AM
+To: Anne McCormick (amccormi) <amccormi at cisco.com<mailto:amccormi at cisco.com>>;
+openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+
+
+
+I?d love to ? I?ve been very lucky to have worked with a wonderful
+mentee and (won?t put him on the spot) it may also be nice to have
+some mentee?s on the panel. I have no idea what he?ll say about me so
+if you are interested I can ask him if he?d like to join a panel.
+
+
+
+Which reminds me, I?d asked him to blog about it, but I haven?t seen
+anything ? you-know-who ? blog post coming?
+
+
+
+-amrith
+
+
+
+From: Anne McCormick (amccormi) [mailto:amccormi at cisco.com<mailto:amccormi at cisco.com>]
+Sent: Monday, January 9, 2017 12:03 PM
+To: openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+Subject: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+
+
+
+Hello,
+
+
+
+I have been working as an OpenStack mentor, and would like to submit a
+talk proposal about the mentor/mentee experience at the Boston Summit.
+Would anyone else like to share their experiences as well?  Please let
+me know, and maybe we could do this as a panel.
+
+
+
+Thanks!
+
+
+
+- Anne McCormick
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/0545b333/attachment.html>
+-------------- next part --------------
+An embedded and charset-unspecified text was scrubbed...
+Name: ATT00001.txt
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/0545b333/attachment.txt>
+
+From Nithya.Ruff at sandisk.com  Thu Jan 12 03:08:47 2017
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Thu, 12 Jan 2017 03:08:47 +0000
+Subject: [Women-of-openstack] FW: [openstack-dev] [Openstack]
+ [mentoring] Discuss mentor/mentee experience in Boston?
+In-Reply-To: <DA7681A6D234954992BD2FB907F966620A588E4E@dfweml501-mbb>
+References: <589582909.739637.1484061706577.ref@mail.yahoo.com>
+ <589582909.739637.1484061706577@mail.yahoo.com>,
+ <DA7681A6D234954992BD2FB907F966620A588E4E@dfweml501-mbb>
+Message-ID: <3EA19275-D79F-4A32-9C53-66D1E5AA59EB@sandisk.com>
+
+
+Namrata
+
+In the past OpenStacks, Outreachy as an organization has submitted panels and shared stories of both interns and mentors. It would be powerful to have a similar panel. My suggestion would be to work with Outreachy and see how a panel could be submitted.  They have also done it for the LinuxCon events and either Karen or Marina or others moderate it.
+
+Thanks
+Nithya
+Excuse my typos and autocorrects.
+Thank you,
+Nithya Ruff
+
+On Jan 11, 2017, at 7:04 PM, Rochelle Grober <rochelle.grober at huawei.com<mailto:rochelle.grober at huawei.com>> wrote:
+
+FYI.
+
+Someone want to reach out and help Namrata get a session submitted?
+
+I?ve gotta fly off to China :(
+
+--Rocky
+
+From: Namrata Sitlani [mailto:sitlani.namrata at yahoo.in]
+Sent: Tuesday, January 10, 2017 7:22 AM
+To: openstack-dev at lists.openstack.org<mailto:openstack-dev at lists.openstack.org>
+Subject: Re: [openstack-dev] [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+
+Hello,
+
+
+I am openstack intern for the outreachy program(December 2016 - March 2017).
+I would love to share the experience of learning and working with experienced and motivated mentor and the communication shared by them.
+
+Regards,
+Namrata Sitlani
+
+
+
+From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Mon, Jan 9, 2017 at 1:59 PM
+Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+To: Amrith Kumar <amrith at tesora.com<mailto:amrith at tesora.com>>, "Anne McCormick (amccormi)"
+<amccormi at cisco.com<mailto:amccormi at cisco.com>>, "openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>"
+<openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>>, "Emily K Hugenbruch
+(ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>)" <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>>
+
+
+Sounds like a great proposal! If you want some help putting this
+together, the Women of OpenStack Mentoring Program team is Wednesday
+Jan 11th at Noon Pacific on IRC #openstack-meeting. Come join us!
+
+
+
+Thanks
+Carol
+
+
+
+From: Amrith Kumar [mailto:amrith at tesora.com<mailto:amrith at tesora.com>]
+Sent: Monday, January 09, 2017 9:54 AM
+To: Anne McCormick (amccormi) <amccormi at cisco.com<mailto:amccormi at cisco.com>>;
+openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+
+
+
+I?d love to ? I?ve been very lucky to have worked with a wonderful
+mentee and (won?t put him on the spot) it may also be nice to have
+some mentee?s on the panel. I have no idea what he?ll say about me so
+if you are interested I can ask him if he?d like to join a panel.
+
+
+
+Which reminds me, I?d asked him to blog about it, but I haven?t seen
+anything ? you-know-who ? blog post coming?
+
+
+
+-amrith
+
+
+
+From: Anne McCormick (amccormi) [mailto:amccormi at cisco.com<mailto:amccormi at cisco.com>]
+Sent: Monday, January 9, 2017 12:03 PM
+To: openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+Subject: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+
+
+
+Hello,
+
+
+
+I have been working as an OpenStack mentor, and would like to submit a
+talk proposal about the mentor/mentee experience at the Boston Summit.
+Would anyone else like to share their experiences as well?  Please let
+me know, and maybe we could do this as a panel.
+
+
+
+Thanks!
+
+
+
+- Anne McCormick
+__________________________________________________________________________
+OpenStack Development Mailing List (not for usage questions)
+Unsubscribe: OpenStack-dev-request at lists.openstack.org<mailto:OpenStack-dev-request at lists.openstack.org>?subject:unsubscribe
+http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-dev
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+________________________________
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/09da5ac1/attachment-0001.html>
+
+From petra_sargent at yahoo.com  Thu Jan 12 04:07:43 2017
+From: petra_sargent at yahoo.com (petra_sargent at yahoo.com)
+Date: Wed, 11 Jan 2017 23:07:43 -0500
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 27, Issue 3
+In-Reply-To: <mailman.91.1484190535.6981.women-of-openstack@lists.openstack.org>
+References: <mailman.91.1484190535.6981.women-of-openstack@lists.openstack.org>
+Message-ID: <F9B6B9D1-EA7C-461F-B5E4-401A3DA2C0D4@yahoo.com>
+
+I would happy to share my experiences as an Outreachy intern as well.
+
+Regards,
+Petra 
+
+> On Jan 11, 2017, at 10:08 PM, women-of-openstack-request at lists.openstack.org wrote:
+> 
+> Send Women-of-openstack mailing list submissions to
+>    women-of-openstack at lists.openstack.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+>    http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> or, via email, send a message with subject or body 'help' to
+>    women-of-openstack-request at lists.openstack.org
+> 
+> You can reach the person managing the list at
+>    women-of-openstack-owner at lists.openstack.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of Women-of-openstack digest..."
+> 
+> 
+> Today's Topics:
+> 
+>   1. FW: [openstack-dev] [Openstack] [mentoring] Discuss
+>      mentor/mentee experience in Boston? (Rochelle Grober)
+>   2. Re: FW: [openstack-dev] [Openstack] [mentoring] Discuss
+>      mentor/mentee experience in Boston? (Nithya Ruff)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Thu, 12 Jan 2017 03:02:51 +0000
+> From: Rochelle Grober <rochelle.grober at huawei.com>
+> To: "women-of-openstack at lists.openstack.org"
+>    <women-of-openstack at lists.openstack.org>
+> Cc: "sitlani.namrata at yahoo.in" <sitlani.namrata at yahoo.in>
+> Subject: [Women-of-openstack] FW: [openstack-dev] [Openstack]
+>    [mentoring] Discuss mentor/mentee experience in Boston?
+> Message-ID: <DA7681A6D234954992BD2FB907F966620A588E4E at dfweml501-mbb>
+> Content-Type: text/plain; charset="utf-8"
+> 
+> FYI.
+> 
+> Someone want to reach out and help Namrata get a session submitted?
+> 
+> I?ve gotta fly off to China ?
+> 
+> --Rocky
+> 
+> From: Namrata Sitlani [mailto:sitlani.namrata at yahoo.in]
+> Sent: Tuesday, January 10, 2017 7:22 AM
+> To: openstack-dev at lists.openstack.org
+> Subject: Re: [openstack-dev] [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> 
+> Hello,
+> 
+> 
+> I am openstack intern for the outreachy program(December 2016 - March 2017).
+> I would love to share the experience of learning and working with experienced and motivated mentor and the communication shared by them.
+> 
+> Regards,
+> Namrata Sitlani
+> 
+> 
+> 
+> From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+> Date: Mon, Jan 9, 2017 at 1:59 PM
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> To: Amrith Kumar <amrith at tesora.com<mailto:amrith at tesora.com>>, "Anne McCormick (amccormi)"
+> <amccormi at cisco.com<mailto:amccormi at cisco.com>>, "openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>"
+> <openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>>, "Emily K Hugenbruch
+> (ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>)" <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>>
+> 
+> 
+> Sounds like a great proposal! If you want some help putting this
+> together, the Women of OpenStack Mentoring Program team is Wednesday
+> Jan 11th at Noon Pacific on IRC #openstack-meeting. Come join us!
+> 
+> 
+> 
+> Thanks
+> Carol
+> 
+> 
+> 
+> From: Amrith Kumar [mailto:amrith at tesora.com<mailto:amrith at tesora.com>]
+> Sent: Monday, January 09, 2017 9:54 AM
+> To: Anne McCormick (amccormi) <amccormi at cisco.com<mailto:amccormi at cisco.com>>;
+> openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> 
+> 
+> 
+> I?d love to ? I?ve been very lucky to have worked with a wonderful
+> mentee and (won?t put him on the spot) it may also be nice to have
+> some mentee?s on the panel. I have no idea what he?ll say about me so
+> if you are interested I can ask him if he?d like to join a panel.
+> 
+> 
+> 
+> Which reminds me, I?d asked him to blog about it, but I haven?t seen
+> anything ? you-know-who ? blog post coming?
+> 
+> 
+> 
+> -amrith
+> 
+> 
+> 
+> From: Anne McCormick (amccormi) [mailto:amccormi at cisco.com<mailto:amccormi at cisco.com>]
+> Sent: Monday, January 9, 2017 12:03 PM
+> To: openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+> Subject: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> 
+> 
+> 
+> Hello,
+> 
+> 
+> 
+> I have been working as an OpenStack mentor, and would like to submit a
+> talk proposal about the mentor/mentee experience at the Boston Summit.
+> Would anyone else like to share their experiences as well?  Please let
+> me know, and maybe we could do this as a panel.
+> 
+> 
+> 
+> Thanks!
+> 
+> 
+> 
+> - Anne McCormick
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/0545b333/attachment-0001.html>
+> -------------- next part --------------
+> An embedded and charset-unspecified text was scrubbed...
+> Name: ATT00001.txt
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/0545b333/attachment-0001.txt>
+> 
+> ------------------------------
+> 
+> Message: 2
+> Date: Thu, 12 Jan 2017 03:08:47 +0000
+> From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+> To: Rochelle Grober <rochelle.grober at huawei.com>
+> Cc: "women-of-openstack at lists.openstack.org"
+>    <women-of-openstack at lists.openstack.org>, "sitlani.namrata at yahoo.in"
+>    <sitlani.namrata at yahoo.in>
+> Subject: Re: [Women-of-openstack] FW: [openstack-dev] [Openstack]
+>    [mentoring] Discuss mentor/mentee experience in Boston?
+> Message-ID: <3EA19275-D79F-4A32-9C53-66D1E5AA59EB at sandisk.com>
+> Content-Type: text/plain; charset="windows-1252"
+> 
+> 
+> Namrata
+> 
+> In the past OpenStacks, Outreachy as an organization has submitted panels and shared stories of both interns and mentors. It would be powerful to have a similar panel. My suggestion would be to work with Outreachy and see how a panel could be submitted.  They have also done it for the LinuxCon events and either Karen or Marina or others moderate it.
+> 
+> Thanks
+> Nithya
+> Excuse my typos and autocorrects.
+> Thank you,
+> Nithya Ruff
+> 
+> On Jan 11, 2017, at 7:04 PM, Rochelle Grober <rochelle.grober at huawei.com<mailto:rochelle.grober at huawei.com>> wrote:
+> 
+> FYI.
+> 
+> Someone want to reach out and help Namrata get a session submitted?
+> 
+> I?ve gotta fly off to China :(
+> 
+> --Rocky
+> 
+> From: Namrata Sitlani [mailto:sitlani.namrata at yahoo.in]
+> Sent: Tuesday, January 10, 2017 7:22 AM
+> To: openstack-dev at lists.openstack.org<mailto:openstack-dev at lists.openstack.org>
+> Subject: Re: [openstack-dev] [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> 
+> Hello,
+> 
+> 
+> I am openstack intern for the outreachy program(December 2016 - March 2017).
+> I would love to share the experience of learning and working with experienced and motivated mentor and the communication shared by them.
+> 
+> Regards,
+> Namrata Sitlani
+> 
+> 
+> 
+> From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+> Date: Mon, Jan 9, 2017 at 1:59 PM
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> To: Amrith Kumar <amrith at tesora.com<mailto:amrith at tesora.com>>, "Anne McCormick (amccormi)"
+> <amccormi at cisco.com<mailto:amccormi at cisco.com>>, "openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>"
+> <openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>>, "Emily K Hugenbruch
+> (ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>)" <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>>
+> 
+> 
+> Sounds like a great proposal! If you want some help putting this
+> together, the Women of OpenStack Mentoring Program team is Wednesday
+> Jan 11th at Noon Pacific on IRC #openstack-meeting. Come join us!
+> 
+> 
+> 
+> Thanks
+> Carol
+> 
+> 
+> 
+> From: Amrith Kumar [mailto:amrith at tesora.com<mailto:amrith at tesora.com>]
+> Sent: Monday, January 09, 2017 9:54 AM
+> To: Anne McCormick (amccormi) <amccormi at cisco.com<mailto:amccormi at cisco.com>>;
+> openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> 
+> 
+> 
+> I?d love to ? I?ve been very lucky to have worked with a wonderful
+> mentee and (won?t put him on the spot) it may also be nice to have
+> some mentee?s on the panel. I have no idea what he?ll say about me so
+> if you are interested I can ask him if he?d like to join a panel.
+> 
+> 
+> 
+> Which reminds me, I?d asked him to blog about it, but I haven?t seen
+> anything ? you-know-who ? blog post coming?
+> 
+> 
+> 
+> -amrith
+> 
+> 
+> 
+> From: Anne McCormick (amccormi) [mailto:amccormi at cisco.com<mailto:amccormi at cisco.com>]
+> Sent: Monday, January 9, 2017 12:03 PM
+> To: openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+> Subject: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> 
+> 
+> 
+> Hello,
+> 
+> 
+> 
+> I have been working as an OpenStack mentor, and would like to submit a
+> talk proposal about the mentor/mentee experience at the Boston Summit.
+> Would anyone else like to share their experiences as well?  Please let
+> me know, and maybe we could do this as a panel.
+> 
+> 
+> 
+> Thanks!
+> 
+> 
+> 
+> - Anne McCormick
+> __________________________________________________________________________
+> OpenStack Development Mailing List (not for usage questions)
+> Unsubscribe: OpenStack-dev-request at lists.openstack.org<mailto:OpenStack-dev-request at lists.openstack.org>?subject:unsubscribe
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-dev
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> ________________________________
+> 
+> PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+> 
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/09da5ac1/attachment.html>
+> 
+> ------------------------------
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> 
+> End of Women-of-openstack Digest, Vol 27, Issue 3
+> *************************************************
+
+
+
+From akanksha.aha at gmail.com  Thu Jan 12 06:41:00 2017
+From: akanksha.aha at gmail.com (Akanksha Agrawal)
+Date: Thu, 12 Jan 2017 12:11:00 +0530
+Subject: [Women-of-openstack] FW: [openstack-dev] [Openstack]
+ [mentoring] Discuss mentor/mentee experience in Boston?
+In-Reply-To: <DA7681A6D234954992BD2FB907F966620A588E4E@dfweml501-mbb>
+References: <589582909.739637.1484061706577.ref@mail.yahoo.com>
+ <589582909.739637.1484061706577@mail.yahoo.com>
+ <DA7681A6D234954992BD2FB907F966620A588E4E@dfweml501-mbb>
+Message-ID: <CAGQWR22ZeAX4W7mK8bWFkhvLKVMH8zHU+MJqV1qBbC0YEU3CKQ@mail.gmail.com>
+
+Hi Namrata,
+
+Even I would love to share my experience as a past OpenStack intern.
+(December 2015 to March 2016).
+
+I have already blogged my experience on OpenStack Superuser(
+http://superuser.openstack.org/articles/how-openstack-and-outreachy-helped-me-write-my-first-specification/)
+and it would be awesome to share it at the Summit as well.
+
+We can be a part of the panel and share our experiences and learning and
+how Outreachy has evolved over a period.
+
+Thanks,
+Akanksha
+
+On Jan 12, 2017 8:34 AM, "Rochelle Grober" <rochelle.grober at huawei.com>
+wrote:
+
+> FYI.
+>
+>
+>
+> Someone want to reach out and help Namrata get a session submitted?
+>
+>
+>
+> I?ve gotta fly off to China L
+>
+>
+>
+> --Rocky
+>
+>
+>
+> *From:* Namrata Sitlani [mailto:sitlani.namrata at yahoo.in]
+> *Sent:* Tuesday, January 10, 2017 7:22 AM
+> *To:* openstack-dev at lists.openstack.org
+> *Subject:* Re: [openstack-dev] [Openstack] [mentoring] Discuss
+> mentor/mentee experience in Boston?
+>
+>
+>
+> Hello,
+>
+>
+>
+> I am openstack intern for the outreachy program(December 2016 - March
+> 2017).
+>
+> I would love to share the experience of learning and working with
+> experienced and motivated mentor and the communication shared by them.
+>
+>
+>
+> Regards,
+>
+> Namrata Sitlani
+>
+>
+>
+>
+>
+>
+>
+> From: Barrett, Carol L <carol.l.barrett at intel.com>
+> Date: Mon, Jan 9, 2017 at 1:59 PM
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in
+> Boston?
+> To: Amrith Kumar <amrith at tesora.com>, "Anne McCormick (amccormi)"
+> <amccormi at cisco.com>, "openstack at lists.openstack.org"
+> <openstack at lists.openstack.org>, "Emily K Hugenbruch
+> (ekhugenbruch at us.ibm.com)" <ekhugenbruch at us.ibm.com>
+>
+>
+> Sounds like a great proposal! If you want some help putting this
+> together, the Women of OpenStack Mentoring Program team is Wednesday
+> Jan 11th at Noon Pacific on IRC #openstack-meeting. Come join us!
+>
+>
+>
+> Thanks
+> Carol
+>
+>
+>
+> From: Amrith Kumar [mailto:amrith at tesora.com]
+> Sent: Monday, January 09, 2017 9:54 AM
+> To: Anne McCormick (amccormi) <amccormi at cisco.com>;
+> openstack at lists.openstack.org
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in
+> Boston?
+>
+>
+>
+> I?d love to ? I?ve been very lucky to have worked with a wonderful
+> mentee and (won?t put him on the spot) it may also be nice to have
+> some mentee?s on the panel. I have no idea what he?ll say about me so
+> if you are interested I can ask him if he?d like to join a panel.
+>
+>
+>
+> Which reminds me, I?d asked him to blog about it, but I haven?t seen
+> anything ? you-know-who ? blog post coming?
+>
+>
+>
+> -amrith
+>
+>
+>
+> From: Anne McCormick (amccormi) [mailto:amccormi at cisco.com]
+> Sent: Monday, January 9, 2017 12:03 PM
+> To: openstack at lists.openstack.org
+> Subject: [Openstack] [mentoring] Discuss mentor/mentee experience in
+> Boston?
+>
+>
+>
+> Hello,
+>
+>
+>
+> I have been working as an OpenStack mentor, and would like to submit a
+> talk proposal about the mentor/mentee experience at the Boston Summit.
+> Would anyone else like to share their experiences as well?  Please let
+> me know, and maybe we could do this as a panel.
+>
+>
+>
+> Thanks!
+>
+>
+>
+> - Anne McCormick
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/e66f5c56/attachment-0001.html>
+
+From Khushbuparakh at hotmail.com  Thu Jan 12 08:01:41 2017
+From: Khushbuparakh at hotmail.com (Khushbu Parakh)
+Date: Thu, 12 Jan 2017 08:01:41 +0000
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 27, Issue 4
+In-Reply-To: <mailman.103.1484203263.6981.women-of-openstack@lists.openstack.org>
+References: <mailman.103.1484203263.6981.women-of-openstack@lists.openstack.org>
+Message-ID: <HK2PR01MB1250E6C842778B04870B4FABB4790@HK2PR01MB1250.apcprd01.prod.exchangelabs.com>
+
+Hi,
+
+
+I am khushbu. I would also love to share my experience being a mentee in
+OpenStack program having Anne Gentle as my mentor. I had a great experience with her and lot of learning in various domains in OpenStack. I have shared my views in one of the Linuxcon Berlin about this program and every got inspired by it. Nithya Ruff was there, she conducted a Lunch for women's to share their views on different domains. She has already mentioned about this in a thread. So this will be great if we able to spread about this in open world. As currently, I am facing a lot of challenges to contribute in Nova and Oslo, I observed that having a great mentor in real life means a lot to make a change in society.
+
+Thanks,
+
+
+Best,
+
+Khushbu Parakh
+http://khushbu.strikingly.com/
+KhushbuParakh on Strikingly<http://khushbu.strikingly.com/>
+khushbu.strikingly.com
+A passion for Cloud Computing. Currently, An undergrad in 'Information Tech' branch. Junior Developer fascinated by Python, proud OpenStack contributor, FOSS ...
+
+
+KhushbuParakh on Strikingly<http://khushbu.strikingly.com/>
+khushbu.strikingly.com
+A passion for Cloud Computing. Currently, An undergrad in 'Information Tech' branch. Junior Developer fascinated by Python, proud OpenStack contributor, FOSS ...
+
+
+
+KhushbuParakh on Strikingly<http://khushbu.strikingly.com/>
+khushbu.strikingly.com
+A passion for Cloud Computing. Currently, An undergrad in 'Information Tech' branch. Junior Developer fascinated by Python, proud OpenStack contributor, FOSS ...
+
+
+KhushbuParakh on Strikingly<http://khushbu.strikingly.com/>
+khushbu.strikingly.com
+A passion for Cloud Computing. Currently, An undergrad in 'Information Tech' branch. Junior Developer fascinated by Python, proud OpenStack contributor, FOSS ...
+
+
+
+Arya College Of Engineering and IT
+Linkedin: http://linkedin.com/in/khushbuparakh
+@khushbuparakh
+
+
+
+
+
+
+________________________________
+From: women-of-openstack-request at lists.openstack.org <women-of-openstack-request at lists.openstack.org>
+Sent: Thursday, January 12, 2017 6:41:03 AM
+To: women-of-openstack at lists.openstack.org
+Subject: Women-of-openstack Digest, Vol 27, Issue 4
+
+Send Women-of-openstack mailing list submissions to
+        women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+        http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+        women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+        women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. Re: Women-of-openstack Digest, Vol 27, Issue 3
+      (petra_sargent at yahoo.com)
+   2. Re: FW: [openstack-dev] [Openstack] [mentoring] Discuss
+      mentor/mentee experience in Boston? (Akanksha Agrawal)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Wed, 11 Jan 2017 23:07:43 -0500
+From: petra_sargent at yahoo.com
+To: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Women-of-openstack Digest, Vol 27,
+        Issue 3
+Message-ID: <F9B6B9D1-EA7C-461F-B5E4-401A3DA2C0D4 at yahoo.com>
+Content-Type: text/plain;       charset=us-ascii
+
+I would happy to share my experiences as an Outreachy intern as well.
+
+Regards,
+Petra
+
+> On Jan 11, 2017, at 10:08 PM, women-of-openstack-request at lists.openstack.org wrote:
+>
+> Send Women-of-openstack mailing list submissions to
+>    women-of-openstack at lists.openstack.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>    http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+> or, via email, send a message with subject or body 'help' to
+>    women-of-openstack-request at lists.openstack.org
+>
+> You can reach the person managing the list at
+>    women-of-openstack-owner at lists.openstack.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of Women-of-openstack digest..."
+>
+>
+> Today's Topics:
+>
+>   1. FW: [openstack-dev] [Openstack] [mentoring] Discuss
+>      mentor/mentee experience in Boston? (Rochelle Grober)
+>   2. Re: FW: [openstack-dev] [Openstack] [mentoring] Discuss
+>      mentor/mentee experience in Boston? (Nithya Ruff)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Thu, 12 Jan 2017 03:02:51 +0000
+> From: Rochelle Grober <rochelle.grober at huawei.com>
+> To: "women-of-openstack at lists.openstack.org"
+>    <women-of-openstack at lists.openstack.org>
+> Cc: "sitlani.namrata at yahoo.in" <sitlani.namrata at yahoo.in>
+> Subject: [Women-of-openstack] FW: [openstack-dev] [Openstack]
+>    [mentoring] Discuss mentor/mentee experience in Boston?
+> Message-ID: <DA7681A6D234954992BD2FB907F966620A588E4E at dfweml501-mbb>
+> Content-Type: text/plain; charset="utf-8"
+>
+> FYI.
+>
+> Someone want to reach out and help Namrata get a session submitted?
+>
+> I?ve gotta fly off to China ?
+>
+> --Rocky
+>
+> From: Namrata Sitlani [mailto:sitlani.namrata at yahoo.in]
+> Sent: Tuesday, January 10, 2017 7:22 AM
+> To: openstack-dev at lists.openstack.org
+> Subject: Re: [openstack-dev] [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+>
+> Hello,
+>
+>
+> I am openstack intern for the outreachy program(December 2016 - March 2017).
+> I would love to share the experience of learning and working with experienced and motivated mentor and the communication shared by them.
+>
+> Regards,
+> Namrata Sitlani
+>
+>
+>
+> From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+> Date: Mon, Jan 9, 2017 at 1:59 PM
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> To: Amrith Kumar <amrith at tesora.com<mailto:amrith at tesora.com>>, "Anne McCormick (amccormi)"
+> <amccormi at cisco.com<mailto:amccormi at cisco.com>>, "openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>"
+> <openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>>, "Emily K Hugenbruch
+> (ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>)" <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>>
+>
+>
+> Sounds like a great proposal! If you want some help putting this
+> together, the Women of OpenStack Mentoring Program team is Wednesday
+> Jan 11th at Noon Pacific on IRC #openstack-meeting. Come join us!
+>
+>
+>
+> Thanks
+> Carol
+>
+>
+>
+> From: Amrith Kumar [mailto:amrith at tesora.com<mailto:amrith at tesora.com>]
+> Sent: Monday, January 09, 2017 9:54 AM
+> To: Anne McCormick (amccormi) <amccormi at cisco.com<mailto:amccormi at cisco.com>>;
+> openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+>
+>
+>
+> I?d love to ? I?ve been very lucky to have worked with a wonderful
+> mentee and (won?t put him on the spot) it may also be nice to have
+> some mentee?s on the panel. I have no idea what he?ll say about me so
+> if you are interested I can ask him if he?d like to join a panel.
+>
+>
+>
+> Which reminds me, I?d asked him to blog about it, but I haven?t seen
+> anything ? you-know-who ? blog post coming?
+>
+>
+>
+> -amrith
+>
+>
+>
+> From: Anne McCormick (amccormi) [mailto:amccormi at cisco.com<mailto:amccormi at cisco.com>]
+> Sent: Monday, January 9, 2017 12:03 PM
+> To: openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+> Subject: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+>
+>
+>
+> Hello,
+>
+>
+>
+> I have been working as an OpenStack mentor, and would like to submit a
+> talk proposal about the mentor/mentee experience at the Boston Summit.
+> Would anyone else like to share their experiences as well?  Please let
+> me know, and maybe we could do this as a panel.
+>
+>
+>
+> Thanks!
+>
+>
+>
+> - Anne McCormick
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/0545b333/attachment-0001.html>
+> -------------- next part --------------
+> An embedded and charset-unspecified text was scrubbed...
+> Name: ATT00001.txt
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/0545b333/attachment-0001.txt>
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Thu, 12 Jan 2017 03:08:47 +0000
+> From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+> To: Rochelle Grober <rochelle.grober at huawei.com>
+> Cc: "women-of-openstack at lists.openstack.org"
+>    <women-of-openstack at lists.openstack.org>, "sitlani.namrata at yahoo.in"
+>    <sitlani.namrata at yahoo.in>
+> Subject: Re: [Women-of-openstack] FW: [openstack-dev] [Openstack]
+>    [mentoring] Discuss mentor/mentee experience in Boston?
+> Message-ID: <3EA19275-D79F-4A32-9C53-66D1E5AA59EB at sandisk.com>
+> Content-Type: text/plain; charset="windows-1252"
+>
+>
+> Namrata
+>
+> In the past OpenStacks, Outreachy as an organization has submitted panels and shared stories of both interns and mentors. It would be powerful to have a similar panel. My suggestion would be to work with Outreachy and see how a panel could be submitted.  They have also done it for the LinuxCon events and either Karen or Marina or others moderate it.
+>
+> Thanks
+> Nithya
+> Excuse my typos and autocorrects.
+> Thank you,
+> Nithya Ruff
+>
+> On Jan 11, 2017, at 7:04 PM, Rochelle Grober <rochelle.grober at huawei.com<mailto:rochelle.grober at huawei.com>> wrote:
+>
+> FYI.
+>
+> Someone want to reach out and help Namrata get a session submitted?
+>
+> I?ve gotta fly off to China :(
+>
+> --Rocky
+>
+> From: Namrata Sitlani [mailto:sitlani.namrata at yahoo.in]
+> Sent: Tuesday, January 10, 2017 7:22 AM
+> To: openstack-dev at lists.openstack.org<mailto:openstack-dev at lists.openstack.org>
+> Subject: Re: [openstack-dev] [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+>
+> Hello,
+>
+>
+> I am openstack intern for the outreachy program(December 2016 - March 2017).
+> I would love to share the experience of learning and working with experienced and motivated mentor and the communication shared by them.
+>
+> Regards,
+> Namrata Sitlani
+>
+>
+>
+> From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+> Date: Mon, Jan 9, 2017 at 1:59 PM
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+> To: Amrith Kumar <amrith at tesora.com<mailto:amrith at tesora.com>>, "Anne McCormick (amccormi)"
+> <amccormi at cisco.com<mailto:amccormi at cisco.com>>, "openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>"
+> <openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>>, "Emily K Hugenbruch
+> (ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>)" <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>>
+>
+>
+> Sounds like a great proposal! If you want some help putting this
+> together, the Women of OpenStack Mentoring Program team is Wednesday
+> Jan 11th at Noon Pacific on IRC #openstack-meeting. Come join us!
+>
+>
+>
+> Thanks
+> Carol
+>
+>
+>
+> From: Amrith Kumar [mailto:amrith at tesora.com<mailto:amrith at tesora.com>]
+> Sent: Monday, January 09, 2017 9:54 AM
+> To: Anne McCormick (amccormi) <amccormi at cisco.com<mailto:amccormi at cisco.com>>;
+> openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+>
+>
+>
+> I?d love to ? I?ve been very lucky to have worked with a wonderful
+> mentee and (won?t put him on the spot) it may also be nice to have
+> some mentee?s on the panel. I have no idea what he?ll say about me so
+> if you are interested I can ask him if he?d like to join a panel.
+>
+>
+>
+> Which reminds me, I?d asked him to blog about it, but I haven?t seen
+> anything ? you-know-who ? blog post coming?
+>
+>
+>
+> -amrith
+>
+>
+>
+> From: Anne McCormick (amccormi) [mailto:amccormi at cisco.com<mailto:amccormi at cisco.com>]
+> Sent: Monday, January 9, 2017 12:03 PM
+> To: openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>
+> Subject: [Openstack] [mentoring] Discuss mentor/mentee experience in Boston?
+>
+>
+>
+> Hello,
+>
+>
+>
+> I have been working as an OpenStack mentor, and would like to submit a
+> talk proposal about the mentor/mentee experience at the Boston Summit.
+> Would anyone else like to share their experiences as well?  Please let
+> me know, and maybe we could do this as a panel.
+>
+>
+>
+> Thanks!
+>
+>
+>
+> - Anne McCormick
+> __________________________________________________________________________
+> OpenStack Development Mailing List (not for usage questions)
+> Unsubscribe: OpenStack-dev-request at lists.openstack.org<mailto:OpenStack-dev-request at lists.openstack.org>?subject:unsubscribe
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-dev
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+> ________________________________
+>
+> PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+>
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/09da5ac1/attachment.html>
+>
+> ------------------------------
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+> End of Women-of-openstack Digest, Vol 27, Issue 3
+> *************************************************
+
+
+
+
+------------------------------
+
+Message: 2
+Date: Thu, 12 Jan 2017 12:11:00 +0530
+From: Akanksha Agrawal <akanksha.aha at gmail.com>
+To: Rochelle Grober <rochelle.grober at huawei.com>
+Cc: women-of-openstack at lists.openstack.org, "sitlani.namrata at yahoo.in"
+        <sitlani.namrata at yahoo.in>
+Subject: Re: [Women-of-openstack] FW: [openstack-dev] [Openstack]
+        [mentoring] Discuss mentor/mentee experience in Boston?
+Message-ID:
+        <CAGQWR22ZeAX4W7mK8bWFkhvLKVMH8zHU+MJqV1qBbC0YEU3CKQ at mail.gmail.com>
+Content-Type: text/plain; charset="utf-8"
+
+Hi Namrata,
+
+Even I would love to share my experience as a past OpenStack intern.
+(December 2015 to March 2016).
+
+I have already blogged my experience on OpenStack Superuser(
+http://superuser.openstack.org/articles/how-openstack-and-outreachy-helped-me-write-my-first-specification/)
+and it would be awesome to share it at the Summit as well.
+
+We can be a part of the panel and share our experiences and learning and
+how Outreachy has evolved over a period.
+
+Thanks,
+Akanksha
+
+On Jan 12, 2017 8:34 AM, "Rochelle Grober" <rochelle.grober at huawei.com>
+wrote:
+
+> FYI.
+>
+>
+>
+> Someone want to reach out and help Namrata get a session submitted?
+>
+>
+>
+> I?ve gotta fly off to China L
+>
+>
+>
+> --Rocky
+>
+>
+>
+> *From:* Namrata Sitlani [mailto:sitlani.namrata at yahoo.in]
+> *Sent:* Tuesday, January 10, 2017 7:22 AM
+> *To:* openstack-dev at lists.openstack.org
+> *Subject:* Re: [openstack-dev] [Openstack] [mentoring] Discuss
+> mentor/mentee experience in Boston?
+>
+>
+>
+> Hello,
+>
+>
+>
+> I am openstack intern for the outreachy program(December 2016 - March
+> 2017).
+>
+> I would love to share the experience of learning and working with
+> experienced and motivated mentor and the communication shared by them.
+>
+>
+>
+> Regards,
+>
+> Namrata Sitlani
+>
+>
+>
+>
+>
+>
+>
+> From: Barrett, Carol L <carol.l.barrett at intel.com>
+> Date: Mon, Jan 9, 2017 at 1:59 PM
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in
+> Boston?
+> To: Amrith Kumar <amrith at tesora.com>, "Anne McCormick (amccormi)"
+> <amccormi at cisco.com>, "openstack at lists.openstack.org"
+> <openstack at lists.openstack.org>, "Emily K Hugenbruch
+> (ekhugenbruch at us.ibm.com)" <ekhugenbruch at us.ibm.com>
+>
+>
+> Sounds like a great proposal! If you want some help putting this
+> together, the Women of OpenStack Mentoring Program team is Wednesday
+> Jan 11th at Noon Pacific on IRC #openstack-meeting. Come join us!
+>
+>
+>
+> Thanks
+> Carol
+>
+>
+>
+> From: Amrith Kumar [mailto:amrith at tesora.com]
+> Sent: Monday, January 09, 2017 9:54 AM
+> To: Anne McCormick (amccormi) <amccormi at cisco.com>;
+> openstack at lists.openstack.org
+> Subject: Re: [Openstack] [mentoring] Discuss mentor/mentee experience in
+> Boston?
+>
+>
+>
+> I?d love to ? I?ve been very lucky to have worked with a wonderful
+> mentee and (won?t put him on the spot) it may also be nice to have
+> some mentee?s on the panel. I have no idea what he?ll say about me so
+> if you are interested I can ask him if he?d like to join a panel.
+>
+>
+>
+> Which reminds me, I?d asked him to blog about it, but I haven?t seen
+> anything ? you-know-who ? blog post coming?
+>
+>
+>
+> -amrith
+>
+>
+>
+> From: Anne McCormick (amccormi) [mailto:amccormi at cisco.com]
+> Sent: Monday, January 9, 2017 12:03 PM
+> To: openstack at lists.openstack.org
+> Subject: [Openstack] [mentoring] Discuss mentor/mentee experience in
+> Boston?
+>
+>
+>
+> Hello,
+>
+>
+>
+> I have been working as an OpenStack mentor, and would like to submit a
+> talk proposal about the mentor/mentee experience at the Boston Summit.
+> Would anyone else like to share their experiences as well?  Please let
+> me know, and maybe we could do this as a panel.
+>
+>
+>
+> Thanks!
+>
+>
+>
+> - Anne McCormick
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/e66f5c56/attachment.html>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 27, Issue 4
+*************************************************
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170112/bf969660/attachment-0001.html>
+
+From jessicak at us.ibm.com  Mon Jan 23 03:25:47 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Sun, 22 Jan 2017 22:25:47 -0500
+Subject: [Women-of-openstack] Jan 23 WOO agenda: Outreachy & Travel Support
+	Program (Kendall Nelson)
+Message-ID: <OFD977AD93.E5E2D838-ON002580B1.0011C5FB-862580B1.0012D720@notes.na.collabserv.com>
+
+
+
+Please join us for tomorrow's Women of OpenStack meeting to learn more
+about a few of the OpenStack foundation programs supporting women. Kendall
+Nelson from the OpenStack Foundation will be leading a discussion on
+Outreachy and the OpenStack Foundation travel support program. We'd love to
+have women who have benefitted from those programs come and share their
+experiences as well.
+
+For those of you who are not available to join the call live, we will be
+recording the session and linking it to the Women of OpenStack wiki.
+
+Link to January 23 meeting etherpad:
+https://etherpad.openstack.org/p/WOS_01_23_17
+
+Link to 1H2017 calendar of WOO meeting speakers -- feel free to volunteer
+to speak or add a future topic:
+https://etherpad.openstack.org/p/WOS_2016-17_Editorial_Calendar
+
+Women of OpenStack
+January 23, 2017
+2000 UTC?- to find your correct time use http://www.worldtimebuddy.com/
+Dial In: 1-203-277-8157 or 866-619-0383? Participant: 7217256# Leader 4018#
+webex -?URL:
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170122/3bf839ed/attachment.html>
+
+From mvillari at us.ibm.com  Tue Jan 24 21:02:30 2017
+From: mvillari at us.ibm.com (Maria Rita Villari)
+Date: Tue, 24 Jan 2017 16:02:30 -0500
+Subject: [Women-of-openstack] Looking for speakers for upcoming topics
+In-Reply-To: <OFD977AD93.E5E2D838-ON002580B1.0011C5FB-862580B1.0012D720@notes.na.collabserv.com>
+References: <OFD977AD93.E5E2D838-ON002580B1.0011C5FB-862580B1.0012D720@notes.na.collabserv.com>
+Message-ID: <OFB16C6DCD.DAA13C5E-ON852580B1.0074244C-852580B2.0073960B@notes.na.collabserv.com>
+
+
+Hello,
+
+We have several topics on the editorial calendar needing speakers for the
+upcoming meetings.
+
+Specifically for February we had planned a talk about "How to win friends
+and influence people on your OpenStack project".  Please let me know if you
+are interested in speaking or have a speaker in mind for this topic.  It
+might be interesting to have an interactive discussion with multiple
+speakers sharing their experience and providing guidance.
+
+Also,  please consider sharing your skills and expertise on any other
+topics on the calendar:
+https://etherpad.openstack.org/p/WOS_2016-17_Editorial_Calendar
+
+As usual,  if you have a topic to propose for the next meeting,  please add
+it to the agenda on the meeting etherpad:
+https://etherpad.openstack.org/p/WOS_02_06_17
+
+
+Regards,
+
+Maria Rita Villari
+Program Manager
+IBM Cloud, Open Cloud Technologies
+                                                                                    
+                                                                                    
+                                                                                    
+ E-mail: mvillari at us.ibm.com                                      4205 S Miami Blvd 
+                                                              Durham, NC 27703-9141 
+                                                                      United States 
+                                                                                    
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170124/4e4ed9ab/attachment.html>
+
+From Khushbuparakh at hotmail.com  Thu Jan 26 06:44:11 2017
+From: Khushbuparakh at hotmail.com (Khushbu Parakh)
+Date: Thu, 26 Jan 2017 06:44:11 +0000
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 27, Issue 7
+In-Reply-To: <mailman.13.1485345601.19270.women-of-openstack@lists.openstack.org>
+References: <mailman.13.1485345601.19270.women-of-openstack@lists.openstack.org>
+Message-ID: <HK2PR01MB12500666165101FF3F82BDA8B4770@HK2PR01MB1250.apcprd01.prod.exchangelabs.com>
+
+Hello,
+
+
+I have included my topic in etherpad would love to hear and collaborate on that. Let me know if someone is willing to speak on that topic. I can explain more about the things that
+I am planning to cover.
+
+https://etherpad.openstack.org/p/WOS_02_06_17
+
+
+Khushbu Parakh
+http://khushbu.strikingly.com/
+KhushbuParakh on Strikingly<http://khushbu.strikingly.com/>
+khushbu.strikingly.com
+A passion for Cloud Computing. Currently, An undergrad in 'Information Tech' branch. Junior Developer fascinated by Python, proud OpenStack contributor, FOSS ...
+
+
+KhushbuParakh on Strikingly<http://khushbu.strikingly.com/>
+khushbu.strikingly.com
+A passion for Cloud Computing. Currently, An undergrad in 'Information Tech' branch. Junior Developer fascinated by Python, proud OpenStack contributor, FOSS ...
+
+
+
+Arya College Of Engineering and IT
+Linkedin: http://linkedin.com/in/khushbuparakh
+@khushbuparakh
+
+
+
+
+
+
+________________________________
+From: women-of-openstack-request at lists.openstack.org <women-of-openstack-request at lists.openstack.org>
+Sent: Wednesday, January 25, 2017 12:00:01 PM
+To: women-of-openstack at lists.openstack.org
+Subject: Women-of-openstack Digest, Vol 27, Issue 7
+
+Send Women-of-openstack mailing list submissions to
+        women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+        http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+        women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+        women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. Looking for speakers for upcoming topics (Maria Rita Villari)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Tue, 24 Jan 2017 16:02:30 -0500
+From: "Maria Rita Villari" <mvillari at us.ibm.com>
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Looking for speakers for upcoming topics
+Message-ID:
+        <OFB16C6DCD.DAA13C5E-ON852580B1.0074244C-852580B2.0073960B at notes.na.collabserv.com>
+
+Content-Type: text/plain; charset="us-ascii"
+
+
+Hello,
+
+We have several topics on the editorial calendar needing speakers for the
+upcoming meetings.
+
+Specifically for February we had planned a talk about "How to win friends
+and influence people on your OpenStack project".  Please let me know if you
+are interested in speaking or have a speaker in mind for this topic.  It
+might be interesting to have an interactive discussion with multiple
+speakers sharing their experience and providing guidance.
+
+Also,  please consider sharing your skills and expertise on any other
+topics on the calendar:
+https://etherpad.openstack.org/p/WOS_2016-17_Editorial_Calendar
+
+As usual,  if you have a topic to propose for the next meeting,  please add
+it to the agenda on the meeting etherpad:
+https://etherpad.openstack.org/p/WOS_02_06_17
+
+
+Regards,
+
+Maria Rita Villari
+Program Manager
+IBM Cloud, Open Cloud Technologies
+
+
+
+ E-mail: mvillari at us.ibm.com                                      4205 S Miami Blvd
+                                                              Durham, NC 27703-9141
+                                                                      United States
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170124/4e4ed9ab/attachment-0001.html>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 27, Issue 7
+*************************************************
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170126/8d495bc1/attachment.html>
+
+From shilla.saebi at gmail.com  Thu Jan 26 20:42:49 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Thu, 26 Jan 2017 15:42:49 -0500
+Subject: [Women-of-openstack] User Committee Elections February 2017
+Message-ID: <CAPrU3jF24DyYon9=-GQ8j0Epk+H7dzBWofc7ZubQ-XHMiQz1Xw@mail.gmail.com>
+
+Hello Everyone,
+
+
+
+You may have already heard the exciting news that the OpenStack Board of
+Directors recently approved the User Committee (UC) bylaws and charter
+<https://governance.openstack.org/uc/reference/charter.html>. These
+remarkable changes will bring the first elected UC representatives in 2017
+and expand the UC to 5 members! Voting for the 2017 UC members will be granted
+to the Active User Contributors (AUC).
+<https://governance.openstack.org/uc/reference/charter.html#active-user-contributors-auc>
+The
+current UC will continue to serve until the elections and continue with a
+6-month seat. This initial election will run to determine the other two
+members. Candidates ranking 1st and 2nd place will get one-year seats. In
+the fall of 2017, elections will see the normal renewal of 3 seats for a
+one-year period.
+
+
+
+Open candidacy for the UC positions will be from January 30 - February 10,
+05:59 UTC. Voting for the 2017 User Committee (UC) members will be
+open on February
+13th and will remain open until February 17, 11:59 UTC. Additional details
+and the process for nomination can be found here
+<https://governance.openstack.org/uc/reference/uc-election-feb2017.html>.
+
+
+
+As a reminder, please see the community code of conduct (
+http://www.openstack.org/legal/community-code-of-conduct/)
+
+
+
+Please let me, or anyone from the UC know if you have any questions,
+comments or concerns.
+
+
+
+Thank you,
+
+
+
+OpenStack User Committee
+
+Shilla, Edgar, Jonathan
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170126/55b14b0f/attachment.html>
+
+From clbpdx09 at gmail.com  Tue Jan 31 15:47:18 2017
+From: clbpdx09 at gmail.com (clbpdx09 at gmail.com)
+Date: Tue, 31 Jan 2017 15:47:18 +0000
+Subject: [Women-of-openstack] Canceled Event: [OpenStack]Women of Openstack
+ Team Meeting Invite @ Every 4 weeks from 12pm to 1pm on Monday (PDT)
+ (women-of-openstack@lists.openstack.org)
+Message-ID: <001a11406f3ecbbb5c054765d884@google.com>
+
+This event has been canceled and removed from your calendar.
+
+Title: [OpenStack]Women of Openstack Team Meeting Invite
+This is invitation is for the bi-weekly US-friendly meeting time for the  
+Women of OpenStack. This meeting will occur every 4 weeks. The alternating  
+meeting time is at 0200 UT on Tuesdays.
+When: Every 4 weeks from 12pm to 1pm on Monday Pacific Time
+Where: #openstack-meeting
+Calendar: women-of-openstack at lists.openstack.org
+Who:
+     * Carol Barrett - organizer
+     * women-of-openstack at lists.openstack.org
+
+
+Invitation from Google Calendar: https://www.google.com/calendar/
+
+You are receiving this courtesy email at the account  
+women-of-openstack at lists.openstack.org because you are an attendee of this  
+event.
+
+To stop receiving future updates for this event, decline this event.  
+Alternatively you can sign up for a Google account at  
+https://www.google.com/calendar/ and control your notification settings for  
+your entire calendar.
+
+Forwarding this invitation could allow any recipient to modify your RSVP  
+response. Learn more at  
+https://support.google.com/calendar/answer/37135#forwarding
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170131/a984a2ef/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 1460 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170131/a984a2ef/attachment.ics>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: invite.ics
+Type: application/ics
+Size: 1507 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170131/a984a2ef/attachment.bin>
+

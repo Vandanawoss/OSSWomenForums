@@ -1,0 +1,110 @@
+From lisiane at kdemail.net  Wed Mar  3 21:11:41 2004
+From: lisiane at kdemail.net (Lisiane Sztoltz Teixeira)
+Date: Wed Mar  3 21:33:19 2004
+Subject: [Kde-women] Site translation - status
+Message-ID: <200403031711.41682.lisiane@kdemail.net>
+
+Hi girls!
+
+Just refreshing ;)
+
+1 - About PO generation: I sent a e-mail to Chris, but he didn't 
+answered yet .... Anybody know more about this? Do we have to wait for 
+his scripts,  or try another solution ...?
+
+2 - how do we switch to another language on the webpages - this is made 
+by Apache web server - there is a directive that receive the user 
+browser language, and then show the right file (index.php-en, 
+index.php-pt-br, index.php-ru and so on ..). Debian site has this 
+configuration. So, I think this is not a problem, or is a problem for 
+later :)
+
+3 -  how do we advise translators of an update - no problems. It's a 
+script that can send a e-mail to our list, warning about new entries to 
+translate (that's it, right?)
+
+So, the main problem is number 1.  Any suggestions?
+
+Cheers
+
+Lisiane
+
+-- 
+Lisiane Sztoltz Teixeira
+lisiane@kdemail.net
+Brazilian Portuguese Team
+From annemarie.mahfouf at free.fr  Wed Mar  3 23:10:17 2004
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Wed Mar  3 23:12:44 2004
+Subject: [Kde-women] Site translation - status
+In-Reply-To: <200403031711.41682.lisiane@kdemail.net>
+References: <200403031711.41682.lisiane@kdemail.net>
+Message-ID: <200403031710.18244.annemarie.mahfouf@free.fr>
+
+On March 3, 2004 03:11 pm, Lisiane Sztoltz Teixeira wrote:
+> Hi girls!
+>
+> Just refreshing ;)
+>
+> 1 - About PO generation: I sent a e-mail to Chris, but he didn't
+> answered yet .... Anybody know more about this? Do we have to wait for
+> his scripts,  or try another solution ...?
+I was speaking with Frauke in #kde-women about your mail and Chris appeared in 
+#kde-devel at the same time so I pressed him again.
+To use gettext, we need it on the server and Chris says that 90% of web 
+servers have no gettext built in. So first we need to check about that.
+
+We gave Chris a 2 weeks deadline, telling him that if in 2 weeks there's no 
+script, we'll switch to another way (gettext). So let's see what happens.
+
+If in 2 weeks, nothing happens, I propose that we immediately start working on 
+another solution. 
+
+Cheers,
+
+annma
+
+From jegvos at students.cs.uu.nl  Mon Mar 22 12:25:26 2004
+From: jegvos at students.cs.uu.nl (Josine Vos)
+Date: Mon Mar 22 11:24:36 2004
+Subject: [Kde-women] Researching the gender differences in participation
+ levels on the Internet
+Message-ID: <405ECD26.4000803@students.cs.uu.nl>
+
+Hi,
+
+I'm a student at the university of Utrecht, Holland. At this moment I am 
+working on a research about the differences in participation levels on 
+the Internet between men and women./ / The views on this subject differ 
+a lot from each other; it varies from extreme positive feelings to 
+extreme negative feelings. At one hand they consider new technologies as 
+a liberation of the "oppressed" women, but there are also individuals 
+who seem to have created a very negative picture on the differences in 
+participation levels on the Internet between men and women. It appears 
+that women still share the opinion that they are treated by men as being 
+inferior to them and not capable of using the computer, let alone the 
+Internet.
+
+I'm researching the different positions that people take in the debate 
+regarding the exacerbation of the differences in participation levels 
+between men and women on the Internet and in what way these differences 
+are being represented in the different parties.
+
+The reason that I contact your community about this is that I would like 
+to hear from you how you feel about this matter. I would be very pleased 
+if you could provide answers to these questions:
+
+1. Why did you choose to create a community explicitly for women, and 
+not just join the 'whole bunch'?
+2. Are there, regarding the KDE project, typical men's jobs and typical 
+women's jobs? And if so, why this division?
+3. To what extend do you feel excluded from general Internet users 
+public, which is sometimes called to be mainly masculine? Or do you feel 
+this to be a biased point of view?
+4. Can you provide me with other useful information or personal opinions 
+that might be of importance in my research?
+
+Thank you very much!
+
+Greetings,
+Josine

@@ -1,0 +1,91 @@
+From yrazes@gmail.com  Thu May 23 18:01:51 2013
+Return-Path: <yrazes@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id F2E3A76948;
+	Thu, 23 May 2013 18:01:50 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id SpEl6tnIka5D; Thu, 23 May 2013 18:01:46 +0000 (UTC)
+Received: from mail-bk0-f50.google.com (mail-bk0-f50.google.com
+	[209.85.214.50])
+	by restaurant.gnome.org (Postfix) with ESMTP id 86BAD7694C;
+	Thu, 23 May 2013 18:01:37 +0000 (UTC)
+Received: by mail-bk0-f50.google.com with SMTP id ik8so1061002bkc.9
+	for <multiple recipients>; Thu, 23 May 2013 11:01:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=EsV4qNe8nxNimVIbwXel51DWv1AOb7E0xY5O4Eff+HM=;
+	b=fNsN/Cs5oTh3F9SZQbmdDgYRymh+NmrZhprlyFjl95wFggkrb0FOcntcTgc9zq54hD
+	yV7g7fIIzATDjxMokk8sXbKihJOJKxFq+5ViTA+wg0WDREIeOktnVu8JE3PFa8kJz+Wg
+	7ZbMiZNuoktdTsLrA5+ql4olIVhKHhTwCmHgVw+2F384+GE6ABNbRRZFhxXsR3kO/ByV
+	UsJqP6lpPidi3PjqH+K6GpRR9+hNnqetmcuTZupil7wS/D9Hs2PmDxIr/DgbLOE79f5N
+	W4mMwKIBildhfEzQG46w16dqy3ZmPpFm0dadkJqh9CUbr41etoJUyzyso0VRn4t+D9OK
+	i/iw==
+MIME-Version: 1.0
+X-Received: by 10.205.78.70 with SMTP id zl6mr7623713bkb.11.1369332095220;
+	Thu, 23 May 2013 11:01:35 -0700 (PDT)
+Received: by 10.205.138.14 with HTTP; Thu, 23 May 2013 11:01:35 -0700 (PDT)
+Date: Thu, 23 May 2013 13:01:35 -0500
+Message-ID: <CA+LmycmATN6U02=n9_d22KRr-K1D7CBzt6FPKZMoniiJ7-ts3w@mail.gmail.com>
+From: yrazes <yrazes@gmail.com>
+To: gedit-list-request@gnome.org, 
+	"foundation-list@gnome.org" <foundation-list@gnome.org>,
+	peru <peru@proyectofedora.org>, opw-list <opw-list@gnome.org>,
+	gnome-women-list <gnome-women-list@gnome.org>, 
+	"python-hackers-list-request@gnome.org"
+	<python-hackers-list-request@gnome.org>
+Content-Type: multipart/alternative; boundary=f46d041558881dc06e04dd6679c5
+X-Mailman-Approved-At: Fri, 07 Jun 2013 16:42:29 +0000
+Subject: [gnome-women] SMTP concurrent session
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 23 May 2013 18:01:51 -0000
+
+--f46d041558881dc06e04dd6679c5
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello everyone,
+
+Can anyone help me with this?
+I want to know about the default value of current sessions in SMTP
+I have checked the sendmail.cf file and the parameter maxmessages is not
+set.
+I need to know the set value by default.
+
+Regards,
+Julita
+
+--f46d041558881dc06e04dd6679c5
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div><div><div>Hello everyone, <br><br></di=
+v>Can anyone help me with this?<br></div>I want to know about the default v=
+alue of current sessions in SMTP<br></div>I have checked the <a href=3D"htt=
+p://sendmail.cf">sendmail.cf</a> file and the parameter maxmessages is not =
+set.<br>
+</div>I need to know the set value by default.<br><br></div>Regards,<br></d=
+iv>Julita<br></div>
+
+--f46d041558881dc06e04dd6679c5--

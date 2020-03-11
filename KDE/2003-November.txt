@@ -1,0 +1,1059 @@
+From oster at kde.org  Sun Nov  2 15:26:17 2003
+From: oster at kde.org (Frauke Oster)
+Date: Sun Nov  2 15:26:25 2003
+Subject: [Kde-women] KDE women meeting
+In-Reply-To: <200310301411.47627.eva@kde.org>
+References: <200310301411.47627.eva@kde.org>
+Message-ID: <3FA51409.6030109@kde.org>
+
+Hi!
+Sorry for the late answer...
+
+
+> There are also plans to have another KDE conference next year, either late 
+> August and somewhere in central Europe (Netherlands, France, Germany) or in 
+> late September south Europe (Spain),  but it's not decided yet.
+
+I heard about this plans and I am glad to hear that it should be located
+in central or south europe. I think a lot of developers can meet there
+next year. Maybe more then this year. I hope that it will be a great
+conference and that there will be made a lot of improvements.
+
+  What about
+> joining the efforts here? 
+> 
+> As this year we again want to have a conference part first and a one week 
+> hacking session afterwards. I don't think it would be any problem to get a 
+> seperate room for kde-women activities. Financial as well as human ressources 
+> are very limited in KDE e.V. and I really suggest to join the meetings. 
+> 
+> Tell me, what you think about it.
+
+I personally think that we should have a seperate meeting and I will
+give some reasons for my opinion. I had a long discussion about the
+suggestion to merge the two meetings and I see positive and negative
+aspects as well. In the end I made up my mind that it would not be a
+good solution for kde-women.
+
+The kde-women meeting should have is own program and I don't think that
+this would be realisable at the Conference because there will already
+be a whole conference program and you won't be able to participate at
+both programs. I don't think that it would be possible to get both
+programs in one schedule. The kde-women meeting should get talks,
+workshops and irc meetings as well. I think there will be a lot more
+than this, but that has to be worked out later. This all should happen
+in a special atmosphere. All women should get the chance to get known to
+each other and to have a good time together and become friends. And I am
+not sure, if that is possible in an atmosphere with hundred male
+developers around. That is a big crowd and I don't think that the
+kde-women meeting is meant like this.
+
+I know that a lot of people fear that kde-women would become seperated
+from KDE, but I don't think that a kde-women only meeting means that
+this will happen. We want to invite every woman to join us and we hope 
+that you all get involved with KDE. Contributors are needed in all 
+sections and the kde-women meeting isn't only a meeting for women who 
+already work on KDE. The goal of KDE women is still to help each other 
+and we are all very glad when new women join us and we want to help them 
+especially with such a meeting to get involved in KDE.
+
+I have another reason why I think that merging the meetings isn't a good
+idea. The conference includes a one-week hacking session. The
+kde-women meeting should be for every woman who wants to contribute to
+KDE and is interested in KDE. But that doesn't mean that all of us are
+able to code. Some may want to learn coding, therefore we plan a little
+workshop to find a starting point with C++/KDE/QT. Others are more
+interested in translation or webdesign or writing What's This and so on. 
+I hope that a lot of new women will join kde-women and start to
+contribute, but they haven't to be a developer and I don't know why we
+should have a whole week hacking session. I think we should use the time 
+of the kde-women meeting without saying we have a one-week hacking 
+session and do what we are planning.
+
+I know that the financial part isn't easy and that the KDE e.V. has a 
+financial limit. Nevertheless I would prefer a seperated meeting for 
+kde-women, because it should be a kde-women meeting and not only a room 
+for women activities at the conference. I think we should try to find a 
+sponsor and organize the meeting seperately from the conference.
+
+I would be glad to hear any comment and any ideas for a meeting program, 
+a location or a sponsor. And I still like to get mails who is interested 
+in a meeting.
+
+Cheers,
+Frauke
+
+-- 
+Frauke Oster
+KDE/Kivio developer
+A KDE Woman
+oster@kde.org
+
+
+From eva at kde.org  Sun Nov  2 17:02:00 2003
+From: eva at kde.org (Eva Brucherseifer)
+Date: Sun Nov  2 16:02:05 2003
+Subject: [Kde-women] KDE women meeting
+In-Reply-To: <3FA51409.6030109@kde.org>
+References: <200310301411.47627.eva@kde.org> <3FA51409.6030109@kde.org>
+Message-ID: <200311021702.04086.eva@kde.org>
+
+Hi,
+
+> The kde-women meeting should have is own program and I don't think that
+> this would be realisable at the Conference because there will already
+> be a whole conference program and you won't be able to participate at
+> both programs. I don't think that it would be possible to get both
+> programs in one schedule. The kde-women meeting should get talks,
+> workshops and irc meetings as well. I think there will be a lot more
+> than this, but that has to be worked out later. This all should happen
+> in a special atmosphere. All women should get the chance to get known to
+> each other and to have a good time together and become friends. And I am
+> not sure, if that is possible in an atmosphere with hundred male
+> developers around. That is a big crowd and I don't think that the
+> kde-women meeting is meant like this.
+
+Well, I wouldn't place the kdewomen-workshops in parallel to the conference, 
+but rather make it take place in parallel to the other workshops. During the 
+hackfest of the last conferences several developer and non-developer groups 
+met for workshops. E.g. there were workshops for usability, koffice, kdepim, 
+etc.
+BTW, during the conference we also had several non-developer presentations and 
+- male developers don't bite (at least they never did that to me ;-).
+
+>
+> I know that a lot of people fear that kde-women would become seperated
+> from KDE, but I don't think that a kde-women only meeting means that
+> this will happen. We want to invite every woman to join us and we hope
+> that you all get involved with KDE. Contributors are needed in all
+> sections and the kde-women meeting isn't only a meeting for women who
+> already work on KDE. The goal of KDE women is still to help each other
+> and we are all very glad when new women join us and we want to help them
+> especially with such a meeting to get involved in KDE.
+>
+> I have another reason why I think that merging the meetings isn't a good
+> idea. The conference includes a one-week hacking session. The
+> kde-women meeting should be for every woman who wants to contribute to
+> KDE and is interested in KDE. But that doesn't mean that all of us are
+> able to code. Some may want to learn coding, therefore we plan a little
+> workshop to find a starting point with C++/KDE/QT. Others are more
+> interested in translation or webdesign or writing What's This and so on.
+> I hope that a lot of new women will join kde-women and start to
+> contribute, but they haven't to be a developer and I don't know why we
+> should have a whole week hacking session. I think we should use the time
+> of the kde-women meeting without saying we have a one-week hacking
+> session and do what we are planning.
+
+Well, as I wrote above, the hackfest istn't necessaryly a week where freaky 
+male coders only sit in front of their laptops. Also nobody is forced to stay 
+all the time. Most of the people arrived for the conference and each day 
+during the hackfest some people left. The hackfest is basically a time 
+without any fixed program (except meal times and some tourist program) and 
+with computers and workshop rooms available. Everyone is free to do whatever 
+he/she prefers. 
+
+>
+> I know that the financial part isn't easy and that the KDE e.V. has a
+> financial limit. Nevertheless I would prefer a seperated meeting for
+> kde-women, because it should be a kde-women meeting and not only a room
+> for women activities at the conference. I think we should try to find a
+> sponsor and organize the meeting seperately from the conference.
+
+Once you have a concept for the conference you can approach the KDE e.V. board 
+at kde-ev-board@kde.org or better the membership list 
+kde-ev-membership@kde.org for financial support. I cannot tell you how the 
+KDE e.V. will decide, but my guess is, that we can support the conference 
+itself only little. Travel costs will probably granted once - either for the 
+KDE conference or the KDE-Women conference. But again - this will need to be 
+discussed then.
+
+>
+> I would be glad to hear any comment and any ideas for a meeting program,
+> a location or a sponsor. And I still like to get mails who is interested
+> in a meeting.
+
+Well, I am interested, but very likely I won't be able to take part in a 
+seperate meeting. Time is very limited for me :-(
+
+Greetings,
+eva
+
+>
+> Cheers,
+> Frauke
+
+From trish at trish.de  Sun Nov  2 16:10:07 2003
+From: trish at trish.de (Patricia Jung)
+Date: Sun Nov  2 16:02:57 2003
+Subject: [Kde-women] KDE women meeting
+In-Reply-To: <3FA51409.6030109@kde.org>
+References: <200310301411.47627.eva@kde.org> <3FA51409.6030109@kde.org>
+Message-ID: <20031102151007.GB6781@lillagroenn.trish.de>
+
+On Sun, Nov 02, 2003 at 03:26:17PM +0100, Frauke Oster wrote:
+> I personally think that we should have a seperate meeting and I will
+> give some reasons for my opinion. I had a long discussion about the
+Full ACK.
+
+    Patricia
+From oster at kde.org  Sun Nov  2 16:35:25 2003
+From: oster at kde.org (Frauke Oster)
+Date: Sun Nov  2 16:35:45 2003
+Subject: [Kde-women] KDE women meeting
+In-Reply-To: <200311021702.04086.eva@kde.org>
+References: <200310301411.47627.eva@kde.org> <3FA51409.6030109@kde.org>
+	<200311021702.04086.eva@kde.org>
+Message-ID: <3FA5243D.2090004@kde.org>
+
+Hi!
+
+>  
+>
+>Well, I wouldn't place the kdewomen-workshops in parallel to the conference, 
+>but rather make it take place in parallel to the other workshops. During the 
+>hackfest of the last conferences several developer and non-developer groups 
+>met for workshops. E.g. there were workshops for usability, koffice, kdepim, 
+>etc.
+>  
+>
+Sure, but  I think there are a few women who want to participate at both 
+events and want to do workshops from the conference
+and workshops from the kde-women meeting.
+
+>BTW, during the conference we also had several non-developer presentations and 
+>- male developers don't bite (at least they never did that to me ;-).
+>
+>  
+>
+That's true , they don't bite. I never would say that. Because I am 
+engaged with one,so I think I know that quite
+good. But I don't  know why to make a kde-women meeting at the same time 
+and location as the conference, because a kde-women
+meeting isn't the same as the conference. But I think we could also do a 
+workshop or talks at the conference too, if there is interest (also
+from the site of male developers. I can say that the women I talked to 
+about the merging, told me that they would prefer to have a
+seperated meeting. I don't know if all think like this, I just can say I 
+do. And that doesn't mean that I wouldn't want to participate at the 
+conference.
+
+
+
+>  Once you have a concept for the conference you can approach the KDE 
+> e.V. board
+>
+>at kde-ev-board@kde.org or better the membership list 
+>kde-ev-membership@kde.org for financial support. I cannot tell you how the 
+>KDE e.V. will decide, but my guess is, that we can support the conference 
+>itself only little. Travel costs will probably granted once - either for the 
+>KDE conference or the KDE-Women conference. But again - this will need to be 
+>discussed then.
+>  
+>
+Ok, I will mail to the kde-ev mailinglist when the concept is up.
+
+Cheers,
+Frauke
+
+From rustti at worldnet.att.net  Mon Nov  3 16:24:28 2003
+From: rustti at worldnet.att.net (Dorothy Trubacek)
+Date: Mon Nov  3 16:25:39 2003
+Subject: [Kde-women] MEMBERSHIP
+Message-ID: <004d01c3a21e$ac8323e0$fe755b0c@oemcomputer>
+
+PLEASE^^CANCEL^NOT^INTERESTED^THOT^IT^WAS^SOMETHING^ELSE^THANKS^dOROTHY
+From aleiber at web.de  Sat Nov  8 19:52:39 2003
+From: aleiber at web.de (Anke Leiber)
+Date: Sat Nov  8 23:25:45 2003
+Subject: [Kde-women] KDE women meeting
+Message-ID: <200311081852.hA8IqdQ07242@mailgate5.cinetic.de>
+
+Hi! 
+After reading all these mails I would say it's a very good idea to have a kde women 
+meeting. I'm from Germany and I certainly would try to participate. I think it'll be 
+very hard to manage that everyone can come but I hope it will not be like a one time 
+only meeting so that everyone who wants to gets a chance to come sometime.  
+For me it could get a little complicated to participate next summer because I can't 
+just skip school and in the holidays I'll be somewhere in the wilderness of Canada not 
+even having any internet connection for some weeks. But I'll certainly try to arrange 
+something so that it may work out. 
+Greetings, 
+Anke 
+ 
+ 
+ 
+ 
+ 
+For discussion of the KDE Women project <kde-women@kde.org> schrieb am 08.11.03 
+11:53:37: 
+ 
+ 
+Hi! 
+ 
+>   
+> 
+>Well, I wouldn't place the kdewomen-workshops in parallel to the conference,  
+>but rather make it take place in parallel to the other workshops. During the  
+>hackfest of the last conferences several developer and non-developer groups  
+>met for workshops. E.g. there were workshops for usability, koffice, kdepim,  
+>etc. 
+>   
+> 
+Sure, but  I think there are a few women who want to participate at both  
+events and want to do workshops from the conference 
+and workshops from the kde-women meeting. 
+ 
+>BTW, during the conference we also had several non-developer presentations and  
+>- male developers don't bite (at least they never did that to me ;-). 
+> 
+>   
+> 
+That's true , they don't bite. I never would say that. Because I am  
+engaged with one,so I think I know that quite 
+good. But I don't  know why to make a kde-women meeting at the same time  
+and location as the conference, because a kde-women 
+meeting isn't the same as the conference. But I think we could also do a  
+workshop or talks at the conference too, if there is interest (also 
+from the site of male developers. I can say that the women I talked to  
+about the merging, told me that they would prefer to have a 
+seperated meeting. I don't know if all think like this, I just can say I  
+do. And that doesn't mean that I wouldn't want to participate at the  
+conference. 
+ 
+ 
+ 
+>  Once you have a concept for the conference you can approach the KDE  
+> e.V. board 
+> 
+>at kde-ev-board@kde.org or better the membership list  
+>kde-ev-membership@kde.org for financial support. I cannot tell you how the  
+>KDE e.V. will decide, but my guess is, that we can support the conference  
+>itself only little. Travel costs will probably granted once - either for the  
+>KDE conference or the KDE-Women conference. But again - this will need to be  
+>discussed then. 
+>   
+> 
+Ok, I will mail to the kde-ev mailinglist when the concept is up. 
+ 
+Cheers, 
+Frauke 
+ 
+_______________________________________________ 
+kde-women mailing list 
+kde-women@kde.org 
+https://mail.kde.org/mailman/listinfo/kde-women 
+. 
+ 
+______________________________________________________________________________
+WEB.DE FreeMail wird 5 Jahre jung! Feiern Sie mit uns und
+nutzen Sie die neuen Funktionen http://f.web.de/features/?mc=021130
+
+From oster at kde.org  Sat Nov 15 16:54:17 2003
+From: oster at kde.org (Frauke Oster)
+Date: Sat Nov 15 16:54:20 2003
+Subject: [Kde-women] Translation of the Website
+Message-ID: <3FB64C29.9070501@kde.org>
+
+Hi all,
+
+unfortunately I have to say that the start of the translation of our 
+website is still not visible. We have to wait some more time...
+The problem is that we need a translation file, called .pot file and to 
+create such a file for a website is different from creating one for an 
+application. And we are still waiting to get the script for the creation 
+of such files get ready. Unfortunately has the developer who is working 
+on this script not much time, because he is working hard for uni.
+
+I hope he'll find soon time to get the file ready, so that the 
+translation can start. Until then I hope you all can understand him and 
+will wait for the file, because we will need all your help to get the 
+website translated.
+
+Cheers,
+Frauke
+From aleiber at web.de  Mon Nov 17 13:40:37 2003
+From: aleiber at web.de (Anke Leiber)
+Date: Mon Nov 17 14:37:19 2003
+Subject: [Kde-women] Translation of the Website
+Message-ID: <200311171240.hAHCebQ21680@mailgate5.cinetic.de>
+
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20031117/3f0586e3/attachment.html
+From katyi at web.de  Tue Nov 25 20:56:28 2003
+From: katyi at web.de (Katrin Wolf)
+Date: Tue Nov 25 20:56:35 2003
+Subject: [Kde-women] Introductary mail
+Message-ID: <3FC3B3EC.3090800@web.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi all,
+
+so this is my first mail on the KDE-women-list.
+Ok, some facts about me:
+I'm 24 years old, I study computer and education science at the
+Otto-von-Guericke-university of Magdeburg (eastern Germany) and I will
+finish my studies in Spring 2005. I hope to find a job in software
+development for educational software or eLearning-stuff.
+I'm kind of a geek girl, spending more time in front of my computer than
+being outside and catch some fresh air ;-)
+My interests are programming (esp. Java, but also some PHP) und Linux
+(using Debian with kernel 2.4.22 and of course KDE 3.1).
+Besides computers I also like cooking, music (I have a weird taste,
+listening to metal, punk, alternative but also blues n swing, r&b...),
+inlineskating annd dry red wine.
+Well, as I don't know what to write else I will stop here - feel free to
+ask me if there are some things you like to know.
+
+Cya!
+Katrin
+- --
+http://www.cs.uni-magdeburg.de/~kwolf
+GnuPG Key-ID: 48507D0F
+ICQ #72094493
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/w7PsWHO/+khQfQ8RAmplAJ9AO4VhPZEa6E2KITTg3okK6I6HfACgshF3
+9h3ssWPK+hICIUrRAFLeJX4=
+=0rSp
+-----END PGP SIGNATURE-----
+
+From hamster at hamsternet.org  Wed Nov 26 00:38:03 2003
+From: hamster at hamsternet.org (Hamster)
+Date: Wed Nov 26 00:35:16 2003
+Subject: [Kde-women]Women.KDE.org
+In-Reply-To: <200308012114.52803.frauke@frsv.de>
+References: <200308012114.52803.frauke@frsv.de>
+Message-ID: <20031126003803.0df1e3bd.hamster@hamsternet.org>
+
+On Fri, 1 Aug 2003 21:14:46 +0200
+Frauke Oster <frauke@frsv.de> wrote:
+
+Hello!
+
+I'm replying to this a bit late (ie several months after it was sent out),
+apologies for the delay.
+
+> There isn't much traffic on the
+> mailinglist for women and in the irc channel either (at the moment I am
+> the only woman in the channel).
+
+You mentioned at the end of the email what the channel name is, but what
+server is that hosted on?
+
+I'd like to get involved with kde-women, but would like to do some lurking
+first :)
+
+Hamster
+
+From oster at kde.org  Wed Nov 26 19:02:04 2003
+From: oster at kde.org (Frauke Oster)
+Date: Wed Nov 26 19:03:05 2003
+Subject: [Kde-women] Introductary mail
+In-Reply-To: <3FC3B3EC.3090800@web.de>
+References: <3FC3B3EC.3090800@web.de>
+Message-ID: <200311261902.04205.oster@kde.org>
+
+Hi Katrin,
+
+welcome to KDE Women!! 
+Maybe you are interested in helping developing our website women.kde.org that 
+is written in PHP. I don't know if there are Java Bindings in KDE, but maybe 
+you like to code on some edu applications. 
+Do you already know CVS? 
+It would be very cool to work with you and I think a lot of people would be 
+glad to see a new woman in KDE with developing skills.
+
+Hope you'll become an active KDE Woman!!
+
+Cheers and have a lot of fun with KDE!
+
+Frauke
+
+On Tuesday 25 November 2003 20:56, Katrin Wolf wrote:
+> Hi all,
+>
+> so this is my first mail on the KDE-women-list.
+> Ok, some facts about me:
+> I'm 24 years old, I study computer and education science at the
+> Otto-von-Guericke-university of Magdeburg (eastern Germany) and I will
+> finish my studies in Spring 2005. I hope to find a job in software
+> development for educational software or eLearning-stuff.
+> I'm kind of a geek girl, spending more time in front of my computer than
+> being outside and catch some fresh air ;-)
+> My interests are programming (esp. Java, but also some PHP) und Linux
+> (using Debian with kernel 2.4.22 and of course KDE 3.1).
+> Besides computers I also like cooking, music (I have a weird taste,
+> listening to metal, punk, alternative but also blues n swing, r&b...),
+> inlineskating annd dry red wine.
+> Well, as I don't know what to write else I will stop here - feel free to
+> ask me if there are some things you like to know.
+>
+> Cya!
+> Katrin
+From oster at kde.org  Wed Nov 26 19:04:21 2003
+From: oster at kde.org (Frauke Oster)
+Date: Wed Nov 26 19:05:23 2003
+Subject: [Kde-women]Women.KDE.org
+In-Reply-To: <20031126003803.0df1e3bd.hamster@hamsternet.org>
+References: <200308012114.52803.frauke@frsv.de>
+	<20031126003803.0df1e3bd.hamster@hamsternet.org>
+Message-ID: <200311261904.21571.oster@kde.org>
+
+Hi!
+
+> You mentioned at the end of the email what the channel name is, but what
+> server is that hosted on?
+
+The channel #kde-women is hosted on irc.freenode.net or you can use the kde 
+server irc.kde.org. 
+
+>
+> I'd like to get involved with kde-women, but would like to do some lurking
+> first :)
+
+Have fun in the chan! I hope more women join the channel!!
+
+Cheers,
+Frauke
+-- 
+Frauke Oster
+KDE/Kivio developer
+A KDE Woman
+oster@kde.org
+From oster at kde.org  Wed Nov 26 19:40:56 2003
+From: oster at kde.org (Frauke Oster)
+Date: Wed Nov 26 19:42:10 2003
+Subject: [Kde-women] The future of KDE Women - a personal view of things
+Message-ID: <200311261940.56307.oster@kde.org>
+
+Hi all,
+
+today I want to say some or some more words about the current situation and 
+the future of KDE Women. As I started to port the website to the KDE style 
+some months ago, I hoped that it would help to see some more women actively 
+involved in KDE. After my long free time period in the summer Uni started for 
+me and I couldn't go on working so much on KDE Women as I've done all the 
+summer. I worked together with Anne-Marie, who is involved in KDE Women since 
+it was founded. We both planned a lot and collected our ideas for KDE Women. 
+I will explain our ideas in the next few sentences.
+
+First of all the idea of translating the website. As I started to port the 
+website I asked Chris how to start and he told me to read his tutorial about 
+programming KDE websites. There I found some notes about i18n tags for the 
+translation with the help of .pot files. I questioned Chris a lot about it 
+and learned that for the first time it is possible to translate the websites 
+in the way the KDE applications are translated. So Anne-Marie and I started 
+to include this i18n tags in the code of women.kde.org. Our website is the 
+first one of the KDE websites that uses this new method for translation. 
+So the question that appears in your mind possibly is:
+Why isn't there any translated stuff online?
+A very good question with a simple answer:
+the translating couldn't start yet, because we haven't got a translation file 
+(.pot file) yet. We, as the first people implementing this translation stuff, 
+only can wait until this file is ready.
+Then I hope that a lot of women will start with the translation of our 
+website. And maybe other websites will be transalted too.
+
+A second idea was to create a database to handle a collection of tasks that 
+need to be done. Currently I am working on this database and hopefully I will 
+soon be able to write the webinterface for it.
+The database will work in two ways. You can search through the tasks and 
+assign to a task, that you find interesting. And the other way round you can 
+add tasks that need to be done. 
+Anne-Marie is currently busy with listing missing What's This help. The task 
+of writing What's This will be found for example in the database. I would 
+like to stress this task because missing What's This help is a leck of 
+usability. One of our male supporters wrote a tutorial about how to write 
+What's This help, that is linked on our website. I hope that we can improve 
+usability by adding this little help texts.
+You'll find other tasks as well in the database like little coding tasks, 
+artwork, translation, writing or everything else that is needed. The tasks 
+will be categorised from easy to difficult, so you can find the right level 
+for yourself. This database will also hopefully improve the work between all 
+people, who are involved in KDE.
+
+At last I would like to say some words about the big idea of having a KDE 
+Women meeting. I asked on this mailinglist if there is interest in meeting 
+each other. Everyone who is interested should wrote a personal mail to me. I 
+counted the answers I got yet and at the moment there are about ten women, 
+who would like to have a meeting. If there are other women, who maybe just 
+subscribed to the list or didn't answer yet, but would like to have a 
+meeting, please don't be shy and send a mail directly to me with your name 
+and the country you come from. We plan to have a meeting in the next summer. 
+An idea of a program for the meeting you'll find in the CVS module 
+kdepromo/women. More about a meeting will be soon to say.
+
+That are the biggest ideas we want to realise at the moment, our future plans. 
+I think that there will be more ideas for KDE Women and I hope that all ideas 
+be named.
+
+The last few weeks showed that there are lot of women, who would like to 
+translate the website or would like to contribute in other ways. There were 
+some subscribtions to the mailinglist and I am glad to see that Anne-Marie 
+and I aren't the only women, who are interested in KDE Women.
+
+Now I would like to ask you all to become an active member of the community! 
+We need every helpful hand, because we have big and complex tasks for the 
+future that we want to realise.
+
+The main reason why I write this mail is that I want to prevent that KDE Women 
+get asleep again. I think that the KDE Women project is very important for 
+every woman, who is searching for a starting point in KDE. But it isn't only 
+important for the whole KDE community. For over two years nothing happend in 
+the KDE Women project. As I became involved in KDE there wasn't any activity 
+on the mailinglist, the irc channel was completly deserted and silent and the 
+website hasn't seen an update for a long time. I made the experience that it 
+can be very hard to become involved in the KDE project without having company 
+from other women. That is the reason why  I want to help women to find a 
+starting point and company. This is also the reason, why I don't want to see 
+the project asleep again. So I want to ask every women to start contributing 
+in KDE Women to find your starting point and to help others to find theirs.
+
+Two months ago Uni started for me and I have to work hard for my courses. I 
+learn a lot of interesting and useful stuff that helps me to improve my 
+coding skills and a lot of connected subjects. The subject Computer Science 
+that I chose to study is one of the hardest and most laborious subjects on my 
+uni. That shorts my time substancial  so that I rarely find time to work on 
+KDE Women. I already know that in the next two semesters I won't have any 
+time at all, so that I won't be able to work on KDE Women at all. But I would 
+like to be sure that things are going on, so I just can ask everyone of you 
+to become active and help that KDE Women keeps alove.
+
+Cheers,
+Frauke
+
+-- 
+Frauke Oster
+KDE/Kivio developer
+A KDE Woman
+oster@kde.org
+From katyi at web.de  Thu Nov 27 08:08:59 2003
+From: katyi at web.de (Katrin Wolf)
+Date: Thu Nov 27 08:09:03 2003
+Subject: [Kde-women] Introductary mail
+In-Reply-To: <200311261902.04205.oster@kde.org>
+References: <3FC3B3EC.3090800@web.de> <200311261902.04205.oster@kde.org>
+Message-ID: <3FC5A30B.2090903@web.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Frauke Oster schrieb:
+| Hi Katrin,
+|
+| welcome to KDE Women!!
+
+Thanks.
+
+| Maybe you are interested in helping developing our website
+women.kde.org that
+| is written in PHP. I don't know if there are Java Bindings in KDE, but
+maybe
+| you like to code on some edu applications.
+
+Yeah of course I'd like to be involved into some action around KDE
+women. As you have said in another posting, Uni is very time intensive
+and that's the same with me - i have one year to go until I start to
+write my final master's thesis (or however you would translate
+"Magisterarbeit"). Besides I'm a tutor for younger students and work on
+a webbased knowledge base. But I will give my best to work on some stuff
+for KDE women. It's a great feeling to be part of a (still) small
+project that might be grow soon ;-)
+Well I always wanted to learn C++ and Qt (I did some work for my studies
+with Qt and OpenGL, but these were only small things) - maybe that's a
+chance (and kind of a force) to finally do it.
+Actually the Koala-project provides bindings between KDE and Qt on the
+one hand and Java on the other hand. But I haven't worked with it yet,
+only read about it.
+
+| Do you already know CVS?
+
+Yeah - well I know what it is but I never worked with it - but I guess I
+can step into it.
+
+| It would be very cool to work with you and I think a lot of people
+would be
+| glad to see a new woman in KDE with developing skills.
+
+Thanks.
+|
+| Hope you'll become an active KDE Woman!!
+
+Hope that too.
+
+Enjoy!
+Katrin
+
+- --
+http://www.cs.uni-magdeburg.de/~kwolf
+GnuPG Key-ID: 48507D0F
+ICQ #72094493
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/xaMLWHO/+khQfQ8RAhmwAJ9akbSqsqeQtKeyVQW1HpVivHvK8QCeMmqV
+dV4ZKjilIG3cQPHDBNkt+go=
+=uaT4
+-----END PGP SIGNATURE-----
+
+From katyi at web.de  Thu Nov 27 08:24:05 2003
+From: katyi at web.de (Katrin Wolf)
+Date: Thu Nov 27 08:24:14 2003
+Subject: [Kde-women] The future of KDE Women - a personal view of things
+In-Reply-To: <200311261940.56307.oster@kde.org>
+References: <200311261940.56307.oster@kde.org>
+Message-ID: <3FC5A695.5020209@web.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Frauke Oster schrieb:
+
+
+| At last I would like to say some words about the big idea of having a KDE
+| Women meeting. I asked on this mailinglist if there is interest in
+meeting
+| each other. Everyone who is interested should wrote a personal mail to
+me. I
+| counted the answers I got yet and at the moment there are about ten
+women,
+| who would like to have a meeting. If there are other women, who maybe
+just
+| subscribed to the list or didn't answer yet, but would like to have a
+| meeting, please don't be shy and send a mail directly to me with your
+name
+| and the country you come from. We plan to have a meeting in the next
+summer.
+| An idea of a program for the meeting you'll find in the CVS module
+| kdepromo/women. More about a meeting will be soon to say.
+|
+
+I would be very interested in a meeting although I'm very new here :-)
+Where exactly can I find this CVS module with the program idea?!
+
+CU
+Katrin
+
+- --
+http://www.cs.uni-magdeburg.de/~kwolf
+GnuPG Key-ID: 48507D0F
+ICQ #72094493
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+Comment: Using GnuPG with Mozilla - http://enigmail.mozdev.org
+
+iD8DBQE/xaaVWHO/+khQfQ8RAs0GAJ47A0I7bWXPLa0xHzB1KoT0yq5QlACgjk3u
+LqVPHT67uH0EqumyX3t/wjw=
+=9+n8
+-----END PGP SIGNATURE-----
+
+From frauke at frsv.de  Thu Nov 27 12:20:02 2003
+From: frauke at frsv.de (frauke@frsv.de)
+Date: Thu Nov 27 12:25:58 2003
+Subject: [Kde-women] The future of KDE Women - a personal view of
+	things
+Message-ID: <27101276$10699316093fc5dc595245f0.58801477@config17.schlund.de>
+
+
+Hi!
+
+> 
+> I would be very interested in a meeting although I'm very new here :-)
+> Where exactly can I find this CVS module with the program idea?!
+
+You can use the Anonymous CVS from kde to check out the kdepromo module.
+There is a tutorial about using Anonymous CVS what may help you. See
+http://developer.kde.org/source/anoncvs.html 
+I started with that too. When you become more active in KDE and send
+some patches that will be commited from someone else, you can also ask
+the sysadmin for your own cvs account. But for a start anoncvs is really
+good. You'll find there the CVS Head ( one hour old version, I guess).
+So you can use the newest development version of KDE. In the CVS you can
+also have a look at the code of our website. Therefore you have to check
+out the following module www/areas/women .
+When you need more help just go ahead and ask :)
+
+Hope to see you on a KDE Women meeting :)
+ 
+Cheers,
+Frauke
+From eva at kde.org  Thu Nov 27 12:30:17 2003
+From: eva at kde.org (Eva Brucherseifer)
+Date: Thu Nov 27 12:29:59 2003
+Subject: [Kde-women] The future of KDE Women - a personal view of things
+In-Reply-To: <27101276$10699316093fc5dc595245f0.58801477@config17.schlund.de>
+References: <27101276$10699316093fc5dc595245f0.58801477@config17.schlund.de>
+Message-ID: <200311271230.17474.eva@kde.org>
+
+Hi :-)
+
+On Donnerstag, 27. November 2003 12:20, frauke@frsv.de wrote:
+> Hi!
+>
+> > I would be very interested in a meeting although I'm very new here :-)
+> > Where exactly can I find this CVS module with the program idea?!
+>
+> You can use the Anonymous CVS from kde to check out the kdepromo module.
+
+kdepromo is not accessible from anonymous CVS. It contains resources for KDE 
+people so you need at least a CVS account. E.g. people are developing their 
+slides for presentations there.
+
+Greetings,
+eva
+
+> There is a tutorial about using Anonymous CVS what may help you. See
+> http://developer.kde.org/source/anoncvs.html
+> I started with that too. When you become more active in KDE and send
+> some patches that will be commited from someone else, you can also ask
+> the sysadmin for your own cvs account. But for a start anoncvs is really
+> good. You'll find there the CVS Head ( one hour old version, I guess).
+> So you can use the newest development version of KDE. In the CVS you can
+> also have a look at the code of our website. Therefore you have to check
+> out the following module www/areas/women .
+> When you need more help just go ahead and ask :)
+>
+> Hope to see you on a KDE Women meeting :)
+>
+> Cheers,
+> Frauke
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+From apemaja at dei.unipd.it  Thu Nov 27 13:48:23 2003
+From: apemaja at dei.unipd.it (Pasquotti Maura 422339/IF)
+Date: Thu Nov 27 13:48:28 2003
+Subject: [Kde-women] Introductary mail
+In-Reply-To: <3FC3B3EC.3090800@web.de>
+Message-ID: <Pine.LNX.4.44.0311261450510.28003-100000@kri.dei.unipd.it>
+
+
+Hi all,
+I'm Maura and I'm 25 years old. I'm studying computer science (I'll become 
+an engineer at the end of my study) at Padua's university(north Italy) and I 
+hope to finish it before next summer.
+I've some experience in programming in c and c++ (and also java, but I 
+don't like it very much) and I'm a linux user (I've a gentoo distro with 
+kernel 2.6-test9  and KDE3.1.4 and I'm trying to find some 
+space in my hard-disk to install kdeCVS...) and I hope to be involved in 
+kde project...I don't have much time these days (I'm working for my 
+thesis) but I think I'll find some minutes to dedicate to it..:-)
+I'm also working in a research project at university concerning "robocup" 
+-> we build and program some robots to play soccer...it's a world-wide 
+project and it's an interesting AI application...( www.robocup.org for 
+more details)
+Other interest? I like cooking , listening music (all genre..) and having 
+fun :-)
+Maura
+
+-----------------------------------------------
+Maura Pasquotti
+-----------------------------------------------
+undergraduate student
+
+IASL - Intelligent Autonomous System Laboratory
+Via Ognisanti 72-74 Padova Ph. +39-049-827-7833
+
+http://www.dei.unipd.it/~robocup
+-----------------------------------------------
+
+
+From Flavia.Yuri at abril.com.br  Thu Nov 27 22:08:15 2003
+From: Flavia.Yuri at abril.com.br (Flavia Yuri)
+Date: Thu Nov 27 22:14:28 2003
+Subject: [Kde-women] interview
+Message-ID: <C94AA64DDD8DFD4C8A12FFEEC3831F0801ED93E6@EXNEA01.gabril.com.br>
+
+ 
+Hello, I?m journalist and I would like to interview someone of the KDE Women. Could you send an number phone or an e-mail of someone that I could interview? Thank you very much for your help.
+ 
+Fl?via Yuri 
+INFO Exame
+www.info.com.br
+(11) 3037-6156
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20031127/badf0086/attachment.html
+From oster at kde.org  Fri Nov 28 14:18:01 2003
+From: oster at kde.org (Frauke Oster)
+Date: Fri Nov 28 14:19:00 2003
+Subject: [Kde-women] The future of KDE Women - a personal view of things
+Message-ID: <200311281418.01489.oster@kde.org>
+
+
+Hi!
+
+> > You can use the Anonymous CVS from kde to check out the kdepromo module.
+>
+> kdepromo is not accessible from anonymous CVS. It contains resources for
+> KDE people so you need at least a CVS account. E.g. people are developing
+> their slides for presentations there.
+
+Ups, forgot that :) Sorry.
+
+Cheers,
+Frauke
+
+
+-- 
+Frauke Oster
+KDE/Kivio developer
+A KDE Woman
+oster@kde.org
+From oster at kde.org  Fri Nov 28 14:18:39 2003
+From: oster at kde.org (Frauke Oster)
+Date: Fri Nov 28 14:19:40 2003
+Subject: [Kde-women] Introductary mail
+Message-ID: <200311281418.39786.oster@kde.org>
+
+
+Hi Maura!
+
+Welcome to KDE Women :)
+Nice to see that another woman is intersted in KDE.
+I think with the knowledge of C++ you'll find a lot to do in KDE :) Maybe you
+want to help to develop educational programs too. We just added a section to
+the website about ideas for new educational software because Anne-Marie and I
+think that there are enough applications for chatting and such stuff, but not
+enough software that are good for kids :) I hope you'll help us with KDE
+development.
+
+Have fun in the KDE Women community :)
+
+Cheers,
+Frauke
+
+On Thursday 27 November 2003 13:48, Pasquotti Maura 422339/IF wrote:
+> Hi all,
+> I'm Maura and I'm 25 years old. I'm studying computer science (I'll become
+> an engineer at the end of my study) at Padua's university(north Italy) and
+> I hope to finish it before next summer.
+> I've some experience in programming in c and c++ (and also java, but I
+> don't like it very much) and I'm a linux user (I've a gentoo distro with
+> kernel 2.6-test9  and KDE3.1.4 and I'm trying to find some
+> space in my hard-disk to install kdeCVS...) and I hope to be involved in
+> kde project...I don't have much time these days (I'm working for my
+> thesis) but I think I'll find some minutes to dedicate to it..:-)
+> I'm also working in a research project at university concerning "robocup"
+> -> we build and program some robots to play soccer...it's a world-wide
+> project and it's an interesting AI application...( www.robocup.org for
+> more details)
+> Other interest? I like cooking , listening music (all genre..) and having
+> fun :-)
+> Maura
+>
+> -----------------------------------------------
+> Maura Pasquotti
+> -----------------------------------------------
+> undergraduate student
+>
+> IASL - Intelligent Autonomous System Laboratory
+> Via Ognisanti 72-74 Padova Ph. +39-049-827-7833
+>
+> http://www.dei.unipd.it/~robocup
+> -----------------------------------------------
+>
+>
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+From oster at kde.org  Fri Nov 28 14:21:46 2003
+From: oster at kde.org (Frauke Oster)
+Date: Fri Nov 28 14:22:45 2003
+Subject: [Kde-women] interview
+In-Reply-To: <C94AA64DDD8DFD4C8A12FFEEC3831F0801ED93E6@EXNEA01.gabril.com.br>
+References: <C94AA64DDD8DFD4C8A12FFEEC3831F0801ED93E6@EXNEA01.gabril.com.br>
+Message-ID: <200311281421.46689.oster@kde.org>
+
+Hi.
+For which magazine do you want to have an interview with a KDE Woman? What is 
+the interview about? Maybe I can help you.
+
+Cheers,
+Frauke
+
+On Thursday 27 November 2003 22:08, Flavia Yuri wrote:
+> Hello, I?m journalist and I would like to interview someone of the KDE
+> Women. Could you send an number phone or an e-mail of someone that I could
+> interview? Thank you very much for your help.
+>
+> Fl?via Yuri
+> INFO Exame
+> www.info.com.br
+> (11) 3037-6156
+
+-- 
+Frauke Oster
+KDE/Kivio developer
+A KDE Woman
+oster@kde.org
+From lisiane at conectiva.com.br  Fri Nov 28 16:30:45 2003
+From: lisiane at conectiva.com.br (Lisiane Sztoltz Teixeira)
+Date: Sat Nov 29 00:48:43 2003
+Subject: [Kde-women] interview
+In-Reply-To: <200311281040.34807.lisiane@conectiva.com.br>
+References: <C94AA64DDD8DFD4C8A12FFEEC3831F0801ED93E6@EXNEA01.gabril.com.br>
+	<200311281040.34807.lisiane@conectiva.com.br>
+Message-ID: <200311281330.45619.lisiane@conectiva.com.br>
+
+> Em Qui 27 Nov 2003 19:08, Flavia Yuri escreveu:
+> > Hello, I?m journalist and I would like to interview someone of the
+> > KDE Women. Could you send an number phone or an e-mail of someone
+> > that I could interview? Thank you very much for your help.
+>
+ And what about a chat (IRC) interview? We can book a day and time,
+ and you can interview  all KDE women :)
+
+ server: irc.freenode.net
+ channel: #kde-women
+
+ Cheers
+
+ Lisiane
+
+-- 
+Lisiane Sztoltz Teixeira <lisiane@conectiva.com.br>
+Technical Writer
+Conectiva Publishing Department Manager
+http://www.conectiva.com
+
+From lisiane at conectiva.com.br  Fri Nov 28 13:40:34 2003
+From: lisiane at conectiva.com.br (Lisiane Sztoltz Teixeira)
+Date: Sat Nov 29 00:48:54 2003
+Subject: [Kde-women] interview
+In-Reply-To: <C94AA64DDD8DFD4C8A12FFEEC3831F0801ED93E6@EXNEA01.gabril.com.br>
+References: <C94AA64DDD8DFD4C8A12FFEEC3831F0801ED93E6@EXNEA01.gabril.com.br>
+Message-ID: <200311281040.34807.lisiane@conectiva.com.br>
+
+Em Qui 27 Nov 2003 19:08, Flavia Yuri escreveu:
+> Hello, I?m journalist and I would like to interview someone of the
+> KDE Women. Could you send an number phone or an e-mail of someone
+> that I could interview? Thank you very much for your help.
+
+
+And what about a chat (IRC) interview? We can book a day and time, and 
+you can interview  all KDE women :)
+
+server: irc.freenode.net
+channel: #kde-women
+
+Cheers
+
+Lisiane
+
+-- 
+Lisiane Sztoltz Teixeira <lisiane@conectiva.com.br>
+Technical Writer
+Conectiva Publishing Department Manager
+http://www.conectiva.com
+

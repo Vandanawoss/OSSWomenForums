@@ -1,0 +1,29 @@
+From gigi12 at libertysurf.fr  Fri Jul 22 22:50:53 2005
+From: gigi12 at libertysurf.fr (gigi12@libertysurf.fr)
+Date: Fri, 22 Jul 2005 20:50:53 +0000
+Subject: [Kde-women] hello
+Message-ID: <200507222028.37692.gigi12@libertysurf.fr>
+
+I'm gigi, a french beginner woman programmer, and i love linux.
+I use KDevelop2.1 and QT3 on Mandrake 9.2.
+I search how to use KDevelop/QT and libusb or usb.h !
+How give to kdevelop -lusb option for compil?
+...
+Can you help-me?
+Excuse-me for difficulty in my bad english!
+Thank you very much.
+bye.
+
+________________________________________________________________________
+
+Bonjour,
+je ne suis pas experte en programmation avec KDevelop et QT sur Mandrake  9.2, 
+mais je m'en sors quand même dans l'ensemble. Je cherche ici comment utiliser 
+KDevelop/QT avec libusb ou usb.h
+Je ne sais pas comment donner l'option de compilation -lusb à KDevelop.
+En effet cela fonctionne pour les petits programmes que je compile en Konsole.
+Pouvez-vous m'aider, merci beaucoup.
+Cordialement, gigi.
+
+
+

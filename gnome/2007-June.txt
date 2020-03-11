@@ -1,0 +1,175 @@
+From moonquelle@gmail.com  Sat Jun 30 17:18:37 2007
+Return-Path: <moonquelle@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 017083B01B9
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 30 Jun 2007 17:18:37 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: 0.149
+X-Spam-Level: 
+X-Spam-Status: No, score=0.149 tagged_above=-999 required=2 tests=[AWL=-1.241, 
+	BAYES_40=-0.185, HTML_10_20=1.351, HTML_MESSAGE=0.001,
+	MIME_BASE64_NO_NAME=0.224, SPF_PASS=-0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 2) (firewall!) (up: 927 hrs),
+	(distance 17, link: (Google 2)), [66.249.92.170]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id UBBQh6RA6d+G for <gnome-women-list@mail.gnome.org>;
+	Sat, 30 Jun 2007 17:18:35 -0400 (EDT)
+Received: from ug-out-1314.google.com (ug-out-1314.google.com [66.249.92.170])
+	by menubar.gnome.org (Postfix) with ESMTP id 1E8FE3B0172
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 30 Jun 2007 17:18:34 -0400 (EDT)
+Received: by ug-out-1314.google.com with SMTP id k40so808992ugc
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 30 Jun 2007 14:18:33 -0700 (PDT)
+Received: by 10.82.182.1 with SMTP id e1mr9420563buf.1183238312334;
+	Sat, 30 Jun 2007 14:18:32 -0700 (PDT)
+Received: by 10.82.111.4 with HTTP; Sat, 30 Jun 2007 14:18:32 -0700 (PDT)
+Message-ID: <c5dbda760706301418o377cd5a8r63efa97944ff9812@mail.gmail.com>
+Date: Sun, 1 Jul 2007 00:18:32 +0300
+From: "=?UTF-8?Q?P=C4=B1nar_Yanarda=C4=9F?=" <moonquelle@gmail.com>
+To: gnome-women-list@mail.gnome.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_66250_25319218.1183238312286"
+Subject: [gnome-women] guadec meeting for gnome-women
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 30 Jun 2007 21:18:37 -0000
+
+------=_Part_66250_25319218.1183238312286
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+SGkgZ2lybHMsCgpJJ20gYSBuZXcgbWVtYmVyIG9mIEdOT01FIFdvbWVuLCBzbyBmaXJzdCBJJ2xs
+IGludHJvZHVjZSBteXNlbGYgYSBiaXQgOikKCkknbSBhIDIxIHllYXItb2xkIGNvbXB1dGVyIGVu
+Z2luZWVyIGZyb20gVHVya2V5IGFuZCBJJ20gYWxzbyBhIEdTb0Mgc3R1ZGVudAp1bmRlciBHTk9N
+RSB3b3JraW5nIGZvciBFdm9sdXRpb24gYW5kIFNlYWhvcnNlLiBJIGxpa2UgRGViaWFuLCBSdWJ5
+LCBtZXRhbAptdXNpYyBhbmQgb2xkIGRhbW4gRlJQIGdhbWVzLiBJJ3ZlIGEgYmxvZyByaWdodCB0
+aGVyZS0gaWYgaW50ZXJlc3RlZCAtPgpodHRwOi8vcGluZ3Vhci5vcmcvYmxvZwoKU28uLiBBcmUg
+dGhlcmUgYW55IGNoaXggd2hvJ2xsIGNvbWUgdG8gR3VhZGVjPyBJJ20gZ29pbmcgdG8gam9pbiB0
+byBHdWFkZWMKZm9yIHRoZSBmaXJzdCB0aW1lLCBhbmQgYSBsaXR0bGUgcGFydHkgb3Igc3RoLiBs
+aWtlIHdvdWxkIGJlIG5pY2UgdG8gbWVldAphbmQgZW5qb3kgd2l0aCBvdGhlciBHTk9NRWNoaXgw
+cnohIDspCgpDaGVlcnMsCi0tIApQxLFuYXIgWWFuYXJkYcSfIChQSU5ndUFSKQpodHRwOi8vcGlu
+Z3Vhci5vcmcvZW5nCg==
+------=_Part_66250_25319218.1183238312286
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+SGkgZ2lybHMsPGJyPjxicj5JJiMzOTttIGEgbmV3IG1lbWJlciBvZiBHTk9NRSBXb21lbiwgc28g
+Zmlyc3QgSSYjMzk7bGwgaW50cm9kdWNlIG15c2VsZiBhIGJpdCA6KTxicj48YnI+SSYjMzk7bSBh
+IDIxIHllYXItb2xkIGNvbXB1dGVyIGVuZ2luZWVyIGZyb20gVHVya2V5IGFuZCBJJiMzOTttIGFs
+c28gYSBHU29DIHN0dWRlbnQgdW5kZXIgR05PTUUgd29ya2luZyBmb3IgRXZvbHV0aW9uIGFuZCBT
+ZWFob3JzZS4gSSBsaWtlIERlYmlhbiwgUnVieSwgbWV0YWwgbXVzaWMgYW5kIG9sZCBkYW1uIEZS
+UCBnYW1lcy4gSSYjMzk7dmUgYSBibG9nIHJpZ2h0IHRoZXJlLSBpZiBpbnRlcmVzdGVkIC0mZ3Q7
+IAo8YSBocmVmPSJodHRwOi8vcGluZ3Vhci5vcmcvYmxvZyI+aHR0cDovL3Bpbmd1YXIub3JnL2Js
+b2c8L2E+PGJyPjxicj5Tby4uIEFyZSB0aGVyZSBhbnkgY2hpeCB3aG8mIzM5O2xsIGNvbWUgdG8g
+R3VhZGVjPyBJJiMzOTttIGdvaW5nIHRvIGpvaW4gdG8gR3VhZGVjIGZvciB0aGUgZmlyc3QgdGlt
+ZSwgYW5kIGEgbGl0dGxlIHBhcnR5IG9yIHN0aC4gbGlrZSB3b3VsZCBiZSBuaWNlIHRvIG1lZXQg
+YW5kIGVuam95IHdpdGggb3RoZXIgR05PTUVjaGl4MHJ6ISA7KQo8YnI+PGJyPkNoZWVycyw8YnI+
+LS0gPGJyPlDEsW5hciBZYW5hcmRhxJ8gKFBJTmd1QVIpPGJyPjxhIGhyZWY9Imh0dHA6Ly9waW5n
+dWFyLm9yZy9lbmciPmh0dHA6Ly9waW5ndWFyLm9yZy9lbmc8L2E+Cg==
+------=_Part_66250_25319218.1183238312286--
+From moonquelle@gmail.com  Sat Jun 30 17:18:37 2007
+Return-Path: <moonquelle@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 017083B01B9
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 30 Jun 2007 17:18:37 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: 0.149
+X-Spam-Level: 
+X-Spam-Status: No, score=0.149 tagged_above=-999 required=2 tests=[AWL=-1.241, 
+	BAYES_40=-0.185, HTML_10_20=1.351, HTML_MESSAGE=0.001,
+	MIME_BASE64_NO_NAME=0.224, SPF_PASS=-0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 2) (firewall!) (up: 927 hrs),
+	(distance 17, link: (Google 2)), [66.249.92.170]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id UBBQh6RA6d+G for <gnome-women-list@mail.gnome.org>;
+	Sat, 30 Jun 2007 17:18:35 -0400 (EDT)
+Received: from ug-out-1314.google.com (ug-out-1314.google.com [66.249.92.170])
+	by menubar.gnome.org (Postfix) with ESMTP id 1E8FE3B0172
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 30 Jun 2007 17:18:34 -0400 (EDT)
+Received: by ug-out-1314.google.com with SMTP id k40so808992ugc
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 30 Jun 2007 14:18:33 -0700 (PDT)
+Received: by 10.82.182.1 with SMTP id e1mr9420563buf.1183238312334;
+	Sat, 30 Jun 2007 14:18:32 -0700 (PDT)
+Received: by 10.82.111.4 with HTTP; Sat, 30 Jun 2007 14:18:32 -0700 (PDT)
+Message-ID: <c5dbda760706301418o377cd5a8r63efa97944ff9812@mail.gmail.com>
+Date: Sun, 1 Jul 2007 00:18:32 +0300
+From: "=?UTF-8?Q?P=C4=B1nar_Yanarda=C4=9F?=" <moonquelle@gmail.com>
+To: gnome-women-list@mail.gnome.org
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_66250_25319218.1183238312286"
+Subject: [gnome-women] guadec meeting for gnome-women
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 30 Jun 2007 21:18:37 -0000
+
+------=_Part_66250_25319218.1183238312286
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+SGkgZ2lybHMsCgpJJ20gYSBuZXcgbWVtYmVyIG9mIEdOT01FIFdvbWVuLCBzbyBmaXJzdCBJJ2xs
+IGludHJvZHVjZSBteXNlbGYgYSBiaXQgOikKCkknbSBhIDIxIHllYXItb2xkIGNvbXB1dGVyIGVu
+Z2luZWVyIGZyb20gVHVya2V5IGFuZCBJJ20gYWxzbyBhIEdTb0Mgc3R1ZGVudAp1bmRlciBHTk9N
+RSB3b3JraW5nIGZvciBFdm9sdXRpb24gYW5kIFNlYWhvcnNlLiBJIGxpa2UgRGViaWFuLCBSdWJ5
+LCBtZXRhbAptdXNpYyBhbmQgb2xkIGRhbW4gRlJQIGdhbWVzLiBJJ3ZlIGEgYmxvZyByaWdodCB0
+aGVyZS0gaWYgaW50ZXJlc3RlZCAtPgpodHRwOi8vcGluZ3Vhci5vcmcvYmxvZwoKU28uLiBBcmUg
+dGhlcmUgYW55IGNoaXggd2hvJ2xsIGNvbWUgdG8gR3VhZGVjPyBJJ20gZ29pbmcgdG8gam9pbiB0
+byBHdWFkZWMKZm9yIHRoZSBmaXJzdCB0aW1lLCBhbmQgYSBsaXR0bGUgcGFydHkgb3Igc3RoLiBs
+aWtlIHdvdWxkIGJlIG5pY2UgdG8gbWVldAphbmQgZW5qb3kgd2l0aCBvdGhlciBHTk9NRWNoaXgw
+cnohIDspCgpDaGVlcnMsCi0tIApQxLFuYXIgWWFuYXJkYcSfIChQSU5ndUFSKQpodHRwOi8vcGlu
+Z3Vhci5vcmcvZW5nCg==
+------=_Part_66250_25319218.1183238312286
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+SGkgZ2lybHMsPGJyPjxicj5JJiMzOTttIGEgbmV3IG1lbWJlciBvZiBHTk9NRSBXb21lbiwgc28g
+Zmlyc3QgSSYjMzk7bGwgaW50cm9kdWNlIG15c2VsZiBhIGJpdCA6KTxicj48YnI+SSYjMzk7bSBh
+IDIxIHllYXItb2xkIGNvbXB1dGVyIGVuZ2luZWVyIGZyb20gVHVya2V5IGFuZCBJJiMzOTttIGFs
+c28gYSBHU29DIHN0dWRlbnQgdW5kZXIgR05PTUUgd29ya2luZyBmb3IgRXZvbHV0aW9uIGFuZCBT
+ZWFob3JzZS4gSSBsaWtlIERlYmlhbiwgUnVieSwgbWV0YWwgbXVzaWMgYW5kIG9sZCBkYW1uIEZS
+UCBnYW1lcy4gSSYjMzk7dmUgYSBibG9nIHJpZ2h0IHRoZXJlLSBpZiBpbnRlcmVzdGVkIC0mZ3Q7
+IAo8YSBocmVmPSJodHRwOi8vcGluZ3Vhci5vcmcvYmxvZyI+aHR0cDovL3Bpbmd1YXIub3JnL2Js
+b2c8L2E+PGJyPjxicj5Tby4uIEFyZSB0aGVyZSBhbnkgY2hpeCB3aG8mIzM5O2xsIGNvbWUgdG8g
+R3VhZGVjPyBJJiMzOTttIGdvaW5nIHRvIGpvaW4gdG8gR3VhZGVjIGZvciB0aGUgZmlyc3QgdGlt
+ZSwgYW5kIGEgbGl0dGxlIHBhcnR5IG9yIHN0aC4gbGlrZSB3b3VsZCBiZSBuaWNlIHRvIG1lZXQg
+YW5kIGVuam95IHdpdGggb3RoZXIgR05PTUVjaGl4MHJ6ISA7KQo8YnI+PGJyPkNoZWVycyw8YnI+
+LS0gPGJyPlDEsW5hciBZYW5hcmRhxJ8gKFBJTmd1QVIpPGJyPjxhIGhyZWY9Imh0dHA6Ly9waW5n
+dWFyLm9yZy9lbmciPmh0dHA6Ly9waW5ndWFyLm9yZy9lbmc8L2E+Cg==
+------=_Part_66250_25319218.1183238312286--
+

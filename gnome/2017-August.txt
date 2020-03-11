@@ -1,0 +1,168 @@
+From kittykat3756@gmail.com  Thu Aug  3 08:42:38 2017
+Return-Path: <kittykat3756@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.gnome.org (Postfix) with ESMTP id 55D357625D
+	for <gnome-women-list@gnome.org>; Thu,  3 Aug 2017 08:42:38 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.638
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.638 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_ADSP_CUSTOM_MED=0.001, DKIM_SIGNED=0.1,
+	FREEMAIL_ENVFROM_END_DIGIT=0.25, FREEMAIL_FROM=0.001,
+	NML_ADSP_CUSTOM_MED=0.9, T_DKIM_INVALID=0.01] autolearn=no
+Received: from smtp.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id 5iqj7BLOgSs4 for <gnome-women-list@gnome.org>;
+	Thu,  3 Aug 2017 08:42:17 +0000 (UTC)
+Received: from mail-lf0-f66.google.com (mail-lf0-f66.google.com
+	[209.85.215.66])
+	by smtp.gnome.org (Postfix) with ESMTPS id 567AC76300
+	for <gnome-women-list@gnome.org>; Thu,  3 Aug 2017 08:42:16 +0000 (UTC)
+Received: by mail-lf0-f66.google.com with SMTP id t128so484613lff.3
+	for <gnome-women-list@gnome.org>; Thu, 03 Aug 2017 01:42:16 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20161025;
+	h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+	:cc:content-transfer-encoding;
+	bh=lAcZtuoDYiKCrfuiOefinjlnRXNXv6HPHS+lJgnhsL8=;
+	b=DfctYzOOr7QMZChC66gfZ6Akw5grXD/ds4QxrEr5AVnplnxGVfOB1DP7fFz5zTANsc
+	ZKdXTWlK/cYR2Qcd3mhRKGTr/gR2Eqw0hEtbvR+rsH2h3SjkNJn4iK4M0wp9rzbEdtuI
+	Ljd7IxEv/LifIFIrnAZX826/3hHufe2CfzALZ3k+IUIHhJyGHA4HjR/R3wFCH1JyfVfe
+	AWZEqLFIygE0u0ALHnhFP77AJ0Ul1BqGfx2RH4ovU+/yBWNwDEtOcDZJsXUbIXXY3PYP
+	L9xG6ongsai/hn+52XoORpX/eRCnlThBjp/RuZqGExC0KUWHQtob2hoTU1M0a28DQRZ6
+	3ubA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=1e100.net; s=20161025;
+	h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+	:message-id:subject:to:cc:content-transfer-encoding;
+	bh=lAcZtuoDYiKCrfuiOefinjlnRXNXv6HPHS+lJgnhsL8=;
+	b=SRItxD2Vfh5qJOKdMQFmdP5GsWPRAaN6JrPE913id6QpnYFfuNBQof+EoX401gf17U
+	0tN0PzKpgeYaWhRzzHIhYhk/rzobEYSRWMxxOoDxKVilCmYAPFGIBiNWsYzXXpUxkT4q
+	6z5PFJTZIzu3kDB37L1SVj1x4U2bju/BBmoJUQMkslQ4r3w0ZTq2dO+xp8RihGSoq5J0
+	kj28ZFqknsNsqlzwh+ssg0sKg/7gEfAgLQ0posBra6BXXXBm0IzrIfhMfECAjD99VNTm
+	h/CNNFWoO0HE2zTo63JyD2Rmo/aK8tqf929orI5cFpFACj2EDfWeEgz7ishzlQ0wcydX
+	TBkw==
+X-Gm-Message-State: AHYfb5gBsXczB2fIqyDAUMbZeIGd48/Rcluuzk+J9d5CWSNRJlaX5tqN
+	81LRW21md5b4+Op+RYU4Bpw8RrZDWojd
+X-Received: by 10.25.201.207 with SMTP id z198mr349690lff.153.1501749734038;
+	Thu, 03 Aug 2017 01:42:14 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.25.29.207 with HTTP; Thu, 3 Aug 2017 01:42:13 -0700 (PDT)
+In-Reply-To: <CAM2D-RoUbJnvTwXpqg1sqVhWU7g_M0Gi-ueE+zmZhf8et+qxtA@mail.gmail.com>
+References: <CAKzqScTpXjnjM=DTmtCc3NR9B0-aXJohjQWE2BHtZaJi5P=k=Q@mail.gmail.com>
+	<CAM2D-RoUbJnvTwXpqg1sqVhWU7g_M0Gi-ueE+zmZhf8et+qxtA@mail.gmail.com>
+From: Ekaterina Gerasimova <kittykat3756@gmail.com>
+Date: Thu, 3 Aug 2017 09:42:13 +0100
+Message-ID: <CAM2D-RpUTuO2HSAo+A=iFQe41oCprVmf=V9MxWrBqCJRXjF9Sg@mail.gmail.com>
+To: Nuritzi Sanchez <nuritzis@stanfordalumni.org>
+Cc: gnome-women-list <gnome-women-list@gnome.org>,
+	Adelia Rahim <Adeliarahim@gmail.com>, 
+	Kate Lassalle-Klein <katelk28@gmail.com>, robin@endlessm.com, 
+	Julita Inca Chiroque <jinca@pucp.pe>,
+	Cassandra Sanchez <cassandra.s.18@gmail.com>
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+Subject: Re: [gnome-women] Vote | Opening the Women's Dinner
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.23
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 03 Aug 2017 08:42:38 -0000
+
+On 13 July 2017 at 14:31, Ekaterina Gerasimova <kittykat3756@gmail.com> wro=
+te:
+> On 29 June 2017 at 03:12, Nuritzi Sanchez <nuritzis@stanfordalumni.org> w=
+rote:
+>> Hi All,
+>>
+>> I know we talked about this last year, but I'd like to revisit the idea =
+of
+>> opening up the women's dinner to the larger GUADEC attendees based on th=
+e
+>> experience we had last year.
+>>
+>> The idea is that we could make it a "Women's Celebration Dinner - a dinn=
+er
+>> celebrating the contributions of women in open source and a chance to me=
+et
+>> and connect with other women." We could say that this event is especiall=
+y
+>> meant for women and people who identify as wome (cis and trans) and
+>> genderqueer people, but that the event is open to anyone who wants to
+>> attend.
+>>
+>> I'm including people who have already expressed interest in this year's
+>> dinner.
+>>
+>> Can you please respond with a vote for:
+>>
+>>
+>> Should we open the women's dinner?
+>>
+>> Yes, I have a strong preference to open it to anyone who would like to
+>> attend
+>
+> +1
+
+It looks like I'm the only person who voted publicly=E2=80=A6 what was the
+result of this email? Did anything change for 2017? Will anything
+change in 2018?
+
+I was told by another attendee that the women's dinner was indeed open
+to everyone (if this is the case, I don't feel that it was
+communicated), but looking through some GUADEC pages, I just found
+https://wiki.gnome.org/GnomeWomen/Events/GUADEC/2017/WomensDinner
+which says that it was not.
+
+The poster which was up at the venue felt to me like it was purely for
+women as there was no information about who could attend on there.
+
+> If we want to celebrate womens' accomplishments, then they should be
+> celebrated by all. If women isolate themselves, then it is more
+> difficult for others to learn about the work that we do.
+>
+> If there is concern that there might be too many attendees and the
+> event would be "diluted", then it could be possible to limit the
+> number of open seats available, for example to the same number as
+> women attending the event.
+>
+>> Yes, I have a slight preference to open it to anyone who would like to
+>> attend
+>> No, I have a slight preference to keep it Women (cis and trans) and
+>> genderqueer people only
+>> No, I have a strong preference to keep it Women (cis and trans) and
+>> genderqueer people only
+>>
+>>
+>> Feel free to message me privately if you'd prefer not to vote publicly a=
+nd
+>> also feel free to discuss. I'm including those who have already signed u=
+p to
+>> attend, and also some women from Endless who have expressed interest in
+>> attending the women's dinner this year.
+>>
+>> Thanks!
+>>
+>> Best,
+>> Nuritzi
+>>
+>> ........................................................................=
+.....
+>>
+>> Nuritzi Sanchez  |  +1.650.218.7388 |  Endless
+>>
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> https://mail.gnome.org/mailman/listinfo/gnome-women-list

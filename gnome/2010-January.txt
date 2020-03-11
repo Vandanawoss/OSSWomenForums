@@ -1,0 +1,1038 @@
+From hmpoumpouka@gmail.com  Sun Jan 17 19:07:35 2010
+Return-Path: <hmpoumpouka@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D77E77500A7
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Jan 2010 19:07:35 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GQTJ6xHLpG0E for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Jan 2010 19:07:30 +0000 (GMT)
+Received: from mail-fx0-f227.google.com (mail-fx0-f227.google.com
+	[209.85.220.227])
+	by menubar.gnome.org (Postfix) with ESMTP id 98066750085
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Jan 2010 19:07:21 +0000 (GMT)
+Received: by fxm27 with SMTP id 27so1650767fxm.23
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Jan 2010 11:07:19 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:date:message-id:subject
+	:from:to:content-type;
+	bh=B+mSjQc8gy42zw7FFZ3v7Lz8uaSyIoeaL0HFm5De0Mw=;
+	b=NyJrYtqgszG0B7hR/xWgbQtnsvlX4UiagyfktJkziKu5Vy4C0JjGz4nWkDjoTGDw+O
+	maTwSLsiG4zv8Qyy5VT1//fp9fekbS5oegnqiQNC+Wgd+HlKiFpEQOH6L/a4ziEgoc05
+	ewmUen7wPTGVqx9Qacsz2xsivmB4p+d37yYiU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	b=ilpb3s3tHqXfGRJF4f5Y3KhtEbk+xKaqWCLAFOWOOaWcKu57AJFJS6IoJ++kKlFvMA
+	s7qSX+r1TDhlZu5RxAIYINTaaGqQHNToxn0A13tY09+4bJB56tdFvDlkB9q1ylJpu+7v
+	4b9gZ/vaoH9mLKUOKHTnPj/PdgIhN3A+YKTaA=
+MIME-Version: 1.0
+Received: by 10.223.5.135 with SMTP id 7mr6245577fav.81.1263755239344; Sun, 17 
+	Jan 2010 11:07:19 -0800 (PST)
+Date: Sun, 17 Jan 2010 21:07:19 +0200
+Message-ID: <78bf2a411001171107q6d17ae96ha443d4cb05a55cf6@mail.gmail.com>
+From: Christina Boumpouka <hmpoumpouka@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain; charset=ISO-8859-1
+Subject: [gnome-women] Interested in Outreach Program for Women
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 17 Jan 2010 19:07:36 -0000
+
+Hello,
+
+My name is Christina Boumpouka, I'm an electronics and computer
+engineer, currently pursuing a phd in distributed systems. I run into
+the Gnome Women Outreach Program today and was intrigued, so here I
+am.
+
+I haven't really understood how the program works...so I will just
+list the roles I could play and the projects I'm interested in and
+maybe someone can help me narrow the list by providing availability
+info for the projects.
+
+I'm mostly interested in software development and user interface
+design, but I guess I can also contribute as a tester or provide greek
+translations.
+The projects I'm interested in are Gnome Shell and Empathy.
+
+Christina
+From marinaz@redhat.com  Mon Jan 18 00:03:24 2010
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 4354A7500A7
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 00:03:24 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4] autolearn=unavailable
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id JE2XS55T2B48 for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 00:03:16 +0000 (GMT)
+Received: from mx1.redhat.com (mx1.redhat.com [209.132.183.28])
+	by menubar.gnome.org (Postfix) with ESMTP id 1E6497500CB
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 00:03:16 +0000 (GMT)
+Received: from int-mx05.intmail.prod.int.phx2.redhat.com
+	(int-mx05.intmail.prod.int.phx2.redhat.com [10.5.11.18])
+	by mx1.redhat.com (8.13.8/8.13.8) with ESMTP id o0I032Fk011209
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=OK);
+	Sun, 17 Jan 2010 19:03:02 -0500
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by int-mx05.intmail.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP
+	id o0I032W9006581; Sun, 17 Jan 2010 19:03:02 -0500
+Date: Sun, 17 Jan 2010 19:03:02 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Christina Boumpouka <hmpoumpouka@gmail.com>
+Message-ID: <94589920.9721263772982425.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <1720590711.9411263772505185.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.5.41]
+X-Scanned-By: MIMEDefang 2.67 on 10.5.11.18
+Cc: gnome-women-list@mail.gnome.org, danielle@madeley.id.au, gdesmott@gnome.org
+Subject: Re: [gnome-women] Interested in Outreach Program for Women
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 18 Jan 2010 00:03:24 -0000
+
+Hi Christina,
+
+Thank you for your interest in the program! We haven't defined the application process yet, but I will e-mail the list and you personally when we do.
+
+If you have time, you can start learning and contributing to the projects you are interested in in the meantime, which will put you in a great position when applying for the Outreach Program for Women or for the Google Summer of Code.
+
+Perhaps, Danielle or Guillaume can chime in with some pointers on how to get involved with the Empathy project.
+
+As for the GNOME Shell project, here is a step-by-step list I've put together for learning and starting to contribute to it. There is definitely a lot of the coding and design work that can be done for the project. I also included a link that explains how to contribute translation. To my surprise, it doesn't look like GNOME Shell has been translated to Greek yet.
+
+Step 1. Join #gnome-shell channel on irc.gnome.org
+This is where people talk about GNOME Shell and where you can ask questions when you need to find out how to do something or want to decide what to work on next. The etiquette of IRC is such that you don't need to say "hi" when you join and you can lurk in the channel for a while until you have a specific question or want to share your view in a discussion. So just joining a channel is pretty non-committal. The channel is a bit quieter over the weekend and usually has some discussion going on during the day on weekdays.
+
+Step 2. http://live.gnome.org/GnomeShell#building
+Follow these instructions to build GNOME Shell on your system. This build process creates a directory with the code for several modules relevant to GNOME Shell, as well as the gnome-shell module itself.
+
+Step 3. http://live.gnome.org/GnomeShell/Tour and http://live.gnome.org/GnomeShell/CheatSheet
+Play around with GNOME Shell by running it and go over the Tour and Cheat Sheet pages to make sure you know about most features. The screenshots on the pages might look a little different from what you see because of the rapid development, but they are pretty accurate.
+
+Step 4. http://live.gnome.org/GnomeShell/Development
+Go over the information and the links on the development page to learn about all the code components of the GNOME Shell. Try to make a simple change (like change a color for some component or change animation behavior) and restart the shell to see your change.
+
+Step 5. http://live.gnome.org/GnomeShell/Design
+Go over the design document and the recent mockups linked to from this page to understand the design goals and the planned feature set.
+
+Step 6. https://bugzilla.gnome.org/browse.cgi?product=gnome-shell
+Select a bug report you want to create a patch for. A bug report can contain a bug or a feature request. You can also create your own bug report. The number next to "Total Bugs" links to all the open bugs and the number next to "GNOME-love bugs" links to the open bugs that are good for a beginner to start with. You can ask me on IRC or via e-mail about what bug is a good one to start with when you are ready and we will think of something. I would generally expect that you would have a lot of questions when you are setting up or working on your first bugs, so don't hesitate to ask them!
+
+Step 7. http://live.gnome.org/GnomeShell#communication-resources and http://planet.gnome.org
+In addition to IRC, there are other ways to keep up with the project, such as the mailing list, Identi.ca or Twitter, Bugzilla updates, and commit updates. You can browse or subscribe to them as you decide on your level of involvement in the project. Beyond the GNOME Shell project, Planet GNOME is an aggregator of blogs of people involved with GNOME in general and is a good place to find out what people are working on and what other projects are out there.
+
+Step 8. http://live.gnome.org/GnomeShell/Translations and http://l10n.gnome.org/languages
+This page details how to create a translation for GNOME Shell. The process is pretty similar for creating a translation for other GNOME modules and you can get involved with contributing translations for other modules through your language translation team.
+
+Feel free to ask me any questions you might have about GNOME Shell and I'll keep you posted about the program!
+
+Marina
+
+----- Original Message -----
+From: "Christina Boumpouka" <hmpoumpouka@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Sent: Sunday, January 17, 2010 2:07:19 PM GMT -05:00 US/Canada Eastern
+Subject: [gnome-women] Interested in Outreach Program for Women
+
+Hello,
+
+My name is Christina Boumpouka, I'm an electronics and computer
+engineer, currently pursuing a phd in distributed systems. I run into
+the Gnome Women Outreach Program today and was intrigued, so here I
+am.
+
+I haven't really understood how the program works...so I will just
+list the roles I could play and the projects I'm interested in and
+maybe someone can help me narrow the list by providing availability
+info for the projects.
+
+I'm mostly interested in software development and user interface
+design, but I guess I can also contribute as a tester or provide greek
+translations.
+The projects I'm interested in are Gnome Shell and Empathy.
+
+Christina
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-women-list
+From danielle.madeley@collabora.co.uk  Mon Jan 18 02:02:34 2010
+Return-Path: <danielle.madeley@collabora.co.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BA424750123
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 02:02:34 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.598
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.598 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, UNPARSEABLE_RELAY=0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nJEPbDrKTQ-Y for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 02:02:25 +0000 (GMT)
+Received: from bhuna.collabora.co.uk (bhuna.collabora.co.uk [93.93.128.226])
+	by menubar.gnome.org (Postfix) with ESMTP id 0EFF57500CE
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 02:02:16 +0000 (GMT)
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	(Authenticated sender: danni) with ESMTPSA id E6BF6601456
+From: Danielle Madeley <danielle.madeley@collabora.co.uk>
+To: Christina Boumpouka <hmpoumpouka@gmail.com>
+In-Reply-To: <94589920.9721263772982425.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <94589920.9721263772982425.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Content-Type: text/plain; charset="UTF-8"
+Organization: Collabora Ltd.
+Date: Mon, 18 Jan 2010 13:02:07 +1100
+Message-ID: <1263780127.14357.23.camel@adelie>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.28.1 
+Content-Transfer-Encoding: 7bit
+Cc: gnome-women-list@mail.gnome.org, gdesmott@gnome.org
+Subject: Re: [gnome-women] Interested in Outreach Program for Women
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 18 Jan 2010 02:02:35 -0000
+
+Hi Christina,
+
+The Empathy IRC channel is #empathy on irc.gnome.org. If you have a
+specific issue you're looking to solve someone can help you out there.
+Guillaume (cassidy on IRC) is the Empathy maintainer, so can probably
+point you in the direction of easier bugs to fix. I am 'danni' on IRC,
+feel free to get in touch for any reason.
+
+Some things that appear to be Empathy bugs (or limitations) are really
+Telepathy bugs or limitations. Someone should be able to point you in
+the right direction (working on Telepathy isn't really any harder to
+working on Empathy).
+
+The Empathy website is here: http://live.gnome.org/Empathy which
+contains build instructions etc. Building Empathy is a lot like building
+other GNOME components. If you get stuck, ask on IRC.
+
+http://live.gnome.org/Empathy/Roadmap is a list of the bigger items we
+are working on.
+
+Translation for Empathy is handled through the GNOME Translation
+Project, who I think hang out on #i18n on irc.gnome.org.
+
+Hope this helps!
+
+--danni
+
+On Sun, 2010-01-17 at 19:03 -0500, Marina Zhurakhinskaya wrote:
+> Hi Christina,
+> 
+> Thank you for your interest in the program! We haven't defined the
+> application process yet, but I will e-mail the list and you personally
+> when we do.
+> 
+> If you have time, you can start learning and contributing to the
+> projects you are interested in in the meantime, which will put you in
+> a great position when applying for the Outreach Program for Women or
+> for the Google Summer of Code.
+> 
+> Perhaps, Danielle or Guillaume can chime in with some pointers on how
+> to get involved with the Empathy project.
+> 
+> As for the GNOME Shell project, here is a step-by-step list I've put
+> together for learning and starting to contribute to it. There is
+> definitely a lot of the coding and design work that can be done for
+> the project. I also included a link that explains how to contribute
+> translation. To my surprise, it doesn't look like GNOME Shell has been
+> translated to Greek yet.
+> 
+> Step 1. Join #gnome-shell channel on irc.gnome.org
+> This is where people talk about GNOME Shell and where you can ask
+> questions when you need to find out how to do something or want to
+> decide what to work on next. The etiquette of IRC is such that you
+> don't need to say "hi" when you join and you can lurk in the channel
+> for a while until you have a specific question or want to share your
+> view in a discussion. So just joining a channel is pretty
+> non-committal. The channel is a bit quieter over the weekend and
+> usually has some discussion going on during the day on weekdays.
+> 
+> Step 2. http://live.gnome.org/GnomeShell#building
+> Follow these instructions to build GNOME Shell on your system. This
+> build process creates a directory with the code for several modules
+> relevant to GNOME Shell, as well as the gnome-shell module itself.
+> 
+> Step 3. http://live.gnome.org/GnomeShell/Tour and
+> http://live.gnome.org/GnomeShell/CheatSheet
+> Play around with GNOME Shell by running it and go over the Tour and
+> Cheat Sheet pages to make sure you know about most features. The
+> screenshots on the pages might look a little different from what you
+> see because of the rapid development, but they are pretty accurate.
+> 
+> Step 4. http://live.gnome.org/GnomeShell/Development
+> Go over the information and the links on the development page to learn
+> about all the code components of the GNOME Shell. Try to make a simple
+> change (like change a color for some component or change animation
+> behavior) and restart the shell to see your change.
+> 
+> Step 5. http://live.gnome.org/GnomeShell/Design
+> Go over the design document and the recent mockups linked to from this
+> page to understand the design goals and the planned feature set.
+> 
+> Step 6. https://bugzilla.gnome.org/browse.cgi?product=gnome-shell
+> Select a bug report you want to create a patch for. A bug report can
+> contain a bug or a feature request. You can also create your own bug
+> report. The number next to "Total Bugs" links to all the open bugs and
+> the number next to "GNOME-love bugs" links to the open bugs that are
+> good for a beginner to start with. You can ask me on IRC or via e-mail
+> about what bug is a good one to start with when you are ready and we
+> will think of something. I would generally expect that you would have
+> a lot of questions when you are setting up or working on your first
+> bugs, so don't hesitate to ask them!
+> 
+> Step 7. http://live.gnome.org/GnomeShell#communication-resources and
+> http://planet.gnome.org
+> In addition to IRC, there are other ways to keep up with the project,
+> such as the mailing list, Identi.ca or Twitter, Bugzilla updates, and
+> commit updates. You can browse or subscribe to them as you decide on
+> your level of involvement in the project. Beyond the GNOME Shell
+> project, Planet GNOME is an aggregator of blogs of people involved
+> with GNOME in general and is a good place to find out what people are
+> working on and what other projects are out there.
+> 
+> Step 8. http://live.gnome.org/GnomeShell/Translations and
+> http://l10n.gnome.org/languages
+> This page details how to create a translation for GNOME Shell. The
+> process is pretty similar for creating a translation for other GNOME
+> modules and you can get involved with contributing translations for
+> other modules through your language translation team.
+> 
+> Feel free to ask me any questions you might have about GNOME Shell and
+> I'll keep you posted about the program!
+> 
+> Marina
+> 
+> ----- Original Message -----
+> From: "Christina Boumpouka" <hmpoumpouka@gmail.com>
+> To: gnome-women-list@mail.gnome.org
+> Sent: Sunday, January 17, 2010 2:07:19 PM GMT -05:00 US/Canada Eastern
+> Subject: [gnome-women] Interested in Outreach Program for Women
+> 
+> Hello,
+> 
+> My name is Christina Boumpouka, I'm an electronics and computer
+> engineer, currently pursuing a phd in distributed systems. I run into
+> the Gnome Women Outreach Program today and was intrigued, so here I
+> am.
+> 
+> I haven't really understood how the program works...so I will just
+> list the roles I could play and the projects I'm interested in and
+> maybe someone can help me narrow the list by providing availability
+> info for the projects.
+> 
+> I'm mostly interested in software development and user interface
+> design, but I guess I can also contribute as a tester or provide greek
+> translations.
+> The projects I'm interested in are Gnome Shell and Empathy.
+> 
+> Christina
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+
+-- 
+Danielle Madeley
+Software Developer, Collabora Ltd.                  Melbourne, Australia
+
+www.collabora.co.uk
+
+From hmpoumpouka@gmail.com  Mon Jan 18 19:44:12 2010
+Return-Path: <hmpoumpouka@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E3C98750050
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 19:44:11 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id eXHL3pud8Urw for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 19:44:01 +0000 (GMT)
+Received: from mail-fx0-f227.google.com (mail-fx0-f227.google.com
+	[209.85.220.227])
+	by menubar.gnome.org (Postfix) with ESMTP id 99C2075006E
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 19:43:52 +0000 (GMT)
+Received: by fxm27 with SMTP id 27so2658610fxm.23
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Jan 2010 11:43:50 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:in-reply-to:references
+	:date:message-id:subject:from:to:cc:content-type
+	:content-transfer-encoding;
+	bh=ciWj4nOvIy8y+V7bHAy+hw+GGfBsVWsozaVoI88euL4=;
+	b=RNsbNnmtpARx7b9+1KNEu8DTGgXp3o0EUsgkP7tnUqnpjCGpNnHaLZ/rp8DuUubzL/
+	biS5ZtezPg2mrURDiWy7duTZ57ktXi56wx1/zkNp7uykV9tH97p0POXyJqYDjIkK0mzi
+	BuVMfLqICgJ8en9YPFEuosCvmEy11wxXJUrXo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type:content-transfer-encoding;
+	b=BwdR4iSWWXidZVI7qwUeUPwEayAILijkJY64lYo3Zu6nJU+UOfYL3qcvIlZZM/kmNc
+	iSd+xjehXTiuaWdK2kflVLOyqeeb7Sq8O3rH+scJtqsIf5SuYHwB/UkRo+rg7Atz8TyB
+	J+SohjBiLRVvu5z6WmSmes5Fx80OGUK0EAeW4=
+MIME-Version: 1.0
+Received: by 10.223.15.11 with SMTP id i11mr773197faa.105.1263843829917; Mon, 
+	18 Jan 2010 11:43:49 -0800 (PST)
+In-Reply-To: <1263780127.14357.23.camel@adelie>
+References: <94589920.9721263772982425.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<1263780127.14357.23.camel@adelie>
+Date: Mon, 18 Jan 2010 21:43:49 +0200
+Message-ID: <78bf2a411001181143n5d815d9dpa87bfc4450c31587@mail.gmail.com>
+From: Christina Boumpouka <hmpoumpouka@gmail.com>
+To: Danielle Madeley <danielle.madeley@collabora.co.uk>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Cc: gnome-women-list@mail.gnome.org, gdesmott@gnome.org
+Subject: Re: [gnome-women] Interested in Outreach Program for Women
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 18 Jan 2010 19:44:12 -0000
+
+Thank you both for the detailed info!
+
+I'll try to get started as soon as possible.
+
+Christina
+
+On Mon, Jan 18, 2010 at 4:02 AM, Danielle Madeley
+<danielle.madeley@collabora.co.uk> wrote:
+> Hi Christina,
+>
+> The Empathy IRC channel is #empathy on irc.gnome.org. If you have a
+> specific issue you're looking to solve someone can help you out there.
+> Guillaume (cassidy on IRC) is the Empathy maintainer, so can probably
+> point you in the direction of easier bugs to fix. I am 'danni' on IRC,
+> feel free to get in touch for any reason.
+>
+> Some things that appear to be Empathy bugs (or limitations) are really
+> Telepathy bugs or limitations. Someone should be able to point you in
+> the right direction (working on Telepathy isn't really any harder to
+> working on Empathy).
+>
+> The Empathy website is here: http://live.gnome.org/Empathy which
+> contains build instructions etc. Building Empathy is a lot like building
+> other GNOME components. If you get stuck, ask on IRC.
+>
+> http://live.gnome.org/Empathy/Roadmap is a list of the bigger items we
+> are working on.
+>
+> Translation for Empathy is handled through the GNOME Translation
+> Project, who I think hang out on #i18n on irc.gnome.org.
+>
+> Hope this helps!
+>
+> --danni
+>
+> On Sun, 2010-01-17 at 19:03 -0500, Marina Zhurakhinskaya wrote:
+>> Hi Christina,
+>>
+>> Thank you for your interest in the program! We haven't defined the
+>> application process yet, but I will e-mail the list and you personally
+>> when we do.
+>>
+>> If you have time, you can start learning and contributing to the
+>> projects you are interested in in the meantime, which will put you in
+>> a great position when applying for the Outreach Program for Women or
+>> for the Google Summer of Code.
+>>
+>> Perhaps, Danielle or Guillaume can chime in with some pointers on how
+>> to get involved with the Empathy project.
+>>
+>> As for the GNOME Shell project, here is a step-by-step list I've put
+>> together for learning and starting to contribute to it. There is
+>> definitely a lot of the coding and design work that can be done for
+>> the project. I also included a link that explains how to contribute
+>> translation. To my surprise, it doesn't look like GNOME Shell has been
+>> translated to Greek yet.
+>>
+>> Step 1. Join #gnome-shell channel on irc.gnome.org
+>> This is where people talk about GNOME Shell and where you can ask
+>> questions when you need to find out how to do something or want to
+>> decide what to work on next. The etiquette of IRC is such that you
+>> don't need to say "hi" when you join and you can lurk in the channel
+>> for a while until you have a specific question or want to share your
+>> view in a discussion. So just joining a channel is pretty
+>> non-committal. The channel is a bit quieter over the weekend and
+>> usually has some discussion going on during the day on weekdays.
+>>
+>> Step 2. http://live.gnome.org/GnomeShell#building
+>> Follow these instructions to build GNOME Shell on your system. This
+>> build process creates a directory with the code for several modules
+>> relevant to GNOME Shell, as well as the gnome-shell module itself.
+>>
+>> Step 3. http://live.gnome.org/GnomeShell/Tour and
+>> http://live.gnome.org/GnomeShell/CheatSheet
+>> Play around with GNOME Shell by running it and go over the Tour and
+>> Cheat Sheet pages to make sure you know about most features. The
+>> screenshots on the pages might look a little different from what you
+>> see because of the rapid development, but they are pretty accurate.
+>>
+>> Step 4. http://live.gnome.org/GnomeShell/Development
+>> Go over the information and the links on the development page to learn
+>> about all the code components of the GNOME Shell. Try to make a simple
+>> change (like change a color for some component or change animation
+>> behavior) and restart the shell to see your change.
+>>
+>> Step 5. http://live.gnome.org/GnomeShell/Design
+>> Go over the design document and the recent mockups linked to from this
+>> page to understand the design goals and the planned feature set.
+>>
+>> Step 6. https://bugzilla.gnome.org/browse.cgi?product=3Dgnome-shell
+>> Select a bug report you want to create a patch for. A bug report can
+>> contain a bug or a feature request. You can also create your own bug
+>> report. The number next to "Total Bugs" links to all the open bugs and
+>> the number next to "GNOME-love bugs" links to the open bugs that are
+>> good for a beginner to start with. You can ask me on IRC or via e-mail
+>> about what bug is a good one to start with when you are ready and we
+>> will think of something. I would generally expect that you would have
+>> a lot of questions when you are setting up or working on your first
+>> bugs, so don't hesitate to ask them!
+>>
+>> Step 7. http://live.gnome.org/GnomeShell#communication-resources and
+>> http://planet.gnome.org
+>> In addition to IRC, there are other ways to keep up with the project,
+>> such as the mailing list, Identi.ca or Twitter, Bugzilla updates, and
+>> commit updates. You can browse or subscribe to them as you decide on
+>> your level of involvement in the project. Beyond the GNOME Shell
+>> project, Planet GNOME is an aggregator of blogs of people involved
+>> with GNOME in general and is a good place to find out what people are
+>> working on and what other projects are out there.
+>>
+>> Step 8. http://live.gnome.org/GnomeShell/Translations and
+>> http://l10n.gnome.org/languages
+>> This page details how to create a translation for GNOME Shell. The
+>> process is pretty similar for creating a translation for other GNOME
+>> modules and you can get involved with contributing translations for
+>> other modules through your language translation team.
+>>
+>> Feel free to ask me any questions you might have about GNOME Shell and
+>> I'll keep you posted about the program!
+>>
+>> Marina
+>>
+>> ----- Original Message -----
+>> From: "Christina Boumpouka" <hmpoumpouka@gmail.com>
+>> To: gnome-women-list@mail.gnome.org
+>> Sent: Sunday, January 17, 2010 2:07:19 PM GMT -05:00 US/Canada Eastern
+>> Subject: [gnome-women] Interested in Outreach Program for Women
+>>
+>> Hello,
+>>
+>> My name is Christina Boumpouka, I'm an electronics and computer
+>> engineer, currently pursuing a phd in distributed systems. I run into
+>> the Gnome Women Outreach Program today and was intrigued, so here I
+>> am.
+>>
+>> I haven't really understood how the program works...so I will just
+>> list the roles I could play and the projects I'm interested in and
+>> maybe someone can help me narrow the list by providing availability
+>> info for the projects.
+>>
+>> I'm mostly interested in software development and user interface
+>> design, but I guess I can also contribute as a tester or provide greek
+>> translations.
+>> The projects I'm interested in are Gnome Shell and Empathy.
+>>
+>> Christina
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+>
+> --
+> Danielle Madeley
+> Software Developer, Collabora Ltd. =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0Mel=
+bourne, Australia
+>
+> www.collabora.co.uk
+>
+>
+From stormy.peters@gmail.com  Sun Jan 24 20:25:20 2010
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 19C2B7500AC
+	for <gnome-women-list@gnome.org>; Sun, 24 Jan 2010 20:25:20 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.598
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.598 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 0AVVco9ust4U for <gnome-women-list@gnome.org>;
+	Sun, 24 Jan 2010 20:25:10 +0000 (GMT)
+Received: from qw-out-2122.google.com (qw-out-2122.google.com [74.125.92.26])
+	by menubar.gnome.org (Postfix) with ESMTP id 9BC5A7500F1
+	for <gnome-women-list@gnome.org>; Sun, 24 Jan 2010 20:25:02 +0000 (GMT)
+Received: by qw-out-2122.google.com with SMTP id 8so112957qwh.9
+	for <gnome-women-list@gnome.org>; Sun, 24 Jan 2010 12:25:00 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:sender:received:date
+	:x-google-sender-auth:message-id:subject:from:to:content-type;
+	bh=kRWqkI/HD4qWzsQ4dz0Gw+wMFpyI5hlur8lEkMhjfrs=;
+	b=v7TEJMIS70iatmTQKbVAbfxE5k3a5+1Z7qvEWAEoTDIOMdaxpUsJkTGNAZyPkqipuK
+	KiE556tX5AsZYONitm6kem42sfbU7QFooyla7T1JnFQ55oPmyAsyzFh4/tY+mC1Q5HDL
+	p5N5JW/kbGXK4Vkxogcp4bgfAyoX045JVywVo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+	:from:to:content-type;
+	b=ikPTP06oHxjZzAxZgadsEyhJnFVuTAn0Fg2oJjdSZo7SMeyzDPwwtuRDi2D6yWxbok
+	LmpLEv6ORKtlSwNZQXuRc/K+iw1UNsVXbWTFg5pdSzcMK0DvTB13gGyMA3WruwTrQ9mB
+	RcwQGkdyawzokvWAueYtHH8jbmPy9IsAhKDFA=
+MIME-Version: 1.0
+Sender: stormy.peters@gmail.com
+Received: by 10.224.36.139 with SMTP id t11mr3562760qad.350.1264364700544; 
+	Sun, 24 Jan 2010 12:25:00 -0800 (PST)
+Date: Sun, 24 Jan 2010 13:25:00 -0700
+X-Google-Sender-Auth: e3ef5216edb0d36b
+Message-ID: <7ceb3e961001241225r238c730bke915e03335d7dcd1@mail.gmail.com>
+From: Stormy Peters <stormy@gnome.org>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Content-Type: multipart/alternative; boundary=001636137289d7afc8047deed813
+Subject: [gnome-women] Google Adwords & Women Outreach
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 24 Jan 2010 20:25:20 -0000
+
+--001636137289d7afc8047deed813
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi GNOME Women,
+
+I'm setting up our Google Grants account. We have free AdWords money to
+spend. How about a campaign targetting Women Outreach program? (Thanks to
+Paul Cutler for suggesting this!)
+
+What we need is an ad and then an idea of who we are targetting, what they
+are searching for and what keywords we want to target.
+
+Ad format is:
+Title: 25 characters
+Line1: 35 characters
+Line2: 35 characters
+Line3: 35 characters
+
+Here's what I'm thinking but I could use some help.
+
+Ad groups would be: (We can also have more than one ad per group and compare
+effectiveness.)
+
+1. Women looking for a job
+Ad: (I think there were some good points from before about what type of ads
+work best ...)
+Join the GNOME Community
+Help make a free desktop accessible
+to everyone. Join the Women's
+SummerOutreach Program.
+
+Keywords:
+software intern
+software internship
+free software job
+open source job
+develop free software
+develop open source
+summer job software
+
+Landing page:
+http://projects.gnome.org/outreach/women/ (Or should we have a different
+one.)
+
+2. Developers and users who might support the group
+Ad:
+Support women in GNOME!
+Encourage more women to develop
+free software. Mentor or donate to the
+Women's Summer Outreach Program!
+
+Keywords:
+(Not quite sure about this. What do we think users and developers will be
+searching on?)
+guadec
+GNOME 3
+free software movement
+women free software
+women gnome
+girls free software
+women open source
+girls open source
+
+Landing page:
+http://projects.gnome.org/outreach/women/
+
+Thoughts? Ideas?
+
+Stormy
+
+--001636137289d7afc8047deed813
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi GNOME Women,<div><br></div><div>I&#39;m setting up our Google Grants acc=
+ount. We have free AdWords money to spend. How about a campaign targetting =
+Women Outreach program? (Thanks to Paul Cutler for suggesting this!)</div>
+<div><br></div><div>What we need is an ad and then an idea of who we are ta=
+rgetting, what they are searching for and what keywords we want to target.<=
+/div><div><br></div><div>Ad format is:</div><div>Title: 25 characters</div>
+<div>Line1: 35 characters</div><div>Line2: 35 characters</div><div>Line3: 3=
+5 characters</div><div><br></div><div>Here&#39;s what I&#39;m thinking but =
+I could use some help.</div><div><br></div><div>Ad groups would be: (We can=
+ also have more than one ad per group and compare effectiveness.)</div>
+<div><br></div><div>1. Women looking for a job</div><div>Ad: (I think there=
+ were some good points from before about what type of ads work best ...)</d=
+iv><div>Join the GNOME Community</div><div>Help make a free desktop accessi=
+ble=A0</div>
+<div>to everyone. Join the Women&#39;s=A0</div><div>SummerOutreach Program.=
+</div><div><br></div><div>Keywords:</div><div>software intern</div><div>sof=
+tware internship</div><div>free software job</div><div>open source job</div=
+>
+<div>develop free software</div><div>develop open source</div><div>summer j=
+ob software</div><div><br></div><div>Landing page:</div><div><a href=3D"htt=
+p://projects.gnome.org/outreach/women/">http://projects.gnome.org/outreach/=
+women/</a> (Or should we have a different one.)</div>
+<div><br></div><div>2. Developers and users who might support the group</di=
+v><div>Ad:</div><div>Support women in GNOME!</div><div>Encourage more women=
+ to develop</div><div>free software. Mentor or donate to the</div><div>
+Women&#39;s Summer Outreach Program!</div><div><br></div><div>Keywords:</di=
+v><div>(Not quite sure about this. What do we think users and developers wi=
+ll be searching on?)</div><div>guadec</div><div>GNOME 3</div><div>free soft=
+ware movement</div>
+<div>women free software</div><div>women gnome</div><div>girls free softwar=
+e</div><div>women open source</div><div>girls open source</div><div><br></d=
+iv><div>Landing page:</div><div><a href=3D"http://projects.gnome.org/outrea=
+ch/women/">http://projects.gnome.org/outreach/women/</a></div>
+<div><br></div><div>Thoughts? Ideas?</div><div><br></div><div>Stormy</div><=
+div><br></div>
+
+--001636137289d7afc8047deed813--
+From stormy.peters@gmail.com  Sun Jan 24 21:21:54 2010
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 74C01750273
+	for <gnome-women-list@gnome.org>; Sun, 24 Jan 2010 21:21:54 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.598
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.598 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZpD237ZqGoXi for <gnome-women-list@gnome.org>;
+	Sun, 24 Jan 2010 21:21:48 +0000 (GMT)
+Received: from mail-qy0-f192.google.com (mail-qy0-f192.google.com
+	[209.85.221.192])
+	by menubar.gnome.org (Postfix) with ESMTP id 6E973750291
+	for <gnome-women-list@gnome.org>; Sun, 24 Jan 2010 21:21:40 +0000 (GMT)
+Received: by qyk30 with SMTP id 30so1689962qyk.32
+	for <gnome-women-list@gnome.org>; Sun, 24 Jan 2010 13:21:38 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:sender:received:in-reply-to
+	:references:date:x-google-sender-auth:message-id:subject:from:to
+	:content-type; bh=pD3AQB4b0ewgMU+hB85cMkdd7AXQb1OyRGlcecsIGVI=;
+	b=khyJ/NmaQERKXnPVAIm+Rc7Xvm9H/6wVX/OoNY/Lu40bBGu1Ikrf1jP7fH39IHTtn2
+	Dpkw1BVyqFdpHYjjSmXCKmdU7dHVhx0RxW/CABxlCHjR2KjPkpgoSkCmtjc/12/H56Yv
+	ZdINMODcb9lJlqnPvf//mkr3KT2mtYMBEYMP8=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:in-reply-to:references:date
+	:x-google-sender-auth:message-id:subject:from:to:content-type;
+	b=xjcW7Hpy5UyUvDI/neFmwxTDtZQCMg01OzrUwdUX1BdcukVT6qBaVghaQHeS2BTIMA
+	VS39qXYbzuLX/q2D4eEIMapl/Y6hQUt15TPhTyOlTKgy2N81sMEWWUGyb4La+Z+U5f1q
+	lHOny4Kdc8gvX2+6SPF2+hbsUuG5PqybJ66Q8=
+MIME-Version: 1.0
+Sender: stormy.peters@gmail.com
+Received: by 10.224.95.146 with SMTP id d18mr3635190qan.83.1264368098072; Sun, 
+	24 Jan 2010 13:21:38 -0800 (PST)
+In-Reply-To: <7ceb3e961001241225r238c730bke915e03335d7dcd1@mail.gmail.com>
+References: <7ceb3e961001241225r238c730bke915e03335d7dcd1@mail.gmail.com>
+Date: Sun, 24 Jan 2010 14:21:38 -0700
+X-Google-Sender-Auth: f5ad12a35b70de96
+Message-ID: <7ceb3e961001241321w1cad133bt6214aaa98e60d0e1@mail.gmail.com>
+From: Stormy Peters <stormy@gnome.org>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Content-Type: multipart/alternative; boundary=00c09f99e29559dddd047defa3d2
+Subject: Re: [gnome-women] Google Adwords & Women Outreach
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 24 Jan 2010 21:21:54 -0000
+
+--00c09f99e29559dddd047defa3d2
+Content-Type: text/plain; charset=ISO-8859-1
+
+I got the ad format slightly wrong.
+
+Title: 25 characters
+Line1: 35 characters
+Line2: 35 characters
+Line3: URL
+
+I quickly changed them to this but could use suggestions: (URL actually goes
+to http://projects.gnome.org/outreach/women. I could replace outreach with
+women.)
+
+Join the GNOME Community
+Make software for kids and people
+with disabilities. Intern with us.
+http://projects.gnome.org/outreach/
+
+Support Women in GNOME
+Encourage more women to develop
+free software. Mentor or donate to
+http://projects.gnome.org/outreach
+
+On Sun, Jan 24, 2010 at 1:25 PM, Stormy Peters <stormy@gnome.org> wrote:
+
+> Hi GNOME Women,
+>
+> I'm setting up our Google Grants account. We have free AdWords money to
+> spend. How about a campaign targetting Women Outreach program? (Thanks to
+> Paul Cutler for suggesting this!)
+>
+> What we need is an ad and then an idea of who we are targetting, what they
+> are searching for and what keywords we want to target.
+>
+> Ad format is:
+> Title: 25 characters
+> Line1: 35 characters
+> Line2: 35 characters
+> Line3: 35 characters
+>
+> Here's what I'm thinking but I could use some help.
+>
+> Ad groups would be: (We can also have more than one ad per group and
+> compare effectiveness.)
+>
+> 1. Women looking for a job
+> Ad: (I think there were some good points from before about what type of ads
+> work best ...)
+> Join the GNOME Community
+> Help make a free desktop accessible
+> to everyone. Join the Women's
+> SummerOutreach Program.
+>
+> Keywords:
+> software intern
+> software internship
+> free software job
+> open source job
+> develop free software
+> develop open source
+> summer job software
+>
+> Landing page:
+> http://projects.gnome.org/outreach/women/ (Or should we have a different
+> one.)
+>
+> 2. Developers and users who might support the group
+> Ad:
+> Support women in GNOME!
+> Encourage more women to develop
+> free software. Mentor or donate to the
+> Women's Summer Outreach Program!
+>
+> Keywords:
+> (Not quite sure about this. What do we think users and developers will be
+> searching on?)
+> guadec
+> GNOME 3
+> free software movement
+> women free software
+> women gnome
+> girls free software
+> women open source
+> girls open source
+>
+> Landing page:
+> http://projects.gnome.org/outreach/women/
+>
+> Thoughts? Ideas?
+>
+> Stormy
+>
+>
+
+--00c09f99e29559dddd047defa3d2
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+I got the ad format slightly wrong.<div><br></div><div><div>Title: 25 chara=
+cters</div><div>Line1: 35 characters</div><div>Line2: 35 characters</div><d=
+iv>Line3: URL</div><div><br></div><div>I quickly changed them to this but c=
+ould use suggestions: (URL actually goes to <a href=3D"http://projects.gnom=
+e.org/outreach/women">http://projects.gnome.org/outreach/women</a>. I could=
+ replace outreach with women.)</div>
+<div><br></div><div>Join the GNOME Community</div><div>Make software for ki=
+ds and people</div><div>with disabilities. Intern with us.</div><div><a hre=
+f=3D"http://projects.gnome.org/outreach/">http://projects.gnome.org/outreac=
+h/</a></div>
+<div><br></div><div>Support Women in GNOME</div><div>Encourage more women t=
+o develop</div><div>free software. Mentor or donate to</div><div><a href=3D=
+"http://projects.gnome.org/outreach">http://projects.gnome.org/outreach</a>=
+<br>
+<br><div class=3D"gmail_quote">On Sun, Jan 24, 2010 at 1:25 PM, Stormy Pete=
+rs <span dir=3D"ltr">&lt;<a href=3D"mailto:stormy@gnome.org">stormy@gnome.o=
+rg</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"marg=
+in:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex;">
+Hi GNOME Women,<div><br></div><div>I&#39;m setting up our Google Grants acc=
+ount. We have free AdWords money to spend. How about a campaign targetting =
+Women Outreach program? (Thanks to Paul Cutler for suggesting this!)</div>
+
+<div><br></div><div>What we need is an ad and then an idea of who we are ta=
+rgetting, what they are searching for and what keywords we want to target.<=
+/div><div><br></div><div>Ad format is:</div><div>Title: 25 characters</div>
+
+<div>Line1: 35 characters</div><div>Line2: 35 characters</div><div>Line3: 3=
+5 characters</div><div><br></div><div>Here&#39;s what I&#39;m thinking but =
+I could use some help.</div><div><br></div><div>Ad groups would be: (We can=
+ also have more than one ad per group and compare effectiveness.)</div>
+
+<div><br></div><div>1. Women looking for a job</div><div>Ad: (I think there=
+ were some good points from before about what type of ads work best ...)</d=
+iv><div>Join the GNOME Community</div><div>Help make a free desktop accessi=
+ble=A0</div>
+
+<div>to everyone. Join the Women&#39;s=A0</div><div>SummerOutreach Program.=
+</div><div><br></div><div>Keywords:</div><div>software intern</div><div>sof=
+tware internship</div><div>free software job</div><div>open source job</div=
+>
+
+<div>develop free software</div><div>develop open source</div><div>summer j=
+ob software</div><div><br></div><div>Landing page:</div><div><a href=3D"htt=
+p://projects.gnome.org/outreach/women/" target=3D"_blank">http://projects.g=
+nome.org/outreach/women/</a> (Or should we have a different one.)</div>
+
+<div><br></div><div>2. Developers and users who might support the group</di=
+v><div>Ad:</div><div>Support women in GNOME!</div><div>Encourage more women=
+ to develop</div><div>free software. Mentor or donate to the</div><div>
+
+Women&#39;s Summer Outreach Program!</div><div><br></div><div>Keywords:</di=
+v><div>(Not quite sure about this. What do we think users and developers wi=
+ll be searching on?)</div><div>guadec</div><div>GNOME 3</div><div>free soft=
+ware movement</div>
+
+<div>women free software</div><div>women gnome</div><div>girls free softwar=
+e</div><div>women open source</div><div>girls open source</div><div><br></d=
+iv><div>Landing page:</div><div><a href=3D"http://projects.gnome.org/outrea=
+ch/women/" target=3D"_blank">http://projects.gnome.org/outreach/women/</a><=
+/div>
+
+<div><br></div><div>Thoughts? Ideas?</div><div><br></div><font color=3D"#88=
+8888"><div>Stormy</div><div><br></div>
+</font></blockquote></div><br></div></div>
+
+--00c09f99e29559dddd047defa3d2--

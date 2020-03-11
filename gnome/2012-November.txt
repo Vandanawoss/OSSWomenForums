@@ -1,0 +1,984 @@
+From marinaz@redhat.com  Thu Nov 15 01:18:43 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 282AF7501FE
+	for <gnome-women-list@gnome.org>; Thu, 15 Nov 2012 01:18:43 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.09
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.09 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.188,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 5e7VpB+Y4rWE for <gnome-women-list@gnome.org>;
+	Thu, 15 Nov 2012 01:18:41 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id 62E5E750159
+	for <gnome-women-list@gnome.org>; Thu, 15 Nov 2012 01:18:40 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id qAF1Idv0019156
+	for <gnome-women-list@gnome.org>; Wed, 14 Nov 2012 20:18:39 -0500
+Date: Wed, 14 Nov 2012 20:18:39 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <1328811093.39853992.1352942319877.JavaMail.root@redhat.com>
+In-Reply-To: <1856396636.39853405.1352942093395.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.11.11.38]
+X-Mailer: Zimbra 7.2.0_GA_2669 (ZimbraWebClient - FF3.0 (Linux)/7.2.0_GA_2669)
+Subject: [gnome-women] Outreach Program for Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 15 Nov 2012 01:18:43 -0000
+
+Hi all!
+
+We have opened the application process for the new round of internships. This time the internships will include 8 Free Software organizations! The participating organizations are Deltacloud, Fedora, GNOME, JBoss, Mozilla, OpenStack, Tor, and Wikimedia.
+
+The dates for these internships are January 2 to April 2, 2013. The application deadline is December 3, 2012. As part of the application process, we are asking women to take the time to learn about the participating projects and make a small contribution to the one they are interested in. These internship tasks include ones in software development, system administration, web development, user experience design, graphic design, documentation, and marketing.
+
+All the program details are here:
+https://live.gnome.org/OutreachProgramForWomen
+
+Please consider applying for an internship, adding a project idea you can mentor, or helping us spread the word! Send the information to the universities, FOSS groups, and technical women groups, post the flyers on the university campuses or hand them out at conferences, encourage anyone who'd be a good candidate to apply, or write an update about the program on Identi.ca, Twitter, Facebook or Google+.
+
+All the materials for helping us spread the word are here:
+https://live.gnome.org/OutreachProgramForWomen/SpreadTheWord
+
+Thank you!
+Marina
+From bleonafoniqi@gmail.com  Sun Nov 18 08:32:14 2012
+Return-Path: <bleonafoniqi@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 99C23750290
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 08:32:14 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Z9fv2vWtFfFB for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 08:32:01 +0000 (UTC)
+Received: from mail-ie0-f174.google.com (mail-ie0-f174.google.com
+	[209.85.223.174])
+	by menubar.gnome.org (Postfix) with ESMTP id 0EBD1750282
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 08:32:00 +0000 (UTC)
+Received: by mail-ie0-f174.google.com with SMTP id k13so6396166iea.33
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 00:31:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:from:date:message-id:subject:to:content-type;
+	bh=7/5AeRzf7tFdP7awxeEeqz2hqI+jk+ItB8eE2QBD7RM=;
+	b=GoimCnJc/13w7rjw6yncegIWZW3DGr3LrHJv0Wx52ojc4q6v20OTDURaWKhCwpMUTS
+	TQhjq7z6eqZU9vhqIdrmgT1lVy4fxJeEyK5RRE0kjBtdvhFb1hoHxEoIClyPP3On9R3z
+	ooTq6ukpBlh8VJy95V8jsQpiVk/kENTYenu3pjduJqnZZIjmQLVOKqwuyfJ67EV6/nsm
+	F7KPr/w9gqSIk9R8lkC4JddtJO3o+yf2wBu7ppceKUQ2Yp6kon3vTyGU7uIAL1r0Q5g+
+	76tgrMi9RuFmvRJ/INYzqJAyNw8MLS6SVtmBz+vyeAOC6LqzF3XMiQUOB6n1XFh8b8i7
+	bvlQ==
+Received: by 10.50.161.232 with SMTP id xv8mr3811244igb.22.1353227519148; Sun,
+	18 Nov 2012 00:31:59 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.64.98.8 with HTTP; Sun, 18 Nov 2012 00:31:39 -0800 (PST)
+From: Bleona Foniqi <bleonafoniqi@gmail.com>
+Date: Sun, 18 Nov 2012 09:31:39 +0100
+Message-ID: <CAGZFZFBgY28UvwRcOXr7qYdH+h-jUUEtAQrruVb4UKeVcwEePw@mail.gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=14dae93409a994443604cec0d548
+Subject: [gnome-women] Hi
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 18 Nov 2012 08:32:14 -0000
+
+--14dae93409a994443604cec0d548
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello, I'm Bleona from Kosovo.
+Can somebody help me get in touch with some local(Kosovo,Albania,Macedonia)
+gnome-women?
+Thanks,
+-- 
+*Bleona Foniqi*
+*Member of Free Libre Open Source Software Kosova* http://flossk.org
+*Free Software Foundation Europe Fellow*
+https://wiki.fsfe.org/Fellows/bleona_foniqi
+
+--14dae93409a994443604cec0d548
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<br clear=3D"all">Hello, I&#39;m Bleona from Kosovo.<br>Can somebody help m=
+e get in touch with some local(Kosovo,Albania,Macedonia) gnome-women? <br>T=
+hanks,<br>-- <br><i>Bleona Foniqi</i><br><i>Member of Free Libre Open Sourc=
+e Software Kosova</i> <a href=3D"http://flossk.org" target=3D"_blank">http:=
+//flossk.org</a><br>
+
+<i>Free Software Foundation Europe Fellow</i> <a href=3D"https://wiki.fsfe.=
+org/Fellows/bleona_foniqi" target=3D"_blank">https://wiki.fsfe.org/Fellows/=
+bleona_foniqi</a><br><br>
+
+--14dae93409a994443604cec0d548--
+From marinaz@redhat.com  Sun Nov 18 16:09:34 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C14297501A1
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 16:09:34 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.269
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.269 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.367,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9K1XSEiWQZOs for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 16:09:32 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id D41477500FB
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 16:09:32 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id qAIG9ST2015622;
+	Sun, 18 Nov 2012 11:09:28 -0500
+Date: Sun, 18 Nov 2012 11:09:28 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Bleona Foniqi <bleonafoniqi@gmail.com>
+Message-ID: <1295503384.42753540.1353254968721.JavaMail.root@redhat.com>
+In-Reply-To: <CAGZFZFBgY28UvwRcOXr7qYdH+h-jUUEtAQrruVb4UKeVcwEePw@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.11.8.149]
+X-Mailer: Zimbra 7.2.0_GA_2669 (ZimbraWebClient - FF3.0 (Linux)/7.2.0_GA_2669)
+Cc: Ana Risteska <a.risteska@gmail.com>, gnome-women-list@mail.gnome.org,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Elena Petrevska <elenapetrevska77@gmail.com>
+Subject: Re: [gnome-women] Hi
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 18 Nov 2012 16:09:35 -0000
+
+Hi Bleona,
+
+There is an active GNOME community in Macedonia and 4 women did internships with GNOME in recent years. They are Tamara Atanasoska (tamara.atanasoska20@gmail.com), Jovanka Gulicoska (jovanka.gulicoska@gmail.com), Ana Risteska (a.risteska@gmail.com), and Elena Petrevska (elenapetrevska77@gmail.com).
+
+Thanks for your interest!
+Marina
+
+----- Original Message -----
+From: "Bleona Foniqi" <bleonafoniqi@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Sent: Sunday, November 18, 2012 3:31:39 AM
+Subject: [gnome-women] Hi
+
+
+
+Hello, I'm Bleona from Kosovo. 
+Can somebody help me get in touch with some local(Kosovo,Albania,Macedonia) gnome-women? 
+Thanks, 
+-- 
+Bleona Foniqi 
+Member of Free Libre Open Source Software Kosova http://flossk.org 
+Free Software Foundation Europe Fellow https://wiki.fsfe.org/Fellows/bleona_foniqi 
+
+
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+https://mail.gnome.org/mailman/listinfo/gnome-women-list
+From tamara.atanasoska20@gmail.com  Sun Nov 18 16:49:39 2012
+Return-Path: <tamara.atanasoska20@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 627447506FA
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 16:49:39 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id kTN0DBB-EhIS for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 16:49:25 +0000 (UTC)
+Received: from mail-qc0-f174.google.com (mail-qc0-f174.google.com
+	[209.85.216.174])
+	by menubar.gnome.org (Postfix) with ESMTP id 7620F750445
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 16:49:25 +0000 (UTC)
+Received: by mail-qc0-f174.google.com with SMTP id o22so3189025qcr.33
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Nov 2012 08:49:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=pxRNiKvQ6VfGXi0UNr4J2aP9LdPXZ8YL2NclMWlMe9s=;
+	b=1FTjkUjZ7Uf31IOA8WCkrMZFDDRDRFVJnIb3sE4NG3c1R+cWtrkvBXVDzbpQeiPe6Q
+	edJz/sSmGC8SA7oAfAuwVG/c4Eqo62Ppt0hcv22NMRtacbwlCos0WW7GSyx9sASKzFBi
+	gH35wKiglZIIW9ZUwtY/gmP9DQCdp2hWHtNYdy8QndFuarRjZr+lJhVAg8EGwUzKSmg/
+	TrJ+uv/QD/jCwdNdmWghB2uGc/kooZH5IPtEhMQAOdMq0nxfzEwBvOL1clgJN3XLhh0d
+	4NA0z1JDnoL8LGpRE9zrut3FiKKt6N2B7FFioVvkQ+UAle7KcqJoVpthGcbWkrBwDxI/
+	bVuw==
+MIME-Version: 1.0
+Received: by 10.224.210.66 with SMTP id gj2mr9543298qab.48.1353257363518; Sun,
+	18 Nov 2012 08:49:23 -0800 (PST)
+Received: by 10.49.40.132 with HTTP; Sun, 18 Nov 2012 08:49:23 -0800 (PST)
+In-Reply-To: <1295503384.42753540.1353254968721.JavaMail.root@redhat.com>
+References: <CAGZFZFBgY28UvwRcOXr7qYdH+h-jUUEtAQrruVb4UKeVcwEePw@mail.gmail.com>
+	<1295503384.42753540.1353254968721.JavaMail.root@redhat.com>
+Date: Sun, 18 Nov 2012 17:49:23 +0100
+Message-ID: <CAFDnFaA20DSByvLQTuKK+66_465udekqoy_E7kvZycPtn6RAVg@mail.gmail.com>
+From: Tamara Atanasoska <tamara.atanasoska20@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=20cf300faeab71337d04cec7c823
+Cc: Bleona Foniqi <bleonafoniqi@gmail.com>, Ana Risteska <a.risteska@gmail.com>,
+	gnome-women-list@mail.gnome.org,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Elena Petrevska <elenapetrevska77@gmail.com>
+Subject: Re: [gnome-women] Hi
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 18 Nov 2012 16:49:39 -0000
+
+--20cf300faeab71337d04cec7c823
+Content-Type: text/plain; charset=UTF-8
+
+Hello Bleona,
+
+I added you on facebook. Please ask whatever you need :). You can also send
+me an email.
+
+Nice to have you around,
+Tamara
+
+
+On Sun, Nov 18, 2012 at 5:09 PM, Marina Zhurakhinskaya
+<marinaz@redhat.com>wrote:
+
+> Hi Bleona,
+>
+> There is an active GNOME community in Macedonia and 4 women did
+> internships with GNOME in recent years. They are Tamara Atanasoska (
+> tamara.atanasoska20@gmail.com), Jovanka Gulicoska (
+> jovanka.gulicoska@gmail.com), Ana Risteska (a.risteska@gmail.com), and
+> Elena Petrevska (elenapetrevska77@gmail.com).
+>
+> Thanks for your interest!
+> Marina
+>
+> ----- Original Message -----
+> From: "Bleona Foniqi" <bleonafoniqi@gmail.com>
+> To: gnome-women-list@mail.gnome.org
+> Sent: Sunday, November 18, 2012 3:31:39 AM
+> Subject: [gnome-women] Hi
+>
+>
+>
+> Hello, I'm Bleona from Kosovo.
+> Can somebody help me get in touch with some
+> local(Kosovo,Albania,Macedonia) gnome-women?
+> Thanks,
+> --
+> Bleona Foniqi
+> Member of Free Libre Open Source Software Kosova http://flossk.org
+> Free Software Foundation Europe Fellow
+> https://wiki.fsfe.org/Fellows/bleona_foniqi
+>
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--20cf300faeab71337d04cec7c823
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Bleona,<div><br></div><div>I added you on facebook. Please ask whatev=
+er you need :). You can also send me an email.</div><div><br></div><div>Nic=
+e to have you around,</div><div>Tamara</div><div class=3D"gmail_extra"><br>
+<br><div class=3D"gmail_quote">On Sun, Nov 18, 2012 at 5:09 PM, Marina Zhur=
+akhinskaya <span dir=3D"ltr">&lt;<a href=3D"mailto:marinaz@redhat.com" targ=
+et=3D"_blank">marinaz@redhat.com</a>&gt;</span> wrote:<br><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex">
+Hi Bleona,<br>
+<br>
+There is an active GNOME community in Macedonia and 4 women did internships=
+ with GNOME in recent years. They are Tamara Atanasoska (<a href=3D"mailto:=
+tamara.atanasoska20@gmail.com">tamara.atanasoska20@gmail.com</a>), Jovanka =
+Gulicoska (<a href=3D"mailto:jovanka.gulicoska@gmail.com">jovanka.gulicoska=
+@gmail.com</a>), Ana Risteska (<a href=3D"mailto:a.risteska@gmail.com">a.ri=
+steska@gmail.com</a>), and Elena Petrevska (<a href=3D"mailto:elenapetrevsk=
+a77@gmail.com">elenapetrevska77@gmail.com</a>).<br>
+
+<br>
+Thanks for your interest!<br>
+Marina<br>
+<div><div class=3D"h5"><br>
+----- Original Message -----<br>
+From: &quot;Bleona Foniqi&quot; &lt;<a href=3D"mailto:bleonafoniqi@gmail.co=
+m">bleonafoniqi@gmail.com</a>&gt;<br>
+To: <a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mai=
+l.gnome.org</a><br>
+Sent: Sunday, November 18, 2012 3:31:39 AM<br>
+Subject: [gnome-women] Hi<br>
+<br>
+<br>
+<br>
+Hello, I&#39;m Bleona from Kosovo.<br>
+Can somebody help me get in touch with some local(Kosovo,Albania,Macedonia)=
+ gnome-women?<br>
+Thanks,<br>
+--<br>
+Bleona Foniqi<br>
+Member of Free Libre Open Source Software Kosova <a href=3D"http://flossk.o=
+rg" target=3D"_blank">http://flossk.org</a><br>
+Free Software Foundation Europe Fellow <a href=3D"https://wiki.fsfe.org/Fel=
+lows/bleona_foniqi" target=3D"_blank">https://wiki.fsfe.org/Fellows/bleona_=
+foniqi</a><br>
+<br>
+<br>
+</div></div>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+>
+</blockquote></div><br></div>
+
+--20cf300faeab71337d04cec7c823--
+From marinaz@redhat.com  Tue Nov 20 22:43:57 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EACA4750D92;
+	Tue, 20 Nov 2012 22:43:56 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.268
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.268 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.366,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 7ye8WMWyKPYT; Tue, 20 Nov 2012 22:43:41 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 24B0D750CC2;
+	Tue, 20 Nov 2012 22:43:40 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id qAKMhdPT018151;
+	Tue, 20 Nov 2012 17:43:39 -0500
+Date: Tue, 20 Nov 2012 17:43:39 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: "desktop-devel-list " <desktop-devel-list@gnome.org>,
+	"marketing-list " <marketing-list@gnome.org>,
+	"gnome-doc-list " <gnome-doc-list@gnome.org>, gnome-i18n@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <472310975.44692983.1353451419360.JavaMail.root@redhat.com>
+In-Reply-To: <2141323179.44691199.1353450974715.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.11.10.135]
+X-Mailer: Zimbra 7.2.0_GA_2669 (ZimbraWebClient - FF3.0 (Linux)/7.2.0_GA_2669)
+Cc: Kevin Carillo <kevin.carillo@vuw.ac.nz>
+Subject: [gnome-women] newcomer experince survey
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Nov 2012 22:43:57 -0000
+
+Hi all!
+
+Kevin Carillo is a Ph.D. student in the School of Information Management at=
+ Victoria University of Wellington whose research topic is about the influe=
+nce of newcomer experience on contributor behaviour and performance in Free=
+ and Open Source Software communities. He has put together a really well-re=
+searched survey for people who started contributing to GNOME or other proje=
+cts after January 2010. Please take it if you qualify! It's for technical a=
+nd non-technical contributors alike!
+
+The collected data will be released under a =E2=80=98share-alike=E2=80=99 O=
+pen Data Commons Open Database License (ODbL) and the published materials a=
+bout the research will be publicly available. The results of this research =
+will be of great interest to everyone in Free and Open Source Software and =
+your response would help ensure that we have a comprehensive set of data ab=
+out newcomer experiences in GNOME. It'd be great if everyone who qualifies =
+in GNOME takes part in this survey!
+
+Please complete it by this Friday, November 23. Survey link: https://limesu=
+rvey.sim.vuw.ac.nz/index.php?sid=3D65151&lang=3Den
+
+More about the survey: http://kevincarillo.org/survey-invitation
+
+Thank you!
+Marina
+From patriciasantanacruz@gmail.com  Thu Nov 22 14:11:01 2012
+Return-Path: <patriciasantanacruz@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 3046175115D
+	for <gnome-women-list@gnome.org>; Thu, 22 Nov 2012 14:11:01 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6MWSgY6Trb0L for <gnome-women-list@gnome.org>;
+	Thu, 22 Nov 2012 14:10:43 +0000 (UTC)
+Received: from mail-ob0-f182.google.com (mail-ob0-f182.google.com
+	[209.85.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id E6082751142
+	for <gnome-women-list@gnome.org>; Thu, 22 Nov 2012 14:10:42 +0000 (UTC)
+Received: by mail-ob0-f182.google.com with SMTP id 16so14178951obc.27
+	for <gnome-women-list@gnome.org>; Thu, 22 Nov 2012 06:10:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=TgSmkxjnHnlEYent0a6xYsAatVAx/1lCpPsE8yWmRGA=;
+	b=M9mLu78GbBMAvQNgOJv2DCiqxzGLfj1/REznipZzu9Os4YIcvWdB0gBHcZ1LsMHPyV
+	CYObzGyjHU/kCJtrkAIfC+/5zLZwcl1qM35ZuMga3H9Ki4kug6Kq6ttZh2lDVN5pmkLj
+	ZHMtQyydMqI+2XLoRCIzLdgwL9FCyDm78+q2T9xXOxPAxgJp3/3WLm6OSl9/bgZtOzYo
+	jSCLNNfTrc7t5QZQECuE5X/VNUOr6yqOGuv+myeZx2wam77RpCK4xCkAO6J1gTNVKDkN
+	0+clhanQfDq0+q/UJB8t2DdJAWU0Pa7GkQacfDZhXVFhcx8hWChVQIyUzuMVpC4PWbM1
+	EuEw==
+MIME-Version: 1.0
+Received: by 10.60.31.51 with SMTP id x19mr510030oeh.25.1353593441339; Thu, 22
+	Nov 2012 06:10:41 -0800 (PST)
+Received: by 10.76.35.162 with HTTP; Thu, 22 Nov 2012 06:10:41 -0800 (PST)
+In-Reply-To: <1328811093.39853992.1352942319877.JavaMail.root@redhat.com>
+References: <1856396636.39853405.1352942093395.JavaMail.root@redhat.com>
+	<1328811093.39853992.1352942319877.JavaMail.root@redhat.com>
+Date: Thu, 22 Nov 2012 14:10:41 +0000
+Message-ID: <CAHBzvo=cRi_WUBp5ggJFtc-hhAMOrkB2GzriAf8eqROKY9Pj9A@mail.gmail.com>
+From: Patricia Santana Cruz <patriciasantanacruz@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=e89a8fb1fd703dca9704cf1608d7
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] Outreach Program for Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 22 Nov 2012 14:11:01 -0000
+
+--e89a8fb1fd703dca9704cf1608d7
+Content-Type: text/plain; charset=UTF-8
+
+Hi all!
+
+My university already knows about the program now and we will put posters
+around the faculties this week! I wanted to give a talk too, but I have had
+some personal problems I have to solve and I do not know if I will still be
+able to. Anyway, if I am not able to do it for this round, I will do it for
+the next :-).
+
+Good luck to all the potenciall interns!
+Patricia.
+
+2012/11/15 Marina Zhurakhinskaya <marinaz@redhat.com>
+
+> Hi all!
+>
+> We have opened the application process for the new round of internships.
+> This time the internships will include 8 Free Software organizations! The
+> participating organizations are Deltacloud, Fedora, GNOME, JBoss, Mozilla,
+> OpenStack, Tor, and Wikimedia.
+>
+> The dates for these internships are January 2 to April 2, 2013. The
+> application deadline is December 3, 2012. As part of the application
+> process, we are asking women to take the time to learn about the
+> participating projects and make a small contribution to the one they are
+> interested in. These internship tasks include ones in software development,
+> system administration, web development, user experience design, graphic
+> design, documentation, and marketing.
+>
+> All the program details are here:
+> https://live.gnome.org/OutreachProgramForWomen
+>
+> Please consider applying for an internship, adding a project idea you can
+> mentor, or helping us spread the word! Send the information to the
+> universities, FOSS groups, and technical women groups, post the flyers on
+> the university campuses or hand them out at conferences, encourage anyone
+> who'd be a good candidate to apply, or write an update about the program on
+> Identi.ca, Twitter, Facebook or Google+.
+>
+> All the materials for helping us spread the word are here:
+> https://live.gnome.org/OutreachProgramForWomen/SpreadTheWord
+>
+> Thank you!
+> Marina
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--e89a8fb1fd703dca9704cf1608d7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi all!<br><br>My university already knows about the program now and we wil=
+l put posters around the faculties this week! I wanted to give a talk too, =
+but I have had some personal problems I have to solve and I do not know if =
+I will still be able to. Anyway, if I am not able to do it for this round, =
+I will do it for the next :-).<br>
+<br>Good luck to all the potenciall interns!<br>Patricia.<br><br><div class=
+=3D"gmail_quote">2012/11/15 Marina Zhurakhinskaya <span dir=3D"ltr">&lt;<a =
+href=3D"mailto:marinaz@redhat.com" target=3D"_blank">marinaz@redhat.com</a>=
+&gt;</span><br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Hi all!<br>
+<br>
+We have opened the application process for the new round of internships. Th=
+is time the internships will include 8 Free Software organizations! The par=
+ticipating organizations are Deltacloud, Fedora, GNOME, JBoss, Mozilla, Ope=
+nStack, Tor, and Wikimedia.<br>
+
+<br>
+The dates for these internships are January 2 to April 2, 2013. The applica=
+tion deadline is December 3, 2012. As part of the application process, we a=
+re asking women to take the time to learn about the participating projects =
+and make a small contribution to the one they are interested in. These inte=
+rnship tasks include ones in software development, system administration, w=
+eb development, user experience design, graphic design, documentation, and =
+marketing.<br>
+
+<br>
+All the program details are here:<br>
+<a href=3D"https://live.gnome.org/OutreachProgramForWomen" target=3D"_blank=
+">https://live.gnome.org/OutreachProgramForWomen</a><br>
+<br>
+Please consider applying for an internship, adding a project idea you can m=
+entor, or helping us spread the word! Send the information to the universit=
+ies, FOSS groups, and technical women groups, post the flyers on the univer=
+sity campuses or hand them out at conferences, encourage anyone who&#39;d b=
+e a good candidate to apply, or write an update about the program on Identi=
+.ca, Twitter, Facebook or Google+.<br>
+
+<br>
+All the materials for helping us spread the word are here:<br>
+<a href=3D"https://live.gnome.org/OutreachProgramForWomen/SpreadTheWord" ta=
+rget=3D"_blank">https://live.gnome.org/OutreachProgramForWomen/SpreadTheWor=
+d</a><br>
+<br>
+Thank you!<br>
+Marina<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+>
+</blockquote></div><br>
+
+--e89a8fb1fd703dca9704cf1608d7--
+From marinaz@redhat.com  Mon Nov 26 21:12:15 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2153D75191C;
+	Mon, 26 Nov 2012 21:12:15 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.27
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.27 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.368,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GNGRFVdW8srC; Mon, 26 Nov 2012 21:12:13 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 00FCD751620;
+	Mon, 26 Nov 2012 21:12:12 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id qAQLCBex019980;
+	Mon, 26 Nov 2012 16:12:11 -0500
+Date: Mon, 26 Nov 2012 16:12:11 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: foundation-list <foundation-list@gnome.org>,
+	gnome-soc-list <gnome-soc-list@gnome.org>,
+	gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <1067807059.47408367.1353964331496.JavaMail.root@redhat.com>
+In-Reply-To: <350077925.47278259.1353959275749.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.11.9.34]
+X-Mailer: Zimbra 7.2.0_GA_2669 (ZimbraWebClient - FF3.0 (Linux)/7.2.0_GA_2669)
+Cc: Kevin Carillo <kevin.carillo@vuw.ac.nz>
+Subject: [gnome-women] interesting numbers from the newcomer survey and why
+ you should take part
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 26 Nov 2012 21:12:15 -0000
+
+Hi all,
+
+Kevin Carillo shared with me some interesting numbers about the participants of the newcomer experience survey so far.
+
+Total number of participants: 276
+Total number of female participants: 32
+Number of GNOME participants: 37
+Number of female GNOME participants: 21
+Number of male GNOME participants: 16
+Number of female GNOME participants who indicated that they took part in an official mentoring program in the GNOME community: 15
+Number of male GNOME participants who indicated that they took part in an official mentoring program in the GNOME community: 4
+
+These numbers of course show that the Outreach Program for Women has been very effective in getting women involved in the GNOME community and a program like it is essential to increasing the number of women in FOSS. The current numbers indicate that there are 56.8% women among GNOME newcomers and 4.6% women among newcomers in other organizations. No other organization has an outlier number of women participants like GNOME, with 1-3 women respondents from 7 other participating organizations.
+
+In the last two years (since we started running Outreach Program for Women internships), GNOME had 45 female interns and 40 male interns (with 4 women and 4 men participating in an internship twice). I think there are three possible explanations for why there is a big gap in the number of female and male respondents who said they took part in an official mentoring program in the GNOME community:
+1) Karen and I were more effective in getting the women involved in GNOME to respond.
+2) Interns who participated in GSoC were less likely to interpret it as an official mentoring program in the GNOME community.
+3) Women interns stay more involved in GNOME than men interns.
+
+My guess is that it is predominantly reason 1 above, so this e-mail is my effort to reach out to more men who participated in GSoC or got involved in GNOME in the last three years in some different way. Please fill out the survey now! The survey closes in the end of the month (this Friday).
+
+https://limesurvey.sim.vuw.ac.nz/index.php?sid=65151&lang=en
+
+You can find more survey statistics on Kevin's blog: http://kevincarillo.org
+
+The reason everyone who qualifies should take part in the survey is that both people inside and outside the GNOME community will look to it for information on who the newcomers to the GNOME community in the last three years were and what was their experience like. We would like this information to be as accurate as possible!
+
+Thanks,
+Marina
+From arclnx@gmail.com  Mon Nov 26 22:27:00 2012
+Return-Path: <arclnx@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 14BE3751905;
+	Mon, 26 Nov 2012 22:27:00 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.598
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.598 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HK_RANDOM_ENVFROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id z1clO7yJtWIf; Mon, 26 Nov 2012 22:26:56 +0000 (UTC)
+Received: from mail-la0-f54.google.com (mail-la0-f54.google.com
+	[209.85.215.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 25D8D75175C;
+	Mon, 26 Nov 2012 22:26:54 +0000 (UTC)
+Received: by mail-la0-f54.google.com with SMTP id j13so15366480lah.27
+	for <multiple recipients>; Mon, 26 Nov 2012 14:26:52 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:sender:in-reply-to:references:date
+	:x-google-sender-auth:message-id:subject:from:to:cc:content-type;
+	bh=ibyK0offxKpDaRIwN+NNXtSUgfFXNegS0BJzbwNV1uM=;
+	b=Ab1e712XnbE16b83TP26wpazBpXkRsL9XtCxJJjOkK+GO9UD4CtaEGhDrb8TfrnjA5
+	091wugK4Hvf7H7ZHBGrMy0IxQs/nHnOt+HI212FEGdFtcFW+ur0EPoJKvifoXHGg4eC9
+	0MXgw+MavFkXp9eQpoPIEHJtHWovpMD1I1O+QPTG1JLiKc0NqO4xNjdeDYHvp3ljaDHD
+	GD3OqDkZX+E8ep1YgNUyrlfsC8/fKyVDM8upqR4uT5Q/w10GffLQwIcNaMoLzdGpMblV
+	waz5OQ/jBcVz7XeiAyd4A273yI3jTzwgtdpaBJLzeAurZdjGr70MhuEfacpCoa0E5Lf7
+	flmQ==
+MIME-Version: 1.0
+Received: by 10.112.88.100 with SMTP id bf4mr5842950lbb.49.1353968812575; Mon,
+	26 Nov 2012 14:26:52 -0800 (PST)
+Sender: arclnx@gmail.com
+Received: by 10.114.2.137 with HTTP; Mon, 26 Nov 2012 14:26:52 -0800 (PST)
+In-Reply-To: <1067807059.47408367.1353964331496.JavaMail.root@redhat.com>
+References: <350077925.47278259.1353959275749.JavaMail.root@redhat.com>
+	<1067807059.47408367.1353964331496.JavaMail.root@redhat.com>
+Date: Mon, 26 Nov 2012 22:26:52 +0000
+X-Google-Sender-Auth: qnh4RrQOJnllPa3vCpvQP7q9Oe0
+Message-ID: <CACeDmPrBisVsjKjG6LHGt3Ny6whjh2=Ua-6VHQLJZX9P4dWfpg@mail.gmail.com>
+From: Alberto Ruiz <aruiz@gnome.org>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=bcaec554d6401c4d2304cf6d6ec1
+X-Mailman-Approved-At: Mon, 26 Nov 2012 22:29:53 +0000
+Cc: Kevin Carillo <kevin.carillo@vuw.ac.nz>,
+	gnome-soc-list <gnome-soc-list@gnome.org>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	foundation-list <foundation-list@gnome.org>
+Subject: Re: [gnome-women] interesting numbers from the newcomer survey and
+ why you should take part
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 26 Nov 2012 22:27:01 -0000
+
+--bcaec554d6401c4d2304cf6d6ec1
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hey Marina,
+
+I didn't need the numbers to know that GOPW was a total success but it is
+encouraging to see them.
+
+Congrats to Marina and everybody who has supported the program, you guys
+rock and I'm extremely proud to be part of this community.
+
+
+2012/11/26 Marina Zhurakhinskaya <marinaz@redhat.com>
+
+> Hi all,
+>
+> Kevin Carillo shared with me some interesting numbers about the
+> participants of the newcomer experience survey so far.
+>
+> Total number of participants: 276
+> Total number of female participants: 32
+> Number of GNOME participants: 37
+> Number of female GNOME participants: 21
+> Number of male GNOME participants: 16
+> Number of female GNOME participants who indicated that they took part in
+> an official mentoring program in the GNOME community: 15
+> Number of male GNOME participants who indicated that they took part in an
+> official mentoring program in the GNOME community: 4
+>
+> These numbers of course show that the Outreach Program for Women has been
+> very effective in getting women involved in the GNOME community and a
+> program like it is essential to increasing the number of women in FOSS. The
+> current numbers indicate that there are 56.8% women among GNOME newcomers
+> and 4.6% women among newcomers in other organizations. No other
+> organization has an outlier number of women participants like GNOME, with
+> 1-3 women respondents from 7 other participating organizations.
+>
+> In the last two years (since we started running Outreach Program for Women
+> internships), GNOME had 45 female interns and 40 male interns (with 4 women
+> and 4 men participating in an internship twice). I think there are three
+> possible explanations for why there is a big gap in the number of female
+> and male respondents who said they took part in an official mentoring
+> program in the GNOME community:
+> 1) Karen and I were more effective in getting the women involved in GNOME
+> to respond.
+> 2) Interns who participated in GSoC were less likely to interpret it as an
+> official mentoring program in the GNOME community.
+> 3) Women interns stay more involved in GNOME than men interns.
+>
+> My guess is that it is predominantly reason 1 above, so this e-mail is my
+> effort to reach out to more men who participated in GSoC or got involved in
+> GNOME in the last three years in some different way. Please fill out the
+> survey now! The survey closes in the end of the month (this Friday).
+>
+> https://limesurvey.sim.vuw.ac.nz/index.php?sid=65151&lang=en
+>
+> You can find more survey statistics on Kevin's blog:
+> http://kevincarillo.org
+>
+> The reason everyone who qualifies should take part in the survey is that
+> both people inside and outside the GNOME community will look to it for
+> information on who the newcomers to the GNOME community in the last three
+> years were and what was their experience like. We would like this
+> information to be as accurate as possible!
+>
+> Thanks,
+> Marina
+> _______________________________________________
+> gnome-soc-list mailing list
+> gnome-soc-list@gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-soc-list
+>
+
+
+
+-- 
+Cheers,
+Alberto Ruiz
+
+--bcaec554d6401c4d2304cf6d6ec1
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hey Marina,<br><br>I didn&#39;t need the numbers to know that GOPW was a to=
+tal success but it is encouraging to see them.<br><br>Congrats to Marina an=
+d everybody who has supported the program, you guys rock and I&#39;m extrem=
+ely proud to be part of this community.<br>
+<div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">2012/11/26 Ma=
+rina Zhurakhinskaya <span dir=3D"ltr">&lt;<a href=3D"mailto:marinaz@redhat.=
+com" target=3D"_blank">marinaz@redhat.com</a>&gt;</span><br><blockquote cla=
+ss=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;pa=
+dding-left:1ex">
+Hi all,<br>
+<br>
+Kevin Carillo shared with me some interesting numbers about the participant=
+s of the newcomer experience survey so far.<br>
+<br>
+Total number of participants: 276<br>
+Total number of female participants: 32<br>
+Number of GNOME participants: 37<br>
+Number of female GNOME participants: 21<br>
+Number of male GNOME participants: 16<br>
+Number of female GNOME participants who indicated that they took part in an=
+ official mentoring program in the GNOME community: 15<br>
+Number of male GNOME participants who indicated that they took part in an o=
+fficial mentoring program in the GNOME community: 4<br>
+<br>
+These numbers of course show that the Outreach Program for Women has been v=
+ery effective in getting women involved in the GNOME community and a progra=
+m like it is essential to increasing the number of women in FOSS. The curre=
+nt numbers indicate that there are 56.8% women among GNOME newcomers and 4.=
+6% women among newcomers in other organizations. No other organization has =
+an outlier number of women participants like GNOME, with 1-3 women responde=
+nts from 7 other participating organizations.<br>
+
+<br>
+In the last two years (since we started running Outreach Program for Women =
+internships), GNOME had 45 female interns and 40 male interns (with 4 women=
+ and 4 men participating in an internship twice). I think there are three p=
+ossible explanations for why there is a big gap in the number of female and=
+ male respondents who said they took part in an official mentoring program =
+in the GNOME community:<br>
+
+1) Karen and I were more effective in getting the women involved in GNOME t=
+o respond.<br>
+2) Interns who participated in GSoC were less likely to interpret it as an =
+official mentoring program in the GNOME community.<br>
+3) Women interns stay more involved in GNOME than men interns.<br>
+<br>
+My guess is that it is predominantly reason 1 above, so this e-mail is my e=
+ffort to reach out to more men who participated in GSoC or got involved in =
+GNOME in the last three years in some different way. Please fill out the su=
+rvey now! The survey closes in the end of the month (this Friday).<br>
+
+<br>
+<a href=3D"https://limesurvey.sim.vuw.ac.nz/index.php?sid=3D65151&amp;lang=
+=3Den" target=3D"_blank">https://limesurvey.sim.vuw.ac.nz/index.php?sid=3D6=
+5151&amp;lang=3Den</a><br>
+<br>
+You can find more survey statistics on Kevin&#39;s blog: <a href=3D"http://=
+kevincarillo.org" target=3D"_blank">http://kevincarillo.org</a><br>
+<br>
+The reason everyone who qualifies should take part in the survey is that bo=
+th people inside and outside the GNOME community will look to it for inform=
+ation on who the newcomers to the GNOME community in the last three years w=
+ere and what was their experience like. We would like this information to b=
+e as accurate as possible!<br>
+
+<br>
+Thanks,<br>
+Marina<br>
+_______________________________________________<br>
+gnome-soc-list mailing list<br>
+<a href=3D"mailto:gnome-soc-list@gnome.org">gnome-soc-list@gnome.org</a><br=
+>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-soc-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-soc-list</a><br>
+</blockquote></div><br><br clear=3D"all"><br>-- <br>Cheers,<br>Alberto Ruiz=
+<br>
+</div>
+
+--bcaec554d6401c4d2304cf6d6ec1--

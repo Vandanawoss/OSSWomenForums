@@ -1,0 +1,1280 @@
+From kjnelson at us.ibm.com  Mon May  2 14:46:05 2016
+From: kjnelson at us.ibm.com (Kendall J Nelson)
+Date: Mon, 2 May 2016 09:46:05 -0500
+Subject: [Women-of-openstack]  Working Breakfast Lightning Talks
+Message-ID: <201605021446.u42EkDY2030571@d01av01.pok.ibm.com>
+
+
+
+Hello Everyone,
+
+  I hope you all had as good a time as I did at the Summit last week! I
+especially enjoyed getting to speak at the Women of OpenStack working
+breakfast on Tuesday morning. I was just wondering if anyone happened to
+record the lightning talks? I didn't think to ask anyone ahead of time, and
+I am kicking myself now for not doing so since it was my first Summit talk-
+and my first summit for that matter. If you did or know someone that did,
+please let me know!
+
+All the Best,
+                                                          
+   Kendall J. Nelson                                      
+   Software Engineer &                                    
+   OpenStack Contributor                                  
+                                                          
+
+
+                                                           
+                                                           
+                                                           
+   E-mail: kjnelson at us.ibm.com                         IBM 
+   Cell Phone: (952) 215- 4025                             
+   IRC Nickname: diablo_rojo                 3605 Hwy 52 N 
+                                             Rochester, MN 
+                                                55901-1407 
+                                             United States 
+                                                           
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/e18be739/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 09606953.gif
+Type: image/gif
+Size: 2022 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/e18be739/attachment.gif>
+
+From xing.yang at emc.com  Mon May  2 15:17:12 2016
+From: xing.yang at emc.com (yang, xing)
+Date: Mon, 2 May 2016 15:17:12 +0000
+Subject: [Women-of-openstack] Working Breakfast Lightning Talks
+In-Reply-To: <201605021446.u42EkDY2030571@d01av01.pok.ibm.com>
+References: <201605021446.u42EkDY2030571@d01av01.pok.ibm.com>
+Message-ID: <820580CE-3423-4FE6-9323-541CF8D44EF5@emc.com>
+
+Hi Kendall,
+
+The Women of OpenStack Breakfast working sessions from the previous summits are all available on YouTube.  I have not seen the one from the Austin summit yet, but I assume it will be published sometime or maybe there is already a link that I don't know about.
+
+Thanks,
+Xing
+
+
+On May 2, 2016, at 10:46 AM, Kendall J Nelson <kjnelson at us.ibm.com<mailto:kjnelson at us.ibm.com>> wrote:
+
+
+Hello Everyone,
+
+I hope you all had as good a time as I did at the Summit last week! I especially enjoyed getting to speak at the Women of OpenStack working breakfast on Tuesday morning. I was just wondering if anyone happened to record the lightning talks? I didn't think to ask anyone ahead of time, and I am kicking myself now for not doing so since it was my first Summit talk- and my first summit for that matter. If you did or know someone that did, please let me know!
+
+All the Best,
+
+
+Kendall J. Nelson
+Software Engineer &
+OpenStack Contributor
+________________________________
+
+E-mail: kjnelson at us.ibm.com<mailto:zahill at us.ibm.com>
+Cell Phone: (952) 215- 4025
+IRC Nickname: diablo_rojo
+<09606953.gif>
+
+3605 Hwy 52 N
+Rochester, MN 55901-1407
+United States
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/d3feb40b/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 09606953.gif
+Type: image/gif
+Size: 2022 bytes
+Desc: 09606953.gif
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/d3feb40b/attachment.gif>
+
+From claire at openstack.org  Mon May  2 15:23:11 2016
+From: claire at openstack.org (Claire Massey)
+Date: Mon, 2 May 2016 10:23:11 -0500
+Subject: [Women-of-openstack] Working Breakfast Lightning Talks
+In-Reply-To: <820580CE-3423-4FE6-9323-541CF8D44EF5@emc.com>
+References: <201605021446.u42EkDY2030571@d01av01.pok.ibm.com>
+ <820580CE-3423-4FE6-9323-541CF8D44EF5@emc.com>
+Message-ID: <7BD343C9-283B-4DA2-AAC0-49C477C6DA72@openstack.org>
+
+HI All,
+
+At previous Summits the working breakfast was hosted in one of the main conference breakout rooms that was pre-set with video record. For Austin we hosted the event in a much larger room, one of the lunch rooms, that does not host breakout sessions and therefore did not offer video record. 
+
+Best,
+Claire
+
+
+> On May 2, 2016, at 10:17 AM, yang, xing <xing.yang at emc.com> wrote:
+> 
+> Hi Kendall,
+> 
+> The Women of OpenStack Breakfast working sessions from the previous summits are all available on YouTube.  I have not seen the one from the Austin summit yet, but I assume it will be published sometime or maybe there is already a link that I don't know about.
+> 
+> Thanks,
+> Xing
+> 
+> 
+> On May 2, 2016, at 10:46 AM, Kendall J Nelson <kjnelson at us.ibm.com <mailto:kjnelson at us.ibm.com>> wrote:
+> 
+>> Hello Everyone,
+>> 
+>> I hope you all had as good a time as I did at the Summit last week! I especially enjoyed getting to speak at the Women of OpenStack working breakfast on Tuesday morning. I was just wondering if anyone happened to record the lightning talks? I didn't think to ask anyone ahead of time, and I am kicking myself now for not doing so since it was my first Summit talk- and my first summit for that matter. If you did or know someone that did, please let me know! 
+>> 
+>> All the Best, 
+>> 
+>> Kendall J. Nelson
+>> Software Engineer &
+>> OpenStack Contributor
+>> E-mail: kjnelson at us.ibm.com <mailto:zahill at us.ibm.com>
+>> Cell Phone: (952) 215- 4025
+>> IRC Nickname: diablo_rojo	
+>> <09606953.gif>
+>> 
+>> 3605 Hwy 52 N
+>> Rochester, MN 55901-1407
+>> United States
+>> 
+>> 
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> <09606953.gif>_______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/23de51d1/attachment-0001.html>
+
+From jessicak at us.ibm.com  Mon May  2 17:22:55 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 2 May 2016 12:22:55 -0500
+Subject: [Women-of-openstack] Reminder: May 2nd Women of OpenStack meeting
+	today at 2000 UTC
+Message-ID: <201605021723.u42HNdYF016539@d01av03.pok.ibm.com>
+
+
+
+It was great connecting with so many of you last week in Austin. Reminder:
+we will have a Women of OpenStack meeting today. We will be discussing the
+top outcomes of the working breakfast discussions and I hope that you are
+able to attend.
+
+Women of OpenStack
+May 2, 2016, 2000 UTC
+
+Dial In: 1-203-277-8157 or 866-619-0383? Participant: 7217256# Leader 4018#
+
+Leader: Jessica Murillo
+Etherpad: https://etherpad.openstack.org/p/WOS_5_2_16
+
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/0b311ff3/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Mon May  2 19:09:45 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Mon, 2 May 2016 19:09:45 +0000
+Subject: [Women-of-openstack] Reminder: May 2nd Women of OpenStack
+	meeting	today at 2000 UTC
+In-Reply-To: <201605021723.u42HNdYF016539@d01av03.pok.ibm.com>
+References: <201605021723.u42HNdYF016539@d01av03.pok.ibm.com>
+Message-ID: <BL2PR02MB4205A8FB46720E9B34D9C63F6790@BL2PR02MB420.namprd02.prod.outlook.com>
+
+Hi all
+
+Some of us are on the call and etherpad, but there seem to be only 2-3 of us. Where is every else?
+
+
+Thank You,
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+From: Jessica Murillo [mailto:jessicak at us.ibm.com]
+Sent: Monday, May 02, 2016 10:23 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Reminder: May 2nd Women of OpenStack meeting today at 2000 UTC
+
+
+It was great connecting with so many of you last week in Austin. Reminder: we will have a Women of OpenStack meeting today. We will be discussing the top outcomes of the working breakfast discussions and I hope that you are able to attend.
+
+Women of OpenStack
+May 2, 2016, 2000 UTC
+
+Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+Leader: Jessica Murillo
+Etherpad: https://etherpad.openstack.org/p/WOS_5_2_16
+
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+Mobile Phone: 512-970-8466
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/5861aae7/attachment.html>
+
+From jessicak at us.ibm.com  Mon May  2 19:10:25 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 2 May 2016 14:10:25 -0500
+Subject: [Women-of-openstack] Reminder: May 2nd Women of OpenStack
+ meeting	today at 2000 UTC
+In-Reply-To: <BL2PR02MB4205A8FB46720E9B34D9C63F6790@BL2PR02MB420.namprd02.prod.outlook.com>
+References: <201605021723.u42HNdYF016539@d01av03.pok.ibm.com>
+ <BL2PR02MB4205A8FB46720E9B34D9C63F6790@BL2PR02MB420.namprd02.prod.outlook.com>
+Message-ID: <201605021910.u42JAXVD006152@d03av04.boulder.ibm.com>
+
+
+Meeting starts in 50 minutes -- 2000 UTC
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Nithya Ruff <Nithya.Ruff at sandisk.com>
+To:	Jessica Murillo/Austin/IBM at IBMUS,
+            "women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	05/02/2016 02:09 PM
+Subject:	RE: [Women-of-openstack] Reminder: May 2nd Women of OpenStack
+            meeting	today at 2000 UTC
+
+
+
+Hi all
+
+Some of us are on the call and etherpad, but there seem to be only 2-3 of
+us. Where is every else?
+
+
+Thank You,
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com        Twitter: @nithyaruff
+
+From: Jessica Murillo [mailto:jessicak at us.ibm.com]
+Sent: Monday, May 02, 2016 10:23 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Reminder: May 2nd Women of OpenStack meeting
+today at 2000 UTC
+
+
+
+It was great connecting with so many of you last week in Austin. Reminder:
+we will have a Women of OpenStack meeting today. We will be discussing the
+top outcomes of the working breakfast discussions and I hope that you are
+able to attend.
+
+Women of OpenStack
+May 2, 2016, 2000 UTC
+
+Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+Leader: Jessica Murillo
+Etherpad: https://etherpad.openstack.org/p/WOS_5_2_16
+
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+PLEASE NOTE: The information contained in this electronic mail message is
+intended only for the use of the designated recipient(s) named above. If
+the reader of this message is not the intended recipient, you are hereby
+notified that you have received this message in error and that any review,
+dissemination, distribution, or copying of this message is strictly
+prohibited. If you have received this communication in error, please notify
+the sender by telephone or e-mail (as shown above) immediately and destroy
+any and all copies of this message in your possession (whether hard copies
+or electronically stored copies).
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/1bd900b9/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/1bd900b9/attachment-0001.gif>
+
+From Amy.Marrich at rackspace.com  Mon May  2 19:15:22 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Mon, 2 May 2016 19:15:22 +0000
+Subject: [Women-of-openstack] Reminder: May 2nd Women of
+	OpenStack	meeting	today at 2000 UTC
+In-Reply-To: <BL2PR02MB4205A8FB46720E9B34D9C63F6790@BL2PR02MB420.namprd02.prod.outlook.com>
+References: <201605021723.u42HNdYF016539@d01av03.pok.ibm.com>,
+ <BL2PR02MB4205A8FB46720E9B34D9C63F6790@BL2PR02MB420.namprd02.prod.outlook.com>
+Message-ID: <8c1dc27ba5604f7dbfe93c5b963997b8@rackspace.com>
+
+I'm back in Austin for a conference so unable to attend.
+
+Amy
+________________________________
+From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+Sent: Monday, May 2, 2016 2:09:45 PM
+To: Jessica Murillo; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Reminder: May 2nd Women of OpenStack meeting today at 2000 UTC
+
+Hi all
+
+Some of us are on the call and etherpad, but there seem to be only 2-3 of us. Where is every else?
+
+
+Thank You,
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+From: Jessica Murillo [mailto:jessicak at us.ibm.com]
+Sent: Monday, May 02, 2016 10:23 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Reminder: May 2nd Women of OpenStack meeting today at 2000 UTC
+
+
+It was great connecting with so many of you last week in Austin. Reminder: we will have a Women of OpenStack meeting today. We will be discussing the top outcomes of the working breakfast discussions and I hope that you are able to attend.
+
+Women of OpenStack
+May 2, 2016, 2000 UTC
+
+Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+Leader: Jessica Murillo
+Etherpad: https://etherpad.openstack.org/p/WOS_5_2_16
+
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+Mobile Phone: 512-970-8466
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/9fab3e3e/attachment.html>
+
+From ashley.lai at canonical.com  Mon May  2 20:11:24 2016
+From: ashley.lai at canonical.com (Ashley Lai)
+Date: Mon, 2 May 2016 15:11:24 -0500
+Subject: [Women-of-openstack] Reminder: May 2nd Women of OpenStack
+ meeting today at 2000 UTC
+In-Reply-To: <8c1dc27ba5604f7dbfe93c5b963997b8@rackspace.com>
+References: <201605021723.u42HNdYF016539@d01av03.pok.ibm.com>
+ <BL2PR02MB4205A8FB46720E9B34D9C63F6790@BL2PR02MB420.namprd02.prod.outlook.com>
+ <8c1dc27ba5604f7dbfe93c5b963997b8@rackspace.com>
+Message-ID: <CAP7VMmut_5oKxjV5AO_Z2oiHftSnZ9FRHqfh4Fhj+dqxoZPhHA@mail.gmail.com>
+
+It's not on my calendar or I got removed from the invite?
+
+Thanks,
+--Ashley
+
+On Mon, May 2, 2016 at 2:15 PM, Amy Marrich <Amy.Marrich at rackspace.com> wrote:
+> I'm back in Austin for a conference so unable to attend.
+>
+> Amy
+> ________________________________
+> From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+> Sent: Monday, May 2, 2016 2:09:45 PM
+> To: Jessica Murillo; women-of-openstack at lists.openstack.org
+> Subject: Re: [Women-of-openstack] Reminder: May 2nd Women of OpenStack
+> meeting today at 2000 UTC
+>
+>
+> Hi all
+>
+>
+>
+> Some of us are on the call and etherpad, but there seem to be only 2-3 of
+> us. Where is every else?
+>
+>
+>
+>
+>
+> Thank You,
+>
+> Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+>
+> WIN Board Member
+>
+> SanDisk Corporation
+> 951 SanDisk Drive, Milpitas, CA 95035
+> T: + (408-801-7068)| M: + (510-378-3159)
+>
+> Nithya.Ruff at SanDisk.com        Twitter: @nithyaruff
+>
+>
+>
+> From: Jessica Murillo [mailto:jessicak at us.ibm.com]
+> Sent: Monday, May 02, 2016 10:23 AM
+> To: women-of-openstack at lists.openstack.org
+> Subject: [Women-of-openstack] Reminder: May 2nd Women of OpenStack meeting
+> today at 2000 UTC
+>
+>
+>
+> It was great connecting with so many of you last week in Austin. Reminder:
+> we will have a Women of OpenStack meeting today. We will be discussing the
+> top outcomes of the working breakfast discussions and I hope that you are
+> able to attend.
+>
+> Women of OpenStack
+> May 2, 2016, 2000 UTC
+>
+> Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+>
+> Leader: Jessica Murillo
+> Etherpad: https://etherpad.openstack.org/p/WOS_5_2_16
+>
+>
+>
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> jessicak at us.ibm.com
+> Mobile Phone: 512-970-8466
+>
+> PLEASE NOTE: The information contained in this electronic mail message is
+> intended only for the use of the designated recipient(s) named above. If the
+> reader of this message is not the intended recipient, you are hereby
+> notified that you have received this message in error and that any review,
+> dissemination, distribution, or copying of this message is strictly
+> prohibited. If you have received this communication in error, please notify
+> the sender by telephone or e-mail (as shown above) immediately and destroy
+> any and all copies of this message in your possession (whether hard copies
+> or electronically stored copies).
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+
+
+From jessicak at us.ibm.com  Tue May  3 03:08:58 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 2 May 2016 22:08:58 -0500
+Subject: [Women-of-openstack] See etherpad notes from May 2nd Women of
+	OpenStack meeting
+Message-ID: <201605030309.u43396xI021899@d03av05.boulder.ibm.com>
+
+
+
+Thanks to everyone who was able to join or add comments to today's Women of
+OpenStack discussion. Please take a few minutes to read and add any
+additional comments in the etherpad:
+https://etherpad.openstack.org/p/WOS_5_2_16.
+
+There were a number of common themes in the discussion last week as well as
+today:  separation of Design and OpenStack Summits and how we will continue
+to reach women as the event schedule changes, on-boarding and educating new
+OpenStack community members, using metrics to understand areas we should
+address and formulate actions, and our interlock with the OpenStack
+Diversity Council.
+
+I will continue to summarize the input for our next meeting where we can
+prioritize and assign owners to a few key actions.
+
+Our next meeting is scheduled in 2 weeks on May 16 @ 2000 UTC.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+----- Forwarded by Jessica Murillo/Austin/IBM on 05/02/2016 09:57 PM -----
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Date:	05/02/2016 12:22 PM
+Subject:	Reminder: May 2nd Women of OpenStack meeting today at 2000 UTC
+
+
+It was great connecting with so many of you last week in Austin. Reminder:
+we will have a Women of OpenStack meeting today. We will be discussing the
+top outcomes of the working breakfast discussions and I hope that you are
+able to attend.
+
+Women of OpenStack
+May 2, 2016, 2000 UTC
+
+Dial In: 1-203-277-8157 or 866-619-0383? Participant: 7217256# Leader 4018#
+
+Leader: Jessica Murillo
+Etherpad: https://etherpad.openstack.org/p/WOS_5_2_16
+
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160502/1394201f/attachment.html>
+
+From emma.l.foley at intel.com  Fri May  6 10:26:54 2016
+From: emma.l.foley at intel.com (Foley, Emma L)
+Date: Fri, 6 May 2016 10:26:54 +0000
+Subject: [Women-of-openstack] OpenStack Day Ireland
+Message-ID: <0078AE486081F642B4747581212AD05F0133E781@IRSMSX109.ger.corp.intel.com>
+
+Hello ladies,
+
+For anyone in the vicinity of Ireland, I'd like to invite you to attend the first ever official Ireland OpenStack Day will take place on the 10th of June, 2016, in the Marker Hotel, Dublin, Ireland [1].
+
+This is a great opportunity to meet the OpenStack Foundation chief executive, industry leaders, end users and active community contributors/core developers, and share learnings!
+
+To secure your seat at the first Ireland OpenStack Day event, follow the EventBrite link at [2]. Please note there is a cover charge of 55 EUR which includes your event pass, a sit-down lunch in the fabulous Brasserie restaurant, The Marker Hotel, refreshments throughout the day, the first OpenStack Ireland event t-shirt and an automatic entry to have a chance to win one of many fabulous spot prizes. Don't delay - book now as places are limited and you really don't want to miss out!
+
+Target Audience :
+   IT Executives / CIOs / Infrastructure Architects
+   Public & Private Cloud Operators / Sysadmins
+   OpenStack Ecosystem / Service Providers
+   Cloud Application Developers
+   OpenStack Contributors / Community
+
+This event is organized by Intel, Dell and Selected Green.
+Ireland OpenStack Day is a sanctioned official OpenStack Foundation supported event. For any enquiries, please contact [3], or OpenStack directly.
+
+For more information, check out the official website at [4] or follow us on Twitter @OpenStackIrlDay [5].
+
+[1] http://openstackdayireland.com/location-3/
+[2] https://www.eventbrite.ie/e/openstack-day-ireland-tickets-21201862341?ref=openstack-community-mailing-list%20target=_blank
+[3] info at openstackdayireland.com
+[4] http://openstackdayireland.com/
+[5] https://twitter.com/OpenStackIrlDay
+
+Best Regards,
+Emma Foley 
+
+--------------------------------------------------------------
+Intel Research and Development Ireland Limited
+Registered in Ireland
+Registered Office: Collinstown Industrial Park, Leixlip, County Kildare
+Registered Number: 308263	
+
+
+From sharoner at gigaspaces.com  Fri May  6 13:15:52 2016
+From: sharoner at gigaspaces.com (Sharone Zitzman)
+Date: Fri, 6 May 2016 16:15:52 +0300
+Subject: [Women-of-openstack] OpenStack Day Israel 2016 - June 2, 2016
+Message-ID: <CAHL_q8shzKSP-9Vz4Xp403cD0OZ-f9LLaBndwjCsgVbZn2VEbg@mail.gmail.com>
+
+*IT'S TIME FOR OPENSTACK DAY ISRAEL 2016!*
+
+*A big thanks to our Platinum & Gold sponsors Rackspace, IBM, HP, Red Hat,
+VMware, & AT&T.*
+
+
+We are really excited to already announce our excellent lineup of headline
+speakers:
+
+Jonathan Bryce, Executive Director of the OpenStack Foundation
+
+Tim Bell, Compute and Monitoring Group Leader at CERN
+
+*Walter Bentley, *Author, Stacker, & Racker
+
+*Frederic Lardinois, *Writer at Techcrunch
+
+*Monty Taylor, *Distinguished Engineer at IBM
+
+Keep updated with the latest info at the OpenStack Day Israel
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=http%3A%2F%2Fwww.openstack-israel.org%2F&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+website and
+be sure to register early for this awesome conference!
+
+--------------------
+
+
+The Votes Are In!
+
+See the full agenda with all the great talks as decided by you, the
+OpenStack community!
+
+SEE THE AGENDA >>
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=http%3A%2F%2Fwww.openstack-israel.org%2F%23!agenda%2Fcjg9&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+
+Call for Lightning Talks are still open - submit yours here
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=http%3A%2F%2Fgoo.gl%2Fforms%2FjcPuUVVfHv&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+!
+
+--------------------
+
+
+SHARING IS CARING TICKET DISCOUNTS!
+
+We have two great ticket discounts available for all of you Stackers. Just
+tweet or post that you are excited to be going to #OpenStack Day Israel on
+June 2nd and why, and tag @OpenStackIL and the first 30...
+
+*Women and Soldiers: Get a FREE Ticket!*
+
+*All others: Get a 20% Discount on your Ticket!*
+
+ Just send us an email[/url] with the link to your post and we will send
+you a code for your ticket.
+
+--------------------
+
+X201 Cloud Fundamentals for OpenStack Online Course
+
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=https%3A%2F%2Facademy.hastexo.com%2Fcourses%2Fcourse-v1%3Ahastexo%2Bhx201%2B201605%2Fabout&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+
+Meet hastexo's
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=https%3A%2F%2Fwww.hastexo.com%2F&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+brand
+new self-paced OpenStack course with fully interactive labs, all running on
+an open-source platform. The course is available at a discounted rate of
+2,000 Shekels
+
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=http%3A%2F%2Fwww.openstack-israel.org%2F%23!register%2FmainPage&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+
+--------------------
+
+Come for the t-shirts, stay for the talks!
+
+Register
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=http%3A%2F%2Fwww.openstack-israel.org%2F%23!register%2FmainPage&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+for
+OpenStack Day Israel today to get one of these awesome sauce shirts.
+
+--------------------
+
+Sponsor OpenStack Day Israel
+
+Get your brand and product in front of 400+ OpenStack professionals at the
+only OpenStack conference in Israel.
+SEE THE SPONSORSHIP PACKAGES
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=http%3A%2F%2Fwww.openstack-israel.org%2F%23!sponsor%2Fk8dyo&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+
+
+
+
+
+
+[image: photo]
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=http%3A%2F%2Fgetcloudify.org%2F%3Futm_source%3DEML-SIG%26utm_medium%3DEML%26utm_term%3DSIG-CFY%26utm_content%3DEML-SIG-CFY-LG%26utm_campaign%3DEML-SIG-CFY-09-15&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+*Sharone Zitzman*
+Director of Marketing, Cloudify
+sharoner at gigaspaces.com | http://getcloudify.org
+<http://getcloudify.org/?utm_source=EML-SIG&utm_medium=EML&utm_term=SIG-CFY&utm_content=EML-SIG-CFY-URL&utm_campaign=EML-SIG-CFY-09-15>
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=https%3A%2F%2Fil.linkedin.com%2Fin%2Fsharonez&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=http%3A%2F%2Ftwitter.com%2Fshar1z&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=https%3A%2F%2Fgithub.com%2Fshar1z&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+<http://t.sidekickopen01.com/e1t/c/5/f18dQhb0S7lC8dDMPbW2n0x6l2B9nMJW7t5XYg3LjdNWW8qSQBs5v0KZdW5wLSFK56dRXBf8K4jJY02?t=http%3A%2F%2Fgetcloudify.org%2Fauthors%2Fsharone-zitzman%2F%3Futm_source%3DEML-SIG%26utm_medium%3DEML%26utm_term%3DSIG-CFY%26utm_content%3DEML-SIG-CFY%26utm_campaign%3DEML-SIG-CFY-09-15&si=6600971709054976&pi=74dac9da-fc78-420a-83ca-7569a301f732>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160506/d972b73f/attachment.html>
+
+From carol.l.barrett at intel.com  Wed May 11 19:54:15 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Wed, 11 May 2016 19:54:15 +0000
+Subject: [Women-of-openstack] [OpenStack][Diversity] Doodle poll to schedule
+ next Diversity Work Group Team meeting
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CCE446F@ORSMSX113.amr.corp.intel.com>
+
+Hi All - It was great to meet with some of you at the Summit in Austin. Honestly,  going into the Summit, I didn't think there was a lot of energy in our Community around this topic. Coming out of the Summit, the earnest and passionate discussions we had has created a renewed sense of purpose. I hope we can continue the discussion on issues, actions to address and owners to drive in upcoming team meetings.
+
+The Doodle link below is to identify a time for the team to meet next week. Pls add your information to the Doodle by EOD Thursday (Pacific time). I will send out the winner, along with agenda and logistics.
+
+http://doodle.com/poll/hkrn89zv7ff397we
+
+Thanks
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160511/07aebdd7/attachment.html>
+
+From Amy.Marrich at rackspace.com  Wed May 11 19:57:57 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Wed, 11 May 2016 19:57:57 +0000
+Subject: [Women-of-openstack] [OpenStack][Diversity] Doodle poll to
+ schedule next Diversity Work Group Team meeting
+Message-ID: <D358F93F.1CBE4%amy.marrich@rackspace.com>
+
+Carol,
+
+What timezone is the doodle showing?
+
+Thanks,
+
+Amy
+
+From: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Wednesday, May 11, 2016 at 2:54 PM
+To: "foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>" <foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] [OpenStack][Diversity] Doodle poll to schedule next Diversity Work Group Team meeting
+
+Hi All - It was great to meet with some of you at the Summit in Austin. Honestly,  going into the Summit, I didn't think there was a lot of energy in our Community around this topic. Coming out of the Summit, the earnest and passionate discussions we had has created a renewed sense of purpose. I hope we can continue the discussion on issues, actions to address and owners to drive in upcoming team meetings.
+
+The Doodle link below is to identify a time for the team to meet next week. Pls add your information to the Doodle by EOD Thursday (Pacific time). I will send out the winner, along with agenda and logistics.
+
+http://doodle.com/poll/hkrn89zv7ff397we
+
+Thanks
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160511/132bb64a/attachment.html>
+
+From Amy.Marrich at rackspace.com  Wed May 11 19:59:51 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Wed, 11 May 2016 19:59:51 +0000
+Subject: [Women-of-openstack] [OpenStack][Diversity] Doodle poll to
+ schedule next Diversity Work Group Team meeting
+In-Reply-To: <D358F93F.1CBE4%amy.marrich@rackspace.com>
+References: <D358F93F.1CBE4%amy.marrich@rackspace.com>
+Message-ID: <D358F9C5.1CBE7%amy.marrich@rackspace.com>
+
+NM it adjusts for yours:)
+
+From: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>
+Date: Wednesday, May 11, 2016 at 2:59 PM
+To: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>, "foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>" <foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] [OpenStack][Diversity] Doodle poll to schedule next Diversity Work Group Team meeting
+
+Carol,
+
+What timezone is the doodle showing?
+
+Thanks,
+
+Amy
+
+From: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Wednesday, May 11, 2016 at 2:54 PM
+To: "foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>" <foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] [OpenStack][Diversity] Doodle poll to schedule next Diversity Work Group Team meeting
+
+Hi All - It was great to meet with some of you at the Summit in Austin. Honestly,  going into the Summit, I didn't think there was a lot of energy in our Community around this topic. Coming out of the Summit, the earnest and passionate discussions we had has created a renewed sense of purpose. I hope we can continue the discussion on issues, actions to address and owners to drive in upcoming team meetings.
+
+The Doodle link below is to identify a time for the team to meet next week. Pls add your information to the Doodle by EOD Thursday (Pacific time). I will send out the winner, along with agenda and logistics.
+
+http://doodle.com/poll/hkrn89zv7ff397we
+
+Thanks
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160511/c572a257/attachment.html>
+
+From carol.l.barrett at intel.com  Wed May 11 20:00:21 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Wed, 11 May 2016 20:00:21 +0000
+Subject: [Women-of-openstack] [OpenStack][Diversity] Doodle poll to
+ schedule next Diversity Work Group Team meeting
+In-Reply-To: <D358F93F.1CBE4%amy.marrich@rackspace.com>
+References: <D358F93F.1CBE4%amy.marrich@rackspace.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CCE45DB@ORSMSX113.amr.corp.intel.com>
+
+It should show your local time zone.
+
+From: Amy Marrich [mailto:Amy.Marrich at rackspace.com]
+Sent: Wednesday, May 11, 2016 12:58 PM
+To: Barrett, Carol L <carol.l.barrett at intel.com>; foundation at lists.openstack.org; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] [OpenStack][Diversity] Doodle poll to schedule next Diversity Work Group Team meeting
+
+Carol,
+
+What timezone is the doodle showing?
+
+Thanks,
+
+Amy
+
+From: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Wednesday, May 11, 2016 at 2:54 PM
+To: "foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>" <foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] [OpenStack][Diversity] Doodle poll to schedule next Diversity Work Group Team meeting
+
+Hi All - It was great to meet with some of you at the Summit in Austin. Honestly,  going into the Summit, I didn't think there was a lot of energy in our Community around this topic. Coming out of the Summit, the earnest and passionate discussions we had has created a renewed sense of purpose. I hope we can continue the discussion on issues, actions to address and owners to drive in upcoming team meetings.
+
+The Doodle link below is to identify a time for the team to meet next week. Pls add your information to the Doodle by EOD Thursday (Pacific time). I will send out the winner, along with agenda and logistics.
+
+http://doodle.com/poll/hkrn89zv7ff397we
+
+Thanks
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160511/99e5a611/attachment-0001.html>
+
+From carol.l.barrett at intel.com  Fri May 13 23:13:10 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Fri, 13 May 2016 23:13:10 +0000
+Subject: [Women-of-openstack] [OpenStack][Diversity] Diversity Work Group
+	Team meeting
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CCEBEF6@ORSMSX113.amr.corp.intel.com>
+
+All - Thanks for providing your input to the Doodle. Of the 15 respondents, the most popular meeting time only includes 6 people. We need to define an approach that allows us to be more inclusive. If people have ideas, pls share them on the mail list or in the meeting.
+
+The next meeting of the Diversity WG will be Thursday, May 19th  1600 UTC (9:00 AM Pacific) on #openstack-diversity
+The agenda is:
+*         Roll Call
+*         Future Meeting Plans - How do we create a productive, inclusive approach?
+*         Ease of Onboarding New Community Members - OpenStack Foundation Plans
+*         Review discussion notes from Austin session
+o    Etherpad: https://etherpad.openstack.org/p/Diversity_WG_AUS
+*         Discuss focus and priorities for Newton Development cycle
+o    Previous workstreams
+
+     *   Workstream 1: Code of Conduct - Cindy Pallares, Lauren Sell
+     *   Workstream 2: Increase ease of on-boarding new Community Members - Mike Perez, Lauren Sell
+     *   Workstream 3: Reachout to New Diverse Community Members - All
+*         Opens
+
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160513/3060a7c9/attachment.html>
+
+From lxsli at hpe.com  Mon May 16 09:02:36 2016
+From: lxsli at hpe.com (Alexis Lee)
+Date: Mon, 16 May 2016 10:02:36 +0100
+Subject: [Women-of-openstack] [OpenStack Foundation]
+ [OpenStack][Diversity] Diversity Work Group Team meeting
+In-Reply-To: <CAJVMvByfisBvhVms0yKwg3-Zq7CAM5+64O1C4pgkT29HHjy5tw@mail.gmail.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CCEBEF6@ORSMSX113.amr.corp.intel.com>
+ <CAJVMvByfisBvhVms0yKwg3-Zq7CAM5+64O1C4pgkT29HHjy5tw@mail.gmail.com>
+Message-ID: <20160516090234.GA22384@hpe.com>
+
+Roland Chan said on Fri, May 13, 2016 at 11:47:40PM +0000:
+> Using Gdoc (or something else with review features.
+> For the love of dog, not gerrit please) rather than an etherpad would be
+> preferable.
+
+Why not Gerrit? A large number of people in this community already use
+this tool, by adding another one you're increasing the number of tools
+we all have to learn. That includes infra, choosing not to use a gerrit
+repo cuts us off from any help from them. It's good enough for the docs
+team, why not WoO?
+
+https://xkcd.com/927/
+
+
+Alexis (lxsli)
+-- 
+Nova developer, Hewlett-Packard Limited.
+Registered Office: Cain Road, Bracknell, Berkshire RG12 1HN.
+Registered Number: 00690597 England
+VAT number: GB 314 1496 79
+
+
+From roland at aptira.com  Fri May 13 23:47:40 2016
+From: roland at aptira.com (Roland Chan)
+Date: Fri, 13 May 2016 23:47:40 +0000
+Subject: [Women-of-openstack] [OpenStack Foundation]
+ [OpenStack][Diversity] Diversity Work Group Team meeting
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5CCEBEF6@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CCEBEF6@ORSMSX113.amr.corp.intel.com>
+Message-ID: <CAJVMvByfisBvhVms0yKwg3-Zq7CAM5+64O1C4pgkT29HHjy5tw@mail.gmail.com>
+
+I suggest we not use real time meetings as the primary mechanism for moving
+things forward. We've tried and failed to have rotating meeting times.
+
+Judging by previous efforts, there is probably going to be less value in
+real time discussion than there is in people taking and performing actions,
+the product of which can be reviewed by the WG at their leisure.
+
+The code of conduct is a perfect example of this. It just needs to be drafted,
+reviewed for a week or two and then forwarded to the Foundation for
+approval and adoption. Using Gdoc (or something else with review features.
+For the love of dog, not gerrit please) rather than an etherpad would be
+preferable.
+
+Roland
+On Sat, 14 May 2016, 09:14 Barrett, Carol L, <carol.l.barrett at intel.com>
+wrote:
+
+> All - Thanks for providing your input to the Doodle. Of the 15
+> respondents, the most popular meeting time only includes 6 people. We need
+> to define an approach that allows us to be more inclusive. If people have
+> ideas, pls share them on the mail list or in the meeting.
+>
+>
+>
+> The next meeting of the Diversity WG will be Thursday, May 19th  1600 UTC
+> (9:00 AM Pacific) on #openstack-diversity
+>
+> The agenda is:
+>
+> ?         Roll Call
+>
+> ?         Future Meeting Plans - How do we create a productive, inclusive
+> approach?
+>
+> ?         Ease of Onboarding New Community Members - OpenStack Foundation
+> Plans
+>
+> ?         Review discussion notes from Austin session
+>
+> o    Etherpad: https://etherpad.openstack.org/p/Diversity_WG_AUS
+>
+> ?         Discuss focus and priorities for Newton Development cycle
+>
+> o    Previous workstreams
+>
+>    - Workstream 1: Code of Conduct - Cindy Pallares, Lauren Sell
+>       - Workstream 2: Increase ease of on-boarding new Community Members
+>       - Mike Perez, Lauren Sell
+>       - Workstream 3: Reachout to New Diverse Community Members - All
+>
+> ?         Opens
+>
+>
+>
+> Thanks
+>
+> Carol
+> _______________________________________________
+> Foundation mailing list
+> Foundation at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/foundation
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160513/b2f49dd3/attachment.html>
+
+From jessicak at us.ibm.com  Mon May 16 18:12:25 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 16 May 2016 13:12:25 -0500
+Subject: [Women-of-openstack] Today's WOO meeting // reminder to update May
+ 16 etherpad with your votes for Newton cycle focus areas
+Message-ID: <201605161813.u4GID4D6015275@d01av05.pok.ibm.com>
+
+
+
+In today's WOO meting we will continue our discussion on the top items to
+focus on as a community during the Newton cycle. I have summarized both the
+input from the Austin summit WOO breakfast working session with the
+comments and discussion since that time in today's etherpad:
+https://etherpad.openstack.org/p/WOS_5_16_16
+
+Please add your +1 to your top 3-5 items to join in the discussion if you
+are not able to join today's meeting by phone:
+
+Women of OpenStack
+May 16, 2016
+2000 UTC? // 4PM EDT, 3PM CDT, 1PM PDT <-- double check your time zone
+conversion
+Dial In: 1-203-277-8157 or 866-619-0383? Participant: 7217256# Leader 4018#
+
+Amy Marrich will be leading today's meeting -- thanks Amy for volunteering!
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+----- Forwarded by Jessica Murillo/Austin/IBM on 05/16/2016 01:01 PM -----
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Date:	05/02/2016 10:08 PM
+Subject:	See etherpad notes from May 2nd Women of OpenStack meeting
+
+
+Thanks to everyone who was able to join or add comments to today's Women of
+OpenStack discussion. Please take a few minutes to read and add any
+additional comments in the etherpad:
+https://etherpad.openstack.org/p/WOS_5_2_16.
+
+There were a number of common themes in the discussion last week as well as
+today:  separation of Design and OpenStack Summits and how we will continue
+to reach women as the event schedule changes, on-boarding and educating new
+OpenStack community members, using metrics to understand areas we should
+address and formulate actions, and our interlock with the OpenStack
+Diversity Council.
+
+I will continue to summarize the input for our next meeting where we can
+prioritize and assign owners to a few key actions.
+
+Our next meeting is scheduled in 2 weeks on May 16 @ 2000 UTC.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+----- Forwarded by Jessica Murillo/Austin/IBM on 05/02/2016 09:57 PM -----
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Date:	05/02/2016 12:22 PM
+Subject:	Reminder: May 2nd Women of OpenStack meeting today at 2000 UTC
+
+
+It was great connecting with so many of you last week in Austin. Reminder:
+we will have a Women of OpenStack meeting today. We will be discussing the
+top outcomes of the working breakfast discussions and I hope that you are
+able to attend.
+
+Women of OpenStack
+May 2, 2016, 2000 UTC
+
+Dial In: 1-203-277-8157 or 866-619-0383? Participant: 7217256# Leader 4018#
+
+Leader: Jessica Murillo
+Etherpad: https://etherpad.openstack.org/p/WOS_5_2_16
+
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160516/cd13acf7/attachment.html>
+
+From roland at aptira.com  Thu May 19 02:11:03 2016
+From: roland at aptira.com (Roland Chan)
+Date: Thu, 19 May 2016 12:11:03 +1000
+Subject: [Women-of-openstack] [OpenStack Foundation]
+ [OpenStack][Diversity] Diversity Work Group Team meeting
+In-Reply-To: <20160516090234.GA22384@hpe.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CCEBEF6@ORSMSX113.amr.corp.intel.com>
+ <CAJVMvByfisBvhVms0yKwg3-Zq7CAM5+64O1C4pgkT29HHjy5tw@mail.gmail.com>
+ <20160516090234.GA22384@hpe.com>
+Message-ID: <CAJVMvByTJkaJHB0hVnikcjrWuRZrH9OTb93=MtxoUGSvnDbcJw@mail.gmail.com>
+
+It's a poor tool for collaborative drafting. For review and approval maybe,
+but we're some distance from that. Etherpad would be better than Gerrit at
+this stage, but I've had plenty of success drafting stuff with the
+Diversity team using gdocs.
+
+Roland
+
+On 16 May 2016 at 19:02, Alexis Lee <lxsli at hpe.com> wrote:
+
+> Roland Chan said on Fri, May 13, 2016 at 11:47:40PM +0000:
+> > Using Gdoc (or something else with review features.
+> > For the love of dog, not gerrit please) rather than an etherpad would be
+> > preferable.
+>
+> Why not Gerrit? A large number of people in this community already use
+> this tool, by adding another one you're increasing the number of tools
+> we all have to learn. That includes infra, choosing not to use a gerrit
+> repo cuts us off from any help from them. It's good enough for the docs
+> team, why not WoO?
+>
+> https://xkcd.com/927/
+>
+>
+> Alexis (lxsli)
+> --
+> Nova developer, Hewlett-Packard Limited.
+> Registered Office: Cain Road, Bracknell, Berkshire RG12 1HN.
+> Registered Number: 00690597 England
+> VAT number: GB 314 1496 79
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160519/8cb5f590/attachment.html>
+
+From luthraruchika at gmail.com  Tue May 24 11:30:03 2016
+From: luthraruchika at gmail.com (Ruchika Luthra)
+Date: Tue, 24 May 2016 17:00:03 +0530
+Subject: [Women-of-openstack] Unsubscribe me please
+Message-ID: <CAKHGKD-ZtYvCZr7WL=qQefRLQPW+PAXPzHd0v2dg5btR3h2U+Q@mail.gmail.com>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160524/e58832fd/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Thu May 26 00:01:14 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Thu, 26 May 2016 00:01:14 +0000
+Subject: [Women-of-openstack] Some Media and SuperUser TV of Women of
+	OpenStack Austin
+Message-ID: <BL2PR02MB420803A2A99135EFAF51297F6410@BL2PR02MB420.namprd02.prod.outlook.com>
+
+Hi Everyone,
+
+I think we had some very positive coverage from the media and from SuperUser TV and wanted to share 2 of those coverages.  I want to thank the foundation again - Claire and Erin for their outstanding support.  Feel free to share or tweet.
+
+SuperUser TV Interview on WOO
+https://www.youtube.com/watch?v=iNC8ue6bAb0
+
+NewStack Article on Male Allies program
+http://thenewstack.io/dudes-diversity-one-guy-can-make-positive-impact/
+
+I also did a presentation on the VBrownBag about the activities we had planned for Austin and have included that link here as well.
+https://www.youtube.com/watch?v=-K1oX_ddwBs&feature=youtu.be
+
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, CTO Office
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160526/b6135965/attachment.html>
+
+From carol.l.barrett at intel.com  Thu May 26 23:02:50 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Thu, 26 May 2016 23:02:50 +0000
+Subject: [Women-of-openstack] [OpenStack][Diversity] 5/19 Work Group meeting
+ summary and next steps
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5D9DC091@ORSMSX113.amr.corp.intel.com>
+
+All - We held a work group meeting on 5/19/16 with 7 people attending [0], the agenda is located here [2]. The full text of the meeting can be found here [1].
+
+Here is a summary of the discussions:
+Future Meetings: The team discussed various options for on-going team working sessions and agreed to use a combination of ML and etherpad for future team collaboration. There are still some details to be worked, but the plan is to send on the ML the agenda along with an etherpad link which will be used to capture the discussion for each agenda item. At the end of the week, a summary and outcome of the discussion will be published. I think the open issue is frequency of these discussions. We agreed to evaluate how this is going in 3 Months (end of August).
+
+Ease of On-boarding New Community Members: Mike Perez provided an update on the work underway to create a portal that the Community can populate, targeted at helping newcomers to discover info and become contributors. The portal will support all of the ways people contribute to the community, including: translations, meet up organizing, working on defining use cases for features in OpenStack, code, etc.  The idea with this that we're envisioning is a portal that gives you a "choose your own adventure" kind of feel what are you interested in contributing to? Based on your selected interests of what you want to contribute to the portal will highlight the "essential" on boarding documentation that people need to contribute.  Add'l info from Austin discussions [3] and example documentation [4]. Details are being worked, more updates as they become available.
+
+Austin Discussion Review:  There were a couple of proposals that resonated with the people on the IRC:  The need for an OpenStack Welcoming Committee to support new comers in the Community (or people new to an area of the Community), Increase the amount of content and training delivered via Videos instead of Text, Explore co-sponsoring events/activities with the Women of OpenStack because their programs (ex. Mentoring) provide benefit to the entire community and are open to all.
+
+You can find these notes here in the etherpad log for the meeting  here [6]. Pls review and add comments by 5/3. The agenda and timing for the next discussion will be send on 6/6.
+
+All feedback welcome.
+Carol & Team
+
+
+[0] http://eavesdrop.openstack.org/meetings/diversity_work_group_meeting/2016/diversity_work_group_meeting.2016-05-19-16.01.html
+[1] http://eavesdrop.openstack.org/meetings/diversity_work_group_meeting/2016/diversity_work_group_meeting.2016-05-19-16.01.log.txt
+[2] https://wiki.openstack.org/wiki/Diversity#Agenda
+
+[3] https://etherpad.openstack.org/p/newton-infra-landing-page-for-contributors
+
+[4] http://docs.openstack.org/upstream-training/irc.html
+
+[5] https://etherpad.openstack.org/p/Diversity_WG_AUS
+
+[6] https://etherpad.openstack.org/p/5_19_16_Diversity_Mtg_Log
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160526/258e05b3/attachment.html>
+
+From carol.l.barrett at intel.com  Tue May 31 19:51:44 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Tue, 31 May 2016 19:51:44 +0000
+Subject: [Women-of-openstack] [OpenStack][Diversity] 5/19 Work Group
+ meeting summary and next steps - Correction
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5D9E2C1A@ORSMSX113.amr.corp.intel.com>
+
+Apologies - Below I asked for comments on the etherpad by 5/3. It should have been 6/3.
+
+Thanks
+Carol
+
+From: Barrett, Carol L
+Sent: Thursday, May 26, 2016 4:03 PM
+To: Foundation at lists.openstack.org; women-of-openstack at lists.openstack.org
+Subject: [OpenStack][Diversity] 5/19 Work Group meeting summary and next steps
+
+All - We held a work group meeting on 5/19/16 with 7 people attending [0], the agenda is located here [2]. The full text of the meeting can be found here [1].
+
+Here is a summary of the discussions:
+Future Meetings: The team discussed various options for on-going team working sessions and agreed to use a combination of ML and etherpad for future team collaboration. There are still some details to be worked, but the plan is to send on the ML the agenda along with an etherpad link which will be used to capture the discussion for each agenda item. At the end of the week, a summary and outcome of the discussion will be published. I think the open issue is frequency of these discussions. We agreed to evaluate how this is going in 3 Months (end of August).
+
+Ease of On-boarding New Community Members: Mike Perez provided an update on the work underway to create a portal that the Community can populate, targeted at helping newcomers to discover info and become contributors. The portal will support all of the ways people contribute to the community, including: translations, meet up organizing, working on defining use cases for features in OpenStack, code, etc.  The idea with this that we're envisioning is a portal that gives you a "choose your own adventure" kind of feel what are you interested in contributing to? Based on your selected interests of what you want to contribute to the portal will highlight the "essential" on boarding documentation that people need to contribute.  Add'l info from Austin discussions [3] and example documentation [4]. Details are being worked, more updates as they become available.
+
+Austin Discussion Review:  There were a couple of proposals that resonated with the people on the IRC:  The need for an OpenStack Welcoming Committee to support new comers in the Community (or people new to an area of the Community), Increase the amount of content and training delivered via Videos instead of Text, Explore co-sponsoring events/activities with the Women of OpenStack because their programs (ex. Mentoring) provide benefit to the entire community and are open to all.
+
+You can find these notes here in the etherpad log for the meeting  here [6]. Pls review and add comments by 5/3. The agenda and timing for the next discussion will be send on 6/6.
+
+All feedback welcome.
+Carol & Team
+
+
+[0] http://eavesdrop.openstack.org/meetings/diversity_work_group_meeting/2016/diversity_work_group_meeting.2016-05-19-16.01.html
+[1] http://eavesdrop.openstack.org/meetings/diversity_work_group_meeting/2016/diversity_work_group_meeting.2016-05-19-16.01.log.txt
+[2] https://wiki.openstack.org/wiki/Diversity#Agenda
+
+[3] https://etherpad.openstack.org/p/newton-infra-landing-page-for-contributors
+
+[4] http://docs.openstack.org/upstream-training/irc.html
+
+[5] https://etherpad.openstack.org/p/Diversity_WG_AUS
+
+[6] https://etherpad.openstack.org/p/5_19_16_Diversity_Mtg_Log
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160531/cd12379f/attachment.html>
+

@@ -1,0 +1,75 @@
+From lydia at kde.org  Sat Dec 15 14:46:25 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sat, 15 Dec 2012 15:46:25 +0100
+Subject: [Kde-women] Fwd: [gnome-women] get your blog added to the Women in
+	Free Software planet!
+In-Reply-To: <718181690.59874586.1355192556070.JavaMail.root@redhat.com>
+References: <718181690.59874586.1355192556070.JavaMail.root@redhat.com>
+Message-ID: <CAFkLwpVCRyMs6yn76MBaOmHCa8o74yx7micjaTEOW7B2f_QBzA@mail.gmail.com>
+
+Something for your blog too ladies ;-)
+
+
+Cheers
+Lydia
+
+
+---------- Forwarded message ----------
+From: Marina Zhurakhinskaya <marinaz at redhat.com>
+Date: Tue, Dec 11, 2012 at 3:22 AM
+Subject: [gnome-women] get your blog added to the Women in Free Software planet!
+To: gnome-women-list <gnome-women-list at gnome.org>
+Cc: james at hackervisions.org
+
+
+Hi all,
+
+James Vasile, who maintains http://planeteria.org/wfs/ asked me to let
+women in the GNOME community know that all women who contribute to
+free software (and sometimes blog about it) are welcome to add their
+blogs to the Women in Free Software planet. Please e-mail him at james
+at hackervisions dot org providing RSS to your blog or feed you want
+to get aggregated.
+
+We are announcing Outreach Program for Women participants for January
+- April 2013 tomorrow, and since they will be working with many
+different free software organizations, we will be aggregating their
+blogs on that planet, in addition to the planets specific to each
+participant's organization.
+
+Thanks,
+Marina
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list at mail.gnome.org
+https://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+
+--
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From myriam at kde.org  Sat Dec 15 23:19:59 2012
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Sun, 16 Dec 2012 00:19:59 +0100
+Subject: [Kde-women] Fwd: [gnome-women] get your blog added to the Women
+ in Free Software planet!
+In-Reply-To: <CAFkLwpVCRyMs6yn76MBaOmHCa8o74yx7micjaTEOW7B2f_QBzA@mail.gmail.com>
+References: <718181690.59874586.1355192556070.JavaMail.root@redhat.com>
+ <CAFkLwpVCRyMs6yn76MBaOmHCa8o74yx7micjaTEOW7B2f_QBzA@mail.gmail.com>
+Message-ID: <CAGzoOB9nGCXJ8rVfrVvMDp7pkgrXd0GQyQ15vVjpk_wBydc3-w@mail.gmail.com>
+
+On Sat, Dec 15, 2012 at 3:46 PM, Lydia Pintscher <lydia at kde.org> wrote:
+> Something for your blog too ladies ;-)
+
+Done, thank you for pointing us at it :)
+
+Regards, Myriam
+-- 
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+

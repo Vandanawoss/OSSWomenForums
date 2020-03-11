@@ -1,0 +1,169 @@
+From amk@amk.ca  Fri Sep 22 09:20:33 2006
+Return-Path: <amk@amk.ca>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2D5A63B0235
+	for <gnome-women-list@gnome.org>; Fri, 22 Sep 2006 09:20:33 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 21690-09 for <gnome-women-list@gnome.org>;
+	Fri, 22 Sep 2006 09:20:31 -0400 (EDT)
+Received: from mail7.sea5.speakeasy.net (mail7.sea5.speakeasy.net
+	[69.17.117.9])
+	by menubar.gnome.org (Postfix) with ESMTP id 6AD043B014F
+	for <gnome-women-list@gnome.org>; Fri, 22 Sep 2006 09:20:31 -0400 (EDT)
+Received: (qmail 19040 invoked from network); 22 Sep 2006 13:20:21 -0000
+Received: from denali.asti-usa.com (HELO localhost)
+	(akuchling@[204.193.136.18]) (envelope-sender <amk@amk.ca>)
+	by mail7.sea5.speakeasy.net (qmail-ldap-1.03) with AES256-SHA encrypted
+	SMTP for <gnome-women-list@gnome.org>; 22 Sep 2006 13:20:20 -0000
+From: "A.M. Kuchling" <amk@amk.ca>
+To: gnome-women-list@gnome.org
+Message-ID: <20060922132019.GC5294@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.232 tagged_above=-999 required=2
+	tests=[AWL=-1.232, BAYES_50=0.001]
+X-Spam-Score: -1.232
+X-Spam-Level: 
+X-Mailman-Approved-At: Fri, 05 Jan 2007 10:18:04 -0500
+Subject: [gnome-women] PyCon 2007 call for proposals/tutorials
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+Reply-To: amk@amk.ca
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+Date: Fri, 22 Sep 2006 13:20:33 -0000
+X-Original-Date: Fri, 22 Sep 2006 09:20:19 -0400
+X-List-Received-Date: Fri, 22 Sep 2006 13:20:33 -0000
+
+PyCon 2007, a conference focusing on the Python programming language,
+is looking for proposals for the conference's formal presentation
+tracks.  The conference will take place February 23-25 2007 in
+Addison, Texas.
+
+For 2007, we're especially interested in tutorial presentations that
+will teach conference-goers something new and useful. Can you show
+attendees how to: use a particular module? explore a Python language
+feature? write or package an application?
+
+The deadline for submitting a proposal is October 31st.  
+For more information, see the Call For Proposals at
+<http://us.pycon.org/TX2007/CallForProposals>.
+
+We're also accepting proposals for three-hour tutorials for the day
+before the conference.  Tutorials are extra-cost for attendees, and
+tutorial presenters receive a portion of the proceeds.  Some of last
+year's tutorials were:
+
+       * Python 102
+       * Getting Started with wxPython
+       * Text and Data Processing
+       * Plone Rapid Bootcamp
+       * Using Databases with Python
+
+Tutorial proposals can be submitted through e-mail; please see
+<http://us.pycon.org/TX2007/CallForTutorials> for information.
+
+
+Andrew M. Kuchling
+amk@amk.ca
+Co-chair, PyCon 2007
+http://us.pycon.org
+From amk@amk.ca  Fri Sep 22 09:20:33 2006
+Return-Path: <amk@amk.ca>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2D5A63B0235
+	for <gnome-women-list@gnome.org>; Fri, 22 Sep 2006 09:20:33 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 21690-09 for <gnome-women-list@gnome.org>;
+	Fri, 22 Sep 2006 09:20:31 -0400 (EDT)
+Received: from mail7.sea5.speakeasy.net (mail7.sea5.speakeasy.net
+	[69.17.117.9])
+	by menubar.gnome.org (Postfix) with ESMTP id 6AD043B014F
+	for <gnome-women-list@gnome.org>; Fri, 22 Sep 2006 09:20:31 -0400 (EDT)
+Received: (qmail 19040 invoked from network); 22 Sep 2006 13:20:21 -0000
+Received: from denali.asti-usa.com (HELO localhost)
+	(akuchling@[204.193.136.18]) (envelope-sender <amk@amk.ca>)
+	by mail7.sea5.speakeasy.net (qmail-ldap-1.03) with AES256-SHA encrypted
+	SMTP for <gnome-women-list@gnome.org>; 22 Sep 2006 13:20:20 -0000
+From: "A.M. Kuchling" <amk@amk.ca>
+To: gnome-women-list@gnome.org
+Message-ID: <20060922132019.GC5294@localhost.localdomain>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.232 tagged_above=-999 required=2
+	tests=[AWL=-1.232, BAYES_50=0.001]
+X-Spam-Score: -1.232
+X-Spam-Level: 
+X-Mailman-Approved-At: Fri, 05 Jan 2007 10:18:04 -0500
+Subject: [gnome-women] PyCon 2007 call for proposals/tutorials
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+Reply-To: amk@amk.ca
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+Date: Fri, 22 Sep 2006 13:20:33 -0000
+X-Original-Date: Fri, 22 Sep 2006 09:20:19 -0400
+X-List-Received-Date: Fri, 22 Sep 2006 13:20:33 -0000
+
+PyCon 2007, a conference focusing on the Python programming language,
+is looking for proposals for the conference's formal presentation
+tracks.  The conference will take place February 23-25 2007 in
+Addison, Texas.
+
+For 2007, we're especially interested in tutorial presentations that
+will teach conference-goers something new and useful. Can you show
+attendees how to: use a particular module? explore a Python language
+feature? write or package an application?
+
+The deadline for submitting a proposal is October 31st.  
+For more information, see the Call For Proposals at
+<http://us.pycon.org/TX2007/CallForProposals>.
+
+We're also accepting proposals for three-hour tutorials for the day
+before the conference.  Tutorials are extra-cost for attendees, and
+tutorial presenters receive a portion of the proceeds.  Some of last
+year's tutorials were:
+
+       * Python 102
+       * Getting Started with wxPython
+       * Text and Data Processing
+       * Plone Rapid Bootcamp
+       * Using Databases with Python
+
+Tutorial proposals can be submitted through e-mail; please see
+<http://us.pycon.org/TX2007/CallForTutorials> for information.
+
+
+Andrew M. Kuchling
+amk@amk.ca
+Co-chair, PyCon 2007
+http://us.pycon.org
+

@@ -1,0 +1,221 @@
+From tcottom at emory.edu  Tue Apr 23 13:45:02 2013
+From: tcottom at emory.edu (Cottom, McMillan)
+Date: Tue, 23 Apr 2013 13:45:02 +0000
+Subject: [Kde-women] Feedback on Outreach Program for Women
+Message-ID: <B9F88CC2A960C847A671DFDDAFC99C7B896BC547@e14mbx22n.Enterprise.emory.net>
+
+All,
+
+Leigh Honeywell forwarded me the cfp for the Outreach Program for Women. I was immediately intrigued...and then immediately too intimidated to apply. With Leigh's guidance I have worked my way up to asking a few questions. She thinks my experience as a sociologist, corporate trainer, and writer might be of use to a project. I study organizations and inequality. Media organizations often come up in the course of my work. My immediate work is in higher education organizations, particularly those that operate for-profit and not-for-profit. In a previous life I wrote training manuals for a six week corporate program for Sprint. The manuals were not far off in style from software documentation: we had to pay attention to end-user experience, flow of information, and clear instructional language.
+
+So that's me, in a nutshell. Any ideas about how I might be of use as an applicant are appreciated.
+
+Tressie McMillan Cottom
+PhD Student, Sociology, Emory University
+
+<http://cfde.emory.edu/about/blog/public-voices-thought-leadership-fellowship.html>
+
+________________________________
+
+This e-mail message (including any attachments) is for the sole use of
+the intended recipient(s) and may contain confidential and privileged
+information. If the reader of this message is not the intended
+recipient, you are hereby notified that any dissemination, distribution
+or copying of this message (including any attachments) is strictly
+prohibited.
+
+If you have received this message in error, please contact
+the sender by reply e-mail message and destroy all copies of the
+original message (including attachments).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20130423/a886c1c0/attachment.html>
+
+From lydia at kde.org  Wed Apr 24 22:34:42 2013
+From: lydia at kde.org (Lydia Pintscher)
+Date: Thu, 25 Apr 2013 00:34:42 +0200
+Subject: [Kde-women] Feedback on Outreach Program for Women
+In-Reply-To: <B9F88CC2A960C847A671DFDDAFC99C7B896BC547@e14mbx22n.Enterprise.emory.net>
+References: <B9F88CC2A960C847A671DFDDAFC99C7B896BC547@e14mbx22n.Enterprise.emory.net>
+Message-ID: <CAFkLwpX-NF=6yriS7-GFV713jFnmHn3eCni4DQevW=abfgT83A@mail.gmail.com>
+
+On Tue, Apr 23, 2013 at 3:45 PM, Cottom, McMillan <tcottom at emory.edu> wrote:
+> All,
+>
+> Leigh Honeywell forwarded me the cfp for the Outreach Program for Women. I
+> was immediately intrigued...and then immediately too intimidated to apply.
+> With Leigh's guidance I have worked my way up to asking a few questions. She
+> thinks my experience as a sociologist, corporate trainer, and writer might
+> be of use to a project. I study organizations and inequality. Media
+> organizations often come up in the course of my work. My immediate work is
+> in higher education organizations, particularly those that operate
+> for-profit and not-for-profit. In a previous life I wrote training manuals
+> for a six week corporate program for Sprint. The manuals were not far off in
+> style from software documentation: we had to pay attention to end-user
+> experience, flow of information, and clear instructional language.
+>
+> So that's me, in a nutshell. Any ideas about how I might be of use as an
+> applicant are appreciated.
+
+Hey! :)
+
+Your background definitely looks interesting and I am sure we could
+find something for you.
+Just as a gut feeling: What do you think you could do that might be
+useful for KDE and that interests you? THat would help a lot in
+helping you refine it.
+
+Cheers
+Lydia
+
+--
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From tcottom at emory.edu  Thu Apr 25 12:33:44 2013
+From: tcottom at emory.edu (Cottom, McMillan)
+Date: Thu, 25 Apr 2013 12:33:44 +0000
+Subject: [Kde-women] kde-women Digest, Vol 58, Issue 2
+In-Reply-To: <mailman.53.1366891209.6743.kde-women@kde.org>
+References: <mailman.53.1366891209.6743.kde-women@kde.org>
+Message-ID: <B9F88CC2A960C847A671DFDDAFC99C7B896BC9C1@e14mbx22n.Enterprise.emory.net>
+
+Thank you for asking Lydia.
+
+My gut instinct when I read through projects was that my corporate writing and academic research skills would be good for writing documentation. Part of how I market myself professionally is as a translator of sorts for academic-ese. Thus, my public writing on academic issues in non-academic presses.
+
+I would also be interested in developing my interests in user design. I had to design a university website a year ago and I got into wire-framing user flow and design as part of the development process. I've since become fascinated by all the implicit assumptions about users that are embedded in each interface decision.
+
+Tressie McMillan Cottom
+PhD Student, Sociology, Emory University
+
+
+
+________________________________________
+From: kde-women-bounces at kde.org [kde-women-bounces at kde.org] on behalf of kde-women-request at kde.org [kde-women-request at kde.org]
+Sent: Thursday, April 25, 2013 8:00 AM
+To: kde-women at kde.org
+Subject: kde-women Digest, Vol 58, Issue 2
+
+Send kde-women mailing list submissions to
+        kde-women at kde.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+        https://mail.kde.org/mailman/listinfo/kde-women
+or, via email, send a message with subject or body 'help' to
+        kde-women-request at kde.org
+
+You can reach the person managing the list at
+        kde-women-owner at kde.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of kde-women digest..."
+
+
+Today's Topics:
+
+   1. Re:  Feedback on Outreach Program for Women (Lydia Pintscher)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Thu, 25 Apr 2013 00:34:42 +0200
+From: Lydia Pintscher <lydia at kde.org>
+To: KDE Women project <kde-women at kde.org>
+Subject: Re: [Kde-women] Feedback on Outreach Program for Women
+Message-ID:
+        <CAFkLwpX-NF=6yriS7-GFV713jFnmHn3eCni4DQevW=abfgT83A at mail.gmail.com>
+Content-Type: text/plain; charset=UTF-8
+
+On Tue, Apr 23, 2013 at 3:45 PM, Cottom, McMillan <tcottom at emory.edu> wrote:
+> All,
+>
+> Leigh Honeywell forwarded me the cfp for the Outreach Program for Women. I
+> was immediately intrigued...and then immediately too intimidated to apply.
+> With Leigh's guidance I have worked my way up to asking a few questions. She
+> thinks my experience as a sociologist, corporate trainer, and writer might
+> be of use to a project. I study organizations and inequality. Media
+> organizations often come up in the course of my work. My immediate work is
+> in higher education organizations, particularly those that operate
+> for-profit and not-for-profit. In a previous life I wrote training manuals
+> for a six week corporate program for Sprint. The manuals were not far off in
+> style from software documentation: we had to pay attention to end-user
+> experience, flow of information, and clear instructional language.
+>
+> So that's me, in a nutshell. Any ideas about how I might be of use as an
+> applicant are appreciated.
+
+Hey! :)
+
+Your background definitely looks interesting and I am sure we could
+find something for you.
+Just as a gut feeling: What do you think you could do that might be
+useful for KDE and that interests you? THat would help a lot in
+helping you refine it.
+
+Cheers
+Lydia
+
+--
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+
+------------------------------
+
+_______________________________________________
+kde-women mailing list
+kde-women at kde.org
+https://mail.kde.org/mailman/listinfo/kde-women
+
+
+End of kde-women Digest, Vol 58, Issue 2
+****************************************
+
+________________________________
+
+This e-mail message (including any attachments) is for the sole use of
+the intended recipient(s) and may contain confidential and privileged
+information. If the reader of this message is not the intended
+recipient, you are hereby notified that any dissemination, distribution
+or copying of this message (including any attachments) is strictly
+prohibited.
+
+If you have received this message in error, please contact
+the sender by reply e-mail message and destroy all copies of the
+original message (including attachments).
+
+From lydia at kde.org  Sat Apr 27 17:53:35 2013
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sat, 27 Apr 2013 19:53:35 +0200
+Subject: [Kde-women] kde-women Digest, Vol 58, Issue 2
+In-Reply-To: <B9F88CC2A960C847A671DFDDAFC99C7B896BC9C1@e14mbx22n.Enterprise.emory.net>
+References: <mailman.53.1366891209.6743.kde-women@kde.org>
+ <B9F88CC2A960C847A671DFDDAFC99C7B896BC9C1@e14mbx22n.Enterprise.emory.net>
+Message-ID: <CAFkLwpXbYdY=Lbyw=t5NA2GCmvhEqKNXNrEX+15oysWwDZnPSQ@mail.gmail.com>
+
+On Thu, Apr 25, 2013 at 2:33 PM, Cottom, McMillan <tcottom at emory.edu> wrote:
+> Thank you for asking Lydia.
+>
+> My gut instinct when I read through projects was that my corporate writing and academic research skills would be good for writing documentation. Part of how I market myself professionally is as a translator of sorts for academic-ese. Thus, my public writing on academic issues in non-academic presses.
+
+Great! In this area Anne can probably help you most. She's the master
+of userbase.kde.org.
+
+> I would also be interested in developing my interests in user design. I had to design a university website a year ago and I got into wire-framing user flow and design as part of the development process. I've since become fascinated by all the implicit assumptions about users that are embedded in each interface decision.
+
+For this the kde-usability mailinglist might be a good start. (Don't
+be shy - they're nice.)
+
+
+Cheers
+Lydia
+
+--
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+

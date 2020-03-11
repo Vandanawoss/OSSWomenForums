@@ -1,0 +1,3262 @@
+From clytie@riverland.net.au  Sat Apr  1 22:55:20 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F319C3B00B6
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 22:55:19 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 13186-02 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 22:55:18 -0500 (EST)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id F37793B0087
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 22:55:17 -0500 (EST)
+Received: from [10.1.1.91] (ppp201-152.lns1.adl4.internode.on.net
+	[203.122.201.152])
+	by smtp1.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k323t1V2072304; Sun, 2 Apr 2006 13:25:02 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.3)
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+To: "Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	grrls-only@linuxchix.org, Volunteers@linuxchix.org,
+	gnome-women-list@mail.gnome.org, Capel Brunker <var@internode.on.net>
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 2 Apr 2006 13:24:59 +0930
+X-Mailer: Apple Mail (2.746.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.945 tagged_above=-999 required=2
+	tests=[AWL=-0.491, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069, TW_FC=0.077]
+X-Spam-Score: -1.945
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Debian elections
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 03:55:20 -0000
+
+Hi everyone :)
+
+I've posted this to more than one place, so sorry if you got it more =20
+than once. I think this is an opportunity to make some change that =20
+will forward our aims, so I'm trying to publicize it. I hope that's OK.
+
+The Debian Project Leader elections are on. I'd completely missed =20
+this, being unable to keep up with debian-devel, and my husband, who =20
+is a keen Debian user, says he had missed it, too. That makes me =20
+wonder just how many people _do_ know about it.
+
+Debian is a very important project in Open Source, and one where we =20
+have identified some specific issues affecting the participation of =20
+women and new people in general.
+
+I've started to read the platforms, don't know if I can get through =20
+them all, but I'm definitely impressed by this statement from Jeroen =20
+van Wolffelaar [1]
+>
+> I will push for the adoption of a code of conduct. I do feel =20
+> strongly about that mailing lists should be able to provide a forum =20=
+
+> for productive technical discussion, where one can ask questions to =20=
+
+> and get a reasonable result. If some people are not able to =20
+> contribute to this, but rather hurt the discussion, action must be =20
+> undertaken. If peer pressure does not help, this may include such =20
+> things like posting delays, moderation of certain individuals, and =20
+> in extreme cases, banning from mailing lists. I will work with the =20
+> listmaster team to see whether they are willing to facilitate this, =20=
+
+> or whether there needs to be a new team of people performing this =20
+> moderation.
+
+I believe this is important, and should be applied also to IRC =20
+channels, fora and any other Debian method of communication.
+
+It's worth me reading the platforms, or as much as I can, then =20
+voting. I hope you think it's worth your time, too. Here is our =20
+chance to change things, not just feel unhappy about them.
+
+Voting is not difficult, but you need to have a PGP key logged with =20
+Debian (to identify you, and prevent multiple voting or other =20
+deceitful acts). The election mail says:
+
+> NOTE: The vote must be GPG signed
+> (or PGP signed) with your key that is in the Debian keyring.
+
+Now, how do we know if our key is in the Debian keyring or not? I've =20
+asked on my usual Debian mailing list, debian-i18n, and hope to know =20
+the answer soon. I'll post it when I have it, or iof someone here =20
+knows the answer, please post it.
+
+The mail to debian-devel said that voting had been very low. This =20
+means each vote counts more. We can make a difference here. :)
+
+To vote, first read the platform information [2]. Then:
+
+1. Copy the box below into an email:
+
+> - - -=3D-=3D-=3D-=3D-=3D- Don't Delete Anything Between These Lines =
+=3D-=3D-=3D-=3D-=3D-=20
+> =3D-=3D-=3D-
+> 52717dc0-26e3-4337-a88b-cc2c260fcb51
+> [   ] Choice 1: Jeroen van Wolffelaar
+> [   ] Choice 2: Ari Pollak
+> [   ] Choice 3: Steve McIntyre
+> [   ] Choice 4: Anthony Towns
+> [   ] Choice 5: Andreas Schuldei
+> [   ] Choice 6: Jonathan aka Ted Walther
+> [   ] Choice 7: Bill Allombert
+> [   ] Choice 8: None Of The Above
+> - - -=3D-=3D-=3D-=3D-=3D- Don't Delete Anything Between These Lines =
+=3D-=3D-=3D-=3D-=3D-=20
+> =3D-=3D-=3D-
+
+2. Then mark from 1 to 8 in the [ ] on the left-hand side.
+
+If you definitely want someone _not_ included, mark them lower than =20
+None of the Above, e.g. if there is one person you really don't want =20
+to vote _for_, mark None of the Above as 7, and him [3] as 8. If you =20
+want everyone to have a good chance, mark None of the Above as 8. =20
+Anyone below None of the Above will only be counted after all the =20
+other votes.
+
+3. Attach your PGP key to the mail (your usual "sign with PGP" =20
+action, e.g. my mailer just has a box I check that says "PGP signed. =20
+You may have this set to happen automatically: check your preferences.)
+
+4. Send the mail to <leader2006@vote.debian.org>.
+
+You should receive a receipt mail which has the Debian vote PGP key =20
+attached. The original mail about this election will be on debian-=20
+devel, and there should be lots of info about the election at =20
+<debian.org>.
+
+If you don't receive a receipt email, maybe something went wrong, and =20=
+
+it would be worth asking someone to check if it went through. I don't =20=
+
+know whom we would ask, as yet. ;)
+
+Let's make a difference today. Vote in the Debian Project Leader =20
+elections [4].
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+[1] http://www.debian.org/vote/2006/platforms/jeroen
+[2] http://www.debian.org/vote/2006/platforms/
+[3] All male candidates. We need to change this, too. Consider =20
+getting more involved. ;)
+[4] http://www.debian.org/vote/2006/vote_002
+
+From erinn@double-helix.org  Sat Apr  1 23:12:23 2006
+Return-Path: <erinn@double-helix.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 5374D3B00FF
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:12:23 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 13864-04 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:12:22 -0500 (EST)
+Received: from imf24aec.mail.bellsouth.net (imf24aec.mail.bellsouth.net
+	[205.152.59.72])
+	by menubar.gnome.org (Postfix) with ESMTP id BB6DB3B00B7
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:12:21 -0500 (EST)
+Received: from ibm68aec.bellsouth.net ([68.154.201.196])
+	by imf24aec.mail.bellsouth.net with ESMTP id
+	<20060402041218.MPGM13171.imf24aec.mail.bellsouth.net@ibm68aec.bellsouth.net>
+	for <gnome-women-list@mail.gnome.org>; Sat, 1 Apr 2006 23:12:18 -0500
+Received: from double-helix.org ([68.154.201.196])
+	by ibm68aec.bellsouth.net with ESMTP
+	id <20060402041218.JVQE17765.ibm68aec.bellsouth.net@double-helix.org>; 
+	Sat, 1 Apr 2006 23:12:18 -0500
+Received: by rabies (Postfix, from userid 1000)
+	id 985E896A2E; Sat,  1 Apr 2006 23:12:24 -0500 (EST)
+Date: Sat, 1 Apr 2006 23:12:24 -0500
+From: Erinn Clark <erinn@double-helix.org>
+To: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] Debian elections
+Message-ID: <20060402041224.GA10645@rabies>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: volunteers@linuxchix.org, gnome-women-list@mail.gnome.org,
+	"Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	Capel Brunker <var@internode.on.net>
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 04:12:23 -0000
+
+* Clytie Siddall <clytie@riverland.net.au> [2006:04:02 13:24 +0930]: 
+> Voting is not difficult, but you need to have a PGP key logged with  
+> Debian (to identify you, and prevent multiple voting or other  
+> deceitful acts). The election mail says:
+> 
+> >NOTE: The vote must be GPG signed
+> >(or PGP signed) with your key that is in the Debian keyring.
+> 
+> Now, how do we know if our key is in the Debian keyring or not? I've  
+> asked on my usual Debian mailing list, debian-i18n, and hope to know  
+> the answer soon. I'll post it when I have it, or iof someone here  
+> knows the answer, please post it.
+
+Just FYI: In order to vote, you have to be a Debian Developer, which is
+how you know if your key is in the keyring or not. If you haven't gone
+through the Debian new maintainer process and been accepted, you are
+unable to vote.
+
+(Feel free to forward this to grrls-only@linuxchix.org, as I'm not
+subscribed.)
+
+-- 
+off the chain like a rebellious guanine nucleotide
+From mary@home.puzzling.org  Sat Apr  1 23:17:25 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 375E53B018C
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:17:25 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14036-02 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:17:24 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 414403B018D
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:17:23 -0500 (EST)
+Received: (qmail 8665 invoked from network); 2 Apr 2006 04:17:29 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 2 Apr 2006 04:17:29 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 9AA2678809F
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 14:17:33 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 01302-08 for <gnome-women-list@mail.gnome.org>;
+	Sun, 2 Apr 2006 14:17:33 +1000 (EST)
+Received: from sourdust.home.puzzling.org (sourdust.home.puzzling.org
+	[10.0.0.7]) by home.puzzling.org (Postfix) with ESMTP id 8367B78809A
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 14:17:33 +1000 (EST)
+Received: by sourdust.home.puzzling.org (Postfix, from userid 1000)
+	id EB686194445; Sun,  2 Apr 2006 14:17:15 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Sun, 2 Apr 2006 14:17:15 +1000
+Resent-Message-ID: <20060402041715.GH5851@sourdust.home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Sun, 2 Apr 2006 14:16:09 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Debian elections
+Message-ID: <20060402041609.GG5851@sourdust.home.puzzling.org>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+	<20060402041224.GA10645@rabies>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20060402041224.GA10645@rabies>
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 04:17:25 -0000
+
+On Sat, Apr 01, 2006, Erinn Clark wrote:
+> (Feel free to forward this to grrls-only@linuxchix.org, as I'm not
+> subscribed.)
+
+I have noted this there (before your mail arrived Erinn, so I didn't
+have you to quote!)
+
+-Mary
+From clytie@riverland.net.au  Sat Apr  1 23:46:32 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D8BFF3B01B1
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:46:32 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14784-10 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:46:31 -0500 (EST)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 30D8B3B0199
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:46:31 -0500 (EST)
+Received: from [10.1.1.91] (ppp201-152.lns1.adl4.internode.on.net
+	[203.122.201.152])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k324jqL4008916;
+	Sun, 2 Apr 2006 14:15:52 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.3)
+In-Reply-To: <20060402041224.GA10645@rabies>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+	<20060402041224.GA10645@rabies>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <5BE28C1C-0727-4BF0-B8BD-54D074A4E696@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 2 Apr 2006 14:15:50 +0930
+To: "Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	gnome-women-list@mail.gnome.org, grrls-only@linuxchix.org,
+	volunteers@linuxchix.org, Capel Brunker <var@internode.on.net>
+X-Mailer: Apple Mail (2.746.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.983 tagged_above=-999 required=2
+	tests=[AWL=-0.452, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.983
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Re: Debian elections
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 04:46:33 -0000
+
+
+On 02/04/2006, at 1:42 PM, Erinn Clark wrote:
+
+> Just FYI: In order to vote, you have to be a Debian Developer, =20
+> which is
+> how you know if your key is in the keyring or not. If you haven't gone
+> through the Debian new maintainer process and been accepted, you are
+> unable to vote.
+
+I'm sorry, I didn't know this. It certainly didn't say that in the =20
+election mail.
+
+This certainly restricts the voting to a small pool. What about all =20
+the other people who contribute their time and effort to the project?
+
+I feel a protest coming on... ;)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+From mary@home.puzzling.org  Sun Apr  2 00:00:51 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 531E23B01B3
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:00:51 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15471-06 for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:00:50 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 5DEA93B01B1
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:00:49 -0500 (EST)
+Received: (qmail 13407 invoked from network); 2 Apr 2006 05:00:57 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 2 Apr 2006 05:00:57 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id E504478809F
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 15:01:06 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 01708-06 for <gnome-women-list@mail.gnome.org>;
+	Sun, 2 Apr 2006 15:01:06 +1000 (EST)
+Received: from sourdust.home.puzzling.org (sourdust.home.puzzling.org
+	[10.0.0.7]) by home.puzzling.org (Postfix) with ESMTP id D182B78809A
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 15:01:06 +1000 (EST)
+Received: by sourdust.home.puzzling.org (Postfix, from userid 1000)
+	id C26E21944BB; Sun,  2 Apr 2006 15:00:47 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Sun, 2 Apr 2006 15:00:47 +1000
+Resent-Message-ID: <20060402050047.GK5851@sourdust.home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Sun, 2 Apr 2006 14:59:38 +1000
+From: Mary <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Re: Debian elections
+Message-ID: <20060402045938.GJ5851@sourdust.home.puzzling.org>
+Mail-Followup-To: gnome-women-list@mail.gnome.org,
+	grrls-only@linuxchix.org
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+	<20060402041224.GA10645@rabies>
+	<5BE28C1C-0727-4BF0-B8BD-54D074A4E696@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <5BE28C1C-0727-4BF0-B8BD-54D074A4E696@riverland.net.au>
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2 tests=[AWL=0.000, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 05:00:51 -0000
+
+On Sun, Apr 02, 2006, Clytie Siddall wrote:
+> This certainly restricts the voting to a small pool. What about all  
+> the other people who contribute their time and effort to the project?
+> 
+> I feel a protest coming on... ;)
+
+This has been raised as a concern by other people before, see for
+example Benjamin Mako Hill at http://mako.cc/copyrighteous/2005/Jul/19 .
+That argument is, I believe, much of the reason that applying for Ubuntu
+*membership* and Ubuntu *maintainership* (for example) are separate
+processes. See also criteria for voting in GNOME Foundation elections at
+http://foundation.gnome.org/membership/ . (Typically, there is usually
+*some* level of involvement required before being given voting rights,
+or it's too easy to rig elections or 'steal' a project's resources.)
+
+The most effective protest would probably be working within Debian to
+amend the rules to either allow (some) non-developers to vote, or to
+change the criteria for a developer. I suspect from Mako's blog entry
+that there are some ideas other people have that would be useful. On the
+other hand, there's only so much time in the day... ;)
+
+-Mary
+From aicra@well.com  Sun Apr  2 00:42:56 2006
+Return-Path: <aicra@well.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DDF463B0200
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:42:55 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 17148-02 for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:42:53 -0500 (EST)
+Received: from smtp.well.com (smtp.well.com [206.80.4.7])
+	by menubar.gnome.org (Postfix) with ESMTP id 6727E3B01EE
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:42:52 -0500 (EST)
+X-WELL-Auth: Yes
+Received: from well.com (well.com [206.80.4.5])
+	by smtp.well.com (8.13.6/8.13.6) with ESMTP id k325gUt6029117;
+	Sat, 1 Apr 2006 21:42:30 -0800 (PST)
+Received: from localhost (aicra@localhost)
+	by well.com (8.13.6/8.13.6/Submit) with ESMTP id k325gT1T012868;
+	Sat, 1 Apr 2006 21:42:29 -0800 (PST)
+Date: Sat, 1 Apr 2006 21:42:29 -0800 (PST)
+From: Marcia Wilbur <aicra@well.com>
+To: Clytie Siddall <clytie@riverland.net.au>
+In-Reply-To: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+Message-ID: <Pine.GSO.4.58.0604012141250.9609@well.com>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Mailman-Approved-At: Mon, 03 Apr 2006 11:06:57 -0400
+Cc: Volunteers@linuxchix.org, gnome-women-list@mail.gnome.org,
+	grrls-only@linuxchix.org,
+	"Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	Capel Brunker <var@internode.on.net>
+Subject: [gnome-women] Re: [Grrls-only] Debian elections
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 05:42:56 -0000
+
+
+OPEN....
+
+
+FREE SOFTWARE... please look up the definitions and use accordingly.
+
+-aicra
+On Sun, 2 Apr 2006, Clytie Siddall wrote:
+
+> Hi everyone :)
+>...
+> Debian is a very important project in Open Source, and one where we
+> have identified some specific issues affecting the participation of
+> women and new people in general.
+>
+
+
+
+From lila@liminar.com.ar  Sun Apr  2 21:10:42 2006
+Return-Path: <lila@liminar.com.ar>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 413F33B12AE
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 21:10:42 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 22142-04 for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 21:10:33 -0400 (EDT)
+Received: from smtp-01.arnet.com.ar (unknown [200.45.191.24])
+	by menubar.gnome.org (Postfix) with SMTP id E70673B1405
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 21:10:31 -0400 (EDT)
+Received: (qmail 28594 invoked from network); 2 Apr 2006 22:07:33 -0000
+Received: from unknown (HELO ?200.117.186.91?) (200.117.186.91)
+	by smtp-01.arnet.com.ar with SMTP; 2 Apr 2006 22:07:33 -0000
+Message-ID: <443075F9.10905@liminar.com.ar>
+Date: Sun, 02 Apr 2006 22:10:17 -0300
+From: Lila Pagola <lila@liminar.com.ar>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: es-es, es
+MIME-Version: 1.0
+To: "liminar@gruposyahoo.com.ar" <liminar@gruposyahoo.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=1.724 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, SUBJECT_ENCODED_TWICE=1.723]
+X-Spam-Score: 1.724
+X-Spam-Level: *
+X-Mailman-Approved-At: Mon, 03 Apr 2006 11:06:57 -0400
+Cc: 
+Subject: [gnome-women] =?iso-8859-1?q?tecnolog=EDa_=2E_g=E9nero_=7C_especi?=
+ =?iso-8859-1?q?al_06_=7C_liminar_=7C_txt?=
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 03 Apr 2006 01:10:42 -0000
+
+especial 06 | liminar | txt=20
+=2E........................................abril .....06 .............
+
+        [  tecnolog=EDa . g=E9nero ] ...=20
+[http://liminar.com.ar/txt/Critica006.html]
+
+Democracia, acceso, inclusividad, participaci=F3n son nociones clave=20
+siempre recurridas te=F3ricamente para referirse a las potencialidades y =
+
+especificidad de los nuevos medios.
+=BFc=F3mo se ven esas posibilidades a la luz de una perspectiva de g=E9ne=
+ro?=20
+Algunas evidencias se=F1alan que las viejas estructuras se repiten, a=FAn=
+ en=20
+las iniciativas mas radicales.
+=BFes la autor=EDa una noci=F3n patriarcal?
+=BFhasta que punto el adoctrinamiento infantil en la dicotom=EDa=20
+parecer/actuar incide en el inter=E9s de las mujeres por la tecnolog=EDa?=
+
+=BFporque la brecha de g=E9nero se agrava sensiblemente en la comunidad d=
+e=20
+software libre?=BFno representa ese hecho una grave contradicci=F3n?
+
+S=F3lo algunas preguntas planteadas en la intenci=F3n de identificar=20
+problemas y contribuir a su discusi=F3n y soluci=F3n.
+
+textos de:
+Laurence Rassel
+Beatriz Busaniche
+Karen Wong
+Yuwei Li [en ingl=E9s]
+                =20
+    +   enlaces recomendados ++
+=2E......................................................................=
+=2E.......................................=20
+  =20
+            uno || Laurence Rassel/
+Herramientas jur=EDdicas como narraci=F3n feminista: del autor a las comm=
+ons.
+
+rtf. 126 Kb
+        =20
+    A manera de introducci=F3n, este texto quiere poner a prueba=20
+aproximaciones, comparaciones de im=E1genes, conceptos, y llevar a cabo=20
+experimentos. Laurence Rassel lo hace desde una formaci=F3n de artista=20
+visual que ha entrado, a trav=E9s del feminismo y de las nuevas=20
+tecnolog=EDas, en el c=F3digo de la representaci=F3n, las tecnolog=EDas y=
+ la=20
+cultura.
+=2E......................................................................=
+=2E.......................................=20
+  =20
+          dos ||   Beatriz Busaniche/ =20
+El software libre y las mujeres.
+
+rtf. 66 Kb.          =20
+
+    No hay que tener grandes dotes de observaci=F3n para darse cuenta del=
+=20
+notable desbalance entre mujeres y hombres que se registra en la=20
+comunidad de software libre, una comunidad que se dice a si misma libre, =
+
+participativa y abierta.
+=2E......................................................................=
+=2E.......................................=20
+  =20
+          tres || Karen Wong/
+=BFCuales podr=EDan ser las razones culturales de la falta de inter=E9s d=
+e las=20
+mujeres por la tecnolog=EDa?
+
+rtf. 34 Kb.
+          =20
+    Usando las preguntas anteriores como puntos de partida, he elegido=20
+trazar algunas l=EDneas, dejando las conclusiones abiertas mas que=20
+finitas, considerando que las complejidades de los diferentes contextos=20
+y sistemas no pueden ser reducidos y generalizados, como podr=EDa ser la =
+
+tendencia y el peligro cuando se trata de estos temas.
+=2E......................................................................=
+=2E....................................... =20
+  =20
+cuatro || Yuwei Lin/
+Gender Dimensions of Floss Development.
+
+pdf. 32 Kb/ ingl=E9s / =BFte interesa traducirlo? visit=E1=20
+http://nomade.liminar.com.ar/wakka.php?wakka=3DTraduccionesTextos
+       =20
+    El ideal de igualdad, inclusividad y libertad del movimiento de=20
+software libre es tristemente tirado abajo por el desbalance de g=E9nero =
+
+de sus participantes, con las mujeres siendo apenas mas del 1% de los=20
+desarrolladores de software libre. Yuwei Lin analiza las causas de la=20
+divisi=F3n digital del g=E9nero y sugiere una forma de disminuirla.
+=2E......................................................................=
+=2E.......................................=20
+  =20
+        enlaces || sitios recomendados
+
+   [  tecnolog=EDa . g=E9nero ] ... [http://liminar.com.ar/txt/Critica006=
+=2Ehtml]
+
+From clytie@riverland.net.au  Tue Apr 18 03:36:30 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9DC503B2894
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:36:30 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 03206-03 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:36:28 -0400 (EDT)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 994503B2883
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:36:27 -0400 (EDT)
+Received: from [10.1.1.91] (ppp135-52.lns2.adl2.internode.on.net
+	[59.167.135.52])
+	by smtp1.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k3I7aPGY025109 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 17:06:25 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v749.3)
+In-Reply-To: <1145286268.3527.44.camel@champignon.xalalinux.org>
+References: <1145286268.3527.44.camel@champignon.xalalinux.org>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <182EE9F2-EBA1-4C22-B2CD-51981C3E4ACF@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 18 Apr 2006 17:06:23 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.749.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.782 tagged_above=-999 required=2
+	tests=[AWL=-1.665, BAYES_40=-0.185, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -0.782
+X-Spam-Level: 
+Subject: [gnome-women] Re: Minutes of the Board meeting, 2006/Mar/01
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 07:36:30 -0000
+
+
+On 18/04/2006, at 12:34 AM, Federico Mena Quintero wrote:
+
+> EU is doing a report on Representation of Women in Free
+>           Software; numbers are very sad --- under 1.5%
+>           participation.
+
+This is the last item in the Gnome Foundation minutes for March 1st =20
+2006. It only came into my mailbox today.
+
+I don't understand the Gnome decision-making structure well : can we, =20=
+
+as Gnome-Women, make recommendations to the Foundation, or present =20
+information?
+
+In other words, how can we act as a focus group to do raise female =20
+participation in Gnome, and keep the Foundation involved/informed?
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+From clytie@riverland.net.au  Tue Apr 18 03:44:21 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B44273B285C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:44:21 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 03674-01 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:44:20 -0400 (EDT)
+Received: from smtp3.adl2.internode.on.net (smtp3.adl2.internode.on.net
+	[203.16.214.203])
+	by menubar.gnome.org (Postfix) with ESMTP id CC0073B288B
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:44:19 -0400 (EDT)
+Received: from [10.1.1.91] (ppp135-52.lns2.adl2.internode.on.net
+	[59.167.135.52])
+	by smtp3.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k3I7iErV045932 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 17:14:18 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v749.3)
+In-Reply-To: <1145286603.3527.47.camel@champignon.xalalinux.org>
+References: <1145286603.3527.47.camel@champignon.xalalinux.org>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <35BD49C5-34D2-4090-95A5-8D1B7CD43856@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 18 Apr 2006 17:14:12 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.749.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.987 tagged_above=-999 required=2
+	tests=[AWL=-0.456, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.987
+X-Spam-Level: 
+Subject: [gnome-women] GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 07:44:21 -0000
+
+Subsequent to my mail about female participation, and working with =20
+the Foundation, the next lot of minutes (they all came in at once, =20
+today) included:
+
+On 18/04/2006, at 12:40 AM, Federico Mena Quintero wrote:
+
+> Call for [GUADEC] papers:
+>
+> 		Only about 10 submissions so far.
+>
+> 		Need to announce call-for-papers in the main
+> 		www.gnome.org page.
+>
+> 		Need to make it clear that we don't require full
+> 		papers right now; just abstracts are fine.
+>
+> 		Suggest Apr. 20 as the date in which we tell people
+> 		whether we accept their submissions.
+>
+> 		ACTION: Federico to remind people to submit abstracts,
+> 		and announce the confirmation date.
+>
+> 		ACTION: Vincent to update www.gnome.org to mention the
+> 		call for papers deadline.
+
+Is anyone here going to be at GUADEC? Is there anyone here, or do we =20
+know any other woman who would be willing to deliver a talk/workshop =20
+on female participation (Getting the O+ into Gnome ;) ) ?
+
+I'd be happy to help with preparing the paper/workshop. I have a good =20=
+
+deal of experience with preparing and delivering them.
+
+Unfortunately, since I am bedridden and unable to travel, I can only =20
+participate by computer. We have a Gnome Women's group: is there any =20
+focus person or group for accessibility issues? I'd like to highlight =20=
+
+the participation needs of disabled/isolated people, and encourage =20
+more presentations/activities to include people communicating from a =20
+distance, or at least to provide recorded info that can be downloaded.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+From duffy@redhat.com  Tue Apr 18 09:30:28 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E09A03B1622
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:27 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 25744-10 for <gnome-women-list@gnome.org>;
+	Tue, 18 Apr 2006 09:30:26 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id B4E2C3B140B
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:25 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11.20060308/8.12.11) with ESMTP id
+	k3IDUP7l024723
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:25 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.12.11.20060308/8.11.6) with ESMTP id
+	k3IDUED1029751
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:14 -0400
+Received: from [172.16.26.8]
+	(IDENT:U2FsdGVkX19Fv2bUAfF6CmszrVdzTJlTCzk5/r3/R4c@vpn26-8.sfbay.redhat.com
+	[172.16.26.8])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k3IDUDiZ012765
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:14 -0400
+Message-ID: <4444E9E4.5090402@redhat.com>
+Date: Tue, 18 Apr 2006 09:30:12 -0400
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] GUADEC
+References: <1145286603.3527.47.camel@champignon.xalalinux.org>
+	<35BD49C5-34D2-4090-95A5-8D1B7CD43856@riverland.net.au>
+In-Reply-To: <35BD49C5-34D2-4090-95A5-8D1B7CD43856@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.568 tagged_above=-999 required=2 tests=[AWL=0.033, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.568
+X-Spam-Level: 
+Cc: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 13:30:28 -0000
+
+Hi Clytie,
+
+[snip]
+> Is anyone here going to be at GUADEC? Is there anyone here, or do we  
+> know any other woman who would be willing to deliver a talk/workshop  on 
+> female participation (Getting the O+ into Gnome ;) ) ?
+> 
+> I'd be happy to help with preparing the paper/workshop. I have a good  
+> deal of experience with preparing and delivering them.
+> 
+> Unfortunately, since I am bedridden and unable to travel, I can only  
+> participate by computer. We have a Gnome Women's group: is there any  
+> focus person or group for accessibility issues? I'd like to highlight  
+> the participation needs of disabled/isolated people, and encourage  more 
+> presentations/activities to include people communicating from a  
+> distance, or at least to provide recorded info that can be downloaded.
+
+I am going to be at GUADEC and I think Hanna was thinking about it but had a 
+scheduling issue. I'd be happy to present a paper and/or recording, and if you'd 
+like to work with me on preparing a paper that'd be awesome Clytie! :)
+
+~m
+From mairin@gmail.com  Tue Apr 18 18:15:28 2006
+Return-Path: <mairin@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 74A823B2BF5
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 18:15:28 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 25030-10 for <gnome-women-list@gnome.org>;
+	Tue, 18 Apr 2006 18:15:23 -0400 (EDT)
+Received: from nproxy.gmail.com (nproxy.gmail.com [64.233.182.191])
+	by menubar.gnome.org (Postfix) with ESMTP id 6DB613B1A79
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 18:15:23 -0400 (EDT)
+Received: by nproxy.gmail.com with SMTP id m18so816678nfc
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 15:15:22 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=JLqgyQaOlK431xG8BVubram4eh5t6yU4vV2UvsYCAKzRkq7YULiVlFk4l2gVsCwrfoTckqXLB5pp63e3/iLI9aL/AVqwHUCeQwrwnWukuXwqzoVAuc2eBmVATIuC5ZBox5sO6t4024YOU/LZsa5oAr4HTZgo44qIQzf+4xOHlog=
+Received: by 10.48.211.17 with SMTP id j17mr1218671nfg;
+	Tue, 18 Apr 2006 15:15:22 -0700 (PDT)
+Received: by 10.48.235.20 with HTTP; Tue, 18 Apr 2006 15:15:22 -0700 (PDT)
+Message-ID: <cce7a3130604181515l66846241k362489e266a8e845@mail.gmail.com>
+Date: Tue, 18 Apr 2006 18:15:22 -0400
+From: "=?ISO-8859-1?Q?M=E1ir=EDn_Duffy?=" <mairin@gmail.com>
+To: gnome-women-list@gnome.org
+In-Reply-To: <709e17e00604181431i6b98b2fbh8bcec967fcb76c2e@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+References: <709e17e00604181431i6b98b2fbh8bcec967fcb76c2e@mail.gmail.com>
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.042 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, RCVD_IN_BL_SPAMCOP_NET=1.558, SPF_PASS=-0.001]
+X-Spam-Score: -1.042
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Fwd: [Grrltalk] Women 2.0 conference - April 30 - Mark
+	your calendars!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 22:15:28 -0000
+
+---------- Forwarded message ----------
+From: Erica Douglass <slashchick@gmail.com>
+Date: Apr 18, 2006 5:31 PM
+Subject: [Grrltalk] Women 2.0 conference - April 30 - Mark your calendars!
+To: grrltalk@linuxchix.org
+
+
+Hi all,
+
+The Women 2.0 conference is coming up on April 30 in Mountain View, CA. Thi=
+s
+is all about empowering women entrepreneurs and women techies to "go get
+'em" in the male-dominated tech industry. I hope to see you there!
+
+Register at http://www.entrepreneur27.org/ -- first 25 people to blog about
+it get a free pass.
+
+Thank you,
+-Erica
+_______________________________________________
+Grrltalk mailing list
+Grrltalk@linuxchix.org
+http://mailman.linuxchix.org/mailman/listinfo/grrltalk
+From clytie@riverland.net.au  Sat Apr  1 22:55:20 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F319C3B00B6
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 22:55:19 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 13186-02 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 22:55:18 -0500 (EST)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id F37793B0087
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 22:55:17 -0500 (EST)
+Received: from [10.1.1.91] (ppp201-152.lns1.adl4.internode.on.net
+	[203.122.201.152])
+	by smtp1.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k323t1V2072304; Sun, 2 Apr 2006 13:25:02 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.3)
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+To: "Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	grrls-only@linuxchix.org, Volunteers@linuxchix.org,
+	gnome-women-list@mail.gnome.org, Capel Brunker <var@internode.on.net>
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 2 Apr 2006 13:24:59 +0930
+X-Mailer: Apple Mail (2.746.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.945 tagged_above=-999 required=2
+	tests=[AWL=-0.491, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069, TW_FC=0.077]
+X-Spam-Score: -1.945
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Debian elections
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 03:55:20 -0000
+
+Hi everyone :)
+
+I've posted this to more than one place, so sorry if you got it more =20
+than once. I think this is an opportunity to make some change that =20
+will forward our aims, so I'm trying to publicize it. I hope that's OK.
+
+The Debian Project Leader elections are on. I'd completely missed =20
+this, being unable to keep up with debian-devel, and my husband, who =20
+is a keen Debian user, says he had missed it, too. That makes me =20
+wonder just how many people _do_ know about it.
+
+Debian is a very important project in Open Source, and one where we =20
+have identified some specific issues affecting the participation of =20
+women and new people in general.
+
+I've started to read the platforms, don't know if I can get through =20
+them all, but I'm definitely impressed by this statement from Jeroen =20
+van Wolffelaar [1]
+>
+> I will push for the adoption of a code of conduct. I do feel =20
+> strongly about that mailing lists should be able to provide a forum =20=
+
+> for productive technical discussion, where one can ask questions to =20=
+
+> and get a reasonable result. If some people are not able to =20
+> contribute to this, but rather hurt the discussion, action must be =20
+> undertaken. If peer pressure does not help, this may include such =20
+> things like posting delays, moderation of certain individuals, and =20
+> in extreme cases, banning from mailing lists. I will work with the =20
+> listmaster team to see whether they are willing to facilitate this, =20=
+
+> or whether there needs to be a new team of people performing this =20
+> moderation.
+
+I believe this is important, and should be applied also to IRC =20
+channels, fora and any other Debian method of communication.
+
+It's worth me reading the platforms, or as much as I can, then =20
+voting. I hope you think it's worth your time, too. Here is our =20
+chance to change things, not just feel unhappy about them.
+
+Voting is not difficult, but you need to have a PGP key logged with =20
+Debian (to identify you, and prevent multiple voting or other =20
+deceitful acts). The election mail says:
+
+> NOTE: The vote must be GPG signed
+> (or PGP signed) with your key that is in the Debian keyring.
+
+Now, how do we know if our key is in the Debian keyring or not? I've =20
+asked on my usual Debian mailing list, debian-i18n, and hope to know =20
+the answer soon. I'll post it when I have it, or iof someone here =20
+knows the answer, please post it.
+
+The mail to debian-devel said that voting had been very low. This =20
+means each vote counts more. We can make a difference here. :)
+
+To vote, first read the platform information [2]. Then:
+
+1. Copy the box below into an email:
+
+> - - -=3D-=3D-=3D-=3D-=3D- Don't Delete Anything Between These Lines =
+=3D-=3D-=3D-=3D-=3D-=20
+> =3D-=3D-=3D-
+> 52717dc0-26e3-4337-a88b-cc2c260fcb51
+> [   ] Choice 1: Jeroen van Wolffelaar
+> [   ] Choice 2: Ari Pollak
+> [   ] Choice 3: Steve McIntyre
+> [   ] Choice 4: Anthony Towns
+> [   ] Choice 5: Andreas Schuldei
+> [   ] Choice 6: Jonathan aka Ted Walther
+> [   ] Choice 7: Bill Allombert
+> [   ] Choice 8: None Of The Above
+> - - -=3D-=3D-=3D-=3D-=3D- Don't Delete Anything Between These Lines =
+=3D-=3D-=3D-=3D-=3D-=20
+> =3D-=3D-=3D-
+
+2. Then mark from 1 to 8 in the [ ] on the left-hand side.
+
+If you definitely want someone _not_ included, mark them lower than =20
+None of the Above, e.g. if there is one person you really don't want =20
+to vote _for_, mark None of the Above as 7, and him [3] as 8. If you =20
+want everyone to have a good chance, mark None of the Above as 8. =20
+Anyone below None of the Above will only be counted after all the =20
+other votes.
+
+3. Attach your PGP key to the mail (your usual "sign with PGP" =20
+action, e.g. my mailer just has a box I check that says "PGP signed. =20
+You may have this set to happen automatically: check your preferences.)
+
+4. Send the mail to <leader2006@vote.debian.org>.
+
+You should receive a receipt mail which has the Debian vote PGP key =20
+attached. The original mail about this election will be on debian-=20
+devel, and there should be lots of info about the election at =20
+<debian.org>.
+
+If you don't receive a receipt email, maybe something went wrong, and =20=
+
+it would be worth asking someone to check if it went through. I don't =20=
+
+know whom we would ask, as yet. ;)
+
+Let's make a difference today. Vote in the Debian Project Leader =20
+elections [4].
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+[1] http://www.debian.org/vote/2006/platforms/jeroen
+[2] http://www.debian.org/vote/2006/platforms/
+[3] All male candidates. We need to change this, too. Consider =20
+getting more involved. ;)
+[4] http://www.debian.org/vote/2006/vote_002
+
+
+From erinn@double-helix.org  Sat Apr  1 23:12:23 2006
+Return-Path: <erinn@double-helix.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 5374D3B00FF
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:12:23 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 13864-04 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:12:22 -0500 (EST)
+Received: from imf24aec.mail.bellsouth.net (imf24aec.mail.bellsouth.net
+	[205.152.59.72])
+	by menubar.gnome.org (Postfix) with ESMTP id BB6DB3B00B7
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:12:21 -0500 (EST)
+Received: from ibm68aec.bellsouth.net ([68.154.201.196])
+	by imf24aec.mail.bellsouth.net with ESMTP id
+	<20060402041218.MPGM13171.imf24aec.mail.bellsouth.net@ibm68aec.bellsouth.net>
+	for <gnome-women-list@mail.gnome.org>; Sat, 1 Apr 2006 23:12:18 -0500
+Received: from double-helix.org ([68.154.201.196])
+	by ibm68aec.bellsouth.net with ESMTP
+	id <20060402041218.JVQE17765.ibm68aec.bellsouth.net@double-helix.org>; 
+	Sat, 1 Apr 2006 23:12:18 -0500
+Received: by rabies (Postfix, from userid 1000)
+	id 985E896A2E; Sat,  1 Apr 2006 23:12:24 -0500 (EST)
+Date: Sat, 1 Apr 2006 23:12:24 -0500
+From: Erinn Clark <erinn@double-helix.org>
+To: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] Debian elections
+Message-ID: <20060402041224.GA10645@rabies>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: volunteers@linuxchix.org, gnome-women-list@mail.gnome.org,
+	"Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	Capel Brunker <var@internode.on.net>
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 04:12:23 -0000
+
+* Clytie Siddall <clytie@riverland.net.au> [2006:04:02 13:24 +0930]: 
+> Voting is not difficult, but you need to have a PGP key logged with  
+> Debian (to identify you, and prevent multiple voting or other  
+> deceitful acts). The election mail says:
+> 
+> >NOTE: The vote must be GPG signed
+> >(or PGP signed) with your key that is in the Debian keyring.
+> 
+> Now, how do we know if our key is in the Debian keyring or not? I've  
+> asked on my usual Debian mailing list, debian-i18n, and hope to know  
+> the answer soon. I'll post it when I have it, or iof someone here  
+> knows the answer, please post it.
+
+Just FYI: In order to vote, you have to be a Debian Developer, which is
+how you know if your key is in the keyring or not. If you haven't gone
+through the Debian new maintainer process and been accepted, you are
+unable to vote.
+
+(Feel free to forward this to grrls-only@linuxchix.org, as I'm not
+subscribed.)
+
+-- 
+off the chain like a rebellious guanine nucleotide
+
+From mary@home.puzzling.org  Sat Apr  1 23:17:25 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 375E53B018C
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:17:25 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14036-02 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:17:24 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 414403B018D
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:17:23 -0500 (EST)
+Received: (qmail 8665 invoked from network); 2 Apr 2006 04:17:29 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 2 Apr 2006 04:17:29 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 9AA2678809F
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 14:17:33 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 01302-08 for <gnome-women-list@mail.gnome.org>;
+	Sun, 2 Apr 2006 14:17:33 +1000 (EST)
+Received: from sourdust.home.puzzling.org (sourdust.home.puzzling.org
+	[10.0.0.7]) by home.puzzling.org (Postfix) with ESMTP id 8367B78809A
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 14:17:33 +1000 (EST)
+Received: by sourdust.home.puzzling.org (Postfix, from userid 1000)
+	id EB686194445; Sun,  2 Apr 2006 14:17:15 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Sun, 2 Apr 2006 14:17:15 +1000
+Resent-Message-ID: <20060402041715.GH5851@sourdust.home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Sun, 2 Apr 2006 14:16:09 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Debian elections
+Message-ID: <20060402041609.GG5851@sourdust.home.puzzling.org>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+	<20060402041224.GA10645@rabies>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20060402041224.GA10645@rabies>
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 04:17:25 -0000
+
+On Sat, Apr 01, 2006, Erinn Clark wrote:
+> (Feel free to forward this to grrls-only@linuxchix.org, as I'm not
+> subscribed.)
+
+I have noted this there (before your mail arrived Erinn, so I didn't
+have you to quote!)
+
+-Mary
+
+From clytie@riverland.net.au  Sat Apr  1 23:46:32 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D8BFF3B01B1
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:46:32 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14784-10 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:46:31 -0500 (EST)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 30D8B3B0199
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:46:31 -0500 (EST)
+Received: from [10.1.1.91] (ppp201-152.lns1.adl4.internode.on.net
+	[203.122.201.152])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k324jqL4008916;
+	Sun, 2 Apr 2006 14:15:52 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.3)
+In-Reply-To: <20060402041224.GA10645@rabies>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+	<20060402041224.GA10645@rabies>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <5BE28C1C-0727-4BF0-B8BD-54D074A4E696@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 2 Apr 2006 14:15:50 +0930
+To: "Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	gnome-women-list@mail.gnome.org, grrls-only@linuxchix.org,
+	volunteers@linuxchix.org, Capel Brunker <var@internode.on.net>
+X-Mailer: Apple Mail (2.746.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.983 tagged_above=-999 required=2
+	tests=[AWL=-0.452, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.983
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Re: Debian elections
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 04:46:33 -0000
+
+
+On 02/04/2006, at 1:42 PM, Erinn Clark wrote:
+
+> Just FYI: In order to vote, you have to be a Debian Developer, =20
+> which is
+> how you know if your key is in the keyring or not. If you haven't gone
+> through the Debian new maintainer process and been accepted, you are
+> unable to vote.
+
+I'm sorry, I didn't know this. It certainly didn't say that in the =20
+election mail.
+
+This certainly restricts the voting to a small pool. What about all =20
+the other people who contribute their time and effort to the project?
+
+I feel a protest coming on... ;)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From mary@home.puzzling.org  Sun Apr  2 00:00:51 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 531E23B01B3
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:00:51 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15471-06 for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:00:50 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 5DEA93B01B1
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:00:49 -0500 (EST)
+Received: (qmail 13407 invoked from network); 2 Apr 2006 05:00:57 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 2 Apr 2006 05:00:57 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id E504478809F
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 15:01:06 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 01708-06 for <gnome-women-list@mail.gnome.org>;
+	Sun, 2 Apr 2006 15:01:06 +1000 (EST)
+Received: from sourdust.home.puzzling.org (sourdust.home.puzzling.org
+	[10.0.0.7]) by home.puzzling.org (Postfix) with ESMTP id D182B78809A
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 15:01:06 +1000 (EST)
+Received: by sourdust.home.puzzling.org (Postfix, from userid 1000)
+	id C26E21944BB; Sun,  2 Apr 2006 15:00:47 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Sun, 2 Apr 2006 15:00:47 +1000
+Resent-Message-ID: <20060402050047.GK5851@sourdust.home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Sun, 2 Apr 2006 14:59:38 +1000
+From: Mary <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Re: Debian elections
+Message-ID: <20060402045938.GJ5851@sourdust.home.puzzling.org>
+Mail-Followup-To: gnome-women-list@mail.gnome.org,
+	grrls-only@linuxchix.org
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+	<20060402041224.GA10645@rabies>
+	<5BE28C1C-0727-4BF0-B8BD-54D074A4E696@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <5BE28C1C-0727-4BF0-B8BD-54D074A4E696@riverland.net.au>
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2 tests=[AWL=0.000, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 05:00:51 -0000
+
+On Sun, Apr 02, 2006, Clytie Siddall wrote:
+> This certainly restricts the voting to a small pool. What about all  
+> the other people who contribute their time and effort to the project?
+> 
+> I feel a protest coming on... ;)
+
+This has been raised as a concern by other people before, see for
+example Benjamin Mako Hill at http://mako.cc/copyrighteous/2005/Jul/19 .
+That argument is, I believe, much of the reason that applying for Ubuntu
+*membership* and Ubuntu *maintainership* (for example) are separate
+processes. See also criteria for voting in GNOME Foundation elections at
+http://foundation.gnome.org/membership/ . (Typically, there is usually
+*some* level of involvement required before being given voting rights,
+or it's too easy to rig elections or 'steal' a project's resources.)
+
+The most effective protest would probably be working within Debian to
+amend the rules to either allow (some) non-developers to vote, or to
+change the criteria for a developer. I suspect from Mako's blog entry
+that there are some ideas other people have that would be useful. On the
+other hand, there's only so much time in the day... ;)
+
+-Mary
+
+From aicra@well.com  Sun Apr  2 00:42:56 2006
+Return-Path: <aicra@well.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DDF463B0200
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:42:55 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 17148-02 for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:42:53 -0500 (EST)
+Received: from smtp.well.com (smtp.well.com [206.80.4.7])
+	by menubar.gnome.org (Postfix) with ESMTP id 6727E3B01EE
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:42:52 -0500 (EST)
+X-WELL-Auth: Yes
+Received: from well.com (well.com [206.80.4.5])
+	by smtp.well.com (8.13.6/8.13.6) with ESMTP id k325gUt6029117;
+	Sat, 1 Apr 2006 21:42:30 -0800 (PST)
+Received: from localhost (aicra@localhost)
+	by well.com (8.13.6/8.13.6/Submit) with ESMTP id k325gT1T012868;
+	Sat, 1 Apr 2006 21:42:29 -0800 (PST)
+Date: Sat, 1 Apr 2006 21:42:29 -0800 (PST)
+From: Marcia Wilbur <aicra@well.com>
+To: Clytie Siddall <clytie@riverland.net.au>
+In-Reply-To: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+Message-ID: <Pine.GSO.4.58.0604012141250.9609@well.com>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Mailman-Approved-At: Mon, 03 Apr 2006 11:06:57 -0400
+Cc: Volunteers@linuxchix.org, gnome-women-list@mail.gnome.org,
+	grrls-only@linuxchix.org,
+	"Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	Capel Brunker <var@internode.on.net>
+Subject: [gnome-women] Re: [Grrls-only] Debian elections
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 05:42:56 -0000
+
+
+OPEN....
+
+
+FREE SOFTWARE... please look up the definitions and use accordingly.
+
+-aicra
+On Sun, 2 Apr 2006, Clytie Siddall wrote:
+
+> Hi everyone :)
+>...
+> Debian is a very important project in Open Source, and one where we
+> have identified some specific issues affecting the participation of
+> women and new people in general.
+>
+
+
+
+
+From lila@liminar.com.ar  Sun Apr  2 21:10:42 2006
+Return-Path: <lila@liminar.com.ar>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 413F33B12AE
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 21:10:42 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 22142-04 for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 21:10:33 -0400 (EDT)
+Received: from smtp-01.arnet.com.ar (unknown [200.45.191.24])
+	by menubar.gnome.org (Postfix) with SMTP id E70673B1405
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 21:10:31 -0400 (EDT)
+Received: (qmail 28594 invoked from network); 2 Apr 2006 22:07:33 -0000
+Received: from unknown (HELO ?200.117.186.91?) (200.117.186.91)
+	by smtp-01.arnet.com.ar with SMTP; 2 Apr 2006 22:07:33 -0000
+Message-ID: <443075F9.10905@liminar.com.ar>
+Date: Sun, 02 Apr 2006 22:10:17 -0300
+From: Lila Pagola <lila@liminar.com.ar>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: es-es, es
+MIME-Version: 1.0
+To: "liminar@gruposyahoo.com.ar" <liminar@gruposyahoo.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=1.724 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, SUBJECT_ENCODED_TWICE=1.723]
+X-Spam-Score: 1.724
+X-Spam-Level: *
+X-Mailman-Approved-At: Mon, 03 Apr 2006 11:06:57 -0400
+Cc: 
+Subject: [gnome-women] =?iso-8859-1?q?tecnolog=EDa_=2E_g=E9nero_=7C_especi?=
+ =?iso-8859-1?q?al_06_=7C_liminar_=7C_txt?=
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 03 Apr 2006 01:10:42 -0000
+
+especial 06 | liminar | txt=20
+=2E........................................abril .....06 .............
+
+        [  tecnolog=EDa . g=E9nero ] ...=20
+[http://liminar.com.ar/txt/Critica006.html]
+
+Democracia, acceso, inclusividad, participaci=F3n son nociones clave=20
+siempre recurridas te=F3ricamente para referirse a las potencialidades y =
+
+especificidad de los nuevos medios.
+=BFc=F3mo se ven esas posibilidades a la luz de una perspectiva de g=E9ne=
+ro?=20
+Algunas evidencias se=F1alan que las viejas estructuras se repiten, a=FAn=
+ en=20
+las iniciativas mas radicales.
+=BFes la autor=EDa una noci=F3n patriarcal?
+=BFhasta que punto el adoctrinamiento infantil en la dicotom=EDa=20
+parecer/actuar incide en el inter=E9s de las mujeres por la tecnolog=EDa?=
+
+=BFporque la brecha de g=E9nero se agrava sensiblemente en la comunidad d=
+e=20
+software libre?=BFno representa ese hecho una grave contradicci=F3n?
+
+S=F3lo algunas preguntas planteadas en la intenci=F3n de identificar=20
+problemas y contribuir a su discusi=F3n y soluci=F3n.
+
+textos de:
+Laurence Rassel
+Beatriz Busaniche
+Karen Wong
+Yuwei Li [en ingl=E9s]
+                =20
+    +   enlaces recomendados ++
+=2E......................................................................=
+=2E.......................................=20
+  =20
+            uno || Laurence Rassel/
+Herramientas jur=EDdicas como narraci=F3n feminista: del autor a las comm=
+ons.
+
+rtf. 126 Kb
+        =20
+    A manera de introducci=F3n, este texto quiere poner a prueba=20
+aproximaciones, comparaciones de im=E1genes, conceptos, y llevar a cabo=20
+experimentos. Laurence Rassel lo hace desde una formaci=F3n de artista=20
+visual que ha entrado, a trav=E9s del feminismo y de las nuevas=20
+tecnolog=EDas, en el c=F3digo de la representaci=F3n, las tecnolog=EDas y=
+ la=20
+cultura.
+=2E......................................................................=
+=2E.......................................=20
+  =20
+          dos ||   Beatriz Busaniche/ =20
+El software libre y las mujeres.
+
+rtf. 66 Kb.          =20
+
+    No hay que tener grandes dotes de observaci=F3n para darse cuenta del=
+=20
+notable desbalance entre mujeres y hombres que se registra en la=20
+comunidad de software libre, una comunidad que se dice a si misma libre, =
+
+participativa y abierta.
+=2E......................................................................=
+=2E.......................................=20
+  =20
+          tres || Karen Wong/
+=BFCuales podr=EDan ser las razones culturales de la falta de inter=E9s d=
+e las=20
+mujeres por la tecnolog=EDa?
+
+rtf. 34 Kb.
+          =20
+    Usando las preguntas anteriores como puntos de partida, he elegido=20
+trazar algunas l=EDneas, dejando las conclusiones abiertas mas que=20
+finitas, considerando que las complejidades de los diferentes contextos=20
+y sistemas no pueden ser reducidos y generalizados, como podr=EDa ser la =
+
+tendencia y el peligro cuando se trata de estos temas.
+=2E......................................................................=
+=2E....................................... =20
+  =20
+cuatro || Yuwei Lin/
+Gender Dimensions of Floss Development.
+
+pdf. 32 Kb/ ingl=E9s / =BFte interesa traducirlo? visit=E1=20
+http://nomade.liminar.com.ar/wakka.php?wakka=3DTraduccionesTextos
+       =20
+    El ideal de igualdad, inclusividad y libertad del movimiento de=20
+software libre es tristemente tirado abajo por el desbalance de g=E9nero =
+
+de sus participantes, con las mujeres siendo apenas mas del 1% de los=20
+desarrolladores de software libre. Yuwei Lin analiza las causas de la=20
+divisi=F3n digital del g=E9nero y sugiere una forma de disminuirla.
+=2E......................................................................=
+=2E.......................................=20
+  =20
+        enlaces || sitios recomendados
+
+   [  tecnolog=EDa . g=E9nero ] ... [http://liminar.com.ar/txt/Critica006=
+=2Ehtml]
+
+
+From clytie@riverland.net.au  Tue Apr 18 03:36:30 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9DC503B2894
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:36:30 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 03206-03 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:36:28 -0400 (EDT)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 994503B2883
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:36:27 -0400 (EDT)
+Received: from [10.1.1.91] (ppp135-52.lns2.adl2.internode.on.net
+	[59.167.135.52])
+	by smtp1.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k3I7aPGY025109 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 17:06:25 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v749.3)
+In-Reply-To: <1145286268.3527.44.camel@champignon.xalalinux.org>
+References: <1145286268.3527.44.camel@champignon.xalalinux.org>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <182EE9F2-EBA1-4C22-B2CD-51981C3E4ACF@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 18 Apr 2006 17:06:23 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.749.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.782 tagged_above=-999 required=2
+	tests=[AWL=-1.665, BAYES_40=-0.185, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -0.782
+X-Spam-Level: 
+Subject: [gnome-women] Re: Minutes of the Board meeting, 2006/Mar/01
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 07:36:30 -0000
+
+
+On 18/04/2006, at 12:34 AM, Federico Mena Quintero wrote:
+
+> EU is doing a report on Representation of Women in Free
+>           Software; numbers are very sad --- under 1.5%
+>           participation.
+
+This is the last item in the Gnome Foundation minutes for March 1st =20
+2006. It only came into my mailbox today.
+
+I don't understand the Gnome decision-making structure well : can we, =20=
+
+as Gnome-Women, make recommendations to the Foundation, or present =20
+information?
+
+In other words, how can we act as a focus group to do raise female =20
+participation in Gnome, and keep the Foundation involved/informed?
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From clytie@riverland.net.au  Tue Apr 18 03:44:21 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B44273B285C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:44:21 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 03674-01 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:44:20 -0400 (EDT)
+Received: from smtp3.adl2.internode.on.net (smtp3.adl2.internode.on.net
+	[203.16.214.203])
+	by menubar.gnome.org (Postfix) with ESMTP id CC0073B288B
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:44:19 -0400 (EDT)
+Received: from [10.1.1.91] (ppp135-52.lns2.adl2.internode.on.net
+	[59.167.135.52])
+	by smtp3.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k3I7iErV045932 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 17:14:18 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v749.3)
+In-Reply-To: <1145286603.3527.47.camel@champignon.xalalinux.org>
+References: <1145286603.3527.47.camel@champignon.xalalinux.org>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <35BD49C5-34D2-4090-95A5-8D1B7CD43856@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 18 Apr 2006 17:14:12 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.749.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.987 tagged_above=-999 required=2
+	tests=[AWL=-0.456, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.987
+X-Spam-Level: 
+Subject: [gnome-women] GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 07:44:21 -0000
+
+Subsequent to my mail about female participation, and working with =20
+the Foundation, the next lot of minutes (they all came in at once, =20
+today) included:
+
+On 18/04/2006, at 12:40 AM, Federico Mena Quintero wrote:
+
+> Call for [GUADEC] papers:
+>
+> 		Only about 10 submissions so far.
+>
+> 		Need to announce call-for-papers in the main
+> 		www.gnome.org page.
+>
+> 		Need to make it clear that we don't require full
+> 		papers right now; just abstracts are fine.
+>
+> 		Suggest Apr. 20 as the date in which we tell people
+> 		whether we accept their submissions.
+>
+> 		ACTION: Federico to remind people to submit abstracts,
+> 		and announce the confirmation date.
+>
+> 		ACTION: Vincent to update www.gnome.org to mention the
+> 		call for papers deadline.
+
+Is anyone here going to be at GUADEC? Is there anyone here, or do we =20
+know any other woman who would be willing to deliver a talk/workshop =20
+on female participation (Getting the O+ into Gnome ;) ) ?
+
+I'd be happy to help with preparing the paper/workshop. I have a good =20=
+
+deal of experience with preparing and delivering them.
+
+Unfortunately, since I am bedridden and unable to travel, I can only =20
+participate by computer. We have a Gnome Women's group: is there any =20
+focus person or group for accessibility issues? I'd like to highlight =20=
+
+the participation needs of disabled/isolated people, and encourage =20
+more presentations/activities to include people communicating from a =20
+distance, or at least to provide recorded info that can be downloaded.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From duffy@redhat.com  Tue Apr 18 09:30:28 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E09A03B1622
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:27 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 25744-10 for <gnome-women-list@gnome.org>;
+	Tue, 18 Apr 2006 09:30:26 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id B4E2C3B140B
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:25 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11.20060308/8.12.11) with ESMTP id
+	k3IDUP7l024723
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:25 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.12.11.20060308/8.11.6) with ESMTP id
+	k3IDUED1029751
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:14 -0400
+Received: from [172.16.26.8]
+	(IDENT:U2FsdGVkX19Fv2bUAfF6CmszrVdzTJlTCzk5/r3/R4c@vpn26-8.sfbay.redhat.com
+	[172.16.26.8])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k3IDUDiZ012765
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:14 -0400
+Message-ID: <4444E9E4.5090402@redhat.com>
+Date: Tue, 18 Apr 2006 09:30:12 -0400
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] GUADEC
+References: <1145286603.3527.47.camel@champignon.xalalinux.org>
+	<35BD49C5-34D2-4090-95A5-8D1B7CD43856@riverland.net.au>
+In-Reply-To: <35BD49C5-34D2-4090-95A5-8D1B7CD43856@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.568 tagged_above=-999 required=2 tests=[AWL=0.033, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.568
+X-Spam-Level: 
+Cc: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 13:30:28 -0000
+
+Hi Clytie,
+
+[snip]
+> Is anyone here going to be at GUADEC? Is there anyone here, or do we  
+> know any other woman who would be willing to deliver a talk/workshop  on 
+> female participation (Getting the O+ into Gnome ;) ) ?
+> 
+> I'd be happy to help with preparing the paper/workshop. I have a good  
+> deal of experience with preparing and delivering them.
+> 
+> Unfortunately, since I am bedridden and unable to travel, I can only  
+> participate by computer. We have a Gnome Women's group: is there any  
+> focus person or group for accessibility issues? I'd like to highlight  
+> the participation needs of disabled/isolated people, and encourage  more 
+> presentations/activities to include people communicating from a  
+> distance, or at least to provide recorded info that can be downloaded.
+
+I am going to be at GUADEC and I think Hanna was thinking about it but had a 
+scheduling issue. I'd be happy to present a paper and/or recording, and if you'd 
+like to work with me on preparing a paper that'd be awesome Clytie! :)
+
+~m
+
+From mairin@gmail.com  Tue Apr 18 18:15:28 2006
+Return-Path: <mairin@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 74A823B2BF5
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 18:15:28 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 25030-10 for <gnome-women-list@gnome.org>;
+	Tue, 18 Apr 2006 18:15:23 -0400 (EDT)
+Received: from nproxy.gmail.com (nproxy.gmail.com [64.233.182.191])
+	by menubar.gnome.org (Postfix) with ESMTP id 6DB613B1A79
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 18:15:23 -0400 (EDT)
+Received: by nproxy.gmail.com with SMTP id m18so816678nfc
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 15:15:22 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=JLqgyQaOlK431xG8BVubram4eh5t6yU4vV2UvsYCAKzRkq7YULiVlFk4l2gVsCwrfoTckqXLB5pp63e3/iLI9aL/AVqwHUCeQwrwnWukuXwqzoVAuc2eBmVATIuC5ZBox5sO6t4024YOU/LZsa5oAr4HTZgo44qIQzf+4xOHlog=
+Received: by 10.48.211.17 with SMTP id j17mr1218671nfg;
+	Tue, 18 Apr 2006 15:15:22 -0700 (PDT)
+Received: by 10.48.235.20 with HTTP; Tue, 18 Apr 2006 15:15:22 -0700 (PDT)
+Message-ID: <cce7a3130604181515l66846241k362489e266a8e845@mail.gmail.com>
+Date: Tue, 18 Apr 2006 18:15:22 -0400
+From: "=?ISO-8859-1?Q?M=E1ir=EDn_Duffy?=" <mairin@gmail.com>
+To: gnome-women-list@gnome.org
+In-Reply-To: <709e17e00604181431i6b98b2fbh8bcec967fcb76c2e@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+References: <709e17e00604181431i6b98b2fbh8bcec967fcb76c2e@mail.gmail.com>
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.042 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, RCVD_IN_BL_SPAMCOP_NET=1.558, SPF_PASS=-0.001]
+X-Spam-Score: -1.042
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Fwd: [Grrltalk] Women 2.0 conference - April 30 - Mark
+	your calendars!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 22:15:28 -0000
+
+---------- Forwarded message ----------
+From: Erica Douglass <slashchick@gmail.com>
+Date: Apr 18, 2006 5:31 PM
+Subject: [Grrltalk] Women 2.0 conference - April 30 - Mark your calendars!
+To: grrltalk@linuxchix.org
+
+
+Hi all,
+
+The Women 2.0 conference is coming up on April 30 in Mountain View, CA. Thi=
+s
+is all about empowering women entrepreneurs and women techies to "go get
+'em" in the male-dominated tech industry. I hope to see you there!
+
+Register at http://www.entrepreneur27.org/ -- first 25 people to blog about
+it get a free pass.
+
+Thank you,
+-Erica
+_______________________________________________
+Grrltalk mailing list
+Grrltalk@linuxchix.org
+http://mailman.linuxchix.org/mailman/listinfo/grrltalk
+
+From clytie@riverland.net.au  Sat Apr  1 22:55:20 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F319C3B00B6
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 22:55:19 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 13186-02 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 22:55:18 -0500 (EST)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id F37793B0087
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 22:55:17 -0500 (EST)
+Received: from [10.1.1.91] (ppp201-152.lns1.adl4.internode.on.net
+	[203.122.201.152])
+	by smtp1.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k323t1V2072304; Sun, 2 Apr 2006 13:25:02 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.3)
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+To: "Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	grrls-only@linuxchix.org, Volunteers@linuxchix.org,
+	gnome-women-list@mail.gnome.org, Capel Brunker <var@internode.on.net>
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 2 Apr 2006 13:24:59 +0930
+X-Mailer: Apple Mail (2.746.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.945 tagged_above=-999 required=2
+	tests=[AWL=-0.491, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069, TW_FC=0.077]
+X-Spam-Score: -1.945
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Debian elections
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 03:55:20 -0000
+
+Hi everyone :)
+
+I've posted this to more than one place, so sorry if you got it more =20
+than once. I think this is an opportunity to make some change that =20
+will forward our aims, so I'm trying to publicize it. I hope that's OK.
+
+The Debian Project Leader elections are on. I'd completely missed =20
+this, being unable to keep up with debian-devel, and my husband, who =20
+is a keen Debian user, says he had missed it, too. That makes me =20
+wonder just how many people _do_ know about it.
+
+Debian is a very important project in Open Source, and one where we =20
+have identified some specific issues affecting the participation of =20
+women and new people in general.
+
+I've started to read the platforms, don't know if I can get through =20
+them all, but I'm definitely impressed by this statement from Jeroen =20
+van Wolffelaar [1]
+>
+> I will push for the adoption of a code of conduct. I do feel =20
+> strongly about that mailing lists should be able to provide a forum =20=
+
+> for productive technical discussion, where one can ask questions to =20=
+
+> and get a reasonable result. If some people are not able to =20
+> contribute to this, but rather hurt the discussion, action must be =20
+> undertaken. If peer pressure does not help, this may include such =20
+> things like posting delays, moderation of certain individuals, and =20
+> in extreme cases, banning from mailing lists. I will work with the =20
+> listmaster team to see whether they are willing to facilitate this, =20=
+
+> or whether there needs to be a new team of people performing this =20
+> moderation.
+
+I believe this is important, and should be applied also to IRC =20
+channels, fora and any other Debian method of communication.
+
+It's worth me reading the platforms, or as much as I can, then =20
+voting. I hope you think it's worth your time, too. Here is our =20
+chance to change things, not just feel unhappy about them.
+
+Voting is not difficult, but you need to have a PGP key logged with =20
+Debian (to identify you, and prevent multiple voting or other =20
+deceitful acts). The election mail says:
+
+> NOTE: The vote must be GPG signed
+> (or PGP signed) with your key that is in the Debian keyring.
+
+Now, how do we know if our key is in the Debian keyring or not? I've =20
+asked on my usual Debian mailing list, debian-i18n, and hope to know =20
+the answer soon. I'll post it when I have it, or iof someone here =20
+knows the answer, please post it.
+
+The mail to debian-devel said that voting had been very low. This =20
+means each vote counts more. We can make a difference here. :)
+
+To vote, first read the platform information [2]. Then:
+
+1. Copy the box below into an email:
+
+> - - -=3D-=3D-=3D-=3D-=3D- Don't Delete Anything Between These Lines =
+=3D-=3D-=3D-=3D-=3D-=20
+> =3D-=3D-=3D-
+> 52717dc0-26e3-4337-a88b-cc2c260fcb51
+> [   ] Choice 1: Jeroen van Wolffelaar
+> [   ] Choice 2: Ari Pollak
+> [   ] Choice 3: Steve McIntyre
+> [   ] Choice 4: Anthony Towns
+> [   ] Choice 5: Andreas Schuldei
+> [   ] Choice 6: Jonathan aka Ted Walther
+> [   ] Choice 7: Bill Allombert
+> [   ] Choice 8: None Of The Above
+> - - -=3D-=3D-=3D-=3D-=3D- Don't Delete Anything Between These Lines =
+=3D-=3D-=3D-=3D-=3D-=20
+> =3D-=3D-=3D-
+
+2. Then mark from 1 to 8 in the [ ] on the left-hand side.
+
+If you definitely want someone _not_ included, mark them lower than =20
+None of the Above, e.g. if there is one person you really don't want =20
+to vote _for_, mark None of the Above as 7, and him [3] as 8. If you =20
+want everyone to have a good chance, mark None of the Above as 8. =20
+Anyone below None of the Above will only be counted after all the =20
+other votes.
+
+3. Attach your PGP key to the mail (your usual "sign with PGP" =20
+action, e.g. my mailer just has a box I check that says "PGP signed. =20
+You may have this set to happen automatically: check your preferences.)
+
+4. Send the mail to <leader2006@vote.debian.org>.
+
+You should receive a receipt mail which has the Debian vote PGP key =20
+attached. The original mail about this election will be on debian-=20
+devel, and there should be lots of info about the election at =20
+<debian.org>.
+
+If you don't receive a receipt email, maybe something went wrong, and =20=
+
+it would be worth asking someone to check if it went through. I don't =20=
+
+know whom we would ask, as yet. ;)
+
+Let's make a difference today. Vote in the Debian Project Leader =20
+elections [4].
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+[1] http://www.debian.org/vote/2006/platforms/jeroen
+[2] http://www.debian.org/vote/2006/platforms/
+[3] All male candidates. We need to change this, too. Consider =20
+getting more involved. ;)
+[4] http://www.debian.org/vote/2006/vote_002
+
+
+From erinn@double-helix.org  Sat Apr  1 23:12:23 2006
+Return-Path: <erinn@double-helix.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 5374D3B00FF
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:12:23 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 13864-04 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:12:22 -0500 (EST)
+Received: from imf24aec.mail.bellsouth.net (imf24aec.mail.bellsouth.net
+	[205.152.59.72])
+	by menubar.gnome.org (Postfix) with ESMTP id BB6DB3B00B7
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:12:21 -0500 (EST)
+Received: from ibm68aec.bellsouth.net ([68.154.201.196])
+	by imf24aec.mail.bellsouth.net with ESMTP id
+	<20060402041218.MPGM13171.imf24aec.mail.bellsouth.net@ibm68aec.bellsouth.net>
+	for <gnome-women-list@mail.gnome.org>; Sat, 1 Apr 2006 23:12:18 -0500
+Received: from double-helix.org ([68.154.201.196])
+	by ibm68aec.bellsouth.net with ESMTP
+	id <20060402041218.JVQE17765.ibm68aec.bellsouth.net@double-helix.org>; 
+	Sat, 1 Apr 2006 23:12:18 -0500
+Received: by rabies (Postfix, from userid 1000)
+	id 985E896A2E; Sat,  1 Apr 2006 23:12:24 -0500 (EST)
+Date: Sat, 1 Apr 2006 23:12:24 -0500
+From: Erinn Clark <erinn@double-helix.org>
+To: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] Debian elections
+Message-ID: <20060402041224.GA10645@rabies>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: volunteers@linuxchix.org, gnome-women-list@mail.gnome.org,
+	"Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	Capel Brunker <var@internode.on.net>
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 04:12:23 -0000
+
+* Clytie Siddall <clytie@riverland.net.au> [2006:04:02 13:24 +0930]: 
+> Voting is not difficult, but you need to have a PGP key logged with  
+> Debian (to identify you, and prevent multiple voting or other  
+> deceitful acts). The election mail says:
+> 
+> >NOTE: The vote must be GPG signed
+> >(or PGP signed) with your key that is in the Debian keyring.
+> 
+> Now, how do we know if our key is in the Debian keyring or not? I've  
+> asked on my usual Debian mailing list, debian-i18n, and hope to know  
+> the answer soon. I'll post it when I have it, or iof someone here  
+> knows the answer, please post it.
+
+Just FYI: In order to vote, you have to be a Debian Developer, which is
+how you know if your key is in the keyring or not. If you haven't gone
+through the Debian new maintainer process and been accepted, you are
+unable to vote.
+
+(Feel free to forward this to grrls-only@linuxchix.org, as I'm not
+subscribed.)
+
+-- 
+off the chain like a rebellious guanine nucleotide
+
+From mary@home.puzzling.org  Sat Apr  1 23:17:25 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 375E53B018C
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:17:25 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14036-02 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:17:24 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 414403B018D
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:17:23 -0500 (EST)
+Received: (qmail 8665 invoked from network); 2 Apr 2006 04:17:29 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 2 Apr 2006 04:17:29 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 9AA2678809F
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 14:17:33 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 01302-08 for <gnome-women-list@mail.gnome.org>;
+	Sun, 2 Apr 2006 14:17:33 +1000 (EST)
+Received: from sourdust.home.puzzling.org (sourdust.home.puzzling.org
+	[10.0.0.7]) by home.puzzling.org (Postfix) with ESMTP id 8367B78809A
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 14:17:33 +1000 (EST)
+Received: by sourdust.home.puzzling.org (Postfix, from userid 1000)
+	id EB686194445; Sun,  2 Apr 2006 14:17:15 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Sun, 2 Apr 2006 14:17:15 +1000
+Resent-Message-ID: <20060402041715.GH5851@sourdust.home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Sun, 2 Apr 2006 14:16:09 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Debian elections
+Message-ID: <20060402041609.GG5851@sourdust.home.puzzling.org>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+	<20060402041224.GA10645@rabies>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20060402041224.GA10645@rabies>
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 04:17:25 -0000
+
+On Sat, Apr 01, 2006, Erinn Clark wrote:
+> (Feel free to forward this to grrls-only@linuxchix.org, as I'm not
+> subscribed.)
+
+I have noted this there (before your mail arrived Erinn, so I didn't
+have you to quote!)
+
+-Mary
+
+From clytie@riverland.net.au  Sat Apr  1 23:46:32 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D8BFF3B01B1
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:46:32 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14784-10 for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:46:31 -0500 (EST)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 30D8B3B0199
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  1 Apr 2006 23:46:31 -0500 (EST)
+Received: from [10.1.1.91] (ppp201-152.lns1.adl4.internode.on.net
+	[203.122.201.152])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k324jqL4008916;
+	Sun, 2 Apr 2006 14:15:52 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.3)
+In-Reply-To: <20060402041224.GA10645@rabies>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+	<20060402041224.GA10645@rabies>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <5BE28C1C-0727-4BF0-B8BD-54D074A4E696@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 2 Apr 2006 14:15:50 +0930
+To: "Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	gnome-women-list@mail.gnome.org, grrls-only@linuxchix.org,
+	volunteers@linuxchix.org, Capel Brunker <var@internode.on.net>
+X-Mailer: Apple Mail (2.746.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.983 tagged_above=-999 required=2
+	tests=[AWL=-0.452, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.983
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Re: Debian elections
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 04:46:33 -0000
+
+
+On 02/04/2006, at 1:42 PM, Erinn Clark wrote:
+
+> Just FYI: In order to vote, you have to be a Debian Developer, =20
+> which is
+> how you know if your key is in the keyring or not. If you haven't gone
+> through the Debian new maintainer process and been accepted, you are
+> unable to vote.
+
+I'm sorry, I didn't know this. It certainly didn't say that in the =20
+election mail.
+
+This certainly restricts the voting to a small pool. What about all =20
+the other people who contribute their time and effort to the project?
+
+I feel a protest coming on... ;)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From mary@home.puzzling.org  Sun Apr  2 00:00:51 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 531E23B01B3
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:00:51 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15471-06 for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:00:50 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 5DEA93B01B1
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:00:49 -0500 (EST)
+Received: (qmail 13407 invoked from network); 2 Apr 2006 05:00:57 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 2 Apr 2006 05:00:57 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id E504478809F
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 15:01:06 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 01708-06 for <gnome-women-list@mail.gnome.org>;
+	Sun, 2 Apr 2006 15:01:06 +1000 (EST)
+Received: from sourdust.home.puzzling.org (sourdust.home.puzzling.org
+	[10.0.0.7]) by home.puzzling.org (Postfix) with ESMTP id D182B78809A
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 15:01:06 +1000 (EST)
+Received: by sourdust.home.puzzling.org (Postfix, from userid 1000)
+	id C26E21944BB; Sun,  2 Apr 2006 15:00:47 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Sun, 2 Apr 2006 15:00:47 +1000
+Resent-Message-ID: <20060402050047.GK5851@sourdust.home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Sun, 2 Apr 2006 14:59:38 +1000
+From: Mary <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Re: Debian elections
+Message-ID: <20060402045938.GJ5851@sourdust.home.puzzling.org>
+Mail-Followup-To: gnome-women-list@mail.gnome.org,
+	grrls-only@linuxchix.org
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+	<20060402041224.GA10645@rabies>
+	<5BE28C1C-0727-4BF0-B8BD-54D074A4E696@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <5BE28C1C-0727-4BF0-B8BD-54D074A4E696@riverland.net.au>
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2 tests=[AWL=0.000, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 05:00:51 -0000
+
+On Sun, Apr 02, 2006, Clytie Siddall wrote:
+> This certainly restricts the voting to a small pool. What about all  
+> the other people who contribute their time and effort to the project?
+> 
+> I feel a protest coming on... ;)
+
+This has been raised as a concern by other people before, see for
+example Benjamin Mako Hill at http://mako.cc/copyrighteous/2005/Jul/19 .
+That argument is, I believe, much of the reason that applying for Ubuntu
+*membership* and Ubuntu *maintainership* (for example) are separate
+processes. See also criteria for voting in GNOME Foundation elections at
+http://foundation.gnome.org/membership/ . (Typically, there is usually
+*some* level of involvement required before being given voting rights,
+or it's too easy to rig elections or 'steal' a project's resources.)
+
+The most effective protest would probably be working within Debian to
+amend the rules to either allow (some) non-developers to vote, or to
+change the criteria for a developer. I suspect from Mako's blog entry
+that there are some ideas other people have that would be useful. On the
+other hand, there's only so much time in the day... ;)
+
+-Mary
+
+From aicra@well.com  Sun Apr  2 00:42:56 2006
+Return-Path: <aicra@well.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DDF463B0200
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:42:55 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 17148-02 for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:42:53 -0500 (EST)
+Received: from smtp.well.com (smtp.well.com [206.80.4.7])
+	by menubar.gnome.org (Postfix) with ESMTP id 6727E3B01EE
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 00:42:52 -0500 (EST)
+X-WELL-Auth: Yes
+Received: from well.com (well.com [206.80.4.5])
+	by smtp.well.com (8.13.6/8.13.6) with ESMTP id k325gUt6029117;
+	Sat, 1 Apr 2006 21:42:30 -0800 (PST)
+Received: from localhost (aicra@localhost)
+	by well.com (8.13.6/8.13.6/Submit) with ESMTP id k325gT1T012868;
+	Sat, 1 Apr 2006 21:42:29 -0800 (PST)
+Date: Sat, 1 Apr 2006 21:42:29 -0800 (PST)
+From: Marcia Wilbur <aicra@well.com>
+To: Clytie Siddall <clytie@riverland.net.au>
+In-Reply-To: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+Message-ID: <Pine.GSO.4.58.0604012141250.9609@well.com>
+References: <4B1724AD-3AFB-4B4C-9292-24350F803E12@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Mailman-Approved-At: Mon, 03 Apr 2006 11:06:57 -0400
+Cc: Volunteers@linuxchix.org, gnome-women-list@mail.gnome.org,
+	grrls-only@linuxchix.org,
+	"Ubuntu-Women community." <ubuntu-women@lists.ubuntu.com>,
+	Capel Brunker <var@internode.on.net>
+Subject: [gnome-women] Re: [Grrls-only] Debian elections
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 02 Apr 2006 05:42:56 -0000
+
+
+OPEN....
+
+
+FREE SOFTWARE... please look up the definitions and use accordingly.
+
+-aicra
+On Sun, 2 Apr 2006, Clytie Siddall wrote:
+
+> Hi everyone :)
+>...
+> Debian is a very important project in Open Source, and one where we
+> have identified some specific issues affecting the participation of
+> women and new people in general.
+>
+
+
+
+
+From lila@liminar.com.ar  Sun Apr  2 21:10:42 2006
+Return-Path: <lila@liminar.com.ar>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 413F33B12AE
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 21:10:42 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 22142-04 for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 21:10:33 -0400 (EDT)
+Received: from smtp-01.arnet.com.ar (unknown [200.45.191.24])
+	by menubar.gnome.org (Postfix) with SMTP id E70673B1405
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  2 Apr 2006 21:10:31 -0400 (EDT)
+Received: (qmail 28594 invoked from network); 2 Apr 2006 22:07:33 -0000
+Received: from unknown (HELO ?200.117.186.91?) (200.117.186.91)
+	by smtp-01.arnet.com.ar with SMTP; 2 Apr 2006 22:07:33 -0000
+Message-ID: <443075F9.10905@liminar.com.ar>
+Date: Sun, 02 Apr 2006 22:10:17 -0300
+From: Lila Pagola <lila@liminar.com.ar>
+User-Agent: Mozilla Thunderbird 1.0 (Windows/20041206)
+X-Accept-Language: es-es, es
+MIME-Version: 1.0
+To: "liminar@gruposyahoo.com.ar" <liminar@gruposyahoo.com.ar>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=1.724 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, SUBJECT_ENCODED_TWICE=1.723]
+X-Spam-Score: 1.724
+X-Spam-Level: *
+X-Mailman-Approved-At: Mon, 03 Apr 2006 11:06:57 -0400
+Cc: 
+Subject: [gnome-women] =?iso-8859-1?q?tecnolog=EDa_=2E_g=E9nero_=7C_especi?=
+ =?iso-8859-1?q?al_06_=7C_liminar_=7C_txt?=
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 03 Apr 2006 01:10:42 -0000
+
+especial 06 | liminar | txt=20
+=2E........................................abril .....06 .............
+
+        [  tecnolog=EDa . g=E9nero ] ...=20
+[http://liminar.com.ar/txt/Critica006.html]
+
+Democracia, acceso, inclusividad, participaci=F3n son nociones clave=20
+siempre recurridas te=F3ricamente para referirse a las potencialidades y =
+
+especificidad de los nuevos medios.
+=BFc=F3mo se ven esas posibilidades a la luz de una perspectiva de g=E9ne=
+ro?=20
+Algunas evidencias se=F1alan que las viejas estructuras se repiten, a=FAn=
+ en=20
+las iniciativas mas radicales.
+=BFes la autor=EDa una noci=F3n patriarcal?
+=BFhasta que punto el adoctrinamiento infantil en la dicotom=EDa=20
+parecer/actuar incide en el inter=E9s de las mujeres por la tecnolog=EDa?=
+
+=BFporque la brecha de g=E9nero se agrava sensiblemente en la comunidad d=
+e=20
+software libre?=BFno representa ese hecho una grave contradicci=F3n?
+
+S=F3lo algunas preguntas planteadas en la intenci=F3n de identificar=20
+problemas y contribuir a su discusi=F3n y soluci=F3n.
+
+textos de:
+Laurence Rassel
+Beatriz Busaniche
+Karen Wong
+Yuwei Li [en ingl=E9s]
+                =20
+    +   enlaces recomendados ++
+=2E......................................................................=
+=2E.......................................=20
+  =20
+            uno || Laurence Rassel/
+Herramientas jur=EDdicas como narraci=F3n feminista: del autor a las comm=
+ons.
+
+rtf. 126 Kb
+        =20
+    A manera de introducci=F3n, este texto quiere poner a prueba=20
+aproximaciones, comparaciones de im=E1genes, conceptos, y llevar a cabo=20
+experimentos. Laurence Rassel lo hace desde una formaci=F3n de artista=20
+visual que ha entrado, a trav=E9s del feminismo y de las nuevas=20
+tecnolog=EDas, en el c=F3digo de la representaci=F3n, las tecnolog=EDas y=
+ la=20
+cultura.
+=2E......................................................................=
+=2E.......................................=20
+  =20
+          dos ||   Beatriz Busaniche/ =20
+El software libre y las mujeres.
+
+rtf. 66 Kb.          =20
+
+    No hay que tener grandes dotes de observaci=F3n para darse cuenta del=
+=20
+notable desbalance entre mujeres y hombres que se registra en la=20
+comunidad de software libre, una comunidad que se dice a si misma libre, =
+
+participativa y abierta.
+=2E......................................................................=
+=2E.......................................=20
+  =20
+          tres || Karen Wong/
+=BFCuales podr=EDan ser las razones culturales de la falta de inter=E9s d=
+e las=20
+mujeres por la tecnolog=EDa?
+
+rtf. 34 Kb.
+          =20
+    Usando las preguntas anteriores como puntos de partida, he elegido=20
+trazar algunas l=EDneas, dejando las conclusiones abiertas mas que=20
+finitas, considerando que las complejidades de los diferentes contextos=20
+y sistemas no pueden ser reducidos y generalizados, como podr=EDa ser la =
+
+tendencia y el peligro cuando se trata de estos temas.
+=2E......................................................................=
+=2E....................................... =20
+  =20
+cuatro || Yuwei Lin/
+Gender Dimensions of Floss Development.
+
+pdf. 32 Kb/ ingl=E9s / =BFte interesa traducirlo? visit=E1=20
+http://nomade.liminar.com.ar/wakka.php?wakka=3DTraduccionesTextos
+       =20
+    El ideal de igualdad, inclusividad y libertad del movimiento de=20
+software libre es tristemente tirado abajo por el desbalance de g=E9nero =
+
+de sus participantes, con las mujeres siendo apenas mas del 1% de los=20
+desarrolladores de software libre. Yuwei Lin analiza las causas de la=20
+divisi=F3n digital del g=E9nero y sugiere una forma de disminuirla.
+=2E......................................................................=
+=2E.......................................=20
+  =20
+        enlaces || sitios recomendados
+
+   [  tecnolog=EDa . g=E9nero ] ... [http://liminar.com.ar/txt/Critica006=
+=2Ehtml]
+
+
+From clytie@riverland.net.au  Tue Apr 18 03:36:30 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9DC503B2894
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:36:30 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 03206-03 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:36:28 -0400 (EDT)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 994503B2883
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:36:27 -0400 (EDT)
+Received: from [10.1.1.91] (ppp135-52.lns2.adl2.internode.on.net
+	[59.167.135.52])
+	by smtp1.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k3I7aPGY025109 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 17:06:25 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v749.3)
+In-Reply-To: <1145286268.3527.44.camel@champignon.xalalinux.org>
+References: <1145286268.3527.44.camel@champignon.xalalinux.org>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <182EE9F2-EBA1-4C22-B2CD-51981C3E4ACF@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 18 Apr 2006 17:06:23 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.749.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.782 tagged_above=-999 required=2
+	tests=[AWL=-1.665, BAYES_40=-0.185, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -0.782
+X-Spam-Level: 
+Subject: [gnome-women] Re: Minutes of the Board meeting, 2006/Mar/01
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 07:36:30 -0000
+
+
+On 18/04/2006, at 12:34 AM, Federico Mena Quintero wrote:
+
+> EU is doing a report on Representation of Women in Free
+>           Software; numbers are very sad --- under 1.5%
+>           participation.
+
+This is the last item in the Gnome Foundation minutes for March 1st =20
+2006. It only came into my mailbox today.
+
+I don't understand the Gnome decision-making structure well : can we, =20=
+
+as Gnome-Women, make recommendations to the Foundation, or present =20
+information?
+
+In other words, how can we act as a focus group to do raise female =20
+participation in Gnome, and keep the Foundation involved/informed?
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From clytie@riverland.net.au  Tue Apr 18 03:44:21 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B44273B285C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:44:21 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 03674-01 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:44:20 -0400 (EDT)
+Received: from smtp3.adl2.internode.on.net (smtp3.adl2.internode.on.net
+	[203.16.214.203])
+	by menubar.gnome.org (Postfix) with ESMTP id CC0073B288B
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 03:44:19 -0400 (EDT)
+Received: from [10.1.1.91] (ppp135-52.lns2.adl2.internode.on.net
+	[59.167.135.52])
+	by smtp3.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k3I7iErV045932 for <gnome-women-list@mail.gnome.org>;
+	Tue, 18 Apr 2006 17:14:18 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v749.3)
+In-Reply-To: <1145286603.3527.47.camel@champignon.xalalinux.org>
+References: <1145286603.3527.47.camel@champignon.xalalinux.org>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <35BD49C5-34D2-4090-95A5-8D1B7CD43856@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 18 Apr 2006 17:14:12 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.749.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.987 tagged_above=-999 required=2
+	tests=[AWL=-0.456, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.987
+X-Spam-Level: 
+Subject: [gnome-women] GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 07:44:21 -0000
+
+Subsequent to my mail about female participation, and working with =20
+the Foundation, the next lot of minutes (they all came in at once, =20
+today) included:
+
+On 18/04/2006, at 12:40 AM, Federico Mena Quintero wrote:
+
+> Call for [GUADEC] papers:
+>
+> 		Only about 10 submissions so far.
+>
+> 		Need to announce call-for-papers in the main
+> 		www.gnome.org page.
+>
+> 		Need to make it clear that we don't require full
+> 		papers right now; just abstracts are fine.
+>
+> 		Suggest Apr. 20 as the date in which we tell people
+> 		whether we accept their submissions.
+>
+> 		ACTION: Federico to remind people to submit abstracts,
+> 		and announce the confirmation date.
+>
+> 		ACTION: Vincent to update www.gnome.org to mention the
+> 		call for papers deadline.
+
+Is anyone here going to be at GUADEC? Is there anyone here, or do we =20
+know any other woman who would be willing to deliver a talk/workshop =20
+on female participation (Getting the O+ into Gnome ;) ) ?
+
+I'd be happy to help with preparing the paper/workshop. I have a good =20=
+
+deal of experience with preparing and delivering them.
+
+Unfortunately, since I am bedridden and unable to travel, I can only =20
+participate by computer. We have a Gnome Women's group: is there any =20
+focus person or group for accessibility issues? I'd like to highlight =20=
+
+the participation needs of disabled/isolated people, and encourage =20
+more presentations/activities to include people communicating from a =20
+distance, or at least to provide recorded info that can be downloaded.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From duffy@redhat.com  Tue Apr 18 09:30:28 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E09A03B1622
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:27 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 25744-10 for <gnome-women-list@gnome.org>;
+	Tue, 18 Apr 2006 09:30:26 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id B4E2C3B140B
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:25 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11.20060308/8.12.11) with ESMTP id
+	k3IDUP7l024723
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:25 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.12.11.20060308/8.11.6) with ESMTP id
+	k3IDUED1029751
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:14 -0400
+Received: from [172.16.26.8]
+	(IDENT:U2FsdGVkX19Fv2bUAfF6CmszrVdzTJlTCzk5/r3/R4c@vpn26-8.sfbay.redhat.com
+	[172.16.26.8])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k3IDUDiZ012765
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 09:30:14 -0400
+Message-ID: <4444E9E4.5090402@redhat.com>
+Date: Tue, 18 Apr 2006 09:30:12 -0400
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] GUADEC
+References: <1145286603.3527.47.camel@champignon.xalalinux.org>
+	<35BD49C5-34D2-4090-95A5-8D1B7CD43856@riverland.net.au>
+In-Reply-To: <35BD49C5-34D2-4090-95A5-8D1B7CD43856@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.568 tagged_above=-999 required=2 tests=[AWL=0.033, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.568
+X-Spam-Level: 
+Cc: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 13:30:28 -0000
+
+Hi Clytie,
+
+[snip]
+> Is anyone here going to be at GUADEC? Is there anyone here, or do we  
+> know any other woman who would be willing to deliver a talk/workshop  on 
+> female participation (Getting the O+ into Gnome ;) ) ?
+> 
+> I'd be happy to help with preparing the paper/workshop. I have a good  
+> deal of experience with preparing and delivering them.
+> 
+> Unfortunately, since I am bedridden and unable to travel, I can only  
+> participate by computer. We have a Gnome Women's group: is there any  
+> focus person or group for accessibility issues? I'd like to highlight  
+> the participation needs of disabled/isolated people, and encourage  more 
+> presentations/activities to include people communicating from a  
+> distance, or at least to provide recorded info that can be downloaded.
+
+I am going to be at GUADEC and I think Hanna was thinking about it but had a 
+scheduling issue. I'd be happy to present a paper and/or recording, and if you'd 
+like to work with me on preparing a paper that'd be awesome Clytie! :)
+
+~m
+
+From mairin@gmail.com  Tue Apr 18 18:15:28 2006
+Return-Path: <mairin@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 74A823B2BF5
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 18:15:28 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 25030-10 for <gnome-women-list@gnome.org>;
+	Tue, 18 Apr 2006 18:15:23 -0400 (EDT)
+Received: from nproxy.gmail.com (nproxy.gmail.com [64.233.182.191])
+	by menubar.gnome.org (Postfix) with ESMTP id 6DB613B1A79
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 18:15:23 -0400 (EDT)
+Received: by nproxy.gmail.com with SMTP id m18so816678nfc
+	for <gnome-women-list@gnome.org>; Tue, 18 Apr 2006 15:15:22 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=JLqgyQaOlK431xG8BVubram4eh5t6yU4vV2UvsYCAKzRkq7YULiVlFk4l2gVsCwrfoTckqXLB5pp63e3/iLI9aL/AVqwHUCeQwrwnWukuXwqzoVAuc2eBmVATIuC5ZBox5sO6t4024YOU/LZsa5oAr4HTZgo44qIQzf+4xOHlog=
+Received: by 10.48.211.17 with SMTP id j17mr1218671nfg;
+	Tue, 18 Apr 2006 15:15:22 -0700 (PDT)
+Received: by 10.48.235.20 with HTTP; Tue, 18 Apr 2006 15:15:22 -0700 (PDT)
+Message-ID: <cce7a3130604181515l66846241k362489e266a8e845@mail.gmail.com>
+Date: Tue, 18 Apr 2006 18:15:22 -0400
+From: "=?ISO-8859-1?Q?M=E1ir=EDn_Duffy?=" <mairin@gmail.com>
+To: gnome-women-list@gnome.org
+In-Reply-To: <709e17e00604181431i6b98b2fbh8bcec967fcb76c2e@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+References: <709e17e00604181431i6b98b2fbh8bcec967fcb76c2e@mail.gmail.com>
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.042 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, RCVD_IN_BL_SPAMCOP_NET=1.558, SPF_PASS=-0.001]
+X-Spam-Score: -1.042
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Fwd: [Grrltalk] Women 2.0 conference - April 30 - Mark
+	your calendars!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 18 Apr 2006 22:15:28 -0000
+
+---------- Forwarded message ----------
+From: Erica Douglass <slashchick@gmail.com>
+Date: Apr 18, 2006 5:31 PM
+Subject: [Grrltalk] Women 2.0 conference - April 30 - Mark your calendars!
+To: grrltalk@linuxchix.org
+
+
+Hi all,
+
+The Women 2.0 conference is coming up on April 30 in Mountain View, CA. Thi=
+s
+is all about empowering women entrepreneurs and women techies to "go get
+'em" in the male-dominated tech industry. I hope to see you there!
+
+Register at http://www.entrepreneur27.org/ -- first 25 people to blog about
+it get a free pass.
+
+Thank you,
+-Erica
+_______________________________________________
+Grrltalk mailing list
+Grrltalk@linuxchix.org
+http://mailman.linuxchix.org/mailman/listinfo/grrltalk
+

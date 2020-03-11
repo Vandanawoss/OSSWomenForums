@@ -1,0 +1,233 @@
+From paul.r.cutler@gmail.com  Sun Aug 22 19:37:57 2010
+Return-Path: <paul.r.cutler@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 76EBF7505A0;
+	Sun, 22 Aug 2010 19:37:57 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.89
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.89 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001,
+	T_TO_NO_BRKTS_FREEMAIL=0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id deC0Zz2AzRj5; Sun, 22 Aug 2010 19:37:55 +0000 (UTC)
+Received: from mail-iw0-f182.google.com (mail-iw0-f182.google.com
+	[209.85.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 6961B750443;
+	Sun, 22 Aug 2010 19:37:47 +0000 (UTC)
+Received: by iwn36 with SMTP id 36so6528267iwn.27
+	for <multiple recipients>; Sun, 22 Aug 2010 12:37:45 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:received:received:sender:subject:from:to:cc
+	:content-type:date:message-id:mime-version:x-mailer
+	:content-transfer-encoding;
+	bh=Sg1Pm0an2u7yoJU0E27ND2tklt5h+8qT0JBzsZBSjhY=;
+	b=jJyYt+0c2kVIvOEIkFKepPq0E1/rYy/4TzNAnswpanXTP7+gOfqG6gE27UkZyDDv3p
+	Qjw+FHvK9Pq9HeU1zkThAlkXXlZsB/n4lCxg7r1jV67qzTnmTA1r0dCqZ3FJ0AkJ1NIY
+	uWcJmy2kFVXFYGtGSkAFNQMh1e4+Wdd9vdG50=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=sender:subject:from:to:cc:content-type:date:message-id:mime-version
+	:x-mailer:content-transfer-encoding;
+	b=fHU1C4KtuihPXfE1AkKp/MAAgx/XT7iDyNrf85ImSMoc/bEE0WmacTb+tZRCMfuMtm
+	bit6v/XFiLzqFI/Y80cm1GZjrZwXtmrx227M4gVvZ88d3p1loA78lNlK5g+/rSTpBTFE
+	OkGOWqIyLlply/pepCYgBX9LrDNzcLhbbpCG8=
+Received: by 10.231.173.9 with SMTP id n9mr5302252ibz.146.1282505865522;
+	Sun, 22 Aug 2010 12:37:45 -0700 (PDT)
+Received: from [192.168.1.138] (c-75-72-118-230.hsd1.mn.comcast.net
+	[75.72.118.230])
+	by mx.google.com with ESMTPS id e8sm5274458ibb.20.2010.08.22.12.37.42
+	(version=SSLv3 cipher=RC4-MD5); Sun, 22 Aug 2010 12:37:43 -0700 (PDT)
+Sender: Paul Cutler <paul.r.cutler@gmail.com>
+From: Paul Cutler <pcutler@gnome.org>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset="UTF-8"
+Date: Sun, 22 Aug 2010 14:39:13 -0500
+Message-ID: <1282505953.19282.151.camel@linux-fjzj.site>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.30.1.2
+Content-Transfer-Encoding: 7bit
+Cc: gnome-journal-list@gnome.org
+Subject: [gnome-women] GNOME Journal
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 22 Aug 2010 19:37:58 -0000
+
+Hi GNOME Women team!
+
+I was wondering (and hoping!) if there was interest in doing another
+GNOME Journal special edition written by the GNOME Women community later
+this year.   I believe we had a lot of success with last year's edition
+and I was hoping we could do it again.
+
+I was thinking we could do it in the November time frame to give us time
+to recruit authors and articles but other than that haven't spent a lot
+of time thinking about the project timeline.
+
+If there is interest, please let me know and I am happy to help in every
+way I can.
+
+Best,
+
+Paul
+
+From emilychen522@gmail.com  Tue Aug 24 09:48:42 2010
+Return-Path: <emilychen522@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A511E750A77;
+	Tue, 24 Aug 2010 09:48:42 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.446
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.446 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=1.553,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QBce8vNvOsp4; Tue, 24 Aug 2010 09:48:40 +0000 (UTC)
+Received: from mail-qw0-f54.google.com (mail-qw0-f54.google.com
+	[209.85.216.54])
+	by menubar.gnome.org (Postfix) with ESMTP id E8CC87509F8;
+	Tue, 24 Aug 2010 09:48:31 +0000 (UTC)
+Received: by qwg5 with SMTP id 5so7518197qwg.27
+	for <multiple recipients>; Tue, 24 Aug 2010 02:48:28 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:received:in-reply-to
+	:references:date:message-id:subject:from:to:cc:content-type;
+	bh=VrvjCv5ri6PRJ3z4if+UC6uMn0P3BN0Hr6QgZqUo7uk=;
+	b=uks6ksuVhKd0J9B2BBpSrUlATIrAhE8DMXb8SCmPGtmTvg0vKzhed1J99zGOq0eJG7
+	fUj49A0OSMDTa7fLs88po1LDi/5/jKY5BNGm4MiFfFvceTGpFuWAw1y6W0D2/Da6lYwV
+	GYT0QZ05znBe7biQonnXcNyTro2nGhhEM/hWc=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	b=C1SX7j/zg/FSS7GXIT67gUoDKWQ0BAl1ZT+jXyd2rrO9bVH84GGsUvzHqfh3S8fMUe
+	oP+2qlg0FP+nbyvpv+KvMblTW0rANfvC5KGlhRnYohIMjvOMZcS3oc+aYsob1I9yWy6Q
+	fJExZV/8mXmLzRdEcTj1V6ccbvZclKPOPKWaE=
+MIME-Version: 1.0
+Received: by 10.224.78.78 with SMTP id j14mr4262363qak.194.1282643307450; Tue,
+	24 Aug 2010 02:48:27 -0700 (PDT)
+Received: by 10.229.62.79 with HTTP; Tue, 24 Aug 2010 02:48:27 -0700 (PDT)
+In-Reply-To: <1282505953.19282.151.camel@linux-fjzj.site>
+References: <1282505953.19282.151.camel@linux-fjzj.site>
+Date: Tue, 24 Aug 2010 17:48:27 +0800
+Message-ID: <AANLkTim4KcbBn7WbZgE-Tzw4YJ4d8YwHaQaN+UeZtZwz@mail.gmail.com>
+From: Emily Chen <emilychen522@gmail.com>
+To: Paul Cutler <pcutler@gnome.org>
+Content-Type: multipart/alternative; boundary=00c09f923134b6d25d048e8eaa11
+Cc: gnome-women-list@gnome.org, gnome-journal-list@gnome.org
+Subject: Re: [gnome-women] GNOME Journal
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 24 Aug 2010 09:48:43 -0000
+
+--00c09f923134b6d25d048e8eaa11
+Content-Type: text/plain; charset=ISO-8859-1
+
+The Taiwan local community just set up the Women's community after
+GNOME.Asia 2010. If there will be some progress around November, might be
+interesting to write some paragraph about Taiwan Women's activities.
+
+-Emily
+
+
+
+2010/8/23 Paul Cutler <pcutler@gnome.org>
+
+> Hi GNOME Women team!
+>
+> I was wondering (and hoping!) if there was interest in doing another
+> GNOME Journal special edition written by the GNOME Women community later
+> this year.   I believe we had a lot of success with last year's edition
+> and I was hoping we could do it again.
+>
+> I was thinking we could do it in the November time frame to give us time
+> to recruit authors and articles but other than that haven't spent a lot
+> of time thinking about the project timeline.
+>
+> If there is interest, please let me know and I am happy to help in every
+> way I can.
+>
+> Best,
+>
+> Paul
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--00c09f923134b6d25d048e8eaa11
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+The Taiwan local community just set up the Women&#39;s community after GNOM=
+E.Asia 2010. If there will be some progress around November, might be inter=
+esting to write some paragraph about Taiwan Women&#39;s activities. <br>
+<br>-Emily <br><br><br><br><div class=3D"gmail_quote">2010/8/23 Paul Cutler=
+ <span dir=3D"ltr">&lt;<a href=3D"mailto:pcutler@gnome.org">pcutler@gnome.o=
+rg</a>&gt;</span><br><blockquote class=3D"gmail_quote" style=3D"margin: 0pt=
+ 0pt 0pt 0.8ex; border-left: 1px solid rgb(204, 204, 204); padding-left: 1e=
+x;">
+Hi GNOME Women team!<br>
+<br>
+I was wondering (and hoping!) if there was interest in doing another<br>
+GNOME Journal special edition written by the GNOME Women community later<br=
+>
+this year. =A0 I believe we had a lot of success with last year&#39;s editi=
+on<br>
+and I was hoping we could do it again.<br>
+<br>
+I was thinking we could do it in the November time frame to give us time<br=
+>
+to recruit authors and articles but other than that haven&#39;t spent a lot=
+<br>
+of time thinking about the project timeline.<br>
+<br>
+If there is interest, please let me know and I am happy to help in every<br=
+>
+way I can.<br>
+<br>
+Best,<br>
+<br>
+Paul<br>
+<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>
+</blockquote></div><br>
+
+--00c09f923134b6d25d048e8eaa11--

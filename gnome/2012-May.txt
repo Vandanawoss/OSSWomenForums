@@ -1,0 +1,1318 @@
+From gpoo@calcifer.org  Sun May  6 23:32:34 2012
+Return-Path: <gpoo@calcifer.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 81615750067
+	for <gnome-women-list@gnome.org>; Sun,  6 May 2012 23:32:34 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.6
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.6 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_LOW=-0.7] autolearn=unavailable
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id XJyVXcT86FcP for <gnome-women-list@gnome.org>;
+	Sun,  6 May 2012 23:32:19 +0000 (UTC)
+Received: from mail-pz0-f54.google.com (mail-pz0-f54.google.com
+	[209.85.210.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 12BEE750234
+	for <gnome-women-list@gnome.org>; Sun,  6 May 2012 23:32:10 +0000 (UTC)
+Received: by dadv36 with SMTP id v36so48240dad.27
+	for <gnome-women-list@gnome.org>; Sun, 06 May 2012 16:32:09 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=google.com; s=20120113;
+	h=sender:message-id:subject:from:to:cc:date:organization:content-type
+	:x-mailer:mime-version:x-gm-message-state;
+	bh=XddzjebVLqqDjgSD5NAIX027lGBcodGp840o3EKgoMc=;
+	b=UxTEOUS9RLs+IpuLnSMnlUUYNJl82qsSUFsWtUiLjhrfPiOilqHwCswYMeu2YqI2Y4
+	IITa+5H5oEZEz4Z0CEy5OPwSCVCJvjoZjUCcjx1DPcTggPMo53cxGvFPjRkDguTlyd4O
+	qdEWJf7joh6uLl9h0mo0e6JiInXSfGuBx9cIBoUBiPpECF+F6Za7LfElpthfUqGOSbhR
+	YzFTDQuxmq5wuZAzaeKzqBXi0+mkXHC/4n1gcjJYl2tMKN4BsGmLIGl/dC0aEJe3aKC/
+	ChtvqOrJoWRrn3uZRJ1dylBExGXQ3LopVcONfgX4JWYI92MuQc26WYGL8xQZPG52U43f
+	kCOQ==
+Received: by 10.68.237.198 with SMTP id ve6mr1724153pbc.116.1336347128977;
+	Sun, 06 May 2012 16:32:08 -0700 (PDT)
+Received: from [192.168.1.137] (S010698fc116ac05a.gv.shawcable.net.
+	[24.108.130.44])
+	by mx.google.com with ESMTPS id py5sm3042169pbb.1.2012.05.06.16.32.07
+	(version=SSLv3 cipher=OTHER); Sun, 06 May 2012 16:32:07 -0700 (PDT)
+Sender: =?UTF-8?B?R2VybcOhbiBQw7NvLUNhYW1hw7Fv?= <gpoo@calcifer.org>
+Message-ID: <1336347123.6541.24.camel@sai>
+From: =?ISO-8859-1?Q?Germ=E1n_P=F3o-Caama=F1o?= <gpoo@gnome.org>
+To: foundation-list@gnome.org
+Date: Sun, 06 May 2012 16:32:03 -0700
+Organization: GNOME
+Content-Type: multipart/signed; micalg="pgp-sha1";
+	protocol="application/pgp-signature"; 
+	boundary="=-ajzEDToP1YbGHLob1WNx"
+X-Mailer: Evolution 3.2.3-0ubuntu6
+Mime-Version: 1.0
+X-Gm-Message-State: ALoCoQkNbrVOFTRbmE/6pJDDRQ6HlcaOu6J+I1UKowRwYMAFMCk5P0ElAoZxLXyDPMAGE92ZgovO
+Cc: guadec-list@gnome.org, travel-committee@gnome.org,
+	gnome-women-list@gnome.org, desktop-devel-list@gnome.org
+Subject: [gnome-women] Travel assistance applications to attend to GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 06 May 2012 23:32:34 -0000
+
+
+--=-ajzEDToP1YbGHLob1WNx
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear hackers,
+
+As you may know, the GNOME Foundation provides travel sponsorships to
+individuals who want to attend GUADEC and need financial assistance.
+
+We are happy to announce the Travel Committee is ready to receive
+applications for sponsorships to attend to GUADEC 2012.  This year,
+GUADEC is being held in the Faculty of Computer Science at the
+University of A Coru=C3=B1a, in the beautiful city of A Coru=C3=B1a (Spain)=
+, from
+Thursday 26th July until Wednesday 1st August.
+
+The instructions are detailed at http://live.gnome.org/Travel
+Please read them carefully.
+
+Deadline: May 16, 2012, 23:59 UTC.  You can start sending your
+applications now!
+
+Some additional comments:
+      * Any information you send to the Travel Committee will be
+        private.
+      * Asking for sponsorship *does not* guarantee you will get
+        sponsored.
+      * A good application with good information will be processed
+        faster.
+      * If you need help with accommodation, the Travel Committee will
+        handle it directly with the organization.  You should state that
+        you need accommodation, and leave the cost blank.
+      * Always choose the most economical option whenever possible.
+        People who need travel sponsorship, should look for the best
+        price (e.g. through a service like kayak.com).  If the Travel
+        Committee finds a cheaper price, that will be the price
+        considered during the   evaluation.
+      * If you are applying to a Google Summer of Code program (as
+        student or mentor) you should mention it in your application.
+      * GSoC students usually get a percentage of their GUADEC expenses
+        covered.
+      * If you submitted an abstract to be presented at GUADEC, you
+        should mention it in your application.  Preference will be given
+        to people giving presentations at GUADEC.
+      * The travel committee will cross check with the GUADEC paper
+        committee the talks that have been accepted, so as long as you
+        let us know you submitted one, there is no need to follow up.
+      * The Travel committee should reply back about receiving your
+        application within 2-3 days. After that we would accumulate all
+        the sponsorship requests and process them together. So please do
+        not panic if we take some time to reply on the status.
+        Affirmative/Negative you would surely get a response.
+      * If you need an invitation letter, you must clearly state your
+        contributions and name at least two fellow hackers that can
+        directly support your requirement.
+      * No personal emails. Please keep travel-committee Cc'ed on all
+        your replies.
+
+You can find us in the #travel channel at irc.gnome.org.
+
+Kind regards,
+
+--=20
+Germ=C3=A1n P=C3=B3o-Caama=C3=B1o
+http://people.gnome.org/~gpoo/
+
+--=-ajzEDToP1YbGHLob1WNx
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: This is a digitally signed message part
+Content-Transfer-Encoding: 7bit
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+
+iEYEABECAAYFAk+nCfMACgkQ1hl0UcEpZYyP0gCeITpIfRxgei5GaA7m+NUCBBe2
+IB0AnjbeGSNT3tmwRWZBPCWowTkTXbIF
+=g1ah
+-----END PGP SIGNATURE-----
+
+--=-ajzEDToP1YbGHLob1WNx--
+
+From hysterogenic@gmail.com  Mon May  7 15:50:17 2012
+Return-Path: <hysterogenic@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2061C75011D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  7 May 2012 15:50:17 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TzFemWKovhVJ for <gnome-women-list@mail.gnome.org>;
+	Mon,  7 May 2012 15:50:10 +0000 (UTC)
+Received: from mail-lpp01m010-f46.google.com (mail-lpp01m010-f46.google.com
+	[209.85.215.46])
+	by menubar.gnome.org (Postfix) with ESMTP id 1C27B750146
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  7 May 2012 15:50:01 +0000 (UTC)
+Received: by lahd3 with SMTP id d3so525068lah.33
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 07 May 2012 08:49:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=7IixkozuuGS+HhB+xTGGRNADSmJl/lgVysLPddNEo1o=;
+	b=lAlIrPPG81lY61bYQMVY4cFeqb17WgcOfCOZxYfkiZhWwN/grPrjrj0EoT3+18/5jF
+	Hrj4gkh9dkGwJ8ZK8UBzrtVltDeEYWvgvi6IXy2smJknZCp6W/X4M3pJdwlkErZMPjEy
+	rwoBMJqJPI4sBE2nNwhHLc6aKWjFwa5AXbMXuDkF4s8IbvHc7fL6AxS0774i94PDywbI
+	jJqWU+AiGiPg+MGUeC4xyFQv7gpggrOz2STPlNsqQoOBSkrrysVVu41HKW2GqSllDYlx
+	wTVxJDqfcwNwp4eaK8J1odUSpGg2Ev0JfQMGIejohgDiMwIV0jRlIco+uzTAXWZxC+/d
+	O6TA==
+MIME-Version: 1.0
+Received: by 10.112.40.33 with SMTP id u1mr2343173lbk.28.1336405799344; Mon,
+	07 May 2012 08:49:59 -0700 (PDT)
+Received: by 10.112.65.13 with HTTP; Mon, 7 May 2012 08:49:59 -0700 (PDT)
+Date: Mon, 7 May 2012 11:49:59 -0400
+Message-ID: <CAJFPpzm_rY=3v5FRYBuZYmw5WuFpiG9uC6QuLiTG_8GchVmRRw@mail.gmail.com>
+From: Yeonju Oh <hysterogenic@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=e0cb4efe3060f21b8404bf7438c2
+Subject: [gnome-women] Looking for interviewees: Women in Free and Open
+	Source Development
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 07 May 2012 15:50:17 -0000
+
+--e0cb4efe3060f21b8404bf7438c2
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear all,
+
+First of all, I apologize if this message is merely one of the numerous
+interview requests, and you find this irrelevant to the mailing list.
+
+I am a PhD student majoring in communication studies at Bowling Green State
+University, OH. I am currently writing a dissertation on women's
+experiences in Free and Open Source development. More specifically, I
+examine how labor relations works in FOSS communities along the gendered
+line from feminist and political economy perspectives, and how the
+male-dominated environment of the communities prevents more diverse
+knowledge from being produced by explicitly/implicitly excluding women.
+
+I will be staying in San Francisco from May 24th to June 22nd to interview
+women in FOSS development. I wonder if any of you would be interested in
+participating in an interview. I assume that all of you must be busy for
+various projects, but your participation would be a great contribution to
+my field where discussions on free culture are increasingly important. I
+want my dissertation project to reflect the female participants' nuanced
+thoughts and experiences by meeting them in person rather than relying on
+numbers or short answers. I sincerely hope some of you can take some time
+to share your knowledge as an open source advocate.
+
+If you have any questions about my project or me. You can email me at
+either hysterogenic@gmail.com or oyeonj@bgsu.edu. Or you can visit my blog
+that I created for introducing my research and myself (
+http://fcodeofethics.wordpress.com/<https://mail.bgsu.edu/owa/redir.aspx?C=11c70b91e65a4fc5819a2e79d049d54a&URL=http%3a%2f%2ffcodeofethics.wordpress.com%2f>).
+You can share this email on other forum as you like.
+
+Warm regards,
+
+Yeon Ju Oh
+PhD Candidate
+School of Media and Communication
+Bowling Green State University
+Bowling Green, OH 43403
+
+--e0cb4efe3060f21b8404bf7438c2
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear all,<br><br>First of all, I apologize if this message is merely one
+ of the numerous interview requests, and you find this irrelevant to the
+ mailing list.<br><br>I am a PhD student majoring in communication studies =
+at Bowling Green State University, OH. <font>I am currently writing a disse=
+rtation on women&#39;s=20
+experiences in Free and Open Source development. More specifically, I=20
+examine how labor relations works in FOSS communities along the gendered
+ line from feminist and political economy perspectives, and how the=20
+male-dominated environment of the communities prevents more diverse=20
+knowledge from being produced by explicitly/implicitly excluding women.<br>
+<br>
+I will be staying in San Francisco from May 24th to June 22nd to=20
+interview women in FOSS development. I wonder if any of you would be intere=
+sted
+ in participating in an interview. I assume that all of you must be busy fo=
+r=20
+various projects, but your participation would be a great contribution=20
+to my field where discussions on free culture are increasingly=20
+important. I want my dissertation project to reflect the female=20
+participants&#39; nuanced thoughts and experiences by meeting them in perso=
+n
+ rather than relying on numbers or short answers. I sincerely hope some of =
+you can take=20
+some time to share your knowledge as an open source advocate.<br>
+<br>
+If you have any questions about my project or me. You can email me at eithe=
+r <a href=3D"mailto:hysterogenic@gmail.com" target=3D"_blank">hysterogenic@=
+gmail.com</a> or <a href=3D"mailto:oyeonj@bgsu.edu" target=3D"_blank">oyeon=
+j@bgsu.edu</a>. Or you can visit my blog that I created for introducing my =
+research and myself (<a href=3D"https://mail.bgsu.edu/owa/redir.aspx?C=3D11=
+c70b91e65a4fc5819a2e79d049d54a&amp;URL=3Dhttp%3a%2f%2ffcodeofethics.wordpre=
+ss.com%2f" target=3D"_blank">http://fcodeofethics.wordpress.com/</a>). You =
+can share this email on other forum as you like.<br>
+
+
+
+<br>
+Warm regards,<br><br></font><font>Yeon Ju Oh<br>
+PhD Candidate<br>
+School of Media and Communication<br>
+Bowling Green State University<br>
+Bowling Green, OH 43403</font>
+
+--e0cb4efe3060f21b8404bf7438c2--
+From azzurroverde@gmail.com  Sun May 20 18:36:34 2012
+Return-Path: <azzurroverde@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 949237500CC
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 18:36:34 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VIDvq0neKU12 for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 18:36:20 +0000 (UTC)
+Received: from mail-ob0-f174.google.com (mail-ob0-f174.google.com
+	[209.85.214.174])
+	by menubar.gnome.org (Postfix) with ESMTP id 8AB01750075
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 18:36:12 +0000 (UTC)
+Received: by obbtb18 with SMTP id tb18so10019158obb.33
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 11:36:10 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=AyrSemyAYI4pnp27jA9rjq5NpZ9oRvVt+mmNPRefOxo=;
+	b=BYcg/hG9WfAlwoscZWNp5qyQjvxl5tpRxyKYKr1Vv9wOR1xtZ35fvmNGTcDY6WTUDi
+	pEkZBss/QiWIEk+cHq9vHbT61tMazDwz7mnnTVdJdzqNoodQZXOloeY0bu1rb245FEY2
+	L2lUMfMB9FRqMqczZ6YxoYYLOdLtcbUajxe7XXxD94M2eB6p0efgL/uk09G4ASbe3mJv
+	0LeHFVEq+i0CNifkf6BRO1S9azHPAuEtmwhjkyxKNa81dwZROb2XRujsqjU5UK2KOZH4
+	VlKJiPu0PgSSQ4fPSbaqTBL/GWlkFufvFbW/XZxv93DBq4a6q+NVXtTUqGZ30UmOwYvS
+	0uHw==
+MIME-Version: 1.0
+Received: by 10.60.27.65 with SMTP id r1mr2578846oeg.55.1337538970647; Sun, 20
+	May 2012 11:36:10 -0700 (PDT)
+Received: by 10.182.131.33 with HTTP; Sun, 20 May 2012 11:36:10 -0700 (PDT)
+Date: Sun, 20 May 2012 14:36:10 -0400
+Message-ID: <CALBK6KThZMLq-=xhw0fUKOnRGd_3wMf7H02nVyhC=rtpBAesKg@mail.gmail.com>
+From: Anna Zacchi <azzurroverde@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=e89a8fb2063437fa4c04c07c0f34
+Subject: [gnome-women] IRC and two nicknames
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 20 May 2012 18:36:34 -0000
+
+--e89a8fb2063437fa4c04c07c0f34
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello all,
+why some people have two nicknames in IRC?
+One for when they are online, and one for when they are away from keyboards?
+What's the purpose of the second?
+
+Thanks,
+            Anna
+
+--e89a8fb2063437fa4c04c07c0f34
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello all,<div>why some people have two nicknames in IRC?</div><div>One for=
+ when they are online, and one for when they are away from keyboards?</div>=
+<div>What&#39;s the purpose of the second?</div><div><br></div><div>Thanks,=
+</div>
+<div>=A0 =A0 =A0 =A0 =A0 =A0 Anna</div>
+
+--e89a8fb2063437fa4c04c07c0f34--
+From meg387@gmail.com  Sun May 20 18:42:51 2012
+Return-Path: <meg387@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EE82F7500CC
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 18:42:50 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DHUUDa+o2K6s for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 18:42:48 +0000 (UTC)
+Received: from mail-lpp01m010-f46.google.com (mail-lpp01m010-f46.google.com
+	[209.85.215.46])
+	by menubar.gnome.org (Postfix) with ESMTP id 63BCF750075
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 18:42:39 +0000 (UTC)
+Received: by lahd3 with SMTP id d3so4490775lah.33
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 11:42:38 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=1z9TvTMKiptL2/mDuQ97QH4Fy5RTOFCht6bOsJ6J9Pc=;
+	b=mTdVCIHNZGGMtShddCMrC+ex4wBrNRP97zOOzftl+Kj+a3iLv1IW7VZGpPxtLfgGbC
+	izR5/ryzrHeKjLVSqGJOENFo0cgIEfA+hdw3+JAlu7HUVBEFDyQLP5tawQ476w5qBdrb
+	IwqLXj/rXAeRsEFNNgjb+YGOa97BMp+U2ubUfsP2QNgEnT57mX/+Iws1ijndB+52P2yg
+	YYJCLtkDU09tuSMDV9UL5OlqF/iOpJQ8Kehs/dKKsscdF5Ut8BIB5CAsiXi+RtuOtGKs
+	ogRtsYBZ1U3RyzHLkX7Cw/SABvneqPTfjds37uX8L+Y0t/J04x4J7G0ftpPiURVZyP3x
+	bRbQ==
+MIME-Version: 1.0
+Received: by 10.112.44.233 with SMTP id h9mr7905804lbm.26.1337539357866; Sun,
+	20 May 2012 11:42:37 -0700 (PDT)
+Received: by 10.112.24.8 with HTTP; Sun, 20 May 2012 11:42:37 -0700 (PDT)
+In-Reply-To: <CALBK6KThZMLq-=xhw0fUKOnRGd_3wMf7H02nVyhC=rtpBAesKg@mail.gmail.com>
+References: <CALBK6KThZMLq-=xhw0fUKOnRGd_3wMf7H02nVyhC=rtpBAesKg@mail.gmail.com>
+Date: Sun, 20 May 2012 13:42:37 -0500
+Message-ID: <CAC4QDKi-xdGyZ5i6bN5cv9eexUH9_nqg3Ky=KXO3ibV8v3Vaiw@mail.gmail.com>
+From: meg ford <meg387@gmail.com>
+To: Anna Zacchi <azzurroverde@gmail.com>
+Content-Type: multipart/alternative; boundary=bcaec553fd6c4c7b0b04c07c26b6
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC and two nicknames
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 20 May 2012 18:42:51 -0000
+
+--bcaec553fd6c4c7b0b04c07c26b6
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Anna,
+
+Can you give an example? Sometimes my name appears differently because my
+chat program crashes, and when I log back in and my old connection is still
+active. When that happens the program appends a number to the end of my
+nick. When I am logged into more than one IRC service (like irc.gimp.organd
+irc.gnome.org) then the same thing happens. Sometimes people set their name
+to something slightly different when they are away (like Anna_away or
+Anna_afk).
+
+Does that answer your question or were you thinking of something different?
+
+Meg
+
+On Sun, May 20, 2012 at 1:36 PM, Anna Zacchi <azzurroverde@gmail.com> wrote:
+
+> Hello all,
+> why some people have two nicknames in IRC?
+> One for when they are online, and one for when they are away from
+> keyboards?
+> What's the purpose of the second?
+>
+> Thanks,
+>             Anna
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--bcaec553fd6c4c7b0b04c07c26b6
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Anna,<br><br>Can you give an example? Sometimes my name appears differen=
+tly because my chat program crashes, and when I log back in and my old conn=
+ection is still active. When that happens the program appends a number to t=
+he end of my nick. When I am logged into more than one IRC service (like <a=
+ href=3D"http://irc.gimp.org">irc.gimp.org</a> and <a href=3D"http://irc.gn=
+ome.org">irc.gnome.org</a>) then the same thing happens. Sometimes people s=
+et their name to something slightly different when they are away (like Anna=
+_away or Anna_afk).<br>
+<br>Does that answer your question or were you thinking of something differ=
+ent?<br><br>Meg<br><br><div class=3D"gmail_quote">On Sun, May 20, 2012 at 1=
+:36 PM, Anna Zacchi <span dir=3D"ltr">&lt;<a href=3D"mailto:azzurroverde@gm=
+ail.com" target=3D"_blank">azzurroverde@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Hello all,<div>why some people have two nick=
+names in IRC?</div><div>One for when they are online, and one for when they=
+ are away from keyboards?</div>
+<div>What&#39;s the purpose of the second?</div><div><br></div><div>Thanks,=
+</div>
+<div>=A0 =A0 =A0 =A0 =A0 =A0 Anna</div>
+<br>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>=
+</blockquote></div><br>
+
+--bcaec553fd6c4c7b0b04c07c26b6--
+From azzurroverde@gmail.com  Sun May 20 18:52:37 2012
+Return-Path: <azzurroverde@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 13B5B7500CC
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 18:52:37 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BNx1V1hirxNY for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 18:52:35 +0000 (UTC)
+Received: from mail-ob0-f174.google.com (mail-ob0-f174.google.com
+	[209.85.214.174])
+	by menubar.gnome.org (Postfix) with ESMTP id E6846750075
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 18:52:26 +0000 (UTC)
+Received: by obbtb18 with SMTP id tb18so10041438obb.33
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 20 May 2012 11:52:25 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=IDxtuyDDK0QoFfV+YOjLheXoCWb7aZWUhVwMMBQbVAw=;
+	b=FwIwVvi2RZtocMlSb50uMtlSmmw38CfK7dKvR+k44b0CPL+dX2S7iLuN5QpwtwC4oe
+	LE3Xdf9g88uKb/CwT6RMBjSqgYZkH/mUmgDLcHf1Jt5UxX0byOtQyS+8OvTrCLNrpmRJ
+	hqoJjtropihpmEUZf+C7uSxn/jaP37tbmxFMZ0yxllfLqyvz2cOUwrQ+jY0Cfmk6LX0t
+	PM1jF0E6QNeqj/7mMUd+qMyZAVJb9RBRxrGR1+xwtjkiYaPqV0Ttzu9axoj54KKPyjW8
+	ZltzixnQvFg4ghUP1NKStv6u76GgwJU0cWJiWv89jzvtKEdacuxSkkHGje9/zBFKH8t6
+	sZ0g==
+MIME-Version: 1.0
+Received: by 10.182.5.164 with SMTP id t4mr17479825obt.1.1337539945316; Sun,
+	20 May 2012 11:52:25 -0700 (PDT)
+Received: by 10.182.131.33 with HTTP; Sun, 20 May 2012 11:52:25 -0700 (PDT)
+In-Reply-To: <CAC4QDKi-xdGyZ5i6bN5cv9eexUH9_nqg3Ky=KXO3ibV8v3Vaiw@mail.gmail.com>
+References: <CALBK6KThZMLq-=xhw0fUKOnRGd_3wMf7H02nVyhC=rtpBAesKg@mail.gmail.com>
+	<CAC4QDKi-xdGyZ5i6bN5cv9eexUH9_nqg3Ky=KXO3ibV8v3Vaiw@mail.gmail.com>
+Date: Sun, 20 May 2012 14:52:25 -0400
+Message-ID: <CALBK6KTJEM=dajD90cBkgNAYimucP4rMN-f6XLe54NZ_TrsWhA@mail.gmail.com>
+From: Anna Zacchi <azzurroverde@gmail.com>
+To: meg ford <meg387@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d04446c595042e804c07c499c
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC and two nicknames
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 20 May 2012 18:52:37 -0000
+
+--f46d04446c595042e804c07c499c
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Meg,
+I was referring to you last example, when someone uses:
+Anna-away or Anna-afk.
+Also, I am  using Empathy and I haven't seen any setting for when away
+(besides custom message).
+I guess people may be using different applications ...
+
+
+Thanks,
+             Anna
+
+On Sun, May 20, 2012 at 2:42 PM, meg ford <meg387@gmail.com> wrote:
+
+> Hi Anna,
+>
+> Can you give an example? Sometimes my name appears differently because my
+> chat program crashes, and when I log back in and my old connection is still
+> active. When that happens the program appends a number to the end of my
+> nick. When I am logged into more than one IRC service (like irc.gimp.organd
+> irc.gnome.org) then the same thing happens. Sometimes people set their
+> name to something slightly different when they are away (like Anna_away or
+> Anna_afk).
+>
+> Does that answer your question or were you thinking of something different?
+>
+> Meg
+>
+> On Sun, May 20, 2012 at 1:36 PM, Anna Zacchi <azzurroverde@gmail.com>wrote:
+>
+>> Hello all,
+>> why some people have two nicknames in IRC?
+>> One for when they are online, and one for when they are away from
+>> keyboards?
+>> What's the purpose of the second?
+>>
+>> Thanks,
+>>             Anna
+>>
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>>
+>
+>
+
+--f46d04446c595042e804c07c499c
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Meg,<div>I was referring to you last example, when someone uses:</div><d=
+iv>Anna-away or Anna-afk.</div><div>Also, I am =A0using Empathy and I haven=
+&#39;t seen any setting for when away (besides custom message).</div><div>
+I guess people may be using different applications ...</div><div><br></div>=
+<div><br></div><div>Thanks,</div><div>=A0 =A0 =A0 =A0 =A0 =A0 =A0Anna<br><b=
+r><div class=3D"gmail_quote">On Sun, May 20, 2012 at 2:42 PM, meg ford <spa=
+n dir=3D"ltr">&lt;<a href=3D"mailto:meg387@gmail.com" target=3D"_blank">meg=
+387@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Hi Anna,<br><br>Can you give an example? Som=
+etimes my name appears differently because my chat program crashes, and whe=
+n I log back in and my old connection is still active. When that happens th=
+e program appends a number to the end of my nick. When I am logged into mor=
+e than one IRC service (like <a href=3D"http://irc.gimp.org" target=3D"_bla=
+nk">irc.gimp.org</a> and <a href=3D"http://irc.gnome.org" target=3D"_blank"=
+>irc.gnome.org</a>) then the same thing happens. Sometimes people set their=
+ name to something slightly different when they are away (like Anna_away or=
+ Anna_afk).<br>
+
+<br>Does that answer your question or were you thinking of something differ=
+ent?<br><br>Meg<br><br><div class=3D"gmail_quote"><div><div class=3D"h5">On=
+ Sun, May 20, 2012 at 1:36 PM, Anna Zacchi <span dir=3D"ltr">&lt;<a href=3D=
+"mailto:azzurroverde@gmail.com" target=3D"_blank">azzurroverde@gmail.com</a=
+>&gt;</span> wrote:<br>
+
+</div></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bo=
+rder-left:1px #ccc solid;padding-left:1ex"><div><div class=3D"h5">Hello all=
+,<div>why some people have two nicknames in IRC?</div><div>One for when the=
+y are online, and one for when they are away from keyboards?</div>
+
+<div>What&#39;s the purpose of the second?</div><div><br></div><div>Thanks,=
+</div>
+<div>=A0 =A0 =A0 =A0 =A0 =A0 Anna</div>
+<br></div></div>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org" target=3D"_blank">gnome-=
+women-list@mail.gnome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>=
+</blockquote></div><br>
+</blockquote></div><br></div>
+
+--f46d04446c595042e804c07c499c--
+From marinaz@redhat.com  Mon May 21 06:42:57 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7D4657501D5
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 06:42:57 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id D+qRB97fqfHh for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 06:42:44 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 01EA375010D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 06:42:35 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id q4L6gWCW014627;
+	Mon, 21 May 2012 02:42:32 -0400
+Date: Mon, 21 May 2012 02:42:32 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Anna Zacchi <azzurroverde@gmail.com>
+Message-ID: <bf8b9e99-a54c-47e0-8250-d4be31f27072@zmail12.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <CALBK6KTJEM=dajD90cBkgNAYimucP4rMN-f6XLe54NZ_TrsWhA@mail.gmail.com>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Originating-IP: [10.11.8.150]
+X-Mailer: Zimbra 7.1.2_GA_3268 (ZimbraWebClient - FF3.0 (Linux)/7.1.2_GA_3268)
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC and two nicknames
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 21 May 2012 06:42:57 -0000
+
+Hi Anna,
+
+People manually change their nick when stepping away from the computer, so that other people who might want to talk to them know that they are not actually around. "afk" stands for "away from keyboard". People prefer not to sign off from IRC so that they can still see the log of what was said in various channels or who pinged them with a private message when they come back.
+
+Does this answer your question?
+
+Marina
+
+----- Original Message -----
+From: "Anna Zacchi" <azzurroverde@gmail.com>
+To: "meg ford" <meg387@gmail.com>
+Cc: gnome-women-list@mail.gnome.org
+Sent: Sunday, May 20, 2012 2:52:25 PM
+Subject: Re: [gnome-women] IRC and two nicknames
+
+
+Hi Meg, 
+I was referring to you last example, when someone uses: 
+Anna-away or Anna-afk. 
+Also, I am using Empathy and I haven't seen any setting for when away (besides custom message). 
+I guess people may be using different applications ... 
+
+
+
+
+Thanks, 
+Anna 
+
+
+On Sun, May 20, 2012 at 2:42 PM, meg ford < meg387@gmail.com > wrote: 
+
+
+Hi Anna, 
+
+Can you give an example? Sometimes my name appears differently because my chat program crashes, and when I log back in and my old connection is still active. When that happens the program appends a number to the end of my nick. When I am logged into more than one IRC service (like irc.gimp.org and irc.gnome.org ) then the same thing happens. Sometimes people set their name to something slightly different when they are away (like Anna_away or Anna_afk). 
+
+Does that answer your question or were you thinking of something different? 
+
+Meg 
+
+
+
+
+On Sun, May 20, 2012 at 1:36 PM, Anna Zacchi < azzurroverde@gmail.com > wrote: 
+
+
+
+
+Hello all, 
+why some people have two nicknames in IRC? 
+One for when they are online, and one for when they are away from keyboards? 
+What's the purpose of the second? 
+
+
+Thanks, 
+Anna 
+_______________________________________________ 
+gnome-women-list mailing list 
+gnome-women-list@mail.gnome.org 
+http://mail.gnome.org/mailman/listinfo/gnome-women-list 
+
+
+
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-women-list
+From marinaz@redhat.com  Mon May 21 06:54:54 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 78B6F75030A
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 06:54:54 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VGNlZ95HngsJ for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 06:54:41 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id F08C275027A
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 06:54:32 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id q4L6sV4w001228
+	for <gnome-women-list@mail.gnome.org>; Mon, 21 May 2012 02:54:31 -0400
+Date: Mon, 21 May 2012 02:54:31 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <56871db7-09ee-41f1-a356-566336213d9d@zmail12.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <e80cd282-92b6-4673-8c66-3d0152fc94b6@zmail12.collab.prod.int.phx2.redhat.com>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Originating-IP: [10.11.8.150]
+X-Mailer: Zimbra 7.1.2_GA_3268 (ZimbraWebClient - FF3.0 (Linux)/7.1.2_GA_3268)
+Subject: [gnome-women] Outreach Program for Women quarterly update
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 21 May 2012 06:54:54 -0000
+
+Hi!
+
+You can find my draft of the OPW Q1 update (January-March 2012) here:
+https://live.gnome.org/GnomeMarketing/QuarterlyReports/2012/Q1#Outreach_Program_for_Women
+
+Please let me know if there is anything we can add to it!
+
+Congratulations to the interns from the third round who have successfully completed their internships in March and congratulations to the OPW and GSoC interns starting their internships today!
+
+Thanks,
+Marina
+From azzurroverde@gmail.com  Mon May 21 14:06:34 2012
+Return-Path: <azzurroverde@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 4A3D3750092
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 14:06:34 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6et3TDNdCs1L for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 14:06:31 +0000 (UTC)
+Received: from mail-ob0-f174.google.com (mail-ob0-f174.google.com
+	[209.85.214.174])
+	by menubar.gnome.org (Postfix) with ESMTP id 742B1750081
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 14:06:23 +0000 (UTC)
+Received: by obbtb18 with SMTP id tb18so11596525obb.33
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 21 May 2012 07:06:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=yrSgk/ZYJO5ZjKuPUnwVtdYTQPiBm0+6mHtjSssclgA=;
+	b=BxlvwmqjXePJVC3vVMcvATT0jIES0f0Nnvop1VSw/KiiaeauWNQvp3mdw+L1bgHlFN
+	fV8UjqzrltVO5UN0rFvphqGehYU4erUZz9z94UvB2TlSAplyymsH0sAZQMbrTZXWvFRf
+	ke5efwaHAfN+fgY5lKO99XRw0YU3OEzsDKR7VjMY0vlSn2r3o+kuiP+yAa7Shiss+UVq
+	+bgwBVzC1lDCLQvfs2hzToKbjWQvSvKm6YqC5cgYd2uKWvUIYMNz5RVEctq7I5Vt1tQl
+	HDA5sO/WyTBEKzDp6woVsIfXJMNZ3vaNjeJlh3tzSkxMyMXQ38TTGihZMuPIUmq7moYn
+	PvAw==
+MIME-Version: 1.0
+Received: by 10.182.5.132 with SMTP id s4mr19095084obs.65.1337609181642; Mon,
+	21 May 2012 07:06:21 -0700 (PDT)
+Received: by 10.182.131.33 with HTTP; Mon, 21 May 2012 07:06:21 -0700 (PDT)
+In-Reply-To: <bf8b9e99-a54c-47e0-8250-d4be31f27072@zmail12.collab.prod.int.phx2.redhat.com>
+References: <CALBK6KTJEM=dajD90cBkgNAYimucP4rMN-f6XLe54NZ_TrsWhA@mail.gmail.com>
+	<bf8b9e99-a54c-47e0-8250-d4be31f27072@zmail12.collab.prod.int.phx2.redhat.com>
+Date: Mon, 21 May 2012 10:06:21 -0400
+Message-ID: <CALBK6KRpXsTbOa1HLNRA45oWpnni_nw=5cZjGGNCF+3CNq1HVg@mail.gmail.com>
+From: Anna Zacchi <azzurroverde@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=f46d0447967d1ebdef04c08c68e2
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC and two nicknames
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 21 May 2012 14:06:34 -0000
+
+--f46d0447967d1ebdef04c08c68e2
+Content-Type: text/plain; charset=ISO-8859-1
+
+On Mon, May 21, 2012 at 2:42 AM, Marina Zhurakhinskaya
+<marinaz@redhat.com>wrote:
+
+> Hi Anna,
+>
+> People manually change their nick when stepping away from the computer, so
+> that other people who might want to talk to them know that they are not
+> actually around. "afk" stands for "away from keyboard". People prefer not
+> to sign off from IRC so that they can still see the log of what was said in
+> various channels or who pinged them with a private message when they come
+> back.
+>
+> Does this answer your question?
+>
+> Marina
+>
+
+Yes,
+thanks.  So it is manual and the reason is to "log" what is going on in IRC
+:)
+
+Anna
+
+
+
+
+>
+> ----- Original Message -----
+> From: "Anna Zacchi" <azzurroverde@gmail.com>
+> To: "meg ford" <meg387@gmail.com>
+> Cc: gnome-women-list@mail.gnome.org
+> Sent: Sunday, May 20, 2012 2:52:25 PM
+> Subject: Re: [gnome-women] IRC and two nicknames
+>
+>
+> Hi Meg,
+> I was referring to you last example, when someone uses:
+> Anna-away or Anna-afk.
+> Also, I am using Empathy and I haven't seen any setting for when away
+> (besides custom message).
+> I guess people may be using different applications ...
+>
+>
+>
+>
+> Thanks,
+> Anna
+>
+>
+> On Sun, May 20, 2012 at 2:42 PM, meg ford < meg387@gmail.com > wrote:
+>
+>
+> Hi Anna,
+>
+> Can you give an example? Sometimes my name appears differently because my
+> chat program crashes, and when I log back in and my old connection is still
+> active. When that happens the program appends a number to the end of my
+> nick. When I am logged into more than one IRC service (like irc.gimp.organd
+> irc.gnome.org ) then the same thing happens. Sometimes people set their
+> name to something slightly different when they are away (like Anna_away or
+> Anna_afk).
+>
+> Does that answer your question or were you thinking of something different?
+>
+> Meg
+>
+>
+>
+>
+> On Sun, May 20, 2012 at 1:36 PM, Anna Zacchi < azzurroverde@gmail.com >
+> wrote:
+>
+>
+>
+>
+> Hello all,
+> why some people have two nicknames in IRC?
+> One for when they are online, and one for when they are away from
+> keyboards?
+> What's the purpose of the second?
+>
+>
+> Thanks,
+> Anna
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+>
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--f46d0447967d1ebdef04c08c68e2
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+On Mon, May 21, 2012 at 2:42 AM, Marina Zhurakhinskaya <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:marinaz@redhat.com" target=3D"_blank">marinaz@redhat.co=
+m</a>&gt;</span> wrote:<br><div class=3D"gmail_quote"><blockquote class=3D"=
+gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-=
+left:1ex">
+Hi Anna,<br>
+<br>
+People manually change their nick when stepping away from the computer, so =
+that other people who might want to talk to them know that they are not act=
+ually around. &quot;afk&quot; stands for &quot;away from keyboard&quot;. Pe=
+ople prefer not to sign off from IRC so that they can still see the log of =
+what was said in various channels or who pinged them with a private message=
+ when they come back.<br>
+
+<br>
+Does this answer your question?<br>
+<br>
+Marina<br></blockquote><div><br></div><div>Yes,</div><div>thanks. =A0So it =
+is manual and the reason is to &quot;log&quot; what is going on in IRC :)</=
+div><div><br></div><div>Anna</div><div><br></div><div><br></div><div>=A0</d=
+iv>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+<div class=3D"im"><br>
+----- Original Message -----<br>
+From: &quot;Anna Zacchi&quot; &lt;<a href=3D"mailto:azzurroverde@gmail.com"=
+>azzurroverde@gmail.com</a>&gt;<br>
+To: &quot;meg ford&quot; &lt;<a href=3D"mailto:meg387@gmail.com">meg387@gma=
+il.com</a>&gt;<br>
+Cc: <a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mai=
+l.gnome.org</a><br>
+Sent: Sunday, May 20, 2012 2:52:25 PM<br>
+Subject: Re: [gnome-women] IRC and two nicknames<br>
+<br>
+<br>
+Hi Meg,<br>
+I was referring to you last example, when someone uses:<br>
+Anna-away or Anna-afk.<br>
+Also, I am using Empathy and I haven&#39;t seen any setting for when away (=
+besides custom message).<br>
+I guess people may be using different applications ...<br>
+<br>
+<br>
+<br>
+<br>
+Thanks,<br>
+Anna<br>
+<br>
+<br>
+On Sun, May 20, 2012 at 2:42 PM, meg ford &lt; <a href=3D"mailto:meg387@gma=
+il.com">meg387@gmail.com</a> &gt; wrote:<br>
+<br>
+<br>
+Hi Anna,<br>
+<br>
+</div>Can you give an example? Sometimes my name appears differently becaus=
+e my chat program crashes, and when I log back in and my old connection is =
+still active. When that happens the program appends a number to the end of =
+my nick. When I am logged into more than one IRC service (like <a href=3D"h=
+ttp://irc.gimp.org" target=3D"_blank">irc.gimp.org</a> and <a href=3D"http:=
+//irc.gnome.org" target=3D"_blank">irc.gnome.org</a> ) then the same thing =
+happens. Sometimes people set their name to something slightly different wh=
+en they are away (like Anna_away or Anna_afk).<br>
+
+<div class=3D"HOEnZb"><div class=3D"h5"><br>
+Does that answer your question or were you thinking of something different?=
+<br>
+<br>
+Meg<br>
+<br>
+<br>
+<br>
+<br>
+On Sun, May 20, 2012 at 1:36 PM, Anna Zacchi &lt; <a href=3D"mailto:azzurro=
+verde@gmail.com">azzurroverde@gmail.com</a> &gt; wrote:<br>
+<br>
+<br>
+<br>
+<br>
+Hello all,<br>
+why some people have two nicknames in IRC?<br>
+One for when they are online, and one for when they are away from keyboards=
+?<br>
+What&#39;s the purpose of the second?<br>
+<br>
+<br>
+Thanks,<br>
+Anna<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>
+<br>
+<br>
+<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>
+</div></div></blockquote></div><br>
+
+--f46d0447967d1ebdef04c08c68e2--
+From abharath.gnome@gmail.com  Wed May 16 05:26:08 2012
+Return-Path: <abharath.gnome@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DF6C3750301;
+	Wed, 16 May 2012 05:26:07 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.509
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.509 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001, TVD_APPROVED=2.09] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id y9tKRzeRcAUD; Wed, 16 May 2012 05:26:05 +0000 (UTC)
+Received: from mail-lb0-f182.google.com (mail-lb0-f182.google.com
+	[209.85.217.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 07CF4750208;
+	Wed, 16 May 2012 05:25:55 +0000 (UTC)
+Received: by lbon10 with SMTP id n10so452762lbo.27
+	for <multiple recipients>; Tue, 15 May 2012 22:25:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+	:from:to:content-type;
+	bh=7MCN/3Ccud5TeINn9jP4ZaYROie8CIjJ+BznzQnpYQk=;
+	b=bDYo+G/huv8OuLtRHN6327eJJjYtsn5jU2wFYwzoTNg7bs0VyPaW/F0PSNG5awAQ1/
+	uXHDBWRdLIEKvLtVrqYckxp/2mFh+kimlwHNwVXBR8ReK0o5ImrCvtC0rChySNUHgQlc
+	iB6DOQLPJY5wExpa0dScJRhMZpbtuG72iKupkhFYAUjwVMbsbMOQTxQkk3qyW0N4hM+R
+	xyB5WoO3UA6mIkSibSgMs4cA8i/TBH2uSkPpIqjbPb3BCApaeaDb1o8g2wav+56jMrik
+	NPopO/GJnBl8TF5YbQW0KI34MzBGsMmBy6UGRoobWHQegrndQgXj+ql1BLzQxGimJVCd
+	xuDQ==
+MIME-Version: 1.0
+Received: by 10.112.26.165 with SMTP id m5mr717112lbg.15.1337145953665; Tue,
+	15 May 2012 22:25:53 -0700 (PDT)
+Sender: abharath.gnome@gmail.com
+Received: by 10.112.90.49 with HTTP; Tue, 15 May 2012 22:25:53 -0700 (PDT)
+Date: Wed, 16 May 2012 01:25:53 -0400
+X-Google-Sender-Auth: F3YEZasktQhDaqIA6nSkG7G87x4
+Message-ID: <CAP4QO9XfQUNGQKu54aPyCzogU-AH_4vTN200fXU-LYaB-NaVfw@mail.gmail.com>
+From: Bharath Acharya <abharath@gnome.org>
+To: foundation-list@gnome.org, guadec-list@gnome.org, 
+	travel-committee@gnome.org, gnome-women-list@gnome.org, 
+	desktop-devel-list@gnome.org
+Content-Type: multipart/alternative; boundary=bcaec555570494c17004c0208d83
+X-Mailman-Approved-At: Mon, 21 May 2012 20:08:32 +0000
+Subject: [gnome-women] Travel assistance applications to attend GNOME.Asia
+	2012
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 16 May 2012 05:26:08 -0000
+
+--bcaec555570494c17004c0208d83
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello All,
+
+The GNOME Foundation provides travel sponsorships to individuals who want
+to attend GNOME.Asia 2012 and need financial assistance.
+
+GNOME.Asia, 2012 is being held in City University of Hong Kong (
+http://2012.gnome.asia/location/), from Friday 8th June, until Sunday 10th
+June.
+
+The instructions are detailed at http://live.gnome.org/Travel
+Please read them carefully.
+
+How to apply for sponsorship
+(Things to keep in mind during the process)
+
+   - Be patient, we are volunteers
+   - If it's taking too long and you see prices could significantly raise
+   -or something similar- please ping a member of the committee.
+   - DO NOT BUY ANYTHING UNTIL YOU GET A VERY CLEAR CONFIRMATION, applying
+   does not mean you are approved, and silence does not mean approval.
+   - Try to get the best fares for tickets and lodging, look at various
+   airlines and routes and try to avoid agencies since they usually charge 10%
+   or 20% extra in every ticket. (Sites like Kayak can help find reasonable
+   fares.)
+   - Please find a roommate to save on lodging costs where possible.
+   - Ask for only what you need. If you can afford to pay for some of your
+   ticket or lodging, we would really appreciate it as that means we can help
+   more people.
+   - Be responsible, the money you save is the money we will use to fund
+   someone else or even yourself again.
+
+
+The process
+
+   - First, make sure the conference or event is relevant for GNOME. If
+   it's not an announced one like GNOME.Asia or a Hackfest, please explain us
+   why would you like to go and what are the benefits you think we would all
+   get from your presence there (promotion, contacts, etc)
+   - Now, fill the application form form with the relevant information. (
+   https://live.gnome.org/Travel?action=AttachFile&do=view&target=gnome_travel_subsidy.odt
+   )
+   - Send the filled form to travel-committee@gnome.org, this is a private
+   list that will be visible only to the Travel Committee members and possibly
+   GNOME's Board of Directors
+   - Wait patiently to get questions or suggestions about your request
+   - Expect a confirmation of your approval soon, or if it's taking too
+   long, feel free to ask in IRC to any member of the committee
+   - Now that you GOT COMPLETE CONFIRMATION buy your tickets and/or make
+   your reservation
+   - After the event, you have 2 weeks to mail us the appropriate receipts
+   for tickets, lodging, etc; if they are not in English or the receipt has a
+   lot of information, please clearly mark the total and the purpose.
+   - Your reimbursement will be ready no more than 4 weeks after the
+   receipts deadline
+
+
+You can find us in the #travel channel at irc.gnome.org
+
+Regards,
+Bharath
+
+--bcaec555570494c17004c0208d83
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello All,<br><br>The GNOME Foundation provides travel sponsorships to indi=
+viduals who want to attend GNOME.Asia 2012 and need financial assistance.<b=
+r><br>GNOME.Asia, 2012 is being held in City University of Hong Kong (<a hr=
+ef=3D"http://2012.gnome.asia/location/">http://2012.gnome.asia/location/</a=
+>), from Friday 8th June, until Sunday 10th June.<br>
+<br>The instructions are detailed at <a href=3D"http://live.gnome.org/Trave=
+l">http://live.gnome.org/Travel</a><br>Please read them carefully.<br><br>H=
+ow to apply for sponsorship<br>(Things to keep in mind during the process)<=
+br>
+<ul><li>Be patient, we are volunteers</li><li>If it&#39;s taking too long a=
+nd you see prices could significantly raise -or something similar- please p=
+ing a member of the committee.</li><li>DO NOT BUY ANYTHING UNTIL YOU GET A =
+VERY CLEAR CONFIRMATION, applying does not mean you are approved, and silen=
+ce does not mean approval.</li>
+<li>Try to get the best fares for tickets and lodging, look at various airl=
+ines and routes and try to avoid agencies since they usually charge 10% or =
+20% extra in every ticket. (Sites like Kayak can help find reasonable fares=
+.)</li>
+<li>Please find a roommate to save on lodging costs where possible.</li><li=
+>Ask for only what you need. If you can afford to pay for some of your tick=
+et or lodging, we would really appreciate it as that means we can help more=
+ people.</li>
+<li>Be responsible, the money you save is the money we will use to fund som=
+eone else or even yourself again.</li></ul><br>The process<br><ul><li>First=
+, make sure the conference or event is relevant for GNOME. If it&#39;s not =
+an announced one like GNOME.Asia or a Hackfest, please explain us why would=
+ you like to go and what are the benefits you think we would all get from y=
+our presence there (promotion, contacts, etc)</li>
+<li>Now, fill the application form form with the relevant information. (<a =
+href=3D"https://live.gnome.org/Travel?action=3DAttachFile&amp;do=3Dview&amp=
+;target=3Dgnome_travel_subsidy.odt">https://live.gnome.org/Travel?action=3D=
+AttachFile&amp;do=3Dview&amp;target=3Dgnome_travel_subsidy.odt</a>)</li>
+<li>Send the filled form to <a href=3D"mailto:travel-committee@gnome.org">t=
+ravel-committee@gnome.org</a>, this is a private list that will be visible =
+only to the Travel Committee members and possibly GNOME&#39;s Board of Dire=
+ctors</li>
+<li>Wait patiently to get questions or suggestions about your request</li><=
+li>Expect a confirmation of your approval soon, or if it&#39;s taking too l=
+ong, feel free to ask in IRC to any member of the committee</li><li>Now tha=
+t you GOT COMPLETE CONFIRMATION buy your tickets and/or make your reservati=
+on</li>
+<li>After the event, you have 2 weeks to mail us the appropriate receipts f=
+or tickets, lodging, etc; if they are not in English or the receipt has a l=
+ot of information, please clearly mark the total and the purpose.</li><li>
+Your reimbursement will be ready no more than 4 weeks after the receipts de=
+adline</li></ul><br>You can find us in the #travel channel at <a href=3D"ht=
+tp://irc.gnome.org">irc.gnome.org</a><br><br>Regards,<br>Bharath<br>
+
+--bcaec555570494c17004c0208d83--

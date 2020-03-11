@@ -1,0 +1,125 @@
+From Amy.Marrich at rackspace.com  Mon Dec 12 19:43:54 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Mon, 12 Dec 2016 19:43:54 +0000
+Subject: [Women-of-openstack] Meeting reminder 12/12
+Message-ID: <D4745A36.23C8B%amy.marrich@rackspace.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the meeting will be today at 12pm PST, 2pm CST and 3pm EST.
+
+Dial-in info is: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_11_28_16 and if you would like to add something to the agenda please do so.
+
+This will be a great meeting with our second presentation - How to write a successful talk proposal --  Speakers: Beth Cohen, Annie Lai (confirming), Lisa-Marie Namphy
+
+Thanks,
+
+Amy
+PS no one signed up to lead which is why a reminder never went out
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161212/f07da153/attachment.html>
+
+From Amy.Marrich at rackspace.com  Mon Dec 12 19:46:09 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Mon, 12 Dec 2016 19:46:09 +0000
+Subject: [Women-of-openstack] Meeting reminder 12/12
+Message-ID: <D4745AA1.23C90%amy.marrich@rackspace.com>
+
+Sorry for the spam, here's the link to the webex
+
+URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+From: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>
+Date: Monday, December 12, 2016 at 1:43 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Meeting reminder 12/12
+
+Hey everyone,
+
+Just wanted to remind everyone the meeting will be today at 12pm PST, 2pm CST and 3pm EST.
+
+Dial-in info is: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_11_28_16 and if you would like to add something to the agenda please do so.
+
+This will be a great meeting with our second presentation - How to write a successful talk proposal --  Speakers: Beth Cohen, Annie Lai (confirming), Lisa-Marie Namphy
+
+Thanks,
+
+Amy
+PS no one signed up to lead which is why a reminder never went out
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161212/0a26a3f1/attachment.html>
+
+From beth.cohen at verizon.com  Mon Dec 12 21:56:51 2016
+From: beth.cohen at verizon.com (beth.cohen at verizon.com)
+Date: Mon, 12 Dec 2016 21:56:51 +0000
+Subject: [Women-of-openstack] Winning Summit Session Proposals Workshop
+	recording
+Message-ID: <7491395c01a046499d5b9e8643a34c73@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+
+Folks ?
+This is the latest Women of OpenStack meeting recording.  This was an informative and interesting session on how the Summit Sessions are chosen and how to pick a topic that is of interest to the community and get your talk picked for the next Summit in Boston in May.
+
+How to write a successful talk proposal --  Speakers: Beth Cohen, Lisa-Marie Namphy
+
+  *   Choosing an interesting topic
+
+  *   Writing a winning proposal
+
+  *   Panel or Individual presentation?
+
+  *   The selection process from the other side
+
+  *   I was chosen ? now what?
+
+  *   Creating a compelling presentation
+
+Play recording<https://verizon2.webex.com/verizon2-en/lsr.php?RCID=bf755211ca6a49b4bd2883589a40a410> (49 min 28 sec)
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161212/6b0fc305/attachment-0001.html>
+
+From erin at openstack.org  Wed Dec 14 16:57:59 2016
+From: erin at openstack.org (Erin Disney)
+Date: Wed, 14 Dec 2016 10:57:59 -0600
+Subject: [Women-of-openstack] Call for Presentations NOW OPEN- OpenStack
+	Summit Boston May 2017
+Message-ID: <21BB354E-065A-4378-9B47-A3765D38742F@openstack.org>
+
+Hi Everyone-
+
+The Call for Presentations is NOW OPEN <https://www.openstack.org/summit/boston-2017/call-for-presentations/> for the upcoming OpenStack Summit in Boston, May 8-11th! 
+
+Hurry - the submission deadline is February 6, 2017 at 11:59PM PDT (February 7, 2017 at 6:59 UTC). 
+
+If you are interested in becoming a track chair or nominating a colleague, the details on the selection process and track chair information can be found here <https://www.openstack.org/summit/boston-2017/call-for-presentations/selection-process>. January 18th is the deadline for track chair nominations <https://openstackfoundation.formstack.com/forms/openstack_summit_boston2017_track_chair_nominations>. 
+
+Reminder: Proposed sessions must indicate a format: Panel or presentation. Each format has a maximum number of speakers associated. Panels are allowed a total of four speakers plus one moderator, whereas presentations are limited to two speakers. 
+
+As a reminder, speakers are limited to a maximum of three submissions total. 
+
+Contact speakersupport at openstack.org <mailto:speakersupport at openstack.org> with any submission questions. 
+
+BOSTON REGISTRATION 
+Attendee registration is now open <https://openstacksummit2017boston.eventbrite.com/>. Purchase your discounted early bird passes now. Prices will increase in mid March. 
+
+SPONSORSHIP SALES
+Summit sponsorship sales also opened today, December 14, 2016 at 10:00am CT (16:00 UTC). You can now sign the electronic contract here <https://openstack.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDVm3Ed5_hJ8h7eWGpho7zDrpgXwAGfEEgX-Uq3eziXrwvH8sSfL7DjRiTxEp7zKsU*>. If you plan to sponsor both 2017 OpenStack Summits (Boston in May & Sydney in November), then check out page 4 of the Boston Summit Sponsorship Prospectus <https://www.openstack.org/assets/boston-summit/Boston-Sponsorship-Prospectus.pdf> for a special 15% discount on Sydney Summit sponsorship packages. Please note this only applies to companies who sponsor both the Boston Summit and Sydney Summit. Full details of the sponsorship signing process are outlined here <https://www.openstack.org/summit/boston-2017/sponsors/>. 
+
+If you have any general Summit questions, contact us at summit at openstack.org <mailto:summit at openstack.org>. 
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161214/bd2083a0/attachment.html>
+

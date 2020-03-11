@@ -1,0 +1,92 @@
+From zak@fsf.org  Tue Sep  9 13:49:48 2014
+Return-Path: <zak@fsf.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 434E0760A3
+	for <gnome-women-list@gnome.org>; Tue,  9 Sep 2014 13:49:48 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -9.4
+X-Spam-Level: 
+X-Spam-Status: No, score=-9.4 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-2.499,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id XcyU_BTeTEO4 for <gnome-women-list@gnome.org>;
+	Tue,  9 Sep 2014 13:49:46 +0000 (UTC)
+Received: from mail.fsf.org (mail.fsf.org [208.118.235.13])
+	by restaurant.gnome.org (Postfix) with ESMTP id 6E4C3762A9
+	for <gnome-women-list@gnome.org>; Tue,  9 Sep 2014 13:49:35 +0000 (UTC)
+Received: (helo=montage.office.fsf.org)
+	by mail.fsf.org with esmtpsa (TLS-1.0:DHE_RSA_AES_128_CBC_SHA1:16)
+	(Exim 4.69) (envelope-from <zak@fsf.org>) id 1XRLnZ-00075i-TV
+	for gnome-women-list@gnome.org; Tue, 09 Sep 2014 09:49:34 -0400
+Message-ID: <540F056D.7080509@fsf.org>
+From: Zak Rogoff <zak@fsf.org>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64;
+	rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+X-Enigmail-Version: 1.5.2
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+X-detected-operating-system: by mail.fsf.org: GNU/Linux 3.x
+X-Mailman-Approved-At: Wed, 08 Oct 2014 15:32:52 +0000
+Subject: [gnome-women] Job listing for GNOME Women: Senior Systems
+ Administrator at the Free Software Foundation
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+Date: Tue, 09 Sep 2014 13:49:48 -0000
+X-Original-Date: Tue, 09 Sep 2014 09:49:33 -0400
+X-List-Received-Date: Tue, 09 Sep 2014 13:49:48 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi GNOME Women,
+
+I'm Zak Rogoff, a campaigns manager at the Free Software Foundation.
+We're currently looking for a new senior systems administrator and I
+was wondering if anyone on this list would be interested in the job.
+
+The posting is at
+https://www.fsf.org/news/fsf-seeks-full-time-senior-gnu-linux-systems-administrator-1
+and applications should be sent to hiring@fsf.org as per the
+instructions on that page. Let me know if I can answer any questions.
+
+Thanks!
+
+PS - Please also let me know if there's a better way to advertise this
+listing to GNOME Women. This seemed like the most appropriate channel
+from my exploration of your Web pages.
+- -- 
+Zak Rogoff
+
+Campaigns Manager
+Free Software Foundation
+GnuPG key fingerprint: 6EB2 B137 347E 6F7C DEDC AFF6 82DE 8D64 B509 0AC8
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.11 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://www.enigmail.net/
+
+iQEcBAEBAgAGBQJUDwVsAAoJEILejWS1CQrI8ugIAJpTRolDp1uxJrBdaX5r984q
+WkjKk3JATbprhgJpZACpYkop4b9oDkSMwOt0G3l5ZyVrgQ4sJqeaePCp7u6+NstG
+7sA0PVT0QOqc4vJcWK22lRcdYtQlc//vCi+ERhqNz4XrLX8CEn/vsyeR7kSPf7gb
+vWDb8y9LzUEYWDQ5/xD6YYvGqbKkPiKfgCesO0SVu/bOZnXElUiRoSEjx/qdPGOz
+HtHJtq6o98ngNtovMUIcYuac1lRXy9fx76xRzsAPLomuJGTI3saTry1/CLOJ8eh1
+4puSFDYLLr1AK+fic9dU779WcKC1JdbYWd0LKGxQqTmZkXNbIMPILQZsqoUqStA=
+=ST99
+-----END PGP SIGNATURE-----

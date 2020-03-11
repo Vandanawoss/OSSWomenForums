@@ -1,0 +1,609 @@
+From marinaz@redhat.com  Tue Jul 20 04:07:20 2010
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 834BE7500EB
+	for <gnome-women-list@gnome.org>; Tue, 20 Jul 2010 04:07:19 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -4.211
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.211 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id XRm4bfvDzliv for <gnome-women-list@gnome.org>;
+	Tue, 20 Jul 2010 04:07:08 +0000 (UTC)
+Received: from mx01.colomx.prod.int.phx2.redhat.com (mx3-phx2.redhat.com
+	[209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id 2B9E3750127
+	for <gnome-women-list@gnome.org>; Tue, 20 Jul 2010 04:06:58 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx01.colomx.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP id
+	o6K46vhr005058
+	for <gnome-women-list@gnome.org>; Tue, 20 Jul 2010 00:06:57 -0400
+Date: Tue, 20 Jul 2010 00:06:56 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <1689368871.709781279598816754.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <1984491482.709661279598701374.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.41]
+X-Mailer: Zimbra 5.0.21_GA_3150.RHEL4_64 (ZimbraWebClient - FF3.0
+	(Linux)/5.0.21_GA_3150.RHEL4_64)
+Subject: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Jul 2010 04:07:24 -0000
+
+Hi all!
+
+It=E2=80=99d be great to have a women=E2=80=99s dinner at GUADEC so that we=
+ can all meet each other and share some ideas and experiences! It=E2=80=99s=
+ best to have it in the beginning of the conference, so that we all already=
+ know each other through the rest of the week. So far I found a restaurant =
+called Rootz and made a reservation there for Tuesday, July 27 at 7pm for a=
+ group of 10-15 people [1] [2].
+
+They can seat us in the quietest area of the restaurant or on the terrace i=
+f the weather is nice. It is located in the city center - 25 minutes walk f=
+rom the conference venue and 7 minutes walk from the Mercure Hotel, where p=
+eople sponsored by the foundation are staying [3].
+
+Can you *please let me know if you can make it* as soon as possible, so tha=
+t I have an accurate idea about how many people we=E2=80=99ll have. I=E2=80=
+=99m open to other restaurant suggestions if people know places that would =
+work better.
+
+Look forward to meeting some of you in a week!
+Marina
+
+[1] http://www.rootz.nl
+[2] http://www.iens.nl/restaurant/4004
+[3] http://maps.google.com/maps?f=3Dd&source=3Ds_d&saddr=3DJohanna+Westerdi=
+jkplein+75+2521+EN,+The+Hague+The+Netherlands%E2%80%8E&daddr=3DGrote+Markts=
+traat+14+2511+BJ+%27s-Gravenhage+The+Hague+The+Netherlands%E2%80%8E&dirflg=
+=3Dw
+From stormy.peters@gmail.com  Tue Jul 20 16:37:56 2010
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 55A367500B8
+	for <gnome-women-list@gnome.org>; Tue, 20 Jul 2010 16:37:56 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.899
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.899 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1Pd4qrstO1O0 for <gnome-women-list@gnome.org>;
+	Tue, 20 Jul 2010 16:37:51 +0000 (UTC)
+Received: from mail-vw0-f54.google.com (mail-vw0-f54.google.com
+	[209.85.212.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 3271F75009F
+	for <gnome-women-list@gnome.org>; Tue, 20 Jul 2010 16:37:40 +0000 (UTC)
+Received: by vws19 with SMTP id 19so8306754vws.27
+	for <gnome-women-list@gnome.org>; Tue, 20 Jul 2010 09:37:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:sender:received
+	:in-reply-to:references:date:x-google-sender-auth:message-id:subject
+	:from:to:cc:content-type;
+	bh=YNrIeyE6Bx/iZdMNqA36xzGL7Lqev5soPbmo0cucVms=;
+	b=Ie6Fyz5FKuwoYBrKN/XHzqhxPBOzNOGLlcWZx9r6Hpq3XF2736HBjH6w9INqKf69YH
+	rPRV03Gw8184U4RAIhzaU0nrwcRURzkREJvjJHHCDp/UYYRPRWa3x9wpn3xL+LgWf7Dr
+	orwDyDW0Z80H0t21hHXp9B2WmcrOIGjNU3M9U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:in-reply-to:references:date
+	:x-google-sender-auth:message-id:subject:from:to:cc:content-type;
+	b=R/ACsZF3ELdQ84NzbV5wUTLwgi0EgZ+pvztBGkiq+lHofc7HUjpq3YcSTSg6RRHpOw
+	Vc4yOd0M9dQzh3DZpk4z8TZHyE8wC4+cAQisJzpqvKamsfQKw8g+YM6bBsqEo2QIPivD
+	wip7WGsUzQHK4QiXHuJeeCOx8xqO+2rFd3GCE=
+MIME-Version: 1.0
+Received: by 10.224.36.209 with SMTP id u17mr5846824qad.328.1279643858440; 
+	Tue, 20 Jul 2010 09:37:38 -0700 (PDT)
+Sender: stormy.peters@gmail.com
+Received: by 10.229.226.134 with HTTP; Tue, 20 Jul 2010 09:37:38 -0700 (PDT)
+In-Reply-To: <1689368871.709781279598816754.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <1984491482.709661279598701374.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<1689368871.709781279598816754.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Tue, 20 Jul 2010 10:37:38 -0600
+X-Google-Sender-Auth: RrtR2Y-Gadexacp5ABE7VLm5YCg
+Message-ID: <AANLkTil9zzwre4aZpYKoykqqMUDnEi5aBOjaAvKA1_kA@mail.gmail.com>
+From: Stormy Peters <stormy@gnome.org>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=0015175caf7c9f15b2048bd44d2a
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Jul 2010 16:37:56 -0000
+
+--0015175caf7c9f15b2048bd44d2a
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+I will be there!
+
+Stormy
+
+On Mon, Jul 19, 2010 at 10:06 PM, Marina Zhurakhinskaya
+<marinaz@redhat.com>wrote:
+
+> Hi all!
+>
+> It=92d be great to have a women=92s dinner at GUADEC so that we can all m=
+eet
+> each other and share some ideas and experiences! It=92s best to have it i=
+n the
+> beginning of the conference, so that we all already know each other throu=
+gh
+> the rest of the week. So far I found a restaurant called Rootz and made a
+> reservation there for Tuesday, July 27 at 7pm for a group of 10-15 people
+> [1] [2].
+>
+> They can seat us in the quietest area of the restaurant or on the terrace
+> if the weather is nice. It is located in the city center - 25 minutes wal=
+k
+> from the conference venue and 7 minutes walk from the Mercure Hotel, wher=
+e
+> people sponsored by the foundation are staying [3].
+>
+> Can you *please let me know if you can make it* as soon as possible, so
+> that I have an accurate idea about how many people we=92ll have. I=92m op=
+en to
+> other restaurant suggestions if people know places that would work better=
+.
+>
+> Look forward to meeting some of you in a week!
+> Marina
+>
+> [1] http://www.rootz.nl
+> [2] http://www.iens.nl/restaurant/4004
+> [3]
+> http://maps.google.com/maps?f=3Dd&source=3Ds_d&saddr=3DJohanna+Westerdijk=
+plein+75+2521+EN,+The+Hague+The+Netherlands%E2%80%8E&daddr=3DGrote+Marktstr=
+aat+14+2511+BJ+%27s-Gravenhage+The+Hague+The+Netherlands%E2%80%8E&dirflg=3D=
+w
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+--0015175caf7c9f15b2048bd44d2a
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+I will be there!<br><br>Stormy<br><br><div class=3D"gmail_quote">On Mon, Ju=
+l 19, 2010 at 10:06 PM, Marina Zhurakhinskaya <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:marinaz@redhat.com">marinaz@redhat.com</a>&gt;</span> wrote:<br>=
+<blockquote class=3D"gmail_quote" style=3D"margin: 0pt 0pt 0pt 0.8ex; borde=
+r-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;">
+Hi all!<br>
+<br>
+It=92d be great to have a women=92s dinner at GUADEC so that we can all mee=
+t each other and share some ideas and experiences! It=92s best to have it i=
+n the beginning of the conference, so that we all already know each other t=
+hrough the rest of the week. So far I found a restaurant called Rootz and m=
+ade a reservation there for Tuesday, July 27 at 7pm for a group of 10-15 pe=
+ople [1] [2].<br>
+
+<br>
+They can seat us in the quietest area of the restaurant or on the terrace i=
+f the weather is nice. It is located in the city center - 25 minutes walk f=
+rom the conference venue and 7 minutes walk from the Mercure Hotel, where p=
+eople sponsored by the foundation are staying [3].<br>
+
+<br>
+Can you *please let me know if you can make it* as soon as possible, so tha=
+t I have an accurate idea about how many people we=92ll have. I=92m open to=
+ other restaurant suggestions if people know places that would work better.=
+<br>
+
+<br>
+Look forward to meeting some of you in a week!<br>
+Marina<br>
+<br>
+[1] <a href=3D"http://www.rootz.nl" target=3D"_blank">http://www.rootz.nl</=
+a><br>
+[2] <a href=3D"http://www.iens.nl/restaurant/4004" target=3D"_blank">http:/=
+/www.iens.nl/restaurant/4004</a><br>
+[3] <a href=3D"http://maps.google.com/maps?f=3Dd&amp;source=3Ds_d&amp;saddr=
+=3DJohanna+Westerdijkplein+75+2521+EN,+The+Hague+The+Netherlands%E2%80%8E&a=
+mp;daddr=3DGrote+Marktstraat+14+2511+BJ+%27s-Gravenhage+The+Hague+The+Nethe=
+rlands%E2%80%8E&amp;dirflg=3Dw" target=3D"_blank">http://maps.google.com/ma=
+ps?f=3Dd&amp;source=3Ds_d&amp;saddr=3DJohanna+Westerdijkplein+75+2521+EN,+T=
+he+Hague+The+Netherlands%E2%80%8E&amp;daddr=3DGrote+Marktstraat+14+2511+BJ+=
+%27s-Gravenhage+The+Hague+The+Netherlands%E2%80%8E&amp;dirflg=3Dw</a><br>
+
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a></bl=
+ockquote></div><br>
+
+--0015175caf7c9f15b2048bd44d2a--
+From rosannayuen@gmail.com  Wed Jul 21 07:26:32 2010
+Return-Path: <rosannayuen@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 498257500DE
+	for <gnome-women-list@gnome.org>; Wed, 21 Jul 2010 07:26:32 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.9
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aSJe1n31C3pt for <gnome-women-list@gnome.org>;
+	Wed, 21 Jul 2010 07:26:30 +0000 (UTC)
+Received: from mail-ew0-f54.google.com (mail-ew0-f54.google.com
+	[209.85.215.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 953F375008A
+	for <gnome-women-list@gnome.org>; Wed, 21 Jul 2010 07:26:20 +0000 (UTC)
+Received: by ewy26 with SMTP id 26so2733434ewy.27
+	for <gnome-women-list@gnome.org>; Wed, 21 Jul 2010 00:26:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:received:received:sender:subject:from:to:cc
+	:in-reply-to:references:content-type:date:message-id:mime-version
+	:x-mailer:content-transfer-encoding;
+	bh=dnSZNqB4R8hzM0IZRwfvfi+Fc28TADmGFrqedOTjfzg=;
+	b=WP05p1nmrTy7kxEl8WcQA2sjEWQ3S9pUpRHjAwNrp0EEscBtEpz3emKtWwojkYD/IC
+	iU2KsCRiGQyla6M2LVYBqpE3OJltzinK/cDwPxfg5RUuPzJvw96oki6Zx7X26qTlGIjU
+	2TSEGKfZQCpiq9rlWFz2QADPCM2HzdKXAOHSA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=sender:subject:from:to:cc:in-reply-to:references:content-type:date
+	:message-id:mime-version:x-mailer:content-transfer-encoding;
+	b=qP56wOAiFjsphWHO5cw/g4nG878ZLSP9xpJRfXrrQnpE+NYMiKw7RbgMI4QXvTEAYP
+	/AZlI8OJqfC3STsrAzNwZuwWR+8NrGJ9mZi/OkoPeUs8sYZF5l4zsZcfbIpit0L5NBSb
+	yydSia9cRLzIRkw8+voaoJTA7UhIfHG5l7Yw0=
+Received: by 10.213.3.83 with SMTP id 19mr1736991ebm.79.1279697178538;
+	Wed, 21 Jul 2010 00:26:18 -0700 (PDT)
+Received: from [172.31.16.128] ([62.25.60.52])
+	by mx.google.com with ESMTPS id v59sm52907030eeh.22.2010.07.21.00.26.17
+	(version=SSLv3 cipher=RC4-MD5); Wed, 21 Jul 2010 00:26:17 -0700 (PDT)
+Sender: Rosanna Yuen <rosannayuen@gmail.com>
+From: Rosanna Yuen <zana@webwynk.net>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+In-Reply-To: <1689368871.709781279598816754.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <1689368871.709781279598816754.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Content-Type: text/plain; charset="UTF-8"
+Date: Wed, 21 Jul 2010 03:31:05 -0400
+Message-ID: <1279697465.2238.20.camel@inspired>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.30.2 (2.30.2-1.fc13)
+Content-Transfer-Encoding: 8bit
+X-Mailman-Approved-At: Wed, 21 Jul 2010 07:40:25 +0000
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 21 Jul 2010 07:26:32 -0000
+
+I'd love to go if there is still room!  Thanks for arranging it.
+
+Rosanna
+
+On Tue, 2010-07-20 at 00:06 -0400, Marina Zhurakhinskaya wrote:
+> Hi all!
+> 
+> It’d be great to have a women’s dinner at GUADEC so that we can all meet each other and share some ideas and experiences! It’s best to have it in the beginning of the conference, so that we all already know each other through the rest of the week. So far I found a restaurant called Rootz and made a reservation there for Tuesday, July 27 at 7pm for a group of 10-15 people [1] [2].
+> 
+> They can seat us in the quietest area of the restaurant or on the terrace if the weather is nice. It is located in the city center - 25 minutes walk from the conference venue and 7 minutes walk from the Mercure Hotel, where people sponsored by the foundation are staying [3].
+> 
+> Can you *please let me know if you can make it* as soon as possible, so that I have an accurate idea about how many people we’ll have. I’m open to other restaurant suggestions if people know places that would work better.
+> 
+> Look forward to meeting some of you in a week!
+> Marina
+> 
+> [1] http://www.rootz.nl
+> [2] http://www.iens.nl/restaurant/4004
+> [3] http://maps.google.com/maps?f=d&source=s_d&saddr=Johanna+Westerdijkplein+75+2521+EN,+The+Hague+The+Netherlands%E2%80%8E&daddr=Grote+Marktstraat+14+2511+BJ+%27s-Gravenhage+The+Hague+The+Netherlands%E2%80%8E&dirflg=w
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+
+From marinaz@redhat.com  Wed Jul 21 07:45:21 2010
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 28B427500C2
+	for <gnome-women-list@gnome.org>; Wed, 21 Jul 2010 07:45:21 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -4.211
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.211 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1U9tHIwZCHLL for <gnome-women-list@gnome.org>;
+	Wed, 21 Jul 2010 07:45:18 +0000 (UTC)
+Received: from mx02.colomx.prod.int.phx2.redhat.com (mx4-phx2.redhat.com
+	[209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 2DB84750092
+	for <gnome-women-list@gnome.org>; Wed, 21 Jul 2010 07:45:09 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx02.colomx.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP id
+	o6L7j8S5003336; Wed, 21 Jul 2010 03:45:08 -0400
+Date: Wed, 21 Jul 2010 03:45:08 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Rosanna Yuen <zana@webwynk.net>
+Message-ID: <1495664879.24881279698308543.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <1279697465.2238.20.camel@inspired>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.41]
+X-Mailer: Zimbra 5.0.21_GA_3150.RHEL4_64 (ZimbraWebClient - FF3.0
+	(Linux)/5.0.21_GA_3150.RHEL4_64)
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 21 Jul 2010 07:45:21 -0000
+
+Great! Of course there is still room. 10-15 people was just my guess for ho=
+w many people we'll have. We'll make sure there is room for as many people =
+as want to join. So far we had 7 people confirm they will come.
+
+Marina
+
+----- Original Message -----
+From: "Rosanna Yuen" <zana@webwynk.net>
+To: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+Cc: "gnome-women-list" <gnome-women-list@gnome.org>
+Sent: Wednesday, July 21, 2010 3:31:05 AM GMT -05:00 US/Canada Eastern
+Subject: Re: [gnome-women] women's dinner at GUADEC
+
+I'd love to go if there is still room!  Thanks for arranging it.
+
+Rosanna
+
+On Tue, 2010-07-20 at 00:06 -0400, Marina Zhurakhinskaya wrote:
+> Hi all!
+>=20
+> It=E2=80=99d be great to have a women=E2=80=99s dinner at GUADEC so that =
+we can all meet each other and share some ideas and experiences! It=E2=80=
+=99s best to have it in the beginning of the conference, so that we all alr=
+eady know each other through the rest of the week. So far I found a restaur=
+ant called Rootz and made a reservation there for Tuesday, July 27 at 7pm f=
+or a group of 10-15 people [1] [2].
+>=20
+> They can seat us in the quietest area of the restaurant or on the terrace=
+ if the weather is nice. It is located in the city center - 25 minutes walk=
+ from the conference venue and 7 minutes walk from the Mercure Hotel, where=
+ people sponsored by the foundation are staying [3].
+>=20
+> Can you *please let me know if you can make it* as soon as possible, so t=
+hat I have an accurate idea about how many people we=E2=80=99ll have. I=E2=
+=80=99m open to other restaurant suggestions if people know places that wou=
+ld work better.
+>=20
+> Look forward to meeting some of you in a week!
+> Marina
+>=20
+> [1] http://www.rootz.nl
+> [2] http://www.iens.nl/restaurant/4004
+> [3] http://maps.google.com/maps?f=3Dd&source=3Ds_d&saddr=3DJohanna+Wester=
+dijkplein+75+2521+EN,+The+Hague+The+Netherlands%E2%80%8E&daddr=3DGrote+Mark=
+tstraat+14+2511+BJ+%27s-Gravenhage+The+Hague+The+Netherlands%E2%80%8E&dirfl=
+g=3Dw
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+
+From libin.charles@gmail.com  Sun Jul 25 08:32:12 2010
+Return-Path: <libin.charles@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D08BD7500DD;
+	Sun, 25 Jul 2010 08:32:12 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2
+X-Spam-Level: 
+X-Spam-Status: No, score=-2 tagged_above=-999 required=2 tests=[BAYES_00=-1.9, 
+	DKIM_SIGNED=0.1, DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1,
+	FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 53HzQA7SMxR9; Sun, 25 Jul 2010 08:32:09 +0000 (UTC)
+Received: from mail-vw0-f54.google.com (mail-vw0-f54.google.com
+	[209.85.212.54])
+	by menubar.gnome.org (Postfix) with ESMTP id D5ADB750087;
+	Sun, 25 Jul 2010 08:31:57 +0000 (UTC)
+Received: by vws7 with SMTP id 7so2072356vws.27
+	for <multiple recipients>; Sun, 25 Jul 2010 01:31:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:received:date:message-id
+	:subject:from:to:cc:content-type:content-transfer-encoding;
+	bh=9Fh8ETdL/dBcFahuU8cNsiovVF1mNvyHybJrX8b4VbE=;
+	b=x0dEwvThH67BxhKSOyu7xU1n8LK90DSZsDBQdhEEn0wRPjJUb5jOGe4Xnpu/Hf+saZ
+	TBH3LOda3V83ALUKh/JoymwUm3Mlw897HWuH3xIiJrfzV5Oy534IPRBdo9fjdodPS1V4
+	K1CBDt/oPqWRNR4eLyml2xfva0+ex3RKYP3tw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:date:message-id:subject:from:to:cc:content-type
+	:content-transfer-encoding;
+	b=D6xJrCaFuWo3JIvKE0eleqUe1CewkXlUs2QMjDicURDU/zUkW3zgKiMOCODgkD4o6i
+	OPFYp/+bfnwO84/OmLAnFu3xIZO4dxfTUpAgMCZxdH1o2GTehLKHpUSNy1P4hfJVqEac
+	K/ef+2ed6lxHycwJ/tJ+rvFhxCAYvGdXQ9iJE=
+MIME-Version: 1.0
+Received: by 10.220.62.136 with SMTP id x8mr3214942vch.150.1280046715621; Sun, 
+	25 Jul 2010 01:31:55 -0700 (PDT)
+Received: by 10.220.177.135 with HTTP; Sun, 25 Jul 2010 01:31:55 -0700 (PDT)
+Date: Sun, 25 Jul 2010 16:31:55 +0800
+Message-ID: <AANLkTimSNBJuafNhXh-9euuiEkNq1fv8ynfnLcoADVsO@mail.gmail.com>
+From: Bin Li <libin.charles@gmail.com>
+To: =?ISO-8859-1?B?R2VybeFuIFDzby1DYWFtYfFv?= <gpoo@gnome.org>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailman-Approved-At: Mon, 26 Jul 2010 10:06:17 +0000
+Cc: guadec-list@gnome.org, gnome-women-list@gnome.org,
+	foundation-list@gnome.org
+Subject: [gnome-women] The abstract of BinLi's talk in GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 25 Jul 2010 08:32:13 -0000
+
+Hi,
+
+ I got my visa late, so I hope it's not too late for my talk. I'll
+arrived at 17:00 on Jul 27th. And my talk's abstract in below. Thanks
+for your time.
+
+Let NetworkManager get more security with PolicyKit
+
+Some of topics were also be covered:
+1) PolicyKit and PolicyKit in NetworkManager.
+2) Provide a simple demo which is let the NetworkManager's VPN
+connections more security.
+3) You'll also learn about OpenSUSE buildservice usage, it'll show you
+how to be GNOME developer in openSUSE from the demo.
+
+This talk will be fun for everyone but will be particularity targeted
+at the new developer of GNOME.
+
+
+On Tue, Apr 13, 2010 at 9:50 AM, Germ=E1n P=F3o-Caama=F1o <gpoo@gnome.org> =
+wrote:
+> Dear hackers,
+>
+> The GNOME Foundation provides travel sponsorships to individuals
+> that want to attend GUADEC and need financial assistance.
+>
+> We are happy to announce the Travel Committee is ready to receive
+> applications for sponsorships to attend to GUADEC 2010. =A0This year,
+> GUADEC is being held in the The Hague University, in The Hague,
+> Netherlands, from Monday 26th July, until Friday 30th July.
+>
+> The instructions are detailed at http://live.gnome.org/Travel
+> Please read them carefully.
+>
+> Deadline: April 27, 2009, 19:00 UTC. =A0You can start sending
+> your applications now!
+>
+> Some additional comments:
+> * Any information you send to the Travel Committee will be private.
+> * Asking for sponsorship *does not* guarantee you will get sponsored.
+> * A good application with good information will be processed faster.
+> * If you need help with accommodation, the Travel Committee will book
+> =A0the hotel or hostel for you. This enables us to get group rates and
+> =A0provide accommodation assistance to the most people possible.
+> =A0You should state that you need accommodation, and leave the cost
+> =A0blank.
+> * Always choose the most economical option whenever possible. =A0People w=
+ho
+> =A0need travel sponsorship, should look for the best price
+> =A0(i.e. through a service like kayak.com). =A0If the Travel Committee
+> =A0finds a cheaper price, that will be the price considered during the
+> =A0evaluation.
+> * If you are applying to a Google Summer of Code program (as student
+> =A0or mentor) you should mention it in your application. Preference will
+> =A0be given to students and mentors participating in the Google Summer
+> =A0of Code or the Outreach Program for Women.
+> =A0GSoC students usually get a percentage of their GUADEC expenses
+> =A0covered.
+> * If you submitted an abstract to be presented at GUADEC, you should
+> =A0mention it in your application. =A0Preference will be given to people
+> =A0giving presentations at GUADEC.
+> =A0The GUADEC paper committee will let the travel committee know which
+> =A0talks have been accepted, so as long as you let us know you submitted
+> =A0one, there is no need to follow up.
+> * The Travel committee should reply back about receiving your
+> =A0application within 2-3 days. After that we would accumulate all the
+> =A0sponsorship requests and process them together. So please do not panic
+> =A0(have any butterflies in your stomach) if we take some time to reply o=
+n
+> =A0the status. Affirmative/Negative you would surely get a response.
+> * No personal emails. Please keep travel-committee Cc'ed on all your
+> =A0replies.
+>
+> You can find us in the #travel channel at irc.gnome.org.
+>
+> Kind regards,
+>
+> --
+> Germ=E1n P=F3o-Caama=F1o
+> Concepci=F3n - Chile
+> http://www.gnome.org/~gpoo/
+>
+> _______________________________________________
+> desktop-devel-list mailing list
+> desktop-devel-list@gnome.org
+> http://mail.gnome.org/mailman/listinfo/desktop-devel-list
+>

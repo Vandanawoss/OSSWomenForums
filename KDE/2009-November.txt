@@ -1,0 +1,177 @@
+From reldruh at gmail.com  Tue Nov  3 07:32:51 2009
+From: reldruh at gmail.com (Aaron Reichman)
+Date: Mon, 2 Nov 2009 22:32:51 -0800
+Subject: [Kde-women] website
+Message-ID: <fe0dc12b0911022232m4e008d45gcf218e8225f08e7d@mail.gmail.com>
+
+Text for review:
+-------------------------------------------------------
+KDE-women is a group of women in the KDE community. We are here to
+help increase the number of women in Open Source and to support each
+other. KDE is an friendly and open community and one of the Open
+Source projects with the highest rate of female contributors. It
+strives through its diversity.
+
+A couple of grammatical things I noticed in the previous paragraph: I
+think that "KDE is a friendly and open community..." is more correct
+than "KDE is an friendly and open community..." Also, "It strives for
+diversity" might make more sense than striving through diversity. Hope
+that helps.
+
+Some of the things we do:
+- helping find women find the right place for them to contribute
+- encourage women to give talks at conferences like Akademy, the
+annual KDE conference
+- provide support in difficult situations
+
+and most importantly we make KDE rock more each day ;-)
+
+
+To contact us please join our mailinglist at
+http://mail.kde.org/mailman/listinfo/kde-women
+
+
+Read our blogs to find out what some of us are doing in KDE:
+<list of links to blogs here>
+
+From valorie.zimmerman at gmail.com  Sun Nov 15 10:32:47 2009
+From: valorie.zimmerman at gmail.com (Valorie Zimmerman)
+Date: Sun, 15 Nov 2009 01:32:47 -0800
+Subject: [Kde-women] website
+In-Reply-To: <fe0dc12b0911022232m4e008d45gcf218e8225f08e7d@mail.gmail.com>
+References: <fe0dc12b0911022232m4e008d45gcf218e8225f08e7d@mail.gmail.com>
+Message-ID: <3081c4410911150132l1ef5f51bg1241fd3361889baf@mail.gmail.com>
+
+On Mon, Nov 2, 2009 at 10:32 PM, Aaron Reichman <reldruh at gmail.com> wrote:
+> Text for review:
+> -------------------------------------------------------
+> KDE-women is a group of women in the KDE community. We are here to
+> help increase the number of women in Open Source and to support each
+> other. KDE is an friendly and open community and one of the Open
+> Source projects with the highest rate of female contributors. It
+> strives through its diversity.
+>
+> A couple of grammatical things I noticed in the previous paragraph: I
+> think that "KDE is a friendly and open community..." is more correct
+> than "KDE is an friendly and open community..." Also, "It strives for
+> diversity" might make more sense than striving through diversity. Hope
+> that helps.
+
+In my opinion, Aaron's edits make the above text better.
+
+> Some of the things we do:
+> - helping find women find the right place for them to contribute
+
+This should read: help women find the right place to contribute
+
+> - encourage women to give talks at conferences like Akademy, the
+> annual KDE conference
+
+....such as Akademy.....
+
+> - provide support in difficult situations
+
+How about "provide mutual support"
+
+> and most importantly we make KDE rock more each day ;-)
+
+-- 
+New! http://genealogy-uki.linkpendium.com/
+Facebook, Twitter, LinkedIn, Delicious: valoriez .
+All my pages: http://valorie.zimmerman.googlepages.com
+
+From lydia at kde.org  Sun Nov 22 17:19:29 2009
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sun, 22 Nov 2009 17:19:29 +0100
+Subject: [Kde-women] website
+In-Reply-To: <3081c4410911150132l1ef5f51bg1241fd3361889baf@mail.gmail.com>
+References: <fe0dc12b0911022232m4e008d45gcf218e8225f08e7d@mail.gmail.com> 
+	<3081c4410911150132l1ef5f51bg1241fd3361889baf@mail.gmail.com>
+Message-ID: <938b46780911220819k485b93ecx23bdfa08e85a5efe@mail.gmail.com>
+
+Thanks folks :)
+
+http://community.kde.org/KDE_Women is now up and running. I will ask
+sysadmin to redirect women.kde.org there in a minute.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+Amarok community manager
+kde.org - amarok.kde.org - kubuntu.org
+claimid.com/nightrose
+
+From valorie.zimmerman at gmail.com  Mon Nov 23 02:11:35 2009
+From: valorie.zimmerman at gmail.com (Valorie Zimmerman)
+Date: Sun, 22 Nov 2009 17:11:35 -0800
+Subject: [Kde-women] website
+In-Reply-To: <938b46780911220819k485b93ecx23bdfa08e85a5efe@mail.gmail.com>
+References: <fe0dc12b0911022232m4e008d45gcf218e8225f08e7d@mail.gmail.com> 
+	<3081c4410911150132l1ef5f51bg1241fd3361889baf@mail.gmail.com> 
+	<938b46780911220819k485b93ecx23bdfa08e85a5efe@mail.gmail.com>
+Message-ID: <3081c4410911221711m3620991fn1ad6af524edcbaa3@mail.gmail.com>
+
+On Sun, Nov 22, 2009 at 8:19 AM, Lydia Pintscher <lydia at kde.org> wrote:
+> Thanks folks :)
+>
+> http://community.kde.org/KDE_Women is now up and running. I will ask
+> sysadmin to redirect women.kde.org there in a minute.
+>
+>
+> Cheers
+> Lydia
+
+
+Looking good! The sentences "KDE is a friendly and open community and
+one of the Open Source projects with the highest rate of female
+contributors. It strives through its diversity." -- the last bit still
+troubles me.
+
+Do we mean, Diversity makes our project rock. Or, Diversity makes our
+project shiny / awesome / amazing. "It strives through its diversity"
+just doesn't quite hit the nail on the head.
+
+My two lil cents,
+
+Valorie
+-- 
+New! http://genealogy-uki.linkpendium.com/
+Facebook, Twitter, LinkedIn, Delicious: valoriez .
+All my pages: http://valorie.zimmerman.googlepages.com
+
+From lydia at kde.org  Mon Nov 23 09:45:48 2009
+From: lydia at kde.org (Lydia Pintscher)
+Date: Mon, 23 Nov 2009 09:45:48 +0100
+Subject: [Kde-women] website
+In-Reply-To: <3081c4410911221711m3620991fn1ad6af524edcbaa3@mail.gmail.com>
+References: <fe0dc12b0911022232m4e008d45gcf218e8225f08e7d@mail.gmail.com> 
+	<3081c4410911150132l1ef5f51bg1241fd3361889baf@mail.gmail.com> 
+	<938b46780911220819k485b93ecx23bdfa08e85a5efe@mail.gmail.com> 
+	<3081c4410911221711m3620991fn1ad6af524edcbaa3@mail.gmail.com>
+Message-ID: <938b46780911230045lb277392lb463d7911e425fe4@mail.gmail.com>
+
+> Looking good! The sentences "KDE is a friendly and open community and
+> one of the Open Source projects with the highest rate of female
+> contributors. It strives through its diversity." -- the last bit still
+> troubles me.
+>
+> Do we mean, Diversity makes our project rock. Or, Diversity makes our
+> project shiny / awesome / amazing. "It strives through its diversity"
+> just doesn't quite hit the nail on the head.
+
+I am not sure I can tell the difference between those two. But feel
+free to edit the wiki page to make it clearer.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+Amarok community manager
+kde.org - amarok.kde.org - kubuntu.org
+claimid.com/nightrose
+

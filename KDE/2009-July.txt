@@ -1,0 +1,59 @@
+From lydia at kde.org  Sat Jul 11 22:26:55 2009
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sat, 11 Jul 2009 22:26:55 +0200
+Subject: [Kde-women] website
+In-Reply-To: <938b46780906300226u5a4fca7j69abfb1fa19f9cff@mail.gmail.com>
+References: <938b46780906280645x6f60f1ay2a051f9b469878d6@mail.gmail.com> 
+	<200906291852.22410.eva.brucherseifer@basyskom.de>
+	<200906291955.44172.annemarie.mahfouf@free.fr> 
+	<938b46780906291503i7908e7d1ge4435d2a55306495@mail.gmail.com> 
+	<1cba9b420906300217g5d17fbdfj1a22b12069d15632@mail.gmail.com> 
+	<938b46780906300226u5a4fca7j69abfb1fa19f9cff@mail.gmail.com>
+Message-ID: <938b46780907111326y2f321251k1a3b444ffb826c3b@mail.gmail.com>
+
+Heya :)
+
+two weeks are over now and I finally got around to writing the text
+for the wiki page. I'm not too creative today so please let me know if
+you have improvements or a better text.
+Is there anything you want to migrate from the current website to the
+wiki? Please let me know asap. I will ask sysadmin on Monday to
+redirect women.kde.org to the wiki. Not sure when they will get to it.
+
+
+Cheers
+Lydia
+
+
+Text for review:
+-------------------------------------------------------
+KDE-women is a group of women in the KDE community. We are here to
+help increase the number of women in Open Source and to support each
+other. KDE is an friendly and open community and one of the Open
+Source projects with the highest rate of female contributors. It
+strives through its diversity.
+
+
+Some of the things we do:
+- helping find women find the right place for them to contribute
+- encourage women to give talks at conferences like Akademy, the
+annual KDE conference
+- provide support in difficult situations
+
+and most importantly we make KDE rock more each day ;-)
+
+
+To contact us please join our mailinglist at
+http://mail.kde.org/mailman/listinfo/kde-women
+
+
+Read our blogs to find out what some of us are doing in KDE:
+<list of links to blogs here>
+-------------------------------------------------------
+
+-- 
+Lydia Pintscher
+Amarok community manager
+kde.org - amarok.kde.org - kubuntu.org
+claimid.com/nightrose
+

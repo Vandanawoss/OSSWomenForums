@@ -1,0 +1,158 @@
+From frauke at frsv.de  Fri Aug  1 22:14:46 2003
+From: frauke at frsv.de (Frauke Oster)
+Date: Fri Aug  1 21:14:36 2003
+Subject: [Kde-women]Women.KDE.org
+Message-ID: <200308012114.52803.frauke@frsv.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi every woman!
+ 
+I don't know all of you and not all of you know me, so I will first introduce
+myself and tell you a bit about me and the goal I want to achieve.
+I am Frauke (19 years old) and started working on KDE some months ago. I am
+learning C++ and QT and code on Kivio and everything I find to do. I had a
+look at the website women.kde.org as I started at KDE to see if there are
+other women than me, who try to support KDE in every way they can.
+Unfortunately the website is a bit old...I think from 2001 and that this is
+very sad in my opinion. There isn't much traffic on the mailinglist for women
+and in the irc channel either (at the moment I am the only woman in the
+channel).
+ 
+So now I want to try to get the whole women-kde-community alive again. I
+would like to port the old website to the new KDE style and give it a
+special feeling with the help of Katie the dragoness. I want to see the
+website more up-to-date too.
+
+Because of this goal I am writing every woman, that I found in the KDE
+channels, the list of cvs accounts and on the old website. Maybe you are all
+still interested in KDE or still working at it ( I hope so :) and would like
+to see women.kde.org back alive too. I think it would be very wonderful to
+see you all involved in KDE and maybe active in the women project.
+ 
+I will start my studies at university at the end of september and want to use
+the time until then to port the website. I am sure it will be a lot of work
+to do so, but I am happy to do so. Moreover I would be glad, if some other
+women would help me. So if you are interested in porting the site or writing
+new articles, tutorials, tipps and tricks, or you have new ideas for the
+site, it would be really cool if you would contact me. It would also be cool
+to see all female faces from KDE on the site. Therefore I would need the
+following things from all of you:
+ 
+A picture, name, nickname (irc), city and country, work, hobbies and your
+part in KDE. If you have questions about that, please ask me.
+I think that is all for now...I just want to say that I hope we'll have a lot
+of fun at women.kde.org.
+ 
+If you don't want to be introduced at the website or don't want to get any
+further mails, please send me a short e-mail.
+ 
+Yours,
+ 
+- -- 
+Frauke Oster
+KDE/Kivio Developer
+ 
+frauke@frsv.de
+ 
+You can also meet me on irc. My nick is frauke. You should find me on the
+#kde-women channel. :)
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.2-rc1-SuSE (GNU/Linux)
+
+iD8DBQE/KrwrYW/cUpC8Z+wRAm4PAJ9xZQkZKL1fICXMmMhhawYGQKAjJwCfebHx
+qWtYx+uARC4kZ16XOFQRPaA=
+=8/aE
+-----END PGP SIGNATURE-----
+From navindra at cs.mcgill.ca  Mon Aug 25 16:19:04 2003
+From: navindra at cs.mcgill.ca (Navindra Umanee)
+Date: Mon Aug 25 21:19:34 2003
+Subject: [Kde-women]Re: [dot-notify] KDE-Women back alive
+In-Reply-To: <20030825184645.9ABF46B069@dot.kde.org>;
+	from bounce@kdenews.org on Mon, Aug 25, 2003 at 08:46:45PM +0200
+References: <20030825184645.9ABF46B069@dot.kde.org>
+Message-ID: <20030825151904.A18534@cs.mcgill.ca>
+
+bounce@kdenews.org <bounce@kdenews.org> wrote:
+> Requires Moderation: http://dot.kde.org/1061837201
+> 
+> The message contents are as follows:  
+> 
+> Subject: KDE-Women back alive  
+> From: Frauke Oster <frauke.oster@gmx.net>  
+> Date: Monday 25/Aug/2003, @20:46   
+
+Hi Frauke,
+
+Thanks a lot for your work on women.kde.org and for your article
+submission to the dot.
+
+Everyone on KDE-Women okay with this announcement?  As usual you
+should probably expect a lot of feedback -- some of it negative!  :-)
+
+So if you give the go-ahead, we'll push the article.
+
+Cheers,
+Navin.
+From kde-women at mail.kde.org  Mon Aug 25 23:03:09 2003
+From: kde-women at mail.kde.org (Marie-Hlne Dibenedetto)
+Date: Wed Aug 27 02:34:26 2003
+Subject: [Kde-women]Re: [dot-notify] KDE-Women back alive
+In-Reply-To: <20030825151904.A18534@cs.mcgill.ca>
+References: <20030825184645.9ABF46B069@dot.kde.org>;
+	from bounce@kdenews.org on Mon, Aug 25, 2003 at 08:46:45PM +0200
+Message-ID: <3F4A879D.2287.B67795@localhost>
+
+
+I think it's great but let's expect furious comments on the "why a separate women 
+project"? "why not separate dark hair guys with a beard too?" blah blah blah theme... lol
+
+Marie aka webdiva
+
+
+
+
+
+On 25 Aug 2003 at 15:19, Navindra Umanee wrote:
+
+Date sent:      	Mon, 25 Aug 2003 15:19:04 -0400
+From:           	Navindra Umanee <navindra@cs.mcgill.ca>
+To:             	editors@kdenews.org, frauke.oster@gmx.net, kde-women@kde.org
+Subject:        	[Kde-women]Re: [dot-notify] KDE-Women back alive
+Send reply to:  	For discussion of the KDE Women project <kde-women@mail.kde.org>
+	<mailto:kde-women-request@mail.kde.org?subject=unsubscribe>
+	<mailto:kde-women-request@mail.kde.org?subject=subscribe>
+
+> bounce@kdenews.org <bounce@kdenews.org> wrote:
+> > Requires Moderation: http://dot.kde.org/1061837201
+> > 
+> > The message contents are as follows:  
+> > 
+> > Subject: KDE-Women back alive  
+> > From: Frauke Oster <frauke.oster@gmx.net>  
+> > Date: Monday 25/Aug/2003, @20:46   
+> 
+> Hi Frauke,
+> 
+> Thanks a lot for your work on women.kde.org and for your article
+> submission to the dot.
+> 
+> Everyone on KDE-Women okay with this announcement?  As usual you
+> should probably expect a lot of feedback -- some of it negative!  :-)
+> 
+> So if you give the go-ahead, we'll push the article.
+> 
+> Cheers,
+> Navin.
+> _______________________________________________
+> kde-women mailing list
+> kde-women@mail.kde.org
+> http://mail.kde.org/mailman/listinfo/kde-women
+> 
+
+"Where lipstick is concerned, the important thing is not color, but to accept God's final word on where your lips end." -Jerry Seinfeld
+
+
+
+

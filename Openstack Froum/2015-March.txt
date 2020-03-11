@@ -1,0 +1,490 @@
+From allison at openstack.org  Tue Mar  3 19:52:25 2015
+From: allison at openstack.org (Allison Price)
+Date: Tue, 3 Mar 2015 13:52:25 -0600
+Subject: [Women-of-openstack] Women of OpenStack Open Mic Series
+Message-ID: <4461C1C1-D927-4351-BDCF-4D5790A241D4@openstack.org>
+
+Hi everyone, 
+
+Today, on Superuser, we launched the Women of OpenStack Open Mic series with Gretchen Curtis, co-founder and CMO of Piston. Check out the writeup below and if you are interested in being featured, please email editor at openstack.org! 
+
+Link: http://superuser.openstack.org/articles/why-openstack-s-drive-for-inclusivity-matters?awesm=awe.sm_q8Lig <http://superuser.openstack.org/articles/why-openstack-s-drive-for-inclusivity-matters?awesm=awe.sm_q8Lig>
+
+
+Cheers,
+Allison
+
+
+Allison Price
+OpenStack Marketing
+allison at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150303/3ce7f7d4/attachment.html>
+
+From stefano at openstack.org  Tue Mar  3 20:02:05 2015
+From: stefano at openstack.org (Stefano Maffulli)
+Date: Tue, 03 Mar 2015 12:02:05 -0800
+Subject: [Women-of-openstack] [Fwd: [openstack-dev] Call for mentors -
+	Outreachy (former OPW)]
+Message-ID: <1425412925.9415.116.camel@sputacchio.gateway.2wire.net>
+
+Attached find the call for mentors to women interested in contributing
+to OpenStack (URL for easy twitter sharing
+http://lists.openstack.org/pipermail/openstack-dev/2015-March/058148.html). 
+
+Please help us spread the word :)
+
+Outreachy also is looking for more funding (the program changed name
+from Outreach Program for Women). At the moment the only secured funding
+is provided by OpenStack Foundation for two interns (US$6,500 each) for
+the May-August 2015 cycle. 
+
+If you have funding in your organization to sponsor internships,
+Outreachy runs twice a year, it costs $6,500 per intern. More details on
+https://wiki.gnome.org/Outreachy/Admin/InfoForOrgs
+
+Regards,
+Stef
+-------------- next part --------------
+An embedded message was scrubbed...
+From: =?UTF-8?Q?Victoria_Mart=C3=ADnez_de_la_Cruz?= <victoria at vmartinezdelacruz.com>
+Subject: [openstack-dev] Call for mentors - Outreachy (former OPW)
+Date: Tue, 3 Mar 2015 08:38:21 -0300
+Size: 7497
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150303/415673dc/attachment.mht>
+
+From nikacost at cisco.com  Tue Mar  3 20:11:16 2015
+From: nikacost at cisco.com (Niki Acosta (nikacost))
+Date: Tue, 3 Mar 2015 20:11:16 +0000
+Subject: [Women-of-openstack] Women of OpenStack Open Mic Series
+In-Reply-To: <4461C1C1-D927-4351-BDCF-4D5790A241D4@openstack.org>
+References: <4461C1C1-D927-4351-BDCF-4D5790A241D4@openstack.org>
+Message-ID: <D11B7179.E377%nikacost@cisco.com>
+
+This is incredibly cool! Thank you, foundation, for doing this!!!!
+
+
+
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+
+From: Allison Price <allison at openstack.org<mailto:allison at openstack.org>>
+Date: Tuesday, March 3, 2015 at 1:52 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Women of OpenStack Open Mic Series
+
+Hi everyone,
+
+Today, on Superuser, we launched the Women of OpenStack Open Mic series with Gretchen Curtis, co-founder and CMO of Piston. Check out the writeup below and if you are interested in being featured, please email editor at openstack.org<mailto:editor at openstack.org>!
+
+Link: http://superuser.openstack.org/articles/why-openstack-s-drive-for-inclusivity-matters?awesm=awe.sm_q8Lig
+
+
+Cheers,
+Allison
+
+
+Allison Price
+OpenStack Marketing
+allison at openstack.org<mailto:allison at openstack.org>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150303/fb70b679/attachment.html>
+
+From victoria at redhat.com  Tue Mar  3 20:12:13 2015
+From: victoria at redhat.com (Victoria =?utf-8?Q?Mart=C3=ADnez?= de la Cruz)
+Date: Tue, 3 Mar 2015 15:12:13 -0500 (EST)
+Subject: [Women-of-openstack] Call for mentors - Outreachy (former OPW)
+In-Reply-To: <1728578200.6370270.1425413521424.JavaMail.zimbra@redhat.com>
+Message-ID: <2070114460.6370297.1425413533014.JavaMail.zimbra@redhat.com>
+
+Hi all,
+
+Next round application deadline for Outreachy is close and and we need mentors willing to help newcomers to get involved with OpenStack and help them start contributing [0][1].
+
+This would be the 5th time OpenStack joins Outreachy and for now we can say we are having a great outcome for this: we got many new strong contributors, we had several interesting new features and we are helping many women to start their careers in FOSS.
+
+The mentor task is not very time consuming and its a really good experience. Please, if you are interested, feel free to contact me and I'll give you further details.
+
+Thanks a lot,
+
+[0] https://wiki.openstack.org/wiki/OutreachProgramForWomen
+[1] https://www.gnome.org/outreachy
+
+
+From victoria at redhat.com  Tue Mar  3 20:14:07 2015
+From: victoria at redhat.com (Victoria =?utf-8?Q?Mart=C3=ADnez?= de la Cruz)
+Date: Tue, 3 Mar 2015 15:14:07 -0500 (EST)
+Subject: [Women-of-openstack] Call for mentors - Outreachy (former OPW)
+In-Reply-To: <2070114460.6370297.1425413533014.JavaMail.zimbra@redhat.com>
+References: <2070114460.6370297.1425413533014.JavaMail.zimbra@redhat.com>
+Message-ID: <327850318.6370879.1425413647475.JavaMail.zimbra@redhat.com>
+
+----- Original Message -----
+From: "Victoria Mart?nez de la Cruz" <victoria at redhat.com>
+To: women-of-openstack at lists.openstack.org
+Sent: Tuesday, March 3, 2015 5:12:13 PM
+Subject: Call for mentors - Outreachy (former OPW)
+
+Hi all,
+
+Next round application deadline for Outreachy is close and and we need mentors willing to help newcomers to get involved with OpenStack and help them start contributing [0][1].
+
+This would be the 5th time OpenStack joins Outreachy and for now we can say we are having a great outcome for this: we got many new strong contributors, we had several interesting new features and we are helping many women to start their careers in FOSS.
+
+The mentor task is not very time consuming and its a really good experience. Please, if you are interested, feel free to contact me and I'll give you further details.
+
+Thanks a lot,
+
+[0] https://wiki.openstack.org/wiki/OutreachProgramForWomen
+[1] https://www.gnome.org/outreachy
+
+Let's follow this thread under Stef's call :)
+
+
+From malini.k.bhandaru at intel.com  Wed Mar  4 07:15:35 2015
+From: malini.k.bhandaru at intel.com (Bhandaru, Malini K)
+Date: Wed, 4 Mar 2015 07:15:35 +0000
+Subject: [Women-of-openstack] OpenStack development positions at Intel
+	(senior and junior)
+Message-ID: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B209938@fmsmsx117.amr.corp.intel.com>
+
+Ladies, would like to bring to your attention OpenStack openings at Intel.
+
+Our 2015 goal is to make OpenStack stable, easy to upgrade, enterprise and Telco ready!
+Come join us to make this goal a reality.
+
+Intel is a great place to work, ask Ruchi, Carol, or Malini!
+   Ruchi Bhargava:  ruchi dot bhargav at intel dot com
+    Malini Bhandaru: malini dot k dot bhandaru at intel dot com
+    Carol Barrett:  carol dot l dot barrett at intel dot com
+
+https://intel.taleo.net/careersection/10000/jobdetail.ftl?job=756862
+
+Cloud Software Engineer - 756862
+Description
+
+Cloud, Virtualization, Infrastructure-as-a-Service, Elastic, Self-service ... be a part of the buzz; be a part of delivering the vision of Software Defined Infrastructure. Imagine the thrill of knowing your work supports deep physics exploration at CERN, is the power behind online auction sites such as EBay, or driving the search for a cancer cure.
+
+As a member of the Intel's Open-Source Technology Center (OTC), join our open source efforts to support the applications of today and the rising demands of tomorrow from Big Data, the Internet-of-Things, and verticals such as enterprise data centers and Telecommunications.
+You will be working on OpenStack (http://www.openstack.org/) development, a rapidly moving effort, with thousands of members from across industry, to deliver clouds that are easy to deploy, manage, and meet the performance and security needs of today and tomorrow.
+We also work on OpenDayLight (http://www.opendaylight.org/), an open platform for network programmability to support Software Defined Networking (SDN), and create a solid foundation for network function virtualization (NFV).
+At Intel you get to work with Software, Hardware, Storage, Networking, and Security experts across business groups and collaborate across the industry. Through software make Intel hardware the platform of choice and guide the next generation of hardware features from your experience.
+
+
+
+Qualifications
+
+You must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates. Experience listed below would be obtained through relevant previous job and/or research experiences.
+
+Minimum Qualifications
+
+Candidate must have a BS degree or a MS degree in Electrical Engineering, Computer Science or similar technical discipline. At the BS level only, must have the unrestricted right to work in the US without requiring sponsorship.
+Candidates should have at least 6+ months of work and/or educational experience/research with:
+
+-Python, Java, and/or C/C++
+-Software prototyping and debug skills
+-Experience with one or more of OpenStack, Xen, KVM, QEMU, Open VSwitch
+-System administration, virtualization, networking
+
+Preferred Qualifications
+
+-Open Source development experience
+
+Job Category
+: Venture
+Primary Location
+: USA-California, Santa Clara
+Other Locations
+: USA-Oregon, Hillsboro
+Full/Part Time
+: Full Time
+Job Type
+: College Graduate
+Regular/Temporary
+: Regular
+Posting Date
+: Mar 3, 2015
+Apply Before
+: Jun 1, 2015
+Business Group The Intel Software and Services Group (SSG) connects Intel to the worldwide software community. SSG strives to bring competitive advantage to Intel platforms by helping independent software vendors, operating system developers, OEMs, channel members and systems integrators deliver exceptional customer value and achieve differentiation on Intel(r) processor technologies. SSG provides global leadership to the software community through its technical expertise, industry enabling activities, and developer products and programs. The Open Source Technology Center is a sub-group of Intel Software and Services Group. OTC focus is open source solutions, from Linux where Intel is the largest contributor, to Android, Tizen, and virtualization solutions such as Xen and KVM. Visit us at https://01.org/ Yes, that is a zero and a one, we are all about bits enriching everyone's lives!
+Posting Statement: Intel prohibits discrimination based on race, color, religion, gender, national origin, age, disability, veteran status, marital status, pregnancy, gender expression or identity, sexual orientation or any other legally protected status.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150304/db94004b/attachment.html>
+
+From nikacost at cisco.com  Fri Mar 20 16:43:24 2015
+From: nikacost at cisco.com (Niki Acosta (nikacost))
+Date: Fri, 20 Mar 2015 16:43:24 +0000
+Subject: [Women-of-openstack] #CUBEMadness: Vote for OpenStackers!
+Message-ID: <D1319940.1EFFA%nikacost@cisco.com>
+
+Howdy Stackers!
+
+CUBEMadness is going on right now, and a few OpenStackers made the list. Today is the last day of voting for the first round. Votes are very appreciated, and no registration is required. Feel free to share and include anyone I forgot!
+
+Lew Tucker<http://siliconangle.tv/?p=13916> ? Cisco, OpenStack Board
+
+Diane Mueller<http://siliconangle.tv/solomon-hykes-vs-diane-mueller-cubemadness/> ? Red Hat/Women of OpenStack
+
+Niki Acosta<http://siliconangle.tv/niki-acosta-vs-mike-dauber-cubemadness/> ? Cisco/Women of OpenStack
+
+Jesse Proudman vs Joshua McKenty<http://siliconangle.tv/?p=13929> ? Blue Box vs Pivotal (ex Piston), vocal OpenStacker and ex-OpenStacker
+
+Adrian Ionel<http://www.siliconangle.tv/adrian-ionel-vs-joe-hellerstein-cubemadness/> ? Mirantis CEO, OpenStacker to the core
+
+Mark Shuttleworth<http://siliconangle.tv/seema-haji-vs-mark-shuttleworth-cubemadness/> ? Ubuntu CEO, OpenStack sponsor/keynote speaker
+
+Amy Lewis<http://siliconangle.tv/amy-lewis-vs-maribel-lopez-cubemadness/> ? Solidfire Evangelist, Geek Whisper Podcaster, OpenStack member/attendee
+
+Ben Golub<http://siliconangle.tv/ben-golub-vs-brad-hunstable-cubemadness/> ? Docker CEO, OpenStack member/attendee
+
+
+Other Amazing Women in Tech:
+
+Telle Whitne<http://siliconangle.tv/?p=13925>y ? Anita Borg Institute; Grace Hopper Celebration for Women in Computing
+
+Padmasree Warrior<http://siliconangle.tv/padmasree-warrior-vs-bill-schmarzo-cubemadness/> Cisco CTO, big advocate for women in tech
+
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150320/e5781cbd/attachment.html>
+
+From sayali.92720 at gmail.com  Tue Mar 24 17:29:28 2015
+From: sayali.92720 at gmail.com (Sayali Lunkad)
+Date: Tue, 24 Mar 2015 22:59:28 +0530
+Subject: [Women-of-openstack] Training-guides session at Vancouver
+In-Reply-To: <514869080.3177776.1424438158396.JavaMail.zimbra@redhat.com>
+References: <CAObJ2cG9WSJJg2BuEWiAoJ+RUkCOoDj7OsQKcaMS94=Q+f-GQg@mail.gmail.com>
+ <514869080.3177776.1424438158396.JavaMail.zimbra@redhat.com>
+Message-ID: <CAObJ2cGmhDuT3_LPogUWBx2xEc5pae73a3Op4z0yYyNjh8Ow9g@mail.gmail.com>
+
+Thanks! Hope to see you there :)
+
+On Fri, Feb 20, 2015 at 6:45 PM, Victoria Mart?nez de la Cruz <
+victoria at redhat.com> wrote:
+
+> Hi Sayali!
+>
+> That is great! I'd totally love to see it :)
+>
+> Cheers,
+>
+> Victoria
+>
+> ----- Original Message -----
+> From: "Sayali Lunkad" <sayali.92720 at gmail.com>
+> To: women-of-openstack at lists.openstack.org
+> Sent: Wednesday, February 18, 2015 3:58:24 PM
+> Subject: [Women-of-openstack] Training-guides session at Vancouver
+>
+> Hey guys,
+>
+> My team and I have submitted a session for the Vancouver summit. It would
+> be awesome if you could give your vote to our session to help it get
+> selected if you think it would do good for the community.
+>
+> Community OpenStack Training Wants to Come a User Group Near You!
+> submitted by Sean Roberts ( Speakers: Sean Roberts, Stefano Maffulli, Loic
+> Dachary, Sayali Lunkad, Pranav Salunke )
+>
+>
+>     *
+> https://www.openstack.org/vote-vancouver/Presentation/community-openstack-training-wants-to-come-a-user-group-near-you
+>
+>
+>
+> Community voting ends Monday, February 23 at 5pm CT . After the voting
+> concludes, the OpenStack Summit Track Chairs will review all the
+> submissions and make final selections.
+>
+> Thank you in advance!
+>
+> Regards,
+>
+> Sayali.
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150324/012e8ee8/attachment.html>
+
+From claire at openstack.org  Thu Mar 26 17:36:20 2015
+From: claire at openstack.org (Claire Massey)
+Date: Thu, 26 Mar 2015 12:36:20 -0500
+Subject: [Women-of-openstack] #vBrownBag Tech Talks at Vancouver Summit
+Message-ID: <93C9CE31-6981-4BA0-93ED-2CA5E86764C2@openstack.org>
+
+Hi there,
+
+If you?re planning to attend the May Summit in Vancouver then we highly encourage you to submit for a session for the #vBrownBag Tech Talks.
+
+The Tech Talks are brief 10-minute talks presented to a very small audience (less than 20 people). The talks are livestreamed, video recorded and posted online within 24 hours. This is a great way to ease into presenting if you?re not yet comfortable with public speaking. :)
+
+We?ve dedicated all of the Tuesday slots for the Women of OpenStack! View details and submit here: http://openstack.prov12n.com/vbrownbag-techtalks-in-vancouver/ <http://openstack.prov12n.com/vbrownbag-techtalks-in-vancouver/>
+
+More info on other Summit related WOO events will be shared soon. There?s a lot happening this time so stay tuned!
+
+Cheers,
+Claire 
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150326/e16812f4/attachment.html>
+
+From nikacost at cisco.com  Mon Mar 23 18:02:53 2015
+From: nikacost at cisco.com (Niki Acosta (nikacost))
+Date: Mon, 23 Mar 2015 18:02:53 +0000
+Subject: [Women-of-openstack] ROUND 2: #CUBEMadness: Vote for OpenStackers!
+Message-ID: <D135BDFE.1F66C%nikacost@cisco.com>
+
+Round 2 voting is open! Appreciate your votes!
+
+
+Lew Tucker:
+http://www.siliconangle.tv/merv-adrian-vs-lew-tucker-cubemadness/
+
+Niki Acosta:
+http://www.siliconangle.tv/niki-acosta-vs-jim-whitehurst-cubemadness/
+
+Diane Mueller:
+http://www.siliconangle.tv/pam-murphy-vs-diane-mueller-cubemadness/
+
+Jesse Proudman:
+http://www.siliconangle.tv/bill-schmarzo-vs-jesse-proudman-cubemadness/
+
+Ben Golub:
+http://www.siliconangle.tv/ben-golub-vs-bethany-mayer-cubemadness/
+
+
+
+
+
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+
+From: nikacost <nikacost at cisco.com<mailto:nikacost at cisco.com>>
+Date: Friday, March 20, 2015 at 11:43 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Cc: "marketing at lists.openstack.org<mailto:marketing at lists.openstack.org>" <marketing at lists.openstack.org<mailto:marketing at lists.openstack.org>>
+Subject: [Women-of-openstack] #CUBEMadness: Vote for OpenStackers!
+
+Howdy Stackers!
+
+CUBEMadness is going on right now, and a few OpenStackers made the list. Today is the last day of voting for the first round. Votes are very appreciated, and no registration is required. Feel free to share and include anyone I forgot!
+
+Lew Tucker<http://siliconangle.tv/?p=13916> ? Cisco, OpenStack Board
+
+Diane Mueller<http://siliconangle.tv/solomon-hykes-vs-diane-mueller-cubemadness/> ? Red Hat/Women of OpenStack
+
+Niki Acosta<http://siliconangle.tv/niki-acosta-vs-mike-dauber-cubemadness/> ? Cisco/Women of OpenStack
+
+Jesse Proudman vs Joshua McKenty<http://siliconangle.tv/?p=13929> ? Blue Box vs Pivotal (ex Piston), vocal OpenStacker and ex-OpenStacker
+
+Adrian Ionel<http://www.siliconangle.tv/adrian-ionel-vs-joe-hellerstein-cubemadness/> ? Mirantis CEO, OpenStacker to the core
+
+Mark Shuttleworth<http://siliconangle.tv/seema-haji-vs-mark-shuttleworth-cubemadness/> ? Ubuntu CEO, OpenStack sponsor/keynote speaker
+
+Amy Lewis<http://siliconangle.tv/amy-lewis-vs-maribel-lopez-cubemadness/> ? Solidfire Evangelist, Geek Whisper Podcaster, OpenStack member/attendee
+
+Ben Golub<http://siliconangle.tv/ben-golub-vs-brad-hunstable-cubemadness/> ? Docker CEO, OpenStack member/attendee
+
+
+Other Amazing Women in Tech:
+
+Telle Whitne<http://siliconangle.tv/?p=13925>y ? Anita Borg Institute; Grace Hopper Celebration for Women in Computing
+
+Padmasree Warrior<http://siliconangle.tv/padmasree-warrior-vs-bill-schmarzo-cubemadness/> Cisco CTO, big advocate for women in tech
+
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150323/13b20cf8/attachment.html>
+

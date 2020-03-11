@@ -1,0 +1,1654 @@
+From shilla.saebi at gmail.com  Wed Jul  5 13:35:47 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Wed, 5 Jul 2017 09:35:47 -0400
+Subject: [Women-of-openstack] User Committee Election coming soon!
+Message-ID: <CAPrU3jEtcrhKWeUSFOaEyt4_+BKCbrMVKJswqLirfc1sdO3MWA@mail.gmail.com>
+
+Hello Everyone,
+
+
+
+The OpenStack User Committee will be holding an election in August, per the
+(UC) bylaws and charter
+<https://governance.openstack.org/uc/reference/charter.html>. The current
+UC will serve until the elections in August. At that point, the current two
+UC members who still have 6 months to serve get a 6-month seat, and an
+election is run to determine the other three members. Candidates ranking 1st,
+2nd, and 3rd will get a one-year seat. Voting for the 2017 UC members will
+be granted to the Active User Contributors (AUC).
+<https://governance.openstack.org/uc/reference/charter.html#active-user-contributors-auc>
+
+
+
+Open candidacy for the UC positions will be from July 31 - August 11, 05:59
+UTC. Voting for the User Committee (UC) members will be open on August 14th and
+will remain open until August 18, 11:59 UTC. Additional details and the
+process for nomination can be found here
+<https://governance.openstack.org/uc/reference/uc-election-aug2017.html>.
+
+
+
+As a reminder, please see the community code of conduct (
+http://www.openstack.org/legal/community-code-of-conduct/)
+
+
+
+Please let me, or anyone from the UC know if you have any questions,
+comments or concerns.
+
+
+
+Thank you,
+
+
+
+OpenStack User Committee
+
+Shilla, Edgar, Jonathan, Melvin, Shamail
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170705/3ac2ef88/attachment.html>
+
+From anne at openstack.org  Wed Jul  5 18:32:29 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Wed, 5 Jul 2017 11:32:29 -0700
+Subject: [Women-of-openstack] Topic for July 10th meeting
+Message-ID: <36F396B5-250D-40C1-B2D7-DBCCEBC8EE99@openstack.org>
+
+Hi all,
+
+I’m still chatting with Karen Holtzblatt about doing a talk with the group, but it won’t come together in time for our July 10th meeting. I’m happy to round up an alternative presentation since we had offered to fill this spot. 
+
+One option is an overview of the new COA exam and some Q&A about what’s on it, how to prepare, etc. Is this of interest? If not, what other topics would you be interested in? 
+
+Cheers,
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170705/b4c9ed04/attachment.html>
+
+From kendall at openstack.org  Thu Jul  6 15:29:05 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Thu, 6 Jul 2017 10:29:05 -0500
+Subject: [Women-of-openstack] CFP Deadline - OpenStack Summit Sydney
+Message-ID: <DC0F42FC-A0E8-4AB9-9937-52C2DF2349C7@openstack.org>
+
+Hi everyone,
+
+The OpenStack Summit Sydney Call for Presentations closes July 14 at 11:59 pm PT/ July 15 at 6:59 UTC. Don’t miss your chance to present in Sydney! View the new tracks here. <https://www.openstack.org/summit/sydney-2017/summit-categories/>
+SUBMIT HERE <https://www.openstack.org/summit/sydney-2017/call-for-presentations/>
+
+Important links
+- Register <https://openstacksummit2017sydney.eventbrite.com/> 
+- Visa Information <https://www.openstack.org/summit/sydney-2017/travel/#visa> - note: all non-Australian residents will need a visa to travel to Australia (including United States citizens)
+- Travel Support Program <https://www.openstack.org/summit/sydney-2017/travel/#travel-support>
+- Sponsor <https://www.openstack.org/summit/sydney-2017/sponsors/>
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170706/72c0acae/attachment.html>
+
+From kennelson11 at gmail.com  Thu Jul  6 20:21:13 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Thu, 06 Jul 2017 20:21:13 +0000
+Subject: [Women-of-openstack] Topic for July 10th meeting
+In-Reply-To: <36F396B5-250D-40C1-B2D7-DBCCEBC8EE99@openstack.org>
+References: <36F396B5-250D-40C1-B2D7-DBCCEBC8EE99@openstack.org>
+Message-ID: <CAJ6yrQg5zLh-Y1M2EqvbmuW0hNpHJpZQ-d=qPZORwwY6ZXK-nA@mail.gmail.com>
+
+I think this would be a great topic!
+
+I haven't taken the COA personally, but I would definitely be interested in
+hearing some tips on how to prepare for when I do get around tot taking the
+exam.
+
+-Kendall (diablo_rojo)
+
+On Wed, Jul 5, 2017 at 1:33 PM Anne Bertucio <anne at openstack.org> wrote:
+
+> Hi all,
+>
+> I’m still chatting with Karen Holtzblatt about doing a talk with the
+> group, but it won’t come together in time for our July 10th meeting. I’m
+> happy to round up an alternative presentation since we had offered to fill
+> this spot.
+>
+> One option is an overview of the new COA exam and some Q&A about what’s on
+> it, how to prepare, etc. Is this of interest? If not, what other topics
+> would you be interested in?
+>
+> Cheers,
+> Anne Bertucio
+> Marketing and Certification, OpenStack Foundation
+> anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170706/a72a6405/attachment.html>
+
+From anne at openstack.org  Thu Jul  6 21:34:12 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Thu, 6 Jul 2017 14:34:12 -0700
+Subject: [Women-of-openstack] Topic for July 10th meeting
+In-Reply-To: <CAJ6yrQg5zLh-Y1M2EqvbmuW0hNpHJpZQ-d=qPZORwwY6ZXK-nA@mail.gmail.com>
+References: <36F396B5-250D-40C1-B2D7-DBCCEBC8EE99@openstack.org>
+ <CAJ6yrQg5zLh-Y1M2EqvbmuW0hNpHJpZQ-d=qPZORwwY6ZXK-nA@mail.gmail.com>
+Message-ID: <6D724CC3-AA1A-4A25-A295-4EC571B04834@openstack.org>
+
+If there’s no objections, we’ll plan on that!
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Jul 6, 2017, at 1:21 PM, Kendall Nelson <kennelson11 at gmail.com> wrote:
+> 
+> I think this would be a great topic!
+> 
+> I haven't taken the COA personally, but I would definitely be interested in hearing some tips on how to prepare for when I do get around tot taking the exam. 
+> 
+> -Kendall (diablo_rojo)
+> 
+> On Wed, Jul 5, 2017 at 1:33 PM Anne Bertucio <anne at openstack.org <mailto:anne at openstack.org>> wrote:
+> Hi all,
+> 
+> I’m still chatting with Karen Holtzblatt about doing a talk with the group, but it won’t come together in time for our July 10th meeting. I’m happy to round up an alternative presentation since we had offered to fill this spot. 
+> 
+> One option is an overview of the new COA exam and some Q&A about what’s on it, how to prepare, etc. Is this of interest? If not, what other topics would you be interested in? 
+> 
+> Cheers,
+> Anne Bertucio
+> Marketing and Certification, OpenStack Foundation
+> anne at openstack.org <mailto:anne at openstack.org> | 206-992-7961 <tel:(206)%20992-7961>
+> 
+> 
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170706/f6b54e18/attachment.html>
+
+From jessicak at us.ibm.com  Fri Jul  7 03:43:27 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 6 Jul 2017 22:43:27 -0500
+Subject: [Women-of-openstack] Topic for July 10th meeting
+In-Reply-To: <6D724CC3-AA1A-4A25-A295-4EC571B04834@openstack.org>
+References: <36F396B5-250D-40C1-B2D7-DBCCEBC8EE99@openstack.org>
+ <CAJ6yrQg5zLh-Y1M2EqvbmuW0hNpHJpZQ-d=qPZORwwY6ZXK-nA@mail.gmail.com>
+ <6D724CC3-AA1A-4A25-A295-4EC571B04834@openstack.org>
+Message-ID: <OF4BAF747A.0E43DEB7-ON00258156.00146E57-86258156.00147565@notes.na.collabserv.com>
+
+Sounds great -- thanks for organizing!
+
+Jessica Murillo
+Vice President, Open Systems Development
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Anne Bertucio <anne at openstack.org>
+To:	Kendall Nelson <kennelson11 at gmail.com>
+Cc:	women-of-openstack at lists.openstack.org
+Date:	07/06/2017 04:35 PM
+Subject:	Re: [Women-of-openstack] Topic for July 10th meeting
+
+
+
+If there’s no objections, we’ll plan on that!
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+      On Jul 6, 2017, at 1:21 PM, Kendall Nelson <kennelson11 at gmail.com>
+      wrote:
+
+      I think this would be a great topic!
+
+      I haven't taken the COA personally, but I would definitely be
+      interested in hearing some tips on how to prepare for when I do get
+      around tot taking the exam.
+
+      -Kendall (diablo_rojo)
+
+      On Wed, Jul 5, 2017 at 1:33 PM Anne Bertucio <anne at openstack.org>
+      wrote:
+        Hi all,
+
+        I’m still chatting with Karen Holtzblatt about doing a talk with
+        the group, but it won’t come together in time for our July 10th
+        meeting. I’m happy to round up an alternative presentation since we
+        had offered to fill this spot.
+
+        One option is an overview of the new COA exam and some Q&A about
+        what’s on it, how to prepare, etc. Is this of interest? If not,
+        what other topics would you be interested in?
+
+        Cheers,
+        Anne Bertucio
+        Marketing and Certification, OpenStack Foundation
+        anne at openstack.org | 206-992-7961
+
+
+
+
+        _______________________________________________
+        Women-of-openstack mailing list
+        Women-of-openstack at lists.openstack.org
+        http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170706/ab5b46e7/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170706/ab5b46e7/attachment-0001.gif>
+
+From jessicak at us.ibm.com  Fri Jul  7 18:03:41 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Fri, 7 Jul 2017 13:03:41 -0500
+Subject: [Women-of-openstack] WOO Speaker Series: July 10 discussion on new
+	COA exam
+Message-ID: <OFAFE500EF.DEA340C4-ON00258156.00628313-86258156.00633722@notes.na.collabserv.com>
+
+
+
+Mark your calendars to join us as we continue our Women of OpenStack
+speaker series on Monday, July 10, 2017. Anne Bertucio from the OpenStack
+foundation will give an overview of the new COA exam including what is on
+the exam and how to best prepare for it.
+
+Women of OpenStack
+10 July 2017
+2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+
+Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+webex URL:
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+Meeting Leader: Emily Hugenbruch (ekhugenbruch at us.ibm.com)
+Meeting Etherpad: https://etherpad.openstack.org/p/WOS_07_10_17
+
+Future meetings and proposed topics
+      https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+      Editorial calendar:
+      https://etherpad.openstack.org/p/WOS_2016-17_Editorial_Calendar
+
+Jessica Murillo
+Vice President, Open Systems Development
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170707/7e585b34/attachment.html>
+
+From kendall at openstack.org  Mon Jul 10 19:55:10 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Mon, 10 Jul 2017 14:55:10 -0500
+Subject: [Women-of-openstack] July 14 CFP Deadline - Sydney Summit
+Message-ID: <030E23D4-3FF2-4CB4-B71E-9A9DE1944B72@openstack.org>
+
+Hi everyone,
+
+Friendly reminder that the OpenStack Summit Sydney Call for Presentations closes THIS Friday, July 14 at 11:59 pm Pacific Time/ July 15 at 6:59 UTC. Don’t miss your chance to present in Sydney! View the new tracks here. <https://www.openstack.org/summit/sydney-2017/summit-categories/>
+SUBMIT HERE <https://www.openstack.org/summit/sydney-2017/call-for-presentations/>
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170710/791b0a28/attachment.html>
+
+From nicole.k.huesman at intel.com  Fri Jul  7 22:32:56 2017
+From: nicole.k.huesman at intel.com (Huesman, Nicole K)
+Date: Fri, 7 Jul 2017 22:32:56 +0000
+Subject: [Women-of-openstack] OpenStack Gender Diversity Report
+Message-ID: <7BDB8AF77E41744CAF5C8D115B01DDDBB465DDD0@ORSMSX103.amr.corp.intel.com>
+
+Hi all,
+
+I wanted to let all of you know about a new report (sponsored by Intel, and conducted by Bitergia) that examines gender diversity and retention within the OpenStack community. A continuation of the work that Nithya spearheaded earlier, this report studies female participation in both OpenStack leadership and governance, alongside technical projects, and provides recommendations to help increase gender diversity and inclusion across open source communities.
+
+This is an ongoing effort, and we’re very open to evolving the research.  If you have ideas or thoughts about the study, please let me know--I'd love to hear from you!
+
+Report: https://docs.google.com/document/d/1nuEwOryILCWZVxQ43s42UNaKlsf97sqlEpYu2_0kGSI/edit#
+
+Cheers,
+
+Nicole K. Huesman
+Open Source Technology Center
+OSS Community & Developer Advocacy
+Software and Services Group | Intel Corporation
+503.807.5599
+
+From nicole.k.huesman at intel.com  Mon Jul 10 17:27:33 2017
+From: nicole.k.huesman at intel.com (Huesman, Nicole K)
+Date: Mon, 10 Jul 2017 17:27:33 +0000
+Subject: [Women-of-openstack]  OpenStack Gender Diversity Report
+Message-ID: <7BDB8AF77E41744CAF5C8D115B01DDDBB465F68B@ORSMSX103.amr.corp.intel.com>
+
+A new report will be published this week by the OpenStack Foundation (research conducted by Bitergia & commissioned by Intel) that examines gender diversity and retention within the OpenStack community. A continuation of the work that Nithya Ruff spearheaded earlier, this report studies female participation in both OpenStack leadership and governance, alongside technical projects, and provides recommendations to help increase gender diversity and inclusion across open source communities.
+
+
+
+Get a sneak preview: https://docs.google.com/document/d/1nuEwOryILCWZVxQ43s42UNaKlsf97sqlEpYu2_0kGSI/edit#
+
+
+
+We will let you know when the report is published, and we encourage you to share it with others!
+
+
+
+This is an ongoing effort, and we're very open to evolving the research.  If you have ideas or thoughts about the study, please send them to Nicole Huesman at Intel (nicole.k.huesman at intel.com<mailto:nicole.k.huesman at intel.com>) or Daniel Izquierdo at Bitergia (dizquierdo at bitergia.com<mailto:dizquierdo at bitergia.com>).
+
+Nicole K. Huesman
+Open Source Technology Center
+OSS Community & Developer Advocacy
+Software and Services Group | Intel Corporation
+503.807.5599
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170710/e3f182d3/attachment.html>
+
+From amy at demarco.com  Tue Jul 11 15:31:06 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Tue, 11 Jul 2017 10:31:06 -0500
+Subject: [Women-of-openstack] OpenStack Gender Diversity Report
+In-Reply-To: <7BDB8AF77E41744CAF5C8D115B01DDDBB465DDD0@ORSMSX103.amr.corp.intel.com>
+References: <7BDB8AF77E41744CAF5C8D115B01DDDBB465DDD0@ORSMSX103.amr.corp.intel.com>
+Message-ID: <CAFs83QpS6aWSA-JQ-pxi=ni0ZYCw2RvnxVghN+ehCg1=e-QBuQ@mail.gmail.com>
+
+Thanks Nicole!
+
+On Fri, Jul 7, 2017 at 5:32 PM, Huesman, Nicole K <
+nicole.k.huesman at intel.com> wrote:
+
+> Hi all,
+>
+> I wanted to let all of you know about a new report (sponsored by Intel,
+> and conducted by Bitergia) that examines gender diversity and retention
+> within the OpenStack community. A continuation of the work that Nithya
+> spearheaded earlier, this report studies female participation in both
+> OpenStack leadership and governance, alongside technical projects, and
+> provides recommendations to help increase gender diversity and inclusion
+> across open source communities.
+>
+> This is an ongoing effort, and we’re very open to evolving the research.
+> If you have ideas or thoughts about the study, please let me know--I'd love
+> to hear from you!
+>
+> Report: https://docs.google.com/document/d/1nuEwOryILCWZVxQ43s42UNaKlsf97
+> sqlEpYu2_0kGSI/edit#
+>
+> Cheers,
+>
+> Nicole K. Huesman
+> Open Source Technology Center
+> OSS Community & Developer Advocacy
+> Software and Services Group | Intel Corporation
+> 503.807.5599
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/52ffdf70/attachment.html>
+
+From beth.cohen at verizon.com  Tue Jul 11 18:38:33 2017
+From: beth.cohen at verizon.com (Cohen, Beth F)
+Date: Tue, 11 Jul 2017 18:38:33 +0000
+Subject: [Women-of-openstack] Recording of WOO Speaker Series: Imposter
+	Syndrome with Major Hayden
+Message-ID: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+
+Folks –
+Here is a recording of the WOO Speaker Series: Imposter Syndrome with Major Hayden presentation
+
+
+
+
+Play recording<https://urldefense.proofpoint.com/v2/url?u=https-3A__verizon2.webex.com_verizon2-2Den_lsr.php-3FRCID-3De6e8985a25d7455dbdae7dafde5d5f6e&d=DwMGaQ&c=udBTRvFvXC5Dhqg7UHpJlPps3mZ3LRxpb6__0PomBTQ&r=Rsx7wkM3CoWr0KjSmfTh3iZO8Bk6HNLpvQKJmsXXw3U&m=nLy654yBsQy8ISM-6--SLuHCFnWAbzEr-1-TtdqGlpQ&s=7STJRJ-aapnOiJSCGIbl2TTp-vNc1H6Qhdsh65l2CCo&e=> (13 min 16 sec)
+
+Recording password: (This recording does not require a password.)
+
+
+
+Major Hayden, principal architect at Rackspace, lead  a discussion on impostor syndrome including how to identify it and how to overcome it.
+
+
+
+The OpenStack community is highly collaborative, fast-paced, and helpful.
+
+However, some new community members are overwhelmed with new terminology and detailed processes, especially those with impostor syndrome.  They struggle with an internal battle where their confidence and competence are not aligned. Impostor syndrome is a psychological phenomenon that affects people from all backgrounds and all skill levels. They feel like their competence level is much lower than it really is and they feel this way on a regular basis. This can cause community members to become detached or feel incapable of providing meaningful contributions.
+
+
+
+Major's bio:
+
+Major Hayden builds OpenStack clouds as a Principal Architect at Rackspace.
+
+Major is a core developer in the OpenStack-Ansible project with a focus on improving information security in OpenStack deployments.  He holds multiple Red Hat and Global Information Assurance Certification (GIAC) certifications and has written extensively about securing virtualized Linux environments. Outside of OpenStack, Major has contributed to several open source projects including dracut, systemd, and Ansible. Within the Fedora Linux community, Major serves on the Fedora Security Team and Fedora Server Working Group. Major enjoys writing on his personal blog, major.io, and he talks about technical topics on Twitter as @majorhayden.
+
+
+
+[Verizon]<http://www.verizon.com/>
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com<mailto:beth.cohen at verizon.com>
+
+<http://www.facebook.com/verizon>  [Twitter] <http://twitter.com/verizon>   [Instagram] <http://www.instagram.com/verizon>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/66c0b669/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 1378 bytes
+Desc: image001.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/66c0b669/attachment-0004.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image002.png
+Type: image/png
+Size: 306 bytes
+Desc: image002.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/66c0b669/attachment-0005.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image003.png
+Type: image/png
+Size: 446 bytes
+Desc: image003.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/66c0b669/attachment-0006.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image004.png
+Type: image/png
+Size: 457 bytes
+Desc: image004.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/66c0b669/attachment-0007.png>
+
+From shilla.saebi at gmail.com  Tue Jul 11 19:03:02 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Tue, 11 Jul 2017 15:03:02 -0400
+Subject: [Women-of-openstack] OpenStack Gender Diversity Report
+In-Reply-To: <CAFs83QpS6aWSA-JQ-pxi=ni0ZYCw2RvnxVghN+ehCg1=e-QBuQ@mail.gmail.com>
+References: <7BDB8AF77E41744CAF5C8D115B01DDDBB465DDD0@ORSMSX103.amr.corp.intel.com>
+ <CAFs83QpS6aWSA-JQ-pxi=ni0ZYCw2RvnxVghN+ehCg1=e-QBuQ@mail.gmail.com>
+Message-ID: <CAPrU3jH02S8OjUN-3S1pBB2a0E05cz0u3TivbKpjur2qdSpv_w@mail.gmail.com>
+
+Thank you for putting this together!
+
+Shilla
+
+On Tue, Jul 11, 2017 at 11:31 AM, Amy Marrich <amy at demarco.com> wrote:
+
+> Thanks Nicole!
+>
+> On Fri, Jul 7, 2017 at 5:32 PM, Huesman, Nicole K <
+> nicole.k.huesman at intel.com> wrote:
+>
+>> Hi all,
+>>
+>> I wanted to let all of you know about a new report (sponsored by Intel,
+>> and conducted by Bitergia) that examines gender diversity and retention
+>> within the OpenStack community. A continuation of the work that Nithya
+>> spearheaded earlier, this report studies female participation in both
+>> OpenStack leadership and governance, alongside technical projects, and
+>> provides recommendations to help increase gender diversity and inclusion
+>> across open source communities.
+>>
+>> This is an ongoing effort, and we’re very open to evolving the research.
+>> If you have ideas or thoughts about the study, please let me know--I'd love
+>> to hear from you!
+>>
+>> Report: https://docs.google.com/document/d/1nuEwOryILCWZVxQ43s42UNaK
+>> lsf97sqlEpYu2_0kGSI/edit#
+>>
+>> Cheers,
+>>
+>> Nicole K. Huesman
+>> Open Source Technology Center
+>> OSS Community & Developer Advocacy
+>> Software and Services Group | Intel Corporation
+>> 503.807.5599
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/44511967/attachment.html>
+
+From kennelson11 at gmail.com  Tue Jul 11 19:53:33 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Tue, 11 Jul 2017 19:53:33 +0000
+Subject: [Women-of-openstack] Recording of WOO Speaker Series: Imposter
+ Syndrome with Major Hayden
+In-Reply-To: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+References: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+Message-ID: <CAJ6yrQikRS9yCc8gDiiDLGD4PgLbhq2a1ZFN2t3Vx1LpgRDnYg@mail.gmail.com>
+
+Thank you so much for recording this! I can't wait to listen!
+
+On a related note, can we make all of these recording available on the WoO
+Wiki page? That way its easier for people to find them and refer back if
+they have missed them? Its a lot easier to just go there than to sift
+through emails to find the right one for the link.
+
+Now that I look at the wiki page [1] , its starting to get a little
+cluttered and out of date, maybe we should talk about cleaning that up a
+bit too?
+
+-Kendall Nelson
+
+[1] https://wiki.openstack.org/wiki/Women_of_OpenStack
+
+
+On Tue, Jul 11, 2017 at 11:40 AM Cohen, Beth F <beth.cohen at verizon.com>
+wrote:
+
+> Folks –
+>
+> Here is a recording of the WOO Speaker Series: Imposter Syndrome with
+> Major Hayden presentation
+>
+>
+>
+>
+>
+>
+>
+> *Play recording*
+> <https://urldefense.proofpoint.com/v2/url?u=https-3A__verizon2.webex.com_verizon2-2Den_lsr.php-3FRCID-3De6e8985a25d7455dbdae7dafde5d5f6e&d=DwMGaQ&c=udBTRvFvXC5Dhqg7UHpJlPps3mZ3LRxpb6__0PomBTQ&r=Rsx7wkM3CoWr0KjSmfTh3iZO8Bk6HNLpvQKJmsXXw3U&m=nLy654yBsQy8ISM-6--SLuHCFnWAbzEr-1-TtdqGlpQ&s=7STJRJ-aapnOiJSCGIbl2TTp-vNc1H6Qhdsh65l2CCo&e=>
+> (13 min 16 sec)
+>
+> Recording password: (This recording does not require a password.)
+>
+>
+>
+> Major Hayden, principal architect at Rackspace, lead  a discussion on
+> impostor syndrome including how to identify it and how to overcome it.
+>
+>
+>
+> The OpenStack community is highly collaborative, fast-paced, and helpful.
+>
+> However, some new community members are overwhelmed with new terminology
+> and detailed processes, especially those with impostor syndrome.  They
+> struggle with an internal battle where their confidence and competence are
+> not aligned. Impostor syndrome is a psychological phenomenon that affects
+> people from all backgrounds and all skill levels. They feel like their
+> competence level is much lower than it really is and they feel this way on
+> a regular basis. This can cause community members to become detached or
+> feel incapable of providing meaningful contributions.
+>
+>
+>
+> Major's bio:
+>
+> Major Hayden builds OpenStack clouds as a Principal Architect at Rackspace.
+>
+> Major is a core developer in the OpenStack-Ansible project with a focus on
+> improving information security in OpenStack deployments.  He holds multiple
+> Red Hat and Global Information Assurance Certification (GIAC)
+> certifications and has written extensively about securing virtualized Linux
+> environments. Outside of OpenStack, Major has contributed to several open
+> source projects including dracut, systemd, and Ansible. Within the Fedora
+> Linux community, Major serves on the Fedora Security Team and Fedora Server
+> Working Group. Major enjoys writing on his personal blog, major.io, and
+> he talks about technical topics on Twitter as @majorhayden.
+>
+>
+>
+>
+>
+>
+> [image: Verizon] <http://www.verizon.com/>
+>
+> Beth Cohen
+> NFV/SDN Network Product Strategy
+>
+> O +781-466-2055 | M +781-434-8553
+> beth.cohen at verizon.com
+>
+> [image: Facebook] <http://www.facebook.com/verizon>  [image: Twitter]
+> <http://twitter.com/verizon>  [image: Instagram]
+> <http://www.instagram.com/verizon>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/4b33916b/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 1378 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/4b33916b/attachment.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image002.png
+Type: image/png
+Size: 306 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/4b33916b/attachment-0001.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image003.png
+Type: image/png
+Size: 446 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/4b33916b/attachment-0002.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image004.png
+Type: image/png
+Size: 457 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/4b33916b/attachment-0003.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image002.png
+Type: image/png
+Size: 306 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/4b33916b/attachment-0004.png>
+
+From anne at openstack.org  Tue Jul 11 19:58:26 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Tue, 11 Jul 2017 12:58:26 -0700
+Subject: [Women-of-openstack] Recording of WOO Speaker Series: Imposter
+	Syndrome with Major Hayden
+In-Reply-To: <CAJ6yrQikRS9yCc8gDiiDLGD4PgLbhq2a1ZFN2t3Vx1LpgRDnYg@mail.gmail.com>
+References: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+ <CAJ6yrQikRS9yCc8gDiiDLGD4PgLbhq2a1ZFN2t3Vx1LpgRDnYg@mail.gmail.com>
+Message-ID: <5979CCF7-653F-40DF-9768-AE5CF998475E@openstack.org>
+
++1 to Kendall’s note about the Wiki page. Looks like it could use a little auditing and a reorganizing, which could include adding a section for recordings. I’m down to help with that effort!
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Jul 11, 2017, at 12:53 PM, Kendall Nelson <kennelson11 at gmail.com> wrote:
+> 
+> Thank you so much for recording this! I can't wait to listen!
+> 
+> On a related note, can we make all of these recording available on the WoO Wiki page? That way its easier for people to find them and refer back if they have missed them? Its a lot easier to just go there than to sift through emails to find the right one for the link. 
+> 
+> Now that I look at the wiki page [1] , its starting to get a little cluttered and out of date, maybe we should talk about cleaning that up a bit too? 
+> 
+> -Kendall Nelson
+> 
+> [1] https://wiki.openstack.org/wiki/Women_of_OpenStack <https://wiki.openstack.org/wiki/Women_of_OpenStack> 
+> 
+> 
+> On Tue, Jul 11, 2017 at 11:40 AM Cohen, Beth F <beth.cohen at verizon.com <mailto:beth.cohen at verizon.com>> wrote:
+> Folks –
+> 
+> Here is a recording of the WOO Speaker Series: Imposter Syndrome with Major Hayden presentation
+> 
+>  
+> 
+>  
+> 
+> Play recording <https://urldefense.proofpoint.com/v2/url?u=https-3A__verizon2.webex.com_verizon2-2Den_lsr.php-3FRCID-3De6e8985a25d7455dbdae7dafde5d5f6e&d=DwMGaQ&c=udBTRvFvXC5Dhqg7UHpJlPps3mZ3LRxpb6__0PomBTQ&r=Rsx7wkM3CoWr0KjSmfTh3iZO8Bk6HNLpvQKJmsXXw3U&m=nLy654yBsQy8ISM-6--SLuHCFnWAbzEr-1-TtdqGlpQ&s=7STJRJ-aapnOiJSCGIbl2TTp-vNc1H6Qhdsh65l2CCo&e=> (13 min 16 sec)
+> 
+> Recording password: (This recording does not require a password.) 
+> 
+>  
+> 
+> Major Hayden, principal architect at Rackspace, lead  a discussion on impostor syndrome including how to identify it and how to overcome it.
+> 
+>  
+> 
+> The OpenStack community is highly collaborative, fast-paced, and helpful.
+> 
+> However, some new community members are overwhelmed with new terminology and detailed processes, especially those with impostor syndrome.  They struggle with an internal battle where their confidence and competence are not aligned. Impostor syndrome is a psychological phenomenon that affects people from all backgrounds and all skill levels. They feel like their competence level is much lower than it really is and they feel this way on a regular basis. This can cause community members to become detached or feel incapable of providing meaningful contributions.
+> 
+>  
+> 
+> Major's bio:
+> 
+> Major Hayden builds OpenStack clouds as a Principal Architect at Rackspace.
+> 
+> Major is a core developer in the OpenStack-Ansible project with a focus on improving information security in OpenStack deployments.  He holds multiple Red Hat and Global Information Assurance Certification (GIAC) certifications and has written extensively about securing virtualized Linux environments. Outside of OpenStack, Major has contributed to several open source projects including dracut, systemd, and Ansible. Within the Fedora Linux community, Major serves on the Fedora Security Team and Fedora Server Working Group. Major enjoys writing on his personal blog, major.io <http://major.io/>, and he talks about technical topics on Twitter as @majorhayden.
+> 
+>  
+> 
+>  
+> 
+> 
+>  <http://www.verizon.com/>
+> 
+> Beth Cohen
+> NFV/SDN Network Product Strategy
+> 
+> O +781-466-2055 | M +781-434-8553
+> beth.cohen at verizon.com <mailto:beth.cohen at verizon.com>
+> 
+>  <http://www.facebook.com/verizon>   <http://twitter.com/verizon>   <http://www.instagram.com/verizon>
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> <image004.png><image002.png><image001.png><image002.png><image003.png>_______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/0a20f70b/attachment-0001.html>
+
+From shilla.saebi at gmail.com  Tue Jul 11 20:28:33 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Tue, 11 Jul 2017 16:28:33 -0400
+Subject: [Women-of-openstack] Recording of WOO Speaker Series: Imposter
+ Syndrome with Major Hayden
+In-Reply-To: <5979CCF7-653F-40DF-9768-AE5CF998475E@openstack.org>
+References: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+ <CAJ6yrQikRS9yCc8gDiiDLGD4PgLbhq2a1ZFN2t3Vx1LpgRDnYg@mail.gmail.com>
+ <5979CCF7-653F-40DF-9768-AE5CF998475E@openstack.org>
+Message-ID: <CAPrU3jE6FHGAuMmFKmLp4KzmUz_F0wOBBZoqO03dheCeo23Ndw@mail.gmail.com>
+
+Hi Everyone,
+
+I opened the link and it seems to be the recording for the COA exam. Do we
+have one for imposter syndrome?
+
+On Tue, Jul 11, 2017 at 3:58 PM, Anne Bertucio <anne at openstack.org> wrote:
+
+> +1 to Kendall’s note about the Wiki page. Looks like it could use a little
+> auditing and a reorganizing, which could include adding a section for
+> recordings. I’m down to help with that effort!
+>
+>
+> Anne Bertucio
+> Marketing and Certification, OpenStack Foundation
+> anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+>
+>
+>
+>
+> On Jul 11, 2017, at 12:53 PM, Kendall Nelson <kennelson11 at gmail.com>
+> wrote:
+>
+> Thank you so much for recording this! I can't wait to listen!
+>
+> On a related note, can we make all of these recording available on the WoO
+> Wiki page? That way its easier for people to find them and refer back if
+> they have missed them? Its a lot easier to just go there than to sift
+> through emails to find the right one for the link.
+>
+> Now that I look at the wiki page [1] , its starting to get a little
+> cluttered and out of date, maybe we should talk about cleaning that up a
+> bit too?
+>
+> -Kendall Nelson
+>
+> [1] https://wiki.openstack.org/wiki/Women_of_OpenStack
+>
+>
+> On Tue, Jul 11, 2017 at 11:40 AM Cohen, Beth F <beth.cohen at verizon.com>
+> wrote:
+>
+>> Folks –
+>>
+>> Here is a recording of the WOO Speaker Series: Imposter Syndrome with
+>> Major Hayden presentation
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>> *Play recording*
+>> <https://urldefense.proofpoint.com/v2/url?u=https-3A__verizon2.webex.com_verizon2-2Den_lsr.php-3FRCID-3De6e8985a25d7455dbdae7dafde5d5f6e&d=DwMGaQ&c=udBTRvFvXC5Dhqg7UHpJlPps3mZ3LRxpb6__0PomBTQ&r=Rsx7wkM3CoWr0KjSmfTh3iZO8Bk6HNLpvQKJmsXXw3U&m=nLy654yBsQy8ISM-6--SLuHCFnWAbzEr-1-TtdqGlpQ&s=7STJRJ-aapnOiJSCGIbl2TTp-vNc1H6Qhdsh65l2CCo&e=>
+>> (13 min 16 sec)
+>>
+>> Recording password: (This recording does not require a password.)
+>>
+>>
+>>
+>> Major Hayden, principal architect at Rackspace, lead  a discussion on
+>> impostor syndrome including how to identify it and how to overcome it.
+>>
+>>
+>>
+>> The OpenStack community is highly collaborative, fast-paced, and helpful.
+>>
+>> However, some new community members are overwhelmed with new terminology
+>> and detailed processes, especially those with impostor syndrome.  They
+>> struggle with an internal battle where their confidence and competence are
+>> not aligned. Impostor syndrome is a psychological phenomenon that affects
+>> people from all backgrounds and all skill levels. They feel like their
+>> competence level is much lower than it really is and they feel this way on
+>> a regular basis. This can cause community members to become detached or
+>> feel incapable of providing meaningful contributions.
+>>
+>>
+>>
+>> Major's bio:
+>>
+>> Major Hayden builds OpenStack clouds as a Principal Architect at
+>> Rackspace.
+>>
+>> Major is a core developer in the OpenStack-Ansible project with a focus
+>> on improving information security in OpenStack deployments.  He holds
+>> multiple Red Hat and Global Information Assurance Certification (GIAC)
+>> certifications and has written extensively about securing virtualized Linux
+>> environments. Outside of OpenStack, Major has contributed to several open
+>> source projects including dracut, systemd, and Ansible. Within the Fedora
+>> Linux community, Major serves on the Fedora Security Team and Fedora Server
+>> Working Group. Major enjoys writing on his personal blog, major.io, and
+>> he talks about technical topics on Twitter as @majorhayden.
+>>
+>>
+>>
+>>
+>>
+>>
+>> <http://www.verizon.com/>
+>>
+>> Beth Cohen
+>> NFV/SDN Network Product Strategy
+>>
+>> O +781-466-2055 | M +781-434-8553
+>> beth.cohen at verizon.com
+>>
+>> <http://www.facebook.com/verizon>   <http://twitter.com/verizon>
+>> <http://www.instagram.com/verizon>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+> <image004.png><image002.png><image001.png><image002.png><image003.png>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/f8e5f6a7/attachment.html>
+
+From major at mhtx.net  Tue Jul 11 20:37:10 2017
+From: major at mhtx.net (Major Hayden)
+Date: Tue, 11 Jul 2017 15:37:10 -0500
+Subject: [Women-of-openstack] Recording of WOO Speaker Series: Imposter
+ Syndrome with Major Hayden
+In-Reply-To: <CAPrU3jE6FHGAuMmFKmLp4KzmUz_F0wOBBZoqO03dheCeo23Ndw@mail.gmail.com>
+References: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+ <CAJ6yrQikRS9yCc8gDiiDLGD4PgLbhq2a1ZFN2t3Vx1LpgRDnYg@mail.gmail.com>
+ <5979CCF7-653F-40DF-9768-AE5CF998475E@openstack.org>
+ <CAPrU3jE6FHGAuMmFKmLp4KzmUz_F0wOBBZoqO03dheCeo23Ndw@mail.gmail.com>
+Message-ID: <CACU+yy3QBULLvswzkEeAxu=dvBZ1a1HHK4ugJ14rm6wVWOf7BA@mail.gmail.com>
+
+Hey there,
+
+I couldn't come up with a recording mechanism fast enough when I presented
+that afternoon. :/
+
+However, there is a YouTube video of that same talk from the Boston summit
+here:
+
+  https://www.youtube.com/watch?v=eajWhDOVjWo
+
+I'll be happy to answer any questions or handle any feedback you have!
+
+--
+Major Hayden
+
+On Tue, Jul 11, 2017 at 3:28 PM, Shilla Saebi <shilla.saebi at gmail.com>
+wrote:
+
+> Hi Everyone,
+>
+> I opened the link and it seems to be the recording for the COA exam. Do we
+> have one for imposter syndrome?
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/5ef118c9/attachment.html>
+
+From shilla.saebi at gmail.com  Tue Jul 11 20:39:29 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Tue, 11 Jul 2017 16:39:29 -0400
+Subject: [Women-of-openstack] Recording of WOO Speaker Series: Imposter
+ Syndrome with Major Hayden
+In-Reply-To: <CACU+yy3QBULLvswzkEeAxu=dvBZ1a1HHK4ugJ14rm6wVWOf7BA@mail.gmail.com>
+References: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+ <CAJ6yrQikRS9yCc8gDiiDLGD4PgLbhq2a1ZFN2t3Vx1LpgRDnYg@mail.gmail.com>
+ <5979CCF7-653F-40DF-9768-AE5CF998475E@openstack.org>
+ <CAPrU3jE6FHGAuMmFKmLp4KzmUz_F0wOBBZoqO03dheCeo23Ndw@mail.gmail.com>
+ <CACU+yy3QBULLvswzkEeAxu=dvBZ1a1HHK4ugJ14rm6wVWOf7BA@mail.gmail.com>
+Message-ID: <CAPrU3jGSBv_eaKm5Z0RZYUy3zoByxMgjNU0w2dF-9K7h6v84dQ@mail.gmail.com>
+
+Thank you very much!
+
+Shilla
+
+On Tue, Jul 11, 2017 at 4:37 PM, Major Hayden <major at mhtx.net> wrote:
+
+> Hey there,
+>
+> I couldn't come up with a recording mechanism fast enough when I presented
+> that afternoon. :/
+>
+> However, there is a YouTube video of that same talk from the Boston summit
+> here:
+>
+>   https://www.youtube.com/watch?v=eajWhDOVjWo
+>
+> I'll be happy to answer any questions or handle any feedback you have!
+>
+> --
+> Major Hayden
+>
+> On Tue, Jul 11, 2017 at 3:28 PM, Shilla Saebi <shilla.saebi at gmail.com>
+> wrote:
+>
+>> Hi Everyone,
+>>
+>> I opened the link and it seems to be the recording for the COA exam. Do
+>> we have one for imposter syndrome?
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/6cace9ff/attachment-0001.html>
+
+From major at mhtx.net  Tue Jul 11 20:41:04 2017
+From: major at mhtx.net (Major Hayden)
+Date: Tue, 11 Jul 2017 15:41:04 -0500
+Subject: [Women-of-openstack] Recording of WOO Speaker Series: Imposter
+ Syndrome with Major Hayden
+In-Reply-To: <CAPrU3jGSBv_eaKm5Z0RZYUy3zoByxMgjNU0w2dF-9K7h6v84dQ@mail.gmail.com>
+References: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+ <CAJ6yrQikRS9yCc8gDiiDLGD4PgLbhq2a1ZFN2t3Vx1LpgRDnYg@mail.gmail.com>
+ <5979CCF7-653F-40DF-9768-AE5CF998475E@openstack.org>
+ <CAPrU3jE6FHGAuMmFKmLp4KzmUz_F0wOBBZoqO03dheCeo23Ndw@mail.gmail.com>
+ <CACU+yy3QBULLvswzkEeAxu=dvBZ1a1HHK4ugJ14rm6wVWOf7BA@mail.gmail.com>
+ <CAPrU3jGSBv_eaKm5Z0RZYUy3zoByxMgjNU0w2dF-9K7h6v84dQ@mail.gmail.com>
+Message-ID: <CACU+yy1aaWJVY27OPwt2ghZhJfCTfpuG4OxodNEk6A1q7-4O1w@mail.gmail.com>
+
+You're welcome! Thanks for the interest in the talk! :)
+
+--
+Major Hayden
+
+
+On Tue, Jul 11, 2017 at 3:39 PM, Shilla Saebi <shilla.saebi at gmail.com> wrote:
+> Thank you very much!
+>
+> Shilla
+
+
+From sravanikishore.sravs at gmail.com  Tue Jul 11 22:47:03 2017
+From: sravanikishore.sravs at gmail.com (sravanikishore sravs)
+Date: Tue, 11 Jul 2017 17:47:03 -0500
+Subject: [Women-of-openstack] Recording of WOO Speaker Series:
+	ImposterSyndrome with Major Hayden
+In-Reply-To: <1499807756807.425288341@boxbe>
+References: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+ <CAJ6yrQikRS9yCc8gDiiDLGD4PgLbhq2a1ZFN2t3Vx1LpgRDnYg@mail.gmail.com>
+ <5979CCF7-653F-40DF-9768-AE5CF998475E@openstack.org>
+ <1499807756807.425288341@boxbe>
+Message-ID: <AD1D59C1-CBEE-4C32-9185-3F263DA93CD8@gmail.com>
+
+I am not able to know the proper timings of this meetings. Though downloading the invite it is giving wrong times.Can you let me know a way to figure out.
+
+Sent from my iPhone
+
+> On Jul 11, 2017, at 3:28 PM, Shilla Saebi <shilla.saebi at gmail.com> wrote:
+> 
+>    Shilla Saebi (shilla.saebi at gmail.com) is not on your Guest List | Approve sender | Approve domain 
+> Hi Everyone,
+> 
+> I opened the link and it seems to be the recording for the COA exam. Do we have one for imposter syndrome?
+> 
+>> On Tue, Jul 11, 2017 at 3:58 PM, Anne Bertucio <anne at openstack.org> wrote:
+>> +1 to Kendall’s note about the Wiki page. Looks like it could use a little auditing and a reorganizing, which could include adding a section for recordings. I’m down to help with that effort!
+>> 
+>> 
+>> Anne Bertucio
+>> Marketing and Certification, OpenStack Foundation
+>> anne at openstack.org | 206-992-7961
+>> 
+>> 
+>> 
+>> 
+>>> On Jul 11, 2017, at 12:53 PM, Kendall Nelson <kennelson11 at gmail.com> wrote:
+>>> 
+>>> Thank you so much for recording this! I can't wait to listen!
+>>> 
+>>> On a related note, can we make all of these recording available on the WoO Wiki page? That way its easier for people to find them and refer back if they have missed them? Its a lot easier to just go there than to sift through emails to find the right one for the link. 
+>>> 
+>>> Now that I look at the wiki page [1] , its starting to get a little cluttered and out of date, maybe we should talk about cleaning that up a bit too? 
+>>> 
+>>> -Kendall Nelson
+>>> 
+>>> [1] https://wiki.openstack.org/wiki/Women_of_OpenStack 
+>>> 
+>>> 
+>>>> On Tue, Jul 11, 2017 at 11:40 AM Cohen, Beth F <beth.cohen at verizon.com> wrote:
+>>>> Folks –
+>>>> 
+>>>> Here is a recording of the WOO Speaker Series: Imposter Syndrome with Major Hayden presentation
+>>>> 
+>>>>  
+>>>> 
+>>>>  
+>>>> 
+>>>> Play recording (13 min 16 sec)
+>>>> 
+>>>> Recording password: (This recording does not require a password.) 
+>>>> 
+>>>>  
+>>>> 
+>>>> Major Hayden, principal architect at Rackspace, lead  a discussion on impostor syndrome including how to identify it and how to overcome it.
+>>>> 
+>>>>  
+>>>> 
+>>>> The OpenStack community is highly collaborative, fast-paced, and helpful.
+>>>> 
+>>>> However, some new community members are overwhelmed with new terminology and detailed processes, especially those with impostor syndrome.  They struggle with an internal battle where their confidence and competence are not aligned. Impostor syndrome is a psychological phenomenon that affects people from all backgrounds and all skill levels. They feel like their competence level is much lower than it really is and they feel this way on a regular basis. This can cause community members to become detached or feel incapable of providing meaningful contributions.
+>>>> 
+>>>>  
+>>>> 
+>>>> Major's bio:
+>>>> 
+>>>> Major Hayden builds OpenStack clouds as a Principal Architect at Rackspace.
+>>>> 
+>>>> Major is a core developer in the OpenStack-Ansible project with a focus on improving information security in OpenStack deployments.  He holds multiple Red Hat and Global Information Assurance Certification (GIAC) certifications and has written extensively about securing virtualized Linux environments. Outside of OpenStack, Major has contributed to several open source projects including dracut, systemd, and Ansible. Within the Fedora Linux community, Major serves on the Fedora Security Team and Fedora Server Working Group. Major enjoys writing on his personal blog, major.io, and he talks about technical topics on Twitter as @majorhayden.
+>>>> 
+>>>>  
+>>>> 
+>>>>  
+>>>> 
+>>>> 
+>>>> 
+>>>> 
+>>>> Beth Cohen
+>>>> NFV/SDN Network Product Strategy
+>>>> 
+>>>> O +781-466-2055 | M +781-434-8553
+>>>> beth.cohen at verizon.com
+>>>> 
+>>>>     
+>>>> 
+>>>> 
+>>>> _______________________________________________
+>>>> Women-of-openstack mailing list
+>>>> Women-of-openstack at lists.openstack.org
+>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>> <image004.png><image002.png><image001.png><image002.png><image003.png>_______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> 
+>> 
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/f2753621/attachment.html>
+
+From kennelson11 at gmail.com  Tue Jul 11 23:01:16 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Tue, 11 Jul 2017 23:01:16 +0000
+Subject: [Women-of-openstack] Recording of WOO Speaker Series:
+ ImposterSyndrome with Major Hayden
+In-Reply-To: <AD1D59C1-CBEE-4C32-9185-3F263DA93CD8@gmail.com>
+References: <3915b6792b4449ee97c47ce15f80a154@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+ <CAJ6yrQikRS9yCc8gDiiDLGD4PgLbhq2a1ZFN2t3Vx1LpgRDnYg@mail.gmail.com>
+ <5979CCF7-653F-40DF-9768-AE5CF998475E@openstack.org>
+ <1499807756807.425288341@boxbe>
+ <AD1D59C1-CBEE-4C32-9185-3F263DA93CD8@gmail.com>
+Message-ID: <CAJ6yrQj3V7y=CL1VjeymTDPEgMXzWct=z4V_e7PgEvO3hjr_gg@mail.gmail.com>
+
+20:00 UTC on the odd numbered weeks we have our meetings :)
+
+On Tue, Jul 11, 2017 at 3:48 PM sravanikishore sravs <
+sravanikishore.sravs at gmail.com> wrote:
+
+> I am not able to know the proper timings of this meetings. Though
+> downloading the invite it is giving wrong times.Can you let me know a way
+> to figure out.
+>
+> Sent from my iPhone
+>
+> On Jul 11, 2017, at 3:28 PM, Shilla Saebi <shilla.saebi at gmail.com> wrote:
+>
+> [image: Boxbe] <https://www.boxbe.com/overview> Shilla Saebi (
+> shilla.saebi at gmail.com) is not on your Guest List
+> <https://www.boxbe.com/approved-list?tc_serial=31399357678&tc_rand=158445238&utm_source=stf&utm_medium=email&utm_campaign=ANNO_MWTP&utm_content=001&key=vo6C7qYRPnPYQeoSj1fJrtJYaEVsMKvSCKX6B7P5kQw%3D&token=myVqMBAJIdnU4r41prfAQzQYXd1dn1XKT%2Btrw3at7lpwHG0ZBghBM79PrSmM4nmL>
+> | Approve sender
+> <https://www.boxbe.com/anno?tc_serial=31399357678&tc_rand=158445238&utm_source=stf&utm_medium=email&utm_campaign=ANNO_MWTP&utm_content=001&key=vo6C7qYRPnPYQeoSj1fJrtJYaEVsMKvSCKX6B7P5kQw%3D&token=myVqMBAJIdnU4r41prfAQzQYXd1dn1XKT%2Btrw3at7lpwHG0ZBghBM79PrSmM4nmL>
+> | Approve domain
+> <https://www.boxbe.com/anno?tc_serial=31399357678&tc_rand=158445238&utm_source=stf&utm_medium=email&utm_campaign=ANNO_MWTP&utm_content=001&dom&key=vo6C7qYRPnPYQeoSj1fJrtJYaEVsMKvSCKX6B7P5kQw%3D&token=myVqMBAJIdnU4r41prfAQzQYXd1dn1XKT%2Btrw3at7lpwHG0ZBghBM79PrSmM4nmL>
+>
+> Hi Everyone,
+>
+> I opened the link and it seems to be the recording for the COA exam. Do we
+> have one for imposter syndrome?
+>
+> On Tue, Jul 11, 2017 at 3:58 PM, Anne Bertucio <anne at openstack.org> wrote:
+>
+> +1 to Kendall’s note about the Wiki page. Looks like it could use a little
+>> auditing and a reorganizing, which could include adding a section for
+>> recordings. I’m down to help with that effort!
+>>
+>>
+>> Anne Bertucio
+>> Marketing and Certification, OpenStack Foundation
+>> anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+>>
+>>
+>>
+>>
+>> On Jul 11, 2017, at 12:53 PM, Kendall Nelson <kennelson11 at gmail.com>
+>> wrote:
+>>
+>> Thank you so much for recording this! I can't wait to listen!
+>>
+>> On a related note, can we make all of these recording available on the
+>> WoO Wiki page? That way its easier for people to find them and refer back
+>> if they have missed them? Its a lot easier to just go there than to sift
+>> through emails to find the right one for the link.
+>>
+>> Now that I look at the wiki page [1] , its starting to get a little
+>> cluttered and out of date, maybe we should talk about cleaning that up a
+>> bit too?
+>>
+>> -Kendall Nelson
+>>
+>> [1] https://wiki.openstack.org/wiki/Women_of_OpenStack
+>>
+>>
+>> On Tue, Jul 11, 2017 at 11:40 AM Cohen, Beth F <beth.cohen at verizon.com>
+>> wrote:
+>>
+>>> Folks –
+>>>
+>>> Here is a recording of the WOO Speaker Series: Imposter Syndrome with
+>>> Major Hayden presentation
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> *Play recording*
+>>> <https://urldefense.proofpoint.com/v2/url?u=https-3A__verizon2.webex.com_verizon2-2Den_lsr.php-3FRCID-3De6e8985a25d7455dbdae7dafde5d5f6e&d=DwMGaQ&c=udBTRvFvXC5Dhqg7UHpJlPps3mZ3LRxpb6__0PomBTQ&r=Rsx7wkM3CoWr0KjSmfTh3iZO8Bk6HNLpvQKJmsXXw3U&m=nLy654yBsQy8ISM-6--SLuHCFnWAbzEr-1-TtdqGlpQ&s=7STJRJ-aapnOiJSCGIbl2TTp-vNc1H6Qhdsh65l2CCo&e=>
+>>> (13 min 16 sec)
+>>>
+>>> Recording password: (This recording does not require a password.)
+>>>
+>>>
+>>>
+>>> Major Hayden, principal architect at Rackspace, lead  a discussion on
+>>> impostor syndrome including how to identify it and how to overcome it.
+>>>
+>>>
+>>>
+>>> The OpenStack community is highly collaborative, fast-paced, and helpful.
+>>>
+>>> However, some new community members are overwhelmed with new terminology
+>>> and detailed processes, especially those with impostor syndrome.  They
+>>> struggle with an internal battle where their confidence and competence are
+>>> not aligned. Impostor syndrome is a psychological phenomenon that affects
+>>> people from all backgrounds and all skill levels. They feel like their
+>>> competence level is much lower than it really is and they feel this way on
+>>> a regular basis. This can cause community members to become detached or
+>>> feel incapable of providing meaningful contributions.
+>>>
+>>>
+>>>
+>>> Major's bio:
+>>>
+>>> Major Hayden builds OpenStack clouds as a Principal Architect at
+>>> Rackspace.
+>>>
+>>> Major is a core developer in the OpenStack-Ansible project with a focus
+>>> on improving information security in OpenStack deployments.  He holds
+>>> multiple Red Hat and Global Information Assurance Certification (GIAC)
+>>> certifications and has written extensively about securing virtualized Linux
+>>> environments. Outside of OpenStack, Major has contributed to several open
+>>> source projects including dracut, systemd, and Ansible. Within the Fedora
+>>> Linux community, Major serves on the Fedora Security Team and Fedora Server
+>>> Working Group. Major enjoys writing on his personal blog, major.io, and
+>>> he talks about technical topics on Twitter as @majorhayden.
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>> <http://www.verizon.com/>
+>>>
+>>> Beth Cohen
+>>> NFV/SDN Network Product Strategy
+>>>
+>>> O +781-466-2055 | M +781-434-8553
+>>> beth.cohen at verizon.com
+>>>
+>>> <http://www.facebook.com/verizon>   <http://twitter.com/verizon>
+>>> <http://www.instagram.com/verizon>
+>>>
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>
+>> <image004.png><image002.png><image001.png><image002.png><image003.png>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170711/9655da04/attachment-0001.html>
+
+From tribecca at tribecc.us  Thu Jul 13 21:38:36 2017
+From: tribecca at tribecc.us (T. Nichole Williams)
+Date: Thu, 13 Jul 2017 16:38:36 -0500
+Subject: [Women-of-openstack] OpenStack Diversity BoF
+Message-ID: <DE5C9F09-6BF1-4D6A-831E-C8CD99803F06@tribecc.us>
+
+
+Hi everyone,
+
+Since we still have a few days to present presentation proposals for Summit, I was wondering if anyone would like to join me on a diversity panel or BoF for women (specifically WOC) in OpenStack? 
+
+
+<3 Trilliams
+
+Sent from my iPhone
+
+
+<3 Trilliams
+
+Sent from my iPhone
+
+From bfcohen at luthcomputer.com  Thu Jul 13 22:29:59 2017
+From: bfcohen at luthcomputer.com (bfcohen)
+Date: Thu, 13 Jul 2017 18:29:59 -0400
+Subject: [Women-of-openstack] OpenStack Diversity BoF
+Message-ID: <mailman.445.1500040400.28249.women-of-openstack@lists.openstack.org>
+
+Happy to. 
+
+
+Sent from my Verizon, Samsung Galaxy smartphone
+-------- Original message --------From: "T. Nichole Williams" <tribecca at tribecc.us> Date: 7/13/17  5:38 PM  (GMT-05:00) To: women-of-openstack at lists.openstack.org, openstack-dev at lists.openstack.org, openstack-operators at lists.openstack.org Subject: [Women-of-openstack] OpenStack Diversity BoF 
+
+Hi everyone,
+
+Since we still have a few days to present presentation proposals for Summit, I was wondering if anyone would like to join me on a diversity panel or BoF for women (specifically WOC) in OpenStack? 
+
+
+<3 Trilliams
+
+Sent from my iPhone
+
+
+<3 Trilliams
+
+Sent from my iPhone
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170713/67b16d5f/attachment.html>
+
+From amy at demarco.com  Mon Jul 24 15:23:32 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 24 Jul 2017 10:23:32 -0500
+Subject: [Women-of-openstack] Meeting Reminder - Today!
+Message-ID: <CAFs83QqxbT1n4_wXpeQ7Hm0t=DSKic7SavM5j6qzexu5Y31OpA@mail.gmail.com>
+
+Sorry for the late reminder
+
+Hi all - our next WOO meeting is today, Monday July 24, 2017 at
+
+20:00 UTC, 4 EDT, 3 CDT, 2 MDT, and 1 PDT.
+
+
+Please add your agenda items to this meeting's etherpad:
+
+Meeting etherpad: https://etherpad.openstack.org/p/WOS_07_24_17
+
+
+Dial In: 1-203-277-8157 or 866-619-0383
+
+Participant: 7217256# Leader 4018#
+
+
+WOO needs you! Sign up to host a future meeting at:
+
+https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+
+See you all later today!
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170724/8d730873/attachment.html>
+
+From kennelson11 at gmail.com  Mon Jul 24 20:25:15 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Mon, 24 Jul 2017 20:25:15 +0000
+Subject: [Women-of-openstack] Wiki Directory
+Message-ID: <CAJ6yrQi6-O5t=KSCkM7VGJTKLkOhZA1b84o1S07wgC0d9YqN-A@mail.gmail.com>
+
+Hello Everyone :)
+
+I did some cleanup of the wiki and in doing so I noticed that there is a
+lot of outdated information in the directory and I need your help!
+
+1. If you aren't in the directory already, please add yourself! I have
+ordered it by last name so please keep to the convention :)
+
+2. If you have switched jobs or been promoted or have a new email or
+anything like that, please go update your information.
+
+3. If you know of people that are no longer working on OpenStack or have
+retired and they are still in the directory please remove them so we can
+keep our information up to date.
+
+Thank you for your help!!
+
+-Kendall Nelson (diablo_rojo)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170724/5713341f/attachment.html>
+
+From kendall at openstack.org  Tue Jul 25 14:18:24 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Tue, 25 Jul 2017 09:18:24 -0500
+Subject: [Women-of-openstack] Community Voting NOW OPEN - OpenStack Summit
+	Sydney
+Message-ID: <8EB59968-140E-4FDD-8C1F-469230EF39F7@openstack.org>
+
+Hi everyone, 
+
+Session voting is now open for the November 2017 OpenStack Summit in Sydney!
+
+VOTE HERE <https://www.openstack.org/summit/sydney-2017/vote-for-speakers>
+Hurry, voting closes Tuesday, August 1 at 11:59pm Pacific Time (Wednesday, August 2 at 6:59am UTC). 
+
+Track Chairs will ultimately determine the final schedule. Community votes are meant to help inform the decision, but are not considered to be the deciding factor. Track chairs exercise judgment in their area of expertise and help ensure diversity. View full details of the session selection process here <https://www.openstack.org/summit/sydney-2017/call-for-presentations/selection-process>. 
+
+Continue to visit https://www.openstack.org/summit/sydney-2017/ <https://www.openstack.org/summit/sydney-2017/> for all Summit-related information.
+
+REGISTER
+Register HERE <https://openstacksummit2017sydney.eventbrite.com/> before prices increase in early September!
+
+VISA APPLICATION PROCESS
+All non-Australian residents will need a visa to travel to Australia. More information about the visa process can be found HERE <https://www.openstack.org/summit/sydney-2017/travel/>.
+
+TRAVEL SUPPORT PROGRAM
+August 22 is the last day to submit applications. Please submit your applications HERE <https://www.openstack.org/summit/sydney-2017/travel/> by 11:59pm Pacific Time (August 23 at 6:59am UTC). 
+
+If you have any questions, please email summit at openstack.org <mailto:summit at openstack.org>.
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170725/cf583919/attachment.html>
+
+From claire at openstack.org  Tue Jul 25 16:13:28 2017
+From: claire at openstack.org (Claire Massey)
+Date: Tue, 25 Jul 2017 11:13:28 -0500
+Subject: [Women-of-openstack] Register NOW - OpenDev,
+ a New Edge Computing Event: Sept 7-8, San Francisco
+Message-ID: <7CE2602D-B8D3-4C77-87D2-2625F57F9329@openstack.org>
+
+Hello Stackers,
+
+If you’re involved in Edge Computing then we invite you to register for OpenDev <http://www.opendevconf.com/>, a new event that's specifically focused on Edge using open technologies. 
+
+The event is organized by the OpenStack Foundation, but it’s not OpenStack specific. Discussions will cover many relevant open technologies. OpenDev will take place at DogPatch Studios in San Francisco, September 7-8 - the week prior to the Denver PTG. 
+
+We’d love for you to help us make it a success to drive OpenStack and other tech in the right direction for Edge computing use cases.
+
+This two-day event is designed to facilitate collaboration at a technical level with productive, working group discussions, in addition to lightning talk presentations on Edge use cases. You can view registration, schedule and sponsorship details at http://www.opendevconf.com/ <http://www.opendevconf.com/>.  
+
+There will be a range of sessions that are collaborative, led by moderators who dive into specific topics. Topics like managing security, what control planes need to look like, networking technologies in play, gap analysis across OpenStack and other projects, deployment considerations, zero touch provisioning and others. The discussions will be technical and specific—this is not meant to be a vision or thought leadership event, but a practical step forward in improving the state of Edge across open tech.
+
+OpenDev will be much smaller than many of our events. The max capacity is fewer than 300 people so it will likely sell out fast. Since the event has limited size, we’re limiting registration to a max of 10 seats per company (15 seats per sponsor company). Tickets are only $100 for the two-day event. 
+
+Register HERE <https://www.eventbrite.com/e/opendev-2017-edge-computing-tickets-35579171259> 
+
+We’d also like to know anyone you’re working with that you think would be an important participant. If you pass their info along, we can reach out to them and get them looped in.
+
+Thanks for helping us advance the future of Edge computing. 
+
+Cheers,
+Claire
+
+Claire Massey
+OpenStack Foundation
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170725/0d19440e/attachment.html>
+
+From kendall at openstack.org  Mon Jul 31 15:47:13 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Mon, 31 Jul 2017 10:47:13 -0500
+Subject: [Women-of-openstack] Community Voting Deadline Extended - OpenStack
+	Summit Sydney
+Message-ID: <63E5FC82-DF37-4681-BB38-4C320EF8A4EE@openstack.org>
+
+Hi everyone,
+
+Because of the errors that were experienced during the first few days of community voting, we have decided to extend the community voting deadline to Thursday, August 3 at 11:59pm Pacific Time (August 4 at 6:59 UTC).
+
+Vote for talks here: https://www.openstack.org/summit/sydney-2017/vote-for-speakers
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170731/1da84f28/attachment.html>
+
+From kratna at juniper.net  Mon Jul 31 23:12:18 2017
+From: kratna at juniper.net (Kumuthini Ratnasingham)
+Date: Mon, 31 Jul 2017 23:12:18 +0000
+Subject: [Women-of-openstack] Voting for sessions at  Openstack Summit
+In-Reply-To: <CY1PR0501MB2171CF58498EC95E33D72DEDD76D0@CY1PR0501MB2171.namprd05.prod.outlook.com>
+References: <CY1PR0501MB2171CF58498EC95E33D72DEDD76D0@CY1PR0501MB2171.namprd05.prod.outlook.com>
+Message-ID: <CY4PR05MB2838D724A705A9D2B6CCB04FD7B20@CY4PR05MB2838.namprd05.prod.outlook.com>
+
+Greetings !
+
+
+If you like this topic to be presented at the Summit , please vote !  Thanks in advance !
+
+
+Micro Segmentation using OpenContrail to provide Seamless Networking in OpenStack,Docker,Mesos, K8s
+
+
+Voting closes Tomorrow Tuesday, August 1 at 11:59pm Pacific Time.
+
+
+To vote - please click on the link below .
+<https://www.openstack.org/summit/sydney-2017/vote-for-speakers/#/19999>
+
+
+<https://www.openstack.org/summit/sydney-2017/vote-for-speakers/#/19999>
+
+https://www.openstack.org/summit/sydney-2017/vote-for-speakers/#/19999
+
+
+[http://www.openstack.org/themes/openstack/images/openstack-logo-full.png]<https://www.openstack.org/summit/sydney-2017/vote-for-speakers/#/19999>
+
+Vote For Sydney 2017 Summit Presentations - openstack.org<https://www.openstack.org/summit/sydney-2017/vote-for-speakers/#/19999>
+www.openstack.org
+Vote For Presentations Deadline: Tuesday, February 21 at 11:59pm PST / Wednesday, February 22 at 6:59am UTC
+
+
+~Warmly,
+
+Kumuthini
+
+
+
+________________________________
+From: Cohen, Beth F (Beth)
+Sent: Wednesday, April 20, 2016 7:09 AM
+To: Cohen, Beth F (Beth); women-of-openstack at lists.openstack.org; bfcohen100 at gmail.com; Erin Disney; Kendall Waters; Namphy, Lisa-Marie (Cloud & OpenStack)
+Cc: Richa Yadav (ricyadav); Toni Craise; Maria Rita Villari; Lois Alston (lalston); Johnston, Tamara; Johanna Koester; Neela Shah; Whalen, Mauri; Reddy, Shree; Deepika Gupta (deepika); Jennifer Fowler; Nina Goradia; Egle Sigler; Shari Mahrdt; Emily K Hugenbruch; Karin Levenstein; Marcia Murray (marcmurr); K Rain Leander; Lynch, Danielle; Jennifer Mulsow; Linda Skrocki (lskrocki); Barrett, Carol L; Val Wanjura; Janie Richling; Carla Peeler; Annie Potvin; Stanzi Kratel; Anne-Cécile Salles; Jessica Murillo; yang, xing; claire at openstack.org; Scott Sanchez (scsanche); Ying Chun Guo; Nithya Ruff; Laura Clymer; Miller, Christina; Allie Barnes
+Subject: [Women-of-openstack] Women of OpenStack Meeting
+When: Monday, August 7, 2017 1:00 PM-2:00 PM.
+Where: 1-203-277-8157 866-619-0383 Participant: 7217256# Leader 4018#
+
+General Bi-Weekly Meeting
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170731/85cbe1c5/attachment.html>
+

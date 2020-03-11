@@ -1,0 +1,392 @@
+From marinaz@redhat.com  Thu Nov 17 06:44:34 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A0AAF7501CC
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 06:44:34 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -8.103
+X-Spam-Level: 
+X-Spam-Status: No, score=-8.103 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-1.201,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6KE4soCHyKAd for <gnome-women-list@gnome.org>;
+	Thu, 17 Nov 2011 06:44:32 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id C863C75009E
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 06:44:24 +0000 (UTC)
+Received: from zmail13.collab.prod.int.phx2.redhat.com
+	(zmail13.collab.prod.int.phx2.redhat.com [10.5.83.15])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id pAH6iNrh017998
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 01:44:23 -0500
+Date: Thu, 17 Nov 2011 01:44:23 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <617d572f-34b3-40b6-b657-6c98870c0e2e@zmail13.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <d6af3925-e0b1-421f-8fc8-9ceb9aaa0131@zmail13.collab.prod.int.phx2.redhat.com>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Originating-IP: [10.3.113.75]
+X-Mailer: Zimbra 7.1.2_GA_3268 (ZimbraWebClient - FF3.0 (Linux)/7.1.2_GA_3268)
+Subject: [gnome-women] accomplishments of the Outreach Program for Women
+	interns and new interns announcement
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 17 Nov 2011 06:44:34 -0000
+
+Hi all!
+
+The GNOME Project has put out a press release that highlights the accomplis=
+hments of the 15 female interns who worked on GNOME this summer and announc=
+es 12 new interns!
+
+"In each of the previous six years, at most one female student participated=
+ in Google Summer of Code in GNOME. This year, there were seven. The GNOME =
+Outreach Program for Women attracted these applicants and connected them wi=
+th mentors, who helped them with their first contribution. While creating a=
+nd landing the required contribution, the applicants learned first-hand the=
+ steps and technology involved in the project=E2=80=99s development and how=
+ gratifying and even addictive it is to contribute to Free Software. Once t=
+he internships started, they had the knowledge and eagerness to dive in int=
+o their work."
+
+Read more at:
+http://www.gnome.org/news/2011/11/gnome-outreach-program-for-women-particip=
+ants-continue-to-impress
+
+Thanks,
+Marina
+From alibezz@gmail.com  Thu Nov 17 09:49:12 2011
+Return-Path: <alibezz@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 3C6CA7500A4
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 09:49:12 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yxvT93a1vOkQ for <gnome-women-list@gnome.org>;
+	Thu, 17 Nov 2011 09:49:10 +0000 (UTC)
+Received: from mail-ww0-f46.google.com (mail-ww0-f46.google.com [74.125.82.46])
+	by menubar.gnome.org (Postfix) with ESMTP id 291F97500B9
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 09:49:01 +0000 (UTC)
+Received: by wwe3 with SMTP id 3so1655349wwe.27
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 01:49:00 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=eSx6LS96aOWNMzuAOcMpDcaabv38ON6UgF9+FOptvgQ=;
+	b=Q3uyj92k54HXiICQ9FjS+CF8wLrLmMBacYkLlUCd2FdGXv/nSg0q9xoeZSiuYOx9HJ
+	FQZerCM8ApM5HKaxOPV+WOGBq2kWVZEPx8FHWONkXR+e1kpjFPSkShBaCA4rUDi2nLvm
+	XV1e1Xl3LGKTeoLJUflwiqSu00wp0Qus1NLes=
+MIME-Version: 1.0
+Received: by 10.216.177.67 with SMTP id c45mr1856331wem.0.1321523340057; Thu,
+	17 Nov 2011 01:49:00 -0800 (PST)
+Received: by 10.216.172.196 with HTTP; Thu, 17 Nov 2011 01:48:59 -0800 (PST)
+In-Reply-To: <617d572f-34b3-40b6-b657-6c98870c0e2e@zmail13.collab.prod.int.phx2.redhat.com>
+References: <d6af3925-e0b1-421f-8fc8-9ceb9aaa0131@zmail13.collab.prod.int.phx2.redhat.com>
+	<617d572f-34b3-40b6-b657-6c98870c0e2e@zmail13.collab.prod.int.phx2.redhat.com>
+Date: Thu, 17 Nov 2011 07:48:59 -0200
+Message-ID: <CAA66yiVy+VAjSAW134d-OYRtkyicA61Q0+fNNe8vDiSYkQEYkg@mail.gmail.com>
+From: Aline Bessa <alibezz@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=0016e65685903f1d9304b1eb2157
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] accomplishments of the Outreach Program for Women
+ interns and new interns announcement
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 17 Nov 2011 09:49:12 -0000
+
+--0016e65685903f1d9304b1eb2157
+Content-Type: text/plain; charset=ISO-8859-1
+
+Great news!
+-- 
+Aline Bessa
+GNU/Linux Registered User #452373
+
+--0016e65685903f1d9304b1eb2157
+Content-Type: text/html; charset=ISO-8859-1
+
+Great news!<br>-- <br>Aline Bessa<br>GNU/Linux Registered User #452373<br>
+
+--0016e65685903f1d9304b1eb2157--
+From meg387@gmail.com  Thu Nov 17 15:09:23 2011
+Return-Path: <meg387@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E35037500E9
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 15:09:23 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Iihk2F4xGsCM for <gnome-women-list@gnome.org>;
+	Thu, 17 Nov 2011 15:09:22 +0000 (UTC)
+Received: from mail-fx0-f54.google.com (mail-fx0-f54.google.com
+	[209.85.161.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 8D7A27500A4
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 15:09:12 +0000 (UTC)
+Received: by faap15 with SMTP id p15so2679497faa.27
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 07:09:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=OIXtE68NP4lFkNWMQhTyg/TAljOEYFbdPzn5YZEa2Sg=;
+	b=RkMZUq+kzdLOMAro7xR8yKwf5IrKE5QGV0VSQYo0RsVf84FOqk7hBS2sPm+1ZaOqua
+	AYH+J4kPCm12RChbx591tws8cPnebDB26UhpTR7doN2awvjjxn2HKEWmSvEv/0sOPkTg
+	AqMGGA81tvziPN3ZgWMgA3avWmEr1WmYatuPs=
+MIME-Version: 1.0
+Received: by 10.152.162.10 with SMTP id xw10mr23413186lab.12.1321542551142;
+	Thu, 17 Nov 2011 07:09:11 -0800 (PST)
+Received: by 10.152.41.197 with HTTP; Thu, 17 Nov 2011 07:09:11 -0800 (PST)
+In-Reply-To: <CAA66yiVy+VAjSAW134d-OYRtkyicA61Q0+fNNe8vDiSYkQEYkg@mail.gmail.com>
+References: <d6af3925-e0b1-421f-8fc8-9ceb9aaa0131@zmail13.collab.prod.int.phx2.redhat.com>
+	<617d572f-34b3-40b6-b657-6c98870c0e2e@zmail13.collab.prod.int.phx2.redhat.com>
+	<CAA66yiVy+VAjSAW134d-OYRtkyicA61Q0+fNNe8vDiSYkQEYkg@mail.gmail.com>
+Date: Thu, 17 Nov 2011 09:09:11 -0600
+Message-ID: <CAC4QDKj-9r_nx3gq1mx8OPdCeaH6TtT+EPqoSvL+AfOyHB3E0A@mail.gmail.com>
+From: meg ford <meg387@gmail.com>
+To: Aline Bessa <alibezz@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d042f92ec50ff6b04b1ef9a44
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] accomplishments of the Outreach Program for Women
+ interns and new interns announcement
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 17 Nov 2011 15:09:24 -0000
+
+--f46d042f92ec50ff6b04b1ef9a44
+Content-Type: text/plain; charset=ISO-8859-1
+
+Thanks for letting us know, Marina, and thanks for all your great work on
+the Outreach Program!
+
+Meg Ford
+
+On Thu, Nov 17, 2011 at 3:48 AM, Aline Bessa <alibezz@gmail.com> wrote:
+
+> Great news!
+> --
+> Aline Bessa
+> GNU/Linux Registered User #452373
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--f46d042f92ec50ff6b04b1ef9a44
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Thanks for letting us know, Marina, and thanks for all your great work on t=
+he Outreach Program!<br><br>Meg Ford<br><br><div class=3D"gmail_quote">On T=
+hu, Nov 17, 2011 at 3:48 AM, Aline Bessa <span dir=3D"ltr">&lt;<a href=3D"m=
+ailto:alibezz@gmail.com">alibezz@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex;">Great news!<span class=3D"HOEnZb"><font col=
+or=3D"#888888"><br>-- <br>Aline Bessa<br>GNU/Linux Registered User #452373<=
+br>
+</font></span><br>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>=
+</blockquote></div><br>
+
+--f46d042f92ec50ff6b04b1ef9a44--
+From tiffany.antopolski@gmail.com  Thu Nov 17 16:38:57 2011
+Return-Path: <tiffany.antopolski@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 31EE47500DE
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 16:38:57 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VbfxMJ98x2As for <gnome-women-list@gnome.org>;
+	Thu, 17 Nov 2011 16:38:55 +0000 (UTC)
+Received: from mail-ww0-f46.google.com (mail-ww0-f46.google.com [74.125.82.46])
+	by menubar.gnome.org (Postfix) with ESMTP id C16A87500A4
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 16:38:46 +0000 (UTC)
+Received: by wwe3 with SMTP id 3so2153309wwe.27
+	for <gnome-women-list@gnome.org>; Thu, 17 Nov 2011 08:38:44 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:reply-to:in-reply-to:references:date:message-id
+	:subject:from:to:cc:content-type;
+	bh=VZi8xH/xseewWejwT0b4K3zcNFGGw+6pFxA6dZf6zNQ=;
+	b=GzhD/nXkGebb0P14Hlp91cKp+PoAhYFBPDY6RCYhoYHd/OvGc+SZ91PbaHk1RH6GP+
+	nVTrMbR8d+xbEPozf1nkOGOMgFCJJUMbm6j2SX7s3ub1nztUBaHl0QR7NcsSEzgvznt3
+	IwqtzcQuHKZcx473T3H9M6zxZ0DfCGiqZD3BE=
+MIME-Version: 1.0
+Received: by 10.52.17.43 with SMTP id l11mr58506101vdd.28.1321547923067; Thu,
+	17 Nov 2011 08:38:43 -0800 (PST)
+Received: by 10.220.175.205 with HTTP; Thu, 17 Nov 2011 08:38:42 -0800 (PST)
+In-Reply-To: <CAC4QDKj-9r_nx3gq1mx8OPdCeaH6TtT+EPqoSvL+AfOyHB3E0A@mail.gmail.com>
+References: <d6af3925-e0b1-421f-8fc8-9ceb9aaa0131@zmail13.collab.prod.int.phx2.redhat.com>
+	<617d572f-34b3-40b6-b657-6c98870c0e2e@zmail13.collab.prod.int.phx2.redhat.com>
+	<CAA66yiVy+VAjSAW134d-OYRtkyicA61Q0+fNNe8vDiSYkQEYkg@mail.gmail.com>
+	<CAC4QDKj-9r_nx3gq1mx8OPdCeaH6TtT+EPqoSvL+AfOyHB3E0A@mail.gmail.com>
+Date: Thu, 17 Nov 2011 11:38:42 -0500
+Message-ID: <CAKefwedY7=Dm8WV2x+SK1EDKxBisLJiGQVauiMCCcres-Wi=Zw@mail.gmail.com>
+From: Tiffany Antopolski <tiffany.antopolski@gmail.com>
+To: meg ford <meg387@gmail.com>
+Content-Type: multipart/alternative; boundary=bcaec5040be68212ff04b1f0daae
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] accomplishments of the Outreach Program for Women
+ interns and new interns announcement
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+Reply-To: tiffany.antopolski@gmail.com
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 17 Nov 2011 16:38:57 -0000
+
+--bcaec5040be68212ff04b1f0daae
+Content-Type: text/plain; charset=ISO-8859-1
+
+Wow that is awesome!
+
+On 17 November 2011 10:09, meg ford <meg387@gmail.com> wrote:
+
+> Thanks for letting us know, Marina, and thanks for all your great work on
+> the Outreach Program!
+>
+> Meg Ford
+>
+> On Thu, Nov 17, 2011 at 3:48 AM, Aline Bessa <alibezz@gmail.com> wrote:
+>
+>> Great news!
+>> --
+>> Aline Bessa
+>> GNU/Linux Registered User #452373
+>>
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>>
+>
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+
+
+-- 
+Tiffany Antopolski
+
+--bcaec5040be68212ff04b1f0daae
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Wow that is awesome!=A0 <br><br><div class=3D"gmail_quote">On 17 November 2=
+011 10:09, meg ford <span dir=3D"ltr">&lt;<a href=3D"mailto:meg387@gmail.co=
+m">meg387@gmail.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quo=
+te" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex;=
+">
+Thanks for letting us know, Marina, and thanks for all your great work on t=
+he Outreach Program!<span class=3D"HOEnZb"><font color=3D"#888888"><br><br>=
+Meg Ford<br><br></font></span><div class=3D"gmail_quote"><div><div class=3D=
+"h5">
+On Thu, Nov 17, 2011 at 3:48 AM, Aline Bessa <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:alibezz@gmail.com" target=3D"_blank">alibezz@gmail.com</a>&gt;</=
+span> wrote:<br>
+</div></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bo=
+rder-left:1px #ccc solid;padding-left:1ex"><div><div class=3D"h5">Great new=
+s!<span><font color=3D"#888888"><br>-- <br>Aline Bessa<br>GNU/Linux Registe=
+red User #452373<br>
+
+</font></span><br></div></div><div class=3D"im">___________________________=
+____________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org" target=3D"_blank">gnome-=
+women-list@mail.gnome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>=
+</div></blockquote></div><br>
+<br>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>=
+</blockquote></div><br><br clear=3D"all"><br>-- <br>Tiffany Antopolski<br><=
+br>
+
+
+--bcaec5040be68212ff04b1f0daae--

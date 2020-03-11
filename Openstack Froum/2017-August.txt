@@ -1,0 +1,2638 @@
+From poonammishra24398 at gmail.com  Wed Aug  2 15:58:36 2017
+From: poonammishra24398 at gmail.com (Poonam Mishra)
+Date: Wed, 2 Aug 2017 21:28:36 +0530
+Subject: [Women-of-openstack] Introduction to cloud computing with Openstack
+Message-ID: <CAD9gE26MF9p0wdy1=UxexEDagtD8yDGUEdBCf9H73pXXRSYv-A@mail.gmail.com>
+
+Hello everyone
+
+I am Poonam, a third year undergraduate studying at BITS Pilani, India. I
+am completely new to the concept of Openstack and I find it extremely
+fascinating. I want to learn about the projects and how to get involved.
+
+My previous work involved a lot of backend development in Django and Flask.
+I have made many softwares and games for my college fests and events. I am
+also selected for Google Summer of Code student under Systers this year for
+the project Automated Testing. Along with that, I have an experience in C++
+and Python for more than 2 years as of now. I even went to the regionals of
+ACM-ICPC.
+
+It would be great if someone could guide me with how I can start
+contributing to Openstack. Thanks in advance!
+
+
+
+Regards,
+Poonam Mishra
+Github - https://github.com/mish24
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170802/4052549d/attachment.html>
+
+From ekhugenbruch at us.ibm.com  Wed Aug  2 20:50:56 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Wed, 2 Aug 2017 16:50:56 -0400
+Subject: [Women-of-openstack] Seeking mentors and mentees for long term
+	mentoring
+Message-ID: <OF6431C8C9.6D1A4366-ON00258170.00724F8D-85258170.007286E3@notes.na.collabserv.com>
+
+
+
+Hello All!
+
+We are excited to kick off the next round of mentoring sponsored by the
+Women of OpenStack! Anyone can sign up who is interested in mentoring or in
+need of a mentor!
+
+Mentors! We can set you up as a technical mentor based on your areas of
+expertise within the community or we can match you with a mentee looking
+for more career advice.
+
+Mentees! We have a variety of Stackers interested in giving you both
+technical and career advice! We have mentors from a wide range of projects
+and working groups willing to help you get involved in different aspects of
+the community.
+
+We would like to make as many matches before the Denver PTG as we can
+so you can meet with your mentee/mentor there if you are both attending.
+
+
+
+  If you have been involved with previous rounds of mentoring, we would
+  love
+  to have you back!  Please fill out the form below, since we are starting
+  from a clean slate on mentors and mentees this time.
+
+  Sign up to get involved here:
+
+
+
+  https://openstackfoundation.formstack.com/forms/mentoring_pike_queens
+
+
+
+Sincerely,
+Emily Kate Hugenbruch
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170802/748e81e6/attachment.html>
+
+From ing.gloriapalmagonzalez at gmail.com  Thu Aug  3 15:44:26 2017
+From: ing.gloriapalmagonzalez at gmail.com (=?UTF-8?Q?Gloria_Palma_Gonz=C3=A1lez?=)
+Date: Thu, 3 Aug 2017 10:44:26 -0500
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 34, Issue 3
+In-Reply-To: <mailman.10.1501761601.8730.women-of-openstack@lists.openstack.org>
+References: <mailman.10.1501761601.8730.women-of-openstack@lists.openstack.org>
+Message-ID: <CAN4vghKiv-frXePcun5SK4G8X0GnfuGK81A7UA=2t8Cd0+Fstg@mail.gmail.com>
+
+Hi, my name is Gloria Palma from México :)
+
+I would like have a mentor, How to register in list to waiting?
+
+Thank you so much!
+
+2017-08-03 7:00 GMT-05:00 <women-of-openstack-request at lists.openstack.org>:
+
+> Send Women-of-openstack mailing list submissions to
+>         women-of-openstack at lists.openstack.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>         http://lists.openstack.org/cgi-bin/mailman/listinfo/
+> women-of-openstack
+>
+> or, via email, send a message with subject or body 'help' to
+>         women-of-openstack-request at lists.openstack.org
+>
+> You can reach the person managing the list at
+>         women-of-openstack-owner at lists.openstack.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of Women-of-openstack digest..."
+>
+>
+> Today's Topics:
+>
+>    1. Introduction to cloud computing with Openstack (Poonam Mishra)
+>    2. Seeking mentors and mentees for long term mentoring
+>       (Emily K Hugenbruch)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Wed, 2 Aug 2017 21:28:36 +0530
+> From: Poonam Mishra <poonammishra24398 at gmail.com>
+> To: women-of-openstack at lists.openstack.org
+> Subject: [Women-of-openstack] Introduction to cloud computing with
+>         Openstack
+> Message-ID:
+>         <CAD9gE26MF9p0wdy1=UxexEDagtD8yDGUEdBCf9H73pXXRSYv-A at mail.
+> gmail.com>
+> Content-Type: text/plain; charset="utf-8"
+>
+> Hello everyone
+>
+> I am Poonam, a third year undergraduate studying at BITS Pilani, India. I
+> am completely new to the concept of Openstack and I find it extremely
+> fascinating. I want to learn about the projects and how to get involved.
+>
+> My previous work involved a lot of backend development in Django and Flask.
+> I have made many softwares and games for my college fests and events. I am
+> also selected for Google Summer of Code student under Systers this year for
+> the project Automated Testing. Along with that, I have an experience in C++
+> and Python for more than 2 years as of now. I even went to the regionals of
+> ACM-ICPC.
+>
+> It would be great if someone could guide me with how I can start
+> contributing to Openstack. Thanks in advance!
+>
+>
+>
+> Regards,
+> Poonam Mishra
+> Github - https://github.com/mish24
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/
+> attachments/20170802/4052549d/attachment-0001.html>
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Wed, 2 Aug 2017 16:50:56 -0400
+> From: "Emily K Hugenbruch" <ekhugenbruch at us.ibm.com>
+> To: women-of-openstack at lists.openstack.org,
+>         openstack at lists.openstack.org, openstack-dev at lists.openstack.org
+> Subject: [Women-of-openstack] Seeking mentors and mentees for long
+>         term    mentoring
+> Message-ID:
+>         <OF6431C8C9.6D1A4366-ON00258170.00724F8D-85258170.
+> 007286E3 at notes.na.collabserv.com>
+>
+> Content-Type: text/plain; charset="iso-8859-1"
+>
+>
+>
+> Hello All!
+>
+> We are excited to kick off the next round of mentoring sponsored by the
+> Women of OpenStack! Anyone can sign up who is interested in mentoring or in
+> need of a mentor!
+>
+> Mentors! We can set you up as a technical mentor based on your areas of
+> expertise within the community or we can match you with a mentee looking
+> for more career advice.
+>
+> Mentees! We have a variety of Stackers interested in giving you both
+> technical and career advice! We have mentors from a wide range of projects
+> and working groups willing to help you get involved in different aspects of
+> the community.
+>
+> We would like to make as many matches before the Denver PTG as we can
+> so you can meet with your mentee/mentor there if you are both attending.
+>
+>
+>
+>   If you have been involved with previous rounds of mentoring, we would
+>   love
+>   to have you back!  Please fill out the form below, since we are starting
+>   from a clean slate on mentors and mentees this time.
+>
+>   Sign up to get involved here:
+>
+>
+>
+>   https://openstackfoundation.formstack.com/forms/mentoring_pike_queens
+>
+>
+>
+> Sincerely,
+> Emily Kate Hugenbruch
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/
+> attachments/20170802/748e81e6/attachment-0001.html>
+>
+> ------------------------------
+>
+> Subject: Digest Footer
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+> ------------------------------
+>
+> End of Women-of-openstack Digest, Vol 34, Issue 3
+> *************************************************
+>
+
+
+
+-- 
+
+Gloria Palma González
+GloriaPG | @GloriaPalmaGlez
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170803/635daab0/attachment.html>
+
+From ekhugenbruch at us.ibm.com  Thu Aug  3 15:59:43 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Thu, 3 Aug 2017 11:59:43 -0400
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 34, Issue 3
+In-Reply-To: <CAN4vghKiv-frXePcun5SK4G8X0GnfuGK81A7UA=2t8Cd0+Fstg@mail.gmail.com>
+References: <mailman.10.1501761601.8730.women-of-openstack@lists.openstack.org>
+ <CAN4vghKiv-frXePcun5SK4G8X0GnfuGK81A7UA=2t8Cd0+Fstg@mail.gmail.com>
+Message-ID: <OF92FD6F68.FD636285-ON00258171.0057CE12-85258171.0057DDBE@notes.na.collabserv.com>
+
+
+Hello Gloria,
+Please sign up via the form and we will try to match you with a mentor
+https://openstackfoundation.formstack.com/forms/mentoring_pike_queens
+Thank you.
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	Gloria Palma González <ing.gloriapalmagonzalez at gmail.com>
+To:	women-of-openstack at lists.openstack.org
+Date:	08/03/2017 11:45 AM
+Subject:	Re: [Women-of-openstack] Women-of-openstack Digest, Vol 34,
+            Issue 3
+
+
+
+Hi, my name is Gloria Palma from México :)
+
+I would like have a mentor, How to register in list to waiting?
+
+Thank you so much!
+
+2017-08-03 7:00 GMT-05:00 <women-of-openstack-request at lists.openstack.org>:
+  Send Women-of-openstack mailing list submissions to
+          women-of-openstack at lists.openstack.org
+
+  To subscribe or unsubscribe via the World Wide Web, visit
+
+  http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+  or, via email, send a message with subject or body 'help' to
+          women-of-openstack-request at lists.openstack.org
+
+  You can reach the person managing the list at
+          women-of-openstack-owner at lists.openstack.org
+
+  When replying, please edit your Subject line so it is more specific
+  than "Re: Contents of Women-of-openstack digest..."
+
+
+  Today's Topics:
+
+     1. Introduction to cloud computing with Openstack (Poonam Mishra)
+     2. Seeking mentors and mentees for long term mentoring
+        (Emily K Hugenbruch)
+
+
+  ----------------------------------------------------------------------
+
+  Message: 1
+  Date: Wed, 2 Aug 2017 21:28:36 +0530
+  From: Poonam Mishra <poonammishra24398 at gmail.com>
+  To: women-of-openstack at lists.openstack.org
+  Subject: [Women-of-openstack] Introduction to cloud computing with
+          Openstack
+  Message-ID:
+          <CAD9gE26MF9p0wdy1=
+  UxexEDagtD8yDGUEdBCf9H73pXXRSYv-A at mail.gmail.com>
+  Content-Type: text/plain; charset="utf-8"
+
+  Hello everyone
+
+  I am Poonam, a third year undergraduate studying at BITS Pilani, India. I
+  am completely new to the concept of Openstack and I find it extremely
+  fascinating. I want to learn about the projects and how to get involved.
+
+  My previous work involved a lot of backend development in Django and
+  Flask.
+  I have made many softwares and games for my college fests and events. I
+  am
+  also selected for Google Summer of Code student under Systers this year
+  for
+  the project Automated Testing. Along with that, I have an experience in C
+  ++
+  and Python for more than 2 years as of now. I even went to the regionals
+  of
+  ACM-ICPC.
+
+  It would be great if someone could guide me with how I can start
+  contributing to Openstack. Thanks in advance!
+
+
+
+  Regards,
+  Poonam Mishra
+  Github - https://github.com/mish24
+  -------------- next part --------------
+  An HTML attachment was scrubbed...
+  URL: <
+  http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170802/4052549d/attachment-0001.html
+  >
+
+  ------------------------------
+
+  Message: 2
+  Date: Wed, 2 Aug 2017 16:50:56 -0400
+  From: "Emily K Hugenbruch" <ekhugenbruch at us.ibm.com>
+  To: women-of-openstack at lists.openstack.org,
+          openstack at lists.openstack.org, openstack-dev at lists.openstack.org
+  Subject: [Women-of-openstack] Seeking mentors and mentees for long
+          term    mentoring
+  Message-ID:
+          <
+  OF6431C8C9.6D1A4366-ON00258170.00724F8D-85258170.007286E3 at notes.na.collabserv.com
+  >
+
+  Content-Type: text/plain; charset="iso-8859-1"
+
+
+
+  Hello All!
+
+  We are excited to kick off the next round of mentoring sponsored by the
+  Women of OpenStack! Anyone can sign up who is interested in mentoring or
+  in
+  need of a mentor!
+
+  Mentors! We can set you up as a technical mentor based on your areas of
+  expertise within the community or we can match you with a mentee looking
+  for more career advice.
+
+  Mentees! We have a variety of Stackers interested in giving you both
+  technical and career advice! We have mentors from a wide range of
+  projects
+  and working groups willing to help you get involved in different aspects
+  of
+  the community.
+
+  We would like to make as many matches before the Denver PTG as we can
+  so you can meet with your mentee/mentor there if you are both attending.
+
+
+
+    If you have been involved with previous rounds of mentoring, we would
+    love
+    to have you back!  Please fill out the form below, since we are
+  starting
+    from a clean slate on mentors and mentees this time.
+
+    Sign up to get involved here:
+
+
+
+    https://openstackfoundation.formstack.com/forms/mentoring_pike_queens
+
+
+
+  Sincerely,
+  Emily Kate Hugenbruch
+  Twitter: @ekhugen
+  IRC: ekhugen at freenode
+  -------------- next part --------------
+  An HTML attachment was scrubbed...
+  URL: <
+  http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170802/748e81e6/attachment-0001.html
+  >
+
+  ------------------------------
+
+  Subject: Digest Footer
+
+  _______________________________________________
+  Women-of-openstack mailing list
+  Women-of-openstack at lists.openstack.org
+  http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+  ------------------------------
+
+  End of Women-of-openstack Digest, Vol 34, Issue 3
+  *************************************************
+
+
+
+--
+
+     Gloria Palma González
+     GloriaPG | @GloriaPalmaGlez
+
+     _______________________________________________
+     Women-of-openstack mailing list
+     Women-of-openstack at lists.openstack.org
+     http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170803/41741e1d/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170803/41741e1d/attachment-0001.gif>
+
+From ing.gloriapalmagonzalez at gmail.com  Thu Aug  3 16:20:12 2017
+From: ing.gloriapalmagonzalez at gmail.com (=?UTF-8?Q?Gloria_Palma_Gonz=C3=A1lez?=)
+Date: Thu, 3 Aug 2017 11:20:12 -0500
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 34, Issue 3
+In-Reply-To: <OF92FD6F68.FD636285-ON00258171.0057CE12-85258171.0057DDBE@notes.na.collabserv.com>
+References: <mailman.10.1501761601.8730.women-of-openstack@lists.openstack.org>
+ <CAN4vghKiv-frXePcun5SK4G8X0GnfuGK81A7UA=2t8Cd0+Fstg@mail.gmail.com>
+ <OF92FD6F68.FD636285-ON00258171.0057CE12-85258171.0057DDBE@notes.na.collabserv.com>
+Message-ID: <CAN4vghJXA387fHVRv2R9cAxUmYQfWH-zGnQiX6BQEAY6mST-sw@mail.gmail.com>
+
+Thank you Emily, i will!
+
+2017-08-03 10:59 GMT-05:00 Emily K Hugenbruch <ekhugenbruch at us.ibm.com>:
+
+> Hello Gloria,
+> Please sign up via the form and we will try to match you with a mentor
+> *https://openstackfoundation.formstack.com/forms/mentoring_pike_queens*
+> <https://openstackfoundation.formstack.com/forms/mentoring_pike_queens>
+> Thank you.
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+>
+> [image: Inactive hide details for Gloria Palma González ---08/03/2017
+> 11:45:33 AM---Hi, my name is Gloria Palma from México :) I would]Gloria
+> Palma González ---08/03/2017 11:45:33 AM---Hi, my name is Gloria Palma from
+> México :) I would like have a mentor, How to register in list to wa
+>
+> From: Gloria Palma González <ing.gloriapalmagonzalez at gmail.com>
+> To: women-of-openstack at lists.openstack.org
+> Date: 08/03/2017 11:45 AM
+> Subject: Re: [Women-of-openstack] Women-of-openstack Digest, Vol 34,
+> Issue 3
+> ------------------------------
+>
+>
+>
+> Hi, my name is Gloria Palma from México :)
+>
+> I would like have a mentor, How to register in list to waiting?
+>
+> Thank you so much!
+>
+> 2017-08-03 7:00 GMT-05:00 <
+> *women-of-openstack-request at lists.openstack.org*
+> <women-of-openstack-request at lists.openstack.org>>:
+>
+>    Send Women-of-openstack mailing list submissions to
+>            *women-of-openstack at lists.openstack.org*
+>    <women-of-openstack at lists.openstack.org>
+>
+>    To subscribe or unsubscribe via the World Wide Web, visit
+>
+>    *http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack*
+>    <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>
+>    or, via email, send a message with subject or body 'help' to
+>            *women-of-openstack-request at lists.openstack.org*
+>    <women-of-openstack-request at lists.openstack.org>
+>
+>    You can reach the person managing the list at
+>            *women-of-openstack-owner at lists.openstack.org*
+>    <women-of-openstack-owner at lists.openstack.org>
+>
+>    When replying, please edit your Subject line so it is more specific
+>    than "Re: Contents of Women-of-openstack digest..."
+>
+>
+>    Today's Topics:
+>
+>       1. Introduction to cloud computing with Openstack (Poonam Mishra)
+>       2. Seeking mentors and mentees for long term mentoring
+>          (Emily K Hugenbruch)
+>
+>
+>    ----------------------------------------------------------------------
+>
+>    Message: 1
+>    Date: Wed, 2 Aug 2017 21:28:36 +0530
+>    From: Poonam Mishra <*poonammishra24398 at gmail.com*
+>    <poonammishra24398 at gmail.com>>
+>    To: *women-of-openstack at lists.openstack.org*
+>    <women-of-openstack at lists.openstack.org>
+>    Subject: [Women-of-openstack] Introduction to cloud computing with
+>            Openstack
+>    Message-ID:
+>            <CAD9gE26MF9p0wdy1=
+>    *UxexEDagtD8yDGUEdBCf9H73pXXRSYv-A at mail.gmail.com*
+>    <UxexEDagtD8yDGUEdBCf9H73pXXRSYv-A at mail.gmail.com>>
+>    Content-Type: text/plain; charset="utf-8"
+>
+>    Hello everyone
+>
+>    I am Poonam, a third year undergraduate studying at BITS Pilani,
+>    India. I
+>    am completely new to the concept of Openstack and I find it extremely
+>    fascinating. I want to learn about the projects and how to get
+>    involved.
+>
+>    My previous work involved a lot of backend development in Django and
+>    Flask.
+>    I have made many softwares and games for my college fests and events.
+>    I am
+>    also selected for Google Summer of Code student under Systers this
+>    year for
+>    the project Automated Testing. Along with that, I have an experience
+>    in C++
+>    and Python for more than 2 years as of now. I even went to the
+>    regionals of
+>    ACM-ICPC.
+>
+>    It would be great if someone could guide me with how I can start
+>    contributing to Openstack. Thanks in advance!
+>
+>
+>
+>    Regards,
+>    Poonam Mishra
+>    Github - *https://github.com/mish24* <https://github.com/mish24>
+>    -------------- next part --------------
+>    An HTML attachment was scrubbed...
+>    URL: <
+>    *http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170802/4052549d/attachment-0001.html*
+>    <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170802/4052549d/attachment-0001.html>
+>    >
+>
+>    ------------------------------
+>
+>    Message: 2
+>    Date: Wed, 2 Aug 2017 16:50:56 -0400
+>    From: "Emily K Hugenbruch" <*ekhugenbruch at us.ibm.com*
+>    <ekhugenbruch at us.ibm.com>>
+>    To: *women-of-openstack at lists.openstack.org*
+>    <women-of-openstack at lists.openstack.org>,
+>            *openstack at lists.openstack.org* <openstack at lists.openstack.org>,
+>    *openstack-dev at lists.openstack.org* <openstack-dev at lists.openstack.org>
+>    Subject: [Women-of-openstack] Seeking mentors and mentees for long
+>            term    mentoring
+>    Message-ID:
+>            <
+>    *OF6431C8C9.6D1A4366-ON00258170.00724F8D-85258170.007286E3 at notes.na.collabserv.com*
+>    <OF6431C8C9.6D1A4366-ON00258170.00724F8D-85258170.007286E3 at notes.na.collabserv.com>
+>    >
+>
+>    Content-Type: text/plain; charset="iso-8859-1"
+>
+>
+>
+>    Hello All!
+>
+>    We are excited to kick off the next round of mentoring sponsored by the
+>    Women of OpenStack! Anyone can sign up who is interested in mentoring
+>    or in
+>    need of a mentor!
+>
+>    Mentors! We can set you up as a technical mentor based on your areas of
+>    expertise within the community or we can match you with a mentee
+>    looking
+>    for more career advice.
+>
+>    Mentees! We have a variety of Stackers interested in giving you both
+>    technical and career advice! We have mentors from a wide range of
+>    projects
+>    and working groups willing to help you get involved in different
+>    aspects of
+>    the community.
+>
+>    We would like to make as many matches before the Denver PTG as we can
+>    so you can meet with your mentee/mentor there if you are both
+>    attending.
+>
+>
+>
+>      If you have been involved with previous rounds of mentoring, we would
+>      love
+>      to have you back!  Please fill out the form below, since we are
+>    starting
+>      from a clean slate on mentors and mentees this time.
+>
+>      Sign up to get involved here:
+>
+>
+>
+>
+>    *https://openstackfoundation.formstack.com/forms/mentoring_pike_queens*
+>    <https://openstackfoundation.formstack.com/forms/mentoring_pike_queens>
+>
+>
+>
+>    Sincerely,
+>    Emily Kate Hugenbruch
+>    Twitter: @ekhugen
+>    IRC: ekhugen at freenode
+>    -------------- next part --------------
+>    An HTML attachment was scrubbed...
+>    URL: <
+>    *http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170802/748e81e6/attachment-0001.html*
+>    <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170802/748e81e6/attachment-0001.html>
+>    >
+>
+>    ------------------------------
+>
+>    Subject: Digest Footer
+>
+>    _______________________________________________
+>    Women-of-openstack mailing list
+> *Women-of-openstack at lists.openstack.org*
+>    <Women-of-openstack at lists.openstack.org>
+> *http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack*
+>    <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>
+>
+>    ------------------------------
+>
+>    End of Women-of-openstack Digest, Vol 34, Issue 3
+>    *************************************************
+>
+>
+>
+>
+> --
+>
+>
+>       Gloria Palma González
+>       GloriaPG | @GloriaPalmaGlez
+>
+>       _______________________________________________
+>       Women-of-openstack mailing list
+>       Women-of-openstack at lists.openstack.org
+>       http://lists.openstack.org/cgi-bin/mailman/listinfo/
+>       women-of-openstack
+>
+>
+>
+>
+>
+
+
+-- 
+
+Gloria Palma González
+GloriaPG | @GloriaPalmaGlez
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170803/469e3bc4/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170803/469e3bc4/attachment.gif>
+
+From amy at demarco.com  Fri Aug  4 19:12:23 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Fri, 4 Aug 2017 14:12:23 -0500
+Subject: [Women-of-openstack] Meeting Reminder 8/7
+Message-ID: <CAFs83Qq6biV6U1E_o0ryvN7UwFQT0x2UsUPdgXuca-_racbuTA@mail.gmail.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the next meeting will be on Monday, 5/1/17
+at 1pm PST, 3pm CST and 4pm EST.
+This will be the last meeting before the Boston Summit.
+
+Dial In: 1-203-277-8157 <(203)%20277-8157> or 866-619-0383
+<(866)%20619-0383>
+Participant: 7217256# Leader 4018#
+
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=
+m0e7ba518a2d4487bc0a78d00055f62e2
+
+Etherpad for this meeting is at
+https://etherpad.openstack.org/p/WOS_08_07_17 and if you would like to add
+something to the agenda please do so.
+Etherpad for tracking the agenda is at  https://etherpad.
+openstack.org/p/WOS_Agenda_Tracker . If you'd like to lead a meeting,
+please sign up.
+
+Please add agenda items!
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170804/02a34c8b/attachment.html>
+
+From kennelson11 at gmail.com  Mon Aug  7 20:38:39 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Mon, 07 Aug 2017 20:38:39 +0000
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+Message-ID: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+
+Hello everyone :)
+
+I just wondered who might be attending the PTG? I thought it might be fun
+to collect somewhere for a happy hour and get to know one another better
+maybe? Reply here if you are going to be there and if you will be there for
+the whole week or just a subset of the days?
+
+I will be there all the days :) I get in the weekend before and fly out on
+Friday.
+
+-Kendall Nelson (diablo_rojo)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170807/d34ed805/attachment.html>
+
+From anne at openstack.org  Mon Aug  7 20:51:45 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Mon, 7 Aug 2017 13:51:45 -0700
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+Message-ID: <046C362E-23A5-41E4-8557-2FD9CD68ADF8@openstack.org>
+
+I’ll be there Wednesday lunchtime through Friday night, so I vote for Wednesday or Thursday happy hour!
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Aug 7, 2017, at 1:38 PM, Kendall Nelson <kennelson11 at gmail.com> wrote:
+> 
+> Hello everyone :) 
+> 
+> I just wondered who might be attending the PTG? I thought it might be fun to collect somewhere for a happy hour and get to know one another better maybe? Reply here if you are going to be there and if you will be there for the whole week or just a subset of the days? 
+> 
+> I will be there all the days :) I get in the weekend before and fly out on Friday. 
+> 
+> -Kendall Nelson (diablo_rojo)
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170807/68a57220/attachment.html>
+
+From a.settle at outlook.com  Tue Aug  8 08:51:03 2017
+From: a.settle at outlook.com (Alexandra Settle)
+Date: Tue, 8 Aug 2017 08:51:03 +0000
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <046C362E-23A5-41E4-8557-2FD9CD68ADF8@openstack.org>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <046C362E-23A5-41E4-8557-2FD9CD68ADF8@openstack.org>
+Message-ID: <C38611C3-D168-4E58-ABCB-0A600B4B3995@outlook.com>
+
+I’ll be there all week! ☺
+
+From: Anne Bertucio <anne at openstack.org>
+Date: Monday, August 7, 2017 at 9:52 PM
+To: Kendall Nelson <kennelson11 at gmail.com>
+Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] WoO Goes to the PTG!
+
+I’ll be there Wednesday lunchtime through Friday night, so I vote for Wednesday or Thursday happy hour!
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org<mailto:anne at openstack.org> | 206-992-7961
+
+
+
+On Aug 7, 2017, at 1:38 PM, Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>> wrote:
+
+Hello everyone :)
+I just wondered who might be attending the PTG? I thought it might be fun to collect somewhere for a happy hour and get to know one another better maybe? Reply here if you are going to be there and if you will be there for the whole week or just a subset of the days?
+I will be there all the days :) I get in the weekend before and fly out on Friday.
+
+-Kendall Nelson (diablo_rojo)
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170808/3956cad2/attachment.html>
+
+From amy at demarco.com  Wed Aug  9 15:10:53 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 9 Aug 2017 10:10:53 -0500
+Subject: [Women-of-openstack] Recruitment Draft
+Message-ID: <CAFs83Qo4EiyfxHAFQoEpewO00sr1FrBRa9cPEV3qYwC1U=R08A@mail.gmail.com>
+
+Hi all,
+
+As discussed during our meeting on Monday we are planning to do a
+recruitment drive via email to the general OpenStack list as well as the
+Operators and Developers lists.
+
+Here is the first draft of the email please feel free to make comments and
+mail back to the list so we can get the most feedback and the best results!
+
+
+Thanks,
+
+Amy
+
+Did you know the Women of OpenStack isn't just for people who identify as
+female, but allies as well? Well now you do and we're looking for new
+members!
+
+Our mission statement is:
+
+The Women of OpenStack strive to lower the barrier of entry to OpenStack
+learning and use, intending to thereby increasing the overall diversity of
+the OpenStack community, recognizing that individuals in minority groups
+are more likely to have challenges accessing resources to learn complex
+technologies. Secondly, the Women of OpenStack provides a professional and
+social networking group for women, and their allies, with common interests
+in OpenStack, OpenSource, and associated technologies. These goals are
+achieved through leading and sponsorship of educational sessions and social
+events that promote inclusion in the OpenStack Community.
+
+We follow this mission by sponsoring ongoing Mentoring throughout the year
+and through the Speed Mentoring and Lunch and Learns which are held during
+summit as well as other activities through the year.
+
+Our Wiki page can be found here:
+https://wiki.openstack.org/wiki/Women_of_OpenStack
+
+And you can join our mailing list here:
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+And of course you can join us in Freenode IRC on the #openstack-women
+channel.
+
+Come sit in on a meeting and check us out! Meetings are held every other
+Monday with our next meeting scheduled for 08/21/17. You can join us with
+the following information:
+2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+Dial In: 1-203-277-8157 or *866-619-0383  Participant: 7217256**#* Leader
+4018#
+webex -
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+And if you forget you'll get a reminder on the mailing list before hand!
+
+Hope you join us!
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170809/aa0e5d6c/attachment.html>
+
+From anne at openstack.org  Wed Aug  9 18:17:51 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Wed, 9 Aug 2017 11:17:51 -0700
+Subject: [Women-of-openstack] Recruitment Draft
+In-Reply-To: <CAFs83Qo4EiyfxHAFQoEpewO00sr1FrBRa9cPEV3qYwC1U=R08A@mail.gmail.com>
+References: <CAFs83Qo4EiyfxHAFQoEpewO00sr1FrBRa9cPEV3qYwC1U=R08A@mail.gmail.com>
+Message-ID: <8EB6DDA4-9ED8-4089-9BC3-933D112BFBBF@openstack.org>
+
+Just some word massaging to the first paragraph for readability. I know lots of people put great thought into this and these are always so tricky to write, so see what you all think! 
+
+
+The Women of OpenStack (WOO) strive to increase the diversity of the OpenStack community by overcoming OpenStack's barrier to entry through educational sessions, professional networking, mentorship, social inclusion, and enhanced resource access. WOO recognizes that individuals in minority groups are more likely to have challenges accessing the resources it takes to learn and participate in complex technologies, which is why WOO welcomes all women and their allies who share an interest in OpenStack, open source, and adjacent technologies.    
+
+
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Aug 9, 2017, at 8:10 AM, Amy Marrich <amy at demarco.com> wrote:
+> 
+> Hi all,
+> 
+> As discussed during our meeting on Monday we are planning to do a recruitment drive via email to the general OpenStack list as well as the Operators and Developers lists.
+> 
+> Here is the first draft of the email please feel free to make comments and mail back to the list so we can get the most feedback and the best results!
+> 
+> 
+> Thanks,
+> 
+> Amy
+> 
+> Did you know the Women of OpenStack isn't just for people who identify as female, but allies as well? Well now you do and we're looking for new members!
+> 
+> Our mission statement is:
+> 
+> The Women of OpenStack strive to lower the barrier of entry to OpenStack learning and use, intending to thereby increasing the overall diversity of the OpenStack community, recognizing that individuals in minority groups are more likely to have challenges accessing resources to learn complex technologies. Secondly, the Women of OpenStack provides a professional and social networking group for women, and their allies, with common interests in OpenStack, OpenSource, and associated technologies. These goals are achieved through leading and sponsorship of educational sessions and social events that promote inclusion in the OpenStack Community.
+> 
+> We follow this mission by sponsoring ongoing Mentoring throughout the year and through the Speed Mentoring and Lunch and Learns which are held during summit as well as other activities through the year.
+> 
+> Our Wiki page can be found here:
+> https://wiki.openstack.org/wiki/Women_of_OpenStack <https://wiki.openstack.org/wiki/Women_of_OpenStack>
+> 
+> And you can join our mailing list here:
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> 
+> And of course you can join us in Freenode IRC on the #openstack-women channel.
+> 
+> Come sit in on a meeting and check us out! Meetings are held every other Monday with our next meeting scheduled for 08/21/17. You can join us with the following information:
+> 2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+> Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+> webex - https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2 <https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2>
+> 
+> And if you forget you'll get a reminder on the mailing list before hand!
+> 
+> Hope you join us!
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170809/156df9c6/attachment.html>
+
+From kennelson11 at gmail.com  Wed Aug  9 18:36:20 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Wed, 09 Aug 2017 18:36:20 +0000
+Subject: [Women-of-openstack] Recruitment Draft
+In-Reply-To: <8EB6DDA4-9ED8-4089-9BC3-933D112BFBBF@openstack.org>
+References: <CAFs83Qo4EiyfxHAFQoEpewO00sr1FrBRa9cPEV3qYwC1U=R08A@mail.gmail.com>
+ <8EB6DDA4-9ED8-4089-9BC3-933D112BFBBF@openstack.org>
+Message-ID: <CAJ6yrQhJUP3zNxpGGzRi=efZJOnV6VbRW6eTE_aKCKQx1fos6A@mail.gmail.com>
+
+I think Anne's changes sound good to me! If everyone else likes that too we
+should update it on the wiki.
+
+I would rephrase what comes after the mission to:
+
+'We follow this mission by hosting Speed Mentoring and Lunch and Learns at
+the summits, and coordinating ongoing mentoring throughout the year as well
+as other activities.'
+
+See what you all think :)
+
+Thanks Amy for getting the ball rolling!
+
+-Kendall Nelson(diablo_rojo)
+
+
+On Wed, Aug 9, 2017 at 11:18 AM Anne Bertucio <anne at openstack.org> wrote:
+
+> Just some word massaging to the first paragraph for readability. I know
+> lots of people put great thought into this and these are always so tricky
+> to write, so see what you all think!
+>
+>
+> The Women of OpenStack (WOO) strive to increase the diversity of the
+> OpenStack community by overcoming OpenStack's barrier to entry through
+> educational sessions, professional networking, mentorship, social
+> inclusion, and enhanced resource access. WOO recognizes that individuals in
+> minority groups are more likely to have challenges accessing the resources
+> it takes to learn and participate in complex technologies, which is why WOO
+> welcomes all women and their allies who share an interest in OpenStack,
+> open source, and adjacent technologies.
+>
+>
+>
+>
+> Anne Bertucio
+> Marketing and Certification, OpenStack Foundation
+> anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+>
+>
+>
+>
+> On Aug 9, 2017, at 8:10 AM, Amy Marrich <amy at demarco.com> wrote:
+>
+> Hi all,
+>
+> As discussed during our meeting on Monday we are planning to do a
+> recruitment drive via email to the general OpenStack list as well as the
+> Operators and Developers lists.
+>
+> Here is the first draft of the email please feel free to make comments and
+> mail back to the list so we can get the most feedback and the best results!
+>
+>
+> Thanks,
+>
+> Amy
+>
+> Did you know the Women of OpenStack isn't just for people who identify as
+> female, but allies as well? Well now you do and we're looking for new
+> members!
+>
+> Our mission statement is:
+>
+> The Women of OpenStack strive to lower the barrier of entry to OpenStack
+> learning and use, intending to thereby increasing the overall diversity of
+> the OpenStack community, recognizing that individuals in minority groups
+> are more likely to have challenges accessing resources to learn complex
+> technologies. Secondly, the Women of OpenStack provides a professional and
+> social networking group for women, and their allies, with common interests
+> in OpenStack, OpenSource, and associated technologies. These goals are
+> achieved through leading and sponsorship of educational sessions and social
+> events that promote inclusion in the OpenStack Community.
+>
+> We follow this mission by sponsoring ongoing Mentoring throughout the year
+> and through the Speed Mentoring and Lunch and Learns which are held during
+> summit as well as other activities through the year.
+>
+> Our Wiki page can be found here:
+> https://wiki.openstack.org/wiki/Women_of_OpenStack
+>
+> And you can join our mailing list here:
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+> And of course you can join us in Freenode IRC on the #openstack-women
+> channel.
+>
+> Come sit in on a meeting and check us out! Meetings are held every other
+> Monday with our next meeting scheduled for 08/21/17. You can join us with
+> the following information:
+> 2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+> Dial In: 1-203-277-8157 <(203)%20277-8157> or *866-619-0383
+> <(866)%20619-0383>  Participant: 7217256**#* Leader 4018#
+> webex -
+> https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+>
+> And if you forget you'll get a reminder on the mailing list before hand!
+>
+> Hope you join us!
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170809/5b8b0ca8/attachment-0001.html>
+
+From amy at demarco.com  Wed Aug  9 18:40:26 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 9 Aug 2017 13:40:26 -0500
+Subject: [Women-of-openstack] Recruitment Draft
+In-Reply-To: <CAJ6yrQhJUP3zNxpGGzRi=efZJOnV6VbRW6eTE_aKCKQx1fos6A@mail.gmail.com>
+References: <CAFs83Qo4EiyfxHAFQoEpewO00sr1FrBRa9cPEV3qYwC1U=R08A@mail.gmail.com>
+ <8EB6DDA4-9ED8-4089-9BC3-933D112BFBBF@openstack.org>
+ <CAJ6yrQhJUP3zNxpGGzRi=efZJOnV6VbRW6eTE_aKCKQx1fos6A@mail.gmail.com>
+Message-ID: <CAFs83QqkOHEe+xL2Fn9cP6QCC4vWV71yBE5yEeaP+LUNzzmM2A@mail.gmail.com>
+
+I'm good with both suggestions and if everyone is good with the re-write of
+the mission statement we should definitely update the wiki as well.
+
+Amy
+
+On Wed, Aug 9, 2017 at 1:36 PM, Kendall Nelson <kennelson11 at gmail.com>
+wrote:
+
+> I think Anne's changes sound good to me! If everyone else likes that too
+> we should update it on the wiki.
+>
+> I would rephrase what comes after the mission to:
+>
+> 'We follow this mission by hosting Speed Mentoring and Lunch and Learns at
+> the summits, and coordinating ongoing mentoring throughout the year as well
+> as other activities.'
+>
+> See what you all think :)
+>
+> Thanks Amy for getting the ball rolling!
+>
+> -Kendall Nelson(diablo_rojo)
+>
+>
+> On Wed, Aug 9, 2017 at 11:18 AM Anne Bertucio <anne at openstack.org> wrote:
+>
+>> Just some word massaging to the first paragraph for readability. I know
+>> lots of people put great thought into this and these are always so tricky
+>> to write, so see what you all think!
+>>
+>>
+>> The Women of OpenStack (WOO) strive to increase the diversity of the
+>> OpenStack community by overcoming OpenStack's barrier to entry through
+>> educational sessions, professional networking, mentorship, social
+>> inclusion, and enhanced resource access. WOO recognizes that individuals in
+>> minority groups are more likely to have challenges accessing the resources
+>> it takes to learn and participate in complex technologies, which is why WOO
+>> welcomes all women and their allies who share an interest in OpenStack,
+>> open source, and adjacent technologies.
+>>
+>>
+>>
+>>
+>> Anne Bertucio
+>> Marketing and Certification, OpenStack Foundation
+>> anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+>>
+>>
+>>
+>>
+>> On Aug 9, 2017, at 8:10 AM, Amy Marrich <amy at demarco.com> wrote:
+>>
+>> Hi all,
+>>
+>> As discussed during our meeting on Monday we are planning to do a
+>> recruitment drive via email to the general OpenStack list as well as the
+>> Operators and Developers lists.
+>>
+>> Here is the first draft of the email please feel free to make comments
+>> and mail back to the list so we can get the most feedback and the best
+>> results!
+>>
+>>
+>> Thanks,
+>>
+>> Amy
+>>
+>> Did you know the Women of OpenStack isn't just for people who identify as
+>> female, but allies as well? Well now you do and we're looking for new
+>> members!
+>>
+>> Our mission statement is:
+>>
+>> The Women of OpenStack strive to lower the barrier of entry to OpenStack
+>> learning and use, intending to thereby increasing the overall diversity of
+>> the OpenStack community, recognizing that individuals in minority groups
+>> are more likely to have challenges accessing resources to learn complex
+>> technologies. Secondly, the Women of OpenStack provides a professional and
+>> social networking group for women, and their allies, with common interests
+>> in OpenStack, OpenSource, and associated technologies. These goals are
+>> achieved through leading and sponsorship of educational sessions and social
+>> events that promote inclusion in the OpenStack Community.
+>>
+>> We follow this mission by sponsoring ongoing Mentoring throughout the
+>> year and through the Speed Mentoring and Lunch and Learns which are held
+>> during summit as well as other activities through the year.
+>>
+>> Our Wiki page can be found here:
+>> https://wiki.openstack.org/wiki/Women_of_OpenStack
+>>
+>> And you can join our mailing list here:
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>> And of course you can join us in Freenode IRC on the #openstack-women
+>> channel.
+>>
+>> Come sit in on a meeting and check us out! Meetings are held every other
+>> Monday with our next meeting scheduled for 08/21/17. You can join us with
+>> the following information:
+>> 2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+>> Dial In: 1-203-277-8157 <(203)%20277-8157> or *866-619-0383
+>> <(866)%20619-0383>  Participant: 7217256**#* Leader 4018#
+>> webex - https://verizon2.webex.com/verizon2-en/e.php?MTID=
+>> m0e7ba518a2d4487bc0a78d00055f62e2
+>>
+>> And if you forget you'll get a reminder on the mailing list before hand!
+>>
+>> Hope you join us!
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170809/9e75472a/attachment.html>
+
+From jessicak at us.ibm.com  Wed Aug  9 18:54:09 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Wed, 9 Aug 2017 13:54:09 -0500
+Subject: [Women-of-openstack] Recruitment Draft
+In-Reply-To: <CAFs83QqkOHEe+xL2Fn9cP6QCC4vWV71yBE5yEeaP+LUNzzmM2A@mail.gmail.com>
+References: <CAFs83Qo4EiyfxHAFQoEpewO00sr1FrBRa9cPEV3qYwC1U=R08A@mail.gmail.com>
+ <8EB6DDA4-9ED8-4089-9BC3-933D112BFBBF@openstack.org>
+ <CAJ6yrQhJUP3zNxpGGzRi=efZJOnV6VbRW6eTE_aKCKQx1fos6A@mail.gmail.com>
+ <CAFs83QqkOHEe+xL2Fn9cP6QCC4vWV71yBE5yEeaP+LUNzzmM2A@mail.gmail.com>
+Message-ID: <OFBB7D361E.EE533F8A-ON00258177.0067B748-86258177.0067D5E7@notes.na.collabserv.com>
+
+
+I agree the addition of allies is consistent with the original intent of
+the mission statement.
+
+Jessica Murillo
+Vice President, Open Systems Development
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Amy Marrich <amy at demarco.com>
+To:	Kendall Nelson <kennelson11 at gmail.com>
+Cc:	women-of-openstack at lists.openstack.org
+Date:	08/09/2017 01:40 PM
+Subject:	Re: [Women-of-openstack] Recruitment Draft
+
+
+
+I'm good with both suggestions and if everyone is good with the re-write of
+the mission statement we should definitely update the wiki as well.
+
+Amy
+
+On Wed, Aug 9, 2017 at 1:36 PM, Kendall Nelson <kennelson11 at gmail.com>
+wrote:
+  I think Anne's changes sound good to me! If everyone else likes that too
+  we should update it on the wiki.
+
+  I would rephrase what comes after the mission to:
+
+  'We follow this mission by hosting Speed Mentoring and Lunch and Learns
+  at the summits, and coordinating ongoing mentoring throughout the year as
+  well as other activities.'
+
+  See what you all think :)
+
+  Thanks Amy for getting the ball rolling!
+
+  -Kendall Nelson(diablo_rojo)
+
+
+  On Wed, Aug 9, 2017 at 11:18 AM Anne Bertucio <anne at openstack.org> wrote:
+   Just some word massaging to the first paragraph for readability. I know
+   lots of people put great thought into this and these are always so
+   tricky to write, so see what you all think!
+
+
+   The Women of OpenStack (WOO) strive to increase the diversity of the
+   OpenStack community by overcoming OpenStack's barrier to entry through
+   educational sessions, professional networking, mentorship, social
+   inclusion, and enhanced resource access. WOO recognizes that individuals
+   in minority groups are more likely to have challenges accessing the
+   resources it takes to learn and participate in complex technologies,
+   which is why WOO welcomes all women and their allies who share an
+   interest in OpenStack, open source, and adjacent technologies.
+
+
+
+
+   Anne Bertucio
+   Marketing and Certification, OpenStack Foundation
+   anne at openstack.org | 206-992-7961
+
+
+
+
+         On Aug 9, 2017, at 8:10 AM, Amy Marrich <amy at demarco.com> wrote:
+
+         Hi all,
+
+         As discussed during our meeting on Monday we are planning to do a
+         recruitment drive via email to the general OpenStack list as well
+         as the Operators and Developers lists.
+
+         Here is the first draft of the email please feel free to make
+         comments and mail back to the list so we can get the most feedback
+         and the best results!
+
+
+         Thanks,
+
+         Amy
+
+         Did you know the Women of OpenStack isn't just for people who
+         identify as female, but allies as well? Well now you do and we're
+         looking for new members!
+
+         Our mission statement is:
+
+         The Women of OpenStack strive to lower the barrier of entry to
+         OpenStack learning and use, intending to thereby increasing the
+         overall diversity of the OpenStack community, recognizing that
+         individuals in minority groups are more likely to have challenges
+         accessing resources to learn complex technologies. Secondly, the
+         Women of OpenStack provides a professional and social networking
+         group for women, and their allies, with common interests in
+         OpenStack, OpenSource, and associated technologies. These goals
+         are achieved through leading and sponsorship of educational
+         sessions and social events that promote inclusion in the OpenStack
+         Community.
+
+         We follow this mission by sponsoring ongoing Mentoring throughout
+         the year and through the Speed Mentoring and Lunch and Learns
+         which are held during summit as well as other activities through
+         the year.
+
+         Our Wiki page can be found here:
+         https://wiki.openstack.org/wiki/Women_of_OpenStack
+
+         And you can join our mailing list here:
+         http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+         And of course you can join us in Freenode IRC on the
+         #openstack-women channel.
+
+         Come sit in on a meeting and check us out! Meetings are held every
+         other Monday with our next meeting scheduled for 08/21/17. You can
+         join us with the following information:
+         2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+         Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256#
+         Leader 4018#
+         webex -
+         https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+         And if you forget you'll get a reminder on the mailing list before
+         hand!
+
+         Hope you join us!
+         _______________________________________________
+         Women-of-openstack mailing list
+         Women-of-openstack at lists.openstack.org
+         http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+   _______________________________________________
+   Women-of-openstack mailing list
+   Women-of-openstack at lists.openstack.org
+   http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170809/c2372b69/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170809/c2372b69/attachment-0001.gif>
+
+From amy at demarco.com  Fri Aug 11 15:21:35 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Fri, 11 Aug 2017 10:21:35 -0500
+Subject: [Women-of-openstack] Recruitment Draft
+In-Reply-To: <OFBB7D361E.EE533F8A-ON00258177.0067B748-86258177.0067D5E7@notes.na.collabserv.com>
+References: <CAFs83Qo4EiyfxHAFQoEpewO00sr1FrBRa9cPEV3qYwC1U=R08A@mail.gmail.com>
+ <8EB6DDA4-9ED8-4089-9BC3-933D112BFBBF@openstack.org>
+ <CAJ6yrQhJUP3zNxpGGzRi=efZJOnV6VbRW6eTE_aKCKQx1fos6A@mail.gmail.com>
+ <CAFs83QqkOHEe+xL2Fn9cP6QCC4vWV71yBE5yEeaP+LUNzzmM2A@mail.gmail.com>
+ <OFBB7D361E.EE533F8A-ON00258177.0067B748-86258177.0067D5E7@notes.na.collabserv.com>
+Message-ID: <CAFs83Qo0FjqaBaBgkfiYcELnY-Lz7o5WHE7rDBJagrkmGxPBjw@mail.gmail.com>
+
+Ok gang if no objects by Monday noon CST I'm going to make the change to
+our Mission statement and then get the recruitment drive underway!
+
+Thanks,
+
+Amy
+
+On Wed, Aug 9, 2017 at 1:54 PM, Jessica Murillo <jessicak at us.ibm.com> wrote:
+
+> I agree the addition of allies is consistent with the original intent of
+> the mission statement.
+>
+> Jessica Murillo
+> Vice President, Open Systems Development
+> IBM Systems
+> jessicak at us.ibm.com
+> Mobile Phone: 512-970-8466 <(512)%20970-8466>
+>
+> [image: Inactive hide details for Amy Marrich ---08/09/2017 01:40:46
+> PM---I'm good with both suggestions and if everyone is good with t]Amy
+> Marrich ---08/09/2017 01:40:46 PM---I'm good with both suggestions and if
+> everyone is good with the re-write of the mission statement we
+>
+> From: Amy Marrich <amy at demarco.com>
+> To: Kendall Nelson <kennelson11 at gmail.com>
+> Cc: women-of-openstack at lists.openstack.org
+> Date: 08/09/2017 01:40 PM
+> Subject: Re: [Women-of-openstack] Recruitment Draft
+> ------------------------------
+>
+>
+>
+> I'm good with both suggestions and if everyone is good with the re-write
+> of the mission statement we should definitely update the wiki as well.
+>
+> Amy
+>
+> On Wed, Aug 9, 2017 at 1:36 PM, Kendall Nelson <*kennelson11 at gmail.com*
+> <kennelson11 at gmail.com>> wrote:
+>
+>    I think Anne's changes sound good to me! If everyone else likes that
+>    too we should update it on the wiki.
+>
+>    I would rephrase what comes after the mission to:
+>
+>    'We follow this mission by hosting Speed Mentoring and Lunch and
+>    Learns at the summits, and coordinating ongoing mentoring throughout the
+>    year as well as other activities.'
+>
+>    See what you all think :)
+>
+>    Thanks Amy for getting the ball rolling!
+>
+>    -Kendall Nelson(diablo_rojo)
+>
+>
+>    On Wed, Aug 9, 2017 at 11:18 AM Anne Bertucio <*anne at openstack.org*
+>    <anne at openstack.org>> wrote:
+>    Just some word massaging to the first paragraph for readability. I
+>    know lots of people put great thought into this and these are always so
+>    tricky to write, so see what you all think!
+>
+>
+>    The Women of OpenStack (WOO) strive to increase the diversity of the
+>    OpenStack community by overcoming OpenStack's barrier to entry through
+>    educational sessions, professional networking, mentorship, social
+>    inclusion, and enhanced resource access. WOO recognizes that individuals in
+>    minority groups are more likely to have challenges accessing the resources
+>    it takes to learn and participate in complex technologies, which is why WOO
+>    welcomes all women and their allies who share an interest in OpenStack,
+>    open source, and adjacent technologies.
+>
+>
+>
+>
+>    Anne Bertucio
+>    Marketing and Certification, OpenStack Foundation
+>    *anne at openstack.org* <anne at openstack.org> | *206-992-7961*
+>    <(206)%20992-7961>
+>
+>
+>
+>    On Aug 9, 2017, at 8:10 AM, Amy Marrich <*amy at demarco.com*
+>          <amy at demarco.com>> wrote:
+>
+>          Hi all,
+>
+>          As discussed during our meeting on Monday we are planning to do
+>          a recruitment drive via email to the general OpenStack list as well as the
+>          Operators and Developers lists.
+>
+>          Here is the first draft of the email please feel free to make
+>          comments and mail back to the list so we can get the most feedback and the
+>          best results!
+>
+>
+>          Thanks,
+>
+>          Amy
+>
+>          Did you know the Women of OpenStack isn't just for people who
+>          identify as female, but allies as well? Well now you do and we're looking
+>          for new members!
+>
+>          Our mission statement is:
+>
+>          The Women of OpenStack strive to lower the barrier of entry to
+>          OpenStack learning and use, intending to thereby increasing the overall
+>          diversity of the OpenStack community, recognizing that individuals in
+>          minority groups are more likely to have challenges accessing resources to
+>          learn complex technologies. Secondly, the Women of OpenStack provides a
+>          professional and social networking group for women, and their allies, with
+>          common interests in OpenStack, OpenSource, and associated technologies.
+>          These goals are achieved through leading and sponsorship of educational
+>          sessions and social events that promote inclusion in the OpenStack
+>          Community.
+>
+>          We follow this mission by sponsoring ongoing Mentoring
+>          throughout the year and through the Speed Mentoring and Lunch and Learns
+>          which are held during summit as well as other activities through the year.
+>
+>          Our Wiki page can be found here:
+>          *https://wiki.openstack.org/wiki/Women_of_OpenStack*
+>          <https://wiki.openstack.org/wiki/Women_of_OpenStack>
+>
+>          And you can join our mailing list here:
+>
+>          *http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack*
+>          <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>
+>          And of course you can join us in Freenode IRC on the
+>          #openstack-women channel.
+>
+>          Come sit in on a meeting and check us out! Meetings are held
+>          every other Monday with our next meeting scheduled for 08/21/17. You can
+>          join us with the following information:
+>          2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+>          Dial In: *1-203-277-8157* <(203)%20277-8157> or *866-619-0383*
+>          <(866)%20619-0383>*  Participant: 7217256#* Leader 4018#
+>          webex -
+>          *https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2*
+>          <https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2>
+>
+>          And if you forget you'll get a reminder on the mailing list
+>          before hand!
+>
+>          Hope you join us!
+>          _______________________________________________
+>          Women-of-openstack mailing list
+> *Women-of-openstack at lists.openstack.org*
+>          <Women-of-openstack at lists.openstack.org>
+> *http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack*
+>          <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>
+>    _______________________________________________
+>    Women-of-openstack mailing list
+> *Women-of-openstack at lists.openstack.org*
+>    <Women-of-openstack at lists.openstack.org>
+> *http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack*
+>    <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170811/1fc57379/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170811/1fc57379/attachment.gif>
+
+From amy at demarco.com  Mon Aug 14 17:42:12 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 14 Aug 2017 12:42:12 -0500
+Subject: [Women-of-openstack] Help us grow The Women of OpenStack
+Message-ID: <CAFs83QojNdJx7gibRB=T1moA6RVGV5U=W9dNeKw7trEYzOYwYQ@mail.gmail.com>
+
+Did you know the Women of OpenStack isn't just for people who identify as
+female, but allies as well? Well now you do and we're looking for new
+members!
+
+Our mission statement is:
+
+The Women of OpenStack (WOO) strive to increase the diversity of the
+OpenStack community by overcoming OpenStack's barrier to entry through
+educational sessions, professional networking, mentorship, social
+inclusion, and enhanced resource access. WOO recognizes that individuals in
+minority groups are more likely to have challenges accessing the resources
+it takes to learn and participate in complex technologies, which is why WOO
+welcomes all women and their allies who share an interest in OpenStack,
+open source, and adjacent technologies. These goals are achieved through
+leading and sponsorship of educational sessions and social events that
+promote inclusion in the OpenStack Community.
+
+We follow this mission by sponsoring ongoing Mentoring throughout the year
+and through the Speed Mentoring and Lunch and Learns which are held during
+summit as well as other activities through the year.
+
+Our Wiki page can be found here:
+https://wiki.openstack.org/wiki/Women_of_OpenStack
+
+And you can join our mailing list here:
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+And of course you can join us in Freenode IRC on the #openstack-women
+channel.
+
+Come sit in on a meeting and check us out! Meetings are held every other
+Monday with our next meeting scheduled for 08/21/17. You can join us with
+the following information:
+2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+Dial In: 1-203-277-8157 <(203)%20277-8157> or *866-619-0383
+<(866)%20619-0383>  Participant: 7217256**#* Leader 4018#
+webex - https://verizon2.webex.com/verizon2-en/e.php?MTID=
+m0e7ba518a2d4487bc0a78d00055f62e2
+
+And if you forget you'll get a reminder on the mailing list before hand!
+
+Hope you join us!
+
+Amy Marrich (spotz)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170814/87d2508a/attachment.html>
+
+From ildiko.vancsa at gmail.com  Wed Aug 16 18:20:26 2017
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Wed, 16 Aug 2017 20:20:26 +0200
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <C38611C3-D168-4E58-ABCB-0A600B4B3995@outlook.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <046C362E-23A5-41E4-8557-2FD9CD68ADF8@openstack.org>
+ <C38611C3-D168-4E58-ABCB-0A600B4B3995@outlook.com>
+Message-ID: <6D40AE83-F3ED-4E1E-B622-705C0D2DC6F5@gmail.com>
+
+Hi All,
+
+Sounds great, I will be there all week too! :)
+
+Thanks,
+Ildikó
+
+
+> On 2017. Aug 8., at 10:51, Alexandra Settle <a.settle at outlook.com> wrote:
+> 
+> I’ll be there all week! ☺
+>  
+> From: Anne Bertucio <anne at openstack.org>
+> Date: Monday, August 7, 2017 at 9:52 PM
+> To: Kendall Nelson <kennelson11 at gmail.com>
+> Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+> Subject: Re: [Women-of-openstack] WoO Goes to the PTG!
+>  
+> I’ll be there Wednesday lunchtime through Friday night, so I vote for Wednesday or Thursday happy hour!
+>  
+> Anne Bertucio
+> Marketing and Certification, OpenStack Foundation
+> anne at openstack.org | 206-992-7961
+>  
+>  
+> 
+>  
+> On Aug 7, 2017, at 1:38 PM, Kendall Nelson <kennelson11 at gmail.com> wrote:
+>  
+> Hello everyone :) 
+> 
+> I just wondered who might be attending the PTG? I thought it might be fun to collect somewhere for a happy hour and get to know one another better maybe? Reply here if you are going to be there and if you will be there for the whole week or just a subset of the days? 
+> 
+> I will be there all the days :) I get in the weekend before and fly out on Friday.
+>  
+> -Kendall Nelson (diablo_rojo)
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>  
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+From tribecca at tribecc.us  Wed Aug 16 18:21:54 2017
+From: tribecca at tribecc.us (T. Nichole Williams)
+Date: Wed, 16 Aug 2017 13:21:54 -0500
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+Message-ID: <AF7B8B16-297A-4E30-BE27-04627F33CC09@tribecc.us>
+
+I will be present (feat. Doggo) for the week!
+
+T. Nichole Williams
+tribecca at tribecc.us
+
+
+
+> On Aug 7, 2017, at 3:38 PM, Kendall Nelson <kennelson11 at gmail.com> wrote:
+> 
+> Hello everyone :) 
+> 
+> I just wondered who might be attending the PTG? I thought it might be fun to collect somewhere for a happy hour and get to know one another better maybe? Reply here if you are going to be there and if you will be there for the whole week or just a subset of the days? 
+> 
+> I will be there all the days :) I get in the weekend before and fly out on Friday. 
+> 
+> -Kendall Nelson (diablo_rojo)
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170816/67d2f964/attachment.html>
+
+From amy at demarco.com  Wed Aug 16 18:40:38 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 16 Aug 2017 13:40:38 -0500
+Subject: [Women-of-openstack] Meeting Reminder for 8/21
+Message-ID: <CAFs83QrEeEAicMsyLQ3-488mSz9+vnoPg3uc-L9DktOy4K6KKw@mail.gmail.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the next meeting will be on Monday, 8/21/17
+at 1pm PST, 3pm CST and 4pm EST.
+This will be the last meeting before the PTG as the 9/4 meeting is
+cancelled due to Labor Day in the US.
+
+Dial In: 1-203-277-8157 <(203)%20277-8157> or 866-619-0383
+<(866)%20619-0383>
+Participant: 7217256# Leader 4018#
+
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7b
+a518a2d4487bc0a78d00055f62e2
+
+Etherpad for this meeting is at *https://etherpad.openstack.org/p/WOS_08_21_17
+<https://etherpad.openstack.org/p/WOS_08_21_17>* and if you would like to
+add something to the agenda please do so.
+Etherpad for tracking the agenda is at  https://etherpad.openstack
+.org/p/WOS_Agenda_Tracker . If you'd like to lead a meeting, please sign up.
+
+Please add agenda items and if you are interested in leading please contact
+me.
+
+Thanks,
+
+Amy(spotz)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170816/639ad1b3/attachment.html>
+
+From kendall at openstack.org  Fri Aug 18 16:22:42 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Fri, 18 Aug 2017 11:22:42 -0500
+Subject: [Women-of-openstack] Schedule Now Live - OpenStack Summit Sydney
+Message-ID: <9FFBBC37-282B-44F2-A8FB-43D045F40B8F@openstack.org>
+
+Hi everyone,
+
+The main conference schedule for the upcoming OpenStack Summit in Sydney <https://www.openstack.org/summit/sydney-2017/> is now available! 
+
+SCHEDULE: https://www.openstack.org/summit/sydney-2017/summit-schedule/ <https://www.openstack.org/summit/sydney-2017/summit-schedule/>
+
+Log in with your OpenStackID <https://openstackid.org/> and start building your schedule now! It will automatically sync with the mobile app, which will be available in the coming weeks. 
+
+Register now <https://openstacksummit2017sydney.eventbrite.com/> at the early bird discounted rate on your Summit ticket before prices increase on September 8 at 11:59pm Pacific Time (September 9 at 6:59 UTC).
+
+
+IMPORTANT INFORMATION
+View a list of nearby hotels on our website here <https://www.openstack.org/summit/sydney-2017/travel/>.
+Visa Information <https://www.openstack.org/summit/sydney-2017/travel/#visa>: All non-Australian residents will need a visa to travel to Australia.
+Interested in sponsoring the Summit? Learn more here <https://www.openstack.org/summit/sydney-2017/sponsors/>.
+
+
+SPEAKER NOTIFICATIONS
+If you submitted a talk - check your email. Everyone who submitted a speaking proposal for the Summit will receive an email notification to let them know whether or not their talk has been accepted. The email sent to selected speakers was sent from speakersupport at openstack.org <mailto:speakersupport at openstack.org> and contains important next steps and speaker registration codes. Each speaker is responsible for registering themselves to attend the Summit; please make sure your colleagues read the email and complete this step.
+
+Contact summit at openstack.org <mailto:summit at openstack.org> with any questions.
+
+See you in Sydney!
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170818/791b2b9b/attachment.html>
+
+From amy at demarco.com  Thu Aug 24 00:40:08 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 23 Aug 2017 19:40:08 -0500
+Subject: [Women-of-openstack] Open Source Summit
+Message-ID: <CAFs83Qrwt1C3hUvhQjSt5P2HQgbKPwW4R+g1S0yxoYY3sbQSSw@mail.gmail.com>
+
+Hey all,
+
+Wanted to see who all will be at Open Source Summit in Los Angeles,
+September 11-14. I know there will be a few of us there. If anyone would
+like to try to do a meet up one day for breakfast(yes I'm an early bird),
+lunch or at one of the night time events let me know!
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170823/9363bef5/attachment.html>
+
+From shilla.saebi at gmail.com  Thu Aug 24 21:23:37 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Thu, 24 Aug 2017 17:23:37 -0400
+Subject: [Women-of-openstack] Open Source Summit
+In-Reply-To: <CAFs83Qrwt1C3hUvhQjSt5P2HQgbKPwW4R+g1S0yxoYY3sbQSSw@mail.gmail.com>
+References: <CAFs83Qrwt1C3hUvhQjSt5P2HQgbKPwW4R+g1S0yxoYY3sbQSSw@mail.gmail.com>
+Message-ID: <CAPrU3jGr1+HzKzU7tYn8Y_M+EROwiFx0t6qTgD6RdeUcL=fcAw@mail.gmail.com>
+
+Hi Amy!
+
+I will be at the open source summit in LA! Looking forward to catching up.
+
+Shilla
+
+On Wed, Aug 23, 2017 at 8:40 PM, Amy Marrich <amy at demarco.com> wrote:
+
+> Hey all,
+>
+> Wanted to see who all will be at Open Source Summit in Los Angeles,
+> September 11-14. I know there will be a few of us there. If anyone would
+> like to try to do a meet up one day for breakfast(yes I'm an early bird),
+> lunch or at one of the night time events let me know!
+>
+> Amy
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170824/86304e44/attachment.html>
+
+From allison at openstack.org  Thu Aug 24 21:24:09 2017
+From: allison at openstack.org (Allison Price)
+Date: Thu, 24 Aug 2017 16:24:09 -0500
+Subject: [Women-of-openstack] Open Source Summit
+In-Reply-To: <CAPrU3jGr1+HzKzU7tYn8Y_M+EROwiFx0t6qTgD6RdeUcL=fcAw@mail.gmail.com>
+References: <CAFs83Qrwt1C3hUvhQjSt5P2HQgbKPwW4R+g1S0yxoYY3sbQSSw@mail.gmail.com>
+ <CAPrU3jGr1+HzKzU7tYn8Y_M+EROwiFx0t6qTgD6RdeUcL=fcAw@mail.gmail.com>
+Message-ID: <819AC5BC-E4EA-4594-9782-A5F5AABD6E2D@openstack.org>
+
+I will be there as well! 
+
+Allison
+
+Allison Price
+OpenStack Foundation
+allison at openstack.org
+
+
+> On Aug 24, 2017, at 4:23 PM, Shilla Saebi <shilla.saebi at gmail.com> wrote:
+> 
+> Hi Amy! 
+> 
+> I will be at the open source summit in LA! Looking forward to catching up. 
+> 
+> Shilla
+> 
+> On Wed, Aug 23, 2017 at 8:40 PM, Amy Marrich <amy at demarco.com <mailto:amy at demarco.com>> wrote:
+> Hey all,
+> 
+> Wanted to see who all will be at Open Source Summit in Los Angeles, September 11-14. I know there will be a few of us there. If anyone would like to try to do a meet up one day for breakfast(yes I'm an early bird), lunch or at one of the night time events let me know!
+> 
+> Amy
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170824/2472ed42/attachment.html>
+
+From anne at openstack.org  Thu Aug 24 21:24:35 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Thu, 24 Aug 2017 14:24:35 -0700
+Subject: [Women-of-openstack] Open Source Summit
+In-Reply-To: <819AC5BC-E4EA-4594-9782-A5F5AABD6E2D@openstack.org>
+References: <CAFs83Qrwt1C3hUvhQjSt5P2HQgbKPwW4R+g1S0yxoYY3sbQSSw@mail.gmail.com>
+ <CAPrU3jGr1+HzKzU7tYn8Y_M+EROwiFx0t6qTgD6RdeUcL=fcAw@mail.gmail.com>
+ <819AC5BC-E4EA-4594-9782-A5F5AABD6E2D@openstack.org>
+Message-ID: <7627D766-0CCD-48FE-A2D9-1254CB0C5C6C@openstack.org>
+
+I’ll be there Sunday night through Wednesday morning! Would love to meet up!
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Aug 24, 2017, at 2:24 PM, Allison Price <allison at openstack.org> wrote:
+> 
+> I will be there as well! 
+> 
+> Allison
+> 
+> Allison Price
+> OpenStack Foundation
+> allison at openstack.org <mailto:allison at openstack.org>
+> 
+> 
+>> On Aug 24, 2017, at 4:23 PM, Shilla Saebi <shilla.saebi at gmail.com <mailto:shilla.saebi at gmail.com>> wrote:
+>> 
+>> Hi Amy! 
+>> 
+>> I will be at the open source summit in LA! Looking forward to catching up. 
+>> 
+>> Shilla
+>> 
+>> On Wed, Aug 23, 2017 at 8:40 PM, Amy Marrich <amy at demarco.com <mailto:amy at demarco.com>> wrote:
+>> Hey all,
+>> 
+>> Wanted to see who all will be at Open Source Summit in Los Angeles, September 11-14. I know there will be a few of us there. If anyone would like to try to do a meet up one day for breakfast(yes I'm an early bird), lunch or at one of the night time events let me know!
+>> 
+>> Amy
+>> 
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>> 
+>> 
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170824/7a3c71de/attachment.html>
+
+From claire at openstack.org  Mon Aug 28 18:00:20 2017
+From: claire at openstack.org (Claire Massey)
+Date: Mon, 28 Aug 2017 13:00:20 -0500
+Subject: [Women-of-openstack] Let's talk Edge Computing at OpenDev,
+	next week in San Francisco
+Message-ID: <DD4085C3-DCDC-4566-B2CE-A15E600E1D0B@openstack.org>
+
+Interested in Edge Computing? *Next week* join us for OpenDev <http://www.opendevconf.com/>, a collaborative working event at DogPatch Studios in San Francisco, September 7-8. 
+
+Register here <https://www.eventbrite.com/e/opendev-2017-edge-computing-tickets-35579171259>. Tickets are just $100 for the two-day event. 
+
+OpenDev will feature Edge use case demos from Verizon, AT&T and eBay in addition to updates from industry pioneers including Satya <https://www.cs.cmu.edu/~satya/bio.html> from Carnegie Mellon who’s doing cutting “edge” research. Participating groups include OpenStack, Open Edge Computing, ETSI MEC, OPNFV, Kubernetes and others. 
+
+Program committee includes Beth Cohen (Verizon) Kandan Kathirvel (AT&T), Chris Price (Ericsson), Andrew Mitry (Walmart) and Gregory Katsaros (Inmarsat). 
+
+As cloud architectures continue to evolve, compute is being pushed to the Edge in telecom, retail, research and other industries. This represents a huge opportunity for open infrastructure, so we’re meeting to talk about how to assemble and integrate the components needed to meet Edge requirements.
+
+The event is designed to facilitate collaboration at a technical level with productive, working group discussions, in addition to lightning talk presentations on Edge use cases. There will be a range of working sessions led by moderators who dive into specific topics. Topics like managing security, what control planes need to look like, networking technologies in play, deployment considerations, zero touch provisioning and others. The discussions will be technical and specific—this is not meant to be a vision or thought leadership event, but a practical step forward in improving the state of Edge across open tech. View the schedule line-up here <http://www.opendevconf.com/schedule/>. 
+
+This important event is proudly sponsored by Intel, Ericsson and OpenStack Foundation.
+
+Questions? Contact events at openstack.org <mailto:events at openstack.org>.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170828/20760cb4/attachment.html>
+
+From lauren at openstack.org  Tue Aug 29 15:59:50 2017
+From: lauren at openstack.org (Lauren Sell)
+Date: Tue, 29 Aug 2017 10:59:50 -0500
+Subject: [Women-of-openstack] Open Source Summit
+In-Reply-To: <CAFs83Qrwt1C3hUvhQjSt5P2HQgbKPwW4R+g1S0yxoYY3sbQSSw@mail.gmail.com>
+References: <CAFs83Qrwt1C3hUvhQjSt5P2HQgbKPwW4R+g1S0yxoYY3sbQSSw@mail.gmail.com>
+Message-ID: <B3EA6C7F-8BB8-485B-AA13-E41F965E16A9@openstack.org>
+
+I’m arriving Wednesday evening and will be there most of the day Thursday. Happy to meet up!
+
+> On Aug 23, 2017, at 7:40 PM, Amy Marrich <amy at demarco.com> wrote:
+> 
+> Hey all,
+> 
+> Wanted to see who all will be at Open Source Summit in Los Angeles, September 11-14. I know there will be a few of us there. If anyone would like to try to do a meet up one day for breakfast(yes I'm an early bird), lunch or at one of the night time events let me know!
+> 
+> Amy
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+From kennelson11 at gmail.com  Tue Aug 29 21:48:35 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Tue, 29 Aug 2017 21:48:35 +0000
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+Message-ID: <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+
+Hello Everyone :)
+
+So. I have done some research and I am kind of waffling.  Wednesday at 5:00
+is time and date. The location is the tricky part.
+
+There is a brewery a block away- Station 26- but it looks like they only
+have beer, not sure how people feel about that.
+
+There is a good happy hour place with all the options- Bar Louie- a ten min
+car ride away if people are okay with lyft/uber.
+
+OR, there is the hotel bar which I am told is pretty good, but I imagine we
+will all be spending a lot of time in so I thought going somewhere else for
+variety's sake might be good.
+
+I don't know. What do you all think?
+
+-Kendall (diablo_rojo)
+
+On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com> wrote:
+
+> Hello everyone :)
+>
+> I just wondered who might be attending the PTG? I thought it might be fun
+> to collect somewhere for a happy hour and get to know one another better
+> maybe? Reply here if you are going to be there and if you will be there for
+> the whole week or just a subset of the days?
+>
+> I will be there all the days :) I get in the weekend before and fly out on
+> Friday.
+>
+> -Kendall Nelson (diablo_rojo)
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170829/1084319b/attachment.html>
+
+From anne at openstack.org  Wed Aug 30 15:36:45 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Wed, 30 Aug 2017 08:36:45 -0700
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+Message-ID: <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+
+Also appears to be an Irish bar ~3 min drive/20 min walk away? 
+http://coloradopubco.com/stapleton-caseys/ <http://coloradopubco.com/stapleton-caseys/>
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com> wrote:
+> 
+> Hi Kendall,
+> Where ever you decide is good with me.  Looking forward to meeting you all.
+>  
+> Kind Regards,
+> Helen
+>   <>
+> From: Kendall Nelson [mailto:kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>] 
+> Sent: Tuesday 29 August 2017 22:49
+> To: women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>; Walsh, Helen <helen.walsh at emc.com <mailto:helen.walsh at emc.com>>; Anne Bertucio <anne at openstack.org <mailto:anne at openstack.org>>; Alexandra Settle <a.settle at outlook.com <mailto:a.settle at outlook.com>>; Ildiko Vancsa <ildiko at openstack.org <mailto:ildiko at openstack.org>>; tribecca at tribecc.us <mailto:tribecca at tribecc.us>; Julia Kreger <juliaashleykreger at gmail.com <mailto:juliaashleykreger at gmail.com>>
+> Subject: Re: WoO Goes to the PTG!
+>  
+> Hello Everyone :) 
+>  
+> So. I have done some research and I am kind of waffling.  Wednesday at 5:00 is time and date. The location is the tricky part. 
+> 
+> There is a brewery a block away- Station 26- but it looks like they only have beer, not sure how people feel about that. 
+> 
+> There is a good happy hour place with all the options- Bar Louie- a ten min car ride away if people are okay with lyft/uber. 
+> 
+> OR, there is the hotel bar which I am told is pretty good, but I imagine we will all be spending a lot of time in so I thought going somewhere else for variety's sake might be good.
+> 
+> I don't know. What do you all think?   
+>  
+> -Kendall (diablo_rojo)
+>  
+> On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>> wrote:
+> Hello everyone :) 
+> 
+> I just wondered who might be attending the PTG? I thought it might be fun to collect somewhere for a happy hour and get to know one another better maybe? Reply here if you are going to be there and if you will be there for the whole week or just a subset of the days? 
+> 
+> I will be there all the days :) I get in the weekend before and fly out on Friday.
+>  
+> -Kendall Nelson (diablo_rojo)
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170830/ff30e327/attachment.html>
+
+From Helen.Walsh at dell.com  Wed Aug 30 15:27:56 2017
+From: Helen.Walsh at dell.com (Walsh, Helen)
+Date: Wed, 30 Aug 2017 15:27:56 +0000
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+Message-ID: <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+
+Hi Kendall,
+Where ever you decide is good with me.  Looking forward to meeting you all.
+
+Kind Regards,
+Helen
+
+From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+Sent: Tuesday 29 August 2017 22:49
+To: women-of-openstack at lists.openstack.org; Walsh, Helen <helen.walsh at emc.com>; Anne Bertucio <anne at openstack.org>; Alexandra Settle <a.settle at outlook.com>; Ildiko Vancsa <ildiko at openstack.org>; tribecca at tribecc.us; Julia Kreger <juliaashleykreger at gmail.com>
+Subject: Re: WoO Goes to the PTG!
+
+Hello Everyone :)
+
+So. I have done some research and I am kind of waffling.  Wednesday at 5:00 is time and date. The location is the tricky part.
+
+There is a brewery a block away- Station 26- but it looks like they only have beer, not sure how people feel about that.
+
+There is a good happy hour place with all the options- Bar Louie- a ten min car ride away if people are okay with lyft/uber.
+
+OR, there is the hotel bar which I am told is pretty good, but I imagine we will all be spending a lot of time in so I thought going somewhere else for variety's sake might be good.
+I don't know. What do you all think?
+
+-Kendall (diablo_rojo)
+
+On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>> wrote:
+Hello everyone :)
+I just wondered who might be attending the PTG? I thought it might be fun to collect somewhere for a happy hour and get to know one another better maybe? Reply here if you are going to be there and if you will be there for the whole week or just a subset of the days?
+I will be there all the days :) I get in the weekend before and fly out on Friday.
+
+-Kendall Nelson (diablo_rojo)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170830/890e41c6/attachment.html>
+
+From juliaashleykreger at gmail.com  Wed Aug 30 21:26:25 2017
+From: juliaashleykreger at gmail.com (Julia Kreger)
+Date: Wed, 30 Aug 2017 17:26:25 -0400
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+ <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+Message-ID: <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+
+Greetings!
+
+I really have no preference, especially after checking a map. Bar
+Louie is a chain and I've found one of their other locations to be
+extremely loud. Caseys could work just fine as well. I'll be in the
+area this coming Sunday, so I'm more than happy to go checkout
+locations in person before PTG.
+
+-Julia
+
+On Wed, Aug 30, 2017 at 11:36 AM, Anne Bertucio <anne at openstack.org> wrote:
+> Also appears to be an Irish bar ~3 min drive/20 min walk away?
+> http://coloradopubco.com/stapleton-caseys/
+>
+>
+> Anne Bertucio
+> Marketing and Certification, OpenStack Foundation
+> anne at openstack.org | 206-992-7961
+>
+>
+>
+>
+> On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com> wrote:
+>
+> Hi Kendall,
+> Where ever you decide is good with me.  Looking forward to meeting you all.
+>
+> Kind Regards,
+> Helen
+>
+> From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+> Sent: Tuesday 29 August 2017 22:49
+> To: women-of-openstack at lists.openstack.org; Walsh, Helen
+> <helen.walsh at emc.com>; Anne Bertucio <anne at openstack.org>; Alexandra Settle
+> <a.settle at outlook.com>; Ildiko Vancsa <ildiko at openstack.org>;
+> tribecca at tribecc.us; Julia Kreger <juliaashleykreger at gmail.com>
+> Subject: Re: WoO Goes to the PTG!
+>
+> Hello Everyone :)
+>
+>
+> So. I have done some research and I am kind of waffling.  Wednesday at 5:00
+> is time and date. The location is the tricky part.
+>
+> There is a brewery a block away- Station 26- but it looks like they only
+> have beer, not sure how people feel about that.
+>
+> There is a good happy hour place with all the options- Bar Louie- a ten min
+> car ride away if people are okay with lyft/uber.
+>
+> OR, there is the hotel bar which I am told is pretty good, but I imagine we
+> will all be spending a lot of time in so I thought going somewhere else for
+> variety's sake might be good.
+>
+> I don't know. What do you all think?
+>
+> -Kendall (diablo_rojo)
+>
+> On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com> wrote:
+>
+> Hello everyone :)
+>
+> I just wondered who might be attending the PTG? I thought it might be fun to
+> collect somewhere for a happy hour and get to know one another better maybe?
+> Reply here if you are going to be there and if you will be there for the
+> whole week or just a subset of the days?
+>
+> I will be there all the days :) I get in the weekend before and fly out on
+> Friday.
+>
+> -Kendall Nelson (diablo_rojo)
+>
+>
+
+
+From kennelson11 at gmail.com  Wed Aug 30 21:37:35 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Wed, 30 Aug 2017 21:37:35 +0000
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+ <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+ <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+Message-ID: <CAJ6yrQi+E6J-xr6Ch_Sx4LPLOhJsRHWDZ3evABxmoV0fuuUtGg@mail.gmail.com>
+
+@Julia OOooOO if you want to scope things out that would be awesome.
+
+I definitely agree Bar Louie can be loud- I also tend to try to stay away
+from chains, just threw it out there as an option.
+
+-Kendall (diablo_rojo)
+
+On Wed, Aug 30, 2017 at 2:26 PM Julia Kreger <juliaashleykreger at gmail.com>
+wrote:
+
+> Greetings!
+>
+> I really have no preference, especially after checking a map. Bar
+> Louie is a chain and I've found one of their other locations to be
+> extremely loud. Caseys could work just fine as well. I'll be in the
+> area this coming Sunday, so I'm more than happy to go checkout
+> locations in person before PTG.
+>
+> -Julia
+>
+> On Wed, Aug 30, 2017 at 11:36 AM, Anne Bertucio <anne at openstack.org>
+> wrote:
+> > Also appears to be an Irish bar ~3 min drive/20 min walk away?
+> > http://coloradopubco.com/stapleton-caseys/
+> >
+> >
+> > Anne Bertucio
+> > Marketing and Certification, OpenStack Foundation
+> > anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+> >
+> >
+> >
+> >
+> > On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com> wrote:
+> >
+> > Hi Kendall,
+> > Where ever you decide is good with me.  Looking forward to meeting you
+> all.
+> >
+> > Kind Regards,
+> > Helen
+> >
+> > From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+> > Sent: Tuesday 29 August 2017 22:49
+> > To: women-of-openstack at lists.openstack.org; Walsh, Helen
+> > <helen.walsh at emc.com>; Anne Bertucio <anne at openstack.org>; Alexandra
+> Settle
+> > <a.settle at outlook.com>; Ildiko Vancsa <ildiko at openstack.org>;
+> > tribecca at tribecc.us; Julia Kreger <juliaashleykreger at gmail.com>
+> > Subject: Re: WoO Goes to the PTG!
+> >
+> > Hello Everyone :)
+> >
+> >
+> > So. I have done some research and I am kind of waffling.  Wednesday at
+> 5:00
+> > is time and date. The location is the tricky part.
+> >
+> > There is a brewery a block away- Station 26- but it looks like they only
+> > have beer, not sure how people feel about that.
+> >
+> > There is a good happy hour place with all the options- Bar Louie- a ten
+> min
+> > car ride away if people are okay with lyft/uber.
+> >
+> > OR, there is the hotel bar which I am told is pretty good, but I imagine
+> we
+> > will all be spending a lot of time in so I thought going somewhere else
+> for
+> > variety's sake might be good.
+> >
+> > I don't know. What do you all think?
+> >
+> > -Kendall (diablo_rojo)
+> >
+> > On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com>
+> wrote:
+> >
+> > Hello everyone :)
+> >
+> > I just wondered who might be attending the PTG? I thought it might be
+> fun to
+> > collect somewhere for a happy hour and get to know one another better
+> maybe?
+> > Reply here if you are going to be there and if you will be there for the
+> > whole week or just a subset of the days?
+> >
+> > I will be there all the days :) I get in the weekend before and fly out
+> on
+> > Friday.
+> >
+> > -Kendall Nelson (diablo_rojo)
+> >
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170830/2bed719e/attachment.html>
+
+From amy at demarco.com  Wed Aug 30 21:49:12 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 30 Aug 2017 16:49:12 -0500
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAJ6yrQi+E6J-xr6Ch_Sx4LPLOhJsRHWDZ3evABxmoV0fuuUtGg@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+ <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+ <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+ <CAJ6yrQi+E6J-xr6Ch_Sx4LPLOhJsRHWDZ3evABxmoV0fuuUtGg@mail.gmail.com>
+Message-ID: <CAFs83Qr+EECAOmyvmE+Pz1yR+1=_S38XLxfq=eucTyo4+EEGnQ@mail.gmail.com>
+
+Oh just walk to the pub... you'll feel like you're back in Boston:)
+
+Amy
+
+On Wed, Aug 30, 2017 at 4:37 PM, Kendall Nelson <kennelson11 at gmail.com>
+wrote:
+
+> @Julia OOooOO if you want to scope things out that would be awesome.
+>
+> I definitely agree Bar Louie can be loud- I also tend to try to stay away
+> from chains, just threw it out there as an option.
+>
+> -Kendall (diablo_rojo)
+>
+> On Wed, Aug 30, 2017 at 2:26 PM Julia Kreger <juliaashleykreger at gmail.com>
+> wrote:
+>
+>> Greetings!
+>>
+>> I really have no preference, especially after checking a map. Bar
+>> Louie is a chain and I've found one of their other locations to be
+>> extremely loud. Caseys could work just fine as well. I'll be in the
+>> area this coming Sunday, so I'm more than happy to go checkout
+>> locations in person before PTG.
+>>
+>> -Julia
+>>
+>> On Wed, Aug 30, 2017 at 11:36 AM, Anne Bertucio <anne at openstack.org>
+>> wrote:
+>> > Also appears to be an Irish bar ~3 min drive/20 min walk away?
+>> > http://coloradopubco.com/stapleton-caseys/
+>> >
+>> >
+>> > Anne Bertucio
+>> > Marketing and Certification, OpenStack Foundation
+>> > anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+>> >
+>> >
+>> >
+>> >
+>> > On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com> wrote:
+>> >
+>> > Hi Kendall,
+>> > Where ever you decide is good with me.  Looking forward to meeting you
+>> all.
+>> >
+>> > Kind Regards,
+>> > Helen
+>> >
+>> > From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+>> > Sent: Tuesday 29 August 2017 22:49
+>> > To: women-of-openstack at lists.openstack.org; Walsh, Helen
+>> > <helen.walsh at emc.com>; Anne Bertucio <anne at openstack.org>; Alexandra
+>> Settle
+>> > <a.settle at outlook.com>; Ildiko Vancsa <ildiko at openstack.org>;
+>> > tribecca at tribecc.us; Julia Kreger <juliaashleykreger at gmail.com>
+>> > Subject: Re: WoO Goes to the PTG!
+>> >
+>> > Hello Everyone :)
+>> >
+>> >
+>> > So. I have done some research and I am kind of waffling.  Wednesday at
+>> 5:00
+>> > is time and date. The location is the tricky part.
+>> >
+>> > There is a brewery a block away- Station 26- but it looks like they only
+>> > have beer, not sure how people feel about that.
+>> >
+>> > There is a good happy hour place with all the options- Bar Louie- a ten
+>> min
+>> > car ride away if people are okay with lyft/uber.
+>> >
+>> > OR, there is the hotel bar which I am told is pretty good, but I
+>> imagine we
+>> > will all be spending a lot of time in so I thought going somewhere else
+>> for
+>> > variety's sake might be good.
+>> >
+>> > I don't know. What do you all think?
+>> >
+>> > -Kendall (diablo_rojo)
+>> >
+>> > On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com>
+>> wrote:
+>> >
+>> > Hello everyone :)
+>> >
+>> > I just wondered who might be attending the PTG? I thought it might be
+>> fun to
+>> > collect somewhere for a happy hour and get to know one another better
+>> maybe?
+>> > Reply here if you are going to be there and if you will be there for the
+>> > whole week or just a subset of the days?
+>> >
+>> > I will be there all the days :) I get in the weekend before and fly out
+>> on
+>> > Friday.
+>> >
+>> > -Kendall Nelson (diablo_rojo)
+>> >
+>> >
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170830/d188a756/attachment.html>
+
+From juliaashleykreger at gmail.com  Thu Aug 31 00:08:29 2017
+From: juliaashleykreger at gmail.com (Julia Kreger)
+Date: Thu, 31 Aug 2017 00:08:29 +0000
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAFs83Qr+EECAOmyvmE+Pz1yR+1=_S38XLxfq=eucTyo4+EEGnQ@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+ <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+ <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+ <CAJ6yrQi+E6J-xr6Ch_Sx4LPLOhJsRHWDZ3evABxmoV0fuuUtGg@mail.gmail.com>
+ <CAFs83Qr+EECAOmyvmE+Pz1yR+1=_S38XLxfq=eucTyo4+EEGnQ@mail.gmail.com>
+Message-ID: <CAF7gwdgK-qgQMLmgvL86qyLMf-nTr5G8pSd+STzrjYdTMF_1_g@mail.gmail.com>
+
+I'll go ahead and scope it out, but walking to the pub does sound like the
+best idea :)
+
+-Julia
+On Wed, Aug 30, 2017 at 3:49 PM Amy Marrich <amy at demarco.com> wrote:
+
+> Oh just walk to the pub... you'll feel like you're back in Boston:)
+>
+> Amy
+> On Wed, Aug 30, 2017 at 4:37 PM, Kendall Nelson <kennelson11 at gmail.com>
+> wrote:
+>
+>> @Julia OOooOO if you want to scope things out that would be awesome.
+>>
+>> I definitely agree Bar Louie can be loud- I also tend to try to stay away
+>> from chains, just threw it out there as an option.
+>>
+>> -Kendall (diablo_rojo)
+>>
+>> On Wed, Aug 30, 2017 at 2:26 PM Julia Kreger <juliaashleykreger at gmail.com>
+>> wrote:
+>>
+>>> Greetings!
+>>>
+>>> I really have no preference, especially after checking a map. Bar
+>>> Louie is a chain and I've found one of their other locations to be
+>>> extremely loud. Caseys could work just fine as well. I'll be in the
+>>> area this coming Sunday, so I'm more than happy to go checkout
+>>> locations in person before PTG.
+>>>
+>>> -Julia
+>>>
+>>> On Wed, Aug 30, 2017 at 11:36 AM, Anne Bertucio <anne at openstack.org>
+>>> wrote:
+>>> > Also appears to be an Irish bar ~3 min drive/20 min walk away?
+>>> > http://coloradopubco.com/stapleton-caseys/
+>>> >
+>>> >
+>>> > Anne Bertucio
+>>> > Marketing and Certification, OpenStack Foundation
+>>> > anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+>>> >
+>>> >
+>>> >
+>>> >
+>>> > On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com>
+>>> wrote:
+>>> >
+>>> > Hi Kendall,
+>>> > Where ever you decide is good with me.  Looking forward to meeting you
+>>> all.
+>>> >
+>>> > Kind Regards,
+>>> > Helen
+>>> >
+>>> > From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+>>> > Sent: Tuesday 29 August 2017 22:49
+>>> > To: women-of-openstack at lists.openstack.org; Walsh, Helen
+>>> > <helen.walsh at emc.com>; Anne Bertucio <anne at openstack.org>; Alexandra
+>>> Settle
+>>> > <a.settle at outlook.com>; Ildiko Vancsa <ildiko at openstack.org>;
+>>> > tribecca at tribecc.us; Julia Kreger <juliaashleykreger at gmail.com>
+>>> > Subject: Re: WoO Goes to the PTG!
+>>> >
+>>> > Hello Everyone :)
+>>> >
+>>> >
+>>> > So. I have done some research and I am kind of waffling.  Wednesday at
+>>> 5:00
+>>> > is time and date. The location is the tricky part.
+>>> >
+>>> > There is a brewery a block away- Station 26- but it looks like they
+>>> only
+>>> > have beer, not sure how people feel about that.
+>>> >
+>>> > There is a good happy hour place with all the options- Bar Louie- a
+>>> ten min
+>>> > car ride away if people are okay with lyft/uber.
+>>> >
+>>> > OR, there is the hotel bar which I am told is pretty good, but I
+>>> imagine we
+>>> > will all be spending a lot of time in so I thought going somewhere
+>>> else for
+>>> > variety's sake might be good.
+>>> >
+>>> > I don't know. What do you all think?
+>>> >
+>>> > -Kendall (diablo_rojo)
+>>> >
+>>> > On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com>
+>>> wrote:
+>>> >
+>>> > Hello everyone :)
+>>> >
+>>> > I just wondered who might be attending the PTG? I thought it might be
+>>> fun to
+>>> > collect somewhere for a happy hour and get to know one another better
+>>> maybe?
+>>> > Reply here if you are going to be there and if you will be there for
+>>> the
+>>> > whole week or just a subset of the days?
+>>> >
+>>> > I will be there all the days :) I get in the weekend before and fly
+>>> out on
+>>> > Friday.
+>>> >
+>>> > -Kendall Nelson (diablo_rojo)
+>>> >
+>>> >
+>>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170831/b09ce18b/attachment-0001.html>
+

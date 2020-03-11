@@ -1,0 +1,655 @@
+From nicole.francisco@gmail.com  Thu Mar 28 03:25:24 2013
+Return-Path: <nicole.francisco@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id E9BE1768C8
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 28 Mar 2013 03:25:23 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id ojofrKP34Jod for <gnome-women-list@mail.gnome.org>;
+	Thu, 28 Mar 2013 03:25:23 +0000 (UTC)
+Received: from mail-pa0-f48.google.com (mail-pa0-f48.google.com
+	[209.85.220.48])
+	by restaurant.gnome.org (Postfix) with ESMTP id D9AEE76304
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 28 Mar 2013 03:25:22 +0000 (UTC)
+Received: by mail-pa0-f48.google.com with SMTP id lj1so1281286pab.21
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 27 Mar 2013 20:25:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:x-received:date:message-id:subject:from:to
+	:content-type; bh=2c0a2X3SKlorFtdbo9Rxd4t5KBSv50m01jYZQhhlA1I=;
+	b=Wj7Bs4DYQ8eYlbrajTP/PWsaVr4JeV1a1g5HqONH71Weqvdrc9ZDrJPnRLhq6edy7Y
+	3wyqzvsDMbyd5KsAPhKTPx/1ehD0MCswHltU2u/GcCPcHH9ycV+2xr37bgRjC56+dB6D
+	skpy0NEZiMpI0oL47umx3vDgZ50JMREHgI69t/lDtzKJsgL4VHEUtXIuYVeSaxUsKFDq
+	IYEtpsBWPZ2bOqMN0rX9dh/AxYLbNynkiZsFNXLDyVgsqc93Zkd1VLbuCVD6oNRvLiom
+	tHKfk0Gi07XFZxTwQr6FBCaGNv5dJ7qAWbRod19xoIblDP+e3nnRBt7SVOLBAqVl3uSD
+	QhEQ==
+MIME-Version: 1.0
+X-Received: by 10.68.219.133 with SMTP id po5mr33411084pbc.36.1364441121063;
+	Wed, 27 Mar 2013 20:25:21 -0700 (PDT)
+Received: by 10.68.119.43 with HTTP; Wed, 27 Mar 2013 20:25:21 -0700 (PDT)
+Date: Thu, 28 Mar 2013 03:25:21 +0000
+Message-ID: <CAE2uU+tr2-n9ajC5EjGr3OXviaZuY4YE4DLQ530bMRLMgU11ZA@mail.gmail.com>
+From: Nicole Francisco <nicole.francisco@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=e89a8ff247ef56890404d8f3b48a
+Subject: [gnome-women] Question about GSoC 2013
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 28 Mar 2013 03:25:24 -0000
+
+--e89a8ff247ef56890404d8f3b48a
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi all,
+
+I'm currently a third year studying computer science student and am
+interested in working on a project for GSoC 2013 this summer.
+I mainly work in Java and know some C#, but I'm looking through the GNOME
+projects page and it seems like the primary language used is C.
+Would I still be able to contribute to a GNOME project with my current
+coding expertise?
+
+I posted a similar thread in the gnome-love mailing list, but I also wanted
+to introduce myself to this community. :)
+
+Thank you for all your help!
+
+--e89a8ff247ef56890404d8f3b48a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi all,<div><br></div><div><div>I&#39;m currently a third year studying com=
+puter science student and am interested in working on a project for GSoC 20=
+13 this summer.</div><div>I mainly work in Java and know some C#, but I&#39=
+;m looking through the GNOME projects page and it seems like the primary la=
+nguage used is C.</div>
+<div>Would I still be able to contribute to a GNOME project with my current=
+ coding expertise?</div><div><br></div><div>I posted a similar thread in th=
+e gnome-love mailing list, but I also wanted to introduce myself to this co=
+mmunity. :)</div>
+<div><br></div><div>Thank you for all your help!</div></div>
+
+--e89a8ff247ef56890404d8f3b48a--
+From meg387@gmail.com  Thu Mar 28 03:59:04 2013
+Return-Path: <meg387@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 63AA7768C8
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 28 Mar 2013 03:59:04 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id JS9Oqz0ecMEs for <gnome-women-list@mail.gnome.org>;
+	Thu, 28 Mar 2013 03:58:53 +0000 (UTC)
+Received: from mail-pb0-f51.google.com (mail-pb0-f51.google.com
+	[209.85.160.51])
+	by restaurant.gnome.org (Postfix) with ESMTP id EBFA776304
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 28 Mar 2013 03:58:52 +0000 (UTC)
+Received: by mail-pb0-f51.google.com with SMTP id rr4so2887268pbb.24
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 27 Mar 2013 20:58:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:x-received:in-reply-to:references:date:message-id
+	:subject:from:to:cc:content-type;
+	bh=HMjQ9PWwT8Plt9QmyvfEJYET6DL7aBW9IfFUaH5Oo2c=;
+	b=obZ7W45hlHrcd67QdFkO6thl7nUGnUhaeCJODosYu/MBEFALtaySjzpqq2D6cuQon5
+	oP1BtCmEEgfAiqEH1u8rs3BLtMDow5J8NbY+8BHS3RtDmFJ6kQlc0qXPz35Db74/Z3VW
+	osQgsQbjpaV4ikSvV/9pHg+TTnpSI8wfRgCrmN5hl8IqYxIXnhxGHgqIEKTGP5pjPwfF
+	pbAzEbb/08HjzjmCfK5bTK0u6SmgDcAYnQqvzLDdY+VrGxvXaW3tgKLCs2cT/TCi9UyH
+	Oya9OYWs0IfAI60ngLveU4pWi0V3gGEaza7dpKAk+xiQ1/hEEzqNaELKY7f+Lrv8u0Tz
+	nC8g==
+MIME-Version: 1.0
+X-Received: by 10.68.242.41 with SMTP id wn9mr32883522pbc.156.1364443131360;
+	Wed, 27 Mar 2013 20:58:51 -0700 (PDT)
+Received: by 10.70.39.97 with HTTP; Wed, 27 Mar 2013 20:58:51 -0700 (PDT)
+In-Reply-To: <CAE2uU+tr2-n9ajC5EjGr3OXviaZuY4YE4DLQ530bMRLMgU11ZA@mail.gmail.com>
+References: <CAE2uU+tr2-n9ajC5EjGr3OXviaZuY4YE4DLQ530bMRLMgU11ZA@mail.gmail.com>
+Date: Wed, 27 Mar 2013 22:58:51 -0500
+Message-ID: <CAC4QDKhsM8Nw2q-VggqM+DRT2Z_bNmmS2_KCHo2ZmT82wDD71w@mail.gmail.com>
+From: meg ford <meg387@gmail.com>
+To: Nicole Francisco <nicole.francisco@gmail.com>
+Content-Type: multipart/alternative; boundary=047d7b3395a3293c4404d8f42c9e
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Question about GSoC 2013
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 28 Mar 2013 03:59:04 -0000
+
+--047d7b3395a3293c4404d8f42c9e
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Nicole,
+
+I was accepted and completed a GSoC project last summer with GNOME and I
+only knew Java when I applied. I have a friend who worked on Wine (working
+on code in C) with Google as his mentoring organization last summer, and he
+didn't know any C when he started. So it can be done!
+
+I would suggest that you contact the mentor for any project that interests
+you so you can start working on a patch. That will give you a sense of how
+to contribute.
+
+Meg Ford
+
+On Wed, Mar 27, 2013 at 10:25 PM, Nicole Francisco <
+nicole.francisco@gmail.com> wrote:
+
+> Hi all,
+>
+> I'm currently a third year studying computer science student and am
+> interested in working on a project for GSoC 2013 this summer.
+> I mainly work in Java and know some C#, but I'm looking through the GNOME
+> projects page and it seems like the primary language used is C.
+> Would I still be able to contribute to a GNOME project with my current
+> coding expertise?
+>
+> I posted a similar thread in the gnome-love mailing list, but I also
+> wanted to introduce myself to this community. :)
+>
+> Thank you for all your help!
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--047d7b3395a3293c4404d8f42c9e
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Nicole,<br><br>I was accepted and completed a GSoC project last summer w=
+ith GNOME and I only knew Java when I applied. I have a friend who worked o=
+n Wine (working on code in C) with Google as his mentoring organization las=
+t summer, and he didn&#39;t know any C when he started. So it can be done! =
+<br>
+<br>I would suggest that you contact the mentor for any project that intere=
+sts you so you can start working on a patch. That will give you a sense of =
+how to contribute.<br><br>Meg Ford<br><br><div class=3D"gmail_quote">On Wed=
+, Mar 27, 2013 at 10:25 PM, Nicole Francisco <span dir=3D"ltr">&lt;<a href=
+=3D"mailto:nicole.francisco@gmail.com" target=3D"_blank">nicole.francisco@g=
+mail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Hi all,<div><br></div><div><div>I&#39;m curr=
+ently a third year studying computer science student and am interested in w=
+orking on a project for GSoC 2013 this summer.</div>
+<div>I mainly work in Java and know some C#, but I&#39;m looking through th=
+e GNOME projects page and it seems like the primary language used is C.</di=
+v>
+<div>Would I still be able to contribute to a GNOME project with my current=
+ coding expertise?</div><div><br></div><div>I posted a similar thread in th=
+e gnome-love mailing list, but I also wanted to introduce myself to this co=
+mmunity. :)</div>
+
+<div><br></div><div>Thank you for all your help!</div></div>
+<br>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+></blockquote></div><br>
+
+--047d7b3395a3293c4404d8f42c9e--
+From aisienao@uniben.edu  Sat Mar  9 10:38:01 2013
+Return-Path: <aisienao@uniben.edu>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 1212E76C2D
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  9 Mar 2013 10:38:01 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: YES
+X-Spam-Score: 2.518
+X-Spam-Level: **
+X-Spam-Status: Yes, score=2.518 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLY=1,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SUBJ_ALL_CAPS=1.506,
+	T_FRT_CONTACT=0.01] autolearn=no
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id Byap92kVSrGQ for <gnome-women-list@mail.gnome.org>;
+	Sat,  9 Mar 2013 10:38:00 +0000 (UTC)
+Received: from mail-ve0-f176.google.com (mail-ve0-f176.google.com
+	[209.85.128.176])
+	by restaurant.gnome.org (Postfix) with ESMTP id 3E24776C30
+	for <gnome-women-list@mail.gnome.org>;
+	Sat,  9 Mar 2013 10:37:59 +0000 (UTC)
+Received: by mail-ve0-f176.google.com with SMTP id cz10so1759443veb.7
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 09 Mar 2013 02:37:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:x-received:sender:date:x-google-sender-auth:message-id
+	:subject:from:to:content-type;
+	bh=Wmwrz3awapckBAL6mKU1LgfKu11K8dPaS0v4U3aqE9E=;
+	b=HsbIB+dRpHBDRGfZ/ICRvxVf6UdaQ7os8mh1oBcV/NGXQ/XWCZyKG5qLGc/ofVysi/
+	IZaQnF3ElC+w44rVQppq3i5yzXPxvic8jvfIZJoVMdVorOCqDJSPJjdlWS96xdD+iKXg
+	j1pExLQcbBTUaCthv/taI7A79ZMCO02VHhAMGXlhE3CX76Xz70JsyInZTVrZuKPWcaT2
+	aCZKRfJvmF8b5m5sgVq7gS/YROkGpYQDpKE595T2MmxzACAena0p3DW2GeV4LDdgNJRp
+	Cyk1g3fEHI39CTf17C1Zd+a2/awIWDr/DgSGIxu4SmrnD3qdFkKCuqxhHZXhytatatES
+	QB/w==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=google.com; s=20120113;
+	h=mime-version:x-received:sender:date:x-google-sender-auth:message-id
+	:subject:from:to:content-type:x-gm-message-state;
+	bh=Wmwrz3awapckBAL6mKU1LgfKu11K8dPaS0v4U3aqE9E=;
+	b=JiP9ZSrl0VdL6qiB0d/AHMzH1rwiSbuUS3xKHjHi201mhgPHg8aYinQkAKe6tVBmPY
+	HFMPpQ5Y1Qdfg57H+0uY+Mo/pW+R9p/9zLZmlAW9sRwGm47VENTOtkszXw73QlK0GJme
+	dUss3igAfUsAnu1VB5xY9UwWA94PuzKmmmHlUHmd7NNEadGc4nd56ofdCAWtV25kKX9p
+	m7bU2mis+H/QA0TANxKntXBuHXE4mPQhBx1S2TtRT8c3uZTqnho5sS5jR7dZ8NAxYDw4
+	3qhpt92UTNkq1N5CxS7deG6S74Xnvb06IfbDLhSenj0Qa0w2opjkZcUANIi45Gw0dkib
+	bJcg==
+MIME-Version: 1.0
+X-Received: by 10.220.241.19 with SMTP id lc19mr2209974vcb.43.1362825477607;
+	Sat, 09 Mar 2013 02:37:57 -0800 (PST)
+Sender: aisienao@uniben.edu
+Received: by 10.58.12.138 with HTTP; Sat, 9 Mar 2013 02:37:57 -0800 (PST)
+X-Google-Sender-Auth: mWe8XNO_js7-E43KJHF3joaJIqQ
+Message-ID: <CAMkqHJ_PMs2sdU9auVRLEjt_3+gkCWCrkQz3SCuK6kajK10OWQ@mail.gmail.com>
+From: Lillian Christian <info.lillianchristian@gmail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=14dae9cfcbe67bf3ce04d77b8848
+X-Gm-Message-State: ALoCoQmVMhZRPdjrdRjK6TsQV+JdDGTLOYGBg1P6lDytvGkQTKjrNKmyJaCo8tOKjjVZyZv06n90
+X-Mailman-Approved-At: Sun, 31 Mar 2013 12:31:29 +0000
+Subject: [gnome-women] 2013 USA (CHRF) CONFERENCE/INVITATION!!!!!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+Date: Sat, 09 Mar 2013 10:38:01 -0000
+X-Original-Date: Sat, 9 Mar 2013 02:37:57 -0800
+X-List-Received-Date: Sat, 09 Mar 2013 10:38:01 -0000
+
+--14dae9cfcbe67bf3ce04d77b8848
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Dear Colleagues,
+
+
+         On behalf of California Human Right Foundation CHRF USA, It is a
+great privilege for us to invite you to the global Congress meeting against
+Economic Crisis, Child Protection & HIV/AIDS Treatment, Prostitution, Sex
+Work and forced Labor. The aims of the conference are to bring together
+researchers and practitioners in an effort to lay the ground work for
+future collaborative research, advocacy, and program development as well as
+to educate social service, health care, and criminal justice professionals
+on human trafficking and the needs and risks of those victimized by the
+commercial sex industry.
+
+The global Congress meeting against Economic Crisis, Child Protection &
+HIV/AIDS Treatment, Prostitution, Sex Work and forced Labor, is scheduled
+to take place from May 20th =96 23rd 2013 in California the United States a=
+nd
+in Madrid Spain, from May  26th =96 29th of May 2013. The global congress i=
+s
+hosted by the Campaign against Child Labor Coalition and sponsored by (The
+Bill & Melinda Gates Foundation, The William J. Clinton Foundation and
+other benevolent donors worldwide.
+
+Objectives of the Conference are.
+
+1. To educate people the effect of child trafficking
+2. To serve as a resource to the public and advocates by providing valuable
+information about other initiatives working to address human Trafficking
+sex trafficking
+3. To provide rehabilitation services to victims.
+4. To encourage policy at local and national levels that will contribute to
+reducing human trafficking
+5. To provide insight in the activities in the field of science and policy
+interface;
+6. To build a platform of knowledge at an international level;
+
+For more information contact the conference organizing committee via
+e-mail: Olivia.alexander@contractor.net
+
+Sincerely,
+Mrs Lillian Christian
+E-mail: info.lillianchristian@gmail.com
+
+--14dae9cfcbe67bf3ce04d77b8848
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<br>Dear Colleagues,<br><br><br>=A0=A0=A0=A0=A0=A0=A0=A0 On behalf of Calif=
+ornia Human=20
+Right Foundation CHRF USA, It is a great privilege for us to invite you=20
+to the global Congress meeting against Economic Crisis, Child Protection
+ &amp; HIV/AIDS Treatment, Prostitution, Sex Work and forced Labor. The=20
+aims of the conference are to bring together researchers and=20
+practitioners in an effort to lay the ground work for future=20
+collaborative research, advocacy, and program development as well as to=20
+educate social service, health care, and criminal justice professionals=20
+on human trafficking and the needs and risks of those victimized by the=20
+commercial sex industry.<br><br>The global Congress meeting against=20
+Economic Crisis, Child Protection &amp; HIV/AIDS Treatment,=20
+Prostitution, Sex Work and forced Labor, is scheduled to take place from
+ May 20th =96 23rd 2013 in California the United States and in Madrid=20
+Spain, from May=A0 26th =96 29th of May 2013. The global congress is hosted=
+=20
+by the Campaign against Child Labor Coalition and sponsored by (The Bill
+ &amp; Melinda Gates Foundation, The William J. Clinton Foundation and=20
+other benevolent donors worldwide.<br><br>Objectives of the Conference are.=
+<br><br>1. To educate people the effect of child trafficking<br>2.
+ To serve as a resource to the public and advocates by providing=20
+valuable information about other initiatives working to address human=20
+Trafficking sex trafficking<br>3. To provide rehabilitation services to vic=
+tims.<br>4. To encourage policy at local and national levels that will cont=
+ribute to reducing human trafficking <br>5. To provide insight in the activ=
+ities in the field of science and policy interface; <br>
+6. To build a platform of knowledge at an international level;<br><br>For m=
+ore information contact the conference organizing committee via e-mail: <a =
+href=3D"mailto:Olivia.alexander@contractor.net">Olivia.alexander@contractor=
+.net</a><br>
+<br>Sincerely,<br>Mrs Lillian Christian<br>E-mail: <a href=3D"mailto:info.l=
+illianchristian@gmail.com">info.lillianchristian@gmail.com</a><br>=A0<br>
+
+--14dae9cfcbe67bf3ce04d77b8848--
+From abharath.gnome@gmail.com  Sun Mar 24 17:50:55 2013
+Return-Path: <abharath.gnome@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 3BB93762E2;
+	Sun, 24 Mar 2013 17:50:54 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.598
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.598 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7]
+	autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id C79f4pgFrrdA; Sun, 24 Mar 2013 17:50:40 +0000 (UTC)
+Received: from mail-ve0-f173.google.com (mail-ve0-f173.google.com
+	[209.85.128.173])
+	by restaurant.gnome.org (Postfix) with ESMTP id 649C976A9B;
+	Sun, 24 Mar 2013 17:50:38 +0000 (UTC)
+Received: by mail-ve0-f173.google.com with SMTP id oz10so4499537veb.18
+	for <multiple recipients>; Sun, 24 Mar 2013 10:50:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:x-received:sender:date:x-google-sender-auth:message-id
+	:subject:from:to:cc:content-type;
+	bh=4m4n/VFVXCpRdFKNqCXs76WdA/BApcB83r4KjZggA6c=;
+	b=MNtpeXwpVY3OdvTP0TGQ1wxr9ciEjf/CoqvEuFGDp8ISwHxOHyZWJD3O98z8F1iDFR
+	XZ5puaECJWezx+NRD7G3OfbM3Ay93EUU9UIIjtGlHutc4D1MCTZKVsmJPO4kw68gYUHN
+	xDFedzXUuFV78Yee5XL0cLNnrLNV4NyUXFhMG4k91oiTM6gd2Yx8+jRlYIw3ouzmZDmE
+	rcCNOTDZMyLV/3uderhev13cOWCOGCLJsTTsdT3L8BVsirnpA/Q306q0JiwU7+EpYlCc
+	dkhRlJKwkt0VSHiQKXYlKLin2+b4YLguX+4cgD1m2/4mmtdG/GtdrrjSJ5ASUsdzIMRN
+	9yXg==
+MIME-Version: 1.0
+X-Received: by 10.220.224.77 with SMTP id in13mr11893410vcb.12.1364147437363; 
+	Sun, 24 Mar 2013 10:50:37 -0700 (PDT)
+Sender: abharath.gnome@gmail.com
+Received: by 10.58.8.46 with HTTP; Sun, 24 Mar 2013 10:50:37 -0700 (PDT)
+Date: Sun, 24 Mar 2013 10:50:37 -0700
+X-Google-Sender-Auth: hjTz5XSEYToqApEHHikQIqOG96o
+Message-ID: <CAP4QO9U5fm4ec4-qxs-vaVqKuUz1SqR5wfnn=ty8n2g31gMfCw@mail.gmail.com>
+From: Bharath Acharya <abharath@gnome.org>
+To: foundation-list@gnome.org, foundation-announce@gnome.org, 
+	gnome-asia-list@gnome.org, asia-summit-list <asia-summit-list@gnome.org>,
+	guadec-list@gnome.org, gnome-women-list@gnome.org, 
+	desktop-devel-list@gnome.org
+Content-Type: multipart/alternative; boundary=14dae9cdc47d6ce70d04d8af5385
+X-Mailman-Approved-At: Sun, 31 Mar 2013 12:31:29 +0000
+Cc: Travel Committee <travel-committee@gnome.org>,
+	gnome-asia-committee-list@gnome.org
+Subject: [gnome-women] Travel assistance applications to attend GNOME.Asia
+	2013
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 24 Mar 2013 17:50:55 -0000
+
+--14dae9cdc47d6ce70d04d8af5385
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+The GNOME Foundation <http://www.gnome.org/foundation/> provides travel
+sponsorships to individuals who want to attend GNOME.Asia 2013 and need
+financial assistance.
+
+We are happy to announce the Travel Committee<https://live.gnome.org/Travel=
+> is
+ready to receive applications for sponsorships to attend GNOME.Asia 2013.
+This year, GNOME.Asia 2013 is being held in NIPA Business Center,
+Sangam-dong Seoul, Korea on May 24 -25, 2013
+
+The instructions are detailed at http://live.gnome.org/Travel
+Please read them carefully.
+
+Deadline: Mar 29, 2013, 19:00 UTC.  You can start sending in your
+applications now!
+
+Some extra comments:
+* Any information you send to the Travel Committee will be private.
+
+* Asking for sponsorship *does not* guarantee you will get sponsored.
+
+* A good application with good information will be processed fast.
+
+* If you need help with accommodation, you should state in your application
+that you need lodging, and leave the cost blank.
+
+* Always choose the most economical option when possible.  People who need
+travel sponsorship, should look for the best price (i.e. through a service
+like kayak.com).  If the Travel Committee finds a cheaper price, that will
+be the price considered during the evaluation.
+
+* Preference would be given to speakers, Foundation members, GSOC students,
+Women Outreach Program interns and active contributors.
+
+* If your country needs a VISA invitation letter and you are a GNOME
+contributor, please let the GNOME Travel committee know about it.
+
+* If you are selected for the Google Summer of Code or the GNOME Outreach
+Program for Women (as student or mentor) you should mention it in your
+application.
+
+* If your talk was selected for GNOME.Asia 2013, you should mention it in
+your application.
+
+* The Travel committee should reply back about receiving your application
+within 2-3 days. After that we would accumulate all the sponsorship
+requests and process them together. So please do not panic (have any
+butterflies in your stomach) if we take some time to reply on the status.
+Affirmative/Negative you would surely get a response.
+
+* No personal emails to committee members. Please keep travel-committee
+Cc=92ed on all your replies.
+
+Feel free to ask questions on the travel-committee list. You can also find
+us in the #travel channel at irc.gnome.org
+
+Regards,
+Bharath
+On Behalf of GNOME Travel Committee
+
+--14dae9cdc47d6ce70d04d8af5385
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)">The=A0<a href=3D"http://www.gnome.org=
+/foundation/" target=3D"_blank" style=3D"color:rgb(17,85,204)">GNOME Founda=
+tion</a>=A0provides travel sponsorships to individuals who want to attend G=
+NOME.Asia 2013 and need financial assistance.</div>
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)"><br></div><div style=3D"color:rgb(34,=
+34,34);font-family:arial,sans-serif;font-size:13px;background-color:rgb(255=
+,255,255)">
+We are happy to announce the=A0<a href=3D"https://live.gnome.org/Travel" ta=
+rget=3D"_blank" style=3D"color:rgb(17,85,204)">Travel Committee</a>=A0is re=
+ady to receive applications for sponsorships to attend GNOME.Asia 2013. Thi=
+s year, GNOME.Asia 2013 is being held in NIPA Business Center, Sangam-dong =
+Seoul, Korea on May 24 -25, 2013</div>
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)"><br></div><div style=3D"color:rgb(34,=
+34,34);font-family:arial,sans-serif;font-size:13px;background-color:rgb(255=
+,255,255)">
+The instructions are detailed at=A0<a href=3D"http://live.gnome.org/Travel"=
+ target=3D"_blank" style=3D"color:rgb(17,85,204)">http://live.gnome.org/Tra=
+vel</a></div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif=
+;font-size:13px;background-color:rgb(255,255,255)">
+Please read them carefully.</div><div style=3D"color:rgb(34,34,34);font-fam=
+ily:arial,sans-serif;font-size:13px;background-color:rgb(255,255,255)"><br>=
+</div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-s=
+ize:13px;background-color:rgb(255,255,255)">
+Deadline: Mar 29, 2013, 19:00 UTC. =A0You can start sending in your applica=
+tions now!</div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-se=
+rif;font-size:13px;background-color:rgb(255,255,255)"><br></div><div style=
+=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13px;backgro=
+und-color:rgb(255,255,255)">
+Some extra comments:</div><div style=3D"color:rgb(34,34,34);font-family:ari=
+al,sans-serif;font-size:13px;background-color:rgb(255,255,255)">* Any infor=
+mation you send to the Travel Committee will be private.</div><div style=3D=
+"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13px;background=
+-color:rgb(255,255,255)">
+<br></div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;fo=
+nt-size:13px;background-color:rgb(255,255,255)">* Asking for sponsorship *d=
+oes not* guarantee you will get sponsored.</div><div style=3D"color:rgb(34,=
+34,34);font-family:arial,sans-serif;font-size:13px;background-color:rgb(255=
+,255,255)">
+<br></div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;fo=
+nt-size:13px;background-color:rgb(255,255,255)">* A good application with g=
+ood information will be processed fast.</div><div style=3D"color:rgb(34,34,=
+34);font-family:arial,sans-serif;font-size:13px;background-color:rgb(255,25=
+5,255)">
+<br></div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;fo=
+nt-size:13px;background-color:rgb(255,255,255)">* If you need help with acc=
+ommodation, you should state in your application that you need lodging, and=
+ leave the cost blank.</div>
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)"><br></div><div style=3D"color:rgb(34,=
+34,34);font-family:arial,sans-serif;font-size:13px;background-color:rgb(255=
+,255,255)">
+* Always choose the most economical option when possible. =A0People who nee=
+d travel sponsorship, should look for the best price (i.e. through a servic=
+e like=A0<a href=3D"http://kayak.com/" target=3D"_blank" style=3D"color:rgb=
+(17,85,204)">kayak.com</a>). =A0If the Travel Committee finds a cheaper pri=
+ce, that will be the price considered during the evaluation.</div>
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)"><br></div><div style=3D"background-co=
+lor:rgb(255,255,255)"><span style=3D"color:rgb(34,34,34);font-family:arial,=
+sans-serif;font-size:13px">*=A0</span><span style=3D"background-color:trans=
+parent"><font color=3D"#222222" face=3D"arial, sans-serif">Preference would=
+ be given to speakers, Foundation members, GSOC students, Women Outreach Pr=
+ogram interns and active contributors.</font></span></div>
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)"><br></div><div style=3D"color:rgb(34,=
+34,34);font-family:arial,sans-serif;font-size:13px;background-color:rgb(255=
+,255,255)">
+* If your country needs a VISA invitation letter and you are a GNOME contri=
+butor, please let the GNOME Travel committee know about it.</div><div style=
+=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13px;backgro=
+und-color:rgb(255,255,255)">
+<br></div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;fo=
+nt-size:13px;background-color:rgb(255,255,255)">* If you are selected for t=
+he Google Summer of Code or the GNOME Outreach Program for Women (as studen=
+t or mentor) you should mention it in your application.</div>
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)"><br></div><div style=3D"color:rgb(34,=
+34,34);font-family:arial,sans-serif;font-size:13px;background-color:rgb(255=
+,255,255)">
+* If your talk was selected for GNOME.Asia 2013, you should mention it in y=
+our application.</div><div style=3D"color:rgb(34,34,34);font-family:arial,s=
+ans-serif;font-size:13px;background-color:rgb(255,255,255)"><br></div><div =
+style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13px;ba=
+ckground-color:rgb(255,255,255)">
+* The Travel committee should reply back about receiving your application w=
+ithin 2-3 days. After that we would accumulate all the sponsorship requests=
+ and process them together. So please do not panic (have any butterflies in=
+ your stomach) if we take some time to reply on the status. Affirmative/Neg=
+ative you would surely get a response.</div>
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)"><br></div><div style=3D"color:rgb(34,=
+34,34);font-family:arial,sans-serif;font-size:13px;background-color:rgb(255=
+,255,255)">
+* No personal emails to committee members. Please keep travel-committee Cc=
+=92ed on all your replies.</div><div style=3D"color:rgb(34,34,34);font-fami=
+ly:arial,sans-serif;font-size:13px;background-color:rgb(255,255,255)"><br><=
+/div>
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)">Feel free to ask questions on the tra=
+vel-committee list. You can also find us in the #travel channel at=A0<a hre=
+f=3D"http://irc.gnome.org/" target=3D"_blank" style=3D"color:rgb(17,85,204)=
+">irc.gnome.org</a></div>
+<div style=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13=
+px;background-color:rgb(255,255,255)"><br></div><div style=3D"color:rgb(34,=
+34,34);font-family:arial,sans-serif;font-size:13px;background-color:rgb(255=
+,255,255)">
+Regards,</div><div style=3D"color:rgb(34,34,34);font-family:arial,sans-seri=
+f;font-size:13px;background-color:rgb(255,255,255)">Bharath</div><div style=
+=3D"color:rgb(34,34,34);font-family:arial,sans-serif;font-size:13px;backgro=
+und-color:rgb(255,255,255)">
+On Behalf of GNOME Travel Committee</div>
+
+--14dae9cdc47d6ce70d04d8af5385--

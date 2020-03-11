@@ -1,0 +1,1788 @@
+From amy at demarco.com  Fri Sep  1 13:54:48 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Fri, 1 Sep 2017 08:54:48 -0500
+Subject: [Women-of-openstack] Meeting Cancelled - 9/4
+Message-ID: <CAFs83QpJMyqCK0+XZAJkQuz1H4RFeDs6PUrq15B0ovRShTmb5Q@mail.gmail.com>
+
+Just a reminder the meeting is cancelled on Monday September 4th due to the
+Labor Day holiday in the US. Our next meeting will be held on September
+18th after the PTG. If you would like to lead the meeting you can sign up
+at https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Have a good weekend everyone, especially if it's a long one!
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170901/3443dd79/attachment.html>
+
+From amy at demarco.com  Sun Sep  3 00:34:42 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Sat, 2 Sep 2017 19:34:42 -0500
+Subject: [Women-of-openstack] Un-Official WoO Sydney Outing
+Message-ID: <CAFs83Qp4yia-fDRxM7J21ty+qa25GSUK5OmJoFrcvZre8HVY4g@mail.gmail.com>
+
+Hey all,
+
+I Boston we had an unofficial outing with some of the Upstream Institute
+team along with some members of WoO and I thought I'd throw out some ideas
+if folks wanted to do something in Sydney as well. And maybe by doing it
+more then last minute more folks could go and it would be better
+organized.:)
+
+https://www.webjet.com.au/travel/tips/10-things-sydney-night/
+https://news.experienceoz.com.au/top-10-things-to-do-in-sydney-at-night/
+
+The second link mentions a ghost tour if we wanted to make those an
+on-going tradition!
+
+So those going to Sydney pipe in here on the list, in IRC and come join us
+at the next meeting and lets get some planning going on!
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170902/12c619be/attachment.html>
+
+From juliaashleykreger at gmail.com  Mon Sep  4 15:33:21 2017
+From: juliaashleykreger at gmail.com (Julia Kreger)
+Date: Mon, 4 Sep 2017 11:33:21 -0400
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAF7gwdgK-qgQMLmgvL86qyLMf-nTr5G8pSd+STzrjYdTMF_1_g@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+ <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+ <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+ <CAJ6yrQi+E6J-xr6Ch_Sx4LPLOhJsRHWDZ3evABxmoV0fuuUtGg@mail.gmail.com>
+ <CAFs83Qr+EECAOmyvmE+Pz1yR+1=_S38XLxfq=eucTyo4+EEGnQ@mail.gmail.com>
+ <CAF7gwdgK-qgQMLmgvL86qyLMf-nTr5G8pSd+STzrjYdTMF_1_g@mail.gmail.com>
+Message-ID: <CAF7gwdiorc9b553GYb=G1_jwpmyMLvyWuEMcidO+NF4rphq-5Q@mail.gmail.com>
+
+Caseys seems to have good food, and they said that Wednesday they are
+typically not busy. It was a little loud, but there was also outdoor
+seating. Bar Louie is next door to a movie theater, which makes me
+think that it could be very busy.
+
+-Julia
+
+
+On Wed, Aug 30, 2017 at 8:08 PM, Julia Kreger
+<juliaashleykreger at gmail.com> wrote:
+> I'll go ahead and scope it out, but walking to the pub does sound like the
+> best idea :)
+>
+> -Julia
+>
+> On Wed, Aug 30, 2017 at 3:49 PM Amy Marrich <amy at demarco.com> wrote:
+>>
+>> Oh just walk to the pub... you'll feel like you're back in Boston:)
+>>
+>> Amy
+>> On Wed, Aug 30, 2017 at 4:37 PM, Kendall Nelson <kennelson11 at gmail.com>
+>> wrote:
+>>>
+>>> @Julia OOooOO if you want to scope things out that would be awesome.
+>>>
+>>> I definitely agree Bar Louie can be loud- I also tend to try to stay away
+>>> from chains, just threw it out there as an option.
+>>>
+>>> -Kendall (diablo_rojo)
+>>>
+>>> On Wed, Aug 30, 2017 at 2:26 PM Julia Kreger
+>>> <juliaashleykreger at gmail.com> wrote:
+>>>>
+>>>> Greetings!
+>>>>
+>>>> I really have no preference, especially after checking a map. Bar
+>>>> Louie is a chain and I've found one of their other locations to be
+>>>> extremely loud. Caseys could work just fine as well. I'll be in the
+>>>> area this coming Sunday, so I'm more than happy to go checkout
+>>>> locations in person before PTG.
+>>>>
+>>>> -Julia
+>>>>
+>>>> On Wed, Aug 30, 2017 at 11:36 AM, Anne Bertucio <anne at openstack.org>
+>>>> wrote:
+>>>> > Also appears to be an Irish bar ~3 min drive/20 min walk away?
+>>>> > http://coloradopubco.com/stapleton-caseys/
+>>>> >
+>>>> >
+>>>> > Anne Bertucio
+>>>> > Marketing and Certification, OpenStack Foundation
+>>>> > anne at openstack.org | 206-992-7961
+>>>> >
+>>>> >
+>>>> >
+>>>> >
+>>>> > On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com>
+>>>> > wrote:
+>>>> >
+>>>> > Hi Kendall,
+>>>> > Where ever you decide is good with me.  Looking forward to meeting you
+>>>> > all.
+>>>> >
+>>>> > Kind Regards,
+>>>> > Helen
+>>>> >
+>>>> > From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+>>>> > Sent: Tuesday 29 August 2017 22:49
+>>>> > To: women-of-openstack at lists.openstack.org; Walsh, Helen
+>>>> > <helen.walsh at emc.com>; Anne Bertucio <anne at openstack.org>; Alexandra
+>>>> > Settle
+>>>> > <a.settle at outlook.com>; Ildiko Vancsa <ildiko at openstack.org>;
+>>>> > tribecca at tribecc.us; Julia Kreger <juliaashleykreger at gmail.com>
+>>>> > Subject: Re: WoO Goes to the PTG!
+>>>> >
+>>>> > Hello Everyone :)
+>>>> >
+>>>> >
+>>>> > So. I have done some research and I am kind of waffling.  Wednesday at
+>>>> > 5:00
+>>>> > is time and date. The location is the tricky part.
+>>>> >
+>>>> > There is a brewery a block away- Station 26- but it looks like they
+>>>> > only
+>>>> > have beer, not sure how people feel about that.
+>>>> >
+>>>> > There is a good happy hour place with all the options- Bar Louie- a
+>>>> > ten min
+>>>> > car ride away if people are okay with lyft/uber.
+>>>> >
+>>>> > OR, there is the hotel bar which I am told is pretty good, but I
+>>>> > imagine we
+>>>> > will all be spending a lot of time in so I thought going somewhere
+>>>> > else for
+>>>> > variety's sake might be good.
+>>>> >
+>>>> > I don't know. What do you all think?
+>>>> >
+>>>> > -Kendall (diablo_rojo)
+>>>> >
+>>>> > On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com>
+>>>> > wrote:
+>>>> >
+>>>> > Hello everyone :)
+>>>> >
+>>>> > I just wondered who might be attending the PTG? I thought it might be
+>>>> > fun to
+>>>> > collect somewhere for a happy hour and get to know one another better
+>>>> > maybe?
+>>>> > Reply here if you are going to be there and if you will be there for
+>>>> > the
+>>>> > whole week or just a subset of the days?
+>>>> >
+>>>> > I will be there all the days :) I get in the weekend before and fly
+>>>> > out on
+>>>> > Friday.
+>>>> >
+>>>> > -Kendall Nelson (diablo_rojo)
+>>>> >
+>>>> >
+>>>
+>>>
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>
+>
+
+
+From beth.cohen at verizon.com  Tue Sep  5 13:22:10 2017
+From: beth.cohen at verizon.com (Cohen, Beth F)
+Date: Tue, 5 Sep 2017 13:22:10 +0000
+Subject: [Women-of-openstack] [E] Women-of-OpenStack Digest, Vol 35,
+	Issue 2
+Message-ID: <6463bf7da3af432da89b13559a15d15f@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+
+I agree with Amy.  There is always the Sydney Opera House.  I would love to do a ghost tour.
+
+
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com
+
+    
+
+
+From anne at openstack.org  Tue Sep  5 15:10:16 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Tue, 5 Sep 2017 08:10:16 -0700
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAF7gwdiorc9b553GYb=G1_jwpmyMLvyWuEMcidO+NF4rphq-5Q@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+ <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+ <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+ <CAJ6yrQi+E6J-xr6Ch_Sx4LPLOhJsRHWDZ3evABxmoV0fuuUtGg@mail.gmail.com>
+ <CAFs83Qr+EECAOmyvmE+Pz1yR+1=_S38XLxfq=eucTyo4+EEGnQ@mail.gmail.com>
+ <CAF7gwdgK-qgQMLmgvL86qyLMf-nTr5G8pSd+STzrjYdTMF_1_g@mail.gmail.com>
+ <CAF7gwdiorc9b553GYb=G1_jwpmyMLvyWuEMcidO+NF4rphq-5Q@mail.gmail.com>
+Message-ID: <B5889EF5-88EB-429F-9ED7-66B9ECFFA716@openstack.org>
+
+Sounds like Casey’s is the winner! Excellent intel work, Julia! ;) 
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Sep 4, 2017, at 8:33 AM, Julia Kreger <juliaashleykreger at gmail.com> wrote:
+> 
+> Caseys seems to have good food, and they said that Wednesday they are
+> typically not busy. It was a little loud, but there was also outdoor
+> seating. Bar Louie is next door to a movie theater, which makes me
+> think that it could be very busy.
+> 
+> -Julia
+> 
+> 
+> On Wed, Aug 30, 2017 at 8:08 PM, Julia Kreger
+> <juliaashleykreger at gmail.com> wrote:
+>> I'll go ahead and scope it out, but walking to the pub does sound like the
+>> best idea :)
+>> 
+>> -Julia
+>> 
+>> On Wed, Aug 30, 2017 at 3:49 PM Amy Marrich <amy at demarco.com> wrote:
+>>> 
+>>> Oh just walk to the pub... you'll feel like you're back in Boston:)
+>>> 
+>>> Amy
+>>> On Wed, Aug 30, 2017 at 4:37 PM, Kendall Nelson <kennelson11 at gmail.com>
+>>> wrote:
+>>>> 
+>>>> @Julia OOooOO if you want to scope things out that would be awesome.
+>>>> 
+>>>> I definitely agree Bar Louie can be loud- I also tend to try to stay away
+>>>> from chains, just threw it out there as an option.
+>>>> 
+>>>> -Kendall (diablo_rojo)
+>>>> 
+>>>> On Wed, Aug 30, 2017 at 2:26 PM Julia Kreger
+>>>> <juliaashleykreger at gmail.com> wrote:
+>>>>> 
+>>>>> Greetings!
+>>>>> 
+>>>>> I really have no preference, especially after checking a map. Bar
+>>>>> Louie is a chain and I've found one of their other locations to be
+>>>>> extremely loud. Caseys could work just fine as well. I'll be in the
+>>>>> area this coming Sunday, so I'm more than happy to go checkout
+>>>>> locations in person before PTG.
+>>>>> 
+>>>>> -Julia
+>>>>> 
+>>>>> On Wed, Aug 30, 2017 at 11:36 AM, Anne Bertucio <anne at openstack.org>
+>>>>> wrote:
+>>>>>> Also appears to be an Irish bar ~3 min drive/20 min walk away?
+>>>>>> http://coloradopubco.com/stapleton-caseys/
+>>>>>> 
+>>>>>> 
+>>>>>> Anne Bertucio
+>>>>>> Marketing and Certification, OpenStack Foundation
+>>>>>> anne at openstack.org | 206-992-7961
+>>>>>> 
+>>>>>> 
+>>>>>> 
+>>>>>> 
+>>>>>> On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com>
+>>>>>> wrote:
+>>>>>> 
+>>>>>> Hi Kendall,
+>>>>>> Where ever you decide is good with me.  Looking forward to meeting you
+>>>>>> all.
+>>>>>> 
+>>>>>> Kind Regards,
+>>>>>> Helen
+>>>>>> 
+>>>>>> From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+>>>>>> Sent: Tuesday 29 August 2017 22:49
+>>>>>> To: women-of-openstack at lists.openstack.org; Walsh, Helen
+>>>>>> <helen.walsh at emc.com>; Anne Bertucio <anne at openstack.org>; Alexandra
+>>>>>> Settle
+>>>>>> <a.settle at outlook.com>; Ildiko Vancsa <ildiko at openstack.org>;
+>>>>>> tribecca at tribecc.us; Julia Kreger <juliaashleykreger at gmail.com>
+>>>>>> Subject: Re: WoO Goes to the PTG!
+>>>>>> 
+>>>>>> Hello Everyone :)
+>>>>>> 
+>>>>>> 
+>>>>>> So. I have done some research and I am kind of waffling.  Wednesday at
+>>>>>> 5:00
+>>>>>> is time and date. The location is the tricky part.
+>>>>>> 
+>>>>>> There is a brewery a block away- Station 26- but it looks like they
+>>>>>> only
+>>>>>> have beer, not sure how people feel about that.
+>>>>>> 
+>>>>>> There is a good happy hour place with all the options- Bar Louie- a
+>>>>>> ten min
+>>>>>> car ride away if people are okay with lyft/uber.
+>>>>>> 
+>>>>>> OR, there is the hotel bar which I am told is pretty good, but I
+>>>>>> imagine we
+>>>>>> will all be spending a lot of time in so I thought going somewhere
+>>>>>> else for
+>>>>>> variety's sake might be good.
+>>>>>> 
+>>>>>> I don't know. What do you all think?
+>>>>>> 
+>>>>>> -Kendall (diablo_rojo)
+>>>>>> 
+>>>>>> On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com>
+>>>>>> wrote:
+>>>>>> 
+>>>>>> Hello everyone :)
+>>>>>> 
+>>>>>> I just wondered who might be attending the PTG? I thought it might be
+>>>>>> fun to
+>>>>>> collect somewhere for a happy hour and get to know one another better
+>>>>>> maybe?
+>>>>>> Reply here if you are going to be there and if you will be there for
+>>>>>> the
+>>>>>> whole week or just a subset of the days?
+>>>>>> 
+>>>>>> I will be there all the days :) I get in the weekend before and fly
+>>>>>> out on
+>>>>>> Friday.
+>>>>>> 
+>>>>>> -Kendall Nelson (diablo_rojo)
+>>>>>> 
+>>>>>> 
+>>>> 
+>>>> 
+>>>> _______________________________________________
+>>>> Women-of-openstack mailing list
+>>>> Women-of-openstack at lists.openstack.org
+>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>> 
+>> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170905/a0550dd9/attachment.html>
+
+From beth.openstack at gmail.com  Tue Sep  5 15:44:23 2017
+From: beth.openstack at gmail.com (Beth Elwell)
+Date: Tue, 5 Sep 2017 16:44:23 +0100
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <B5889EF5-88EB-429F-9ED7-66B9ECFFA716@openstack.org>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+ <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+ <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+ <CAJ6yrQi+E6J-xr6Ch_Sx4LPLOhJsRHWDZ3evABxmoV0fuuUtGg@mail.gmail.com>
+ <CAFs83Qr+EECAOmyvmE+Pz1yR+1=_S38XLxfq=eucTyo4+EEGnQ@mail.gmail.com>
+ <CAF7gwdgK-qgQMLmgvL86qyLMf-nTr5G8pSd+STzrjYdTMF_1_g@mail.gmail.com>
+ <CAF7gwdiorc9b553GYb=G1_jwpmyMLvyWuEMcidO+NF4rphq-5Q@mail.gmail.com>
+ <B5889EF5-88EB-429F-9ED7-66B9ECFFA716@openstack.org>
+Message-ID: <CF12B36F-8C69-4DD1-B3D3-E19DF322D3B1@gmail.com>
+
+I’ll be there too! Thanks Julia for looking into that :)
+
+Beth Elwell
+
+> On 5 Sep 2017, at 16:10, Anne Bertucio <anne at openstack.org> wrote:
+> 
+> Sounds like Casey’s is the winner! Excellent intel work, Julia! ;) 
+> 
+> 
+> Anne Bertucio
+> Marketing and Certification, OpenStack Foundation
+> anne at openstack.org <mailto:anne at openstack.org> | 206-992-7961
+> 
+> 
+> 
+> 
+>> On Sep 4, 2017, at 8:33 AM, Julia Kreger <juliaashleykreger at gmail.com <mailto:juliaashleykreger at gmail.com>> wrote:
+>> 
+>> Caseys seems to have good food, and they said that Wednesday they are
+>> typically not busy. It was a little loud, but there was also outdoor
+>> seating. Bar Louie is next door to a movie theater, which makes me
+>> think that it could be very busy.
+>> 
+>> -Julia
+>> 
+>> 
+>> On Wed, Aug 30, 2017 at 8:08 PM, Julia Kreger
+>> <juliaashleykreger at gmail.com <mailto:juliaashleykreger at gmail.com>> wrote:
+>>> I'll go ahead and scope it out, but walking to the pub does sound like the
+>>> best idea :)
+>>> 
+>>> -Julia
+>>> 
+>>> On Wed, Aug 30, 2017 at 3:49 PM Amy Marrich <amy at demarco.com <mailto:amy at demarco.com>> wrote:
+>>>> 
+>>>> Oh just walk to the pub... you'll feel like you're back in Boston:)
+>>>> 
+>>>> Amy
+>>>> On Wed, Aug 30, 2017 at 4:37 PM, Kendall Nelson <kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>>
+>>>> wrote:
+>>>>> 
+>>>>> @Julia OOooOO if you want to scope things out that would be awesome.
+>>>>> 
+>>>>> I definitely agree Bar Louie can be loud- I also tend to try to stay away
+>>>>> from chains, just threw it out there as an option.
+>>>>> 
+>>>>> -Kendall (diablo_rojo)
+>>>>> 
+>>>>> On Wed, Aug 30, 2017 at 2:26 PM Julia Kreger
+>>>>> <juliaashleykreger at gmail.com <mailto:juliaashleykreger at gmail.com>> wrote:
+>>>>>> 
+>>>>>> Greetings!
+>>>>>> 
+>>>>>> I really have no preference, especially after checking a map. Bar
+>>>>>> Louie is a chain and I've found one of their other locations to be
+>>>>>> extremely loud. Caseys could work just fine as well. I'll be in the
+>>>>>> area this coming Sunday, so I'm more than happy to go checkout
+>>>>>> locations in person before PTG.
+>>>>>> 
+>>>>>> -Julia
+>>>>>> 
+>>>>>> On Wed, Aug 30, 2017 at 11:36 AM, Anne Bertucio <anne at openstack.org <mailto:anne at openstack.org>>
+>>>>>> wrote:
+>>>>>>> Also appears to be an Irish bar ~3 min drive/20 min walk away?
+>>>>>>> http://coloradopubco.com/stapleton-caseys/ <http://coloradopubco.com/stapleton-caseys/>
+>>>>>>> 
+>>>>>>> 
+>>>>>>> Anne Bertucio
+>>>>>>> Marketing and Certification, OpenStack Foundation
+>>>>>>> anne at openstack.org | 206-992-7961
+>>>>>>> 
+>>>>>>> 
+>>>>>>> 
+>>>>>>> 
+>>>>>>> On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com>
+>>>>>>> wrote:
+>>>>>>> 
+>>>>>>> Hi Kendall,
+>>>>>>> Where ever you decide is good with me.  Looking forward to meeting you
+>>>>>>> all.
+>>>>>>> 
+>>>>>>> Kind Regards,
+>>>>>>> Helen
+>>>>>>> 
+>>>>>>> From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+>>>>>>> Sent: Tuesday 29 August 2017 22:49
+>>>>>>> To: women-of-openstack at lists.openstack.org; Walsh, Helen
+>>>>>>> <helen.walsh at emc.com>; Anne Bertucio <anne at openstack.org>; Alexandra
+>>>>>>> Settle
+>>>>>>> <a.settle at outlook.com>; Ildiko Vancsa <ildiko at openstack.org>;
+>>>>>>> tribecca at tribecc.us; Julia Kreger <juliaashleykreger at gmail.com>
+>>>>>>> Subject: Re: WoO Goes to the PTG!
+>>>>>>> 
+>>>>>>> Hello Everyone :)
+>>>>>>> 
+>>>>>>> 
+>>>>>>> So. I have done some research and I am kind of waffling.  Wednesday at
+>>>>>>> 5:00
+>>>>>>> is time and date. The location is the tricky part.
+>>>>>>> 
+>>>>>>> There is a brewery a block away- Station 26- but it looks like they
+>>>>>>> only
+>>>>>>> have beer, not sure how people feel about that.
+>>>>>>> 
+>>>>>>> There is a good happy hour place with all the options- Bar Louie- a
+>>>>>>> ten min
+>>>>>>> car ride away if people are okay with lyft/uber.
+>>>>>>> 
+>>>>>>> OR, there is the hotel bar which I am told is pretty good, but I
+>>>>>>> imagine we
+>>>>>>> will all be spending a lot of time in so I thought going somewhere
+>>>>>>> else for
+>>>>>>> variety's sake might be good.
+>>>>>>> 
+>>>>>>> I don't know. What do you all think?
+>>>>>>> 
+>>>>>>> -Kendall (diablo_rojo)
+>>>>>>> 
+>>>>>>> On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com>
+>>>>>>> wrote:
+>>>>>>> 
+>>>>>>> Hello everyone :)
+>>>>>>> 
+>>>>>>> I just wondered who might be attending the PTG? I thought it might be
+>>>>>>> fun to
+>>>>>>> collect somewhere for a happy hour and get to know one another better
+>>>>>>> maybe?
+>>>>>>> Reply here if you are going to be there and if you will be there for
+>>>>>>> the
+>>>>>>> whole week or just a subset of the days?
+>>>>>>> 
+>>>>>>> I will be there all the days :) I get in the weekend before and fly
+>>>>>>> out on
+>>>>>>> Friday.
+>>>>>>> 
+>>>>>>> -Kendall Nelson (diablo_rojo)
+>>>>>>> 
+>>>>>>> 
+>>>>> 
+>>>>> 
+>>>>> _______________________________________________
+>>>>> Women-of-openstack mailing list
+>>>>> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+>>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>>> 
+>>> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170905/cea2bfa3/attachment-0001.html>
+
+From kendall at openstack.org  Tue Sep  5 18:29:53 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Tue, 5 Sep 2017 13:29:53 -0500
+Subject: [Women-of-openstack] September 8 Early Bird Registration Deadline -
+	OpenStack Summit Sydney
+Message-ID: <0416454A-4DA6-4C8F-9DDB-7D1754D51766@openstack.org>
+
+Hi everyone,
+
+Friendly reminder that this Friday, September 8, at 11:59pm Pacific Time (September 9 at 6:59 UTC) is the deadline to purchase passes for the OpenStack Summit in Sydney at the early bird price, which saves you 50% off full price passes.
+
+Register NOW <https://openstacksummit2017sydney.eventbrite.com/> before the prices increase! 
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170905/93878fc0/attachment.html>
+
+From kendall at openstack.org  Fri Sep  8 14:28:13 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Fri, 8 Sep 2017 09:28:13 -0500
+Subject: [Women-of-openstack] Reminder: Early Bird Deadline - OpenStack
+	Summit Sydney
+Message-ID: <A5DCE314-3D63-4967-9C07-9496DD8DA06C@openstack.org>
+
+Hi everyone,
+ 
+Friendly reminder that TODAY, September 8, at 11:59pm Pacific Time (September 9 at 6:59 UTC) is the deadline to purchase passes for the OpenStack Summit in Sydney at the early bird price, which saves you 50% off full price passes.
+ 
+Register NOW <https://openstacksummit2017sydney.eventbrite.com/> before the prices increase! 
+ 
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170908/5be2c500/attachment.html>
+
+From kennelson11 at gmail.com  Wed Sep 13 16:57:51 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Wed, 13 Sep 2017 16:57:51 +0000
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+ <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+ <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+Message-ID: <CAJ6yrQg2hDs7MvFuAq2G_PQOkeCsg2vSVVOqS4bat5iNsOSS_Q@mail.gmail.com>
+
+Reminder that we (The Women of OpenStack) are drinking together tonight if
+you want to come :)
+
+Time: 5-7pm
+
+Casey's Pub
+7301 E 29th Ave, Denver, CO 80238
+
+You can get there via a 20ish min walk straight south or take one of the
+free shuttles from the hotel.
+
+Let's organize into two waves heading that way. People that get done with
+discussions early should meet in the lobby right at 5 to head over and for
+stragglers we can have a second group to head over at 5:30 (I'll be in the
+stragglers group most likely).
+
+See you all there!!! Also, please pass along the message to any other women
+you run across today :)
+
+-Kendall (diablo_rojo)
+
+On Wed, Aug 30, 2017 at 3:26 PM Julia Kreger <juliaashleykreger at gmail.com>
+wrote:
+
+> Greetings!
+>
+> I really have no preference, especially after checking a map. Bar
+> Louie is a chain and I've found one of their other locations to be
+> extremely loud. Caseys could work just fine as well. I'll be in the
+> area this coming Sunday, so I'm more than happy to go checkout
+> locations in person before PTG.
+>
+> -Julia
+>
+> On Wed, Aug 30, 2017 at 11:36 AM, Anne Bertucio <anne at openstack.org>
+> wrote:
+> > Also appears to be an Irish bar ~3 min drive/20 min walk away?
+> > http://coloradopubco.com/stapleton-caseys/
+> >
+> >
+> > Anne Bertucio
+> > Marketing and Certification, OpenStack Foundation
+> > anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+> >
+> >
+> >
+> >
+> > On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com> wrote:
+> >
+> > Hi Kendall,
+> > Where ever you decide is good with me.  Looking forward to meeting you
+> all.
+> >
+> > Kind Regards,
+> > Helen
+> >
+> > From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+> > Sent: Tuesday 29 August 2017 22:49
+> > To: women-of-openstack at lists.openstack.org; Walsh, Helen
+> > <helen.walsh at emc.com>; Anne Bertucio <anne at openstack.org>; Alexandra
+> Settle
+> > <a.settle at outlook.com>; Ildiko Vancsa <ildiko at openstack.org>;
+> > tribecca at tribecc.us; Julia Kreger <juliaashleykreger at gmail.com>
+> > Subject: Re: WoO Goes to the PTG!
+> >
+> > Hello Everyone :)
+> >
+> >
+> > So. I have done some research and I am kind of waffling.  Wednesday at
+> 5:00
+> > is time and date. The location is the tricky part.
+> >
+> > There is a brewery a block away- Station 26- but it looks like they only
+> > have beer, not sure how people feel about that.
+> >
+> > There is a good happy hour place with all the options- Bar Louie- a ten
+> min
+> > car ride away if people are okay with lyft/uber.
+> >
+> > OR, there is the hotel bar which I am told is pretty good, but I imagine
+> we
+> > will all be spending a lot of time in so I thought going somewhere else
+> for
+> > variety's sake might be good.
+> >
+> > I don't know. What do you all think?
+> >
+> > -Kendall (diablo_rojo)
+> >
+> > On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com>
+> wrote:
+> >
+> > Hello everyone :)
+> >
+> > I just wondered who might be attending the PTG? I thought it might be
+> fun to
+> > collect somewhere for a happy hour and get to know one another better
+> maybe?
+> > Reply here if you are going to be there and if you will be there for the
+> > whole week or just a subset of the days?
+> >
+> > I will be there all the days :) I get in the weekend before and fly out
+> on
+> > Friday.
+> >
+> > -Kendall Nelson (diablo_rojo)
+> >
+> >
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170913/768b70dc/attachment.html>
+
+From amy at demarco.com  Mon Sep 18 01:13:02 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Sun, 17 Sep 2017 20:13:02 -0500
+Subject: [Women-of-openstack] Meeting Reminder - 9/18
+Message-ID: <CAFs83QrjKsMX5h3-8s9kjS1yD2eYsnFo=39AovUzLPa-vVMOZQ@mail.gmail.com>
+
+Sorry for the late notice. We will be meeting tomorrow at our normal time.
+We'll be doing some summit planning as well as hearing about the PTG!
+
+2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+
+Dial In: 1-203-277-8157 or *866-619-0383  Participant: 7217256**#* Leader
+4018#
+webex -
+URL:
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+Hope to see everyone tomorrow!
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170917/033fe550/attachment.html>
+
+From amy at demarco.com  Mon Sep 18 01:13:58 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Sun, 17 Sep 2017 20:13:58 -0500
+Subject: [Women-of-openstack] Fwd: Meeting Reminder - 9/18
+In-Reply-To: <CAFs83QrjKsMX5h3-8s9kjS1yD2eYsnFo=39AovUzLPa-vVMOZQ@mail.gmail.com>
+References: <CAFs83QrjKsMX5h3-8s9kjS1yD2eYsnFo=39AovUzLPa-vVMOZQ@mail.gmail.com>
+Message-ID: <CAFs83Qp4N3HxdCt3i=c=8X-7gH8a_TtKJ02BN+qzUX=P7Rs+Pw@mail.gmail.com>
+
+Forgot the etherpad link!  https://etherpad.openstack.org/p/WOS_09_18_17
+---------- Forwarded message ----------
+From: Amy Marrich <amy at demarco.com>
+Date: Sun, Sep 17, 2017 at 8:13 PM
+Subject: Meeting Reminder - 9/18
+To: women-of-openstack at lists.openstack.org
+
+
+Sorry for the late notice. We will be meeting tomorrow at our normal time.
+We'll be doing some summit planning as well as hearing about the PTG!
+
+2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+
+Dial In: 1-203-277-8157 <(203)%20277-8157> or *866-619-0383
+<(866)%20619-0383>  Participant: 7217256**#* Leader 4018#
+webex -
+URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=
+m0e7ba518a2d4487bc0a78d00055f62e2
+
+Hope to see everyone tomorrow!
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170917/1e081477/attachment.html>
+
+From anne at openstack.org  Wed Sep 13 19:05:17 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Wed, 13 Sep 2017 12:05:17 -0700
+Subject: [Women-of-openstack] WoO Goes to the PTG!
+In-Reply-To: <CAJ6yrQg2hDs7MvFuAq2G_PQOkeCsg2vSVVOqS4bat5iNsOSS_Q@mail.gmail.com>
+References: <CAJ6yrQgeDhQ3j32c5SRvT81ehYEqYGr=FQoHJ8SzWLZSo-ejzw@mail.gmail.com>
+ <CAJ6yrQhw2VfPf6F2RhbMwb1mdQrEqbxYty=LhEJJu860bnnR+A@mail.gmail.com>
+ <6031C821D2144A4CB722005A21B34BD53AB45848@MX202CL02.corp.emc.com>
+ <D8416B8F-EC85-484D-BDEB-B2B7E2E4A313@openstack.org>
+ <CAF7gwdg=Q=dTCsJvocDoi7HhbO1NKQFnOfXz7OiqJDTMCmbXnQ@mail.gmail.com>
+ <CAJ6yrQg2hDs7MvFuAq2G_PQOkeCsg2vSVVOqS4bat5iNsOSS_Q@mail.gmail.com>
+Message-ID: <F0656876-3EEB-4BBA-B319-D2DAE8C0F32B@openstack.org>
+
+Really looking forward to this! 
+
+*Drinking can also be soda, fizzy water, mocktails and general socializing! 
+
+See you all there!
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Sep 13, 2017, at 9:57 AM, Kendall Nelson <kennelson11 at gmail.com> wrote:
+> 
+> Reminder that we (The Women of OpenStack) are drinking together tonight if you want to come :) 
+> 
+> Time: 5-7pm
+> 
+> Casey's Pub 
+> 7301 E 29th Ave, Denver, CO 80238
+> 
+> You can get there via a 20ish min walk straight south or take one of the free shuttles from the hotel. 
+> 
+> Let's organize into two waves heading that way. People that get done with discussions early should meet in the lobby right at 5 to head over and for stragglers we can have a second group to head over at 5:30 (I'll be in the stragglers group most likely). 
+> 
+> See you all there!!! Also, please pass along the message to any other women you run across today :) 
+> 
+> -Kendall (diablo_rojo)
+> 
+> On Wed, Aug 30, 2017 at 3:26 PM Julia Kreger <juliaashleykreger at gmail.com <mailto:juliaashleykreger at gmail.com>> wrote:
+> Greetings!
+> 
+> I really have no preference, especially after checking a map. Bar
+> Louie is a chain and I've found one of their other locations to be
+> extremely loud. Caseys could work just fine as well. I'll be in the
+> area this coming Sunday, so I'm more than happy to go checkout
+> locations in person before PTG.
+> 
+> -Julia
+> 
+> On Wed, Aug 30, 2017 at 11:36 AM, Anne Bertucio <anne at openstack.org <mailto:anne at openstack.org>> wrote:
+> > Also appears to be an Irish bar ~3 min drive/20 min walk away?
+> > http://coloradopubco.com/stapleton-caseys/ <http://coloradopubco.com/stapleton-caseys/>
+> >
+> >
+> > Anne Bertucio
+> > Marketing and Certification, OpenStack Foundation
+> > anne at openstack.org <mailto:anne at openstack.org> | 206-992-7961 <tel:(206)%20992-7961>
+> >
+> >
+> >
+> >
+> > On Aug 30, 2017, at 8:27 AM, Walsh, Helen <Helen.Walsh at dell.com <mailto:Helen.Walsh at dell.com>> wrote:
+> >
+> > Hi Kendall,
+> > Where ever you decide is good with me.  Looking forward to meeting you all.
+> >
+> > Kind Regards,
+> > Helen
+> >
+> > From: Kendall Nelson [mailto:kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>]
+> > Sent: Tuesday 29 August 2017 22:49
+> > To: women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>; Walsh, Helen
+> > <helen.walsh at emc.com <mailto:helen.walsh at emc.com>>; Anne Bertucio <anne at openstack.org <mailto:anne at openstack.org>>; Alexandra Settle
+> > <a.settle at outlook.com <mailto:a.settle at outlook.com>>; Ildiko Vancsa <ildiko at openstack.org <mailto:ildiko at openstack.org>>;
+> > tribecca at tribecc.us <mailto:tribecca at tribecc.us>; Julia Kreger <juliaashleykreger at gmail.com <mailto:juliaashleykreger at gmail.com>>
+> > Subject: Re: WoO Goes to the PTG!
+> >
+> > Hello Everyone :)
+> >
+> >
+> > So. I have done some research and I am kind of waffling.  Wednesday at 5:00
+> > is time and date. The location is the tricky part.
+> >
+> > There is a brewery a block away- Station 26- but it looks like they only
+> > have beer, not sure how people feel about that.
+> >
+> > There is a good happy hour place with all the options- Bar Louie- a ten min
+> > car ride away if people are okay with lyft/uber.
+> >
+> > OR, there is the hotel bar which I am told is pretty good, but I imagine we
+> > will all be spending a lot of time in so I thought going somewhere else for
+> > variety's sake might be good.
+> >
+> > I don't know. What do you all think?
+> >
+> > -Kendall (diablo_rojo)
+> >
+> > On Mon, Aug 7, 2017 at 1:38 PM Kendall Nelson <kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>> wrote:
+> >
+> > Hello everyone :)
+> >
+> > I just wondered who might be attending the PTG? I thought it might be fun to
+> > collect somewhere for a happy hour and get to know one another better maybe?
+> > Reply here if you are going to be there and if you will be there for the
+> > whole week or just a subset of the days?
+> >
+> > I will be there all the days :) I get in the weekend before and fly out on
+> > Friday.
+> >
+> > -Kendall Nelson (diablo_rojo)
+> >
+> >
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170913/15b89bfb/attachment.html>
+
+From ekhugenbruch at us.ibm.com  Wed Sep 20 20:53:31 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Wed, 20 Sep 2017 16:53:31 -0400
+Subject: [Women-of-openstack] Speed Mentoring update
+Message-ID: <OF034CA812.AD37ACFE-ON002581A1.00725818-852581A1.0072C369@notes.na.collabserv.com>
+
+
+
+Hi,
+	As you might know, we're going to be holding the Speed Mentoring
+session at the Sydney summit as a regular lunch session (not sponsored).
+We'd like to get the signup sheet out soon and we were thinking of doing
+things a bit differently:
+   Have separate signup forms for mentors and mentees
+   Mentee signup form fields
+      Area of interest: career, technical, community
+      Email (really as a just in case contact)
+   Mentors
+      Ask for Name, Job Title, Area of interest, and email
+      Instead of doing baseball cards, just do nametags for mentors
+
+   This will help the event to be a little more lightweight.  Another thing
+   we talked about was possibly not even having a mentee signup form and
+   just taking anyone who came in.
+   Thoughts or suggestions?  Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170920/21fa67de/attachment.html>
+
+From amy at demarco.com  Wed Sep 20 21:02:25 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 20 Sep 2017 16:02:25 -0500
+Subject: [Women-of-openstack] Speed Mentoring update
+In-Reply-To: <OF034CA812.AD37ACFE-ON002581A1.00725818-852581A1.0072C369@notes.na.collabserv.com>
+References: <OF034CA812.AD37ACFE-ON002581A1.00725818-852581A1.0072C369@notes.na.collabserv.com>
+Message-ID: <CAFs83QqeP2b=ad2Ad2ecOJoaCqRi2+P+qs4O1vbXnitg+_=mXg@mail.gmail.com>
+
+Emily,
+
+I'm on both sides of the fence on not having a mentee sign up.
+
+pro:
+You know who's coming(to some degree, you'll always have no shows and drop
+ins)
+You know how many of each type of mentor you'll need (this might be solved
+by letting mentors being able to select multiple areas so you can shuffle
+on the fly)
+
+con:
+You won't know who, if anyone is coming(or atleast planning to)
+You might exceed available resources (seats or even mentors)
+
+Thanks,
+
+Amy
+
+On Wed, Sep 20, 2017 at 3:53 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com
+> wrote:
+
+> Hi,
+> As you might know, we're going to be holding the Speed Mentoring session
+> at the Sydney summit as a regular lunch session (not sponsored). We'd like
+> to get the signup sheet out soon and we were thinking of doing things a bit
+> differently:
+>
+>    - Have separate signup forms for mentors and mentees
+>    - Mentee signup form fields
+>       - Area of interest: career, technical, community
+>       - Email (really as a just in case contact)
+>    - Mentors
+>       - Ask for Name, Job Title, Area of interest, and email
+>       - Instead of doing baseball cards, just do nametags for mentors
+>
+>    This will help the event to be a little more lightweight. Another
+>    thing we talked about was possibly not even having a mentee signup form and
+>    just taking anyone who came in.
+>    Thoughts or suggestions? Thanks!
+>
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170920/1df8f5a0/attachment.html>
+
+From khanak.nangia at intel.com  Wed Sep 20 21:24:25 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Wed, 20 Sep 2017 21:24:25 +0000
+Subject: [Women-of-openstack] Speed Mentoring update
+In-Reply-To: <CAFs83QqeP2b=ad2Ad2ecOJoaCqRi2+P+qs4O1vbXnitg+_=mXg@mail.gmail.com>
+References: <OF034CA812.AD37ACFE-ON002581A1.00725818-852581A1.0072C369@notes.na.collabserv.com>
+ <CAFs83QqeP2b=ad2Ad2ecOJoaCqRi2+P+qs4O1vbXnitg+_=mXg@mail.gmail.com>
+Message-ID: <70F910F3-AE9A-431E-A033-BEC91B7C6DB5@intel.com>
+
+Hi all,
+
+Since It was my former job working on OpenStack, and after OSIC termination, I have switched job and doing another job.
+I would like unsubscribe to these emails. So, if any one of could please remove my email contact from the Women Of OpenStack member list, will really appreciate it.
+
+Thanks,
+Khanak
+
+
+From: Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>>
+Date: Wednesday, September 20, 2017 at 2:02 PM
+To: Emily K Hugenbruch <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Speed Mentoring update
+
+Emily,
+
+I'm on both sides of the fence on not having a mentee sign up.
+
+pro:
+You know who's coming(to some degree, you'll always have no shows and drop ins)
+You know how many of each type of mentor you'll need (this might be solved by letting mentors being able to select multiple areas so you can shuffle on the fly)
+
+con:
+You won't know who, if anyone is coming(or atleast planning to)
+You might exceed available resources (seats or even mentors)
+
+Thanks,
+
+Amy
+
+On Wed, Sep 20, 2017 at 3:53 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>> wrote:
+
+Hi,
+As you might know, we're going to be holding the Speed Mentoring session at the Sydney summit as a regular lunch session (not sponsored). We'd like to get the signup sheet out soon and we were thinking of doing things a bit differently:
+
+  *   Have separate signup forms for mentors and mentees
+  *   Mentee signup form fields
+     *   Area of interest: career, technical, community
+     *   Email (really as a just in case contact)
+  *   Mentors
+     *   Ask for Name, Job Title, Area of interest, and email
+     *   Instead of doing baseball cards, just do nametags for mentors
+
+This will help the event to be a little more lightweight. Another thing we talked about was possibly not even having a mentee signup form and just taking anyone who came in.
+Thoughts or suggestions? Thanks!
+
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170920/9c8372e7/attachment.html>
+
+From amy at demarco.com  Wed Sep 20 21:45:57 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 20 Sep 2017 16:45:57 -0500
+Subject: [Women-of-openstack] Speed Mentoring update
+In-Reply-To: <70F910F3-AE9A-431E-A033-BEC91B7C6DB5@intel.com>
+References: <OF034CA812.AD37ACFE-ON002581A1.00725818-852581A1.0072C369@notes.na.collabserv.com>
+ <CAFs83QqeP2b=ad2Ad2ecOJoaCqRi2+P+qs4O1vbXnitg+_=mXg@mail.gmail.com>
+ <70F910F3-AE9A-431E-A033-BEC91B7C6DB5@intel.com>
+Message-ID: <CAFs83QpUKuHDWqF34O-DKxr_+dh0=e3-+bVBGj3VjUZ-Jw1j4Q@mail.gmail.com>
+
+Khanak,
+
+You can do it at
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+Sending to the list incase there's someone else needing this info.
+
+Thanks,
+
+Amy
+
+On Wed, Sep 20, 2017 at 4:24 PM, Nangia, Khanak <khanak.nangia at intel.com>
+wrote:
+
+> Hi all,
+>
+> Since It was my former job working on OpenStack, and after OSIC
+> termination, I have switched job and doing another job.
+> I would like unsubscribe to these emails. So, if any one of could please
+> remove my email contact from the Women Of OpenStack member list, will
+> really appreciate it.
+>
+> Thanks,
+> Khanak
+>
+>
+> From: Amy Marrich <amy at demarco.com>
+> Date: Wednesday, September 20, 2017 at 2:02 PM
+> To: Emily K Hugenbruch <ekhugenbruch at us.ibm.com>
+> Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.
+> openstack.org>
+> Subject: Re: [Women-of-openstack] Speed Mentoring update
+>
+> Emily,
+>
+> I'm on both sides of the fence on not having a mentee sign up.
+>
+> pro:
+> You know who's coming(to some degree, you'll always have no shows and drop
+> ins)
+> You know how many of each type of mentor you'll need (this might be solved
+> by letting mentors being able to select multiple areas so you can shuffle
+> on the fly)
+>
+> con:
+> You won't know who, if anyone is coming(or atleast planning to)
+> You might exceed available resources (seats or even mentors)
+>
+> Thanks,
+>
+> Amy
+>
+> On Wed, Sep 20, 2017 at 3:53 PM, Emily K Hugenbruch <
+> ekhugenbruch at us.ibm.com> wrote:
+>
+>> Hi,
+>> As you might know, we're going to be holding the Speed Mentoring session
+>> at the Sydney summit as a regular lunch session (not sponsored). We'd like
+>> to get the signup sheet out soon and we were thinking of doing things a bit
+>> differently:
+>>
+>>    - Have separate signup forms for mentors and mentees
+>>    - Mentee signup form fields
+>>       - Area of interest: career, technical, community
+>>       - Email (really as a just in case contact)
+>>    - Mentors
+>>       - Ask for Name, Job Title, Area of interest, and email
+>>       - Instead of doing baseball cards, just do nametags for mentors
+>>
+>>    This will help the event to be a little more lightweight. Another
+>>    thing we talked about was possibly not even having a mentee signup form and
+>>    just taking anyone who came in.
+>>    Thoughts or suggestions? Thanks!
+>>
+>> Sincerely,
+>> Emily Kate Hugenbruch
+>> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+>> IBM Corporation Endicott, NY
+>> Twitter: @ekhugen
+>> IRC: ekhugen at freenode
+>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170920/a8dac534/attachment-0001.html>
+
+From khanak.nangia at intel.com  Wed Sep 20 21:48:52 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Wed, 20 Sep 2017 21:48:52 +0000
+Subject: [Women-of-openstack] Speed Mentoring update
+In-Reply-To: <CAFs83QpUKuHDWqF34O-DKxr_+dh0=e3-+bVBGj3VjUZ-Jw1j4Q@mail.gmail.com>
+References: <OF034CA812.AD37ACFE-ON002581A1.00725818-852581A1.0072C369@notes.na.collabserv.com>
+ <CAFs83QqeP2b=ad2Ad2ecOJoaCqRi2+P+qs4O1vbXnitg+_=mXg@mail.gmail.com>
+ <70F910F3-AE9A-431E-A033-BEC91B7C6DB5@intel.com>
+ <CAFs83QpUKuHDWqF34O-DKxr_+dh0=e3-+bVBGj3VjUZ-Jw1j4Q@mail.gmail.com>
+Message-ID: <6964D796-8029-417D-B801-80A89118FB41@intel.com>
+
+Thanks Amy !
+
+Best wishes to all you ladies :)
+
+Regards,
+Khanak
+
+From: Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>>
+Date: Wednesday, September 20, 2017 at 2:45 PM
+To: Khanak Nangia <khanak.nangia at intel.com<mailto:khanak.nangia at intel.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Speed Mentoring update
+
+Khanak,
+
+You can do it at
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+Sending to the list incase there's someone else needing this info.
+
+Thanks,
+
+Amy
+
+On Wed, Sep 20, 2017 at 4:24 PM, Nangia, Khanak <khanak.nangia at intel.com<mailto:khanak.nangia at intel.com>> wrote:
+Hi all,
+
+Since It was my former job working on OpenStack, and after OSIC termination, I have switched job and doing another job.
+I would like unsubscribe to these emails. So, if any one of could please remove my email contact from the Women Of OpenStack member list, will really appreciate it.
+
+Thanks,
+Khanak
+
+
+From: Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>>
+Date: Wednesday, September 20, 2017 at 2:02 PM
+To: Emily K Hugenbruch <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Speed Mentoring update
+
+Emily,
+
+I'm on both sides of the fence on not having a mentee sign up.
+
+pro:
+You know who's coming(to some degree, you'll always have no shows and drop ins)
+You know how many of each type of mentor you'll need (this might be solved by letting mentors being able to select multiple areas so you can shuffle on the fly)
+
+con:
+You won't know who, if anyone is coming(or atleast planning to)
+You might exceed available resources (seats or even mentors)
+
+Thanks,
+
+Amy
+
+On Wed, Sep 20, 2017 at 3:53 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com<mailto:ekhugenbruch at us.ibm.com>> wrote:
+
+Hi,
+As you might know, we're going to be holding the Speed Mentoring session at the Sydney summit as a regular lunch session (not sponsored). We'd like to get the signup sheet out soon and we were thinking of doing things a bit differently:
+
+  *   Have separate signup forms for mentors and mentees
+  *   Mentee signup form fields
+     *   Area of interest: career, technical, community
+     *   Email (really as a just in case contact)
+  *   Mentors
+     *   Ask for Name, Job Title, Area of interest, and email
+     *   Instead of doing baseball cards, just do nametags for mentors
+
+This will help the event to be a little more lightweight. Another thing we talked about was possibly not even having a mentee signup form and just taking anyone who came in.
+Thoughts or suggestions? Thanks!
+
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170920/d97ed840/attachment.html>
+
+From anne at openstack.org  Thu Sep 21 16:12:18 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Thu, 21 Sep 2017 09:12:18 -0700
+Subject: [Women-of-openstack] Speed Mentoring update
+In-Reply-To: <CAFs83QqeP2b=ad2Ad2ecOJoaCqRi2+P+qs4O1vbXnitg+_=mXg@mail.gmail.com>
+References: <OF034CA812.AD37ACFE-ON002581A1.00725818-852581A1.0072C369@notes.na.collabserv.com>
+ <CAFs83QqeP2b=ad2Ad2ecOJoaCqRi2+P+qs4O1vbXnitg+_=mXg@mail.gmail.com>
+Message-ID: <DFC49ECC-2216-47E6-9974-256AE4CED447@openstack.org>
+
+Hi Emily,
+
+1) Always glad to hear speed mentoring is happening—let me know how we can help promote this on social (date, sign ups, etc)
+
+2) Does it cause too much trouble if you have _both_ a mentee sign up and take walk ins? I would only advertise the walk-on option the week of the Summit. You might catch someone with a gap in their schedule who suddenly feels inspired to join! 
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Sep 20, 2017, at 2:02 PM, Amy Marrich <amy at demarco.com> wrote:
+> 
+> Emily,
+> 
+> I'm on both sides of the fence on not having a mentee sign up.
+> 
+> pro:
+> You know who's coming(to some degree, you'll always have no shows and drop ins)
+> You know how many of each type of mentor you'll need (this might be solved by letting mentors being able to select multiple areas so you can shuffle on the fly)
+> 
+> con:
+> You won't know who, if anyone is coming(or atleast planning to)
+> You might exceed available resources (seats or even mentors)
+> 
+> Thanks,
+> 
+> Amy
+> 
+> On Wed, Sep 20, 2017 at 3:53 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com <mailto:ekhugenbruch at us.ibm.com>> wrote:
+> Hi, 
+> As you might know, we're going to be holding the Speed Mentoring session at the Sydney summit as a regular lunch session (not sponsored). We'd like to get the signup sheet out soon and we were thinking of doing things a bit differently:
+> 
+> Have separate signup forms for mentors and mentees
+> Mentee signup form fields
+> Area of interest: career, technical, community
+> Email (really as a just in case contact)
+> Mentors
+> Ask for Name, Job Title, Area of interest, and email
+> Instead of doing baseball cards, just do nametags for mentors
+> 
+> This will help the event to be a little more lightweight. Another thing we talked about was possibly not even having a mentee signup form and just taking anyone who came in.
+> Thoughts or suggestions? Thanks!
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170921/f01abc78/attachment.html>
+
+From ekhugenbruch at us.ibm.com  Thu Sep 21 16:32:25 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Thu, 21 Sep 2017 12:32:25 -0400
+Subject: [Women-of-openstack] Speed Mentoring update
+In-Reply-To: <DFC49ECC-2216-47E6-9974-256AE4CED447@openstack.org>
+References: <OF034CA812.AD37ACFE-ON002581A1.00725818-852581A1.0072C369@notes.na.collabserv.com>
+ <CAFs83QqeP2b=ad2Ad2ecOJoaCqRi2+P+qs4O1vbXnitg+_=mXg@mail.gmail.com>
+ <DFC49ECC-2216-47E6-9974-256AE4CED447@openstack.org>
+Message-ID: <OF51D608A7.3865473A-ON002581A2.005AB644-852581A2.005ADBEB@notes.na.collabserv.com>
+
+Hi Anne,
+I don't think it causes trouble to have a signup and take walk-ins.  Just
+that eliminating the mentee signup form might make the event a little
+easier.
+Thanks for the offer to promote on social.  I think after we have the
+signup forms set up it would be great to have some tweets, etc.
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	Anne Bertucio <anne at openstack.org>
+To:	Amy Marrich <amy at demarco.com>
+Cc:	Emily K Hugenbruch <ekhugenbruch at us.ibm.com>,
+            women-of-openstack at lists.openstack.org
+Date:	09/21/2017 12:12 PM
+Subject:	Re: [Women-of-openstack] Speed Mentoring update
+
+
+
+Hi Emily,
+
+1) Always glad to hear speed mentoring is happening—let me know how we can
+help promote this on social (date, sign ups, etc)
+
+2) Does it cause too much trouble if you have _both_ a mentee sign up and
+take walk ins? I would only advertise the walk-on option the week of the
+Summit. You might catch someone with a gap in their schedule who suddenly
+feels inspired to join!
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+      On Sep 20, 2017, at 2:02 PM, Amy Marrich <amy at demarco.com> wrote:
+
+      Emily,
+
+      I'm on both sides of the fence on not having a mentee sign up.
+
+      pro:
+      You know who's coming(to some degree, you'll always have no shows and
+      drop ins)
+      You know how many of each type of mentor you'll need (this might be
+      solved by letting mentors being able to select multiple areas so you
+      can shuffle on the fly)
+
+      con:
+      You won't know who, if anyone is coming(or atleast planning to)
+      You might exceed available resources (seats or even mentors)
+
+      Thanks,
+
+      Amy
+
+      On Wed, Sep 20, 2017 at 3:53 PM, Emily K Hugenbruch <
+      ekhugenbruch at us.ibm.com> wrote:
+        Hi,
+        As you might know, we're going to be holding the Speed Mentoring
+        session at the Sydney summit as a regular lunch session (not
+        sponsored). We'd like to get the signup sheet out soon and we were
+        thinking of doing things a bit differently:
+              Have separate signup forms for mentors and mentees
+              Mentee signup form fields
+                    Area of interest: career, technical, community
+                    Email (really as a just in case contact)
+              Mentors
+                    Ask for Name, Job Title, Area of interest, and email
+                    Instead of doing baseball cards, just do nametags for
+                    mentors
+
+              This will help the event to be a little more lightweight.
+              Another thing we talked about was possibly not even having a
+              mentee signup form and just taking anyone who came in.
+              Thoughts or suggestions? Thanks!
+        Sincerely,
+        Emily Kate Hugenbruch
+        OpenStack Cloud Enablement Engineer - z/VM and Software Engineer -
+        z/VM
+        IBM Corporation Endicott, NY
+        Twitter: @ekhugen
+        IRC: ekhugen at freenode
+
+
+        _______________________________________________
+        Women-of-openstack mailing list
+        Women-of-openstack at lists.openstack.org
+        http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+      _______________________________________________
+      Women-of-openstack mailing list
+      Women-of-openstack at lists.openstack.org
+      http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170921/928ed95f/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170921/928ed95f/attachment-0001.gif>
+
+From thingee at gmail.com  Fri Sep 22 18:13:46 2017
+From: thingee at gmail.com (Mike Perez)
+Date: Fri, 22 Sep 2017 11:13:46 -0700
+Subject: [Women-of-openstack] Contributor Portal PTG Recap
+Message-ID: <20170922181346.GF1592@gmail.com>
+
+# Contributor Portal Next Steps
+
+## Landing Page Mock ups
+* Current mock up:
+https://drive.google.com/file/d/0BxMh9oiou2xMLVRvRWRFVklHa2c/view
+* Limited click through mock up:
+https://invis.io/CSDEZTBDJ#/252645774_Landing
+
+## Todo
+- [ ] thingee: A proposal for the *second level* of what the landing page
+shows.
+- [ ] thingee: Follow up with the Wes and Jimmy at the OpenStack Foundation
+for design assistance.
+
+## Communication To The Community
+* [Initial
+email](http://lists.openstack.org/pipermail/openstack-dev/2017-June/118877.html)
+* [Initial full
+thread](http://lists.openstack.org/pipermail/openstack-dev/2017-June/thread.html#118877)
+
+## Highlights from PTG session
+[OpenStack Etherpad](https://etherpad.openstack.org/p/contributor-portal)
+
+### TLDR (big changes from discussion)
+* Instead of all team on-boarding documentation living in a central
+repository, it will still remain with the individual teams to maintain in
+their own repository. General documentation (e.g. git, creating accounts,
+gerrit setup, etc) will still live in this central repo. If you choose to
+contribute by code for example and you pick a project, it will take you
+through our general documentation, then the project’s specific documentation.
+    * This could lead to inconsistencies in documentation design? Confusion
+    for the reader being sent to different pages?
+
+### General
+* We can’t go based off services. Not everything people are contributing
+to is a service, so they won't have anything corresponding in the
+[service type authority
+repo](http://git.openstack.org/cgit/openstack/service-types-authority/tree/service-types.yaml).
+There might be a field in projects.yaml that can help with this.
+    * Remind Thierry on the service type authority repo for
+    grouping/mapping project.
+    * Videos were considered, but they’re hard to keep up-to-date.
+    Previous Documentation PTL Alexandra Settle expressed that even
+    screenshots can get out of date real fast. 
+    * Generate some kind of crash-course / cheatsheet content for people
+    who are used to GitHub but not familiar with Gerrit. Aspiers
+    volunteered for this and made this first pass [ethercalc
+    sheet](https://ethercalc.openstack.org/github-gerrit).
+    * Translation team needs to be included
+    * Provide documentation with how to edit the landing page, since the
+    source is being hosted on github (there are transition discussions in
+    place with the infra team and Jimmy)
+    * Help projects with creating their own contributor guides if they
+    need to. Think of something like Cookie cutter for setting up the
+    scaffolding for a new OpenStack project, but getting projects
+    contributor guides going.
+
+### Upstream Institute
+Attendees of the session we’re more in favor of projects keeping
+their specific documentation owned in their repositories. As learned
+from the centralize documentation problem
+[1](http://specs.openstack.org/openstack/docs-specs/specs/pike/os-manuals-migration.html)
+[2](https://doughellmann.com/blog/2017/08/24/stop-working-so-hard-scaling-open-source-community-practices/)
+[3](https://governance.openstack.org/tc/reference/top-5-help-wanted.html#documentation-owners),
+this is a good move. Upstream institute would then use whatever
+general documentation is provided. If people get past that, we could
+even suggest on-boarding to one of the [top 5 most wanted
+help](https://governance.openstack.org/tc/reference/top-5-help-wanted.html)!
+
+### User Committee
+Lauren Sell worked with Melvin and others from the user committee to get their
+requirements and perspective on the project. Here's an ether pad:
+https://etherpad.openstack.org/p/contributor-portal-user-section
+
+### Mock Up Feedback
+* Having the service types is great, but on the next level it would
+be good to express the code name with a description of what the
+project does.
+* Combine in events OpenStack day, meetups, forum, ptg, etc.
+(emphasize on in person thing)
+
+### Bikeshed
+* A word that combines code and documentation ("team(s)" was already
+rejected)
+
+-- 
+Mike Perez
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 833 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170922/24788943/attachment.sig>
+
+From bfcohen at luthcomputer.com  Fri Sep 22 20:24:40 2017
+From: bfcohen at luthcomputer.com (Beth Cohen)
+Date: Fri, 22 Sep 2017 16:24:40 -0400
+Subject: [Women-of-openstack] Speed Mentoring update
+In-Reply-To: <OF51D608A7.3865473A-ON002581A2.005AB644-852581A2.005ADBEB@notes.na.collabserv.com>
+References: <OF034CA812.AD37ACFE-ON002581A1.00725818-852581A1.0072C369@notes.na.collabserv.com>
+ <CAFs83QqeP2b=ad2Ad2ecOJoaCqRi2+P+qs4O1vbXnitg+_=mXg@mail.gmail.com>
+ <DFC49ECC-2216-47E6-9974-256AE4CED447@openstack.org>
+ <OF51D608A7.3865473A-ON002581A2.005AB644-852581A2.005ADBEB@notes.na.collabserv.com>
+Message-ID: <0358939b-cef8-b16c-3723-c7ac8f0fa50c@luthcomputer.com>
+
+Folks -
+
+I agree we should take sign ups in advance, but announce at the 
+conference that we are taking walk-ins.  That way people will not sign 
+up and just assume that they will be able to walk in.  I would encourage 
+us to do the registration greeting thing and tell them that they can 
+sign-up/walk in then.
+
+
+On 9/21/2017 12:32 PM, Emily K Hugenbruch wrote:
+>
+> Hi Anne,
+> I don't think it causes trouble to have a signup and take walk-ins. 
+> Just that eliminating the mentee signup form might make the event a 
+> little easier.
+> Thanks for the offer to promote on social. I think after we have the 
+> signup forms set up it would be great to have some tweets, etc.
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+>
+> Inactive hide details for Anne Bertucio ---09/21/2017 12:12:25 PM---Hi 
+> Emily, 1) Always glad to hear speed mentoring is happeniAnne Bertucio 
+> ---09/21/2017 12:12:25 PM---Hi Emily, 1) Always glad to hear speed 
+> mentoring is happening—let me know how we can help promote th
+>
+> From: Anne Bertucio <anne at openstack.org>
+> To: Amy Marrich <amy at demarco.com>
+> Cc: Emily K Hugenbruch <ekhugenbruch at us.ibm.com>, 
+> women-of-openstack at lists.openstack.org
+> Date: 09/21/2017 12:12 PM
+> Subject: Re: [Women-of-openstack] Speed Mentoring update
+>
+> ------------------------------------------------------------------------
+>
+>
+>
+> Hi Emily,
+>
+> 1) Always glad to hear speed mentoring is happening—let me know how we 
+> can help promote this on social (date, sign ups, etc)
+>
+> 2) Does it cause too much trouble if you have _both_ a mentee sign up 
+> and take walk ins? I would only advertise the walk-on option the week 
+> of the Summit. You might catch someone with a gap in their schedule 
+> who suddenly feels inspired to join!
+>
+>
+> Anne Bertucio
+> Marketing and Certification, OpenStack Foundation
+> _anne at openstack.org_ <mailto:anne at openstack.org> | 206-992-7961
+>
+>
+>
+>         On Sep 20, 2017, at 2:02 PM, Amy Marrich <_amy at demarco.com_
+>         <mailto:amy at demarco.com>> wrote:
+>
+>         Emily,
+>
+>         I'm on both sides of the fence on not having a mentee sign up.
+>
+>         pro:
+>         You know who's coming(to some degree, you'll always have no
+>         shows and drop ins)
+>         You know how many of each type of mentor you'll need (this
+>         might be solved by letting mentors being able to select
+>         multiple areas so you can shuffle on the fly)
+>
+>         con:
+>         You won't know who, if anyone is coming(or atleast planning to)
+>         You might exceed available resources (seats or even mentors)
+>
+>         Thanks,
+>
+>         Amy
+>
+>         On Wed, Sep 20, 2017 at 3:53 PM, Emily K Hugenbruch
+>         <_ekhugenbruch at us.ibm.com_ <mailto:ekhugenbruch at us.ibm.com>>
+>         wrote:
+>             Hi,
+>             As you might know, we're going to be holding the Speed
+>             Mentoring session at the Sydney summit as a regular lunch
+>             session (not sponsored). We'd like to get the signup sheet
+>             out soon and we were thinking of doing things a bit
+>             differently:
+>                   * Have separate signup forms for mentors and mentees
+>                   * Mentee signup form fields
+>                           + Area of interest: career, technical, community
+>                           + Email (really as a just in case contact)
+>                   * Mentors
+>                           + Ask for Name, Job Title, Area of interest,
+>                             and email
+>                           + Instead of doing baseball cards, just do
+>                             nametags for mentors
+>
+>                     This will help the event to be a little more
+>                     lightweight. Another thing we talked about was
+>                     possibly not even having a mentee signup form and
+>                     just taking anyone who came in.
+>                     Thoughts or suggestions? Thanks!
+>             Sincerely,
+>             Emily Kate Hugenbruch
+>             OpenStack Cloud Enablement Engineer - z/VM and Software
+>             Engineer - z/VM
+>             IBM Corporation Endicott, NY
+>             Twitter: @ekhugen
+>             IRC: ekhugen at freenode
+>
+>
+>             _______________________________________________
+>             Women-of-openstack mailing list_
+>             __Women-of-openstack at lists.openstack.org_
+>             <mailto:Women-of-openstack at lists.openstack.org>_
+>             __http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack_
+>             <https://urldefense.proofpoint.com/v2/url?u=http-3A__lists.openstack.org_cgi-2Dbin_mailman_listinfo_women-2Dof-2Dopenstack&d=DwMFaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Lc0ljvY7G9YHKKp0KXj2oZ0N_ceIHqWPQilorrrjr60&m=P4KfyMo-3A_25ANk398olhq61mxkQe8peiysGHQfiuI&s=2TnPzJkqLy6M1RrakSK7RA6iZxsWW-j_CFN4c-bhT6Y&e=>
+>
+>         _______________________________________________
+>         Women-of-openstack mailing list_
+>         __Women-of-openstack at lists.openstack.org_
+>         <mailto:Women-of-openstack at lists.openstack.org>
+>         http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-- 
+_____________________________________________________________________
+
+Beth Cohen	
+Luth Computer Specialists, Inc.
+www.luthcomputer.com
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170922/c3575687/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170922/c3575687/attachment.gif>
+
+From kendall at openstack.org  Wed Sep 27 16:18:09 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Wed, 27 Sep 2017 11:18:09 -0500
+Subject: [Women-of-openstack] September 29 Price Increase - OpenStack Summit
+	Sydney
+Message-ID: <2F262ECE-926B-487A-9F79-24AEFEF7BBCD@openstack.org>
+
+Hi everyone,
+
+Prices for the OpenStack Summit Sydney <https://www.openstack.org/summit/sydney-2017/> will be increasing this Friday, September 29 at 11:59pm Pacific Time (September 30 at 6:59 UTC).
+
+Register now <https://openstacksummit2017sydney.eventbrite.com/> before the price increases!
+
+All discount registration codes must be redeemed by October 27.
+
+If you have any Summit-related questions, please contact summit at openstack.org <mailto:summit at openstack.org>.
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170927/95a4ac80/attachment.html>
+

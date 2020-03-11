@@ -1,0 +1,197 @@
+From marinaz@redhat.com  Wed Oct 20 20:40:39 2010
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A27007500BF
+	for <gnome-women-list@gnome.org>; Wed, 20 Oct 2010 20:40:39 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -4.212
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.212 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Vcb4TMKmZZGh for <gnome-women-list@gnome.org>;
+	Wed, 20 Oct 2010 20:40:36 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 972387500B5
+	for <gnome-women-list@gnome.org>; Wed, 20 Oct 2010 20:40:28 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id o9KKeRYu016060
+	for <gnome-women-list@gnome.org>; Wed, 20 Oct 2010 16:40:27 -0400
+Date: Wed, 20 Oct 2010 16:40:27 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <727561765.191481287607227219.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <1990915043.190651287607028093.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.41]
+X-Mailer: Zimbra 5.0.21_GA_3150.RHEL4_64 (ZimbraWebClient - FF3.0
+	(Linux)/5.0.21_GA_3150.RHEL4_64)
+Subject: [gnome-women] Outreach Program for Women quarterly update
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 20 Oct 2010 20:40:39 -0000
+
+Hi all,
+
+I'd like to start sharing the Outreach Program for Women updates for the GN=
+OME quarterly report with the list in case anybody has anything they would =
+like to add! Please let me know in the next couple days if you'd like to ad=
+d anything to this update. Also, please feel free to share anything interes=
+ting that is related to the women's involvement in GNOME with the list any =
+time!
+
+You can see the previous updates starting with the Q3 2009 report here:
+http://foundation.gnome.org/reports
+
+This quarter's (July, August, September, up to the present :) update is bel=
+ow.
+
+Thanks,
+Marina
+
+--------------------------------------------------------------
+
+Outreach Program for Women
+
+by: Marina Zhurakhinskaya
+
+There seemed to be a stronger presence of women at GUADEC this year. We hel=
+d the first women=E2=80=99s dinner at GUADEC which was attended by 15 women=
+. Everyone really enjoyed meeting and talking to each other. Marina Zhurakh=
+inskaya made short presentations to the GNOME Advisory Board and at the Ann=
+ual General Meeting about the Outreach Program for Women (OPW) efforts.
+
+We announced the OPW internships for December 15, 2010 to March 15, 2011 da=
+tes on September 15. M=C3=A1ir=C3=ADn Duffy designed a catchy flyer for the=
+ program. Many members of the community helped spread the word by micro-blo=
+gging, blogging, sending information to the universities, and handing out f=
+lyers at conferences.
+
+We are currently in the middle of the application process with the applicat=
+ion deadline on October 25 and accepted participants announcement on Novemb=
+er 3. We have already received a good number of applications and inquiries.=
+ We should be able to accept at least five participants, with three being s=
+ponsored by the GNOME Foundation and two being sponsored by Google. The fol=
+lowing page contains all the information about the program: http://live.gno=
+me.org/GnomeWomen/OutreachProgram2010
+
+Stormy Peters attended the Grace Hopper Celebration for Women in Computing =
+on September 28 - October 2. She organized the first Free and Open Source S=
+oftware booth at the conference and participated in the Open Source Track. =
+At the booth, they handed out 180 flyers about the GNOME Outreach Program f=
+or Women as well as lots of GNOME stickers - the logo on a field of grass w=
+as the most popular. Heidi Ellis also attended - her class at Western New E=
+ngland College is working on Caribou as part of GNOME=E2=80=99s a11y and HF=
+OSS program.
+
+The FSF Womens' Caucus' =E2=80=9CBringing free software to girls and young =
+women=E2=80=9D outreach program with the Girl Scouts of Eastern Massachuset=
+ts and Red Hat has started. M=C3=A1ir=C3=ADn Duffy taught the first class s=
+ession on October 15. The class will run on a weekly basis through mid-Dece=
+mber. Red Hat produced live USB keys with the GNOME-based Fedora Design Sui=
+te that were distributed to the girls. Their first project involved photoma=
+nipulation with Gimp. Future projects will involve Gimp, Inkscape, and othe=
+r creative tools. This page contains more information about the course: htt=
+p://libreplanet.org/wiki/Women%27s_Caucus/Girl_Scouts_Free_Software_Outreac=
+h
+
+In the next quarter, we look forward to working with the OPW internships pa=
+rticipants and introducing them to the community.
+From knight.judithknight0@gmail.com  Sat Oct 23 20:19:11 2010
+Return-Path: <knight.judithknight0@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C80FA7500F1
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 23 Oct 2010 20:19:11 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.436
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.436 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=1.553,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001, T_TO_NO_BRKTS_FREEMAIL=0.01] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id l3WeFyBiDtDQ for <gnome-women-list@mail.gnome.org>;
+	Sat, 23 Oct 2010 20:19:09 +0000 (UTC)
+Received: from mail-bw0-f46.google.com (mail-bw0-f46.google.com
+	[209.85.214.46])
+	by menubar.gnome.org (Postfix) with ESMTP id 6310D7500ED
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 23 Oct 2010 20:19:00 +0000 (UTC)
+Received: by bwz11 with SMTP id 11so1488932bwz.33
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 23 Oct 2010 13:18:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:received:date:message-id
+	:subject:from:to:content-type;
+	bh=SpkUlBvezfzesmNOAhUznl7DD8QmXNmH/xRTw3LP2pQ=;
+	b=cZbf1VEgmFpQVaT5+0rZvmYWhbeAlbPR2UlMZarUloWaApPnlGkwjwQvb0P76IDAsP
+	8LK/EhrRMh4ii/5Pw8z3bm7osS0H9k38pSWRXtYPoK6kBt/HdtqlMG848IXgajCJOctw
+	XG5RyEZ+gzPQyNIHIvthv3elWOFgA2gf+2zH0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	b=FS4IQMLrKktTOiO8NN+MU8GWpIM/tJ2vq1zEhRGcCecqD9flHOsLVNq/u4ogk+pHcd
+	hXOdoGOwmFLksLmASvLqv+Ijt4R3upFIQYVfxk9/vDr2IBPwks/9z7yni4MEDzhafBO4
+	DvKjnSHj8NsvBybk88FZ2TquqDSHTMYgfLLbY=
+MIME-Version: 1.0
+Received: by 10.204.49.11 with SMTP id t11mr2333481bkf.64.1287865138876; Sat,
+	23 Oct 2010 13:18:58 -0700 (PDT)
+Received: by 10.204.100.140 with HTTP; Sat, 23 Oct 2010 13:18:58 -0700 (PDT)
+Date: Sat, 23 Oct 2010 13:18:58 -0700
+Message-ID: <AANLkTinzGYOyNCxWSgc1dC02yVbSmH96WHaVX+D=xAJO@mail.gmail.com>
+From: Judith Knight <knight.judithknight0@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=000325556b621f120e04934e7818
+X-Mailman-Approved-At: Sat, 23 Oct 2010 22:29:48 +0000
+Subject: [gnome-women] replying to the message
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 23 Oct 2010 20:19:12 -0000
+
+--000325556b621f120e04934e7818
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Gnome Women list
+Replying to the request
+From
+Judith
+
+--000325556b621f120e04934e7818
+Content-Type: text/html; charset=ISO-8859-1
+
+Hi Gnome Women list<br>Replying to the request<br>From<br>Judith<br>
+
+--000325556b621f120e04934e7818--

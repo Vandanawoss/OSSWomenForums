@@ -1,0 +1,2809 @@
+From hmw26@srcf.ucam.org  Sat May 13 16:10:47 2006
+Return-Path: <hmw26@srcf.ucam.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 3BAA03B13EB
+	for <gnome-women-list@gnome.org>; Sat, 13 May 2006 16:10:47 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 25784-03 for <gnome-women-list@gnome.org>;
+	Sat, 13 May 2006 16:10:45 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id B92493B12F6
+	for <gnome-women-list@gnome.org>; Sat, 13 May 2006 16:10:44 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from student.cusu.cam.ac.uk ([131.111.179.82]:49571
+	helo=kern.srcf.societies.cam.ac.uk)
+	by ppsw-9.csi.cam.ac.uk (ppsw.cam.ac.uk [131.111.8.139]:25)
+	with esmtp id 1Ff0Rj-0006gk-Vj (Exim 4.54) for
+	gnome-women-list@gnome.org
+	(return-path <hmw26@srcf.ucam.org>); Sat, 13 May 2006 21:10:39 +0100
+Received: from hmw26 by kern.srcf.societies.cam.ac.uk with local (Exim 3.36 #1
+	(Debian)) id 1Ff0Rj-00011d-00
+	for <gnome-women-list@gnome.org>; Sat, 13 May 2006 21:10:39 +0100
+Date: Sat, 13 May 2006 21:10:39 +0100
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@gnome.org
+Message-ID: <20060513201036.GA2337@srcf.ucam.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: "Hanna M. Wallach" <hmw26@srcf.ucam.org>
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] FLOSSPOLS report and slides, blog posts
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 13 May 2006 20:10:47 -0000
+
+Hi everyone,
+
+The final report from the FLOSSPOLS study on gender and free software
+is now online:
+http://www.flosspols.org/deliverables/FLOSSPOLS-D16-Gender_Integrated_Report_of_Findings.pdf
+The recommendations are online too:
+http://www.flosspols.org/deliverables/FLOSSPOLS-D17-Gender_Policy_Recommendations.pdf
+I gave a talk about the FLOSSPOLS findings at FOSDEM back in February
+-- my slides are also (finally!) online at
+http://www.srcf.ucam.org/~hmw26/talks/fosdem2006.pdf.
+
+Lastly, there are a number of interesting blog posts about women in
+free software, and in particular, GNOME. Check 'em out:
+http://www.murrayc.com/blog/permalink/2006/05/12/women-in-open-source/
+and http://spooky-possum.org/cgi-bin/pyblosxom.cgi/womenoss.html
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+From murrayc@murrayc.com  Sun May 28 12:54:43 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F34493B0146
+	for <gnome-women-list@gnome.org>; Sun, 28 May 2006 12:54:42 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16155-03 for <gnome-women-list@gnome.org>;
+	Sun, 28 May 2006 12:54:39 -0400 (EDT)
+Received: from swarthymail-a4.dreamhost.com (mailbigip.dreamhost.com
+	[208.97.132.5])
+	by menubar.gnome.org (Postfix) with ESMTP id 55E943B006F
+	for <gnome-women-list@gnome.org>; Sun, 28 May 2006 12:54:39 -0400 (EDT)
+Received: from noname (p5497EDA0.dip.t-dialin.net [84.151.237.160])
+	by swarthymail-a4.dreamhost.com (Postfix) with ESMTP id 1BB71129A8C
+	for <gnome-women-list@gnome.org>; Sun, 28 May 2006 09:54:37 -0700 (PDT)
+From: Murray Cumming <murrayc@murrayc.com>
+To: gnome-women-list@gnome.org
+In-Reply-To: <1147812955.30864.26.camel@localhost.localdomain>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+Content-Type: text/plain
+Date: Sun, 28 May 2006 18:54:35 +0200
+Message-Id: <1148835275.5939.3.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.6.1 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.532 tagged_above=-999 required=2 tests=[AWL=0.067, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.532
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] What's the plan?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 28 May 2006 16:54:43 -0000
+
+I sent this to gnome-women@gnome.org instead of gnome-women-list@gnome.org. 
+Trying again with some updates.
+
+On Tue, 2006-05-16 at 22:56 +0200, Murray Cumming wrote:
+> So, following up on useful discussion arsing from my blog entry
+> http://www.murrayc.com/blog/permalink/2006/05/12/women-in-open-source/
+> what do we do to get more and better female involvement in GNOME? It
+> feels like an emergency to me, yet GNOME should be the solution to this
+> kind of problem. I'd like to help if someone could lead the effort.
+> 
+> My thoughts at the moment are:
+> 
+> 1. Track the numbers:
+>   We need to know the gender percentages in the GNOME Foundation every
+> year, so we can roughly measure our progress. 
+
+It looks like this will happen:
+http://mail.gnome.org/archives/found
+
+> We could do a one-off
+> survey now.
+> 
+> 2. Special treatment:
+>   - Persuade existing GNOME developers to give extra time and patience
+> to potential female contributors? I have very little time, but I'd be
+> prepared to dedicate some time and be unusually (for me) patient for
+> this good cause.
+>   - Create a wiki page with lists of potential mentors (and their areas
+> of expertise), and potential people to be mentored? This would be good
+> for the male contributors too, of course.
+>   - How do we avoid this looking like a place for men to find women?
+> Would a code of conduct help?
+
+I created a general mentoring page. Hopefully it will fill up:
+http://live.gnome.org/MentoredProjects
+But the above questions remain.
+
+> 3. Code of Conduct? 
+> GNOME should probably have a code of conduct like Ubuntu's. It would be
+> a quick way to stop a lot of noise (which is offputting for all), we
+> could specifically discourage some obvious anti-female behaviour. As
+> well as outlawing the worst examples, it could advertise us as a place
+> where women might be able to avoid some of the behaviour they
+> anticipate. 
+>  
+> 4. Role Models:
+>   Publicise existing female contributors and new female members once
+> they are established.
+>   - Make sure they are on Planet GNOME?
+>   - Make sure they are speaking at GUADEC?
+>   - Articles in GNOME Journal / gnomedesktop.org?
+> 
+> 
+> I've read in an FAQ somewhere that some women are put-off by some of
+> these things - treating women differently from the start, and pointing
+> out the few women who are involved. But we can't please all the people
+> all the time, and I don't see how to take action that isn't in
+> contradiction to something, and I don't see how we can make things
+> worse.
+
+-- 
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+From clytie@riverland.net.au  Mon May 29 03:15:46 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 276BF3B0453
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:15:46 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 22479-04 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:15:43 -0400 (EDT)
+Received: from smtp3.adl2.internode.on.net (smtp3.adl2.internode.on.net
+	[203.16.214.203])
+	by menubar.gnome.org (Postfix) with ESMTP id 9DE8B3B0572
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:15:42 -0400 (EDT)
+Received: from [10.1.1.91] (ppp136-25.lns2.adl2.internode.on.net
+	[59.167.136.25])
+	by smtp3.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k4T7FdL1018077; Mon, 29 May 2006 16:45:39 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+In-Reply-To: <1148835275.5939.3.camel@localhost.localdomain>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+Mime-Version: 1.0 (Apple Message framework v750)
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] What's the plan?
+Date: Mon, 29 May 2006 16:45:38 +0930
+To: Murray Cumming <murrayc@murrayc.com>
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.983 tagged_above=-999 required=2
+	tests=[AWL=-0.452, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.983
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:15:46 -0000
+
+I'm really glad to see we're doing something focussed to encourage =20
+female participation in Gnome. :)
+
+On 29/05/2006, at 2:24 AM, Murray Cumming wrote:
+>>
+>> 1. Track the numbers:
+>>   We need to know the gender percentages in the GNOME Foundation =20
+>> every
+>> year, so we can roughly measure our progress.
+>
+> It looks like this will happen:
+> http://mail.gnome.org/archives/found
+
+Potentially awkward. :(
+
+We need to make gender recording optional: some people aren't happy =20
+with being told to log their gender, and some don't fit in the binary =20=
+
+male/female classification.
+
+A checkbox item like:
+_________________
+
+We are keen to make GNOME an environment where gender doesn't define =20
+your opportunities. In doing this, it really helps if we know who's =20
+participating: we can evaluate our program and improve it. You don't =20
+have to give us this information, but we'd really appreciate it if =20
+you would. Thankyou. :)
+
+Gender stats
+
+I identify myself as
+
+[ ]	male
+[ ]	female
+[ ]	currently neither
+[ ]	I do not wish to give this information
+
+We know gender is a spectrum, including many very complex situations =20
+which we don't really understand well enough to describe here. If you =20=
+
+can help us make GNOME a friendlier place for people like you, please =20=
+
+email gender_all@gnome.org
+__________________
+>
+>> We could do a one-off
+>> survey now.
+
+As long as you're careful and considerate about the gender spectrum =20
+and privacy, as above (which is only an approximation: somebody can =20
+probably do it much better than I can), it could be useful.
+>>
+>> 2. Special treatment:
+>>   - Persuade existing GNOME developers to give extra time and =20
+>> patience
+>> to potential female contributors? I have very little time, but I'd be
+>> prepared to dedicate some time and be unusually (for me) patient for
+>> this good cause.
+
+Funnel it through Gnome-women and a mentors listing. We can refer =20
+people to you and help support them.
+
+>>   - Create a wiki page with lists of potential mentors (and their =20
+>> areas
+>> of expertise), and potential people to be mentored? This would be =20
+>> good
+>> for the male contributors too, of course.
+
+Good in general. We discussed this on Ubuntu-Women recently, and were =20=
+
+concerned that anyone listed as a mentor is recommended personally as =20=
+
+having the skills and attitude needed.
+
+>>   - How do we avoid this looking like a place for men to find women?
+>> Would a code of conduct help?
+
+YES. Plus a procedure for reporting and managing breaches of it.
+>
+> I created a general mentoring page.
+
+Good start. :)
+
+> Hopefully it will fill up:
+> http://live.gnome.org/MentoredProjects
+> But the above questions remain.
+
+OK, I've added myself (mentor for female translators). This is part =20
+of something I'm doing through the network of women-in-computing =20
+groups, and hope to continue for some time, through a number of =20
+practical applications of our work. I'm happy to focus part of that =20
+at Gnome.
+>
+>> 3. Code of Conduct?
+>> GNOME should probably have a code of conduct like Ubuntu's. It =20
+>> would be
+>> a quick way to stop a lot of noise (which is offputting for all), we
+>> could specifically discourage some obvious anti-female behaviour. As
+>> well as outlawing the worst examples, it could advertise us as a =20
+>> place
+>> where women might be able to avoid some of the behaviour they
+>> anticipate.
+
+Definitely.
+>>
+>> 4. Role Models:
+>>   Publicise existing female contributors and new female members once
+>> they are established.
+>>   - Make sure they are on Planet GNOME?
+>>   - Make sure they are speaking at GUADEC?
+>>   - Articles in GNOME Journal / gnomedesktop.org?
+
+Anything that publicizes our participation. Example is very =20
+motivating. The Profiles page at Debian-Women is a good example of =20
+this sort of work.
+
+http://women.alioth.debian.org/profiles/index.en.html
+>>
+>> I've read in an FAQ somewhere that some women are put-off by some of
+>> these things - treating women differently from the start, and =20
+>> pointing
+>> out the few women who are involved. But we can't please all the =20
+>> people
+>> all the time, and I don't see how to take action that isn't in
+>> contradiction to something, and I don't see how we can make things
+>> worse.
+
+I think most of us would much rather be anonymous. We often, um, hide =20=
+
+behind male or non-easily-gendered names so we won't be classified. =20
+This isn't only about avoiding hostility, but also about personality: =20=
+
+we're not public people.
+
+However, there is a real need for r=C3=B4le-models here, so we need to =20=
+
+work up some courage and step forward.
+
+I can't appear anywhere like GUADEC, since I'm bedridden and can't =20
+travel, except electronically ;) , but I'll do what I can.
+
+What's our timeline on GUADEC now? Ma=C3=ADrin and Anca, we could =
+combine =20
+some of this discussion with our paper (we need to get that started).
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+From murrayc@murrayc.com  Mon May 29 03:31:35 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 198593B06B3
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:31:35 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 23072-05 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:31:32 -0400 (EDT)
+Received: from webmail3.sd.dreamhost.com (webmail3.sd.dreamhost.com
+	[64.111.100.15])
+	by menubar.gnome.org (Postfix) with ESMTP id 187D43B0605
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:31:32 -0400 (EDT)
+Received: from webmail.murrayc.com (localhost [127.0.0.1])
+	by webmail3.sd.dreamhost.com (Postfix) with ESMTP
+	id 9591214103; Mon, 29 May 2006 00:31:30 -0700 (PDT)
+Received: from 194.138.18.131 (proxying for unknown)
+	(SquirrelMail authenticated user murrayc@murrayc.com)
+	by webmail.murrayc.com with HTTP;
+	Mon, 29 May 2006 09:31:30 +0200 (CEST)
+Message-ID: <57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+In-Reply-To: <006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+Date: Mon, 29 May 2006 09:31:30 +0200 (CEST)
+Subject: Re: [gnome-women] What's the plan?
+From: "Murray Cumming" <murrayc@murrayc.com>
+To: "Clytie Siddall" <clytie@riverland.net.au>
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.554 tagged_above=-999 required=2 tests=[AWL=0.045, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.554
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:31:35 -0000
+
+
+> I'm really glad to see we're doing something focussed to encourage
+> female participation in Gnome. :)
+>
+> On 29/05/2006, at 2:24 AM, Murray Cumming wrote:
+>>>
+>>> 1. Track the numbers:
+>>>   We need to know the gender percentages in the GNOME Foundation
+>>> every
+>>> year, so we can roughly measure our progress.
+>>
+>> It looks like this will happen:
+>> http://mail.gnome.org/archives/found
+>
+> Potentially awkward. :(
+>
+> We need to make gender recording optional:
+
+Yes, that's the plan. I think it solves most potential controversy.
+
+>  some people aren't happy
+> with being told to log their gender, and some don't fit in the binary
+> male/female classification.
+>
+> A checkbox item like:
+> _________________
+>
+> We are keen to make GNOME an environment where gender doesn't define
+> your opportunities. In doing this, it really helps if we know who's
+> participating: we can evaluate our program and improve it. You don't
+> have to give us this information, but we'd really appreciate it if
+> you would. Thankyou. :)
+>
+> Gender stats
+>
+> I identify myself as
+>
+> [ ]	male
+> [ ]	female
+> [ ]	currently neither
+> [ ]	I do not wish to give this information
+>
+> We know gender is a spectrum, including many very complex situations
+> which we don't really understand well enough to describe here. If you
+> can help us make GNOME a friendlier place for people like you, please
+> email gender_all@gnome.org
+
+I suggest that we keep this simple for now, but feel free to reply to the
+thread on foundation-list. I won't be the one actually implementing this.
+
+> __________________
+>>
+>>> We could do a one-off
+>>> survey now.
+>
+> As long as you're careful and considerate about the gender spectrum
+> and privacy,
+
+I don't think this requires changes to the privacy policy as long as it's
+optional.
+
+> as above (which is only an approximation: somebody can
+> probably do it much better than I can), it could be useful.
+>>>
+>>> 2. Special treatment:
+>>>   - Persuade existing GNOME developers to give extra time and
+>>> patience
+>>> to potential female contributors? I have very little time, but I'd be
+>>> prepared to dedicate some time and be unusually (for me) patient for
+>>> this good cause.
+>
+> Funnel it through Gnome-women and a mentors listing. We can refer
+> people to you and help support them.
+>
+>>>   - Create a wiki page with lists of potential mentors (and their
+>>> areas
+>>> of expertise), and potential people to be mentored? This would be
+>>> good
+>>> for the male contributors too, of course.
+>
+> Good in general. We discussed this on Ubuntu-Women recently, and were
+> concerned that anyone listed as a mentor is recommended personally as
+> having the skills and attitude needed.
+>
+>>>   - How do we avoid this looking like a place for men to find women?
+>>> Would a code of conduct help?
+>
+> YES. Plus a procedure for reporting and managing breaches of it.
+
+At the moment, I guess that a whole beaurocratic structure to handle
+problems would be hard to get going and would make this appear less
+attractive. Plus people would tend to leave all "enforcement" up to the
+beaurocracy instead of just saying "Hey, that's not good. It's really
+against our code of conduct".
+
+I think Ubuntu's code of conduct is successful because of the expectations
+that it creates rather than the organizational structure it creates. I
+would like GNOME's Code Of Conduct to be simpler.
+
+>> I created a general mentoring page.
+>
+> Good start. :)
+>
+>> Hopefully it will fill up:
+>> http://live.gnome.org/MentoredProjects
+>> But the above questions remain.
+>
+> OK, I've added myself (mentor for female translators). This is part
+> of something I'm doing through the network of women-in-computing
+> groups, and hope to continue for some time, through a number of
+> practical applications of our work. I'm happy to focus part of that
+> at Gnome.
+
+Excellent.
+
+[snip more good stuff]
+
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+From clytie@riverland.net.au  Mon May 29 03:44:01 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 40AB83B00C3
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:44:01 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 24047-05 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:43:59 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id B5E9E3B0453
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:43:58 -0400 (EDT)
+Received: from [10.1.1.91] (ppp136-25.lns2.adl2.internode.on.net
+	[59.167.136.25])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k4T7hoAb073307;
+	Mon, 29 May 2006 17:13:53 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+In-Reply-To: <57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+	<57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+Mime-Version: 1.0 (Apple Message framework v750)
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <1842071A-E464-45CF-AC2E-B9702590E07F@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] What's the plan?
+Date: Mon, 29 May 2006 17:13:47 +0930
+To: Murray Cumming <murrayc@murrayc.com>
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.983 tagged_above=-999 required=2
+	tests=[AWL=-0.452, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.983
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:44:01 -0000
+
+
+On 29/05/2006, at 5:01 PM, Murray Cumming wrote:
+
+>>
+>>>>   - How do we avoid this looking like a place for men to find =20
+>>>> women?
+>>>> Would a code of conduct help?
+>>
+>> YES. Plus a procedure for reporting and managing breaches of it.
+>
+> At the moment, I guess that a whole beaurocratic structure to handle
+> problems would be hard to get going and would make this appear less
+> attractive. Plus people would tend to leave all "enforcement" up to =20=
+
+> the
+> beaurocracy instead of just saying "Hey, that's not good. It's really
+> against our code of conduct".
+>
+> I think Ubuntu's code of conduct is successful because of the =20
+> expectations
+> that it creates rather than the organizational structure it creates. I
+> would like GNOME's Code Of Conduct to be simpler.
+
+I don't mean anything heavy or detailed. But you do need somewhere to =20=
+
+start. If someone is threatened or hurt in some way, they need to =20
+have some way to tell us about it.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+From murrayc@murrayc.com  Mon May 29 03:58:41 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BE3EF3B0265
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:58:41 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 24570-09 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:58:39 -0400 (EDT)
+Received: from webmail2.sd.dreamhost.com (webmail2.sd.dreamhost.com
+	[66.33.201.157])
+	by menubar.gnome.org (Postfix) with ESMTP id 3BEA43B0453
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:58:39 -0400 (EDT)
+Received: from webmail.murrayc.com (localhost [127.0.0.1])
+	by webmail2.sd.dreamhost.com (Postfix) with ESMTP
+	id 403C0DC721; Mon, 29 May 2006 00:58:38 -0700 (PDT)
+Received: from 194.138.18.131 (proxying for unknown)
+	(SquirrelMail authenticated user murrayc@murrayc.com)
+	by webmail.murrayc.com with HTTP;
+	Mon, 29 May 2006 09:58:38 +0200 (CEST)
+Message-ID: <22790.194.138.18.131.1148889518.squirrel@webmail.murrayc.com>
+In-Reply-To: <1842071A-E464-45CF-AC2E-B9702590E07F@riverland.net.au>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+	<57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+	<1842071A-E464-45CF-AC2E-B9702590E07F@riverland.net.au>
+Date: Mon, 29 May 2006 09:58:38 +0200 (CEST)
+Subject: Re: [gnome-women] What's the plan?
+From: "Murray Cumming" <murrayc@murrayc.com>
+To: "Clytie Siddall" <clytie@riverland.net.au>
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.553 tagged_above=-999 required=2 tests=[AWL=0.046, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.553
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:58:41 -0000
+
+
+>
+> On 29/05/2006, at 5:01 PM, Murray Cumming wrote:
+>
+>>>
+>>>>>   - How do we avoid this looking like a place for men to find
+>>>>> women?
+>>>>> Would a code of conduct help?
+>>>
+>>> YES. Plus a procedure for reporting and managing breaches of it.
+>>
+>> At the moment, I guess that a whole beaurocratic structure to handle
+>> problems would be hard to get going and would make this appear less
+>> attractive. Plus people would tend to leave all "enforcement" up to
+>> the
+>> beaurocracy instead of just saying "Hey, that's not good. It's really
+>> against our code of conduct".
+>>
+>> I think Ubuntu's code of conduct is successful because of the
+>> expectations
+>> that it creates rather than the organizational structure it creates. I
+>> would like GNOME's Code Of Conduct to be simpler.
+>
+> I don't mean anything heavy or detailed. But you do need somewhere to
+> start. If someone is threatened or hurt in some way, they need to
+> have some way to tell us about it.
+
+Yes, that makes sense.
+
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+From murrayc@murrayc.com  Mon May 29 05:29:21 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 56BEA3B0850
+	for <gnome-women-list@gnome.org>; Mon, 29 May 2006 05:29:21 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30293-09 for <gnome-women-list@gnome.org>;
+	Mon, 29 May 2006 05:29:19 -0400 (EDT)
+Received: from webmail1.sd.dreamhost.com (webmail1.sd.dreamhost.com
+	[66.33.201.159])
+	by menubar.gnome.org (Postfix) with ESMTP id 701A83B0800
+	for <gnome-women-list@gnome.org>; Mon, 29 May 2006 05:29:19 -0400 (EDT)
+Received: from webmail.murrayc.com (localhost [127.0.0.1])
+	by webmail1.sd.dreamhost.com (Postfix) with ESMTP id A91402C6D5
+	for <gnome-women-list@gnome.org>; Mon, 29 May 2006 02:29:18 -0700 (PDT)
+Received: from 194.138.18.131 (proxying for unknown)
+	(SquirrelMail authenticated user murrayc@murrayc.com)
+	by webmail.murrayc.com with HTTP;
+	Mon, 29 May 2006 11:29:18 +0200 (CEST)
+Message-ID: <48678.194.138.18.131.1148894958.squirrel@webmail.murrayc.com>
+Date: Mon, 29 May 2006 11:29:18 +0200 (CEST)
+From: "Murray Cumming" <murrayc@murrayc.com>
+To: gnome-women-list@gnome.org
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.553 tagged_above=-999 required=2 tests=[AWL=0.046, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.553
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Membership and Blogs
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 09:29:21 -0000
+
+I hope that all the women on this list are already members of the GNOME
+Foundation. If not, I encourage you to become members:
+http://foundation.gnome.org/membership/
+
+Also, planet.gnome.org is probably the most visible part of the GNOME
+community. If you contribute to GNOME at all and you have a blog, please
+do ask Jeff to add it to the planet.
+
+If you don't have a blog yet, you might want to get one at
+blogs.gnome.org. gnome-web-list@gnome.org is probably the best place to
+ask about getting a blogs.gnome.org blog, though I think Jonathan
+Blandford is the admin for the blogs.
+
+
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+From svaksha@gmail.com  Mon May 29 15:08:31 2006
+Return-Path: <svaksha@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B0EAB3B059D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 15:08:31 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 01009-01 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 15:08:30 -0400 (EDT)
+Received: from ug-out-1314.google.com (ug-out-1314.google.com [66.249.92.171])
+	by menubar.gnome.org (Postfix) with ESMTP id 289213B043D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 15:08:30 -0400 (EDT)
+Received: by ug-out-1314.google.com with SMTP id h2so421727ugf
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 12:08:29 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=JPKE1hl9dFhT9LF/nN0GBXSF/WZ2zFxcTDXYl0DxIpj47hhej4DLJBIGtQZKw8eDkQc9aYGwAgBThqCTpLh+VG9FYqzUMcBBe/NezCzeddg06GQGTfNAH6bTwq5Q+Hhn/vNM2PIK13/Vz7WfwXeIZYu3UT5niK/yvzUjNzTa4Tk=
+Received: by 10.78.17.4 with SMTP id 4mr462607huq;
+	Mon, 29 May 2006 12:08:28 -0700 (PDT)
+Received: by 10.78.56.3 with HTTP; Mon, 29 May 2006 12:08:28 -0700 (PDT)
+Message-ID: <12470af00605291208l3e6003a7o2db18eb72d36e47d@mail.gmail.com>
+Date: Tue, 30 May 2006 01:08:28 +0600
+From: "Vid Ayer" <svaksha@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] What's the plan?
+In-Reply-To: <57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+	<57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.042 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, RCVD_IN_BL_SPAMCOP_NET=1.558, SPF_PASS=-0.001]
+X-Spam-Score: -1.042
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 19:08:31 -0000
+
+Hi
+
+On 5/29/06, Murray Cumming <murrayc@murrayc.com> wrote:
+> > Potentially awkward. :(
+> >
+> > We need to make gender recording optional:
+>
+> Yes, that's the plan. I think it solves most potential controversy.
+>
+
+I would not like to specifically draw attention or tout my gender
+(which should not matter and nor is it a secret as such :-)) but it
+will be nicer if gender recording were optional.
+
+
+> > Good in general. We discussed this on Ubuntu-Women recently, and were
+> > concerned that anyone listed as a mentor is recommended personally as
+> > having the skills and attitude needed.
+
+Besides the technical expertise, a combination of patience and
+consideration for a new mentee helps greatly.
+
+
+> At the moment, I guess that a whole beaurocratic structure to handle
+> problems would be hard to get going and would make this appear less
+> attractive. Plus people would tend to leave all "enforcement" up to the
+> beaurocracy instead of just saying "Hey, that's not good. It's really
+> against our code of conduct".
+>
+> I think Ubuntu's code of conduct is successful because of the expectations
+> that it creates rather than the organizational structure it creates. I
+> would like GNOME's Code Of Conduct to be simpler.
+
+... there is a CC[0] with bi-weekly meetings[1] on IRC and people can
+also raise the issue privately[0]
+
+[0] http://www.ubuntu.com/community/processes/council
+[1] https://wiki.ubuntu.com/CommunityCouncilAgenda
+
+-- 
+Vid
+From hmw26@srcf.ucam.org  Sat May 13 16:10:47 2006
+Return-Path: <hmw26@srcf.ucam.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 3BAA03B13EB
+	for <gnome-women-list@gnome.org>; Sat, 13 May 2006 16:10:47 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 25784-03 for <gnome-women-list@gnome.org>;
+	Sat, 13 May 2006 16:10:45 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id B92493B12F6
+	for <gnome-women-list@gnome.org>; Sat, 13 May 2006 16:10:44 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from student.cusu.cam.ac.uk ([131.111.179.82]:49571
+	helo=kern.srcf.societies.cam.ac.uk)
+	by ppsw-9.csi.cam.ac.uk (ppsw.cam.ac.uk [131.111.8.139]:25)
+	with esmtp id 1Ff0Rj-0006gk-Vj (Exim 4.54) for
+	gnome-women-list@gnome.org
+	(return-path <hmw26@srcf.ucam.org>); Sat, 13 May 2006 21:10:39 +0100
+Received: from hmw26 by kern.srcf.societies.cam.ac.uk with local (Exim 3.36 #1
+	(Debian)) id 1Ff0Rj-00011d-00
+	for <gnome-women-list@gnome.org>; Sat, 13 May 2006 21:10:39 +0100
+Date: Sat, 13 May 2006 21:10:39 +0100
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@gnome.org
+Message-ID: <20060513201036.GA2337@srcf.ucam.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: "Hanna M. Wallach" <hmw26@srcf.ucam.org>
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] FLOSSPOLS report and slides, blog posts
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 13 May 2006 20:10:47 -0000
+
+Hi everyone,
+
+The final report from the FLOSSPOLS study on gender and free software
+is now online:
+http://www.flosspols.org/deliverables/FLOSSPOLS-D16-Gender_Integrated_Report_of_Findings.pdf
+The recommendations are online too:
+http://www.flosspols.org/deliverables/FLOSSPOLS-D17-Gender_Policy_Recommendations.pdf
+I gave a talk about the FLOSSPOLS findings at FOSDEM back in February
+-- my slides are also (finally!) online at
+http://www.srcf.ucam.org/~hmw26/talks/fosdem2006.pdf.
+
+Lastly, there are a number of interesting blog posts about women in
+free software, and in particular, GNOME. Check 'em out:
+http://www.murrayc.com/blog/permalink/2006/05/12/women-in-open-source/
+and http://spooky-possum.org/cgi-bin/pyblosxom.cgi/womenoss.html
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From murrayc@murrayc.com  Sun May 28 12:54:43 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F34493B0146
+	for <gnome-women-list@gnome.org>; Sun, 28 May 2006 12:54:42 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16155-03 for <gnome-women-list@gnome.org>;
+	Sun, 28 May 2006 12:54:39 -0400 (EDT)
+Received: from swarthymail-a4.dreamhost.com (mailbigip.dreamhost.com
+	[208.97.132.5])
+	by menubar.gnome.org (Postfix) with ESMTP id 55E943B006F
+	for <gnome-women-list@gnome.org>; Sun, 28 May 2006 12:54:39 -0400 (EDT)
+Received: from noname (p5497EDA0.dip.t-dialin.net [84.151.237.160])
+	by swarthymail-a4.dreamhost.com (Postfix) with ESMTP id 1BB71129A8C
+	for <gnome-women-list@gnome.org>; Sun, 28 May 2006 09:54:37 -0700 (PDT)
+From: Murray Cumming <murrayc@murrayc.com>
+To: gnome-women-list@gnome.org
+In-Reply-To: <1147812955.30864.26.camel@localhost.localdomain>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+Content-Type: text/plain
+Date: Sun, 28 May 2006 18:54:35 +0200
+Message-Id: <1148835275.5939.3.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.6.1 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.532 tagged_above=-999 required=2 tests=[AWL=0.067, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.532
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] What's the plan?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 28 May 2006 16:54:43 -0000
+
+I sent this to gnome-women@gnome.org instead of gnome-women-list@gnome.org. 
+Trying again with some updates.
+
+On Tue, 2006-05-16 at 22:56 +0200, Murray Cumming wrote:
+> So, following up on useful discussion arsing from my blog entry
+> http://www.murrayc.com/blog/permalink/2006/05/12/women-in-open-source/
+> what do we do to get more and better female involvement in GNOME? It
+> feels like an emergency to me, yet GNOME should be the solution to this
+> kind of problem. I'd like to help if someone could lead the effort.
+> 
+> My thoughts at the moment are:
+> 
+> 1. Track the numbers:
+>   We need to know the gender percentages in the GNOME Foundation every
+> year, so we can roughly measure our progress. 
+
+It looks like this will happen:
+http://mail.gnome.org/archives/found
+
+> We could do a one-off
+> survey now.
+> 
+> 2. Special treatment:
+>   - Persuade existing GNOME developers to give extra time and patience
+> to potential female contributors? I have very little time, but I'd be
+> prepared to dedicate some time and be unusually (for me) patient for
+> this good cause.
+>   - Create a wiki page with lists of potential mentors (and their areas
+> of expertise), and potential people to be mentored? This would be good
+> for the male contributors too, of course.
+>   - How do we avoid this looking like a place for men to find women?
+> Would a code of conduct help?
+
+I created a general mentoring page. Hopefully it will fill up:
+http://live.gnome.org/MentoredProjects
+But the above questions remain.
+
+> 3. Code of Conduct? 
+> GNOME should probably have a code of conduct like Ubuntu's. It would be
+> a quick way to stop a lot of noise (which is offputting for all), we
+> could specifically discourage some obvious anti-female behaviour. As
+> well as outlawing the worst examples, it could advertise us as a place
+> where women might be able to avoid some of the behaviour they
+> anticipate. 
+>  
+> 4. Role Models:
+>   Publicise existing female contributors and new female members once
+> they are established.
+>   - Make sure they are on Planet GNOME?
+>   - Make sure they are speaking at GUADEC?
+>   - Articles in GNOME Journal / gnomedesktop.org?
+> 
+> 
+> I've read in an FAQ somewhere that some women are put-off by some of
+> these things - treating women differently from the start, and pointing
+> out the few women who are involved. But we can't please all the people
+> all the time, and I don't see how to take action that isn't in
+> contradiction to something, and I don't see how we can make things
+> worse.
+
+-- 
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+
+From clytie@riverland.net.au  Mon May 29 03:15:46 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 276BF3B0453
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:15:46 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 22479-04 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:15:43 -0400 (EDT)
+Received: from smtp3.adl2.internode.on.net (smtp3.adl2.internode.on.net
+	[203.16.214.203])
+	by menubar.gnome.org (Postfix) with ESMTP id 9DE8B3B0572
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:15:42 -0400 (EDT)
+Received: from [10.1.1.91] (ppp136-25.lns2.adl2.internode.on.net
+	[59.167.136.25])
+	by smtp3.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k4T7FdL1018077; Mon, 29 May 2006 16:45:39 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+In-Reply-To: <1148835275.5939.3.camel@localhost.localdomain>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+Mime-Version: 1.0 (Apple Message framework v750)
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] What's the plan?
+Date: Mon, 29 May 2006 16:45:38 +0930
+To: Murray Cumming <murrayc@murrayc.com>
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.983 tagged_above=-999 required=2
+	tests=[AWL=-0.452, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.983
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:15:46 -0000
+
+I'm really glad to see we're doing something focussed to encourage =20
+female participation in Gnome. :)
+
+On 29/05/2006, at 2:24 AM, Murray Cumming wrote:
+>>
+>> 1. Track the numbers:
+>>   We need to know the gender percentages in the GNOME Foundation =20
+>> every
+>> year, so we can roughly measure our progress.
+>
+> It looks like this will happen:
+> http://mail.gnome.org/archives/found
+
+Potentially awkward. :(
+
+We need to make gender recording optional: some people aren't happy =20
+with being told to log their gender, and some don't fit in the binary =20=
+
+male/female classification.
+
+A checkbox item like:
+_________________
+
+We are keen to make GNOME an environment where gender doesn't define =20
+your opportunities. In doing this, it really helps if we know who's =20
+participating: we can evaluate our program and improve it. You don't =20
+have to give us this information, but we'd really appreciate it if =20
+you would. Thankyou. :)
+
+Gender stats
+
+I identify myself as
+
+[ ]	male
+[ ]	female
+[ ]	currently neither
+[ ]	I do not wish to give this information
+
+We know gender is a spectrum, including many very complex situations =20
+which we don't really understand well enough to describe here. If you =20=
+
+can help us make GNOME a friendlier place for people like you, please =20=
+
+email gender_all@gnome.org
+__________________
+>
+>> We could do a one-off
+>> survey now.
+
+As long as you're careful and considerate about the gender spectrum =20
+and privacy, as above (which is only an approximation: somebody can =20
+probably do it much better than I can), it could be useful.
+>>
+>> 2. Special treatment:
+>>   - Persuade existing GNOME developers to give extra time and =20
+>> patience
+>> to potential female contributors? I have very little time, but I'd be
+>> prepared to dedicate some time and be unusually (for me) patient for
+>> this good cause.
+
+Funnel it through Gnome-women and a mentors listing. We can refer =20
+people to you and help support them.
+
+>>   - Create a wiki page with lists of potential mentors (and their =20
+>> areas
+>> of expertise), and potential people to be mentored? This would be =20
+>> good
+>> for the male contributors too, of course.
+
+Good in general. We discussed this on Ubuntu-Women recently, and were =20=
+
+concerned that anyone listed as a mentor is recommended personally as =20=
+
+having the skills and attitude needed.
+
+>>   - How do we avoid this looking like a place for men to find women?
+>> Would a code of conduct help?
+
+YES. Plus a procedure for reporting and managing breaches of it.
+>
+> I created a general mentoring page.
+
+Good start. :)
+
+> Hopefully it will fill up:
+> http://live.gnome.org/MentoredProjects
+> But the above questions remain.
+
+OK, I've added myself (mentor for female translators). This is part =20
+of something I'm doing through the network of women-in-computing =20
+groups, and hope to continue for some time, through a number of =20
+practical applications of our work. I'm happy to focus part of that =20
+at Gnome.
+>
+>> 3. Code of Conduct?
+>> GNOME should probably have a code of conduct like Ubuntu's. It =20
+>> would be
+>> a quick way to stop a lot of noise (which is offputting for all), we
+>> could specifically discourage some obvious anti-female behaviour. As
+>> well as outlawing the worst examples, it could advertise us as a =20
+>> place
+>> where women might be able to avoid some of the behaviour they
+>> anticipate.
+
+Definitely.
+>>
+>> 4. Role Models:
+>>   Publicise existing female contributors and new female members once
+>> they are established.
+>>   - Make sure they are on Planet GNOME?
+>>   - Make sure they are speaking at GUADEC?
+>>   - Articles in GNOME Journal / gnomedesktop.org?
+
+Anything that publicizes our participation. Example is very =20
+motivating. The Profiles page at Debian-Women is a good example of =20
+this sort of work.
+
+http://women.alioth.debian.org/profiles/index.en.html
+>>
+>> I've read in an FAQ somewhere that some women are put-off by some of
+>> these things - treating women differently from the start, and =20
+>> pointing
+>> out the few women who are involved. But we can't please all the =20
+>> people
+>> all the time, and I don't see how to take action that isn't in
+>> contradiction to something, and I don't see how we can make things
+>> worse.
+
+I think most of us would much rather be anonymous. We often, um, hide =20=
+
+behind male or non-easily-gendered names so we won't be classified. =20
+This isn't only about avoiding hostility, but also about personality: =20=
+
+we're not public people.
+
+However, there is a real need for r=C3=B4le-models here, so we need to =20=
+
+work up some courage and step forward.
+
+I can't appear anywhere like GUADEC, since I'm bedridden and can't =20
+travel, except electronically ;) , but I'll do what I can.
+
+What's our timeline on GUADEC now? Ma=C3=ADrin and Anca, we could =
+combine =20
+some of this discussion with our paper (we need to get that started).
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From murrayc@murrayc.com  Mon May 29 03:31:35 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 198593B06B3
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:31:35 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 23072-05 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:31:32 -0400 (EDT)
+Received: from webmail3.sd.dreamhost.com (webmail3.sd.dreamhost.com
+	[64.111.100.15])
+	by menubar.gnome.org (Postfix) with ESMTP id 187D43B0605
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:31:32 -0400 (EDT)
+Received: from webmail.murrayc.com (localhost [127.0.0.1])
+	by webmail3.sd.dreamhost.com (Postfix) with ESMTP
+	id 9591214103; Mon, 29 May 2006 00:31:30 -0700 (PDT)
+Received: from 194.138.18.131 (proxying for unknown)
+	(SquirrelMail authenticated user murrayc@murrayc.com)
+	by webmail.murrayc.com with HTTP;
+	Mon, 29 May 2006 09:31:30 +0200 (CEST)
+Message-ID: <57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+In-Reply-To: <006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+Date: Mon, 29 May 2006 09:31:30 +0200 (CEST)
+Subject: Re: [gnome-women] What's the plan?
+From: "Murray Cumming" <murrayc@murrayc.com>
+To: "Clytie Siddall" <clytie@riverland.net.au>
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.554 tagged_above=-999 required=2 tests=[AWL=0.045, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.554
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:31:35 -0000
+
+
+> I'm really glad to see we're doing something focussed to encourage
+> female participation in Gnome. :)
+>
+> On 29/05/2006, at 2:24 AM, Murray Cumming wrote:
+>>>
+>>> 1. Track the numbers:
+>>>   We need to know the gender percentages in the GNOME Foundation
+>>> every
+>>> year, so we can roughly measure our progress.
+>>
+>> It looks like this will happen:
+>> http://mail.gnome.org/archives/found
+>
+> Potentially awkward. :(
+>
+> We need to make gender recording optional:
+
+Yes, that's the plan. I think it solves most potential controversy.
+
+>  some people aren't happy
+> with being told to log their gender, and some don't fit in the binary
+> male/female classification.
+>
+> A checkbox item like:
+> _________________
+>
+> We are keen to make GNOME an environment where gender doesn't define
+> your opportunities. In doing this, it really helps if we know who's
+> participating: we can evaluate our program and improve it. You don't
+> have to give us this information, but we'd really appreciate it if
+> you would. Thankyou. :)
+>
+> Gender stats
+>
+> I identify myself as
+>
+> [ ]	male
+> [ ]	female
+> [ ]	currently neither
+> [ ]	I do not wish to give this information
+>
+> We know gender is a spectrum, including many very complex situations
+> which we don't really understand well enough to describe here. If you
+> can help us make GNOME a friendlier place for people like you, please
+> email gender_all@gnome.org
+
+I suggest that we keep this simple for now, but feel free to reply to the
+thread on foundation-list. I won't be the one actually implementing this.
+
+> __________________
+>>
+>>> We could do a one-off
+>>> survey now.
+>
+> As long as you're careful and considerate about the gender spectrum
+> and privacy,
+
+I don't think this requires changes to the privacy policy as long as it's
+optional.
+
+> as above (which is only an approximation: somebody can
+> probably do it much better than I can), it could be useful.
+>>>
+>>> 2. Special treatment:
+>>>   - Persuade existing GNOME developers to give extra time and
+>>> patience
+>>> to potential female contributors? I have very little time, but I'd be
+>>> prepared to dedicate some time and be unusually (for me) patient for
+>>> this good cause.
+>
+> Funnel it through Gnome-women and a mentors listing. We can refer
+> people to you and help support them.
+>
+>>>   - Create a wiki page with lists of potential mentors (and their
+>>> areas
+>>> of expertise), and potential people to be mentored? This would be
+>>> good
+>>> for the male contributors too, of course.
+>
+> Good in general. We discussed this on Ubuntu-Women recently, and were
+> concerned that anyone listed as a mentor is recommended personally as
+> having the skills and attitude needed.
+>
+>>>   - How do we avoid this looking like a place for men to find women?
+>>> Would a code of conduct help?
+>
+> YES. Plus a procedure for reporting and managing breaches of it.
+
+At the moment, I guess that a whole beaurocratic structure to handle
+problems would be hard to get going and would make this appear less
+attractive. Plus people would tend to leave all "enforcement" up to the
+beaurocracy instead of just saying "Hey, that's not good. It's really
+against our code of conduct".
+
+I think Ubuntu's code of conduct is successful because of the expectations
+that it creates rather than the organizational structure it creates. I
+would like GNOME's Code Of Conduct to be simpler.
+
+>> I created a general mentoring page.
+>
+> Good start. :)
+>
+>> Hopefully it will fill up:
+>> http://live.gnome.org/MentoredProjects
+>> But the above questions remain.
+>
+> OK, I've added myself (mentor for female translators). This is part
+> of something I'm doing through the network of women-in-computing
+> groups, and hope to continue for some time, through a number of
+> practical applications of our work. I'm happy to focus part of that
+> at Gnome.
+
+Excellent.
+
+[snip more good stuff]
+
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+
+From clytie@riverland.net.au  Mon May 29 03:44:01 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 40AB83B00C3
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:44:01 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 24047-05 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:43:59 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id B5E9E3B0453
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:43:58 -0400 (EDT)
+Received: from [10.1.1.91] (ppp136-25.lns2.adl2.internode.on.net
+	[59.167.136.25])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k4T7hoAb073307;
+	Mon, 29 May 2006 17:13:53 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+In-Reply-To: <57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+	<57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+Mime-Version: 1.0 (Apple Message framework v750)
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <1842071A-E464-45CF-AC2E-B9702590E07F@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] What's the plan?
+Date: Mon, 29 May 2006 17:13:47 +0930
+To: Murray Cumming <murrayc@murrayc.com>
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.983 tagged_above=-999 required=2
+	tests=[AWL=-0.452, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.983
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:44:01 -0000
+
+
+On 29/05/2006, at 5:01 PM, Murray Cumming wrote:
+
+>>
+>>>>   - How do we avoid this looking like a place for men to find =20
+>>>> women?
+>>>> Would a code of conduct help?
+>>
+>> YES. Plus a procedure for reporting and managing breaches of it.
+>
+> At the moment, I guess that a whole beaurocratic structure to handle
+> problems would be hard to get going and would make this appear less
+> attractive. Plus people would tend to leave all "enforcement" up to =20=
+
+> the
+> beaurocracy instead of just saying "Hey, that's not good. It's really
+> against our code of conduct".
+>
+> I think Ubuntu's code of conduct is successful because of the =20
+> expectations
+> that it creates rather than the organizational structure it creates. I
+> would like GNOME's Code Of Conduct to be simpler.
+
+I don't mean anything heavy or detailed. But you do need somewhere to =20=
+
+start. If someone is threatened or hurt in some way, they need to =20
+have some way to tell us about it.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From murrayc@murrayc.com  Mon May 29 03:58:41 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BE3EF3B0265
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:58:41 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 24570-09 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:58:39 -0400 (EDT)
+Received: from webmail2.sd.dreamhost.com (webmail2.sd.dreamhost.com
+	[66.33.201.157])
+	by menubar.gnome.org (Postfix) with ESMTP id 3BEA43B0453
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:58:39 -0400 (EDT)
+Received: from webmail.murrayc.com (localhost [127.0.0.1])
+	by webmail2.sd.dreamhost.com (Postfix) with ESMTP
+	id 403C0DC721; Mon, 29 May 2006 00:58:38 -0700 (PDT)
+Received: from 194.138.18.131 (proxying for unknown)
+	(SquirrelMail authenticated user murrayc@murrayc.com)
+	by webmail.murrayc.com with HTTP;
+	Mon, 29 May 2006 09:58:38 +0200 (CEST)
+Message-ID: <22790.194.138.18.131.1148889518.squirrel@webmail.murrayc.com>
+In-Reply-To: <1842071A-E464-45CF-AC2E-B9702590E07F@riverland.net.au>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+	<57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+	<1842071A-E464-45CF-AC2E-B9702590E07F@riverland.net.au>
+Date: Mon, 29 May 2006 09:58:38 +0200 (CEST)
+Subject: Re: [gnome-women] What's the plan?
+From: "Murray Cumming" <murrayc@murrayc.com>
+To: "Clytie Siddall" <clytie@riverland.net.au>
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.553 tagged_above=-999 required=2 tests=[AWL=0.046, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.553
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:58:41 -0000
+
+
+>
+> On 29/05/2006, at 5:01 PM, Murray Cumming wrote:
+>
+>>>
+>>>>>   - How do we avoid this looking like a place for men to find
+>>>>> women?
+>>>>> Would a code of conduct help?
+>>>
+>>> YES. Plus a procedure for reporting and managing breaches of it.
+>>
+>> At the moment, I guess that a whole beaurocratic structure to handle
+>> problems would be hard to get going and would make this appear less
+>> attractive. Plus people would tend to leave all "enforcement" up to
+>> the
+>> beaurocracy instead of just saying "Hey, that's not good. It's really
+>> against our code of conduct".
+>>
+>> I think Ubuntu's code of conduct is successful because of the
+>> expectations
+>> that it creates rather than the organizational structure it creates. I
+>> would like GNOME's Code Of Conduct to be simpler.
+>
+> I don't mean anything heavy or detailed. But you do need somewhere to
+> start. If someone is threatened or hurt in some way, they need to
+> have some way to tell us about it.
+
+Yes, that makes sense.
+
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+
+From murrayc@murrayc.com  Mon May 29 05:29:21 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 56BEA3B0850
+	for <gnome-women-list@gnome.org>; Mon, 29 May 2006 05:29:21 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30293-09 for <gnome-women-list@gnome.org>;
+	Mon, 29 May 2006 05:29:19 -0400 (EDT)
+Received: from webmail1.sd.dreamhost.com (webmail1.sd.dreamhost.com
+	[66.33.201.159])
+	by menubar.gnome.org (Postfix) with ESMTP id 701A83B0800
+	for <gnome-women-list@gnome.org>; Mon, 29 May 2006 05:29:19 -0400 (EDT)
+Received: from webmail.murrayc.com (localhost [127.0.0.1])
+	by webmail1.sd.dreamhost.com (Postfix) with ESMTP id A91402C6D5
+	for <gnome-women-list@gnome.org>; Mon, 29 May 2006 02:29:18 -0700 (PDT)
+Received: from 194.138.18.131 (proxying for unknown)
+	(SquirrelMail authenticated user murrayc@murrayc.com)
+	by webmail.murrayc.com with HTTP;
+	Mon, 29 May 2006 11:29:18 +0200 (CEST)
+Message-ID: <48678.194.138.18.131.1148894958.squirrel@webmail.murrayc.com>
+Date: Mon, 29 May 2006 11:29:18 +0200 (CEST)
+From: "Murray Cumming" <murrayc@murrayc.com>
+To: gnome-women-list@gnome.org
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.553 tagged_above=-999 required=2 tests=[AWL=0.046, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.553
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Membership and Blogs
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 09:29:21 -0000
+
+I hope that all the women on this list are already members of the GNOME
+Foundation. If not, I encourage you to become members:
+http://foundation.gnome.org/membership/
+
+Also, planet.gnome.org is probably the most visible part of the GNOME
+community. If you contribute to GNOME at all and you have a blog, please
+do ask Jeff to add it to the planet.
+
+If you don't have a blog yet, you might want to get one at
+blogs.gnome.org. gnome-web-list@gnome.org is probably the best place to
+ask about getting a blogs.gnome.org blog, though I think Jonathan
+Blandford is the admin for the blogs.
+
+
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+
+From svaksha@gmail.com  Mon May 29 15:08:31 2006
+Return-Path: <svaksha@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B0EAB3B059D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 15:08:31 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 01009-01 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 15:08:30 -0400 (EDT)
+Received: from ug-out-1314.google.com (ug-out-1314.google.com [66.249.92.171])
+	by menubar.gnome.org (Postfix) with ESMTP id 289213B043D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 15:08:30 -0400 (EDT)
+Received: by ug-out-1314.google.com with SMTP id h2so421727ugf
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 12:08:29 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=JPKE1hl9dFhT9LF/nN0GBXSF/WZ2zFxcTDXYl0DxIpj47hhej4DLJBIGtQZKw8eDkQc9aYGwAgBThqCTpLh+VG9FYqzUMcBBe/NezCzeddg06GQGTfNAH6bTwq5Q+Hhn/vNM2PIK13/Vz7WfwXeIZYu3UT5niK/yvzUjNzTa4Tk=
+Received: by 10.78.17.4 with SMTP id 4mr462607huq;
+	Mon, 29 May 2006 12:08:28 -0700 (PDT)
+Received: by 10.78.56.3 with HTTP; Mon, 29 May 2006 12:08:28 -0700 (PDT)
+Message-ID: <12470af00605291208l3e6003a7o2db18eb72d36e47d@mail.gmail.com>
+Date: Tue, 30 May 2006 01:08:28 +0600
+From: "Vid Ayer" <svaksha@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] What's the plan?
+In-Reply-To: <57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+	<57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.042 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, RCVD_IN_BL_SPAMCOP_NET=1.558, SPF_PASS=-0.001]
+X-Spam-Score: -1.042
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 19:08:31 -0000
+
+Hi
+
+On 5/29/06, Murray Cumming <murrayc@murrayc.com> wrote:
+> > Potentially awkward. :(
+> >
+> > We need to make gender recording optional:
+>
+> Yes, that's the plan. I think it solves most potential controversy.
+>
+
+I would not like to specifically draw attention or tout my gender
+(which should not matter and nor is it a secret as such :-)) but it
+will be nicer if gender recording were optional.
+
+
+> > Good in general. We discussed this on Ubuntu-Women recently, and were
+> > concerned that anyone listed as a mentor is recommended personally as
+> > having the skills and attitude needed.
+
+Besides the technical expertise, a combination of patience and
+consideration for a new mentee helps greatly.
+
+
+> At the moment, I guess that a whole beaurocratic structure to handle
+> problems would be hard to get going and would make this appear less
+> attractive. Plus people would tend to leave all "enforcement" up to the
+> beaurocracy instead of just saying "Hey, that's not good. It's really
+> against our code of conduct".
+>
+> I think Ubuntu's code of conduct is successful because of the expectations
+> that it creates rather than the organizational structure it creates. I
+> would like GNOME's Code Of Conduct to be simpler.
+
+... there is a CC[0] with bi-weekly meetings[1] on IRC and people can
+also raise the issue privately[0]
+
+[0] http://www.ubuntu.com/community/processes/council
+[1] https://wiki.ubuntu.com/CommunityCouncilAgenda
+
+-- 
+Vid
+
+From hmw26@srcf.ucam.org  Sat May 13 16:10:47 2006
+Return-Path: <hmw26@srcf.ucam.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 3BAA03B13EB
+	for <gnome-women-list@gnome.org>; Sat, 13 May 2006 16:10:47 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 25784-03 for <gnome-women-list@gnome.org>;
+	Sat, 13 May 2006 16:10:45 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id B92493B12F6
+	for <gnome-women-list@gnome.org>; Sat, 13 May 2006 16:10:44 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from student.cusu.cam.ac.uk ([131.111.179.82]:49571
+	helo=kern.srcf.societies.cam.ac.uk)
+	by ppsw-9.csi.cam.ac.uk (ppsw.cam.ac.uk [131.111.8.139]:25)
+	with esmtp id 1Ff0Rj-0006gk-Vj (Exim 4.54) for
+	gnome-women-list@gnome.org
+	(return-path <hmw26@srcf.ucam.org>); Sat, 13 May 2006 21:10:39 +0100
+Received: from hmw26 by kern.srcf.societies.cam.ac.uk with local (Exim 3.36 #1
+	(Debian)) id 1Ff0Rj-00011d-00
+	for <gnome-women-list@gnome.org>; Sat, 13 May 2006 21:10:39 +0100
+Date: Sat, 13 May 2006 21:10:39 +0100
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@gnome.org
+Message-ID: <20060513201036.GA2337@srcf.ucam.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: "Hanna M. Wallach" <hmw26@srcf.ucam.org>
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] FLOSSPOLS report and slides, blog posts
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 13 May 2006 20:10:47 -0000
+
+Hi everyone,
+
+The final report from the FLOSSPOLS study on gender and free software
+is now online:
+http://www.flosspols.org/deliverables/FLOSSPOLS-D16-Gender_Integrated_Report_of_Findings.pdf
+The recommendations are online too:
+http://www.flosspols.org/deliverables/FLOSSPOLS-D17-Gender_Policy_Recommendations.pdf
+I gave a talk about the FLOSSPOLS findings at FOSDEM back in February
+-- my slides are also (finally!) online at
+http://www.srcf.ucam.org/~hmw26/talks/fosdem2006.pdf.
+
+Lastly, there are a number of interesting blog posts about women in
+free software, and in particular, GNOME. Check 'em out:
+http://www.murrayc.com/blog/permalink/2006/05/12/women-in-open-source/
+and http://spooky-possum.org/cgi-bin/pyblosxom.cgi/womenoss.html
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From murrayc@murrayc.com  Sun May 28 12:54:43 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F34493B0146
+	for <gnome-women-list@gnome.org>; Sun, 28 May 2006 12:54:42 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16155-03 for <gnome-women-list@gnome.org>;
+	Sun, 28 May 2006 12:54:39 -0400 (EDT)
+Received: from swarthymail-a4.dreamhost.com (mailbigip.dreamhost.com
+	[208.97.132.5])
+	by menubar.gnome.org (Postfix) with ESMTP id 55E943B006F
+	for <gnome-women-list@gnome.org>; Sun, 28 May 2006 12:54:39 -0400 (EDT)
+Received: from noname (p5497EDA0.dip.t-dialin.net [84.151.237.160])
+	by swarthymail-a4.dreamhost.com (Postfix) with ESMTP id 1BB71129A8C
+	for <gnome-women-list@gnome.org>; Sun, 28 May 2006 09:54:37 -0700 (PDT)
+From: Murray Cumming <murrayc@murrayc.com>
+To: gnome-women-list@gnome.org
+In-Reply-To: <1147812955.30864.26.camel@localhost.localdomain>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+Content-Type: text/plain
+Date: Sun, 28 May 2006 18:54:35 +0200
+Message-Id: <1148835275.5939.3.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.6.1 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.532 tagged_above=-999 required=2 tests=[AWL=0.067, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.532
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] What's the plan?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 28 May 2006 16:54:43 -0000
+
+I sent this to gnome-women@gnome.org instead of gnome-women-list@gnome.org. 
+Trying again with some updates.
+
+On Tue, 2006-05-16 at 22:56 +0200, Murray Cumming wrote:
+> So, following up on useful discussion arsing from my blog entry
+> http://www.murrayc.com/blog/permalink/2006/05/12/women-in-open-source/
+> what do we do to get more and better female involvement in GNOME? It
+> feels like an emergency to me, yet GNOME should be the solution to this
+> kind of problem. I'd like to help if someone could lead the effort.
+> 
+> My thoughts at the moment are:
+> 
+> 1. Track the numbers:
+>   We need to know the gender percentages in the GNOME Foundation every
+> year, so we can roughly measure our progress. 
+
+It looks like this will happen:
+http://mail.gnome.org/archives/found
+
+> We could do a one-off
+> survey now.
+> 
+> 2. Special treatment:
+>   - Persuade existing GNOME developers to give extra time and patience
+> to potential female contributors? I have very little time, but I'd be
+> prepared to dedicate some time and be unusually (for me) patient for
+> this good cause.
+>   - Create a wiki page with lists of potential mentors (and their areas
+> of expertise), and potential people to be mentored? This would be good
+> for the male contributors too, of course.
+>   - How do we avoid this looking like a place for men to find women?
+> Would a code of conduct help?
+
+I created a general mentoring page. Hopefully it will fill up:
+http://live.gnome.org/MentoredProjects
+But the above questions remain.
+
+> 3. Code of Conduct? 
+> GNOME should probably have a code of conduct like Ubuntu's. It would be
+> a quick way to stop a lot of noise (which is offputting for all), we
+> could specifically discourage some obvious anti-female behaviour. As
+> well as outlawing the worst examples, it could advertise us as a place
+> where women might be able to avoid some of the behaviour they
+> anticipate. 
+>  
+> 4. Role Models:
+>   Publicise existing female contributors and new female members once
+> they are established.
+>   - Make sure they are on Planet GNOME?
+>   - Make sure they are speaking at GUADEC?
+>   - Articles in GNOME Journal / gnomedesktop.org?
+> 
+> 
+> I've read in an FAQ somewhere that some women are put-off by some of
+> these things - treating women differently from the start, and pointing
+> out the few women who are involved. But we can't please all the people
+> all the time, and I don't see how to take action that isn't in
+> contradiction to something, and I don't see how we can make things
+> worse.
+
+-- 
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+
+From clytie@riverland.net.au  Mon May 29 03:15:46 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 276BF3B0453
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:15:46 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 22479-04 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:15:43 -0400 (EDT)
+Received: from smtp3.adl2.internode.on.net (smtp3.adl2.internode.on.net
+	[203.16.214.203])
+	by menubar.gnome.org (Postfix) with ESMTP id 9DE8B3B0572
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:15:42 -0400 (EDT)
+Received: from [10.1.1.91] (ppp136-25.lns2.adl2.internode.on.net
+	[59.167.136.25])
+	by smtp3.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k4T7FdL1018077; Mon, 29 May 2006 16:45:39 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+In-Reply-To: <1148835275.5939.3.camel@localhost.localdomain>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+Mime-Version: 1.0 (Apple Message framework v750)
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] What's the plan?
+Date: Mon, 29 May 2006 16:45:38 +0930
+To: Murray Cumming <murrayc@murrayc.com>
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.983 tagged_above=-999 required=2
+	tests=[AWL=-0.452, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.983
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:15:46 -0000
+
+I'm really glad to see we're doing something focussed to encourage =20
+female participation in Gnome. :)
+
+On 29/05/2006, at 2:24 AM, Murray Cumming wrote:
+>>
+>> 1. Track the numbers:
+>>   We need to know the gender percentages in the GNOME Foundation =20
+>> every
+>> year, so we can roughly measure our progress.
+>
+> It looks like this will happen:
+> http://mail.gnome.org/archives/found
+
+Potentially awkward. :(
+
+We need to make gender recording optional: some people aren't happy =20
+with being told to log their gender, and some don't fit in the binary =20=
+
+male/female classification.
+
+A checkbox item like:
+_________________
+
+We are keen to make GNOME an environment where gender doesn't define =20
+your opportunities. In doing this, it really helps if we know who's =20
+participating: we can evaluate our program and improve it. You don't =20
+have to give us this information, but we'd really appreciate it if =20
+you would. Thankyou. :)
+
+Gender stats
+
+I identify myself as
+
+[ ]	male
+[ ]	female
+[ ]	currently neither
+[ ]	I do not wish to give this information
+
+We know gender is a spectrum, including many very complex situations =20
+which we don't really understand well enough to describe here. If you =20=
+
+can help us make GNOME a friendlier place for people like you, please =20=
+
+email gender_all@gnome.org
+__________________
+>
+>> We could do a one-off
+>> survey now.
+
+As long as you're careful and considerate about the gender spectrum =20
+and privacy, as above (which is only an approximation: somebody can =20
+probably do it much better than I can), it could be useful.
+>>
+>> 2. Special treatment:
+>>   - Persuade existing GNOME developers to give extra time and =20
+>> patience
+>> to potential female contributors? I have very little time, but I'd be
+>> prepared to dedicate some time and be unusually (for me) patient for
+>> this good cause.
+
+Funnel it through Gnome-women and a mentors listing. We can refer =20
+people to you and help support them.
+
+>>   - Create a wiki page with lists of potential mentors (and their =20
+>> areas
+>> of expertise), and potential people to be mentored? This would be =20
+>> good
+>> for the male contributors too, of course.
+
+Good in general. We discussed this on Ubuntu-Women recently, and were =20=
+
+concerned that anyone listed as a mentor is recommended personally as =20=
+
+having the skills and attitude needed.
+
+>>   - How do we avoid this looking like a place for men to find women?
+>> Would a code of conduct help?
+
+YES. Plus a procedure for reporting and managing breaches of it.
+>
+> I created a general mentoring page.
+
+Good start. :)
+
+> Hopefully it will fill up:
+> http://live.gnome.org/MentoredProjects
+> But the above questions remain.
+
+OK, I've added myself (mentor for female translators). This is part =20
+of something I'm doing through the network of women-in-computing =20
+groups, and hope to continue for some time, through a number of =20
+practical applications of our work. I'm happy to focus part of that =20
+at Gnome.
+>
+>> 3. Code of Conduct?
+>> GNOME should probably have a code of conduct like Ubuntu's. It =20
+>> would be
+>> a quick way to stop a lot of noise (which is offputting for all), we
+>> could specifically discourage some obvious anti-female behaviour. As
+>> well as outlawing the worst examples, it could advertise us as a =20
+>> place
+>> where women might be able to avoid some of the behaviour they
+>> anticipate.
+
+Definitely.
+>>
+>> 4. Role Models:
+>>   Publicise existing female contributors and new female members once
+>> they are established.
+>>   - Make sure they are on Planet GNOME?
+>>   - Make sure they are speaking at GUADEC?
+>>   - Articles in GNOME Journal / gnomedesktop.org?
+
+Anything that publicizes our participation. Example is very =20
+motivating. The Profiles page at Debian-Women is a good example of =20
+this sort of work.
+
+http://women.alioth.debian.org/profiles/index.en.html
+>>
+>> I've read in an FAQ somewhere that some women are put-off by some of
+>> these things - treating women differently from the start, and =20
+>> pointing
+>> out the few women who are involved. But we can't please all the =20
+>> people
+>> all the time, and I don't see how to take action that isn't in
+>> contradiction to something, and I don't see how we can make things
+>> worse.
+
+I think most of us would much rather be anonymous. We often, um, hide =20=
+
+behind male or non-easily-gendered names so we won't be classified. =20
+This isn't only about avoiding hostility, but also about personality: =20=
+
+we're not public people.
+
+However, there is a real need for r=C3=B4le-models here, so we need to =20=
+
+work up some courage and step forward.
+
+I can't appear anywhere like GUADEC, since I'm bedridden and can't =20
+travel, except electronically ;) , but I'll do what I can.
+
+What's our timeline on GUADEC now? Ma=C3=ADrin and Anca, we could =
+combine =20
+some of this discussion with our paper (we need to get that started).
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From murrayc@murrayc.com  Mon May 29 03:31:35 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 198593B06B3
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:31:35 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 23072-05 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:31:32 -0400 (EDT)
+Received: from webmail3.sd.dreamhost.com (webmail3.sd.dreamhost.com
+	[64.111.100.15])
+	by menubar.gnome.org (Postfix) with ESMTP id 187D43B0605
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:31:32 -0400 (EDT)
+Received: from webmail.murrayc.com (localhost [127.0.0.1])
+	by webmail3.sd.dreamhost.com (Postfix) with ESMTP
+	id 9591214103; Mon, 29 May 2006 00:31:30 -0700 (PDT)
+Received: from 194.138.18.131 (proxying for unknown)
+	(SquirrelMail authenticated user murrayc@murrayc.com)
+	by webmail.murrayc.com with HTTP;
+	Mon, 29 May 2006 09:31:30 +0200 (CEST)
+Message-ID: <57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+In-Reply-To: <006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+Date: Mon, 29 May 2006 09:31:30 +0200 (CEST)
+Subject: Re: [gnome-women] What's the plan?
+From: "Murray Cumming" <murrayc@murrayc.com>
+To: "Clytie Siddall" <clytie@riverland.net.au>
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.554 tagged_above=-999 required=2 tests=[AWL=0.045, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.554
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:31:35 -0000
+
+
+> I'm really glad to see we're doing something focussed to encourage
+> female participation in Gnome. :)
+>
+> On 29/05/2006, at 2:24 AM, Murray Cumming wrote:
+>>>
+>>> 1. Track the numbers:
+>>>   We need to know the gender percentages in the GNOME Foundation
+>>> every
+>>> year, so we can roughly measure our progress.
+>>
+>> It looks like this will happen:
+>> http://mail.gnome.org/archives/found
+>
+> Potentially awkward. :(
+>
+> We need to make gender recording optional:
+
+Yes, that's the plan. I think it solves most potential controversy.
+
+>  some people aren't happy
+> with being told to log their gender, and some don't fit in the binary
+> male/female classification.
+>
+> A checkbox item like:
+> _________________
+>
+> We are keen to make GNOME an environment where gender doesn't define
+> your opportunities. In doing this, it really helps if we know who's
+> participating: we can evaluate our program and improve it. You don't
+> have to give us this information, but we'd really appreciate it if
+> you would. Thankyou. :)
+>
+> Gender stats
+>
+> I identify myself as
+>
+> [ ]	male
+> [ ]	female
+> [ ]	currently neither
+> [ ]	I do not wish to give this information
+>
+> We know gender is a spectrum, including many very complex situations
+> which we don't really understand well enough to describe here. If you
+> can help us make GNOME a friendlier place for people like you, please
+> email gender_all@gnome.org
+
+I suggest that we keep this simple for now, but feel free to reply to the
+thread on foundation-list. I won't be the one actually implementing this.
+
+> __________________
+>>
+>>> We could do a one-off
+>>> survey now.
+>
+> As long as you're careful and considerate about the gender spectrum
+> and privacy,
+
+I don't think this requires changes to the privacy policy as long as it's
+optional.
+
+> as above (which is only an approximation: somebody can
+> probably do it much better than I can), it could be useful.
+>>>
+>>> 2. Special treatment:
+>>>   - Persuade existing GNOME developers to give extra time and
+>>> patience
+>>> to potential female contributors? I have very little time, but I'd be
+>>> prepared to dedicate some time and be unusually (for me) patient for
+>>> this good cause.
+>
+> Funnel it through Gnome-women and a mentors listing. We can refer
+> people to you and help support them.
+>
+>>>   - Create a wiki page with lists of potential mentors (and their
+>>> areas
+>>> of expertise), and potential people to be mentored? This would be
+>>> good
+>>> for the male contributors too, of course.
+>
+> Good in general. We discussed this on Ubuntu-Women recently, and were
+> concerned that anyone listed as a mentor is recommended personally as
+> having the skills and attitude needed.
+>
+>>>   - How do we avoid this looking like a place for men to find women?
+>>> Would a code of conduct help?
+>
+> YES. Plus a procedure for reporting and managing breaches of it.
+
+At the moment, I guess that a whole beaurocratic structure to handle
+problems would be hard to get going and would make this appear less
+attractive. Plus people would tend to leave all "enforcement" up to the
+beaurocracy instead of just saying "Hey, that's not good. It's really
+against our code of conduct".
+
+I think Ubuntu's code of conduct is successful because of the expectations
+that it creates rather than the organizational structure it creates. I
+would like GNOME's Code Of Conduct to be simpler.
+
+>> I created a general mentoring page.
+>
+> Good start. :)
+>
+>> Hopefully it will fill up:
+>> http://live.gnome.org/MentoredProjects
+>> But the above questions remain.
+>
+> OK, I've added myself (mentor for female translators). This is part
+> of something I'm doing through the network of women-in-computing
+> groups, and hope to continue for some time, through a number of
+> practical applications of our work. I'm happy to focus part of that
+> at Gnome.
+
+Excellent.
+
+[snip more good stuff]
+
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+
+From clytie@riverland.net.au  Mon May 29 03:44:01 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 40AB83B00C3
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:44:01 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 24047-05 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:43:59 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id B5E9E3B0453
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:43:58 -0400 (EDT)
+Received: from [10.1.1.91] (ppp136-25.lns2.adl2.internode.on.net
+	[59.167.136.25])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k4T7hoAb073307;
+	Mon, 29 May 2006 17:13:53 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+In-Reply-To: <57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+	<57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+Mime-Version: 1.0 (Apple Message framework v750)
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <1842071A-E464-45CF-AC2E-B9702590E07F@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] What's the plan?
+Date: Mon, 29 May 2006 17:13:47 +0930
+To: Murray Cumming <murrayc@murrayc.com>
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.983 tagged_above=-999 required=2
+	tests=[AWL=-0.452, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.983
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:44:01 -0000
+
+
+On 29/05/2006, at 5:01 PM, Murray Cumming wrote:
+
+>>
+>>>>   - How do we avoid this looking like a place for men to find =20
+>>>> women?
+>>>> Would a code of conduct help?
+>>
+>> YES. Plus a procedure for reporting and managing breaches of it.
+>
+> At the moment, I guess that a whole beaurocratic structure to handle
+> problems would be hard to get going and would make this appear less
+> attractive. Plus people would tend to leave all "enforcement" up to =20=
+
+> the
+> beaurocracy instead of just saying "Hey, that's not good. It's really
+> against our code of conduct".
+>
+> I think Ubuntu's code of conduct is successful because of the =20
+> expectations
+> that it creates rather than the organizational structure it creates. I
+> would like GNOME's Code Of Conduct to be simpler.
+
+I don't mean anything heavy or detailed. But you do need somewhere to =20=
+
+start. If someone is threatened or hurt in some way, they need to =20
+have some way to tell us about it.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From murrayc@murrayc.com  Mon May 29 03:58:41 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BE3EF3B0265
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:58:41 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 24570-09 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:58:39 -0400 (EDT)
+Received: from webmail2.sd.dreamhost.com (webmail2.sd.dreamhost.com
+	[66.33.201.157])
+	by menubar.gnome.org (Postfix) with ESMTP id 3BEA43B0453
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 03:58:39 -0400 (EDT)
+Received: from webmail.murrayc.com (localhost [127.0.0.1])
+	by webmail2.sd.dreamhost.com (Postfix) with ESMTP
+	id 403C0DC721; Mon, 29 May 2006 00:58:38 -0700 (PDT)
+Received: from 194.138.18.131 (proxying for unknown)
+	(SquirrelMail authenticated user murrayc@murrayc.com)
+	by webmail.murrayc.com with HTTP;
+	Mon, 29 May 2006 09:58:38 +0200 (CEST)
+Message-ID: <22790.194.138.18.131.1148889518.squirrel@webmail.murrayc.com>
+In-Reply-To: <1842071A-E464-45CF-AC2E-B9702590E07F@riverland.net.au>
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+	<57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+	<1842071A-E464-45CF-AC2E-B9702590E07F@riverland.net.au>
+Date: Mon, 29 May 2006 09:58:38 +0200 (CEST)
+Subject: Re: [gnome-women] What's the plan?
+From: "Murray Cumming" <murrayc@murrayc.com>
+To: "Clytie Siddall" <clytie@riverland.net.au>
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.553 tagged_above=-999 required=2 tests=[AWL=0.046, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.553
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 07:58:41 -0000
+
+
+>
+> On 29/05/2006, at 5:01 PM, Murray Cumming wrote:
+>
+>>>
+>>>>>   - How do we avoid this looking like a place for men to find
+>>>>> women?
+>>>>> Would a code of conduct help?
+>>>
+>>> YES. Plus a procedure for reporting and managing breaches of it.
+>>
+>> At the moment, I guess that a whole beaurocratic structure to handle
+>> problems would be hard to get going and would make this appear less
+>> attractive. Plus people would tend to leave all "enforcement" up to
+>> the
+>> beaurocracy instead of just saying "Hey, that's not good. It's really
+>> against our code of conduct".
+>>
+>> I think Ubuntu's code of conduct is successful because of the
+>> expectations
+>> that it creates rather than the organizational structure it creates. I
+>> would like GNOME's Code Of Conduct to be simpler.
+>
+> I don't mean anything heavy or detailed. But you do need somewhere to
+> start. If someone is threatened or hurt in some way, they need to
+> have some way to tell us about it.
+
+Yes, that makes sense.
+
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+
+From murrayc@murrayc.com  Mon May 29 05:29:21 2006
+Return-Path: <murrayc@murrayc.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 56BEA3B0850
+	for <gnome-women-list@gnome.org>; Mon, 29 May 2006 05:29:21 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30293-09 for <gnome-women-list@gnome.org>;
+	Mon, 29 May 2006 05:29:19 -0400 (EDT)
+Received: from webmail1.sd.dreamhost.com (webmail1.sd.dreamhost.com
+	[66.33.201.159])
+	by menubar.gnome.org (Postfix) with ESMTP id 701A83B0800
+	for <gnome-women-list@gnome.org>; Mon, 29 May 2006 05:29:19 -0400 (EDT)
+Received: from webmail.murrayc.com (localhost [127.0.0.1])
+	by webmail1.sd.dreamhost.com (Postfix) with ESMTP id A91402C6D5
+	for <gnome-women-list@gnome.org>; Mon, 29 May 2006 02:29:18 -0700 (PDT)
+Received: from 194.138.18.131 (proxying for unknown)
+	(SquirrelMail authenticated user murrayc@murrayc.com)
+	by webmail.murrayc.com with HTTP;
+	Mon, 29 May 2006 11:29:18 +0200 (CEST)
+Message-ID: <48678.194.138.18.131.1148894958.squirrel@webmail.murrayc.com>
+Date: Mon, 29 May 2006 11:29:18 +0200 (CEST)
+From: "Murray Cumming" <murrayc@murrayc.com>
+To: gnome-women-list@gnome.org
+User-Agent: SquirrelMail/1.4.6
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.553 tagged_above=-999 required=2 tests=[AWL=0.046, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.553
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Membership and Blogs
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 09:29:21 -0000
+
+I hope that all the women on this list are already members of the GNOME
+Foundation. If not, I encourage you to become members:
+http://foundation.gnome.org/membership/
+
+Also, planet.gnome.org is probably the most visible part of the GNOME
+community. If you contribute to GNOME at all and you have a blog, please
+do ask Jeff to add it to the planet.
+
+If you don't have a blog yet, you might want to get one at
+blogs.gnome.org. gnome-web-list@gnome.org is probably the best place to
+ask about getting a blogs.gnome.org blog, though I think Jonathan
+Blandford is the admin for the blogs.
+
+
+Murray Cumming
+murrayc@murrayc.com
+www.murrayc.com
+www.openismus.com
+
+
+From svaksha@gmail.com  Mon May 29 15:08:31 2006
+Return-Path: <svaksha@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B0EAB3B059D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 15:08:31 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 01009-01 for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 15:08:30 -0400 (EDT)
+Received: from ug-out-1314.google.com (ug-out-1314.google.com [66.249.92.171])
+	by menubar.gnome.org (Postfix) with ESMTP id 289213B043D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 15:08:30 -0400 (EDT)
+Received: by ug-out-1314.google.com with SMTP id h2so421727ugf
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 29 May 2006 12:08:29 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:to:subject:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=JPKE1hl9dFhT9LF/nN0GBXSF/WZ2zFxcTDXYl0DxIpj47hhej4DLJBIGtQZKw8eDkQc9aYGwAgBThqCTpLh+VG9FYqzUMcBBe/NezCzeddg06GQGTfNAH6bTwq5Q+Hhn/vNM2PIK13/Vz7WfwXeIZYu3UT5niK/yvzUjNzTa4Tk=
+Received: by 10.78.17.4 with SMTP id 4mr462607huq;
+	Mon, 29 May 2006 12:08:28 -0700 (PDT)
+Received: by 10.78.56.3 with HTTP; Mon, 29 May 2006 12:08:28 -0700 (PDT)
+Message-ID: <12470af00605291208l3e6003a7o2db18eb72d36e47d@mail.gmail.com>
+Date: Tue, 30 May 2006 01:08:28 +0600
+From: "Vid Ayer" <svaksha@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] What's the plan?
+In-Reply-To: <57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+References: <1147812955.30864.26.camel@localhost.localdomain>
+	<1148835275.5939.3.camel@localhost.localdomain>
+	<006FBB40-9CD9-4D7D-98B9-513AB5F72A82@riverland.net.au>
+	<57516.194.138.18.131.1148887890.squirrel@webmail.murrayc.com>
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.042 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, RCVD_IN_BL_SPAMCOP_NET=1.558, SPF_PASS=-0.001]
+X-Spam-Score: -1.042
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 29 May 2006 19:08:31 -0000
+
+Hi
+
+On 5/29/06, Murray Cumming <murrayc@murrayc.com> wrote:
+> > Potentially awkward. :(
+> >
+> > We need to make gender recording optional:
+>
+> Yes, that's the plan. I think it solves most potential controversy.
+>
+
+I would not like to specifically draw attention or tout my gender
+(which should not matter and nor is it a secret as such :-)) but it
+will be nicer if gender recording were optional.
+
+
+> > Good in general. We discussed this on Ubuntu-Women recently, and were
+> > concerned that anyone listed as a mentor is recommended personally as
+> > having the skills and attitude needed.
+
+Besides the technical expertise, a combination of patience and
+consideration for a new mentee helps greatly.
+
+
+> At the moment, I guess that a whole beaurocratic structure to handle
+> problems would be hard to get going and would make this appear less
+> attractive. Plus people would tend to leave all "enforcement" up to the
+> beaurocracy instead of just saying "Hey, that's not good. It's really
+> against our code of conduct".
+>
+> I think Ubuntu's code of conduct is successful because of the expectations
+> that it creates rather than the organizational structure it creates. I
+> would like GNOME's Code Of Conduct to be simpler.
+
+... there is a CC[0] with bi-weekly meetings[1] on IRC and people can
+also raise the issue privately[0]
+
+[0] http://www.ubuntu.com/community/processes/council
+[1] https://wiki.ubuntu.com/CommunityCouncilAgenda
+
+-- 
+Vid
+

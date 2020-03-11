@@ -1,0 +1,59 @@
+From alexis at eagles.ewu.edu  Wed Nov 19 03:55:17 2014
+From: alexis at eagles.ewu.edu (alexis gonzalez)
+Date: Wed, 19 Nov 2014 03:55:17 +0000
+Subject: [Women-of-openstack] Post to list
+Message-ID: <5EC5DD83-62EA-421C-B5E7-2692A8549B42@eagles.ewu.edu>
+
+
+alexis at eagles.ewu.edu
+~Alexis~
+
+
+From fatoumata.caba at numergy.com  Wed Nov 26 15:36:17 2014
+From: fatoumata.caba at numergy.com (Fatoumata Caba)
+Date: Wed, 26 Nov 2014 15:36:17 +0000
+Subject: [Women-of-openstack] Your confirmation is required to join the
+ Women-of-openstack mailing list
+In-Reply-To: <mailman.0.1417015883.27460.women-of-openstack@lists.openstack.org>
+References: <mailman.0.1417015883.27460.women-of-openstack@lists.openstack.org>
+Message-ID: <29fb5392df474099a0ca18931900f9d4@abv-excmb-0004p.NUMERGY.PRIV>
+
+confirm c1c2ce12c4dd780301fcbe9cf52c48649aa7e0ca
+
+Regards,
+
+Fatoumata CABA
+Network Product Owner
+M?: 06 26 91 52 36
+@?: fatoumata.caba at numergy.com
+
+Immeuble Mill?naire 5
+25 rue Madeleine Vionnet
+93300 Aubervilliers
+www.numergy.com
+
+Pensez ? l'environnement. N'imprimez ce courriel que si vous en avez vraiment besoin.
+
+
+-----Message d'origine-----
+De?: women-of-openstack-confirm+c1c2ce12c4dd780301fcbe9cf52c48649aa7e0ca at lists.openstack.org [mailto:women-of-openstack-confirm+c1c2ce12c4dd780301fcbe9cf52c48649aa7e0ca at lists.openstack.org] 
+Envoy??: mercredi 26 novembre 2014 16:31
+??: Fatoumata Caba
+Objet?: Your confirmation is required to join the Women-of-openstack mailing list
+
+Mailing list subscription confirmation notice for mailing list Women-of-openstack
+
+We have received a request from 62.23.54.234 for subscription of your email address, "fatoumata.caba at numergy.com", to the women-of-openstack at lists.openstack.org mailing list.  To confirm that you want to be added to this mailing list, simply reply to this message, keeping the Subject: header intact.  Or visit this web page:
+
+    http://lists.openstack.org/cgi-bin/mailman/confirm/women-of-openstack/c1c2ce12c4dd780301fcbe9cf52c48649aa7e0ca
+
+
+Or include the following line -- and only the following line -- in a message to women-of-openstack-request at lists.openstack.org:
+
+    confirm c1c2ce12c4dd780301fcbe9cf52c48649aa7e0ca
+
+Note that simply sending a `reply' to this message should work from most mail readers, since that usually leaves the Subject: line in the right form (additional "Re:" text in the Subject: is okay).
+
+If you do not wish to be subscribed to this list, please simply disregard this message.  If you think you are being maliciously subscribed to the list, or have any other questions, send them to women-of-openstack-owner at lists.openstack.org.
+
+

@@ -1,0 +1,76 @@
+From marinaz@redhat.com  Tue Feb 25 22:32:42 2014
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id E8FCB76D10;
+	Tue, 25 Feb 2014 22:32:41 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.903
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.903 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.001,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id rB6iH__V6x3B; Tue, 25 Feb 2014 22:32:40 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by restaurant.gnome.org (Postfix) with ESMTP id 97BFE76CB5;
+	Tue, 25 Feb 2014 22:32:21 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id s1PMWK75032563;
+	Tue, 25 Feb 2014 17:32:20 -0500
+Date: Tue, 25 Feb 2014 17:32:20 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: foundation-list <foundation-list@gnome.org>,
+	desktop-devel-list <desktop-devel-list@gnome.org>,
+	gnome-soc-list <gnome-soc-list@gnome.org>,
+	gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <371958033.5924584.1393367540071.JavaMail.zimbra@redhat.com>
+In-Reply-To: <939324259.5908950.1393365629995.JavaMail.zimbra@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.82.11]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - FF23 (Linux)/8.0.6_GA_5922)
+Thread-Topic: GSoC and OPW are ON!
+Thread-Index: Z9pcq3auY9YUWpGH5PyZbnVzN1t6cw==
+Cc: opw-admins <opw-admins@gnome.org>,
+	women-outreach <women-outreach@gnome.org>,
+	soc-mentors-list <soc-mentors-list@gnome.org>
+Subject: [gnome-women] GSoC and OPW are ON!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 25 Feb 2014 22:32:42 -0000
+
+Hi all,
+
+GNOME was accepted for GSoC and we are organizing OPW! \\o//
+
+Thanks to so many mentors who've already listed project ideas. It's not too late to add more coding ideas, which are shared between GSoC and OPW [1]. Also, please add your non-coding ideas for OPW [2].
+
+In the next 3 weeks, prospective applicants are asked to work with mentors on making relevant contributions and putting together a project proposal [3] [4].
+
+Everyone, please help us spread the word about both opportunities by encouraging people personally to apply, posting on social networks, sending the information to the university departments and technology groups, and posting the flyers on university campuses or handing them out at conferences. Sample e-mail, sample social network updates, and flyers are available on the spread the word page [5].
+
+Thanks,
+Marina
+
+[1] https://wiki.gnome.org/Outreach/SummerOfCode/2014/Ideas
+[2] https://wiki.gnome.org/GnomeWomen/OutreachProgram/2014/MayAugust
+[3] https://wiki.gnome.org/Outreach/SummerOfCode/Students
+[4] https://wiki.gnome.org/OutreachProgramForWomen#Application_Process
+[5] https://wiki.gnome.org/OutreachProgramForWomen/2014/MayAugust/SpreadTheWord

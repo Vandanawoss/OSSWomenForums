@@ -1,0 +1,191 @@
+From jonas@mail.coyote.org  Wed May 13 07:13:02 2009
+Return-Path: <jonas@mail.coyote.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D4A5D750080
+	for <gnome-women-list@gnome.org>; Wed, 13 May 2009 07:13:02 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 3) (up: 2727 hrs), (distance 21,
+	link: ethernet/modem), [92.243.4.174]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZCkztzRQ9wRY for <gnome-women-list@gnome.org>;
+	Wed, 13 May 2009 07:12:54 +0000 (GMT)
+Received: from mail.coyote.org (belar.coyote.org [92.243.4.174])
+	by menubar.gnome.org (Postfix) with ESMTP id C388675007D
+	for <gnome-women-list@gnome.org>; Wed, 13 May 2009 07:12:45 +0000 (GMT)
+Received: from dhcp-251-88.nomad.chalmers.se ([129.16.251.88]
+	helo=vella.selfip.org)
+	by mail.coyote.org with esmtpsa (TLS1.0:DHE_RSA_AES_128_CBC_SHA1:16)
+	(Exim 4.69) (envelope-from <jonas@mail.coyote.org>)
+	id 1M48dt-0006Hq-U4; Wed, 13 May 2009 09:12:42 +0200
+From: Jonas =?ISO-8859-1?Q?=D6berg?= <jonas@fsfe.org>
+To: gnome-women-list@gnome.org
+Message-ID: <20090513091243.72811bb5@vella.selfip.org>
+X-Mailer: Claws Mail 3.7.1 (GTK+ 2.14.7; x86_64-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Sender: jonas@mail.coyote.org
+X-Mailman-Approved-At: Tue, 15 Sep 2009 15:41:34 +0000
+Subject: [gnome-women] Call for Participation in FSCONS 2009
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+Date: Wed, 13 May 2009 07:13:03 -0000
+X-Original-Date: Wed, 13 May 2009 09:12:43 +0200
+X-List-Received-Date: Wed, 13 May 2009 07:13:03 -0000
+
+Dear all,
+
+please find below the call for participation in this years Free Society
+Conference and Nordic Summit, taking place for the third year in the
+row in Gothenburg, Sweden the 13-15th of November 2009. We've
+traditionally had quite a few interesting talks on GNOME and related
+subjects, and would be more than happy to have such this year as well,
+as well as talks on the subjects listed in the call. I hope that this
+would be interesting to all of you, and would welcome your
+participation!
+
+
+
+
+                Call for Participation
+
+       Free Society Conference and Nordic Summit
+       Gothenburg, Sweden, 13-15th November 2009
+
+                http://www.fscons.org/
+
+  Introduction
+
+The Free Society Conference and Nordic Summit (FSCONS) is a meeting
+place for social change, focused on the future of free software and
+free society. The growing speed of new and innovative changes taking
+place within digital culture, as well as the pressing need for members
+of a marginalised society to gain access to important and updated
+information without financial or governmental barriers, means that the
+2009 FSCONS will deal with an array of hot topics.
+
+Open discussion and brainstorming are two of the primary factors that
+pave the way for change. The conference seeks to engage, inform and
+motivate social change through these discussions. The essential goal
+of FSCONS is expansion: expanding the accessability of digital and
+technological information to everyone in the world; expanding the
+interest and promotion of free culture and free software; expanding
+the opportunities for all interested parties from around the globe to
+engage with others in hopes of changing the future of digital culture.
+
+   Participation
+
+For this years conference we're looking for talks on a number of
+different issues or projects (both full-length and lightning talks),
+but we're also looking specifically for workshops to be held during
+the conference, or in the week before as pre-conference
+activities. All proposals that are submitted will be reviewed by
+members of the community before the programme committee makes the
+final decisions regarding what proposals to accept into the programme.
+
+In order to submit your proposal, please go to FSCONS 2009 Submit
+Proposal at http://submit.fscons.org/proposal This form is to be used
+for your own submissions. If you have ideas of other people you want
+to listen to, please feel free to suggest those in the FSCONS 2009
+Wiki at http://wiki.fscons.org/. When you fill out the form, we would
+like to ask you to provide the following information. Please keep in
+mind that the title and summary may be read by community
+reviewers. When deciding on the appropriate timeslot, please calculate
+about five minutes for questions and answers by the audience, as well
+as five minutes for changeover. For example, a 45 minute talk will be
+35 minutes of presentation, five minutes for questions and five
+minutes for switching to the next speaker.
+
+    * Author name(s)
+    * Contact Information
+    * Participation type (Talk, Workshop or Other)
+    * Preferred timeslot (10, 30, 45 or 90 minutes, or other time)
+    * Title of proposal
+    * Summary of proposal
+    * Intended audience=20
+
+For workshops, we are flexible when it comes to scheduling it and you
+can give suggestions for this in the summary. Participants will be
+able to register for the workshops when registering for the
+conference, and the number of participants in each workshop will be
+limited to the capacity of the rooms.
+
+   Important dates
+
+The deadline for submissions is the 21st of June 2009. Accepted
+proposals will be notified as soon as possible after that date, but at
+the latest on the 26th of July 2009.
+
+If your proposal for a talk is accepted, we would like to ask you to
+submit your full presentation in PDF format at latest one week before
+the conference. If your presentation will include audio or video
+material, we would prefer to receive those in Ogg Theora and Ogg
+Vorbis formats, so that we can make sure that they can be played
+during the presentation. We understand that not all would be able to
+give their presentation as PDF, or have other technical requirements
+that needs to be addressed. Please note those in your proposal, so
+that they can be taken into consideration when planning your session.
+
+    Topics
+
+We're looking for topics that relate to Free Society or Free Software
+generally, as well as those which are at the crossroads of the two or
+which take the philosophy of Free Society and Free Software and brings
+them to a whole new field. It's impossible to list all possible
+topics, but to give you some ideas of what kind of topics that those
+attending the conference previous years would have liked to see more
+of, as well as those suggested for this year, here's a sample of
+potential topics:
+
+    * Social and Societal
+          o Networking culture and collaborative development
+          o Free Culture in Art
+          o Journalism in a Free Society
+          o Women in Free Culture and Free Software
+          o New Perspectives on Innovation
+          o Economics of Free Software and Free Culture
+          o Free Software in Schools and Government
+          o Free Culture and Free Software in Developing Countries
+          o Open Standards=20
+    * Technical
+          o P2P and Filesharing Technologies
+          o Blacknets and Darknets
+          o Linux kernel development
+          o Any Free Software Project
+          o Open Hardware
+          o Digital Security
+          o Usability of Free Software=20
+    * Legal issues of Free Software and Free Culture
+          o Freedom of Speech and the Internet
+          o Digital Rights on a Digital Frontier
+          o Censorship online
+          o Fair and Equal Treatment in Public Procurement
+          o IPRED, ACTA and other laws and legal instruments
+          o Licensing culture and software
+          o Patents
+          o Anonymity on the Internet=20
+
+
+
+
+--=20
+Jonas =D6berg
+F=F6reningen fri kultur & programvara

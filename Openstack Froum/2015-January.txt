@@ -1,0 +1,549 @@
+From claire at openstack.org  Wed Jan  7 21:54:01 2015
+From: claire at openstack.org (Claire Massey)
+Date: Wed, 7 Jan 2015 15:54:01 -0600
+Subject: [Women-of-openstack] Call for Speakers - Vancouver OpenStack Summit
+Message-ID: <D0984BB6-0417-450C-985E-AA44E31B7607@openstack.org>
+
+Hi everyone,
+
+The Call for Speakers is now open for the May 2014 OpenStack Summit in Vancouver.
+
+We encourage you all to submit talks!
+
+Submit talks HERE: https://www.openstack.org/summit/vancouver-2015/call-for-speakers <https://www.openstack.org/summit/vancouver-2015/call-for-speakers>.
+Hurry - February 9 is the deadline.
+
+Also, don?t miss this informative webinar hosted by your fellow Women of OpenStack - Anne Gentle, Niki Acosta and Diane Mueller.
+ * Designing an OpenStack Summit Session Submission for Success
+ * Thursday, January 15 at 11:00am CST
+ * Register HERE: http://openstack.enterthemeeting.com/m/KCWPKB2X
+
+Please continue to stay tuned to openstack.org/summit <http://openstack.org/summit> for updates and additional info.
+
+Cheers,
+Claire
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150107/f85660f3/attachment.html>
+
+From jessicak at us.ibm.com  Thu Jan  8 23:43:15 2015
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 8 Jan 2015 18:43:15 -0500
+Subject: [Women-of-openstack] Women of OpenStack - Paris blueprint session
+	update
+Message-ID: <OF0CFC9F86.3249C2A6-ON87257DC7.00819983-85257DC7.00824F7B@us.ibm.com>
+
+
+
+Happy New Year! I'd like to thank everyone who was able to participate in
+our Women of OpenStack blueprint session in Paris and share with the
+broader group the progress we've made the past few months since the summit
+-->
+http://www.openstack.org/blog/2015/01/women-of-openstack-working-session-update
+
+
+Let's keep the conversation going ....
+
+Jessica Murillo
+Vice President, Strategy and Cloud
+IBM Systems
+Mobile Phone: 512-970-8466	jessicak at us.ibm.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150108/1cc9ddee/attachment.html>
+
+From nikacost at cisco.com  Tue Jan 13 21:40:00 2015
+From: nikacost at cisco.com (Niki Acosta (nikacost))
+Date: Tue, 13 Jan 2015 21:40:00 +0000
+Subject: [Women-of-openstack] Important Reminders and Deadlines!!!
+Message-ID: <D0DAD0B0.5B5C%nikacost@cisco.com>
+
+Hello lovely Women of OpenStack! Tis the season for submissions, voting, and for a special webinar to help you get ready to submit your CFP for the Vancouver Summit! We REALLY REALLY REALLY want to see more women speakers in Vancouver! See below for registration details for the webinar this Thursday!
+
+The call for speakers for Vancouver is open now! Submit your sessions, hands-on labs, and panels before the deadline on Monday, February 9th:
+http://www.openstack.org/election/2015-individual-director-election/
+
+Need help with writing your proposal or submission? Join myself, Anne Gentle, and Diane Mueller for a webinar this Thursday, January 15th at 9am Pacific! This is a free webinar sponsored by the Women of OpenStack!
+http://openstack.enterthemeeting.com/m/KCWPKB2X
+
+The Board of Directors Election is open for voting. Sign into your OpenStack profile to vote if you can?t find the email on or before January 16th!
+http://www.openstack.org/election/2015-individual-director-election/
+
+<3,
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150113/c3cccabf/attachment.html>
+
+From bfcohen at luthcomputer.com  Sun Jan 18 23:38:22 2015
+From: bfcohen at luthcomputer.com (Beth Cohen)
+Date: Sun, 18 Jan 2015 18:38:22 -0500
+Subject: [Women-of-openstack] =?utf-8?q?Posted_Women_of_OpenStack_?=
+ =?utf-8?q?=E2=80=93_Standing_Tall_in_the_Room_Panel?=
+In-Reply-To: <D0DAD0B0.5B5C%nikacost@cisco.com>
+References: <D0DAD0B0.5B5C%nikacost@cisco.com>
+Message-ID: <54BC43EE.6080704@luthcomputer.com>
+
+Folks-
+Thank you Diane, Nikki and Anne for a great Webinar on how to post a 
+proposal.  I have put in a proposal (see below for the text), but I need 
+two more people on the panel to round it out.  Please send me the email 
+address you used for your membership so I can add you to the panel if 
+you are interested.   I am also interested in creating a more technical 
+panel on possibly how to contribute when working in distributed and 
+remote teams.  If any one is interested in that, again drop me a note.
+
+*Women of OpenStack ? Standing Tall in the Room*
+
+In just two amazing years, the Women of Openstack Group grew from a 
+breakfast in Portland to an active working part of the OpenStack 
+Community.Following an incredible IBM sponsored gathering at the 
+beautiful ESPACE 56 in Paris the group held several productive working 
+sessions on what to do next.There was agreement all around that it is 
+important to encourage and promote more contributions to the Openstack 
+project.This workshop is designed not only for women, but for any member 
+of the OpenStack community who feels they need a bit of coaching in how 
+to gain the confidence to contribute to our amazing and diverse 
+community.Join this panel of empowered women as we cover some of the 
+tips and tricks for getting heard in an environment filled with many 
+egos and opinions. Learn how to navigate the differences between:
+
+?Empowerment, not pushiness
+
+?Confidence not brashness
+
+?Technical prowess not just nerdiness
+
+?Being heard when people are not listening
+
+?Contributions, not bluster
+
+
+
+
+On 1/13/2015 4:40 PM, Niki Acosta (nikacost) wrote:
+> Hello lovely Women of OpenStack! Tis the season for submissions, 
+> voting, and for a special webinar to help you get ready to submit your 
+> CFP for the Vancouver Summit! We REALLY REALLY REALLY want to see more 
+> women speakers in Vancouver! See below for registration details for 
+> the webinar this Thursday!
+>
+> The call for speakers for Vancouver is open now! Submit your sessions, 
+> hands-on labs, and panels before the deadline on Monday, *February 9th*:
+> http://www.openstack.org/election/2015-individual-director-election/
+>
+
+-- 
+_____________________________________________________________________
+
+Beth Cohen	
+Luth Computer Specialists, Inc.
+www.luthcomputer.com
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150118/9b26d73b/attachment-0001.html>
+
+From colleen at puppetlabs.com  Tue Jan 20 23:54:19 2015
+From: colleen at puppetlabs.com (Colleen Murphy)
+Date: Tue, 20 Jan 2015 15:54:19 -0800
+Subject: [Women-of-openstack] Important Reminders and Deadlines!!!
+In-Reply-To: <D0DAD0B0.5B5C%nikacost@cisco.com>
+References: <D0DAD0B0.5B5C%nikacost@cisco.com>
+Message-ID: <CAMifxyJZUUSZcYEOZBxiu3863+DNsm5OCmDSJsE6yrmdAVUt6g@mail.gmail.com>
+
+I was, very disappointingly, absent from the webinar due to a rough-start
+type of morning. Are there notes, slides, or a recording that could be made
+available?
+
+Thank you,
+Colleen Murphy
+
+On Tue, Jan 13, 2015 at 1:40 PM, Niki Acosta (nikacost) <nikacost at cisco.com>
+wrote:
+
+>  Hello lovely Women of OpenStack! Tis the season for submissions, voting,
+> and for a special webinar to help you get ready to submit your CFP for the
+> Vancouver Summit! We REALLY REALLY REALLY want to see more women speakers
+> in Vancouver! See below for registration details for the webinar this
+> Thursday!
+>
+>  The call for speakers for Vancouver is open now! Submit your sessions,
+> hands-on labs, and panels before the deadline on Monday, *February 9th*:
+> http://www.openstack.org/election/2015-individual-director-election/
+>
+>  *Need help with writing your proposal or submission? Join myself, Anne
+> Gentle, and Diane Mueller for a webinar this Thursday, January 15th at 9am
+> Pacific! This is a free webinar sponsored by the Women of OpenStack! *
+> http://openstack.enterthemeeting.com/m/KCWPKB2X
+>
+>  The Board of Directors Election is open for voting. Sign into your
+> OpenStack profile to vote if you can?t find the email on or before *January
+> 16th! *
+> http://www.openstack.org/election/2015-individual-director-election/
+>
+>  <3,
+>
+> *Niki Acosta*
+> Cloud Evangelist
+> Cisco.com <http://www.cisco.com/>
+> nikacost at cisco.com
+> Phone: *+1 512-912-6716 <%2B1%20512-912-6716>*
+>
+>
+>      <http://www.twitter.com/nikiacosta>          Think before you print.
+>
+> This email may contain confidential and privileged material for the sole
+> use of the intended recipient. Any review, use, distribution or disclosure
+> by others is strictly prohibited. If you are not the intended recipient (or
+> authorized to receive for the recipient), please contact the sender by
+> reply email and delete all copies of this message.
+>
+> Please click here
+> <http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for
+> Company Registration Information.
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150120/82c489d1/attachment.html>
+
+From rainya.mosher at gmail.com  Wed Jan 21 02:12:57 2015
+From: rainya.mosher at gmail.com (Rainya Mosher)
+Date: Tue, 20 Jan 2015 20:12:57 -0600
+Subject: [Women-of-openstack] Important Reminders and Deadlines!!!
+In-Reply-To: <CAMifxyJZUUSZcYEOZBxiu3863+DNsm5OCmDSJsE6yrmdAVUt6g@mail.gmail.com>
+References: <D0DAD0B0.5B5C%nikacost@cisco.com>
+ <CAMifxyJZUUSZcYEOZBxiu3863+DNsm5OCmDSJsE6yrmdAVUt6g@mail.gmail.com>
+Message-ID: <CAPGMpJkF5RRc1ZT67AoLbNQVjysrkhRO+s08rkBKtnd9BV8P+Q@mail.gmail.com>
+
+Colleen,
+
+@Openstack tweeted the YouTube link earlier this week when I asked the same
+question. Woot!
+
+https://twitter.com/openstack/status/556985350946430976
+
+Rainya
+
+On Tuesday, January 20, 2015, Colleen Murphy <colleen at puppetlabs.com> wrote:
+
+> I was, very disappointingly, absent from the webinar due to a rough-start
+> type of morning. Are there notes, slides, or a recording that could be made
+> available?
+>
+> Thank you,
+> Colleen Murphy
+>
+> On Tue, Jan 13, 2015 at 1:40 PM, Niki Acosta (nikacost) <
+> nikacost at cisco.com <javascript:_e(%7B%7D,'cvml','nikacost at cisco.com');>>
+> wrote:
+>
+>>  Hello lovely Women of OpenStack! Tis the season for submissions,
+>> voting, and for a special webinar to help you get ready to submit your CFP
+>> for the Vancouver Summit! We REALLY REALLY REALLY want to see more women
+>> speakers in Vancouver! See below for registration details for the webinar
+>> this Thursday!
+>>
+>>  The call for speakers for Vancouver is open now! Submit your sessions,
+>> hands-on labs, and panels before the deadline on Monday, *February 9th*:
+>> http://www.openstack.org/election/2015-individual-director-election/
+>>
+>>  *Need help with writing your proposal or submission? Join myself, Anne
+>> Gentle, and Diane Mueller for a webinar this Thursday, January 15th at 9am
+>> Pacific! This is a free webinar sponsored by the Women of OpenStack! *
+>> http://openstack.enterthemeeting.com/m/KCWPKB2X
+>>
+>>  The Board of Directors Election is open for voting. Sign into your
+>> OpenStack profile to vote if you can?t find the email on or before *January
+>> 16th! *
+>> http://www.openstack.org/election/2015-individual-director-election/
+>>
+>>  <3,
+>>
+>> *Niki Acosta*
+>> Cloud Evangelist
+>> Cisco.com <http://www.cisco.com/>
+>> nikacost at cisco.com <javascript:_e(%7B%7D,'cvml','nikacost at cisco.com');>
+>> Phone: *+1 512-912-6716 <%2B1%20512-912-6716>*
+>>
+>>
+>>      <http://www.twitter.com/nikiacosta>          Think before you print.
+>>
+>> This email may contain confidential and privileged material for the sole
+>> use of the intended recipient. Any review, use, distribution or disclosure
+>> by others is strictly prohibited. If you are not the intended recipient (or
+>> authorized to receive for the recipient), please contact the sender by
+>> reply email and delete all copies of this message.
+>>
+>> Please click here
+>> <http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for
+>> Company Registration Information.
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> <javascript:_e(%7B%7D,'cvml','Women-of-openstack at lists.openstack.org');>
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>
+
+-- 
+Rainya
+210.316.5065
+Sent from Gmail Mobile
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150120/9ff71fa6/attachment.html>
+
+From colleen at puppetlabs.com  Wed Jan 21 18:46:17 2015
+From: colleen at puppetlabs.com (Colleen Murphy)
+Date: Wed, 21 Jan 2015 10:46:17 -0800
+Subject: [Women-of-openstack] Important Reminders and Deadlines!!!
+In-Reply-To: <CAPGMpJkF5RRc1ZT67AoLbNQVjysrkhRO+s08rkBKtnd9BV8P+Q@mail.gmail.com>
+References: <D0DAD0B0.5B5C%nikacost@cisco.com>
+ <CAMifxyJZUUSZcYEOZBxiu3863+DNsm5OCmDSJsE6yrmdAVUt6g@mail.gmail.com>
+ <CAPGMpJkF5RRc1ZT67AoLbNQVjysrkhRO+s08rkBKtnd9BV8P+Q@mail.gmail.com>
+Message-ID: <CAMifxyKagnOrp=DYN6eM0zd_QWefvpyFcOrXnyxei-frnAgUWg@mail.gmail.com>
+
+Thanks Rainya!
+
+Colleen
+
+On Tue, Jan 20, 2015 at 6:12 PM, Rainya Mosher <rainya.mosher at gmail.com>
+wrote:
+
+>
+> Colleen,
+>
+> @Openstack tweeted the YouTube link earlier this week when I asked the
+> same question. Woot!
+>
+> https://twitter.com/openstack/status/556985350946430976
+>
+> Rainya
+>
+>
+> On Tuesday, January 20, 2015, Colleen Murphy <colleen at puppetlabs.com>
+> wrote:
+>
+>> I was, very disappointingly, absent from the webinar due to a rough-start
+>> type of morning. Are there notes, slides, or a recording that could be made
+>> available?
+>>
+>> Thank you,
+>> Colleen Murphy
+>>
+>> On Tue, Jan 13, 2015 at 1:40 PM, Niki Acosta (nikacost) <
+>> nikacost at cisco.com> wrote:
+>>
+>>>  Hello lovely Women of OpenStack! Tis the season for submissions,
+>>> voting, and for a special webinar to help you get ready to submit your CFP
+>>> for the Vancouver Summit! We REALLY REALLY REALLY want to see more women
+>>> speakers in Vancouver! See below for registration details for the webinar
+>>> this Thursday!
+>>>
+>>>  The call for speakers for Vancouver is open now! Submit your sessions,
+>>> hands-on labs, and panels before the deadline on Monday, *February 9th*:
+>>> http://www.openstack.org/election/2015-individual-director-election/
+>>>
+>>>  *Need help with writing your proposal or submission? Join myself, Anne
+>>> Gentle, and Diane Mueller for a webinar this Thursday, January 15th at 9am
+>>> Pacific! This is a free webinar sponsored by the Women of OpenStack! *
+>>> http://openstack.enterthemeeting.com/m/KCWPKB2X
+>>>
+>>>  The Board of Directors Election is open for voting. Sign into your
+>>> OpenStack profile to vote if you can?t find the email on or before *January
+>>> 16th! *
+>>> http://www.openstack.org/election/2015-individual-director-election/
+>>>
+>>>  <3,
+>>>
+>>> *Niki Acosta*
+>>> Cloud Evangelist
+>>> Cisco.com <http://www.cisco.com/>
+>>> nikacost at cisco.com
+>>> Phone: *+1 512-912-6716 <%2B1%20512-912-6716>*
+>>>
+>>>
+>>>      <http://www.twitter.com/nikiacosta>          Think before you
+>>> print.
+>>>
+>>> This email may contain confidential and privileged material for the sole
+>>> use of the intended recipient. Any review, use, distribution or disclosure
+>>> by others is strictly prohibited. If you are not the intended recipient (or
+>>> authorized to receive for the recipient), please contact the sender by
+>>> reply email and delete all copies of this message.
+>>>
+>>> Please click here
+>>> <http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for
+>>> Company Registration Information.
+>>>
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>
+>>>
+>>
+>
+> --
+> Rainya
+> 210.316.5065
+> Sent from Gmail Mobile
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150121/73215cef/attachment.html>
+
+From jessicak at us.ibm.com  Thu Jan 29 21:34:56 2015
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 29 Jan 2015 15:34:56 -0600
+Subject: [Women-of-openstack] Call to Action: Feb 9 Deadline for Vancouver
+	OpenStack Summit speakers
+Message-ID: <OF171B3C79.EEB7A73D-ON87257DDC.00737E66-06257DDC.00769025@us.ibm.com>
+
+
+
+February 9 is the deadline for submitting your talk proposal for the May
+2015 OpenStack Summit in Vancouver. If you haven't submitted a proposal
+yet, here is an excellent article describing how you can get started today:
+http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal
+
+I encourage you to use the Women of OpenStack mailing list if you:
+ ... have questions on how to submit your proposal
+... are looking for co-presenters
+... want some quick feedback (thumbs up/thumbs down) on your idea
+
+Looking forward to the conversation ...
+
+Jessica Murillo
+Vice President, Strategy and Cloud
+IBM Systems
+Office Phone: 512-286-7691, T/L: 363-7691
+Mobile Phone: 512-970-8466
+jessicak at us.ibm.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150129/1df08190/attachment.html>
+
+From rainya.mosher at gmail.com  Thu Jan 29 22:06:45 2015
+From: rainya.mosher at gmail.com (Rainya Mosher)
+Date: Thu, 29 Jan 2015 16:06:45 -0600
+Subject: [Women-of-openstack] Call to Action: Feb 9 Deadline for
+ Vancouver OpenStack Summit speakers
+In-Reply-To: <OF171B3C79.EEB7A73D-ON87257DDC.00737E66-06257DDC.00769025@us.ibm.com>
+References: <OF171B3C79.EEB7A73D-ON87257DDC.00737E66-06257DDC.00769025@us.ibm.com>
+Message-ID: <CAPGMpJ=_0zCBbU4TLZAdvNxH29NokiUmKpAkNGkiPoUZOHAovg@mail.gmail.com>
+
+Thank you for the encouragement, Jessica! Next week I'm going heads down
+for proposal writing for my own and some co-workers talks. I have a good
+track record and getting acceptance (so far!), so I'm happy to read and
+offer feedback to anyone who wants it. I'm sure there are others who feel
+the same way and would love to help however we can.
+
+Cheers and have a great Thursday,
+
+
+
+Rainya
+210.316.5065
+*Not all of us can save the world. Some of us have to make it worth saving.
+- RFM*
+
+On Thu, Jan 29, 2015 at 3:34 PM, Jessica Murillo <jessicak at us.ibm.com>
+wrote:
+
+> February 9 is the deadline for submitting your talk proposal for the May
+> 2015 OpenStack Summit in Vancouver. If you haven't submitted a proposal
+> yet, here is an excellent article describing how you can get started today:
+> http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal
+>
+> I encourage you to use the Women of OpenStack mailing list if you:
+>  ... have questions on how to submit your proposal
+> ... are looking for co-presenters
+> ... want some quick feedback (thumbs up/thumbs down) on your idea
+>
+> Looking forward to the conversation ...
+>
+> Jessica Murillo
+> Vice President, Strategy and Cloud
+> IBM Systems
+> Office Phone: 512-286-7691, T/L: 363-7691
+> Mobile Phone: 512-970-8466
+> jessicak at us.ibm.com
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150129/fc63ca98/attachment.html>
+
+From jeanne.colon-bonet at hp.com  Thu Jan 29 22:47:06 2015
+From: jeanne.colon-bonet at hp.com (Colon-Bonet, Jeanne)
+Date: Thu, 29 Jan 2015 22:47:06 +0000
+Subject: [Women-of-openstack] OpenStack Summit - panel opportunity for event
+	mangers
+Message-ID: <40C0F0AB86AB6545A465ABE578B8D83A07C39100@G6W2504.americas.hpqcorp.net>
+
+Hello WOO!
+
+I have a panel proposal.  Please read the abstract below and let me know if you are interested.  It is still a little wordy but I intend to cut it down and modify it for the panel representatives.  I?d be open to any of your colleagues who may be interested in sharing community event experiences and techniques.  Do you know someone who throws these OpenStack parties like me?  Please feel free to forward?
+
+I  would also appreciate feedback on the proposal.
+
+I look forward to hearing back from you!
+Thanks, Jeanne.
+
+When you host your next community event you will be glad you attended this session.
+
+Imagine your team asks you to host a meetup or even better a mid-cycle meetup.  What is the first panicked thought that comes to your mind?  Is it the venue, cost, attendees, transportation, entertainment, wifi, food, drinks!?  You take a deep breath, you can handle this. Now imagine you are to host an OpenStack Summit event for the entire Summit, in Paris.  You might experience event management stress disorder as you consider foreign culture, language, currency, environment, cuisine!? The deep breaths aren?t helping with your hysteria. You know all issues associated with the event will be tied directly to you, this is a big deal, there?s a lot riding on this, there?s a lot riding on you. Keep breathing, the world isn?t coming to an end.  The creators of the Pavillons de Bercy event in Paris present an OpenStack event playbook.
+
+From this session you will know how to select a venue and vendors, balance your budget (even if it is zero), exceed attendee expectations and gain knowledge of community event culture.  You will have processes, tools and resources that guide you to success without panic.  We will explore the best practices of initiation, planning, execution and closure related to the high pressures of organizing a superb event, whether it?s pizza and beer for 15 or the entire OpenStack Summit.  You will hear funny anecdotes and recommendations from your industry peers to assure your next event is unforgettable in the best way possible.
+
+So friends, geeks, event planners, lend me your ears, for whether thou art a seasoned coordinator of events or a fresh face that hath only just cast thine eyes upon this world of management, all will learn from these words.  OpenStack parties have a competitive environment and although this competition is the fire at our heels keeping us up to snuff, we can simultaneously have a collaborative strategy ensuring unique attendee experiences at every Summit.  We will discuss new strategies for event collaboration based on challenges we all experience. Through this, new ideas will be conjured from the primordial goo that?s left in our brains, ideas we can use in future Summits.
+
+Our open source environment encourages us to reach out as a community and meet up close and personal, face-to-face, eye to eye, heart to heart? okay maybe not that close.  In this culture you can be a leader by gaining the knowledge that gives you identity. You can go to your next community gathering riding upon a golden chariot of confidence, glimmering in the light of genius emanating off of you.  As you step down, doves will soar out from behind you as your events coordinator garb radiates pure power from within. When that day comes, it will be everyone else struggling to breathe.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150129/d57c1e13/attachment.html>
+

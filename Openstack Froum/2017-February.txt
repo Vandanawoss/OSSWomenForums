@@ -1,0 +1,2787 @@
+From erin at openstack.org  Wed Feb  1 19:38:52 2017
+From: erin at openstack.org (Erin Disney)
+Date: Wed, 1 Feb 2017 11:38:52 -0800
+Subject: [Women-of-openstack] OpenStack Summit Boston-CFP closes February 6th
+Message-ID: <E41F8742-51F8-486B-95C1-1F9EBF05C9CE@openstack.org>
+
+Hi Everyone-
+
+Don?t forget: the Call for Presentations for the upcoming OpenStack Summit Boston closes next week! 
+
+The submission deadline is February 6, 2017 at 11:59PM PDT (February 7, 2017 at 6:59 UTC). 
+
+A huge thanks to everyone that volunteered to be track chairs or nominated colleagues, we had a great WOO turn out this cycle. Submitting to the CFP <https://www.openstack.org/summit/boston-2017/call-for-presentations/> is another great way to get involved in the Summit, so be sure to get those proposals in! 
+
+Reminder: Proposed sessions must indicate a format: Panel, presentation or lightning talk. Each format has a maximum number of speakers associated. Panels are allowed a total of four speakers plus one moderator, whereas presentations and lightning talks are limited to three speakers. 
+
+As a reminder, speakers are limited to a maximum of three submissions total. 
+
+Contact speakersupport at openstack.org <mailto:speakersupport at openstack.org> with any submission questions. 
+
+BOSTON REGISTRATION 
+Attendee registration is now open <https://openstacksummit2017boston.eventbrite.com/>. Purchase your discounted early bird passes now. Prices will increase in mid March. 
+
+SPONSORSHIP SALES
+Summit sponsorship sales are also open. You can now sign the electronic contract here <https://openstack.na1.echosign.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDVm3Ed5_hJ8h7eWGpho7zDrpgXwAGfEEgX-Uq3eziXrwvH8sSfL7DjRiTxEp7zKsU*>. If you plan to sponsor both 2017 OpenStack Summits (Boston in May & Sydney in November), then check out page 4 of the Boston Summit Sponsorship Prospectus <https://www.openstack.org/assets/boston-summit/Boston-Sponsorship-Prospectus.pdf> for a special 15% discount on Sydney Summit sponsorship packages. Please note this only applies to companies who sponsor both the Boston Summit and Sydney Summit. Full details of the sponsorship signing process are outlined here <https://www.openstack.org/summit/boston-2017/sponsors/>. 
+
+If you have any general Summit questions, contact us at summit at openstack.org <mailto:summit at openstack.org>. 
+
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170201/065d3bcd/attachment.html>
+
+From amy at demarco.com  Wed Feb  1 21:21:43 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 1 Feb 2017 15:21:43 -0600
+Subject: [Women-of-openstack] COA related panel for Summit
+Message-ID: <CAFs83Qpj4G75QF+JP1ktSwzV-9eXRqHEdGQ0=tCSi1BoToLG9g@mail.gmail.com>
+
+Hey all,
+
+I've got a presentation all ready to go but I'm looking for panelists, or
+at least 1 for submittal! As I know most Devs and Ops most likely don't
+know yet if they'll be going to Boston I'm looking for a hiring manager who
+might have used or might be likely to use whether the person has passed the
+Certified OpenStack Administrator exam as a reason for setting up an
+interview or even hired someone! If this sounds like you, or you're an Ops
+or Dev who has passed the COA and know you will be in Boston and are
+interested in participating let me know!
+
+Here is the presentation write-up:
+
+At the Austin Summit, the OpenStack Foundation officially introduced the
+Certified OpenStack Administrator exam. In the almost 10 months since it's
+release approximately 700 people have taken the exam. This panel would like
+to present reasons why you should take the exam and what benefits the exam
+could have for you. The panel will be made up of a hiring manager, an Ops
+and a Dev to give attendees a more rounded view of the exam.
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170201/d714f551/attachment.html>
+
+From nicole.k.rutherford at intel.com  Wed Feb  1 22:24:32 2017
+From: nicole.k.rutherford at intel.com (Rutherford, Nicole K)
+Date: Wed, 1 Feb 2017 22:24:32 +0000
+Subject: [Women-of-openstack] Speakers for Diversity Session @ OpenStack
+	Summit Boston
+Message-ID: <7BDB8AF77E41744CAF5C8D115B01DDDB98C5CDD6@ORSMSX103.amr.corp.intel.com>
+
+Team,
+
+The TED-style, diversity-focused session at the Barcelona summit was well received-attendees expressed that they enjoyed hearing about the different stories & experiences of our speakers.  We're now submitting a similar session proposal for the upcoming Boston summit-please refer to the abstract below.  Provided that the session is accepted, we'll have 3 10-minute speaking spots to fill, and would love to hear from you!  If you are interested in being a speaker, or nominating others as candidates, please send me an email.  We're also very interested in expanding the breadth of our speakers to include both women & men, so if you know of any male colleagues who have served as great allies, please send me an email as well.  Many thanks in advance for your collaboration!
+
+Session Abstract:
+Guiding the Future of OpenStack through Diversity
+By bringing together individuals with different backgrounds, talents, knowledge and experiences, we can create a strong foundation for innovation-and for the future of OpenStack.  Harnessing the collective expertise and energy of diverse viewpoints and perspectives is critical to the long-term success of OpenStack. In Barcelona, we heard from Holly Bazemore at Comcast, Xing Zhang at Dell-EMC, and Carol Barrett at Intel, who shared their experiences in creating a diverse pipeline of talent, mentoring others, and transforming diversity into a competitive advantage. In Boston, we will continue the conversation by hearing from others-women and men alike-who will share their unique, inspiring stories to ease the path for others to participate and contribute. Join us!
+
+Cheers,
+
+Nicole K. Huesman
+Open Source Technology Center
+OSS Data Center Marketing
+Software and Services Group | Intel Corporation
+503.807.5599
+
+[cid:image003.jpg at 01D27C96.E57F9CD0]
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170201/520f423a/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image003.jpg
+Type: image/jpeg
+Size: 3146 bytes
+Desc: image003.jpg
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170201/520f423a/attachment-0001.jpg>
+
+From mvillari at us.ibm.com  Mon Feb  6 14:49:26 2017
+From: mvillari at us.ibm.com (Maria Rita Villari)
+Date: Mon, 6 Feb 2017 09:49:26 -0500
+Subject: [Women-of-openstack] Meeting Reminder - 2/6/17
+In-Reply-To: <CAFs83QqqH3G=M_QrhvU9HjAovmdY1=5Sk8-7rSiT2-VtgAqfCQ@mail.gmail.com>
+References: <CAFs83QqqH3G=M_QrhvU9HjAovmdY1=5Sk8-7rSiT2-VtgAqfCQ@mail.gmail.com>
+Message-ID: <OF805B3302.9E729DC6-ON852580BF.005093BE-852580BF.00516E3A@notes.na.collabserv.com>
+
+
+
+Please join us for the Women of OpenStack meeting today Monday 2/6/17 at
+12pm PST, 2pm CST and 3pm EST.
+
+Dial-in info is:?1-203-277-8157 or?866-619-0383? Participant:
+7217256#?Leader 4018#
+webex -?URL:
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_02_06_17.   Feel free
+to add new topics on today's agenda.
+
+Regards,
+
+Maria Rita Villari
+Program Manager
+IBM Cloud, Open Cloud Technologies
+                                                                                    
+                                                                                    
+                                                                                    
+ E-mail: mvillari at us.ibm.com                                      4205 S Miami Blvd 
+                                                              Durham, NC 27703-9141 
+                                                                      United States 
+                                                                                    
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170206/c441cf08/attachment.html>
+
+From khanak.nangia at intel.com  Mon Feb  6 20:31:10 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Mon, 6 Feb 2017 20:31:10 +0000
+Subject: [Women-of-openstack] Meeting Reminder - 2/6/17
+In-Reply-To: <OF805B3302.9E729DC6-ON852580BF.005093BE-852580BF.00516E3A@notes.na.collabserv.com>
+References: <CAFs83QqqH3G=M_QrhvU9HjAovmdY1=5Sk8-7rSiT2-VtgAqfCQ@mail.gmail.com>
+ <OF805B3302.9E729DC6-ON852580BF.005093BE-852580BF.00516E3A@notes.na.collabserv.com>
+Message-ID: <4EC6E9FD-4177-4724-8415-4B160ACFF62D@intel.com>
+
+Hi All,
+
+This is Khanak Nangia, a member of Intel OSIC Security Team, working in San Antonio, Texas.
+I attended my first Women of OpenStack meeting today (leaving some audio glitches). It was great to hear you all and how you are planning for the Boston Summit.
+Please let me know if I can help in anyway, would love to volunteer and hoping to meet in Boston :)
+
+Cheers,
+Khanak
+
+
+
+From: Maria Rita Villari <mvillari at us.ibm.com<mailto:mvillari at us.ibm.com>>
+Date: Monday, February 6, 2017 at 8:49 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Meeting Reminder - 2/6/17
+
+
+Please join us for the Women of OpenStack meeting today Monday 2/6/17 at 12pm PST, 2pm CST and 3pm EST.
+
+Dial-in info is: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_02_06_17. Feel free to add new topics on today's agenda.
+
+Regards,
+
+Maria Rita Villari
+Program Manager
+IBM Cloud, Open Cloud Technologies
+________________________________
+
+E-mail:mvillari at us.ibm.com<mailto:mvillari at us.ibm.com>
+4205 S Miami Blvd
+Durham, NC 27703-9141
+United States
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170206/e3f5c36f/attachment.html>
+
+From nick.jones at datacentred.co.uk  Tue Feb  7 09:44:27 2017
+From: nick.jones at datacentred.co.uk (Nick Jones)
+Date: Tue, 7 Feb 2017 09:44:27 +0000
+Subject: [Women-of-openstack] Volunteer speakers for OpenStack Days UK 2017
+ keynote sessions
+Message-ID: <CAB0HEW45eaeXgKRuvKObamE4Kq27qt05ZM9As9a6q01wxQmjQg@mail.gmail.com>
+
+Hi all.
+
+I'm looking for volunteers to speak at the next UK edition of OpenStack
+Days for 2017, which will be in London on September 26th.
+
+There'll be a formal CFP for the breakout sessions in due course, but for
+now we're looking for someone who'd be comfortable addressing all attendees
+for this event during one of the keynote sessions.
+
+Drop me a mail if you're interested or if you've any questions.
+
+Cheers.
+
+-- 
+
+-Nick
+
+-- 
+DataCentred Limited registered in England and Wales no. 05611763
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170207/91b182ad/attachment.html>
+
+From ekhugenbruch at us.ibm.com  Tue Feb  7 13:49:25 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Tue, 7 Feb 2017 08:49:25 -0500
+Subject: [Women-of-openstack] Meeting Reminder - 2/6/17
+In-Reply-To: <4EC6E9FD-4177-4724-8415-4B160ACFF62D@intel.com>
+References: <CAFs83QqqH3G=M_QrhvU9HjAovmdY1=5Sk8-7rSiT2-VtgAqfCQ@mail.gmail.com>
+ <OF805B3302.9E729DC6-ON852580BF.005093BE-852580BF.00516E3A@notes.na.collabserv.com>
+ <4EC6E9FD-4177-4724-8415-4B160ACFF62D@intel.com>
+Message-ID: <OF445DE603.8BA5DA2A-ON002580C0.0049D117-852580C0.004BEFBC@notes.na.collabserv.com>
+
+
+Hi Khanak,
+We're happy for volunteers (or attendees) at the Speed Mentoring session,
+which will be first thing in the morning on the Monday of the summit
+(7:30-8:45).  I know it's early, but we do provide coffee (and breakfast,
+thanks to Intel).
+Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	"Nangia, Khanak" <khanak.nangia at intel.com>
+To:	Maria Rita Villari/Raleigh/IBM at IBMUS,
+            "women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	02/06/2017 03:32 PM
+Subject:	Re: [Women-of-openstack] Meeting Reminder - 2/6/17
+
+
+
+Hi All,
+
+This is Khanak Nangia, a member of Intel OSIC Security Team, working in San
+Antonio, Texas.
+I attended my first Women of OpenStack meeting today (leaving some audio
+glitches). It was great to hear you all and how you are planning for the
+Boston Summit.
+Please let me know if I can help in anyway, would love to volunteer and
+hoping to meet in Boston :)
+
+Cheers,
+Khanak
+
+
+
+From: Maria Rita Villari <mvillari at us.ibm.com>
+Date: Monday, February 6, 2017 at 8:49 AM
+To: "women-of-openstack at lists.openstack.org" <
+women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Meeting Reminder - 2/6/17
+
+
+
+Please join us for the Women of OpenStack meeting today Monday 2/6/17 at
+12pm PST, 2pm CST and 3pm EST.
+
+Dial-in info is: 1-203-277-8157 or 866-619-0383  Participant: 7217256#
+Leader 4018#
+webex - URL:
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_02_06_17. Feel free to
+add new topics on today's agenda.
+
+Regards,
+
+Maria Rita Villari
+Program Manager
+IBM Cloud, Open Cloud Technologies
+                                                                                    
+                                                                                    
+                                                                                    
+ E-mail:mvillari at us.ibm.com                                       4205 S Miami Blvd 
+                                                              Durham, NC 27703-9141 
+                                                                      United States 
+                                                                                    
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170207/b518d5d9/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170207/b518d5d9/attachment.gif>
+
+From kennelson11 at gmail.com  Tue Feb  7 18:47:27 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Tue, 07 Feb 2017 18:47:27 +0000
+Subject: [Women-of-openstack] Volunteer speakers for OpenStack Days UK
+ 2017 keynote sessions
+In-Reply-To: <CAB0HEW45eaeXgKRuvKObamE4Kq27qt05ZM9As9a6q01wxQmjQg@mail.gmail.com>
+References: <CAB0HEW45eaeXgKRuvKObamE4Kq27qt05ZM9As9a6q01wxQmjQg@mail.gmail.com>
+Message-ID: <CAJ6yrQjtyXE8_HCDtyFNe76L0_q0Rqap7uEj2y1oAt2FLxqQxg@mail.gmail.com>
+
+I'd be interested! What sort of topic are you looking for the keynote?
+
+-Kendall Nelson (diablo_rojo)
+
+On Tue, Feb 7, 2017, 1:45 AM Nick Jones <nick.jones at datacentred.co.uk>
+wrote:
+
+Hi all.
+
+I'm looking for volunteers to speak at the next UK edition of OpenStack
+Days for 2017, which will be in London on September 26th.
+
+There'll be a formal CFP for the breakout sessions in due course, but for
+now we're looking for someone who'd be comfortable addressing all attendees
+for this event during one of the keynote sessions.
+
+Drop me a mail if you're interested or if you've any questions.
+
+Cheers.
+
+-- 
+
+-Nick
+
+DataCentred Limited registered in England and Wales no. 05611763
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170207/33293156/attachment.html>
+
+From erin at openstack.org  Tue Feb  7 18:59:04 2017
+From: erin at openstack.org (Erin Disney)
+Date: Tue, 7 Feb 2017 12:59:04 -0600
+Subject: [Women-of-openstack] =?utf-8?b?REVBRExJTkUgRVhURU5ERUTigJPigJND?=
+ =?utf-8?q?FP_for_Openstack_Summit_Boston?=
+Message-ID: <CC52D021-BCE8-4FBD-8A35-08A8A8C4FB4F@openstack.org>
+
+Huge thanks to everyone who has already submitted presentations for the upcoming OpenStack Summit in Boston. Great news for those that missed the deadline last night??we will now be accepting submissions until February 8th at 11:59pm PST (February 9th at 7:59 UTC)!
+
+You can submit/edit presentations HERE <https://www.openstack.org/summit/boston-2017/call-for-presentations/> up until the deadline, please send any questions to speakersupport at openstack.org <mailto:speakersupport at openstack.org>. 
+
+Registration and discounted hotel block information available here <https://www.openstack.org/summit/boston-2017/> for your reference.  
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170207/40b33b07/attachment-0001.html>
+
+From nick.jones at datacentred.co.uk  Wed Feb  8 14:06:38 2017
+From: nick.jones at datacentred.co.uk (Nick Jones)
+Date: Wed, 8 Feb 2017 14:06:38 +0000
+Subject: [Women-of-openstack] Volunteer speakers for OpenStack Days UK
+ 2017 keynote sessions
+In-Reply-To: <CAJ6yrQjtyXE8_HCDtyFNe76L0_q0Rqap7uEj2y1oAt2FLxqQxg@mail.gmail.com>
+References: <CAB0HEW45eaeXgKRuvKObamE4Kq27qt05ZM9As9a6q01wxQmjQg@mail.gmail.com>
+ <CAJ6yrQjtyXE8_HCDtyFNe76L0_q0Rqap7uEj2y1oAt2FLxqQxg@mail.gmail.com>
+Message-ID: <CAB0HEW6F-s8Q5Aq1EqaZ35JXCiqgJreQm7q7n4BHE12zRw3W8w@mail.gmail.com>
+
+Hi Kendall.
+
+On 7 February 2017 at 18:47, Kendall Nelson <kennelson11 at gmail.com> wrote:
+
+> I'd be interested! What sort of topic are you looking for the keynote?
+>
+
+Awesome!
+
+There's no set topic or theme, just whatever you're enthusiastic about in
+the world of OpenStack that you'd want to share with a group of like-minded
+individuals.
+
+-- 
+
+-Nick
+
+
+> On Tue, Feb 7, 2017, 1:45 AM Nick Jones <nick.jones at datacentred.co.uk>
+> wrote:
+>
+> Hi all.
+>
+> I'm looking for volunteers to speak at the next UK edition of OpenStack
+> Days for 2017, which will be in London on September 26th.
+>
+> There'll be a formal CFP for the breakout sessions in due course, but for
+> now we're looking for someone who'd be comfortable addressing all attendees
+> for this event during one of the keynote sessions.
+>
+> Drop me a mail if you're interested or if you've any questions.
+>
+>
+
+-- 
+DataCentred Limited registered in England and Wales no. 05611763
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170208/0fcc3f2b/attachment.html>
+
+From beth.cohen at verizon.com  Mon Feb  6 20:27:20 2017
+From: beth.cohen at verizon.com (beth.cohen at verizon.com)
+Date: Mon, 6 Feb 2017 20:27:20 +0000
+Subject: [Women-of-openstack] Women of OpenStack Biweekly Meeting
+Message-ID: <daf342ebdfa94919aef4415e01329816@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+
+Canceled this week due to holiday.
+
+General  Bi-Weekly Meeting
+Meeting Leaders for the new year: https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+Meetings at https://etherpad.openstack.org/p/WOS_11_28_16 (replace date section with current date to find the meeting notes)
+
+WebEx for Presentation Meetings
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170206/486e1ace/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 8352 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170206/486e1ace/attachment-0001.ics>
+
+From beth.cohen at verizon.com  Mon Feb  6 21:00:23 2017
+From: beth.cohen at verizon.com (beth.cohen at verizon.com)
+Date: Mon, 6 Feb 2017 21:00:23 +0000
+Subject: [Women-of-openstack] Canceled: Women of OpenStack Biweekly Meeting
+Message-ID: <997b857111fd4226a28665243b3f94d0@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+
+Canceled this week due to holiday.
+
+General  Bi-Weekly Meeting
+Meeting Leaders for the new year: https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+Meetings at https://etherpad.openstack.org/p/WOS_11_28_16 (replace date section with current date to find the meeting notes)
+
+WebEx for Presentation Meetings
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170206/354079c4/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 7896 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170206/354079c4/attachment.ics>
+
+From mahati.chamarthy at gmail.com  Tue Feb 14 04:17:33 2017
+From: mahati.chamarthy at gmail.com (Mahati C)
+Date: Tue, 14 Feb 2017 09:47:33 +0530
+Subject: [Women-of-openstack] Call for mentors and funding - Outreachy
+Message-ID: <CAPfWQsq2MOx8U=5=061Tyvo+4MLOtM5Xd0znv3Zv3BYtNwhvRg@mail.gmail.com>
+
+Hello everyone,
+
+An update on the Outreachy program, including a request for volunteer
+mentors and funding. For those of you who are not aware, Outreachy helps
+people from underrepresented groups get involved in free and open source
+software  by matching interns with established mentors in the upstream
+community. For more info, please visit:
+https://wiki.openstack.org/wiki/Outreachy
+
+We so far have a confirmation for three spots for OpenStack in this round
+of Outreachy. But we are receiving more applicants who are interested in
+contributing to different OpenStack projects. Interested mentors - please
+publish your project ideas to this page
+https://wiki.openstack.org/wiki/Internship_ideas. Here is a link that helps
+you get acquainted with mentorship process:
+https://wiki.openstack.org/wiki/Outreachy/Mentors
+
+We are looking for additional sponsors to help support the increase in
+OpenStack applicants. The sponsorship cost is 6,500 USD per intern, which
+is used to provide them a stipend for the three-month program. You can
+learn more about sponsorship here:
+https://wiki.gnome.org/Outreachy/Admin/InfoForOrgs#Action
+
+Outreachy has been one of the most important and effective diversity
+efforts we?ve invested in. It has evidently been a way to retain new
+contributors, we?ve had some amazing participants become long-term
+contributors to our community.
+
+Please help spread the word. If you are interested in becoming a mentor or
+sponsoring an intern, please contact me (mahati.chamarthy AT intel.com) or
+Victoria (victoria AT redhat.com).
+
+Thanks,
+Mahati
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170214/ef8518d6/attachment.html>
+
+From clbpdx09 at gmail.com  Mon Feb 13 15:12:31 2017
+From: clbpdx09 at gmail.com (Carol Barrett)
+Date: 13 Feb 2017 15:12:31 +0000
+Subject: [Women-of-openstack] Cancelled: [OpenStack]Women of Openstack Team
+	Meeting Invite
+Message-ID: <mailman.6.1487176783.28821.women-of-openstack@lists.openstack.org>
+
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170213/43d09cdc/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 5901 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170213/43d09cdc/attachment.ics>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: invite.ics
+Type: application/ics
+Size: 5901 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170213/43d09cdc/attachment.bin>
+
+From erin at openstack.org  Wed Feb 15 16:18:56 2017
+From: erin at openstack.org (Erin Disney)
+Date: Wed, 15 Feb 2017 10:18:56 -0600
+Subject: [Women-of-openstack] Community Voting for the OpenStack Summit
+	Boston Now Open!
+Message-ID: <DFBB49E4-C65A-4128-BF2F-921D4BC14B36@openstack.org>
+
+Hi everyone, 
+
+Session voting is now open for the May 2017 OpenStack Summit in Boston!
+
+VOTE HERE <https://www.openstack.org/summit/boston-2017/vote-for-speakers> 
+
+Hurry, voting closes Tuesday, February 21st 11:59pm PST (Wednesday, February 22 at 7:59am UTC). 
+
+Please Note: Based on community feedback, unique URLs to submissions have been added back for this Summit. 
+
+Track Chairs will ultimately determine the final schedule. Community votes are meant to help inform the decision, but are not considered to be the deciding factor. Track chairs exercise judgment in their area of expertise and help ensure diversity. View full details of the session selection process here <https://www.openstack.org/summit/boston-2017/call-for-presentations/selection-process>. 
+
+Continue to visit https://www.openstack.org/summit/boston-2017/ <https://www.openstack.org/summit/boston-2017/> for all Summit-related information.
+
+REGISTER
+Register HERE <https://www.eventbrite.com/e/openstack-summit-may-2017-boston-tickets-28375675409> before prices increase in early March.
+
+TRAVEL SUPPORT PROGRAM
+March 6 is the last day to submit applications. Please submit your applications HERE <https://www.openstack.org/summit/boston-2017/travel/#travel-support> by 11:59pm PST (March 7 at 7:59am UTC). 
+
+VISA APPLICATION PROCESS
+If you require a visa to travel to the United States, please carefully read the instructions HERE <https://www.openstack.org/summit/boston-2017/travel/#visa>. All visa invitation letter requests must be received by April 17.
+
+BECOME A SPONSOR
+If you are interested in sponsoring the Summit as well, it's not too late. Please email summit at openstack.org no later than March 13th. 
+
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/0291c968/attachment-0001.html>
+
+From swarna at avinetworks.com  Wed Feb 15 16:28:11 2017
+From: swarna at avinetworks.com (Swarna Podila (Avi Networks))
+Date: Wed, 15 Feb 2017 08:28:11 -0800
+Subject: [Women-of-openstack] [OpenStack Marketing] Community Voting for
+ the OpenStack Summit Boston Now Open!
+In-Reply-To: <DFBB49E4-C65A-4128-BF2F-921D4BC14B36@openstack.org>
+References: <DFBB49E4-C65A-4128-BF2F-921D4BC14B36@openstack.org>
+Message-ID: <d0cdcf7d-26c4-4ab8-aa59-3496a84aab79@Spark>
+
+Sorry for the mass reply, but I am not able to access the Vote For Speakers link. ?Attached is the screenshot of what I see; the text box there is not editable (as in, I cannot enter anything into it). ?I click on "Log in as someone else?, it logs me out, but brings me back to this same page when I try to log back in.
+
+
+Best,
+Swarna.
+
+On Feb 15, 2017, 8:23 AM -0800, Erin Disney <erin at openstack.org>, wrote:
+> Hi everyone,
+>
+> Session voting is now open for the May 2017 OpenStack Summit in Boston!
+>
+> VOTE HERE
+>
+> Hurry, voting closes Tuesday, February 21st 11:59pm PST (Wednesday, February 22 at 7:59am UTC).
+>
+> Please Note: Based on community feedback, unique URLs to submissions have been added back for this Summit.
+>
+> Track Chairs will ultimately determine the final schedule. Community votes are meant to help inform the decision, but are not considered to be the deciding factor. Track chairs exercise judgment in their area of expertise and help ensure diversity. View full details of the session selection process here.
+>
+> Continue to visit https://www.openstack.org/summit/boston-2017/ for all Summit-related information.
+>
+> REGISTER
+> Register HERE before prices increase in early March.
+>
+> TRAVEL SUPPORT PROGRAM
+> March 6 is the last day to submit applications. Please submit your applications HERE by 11:59pm PST (March 7 at 7:59am UTC).
+>
+> VISA APPLICATION PROCESS
+> If you require a visa to travel to the United States, please carefully read the instructions HERE. All visa invitation letter requests must be received by April 17.
+>
+> BECOME A SPONSOR
+> If you are interested in sponsoring the Summit as well, it's not too late. Please email summit at openstack.org no later than March 13th.
+>
+>
+> Erin Disney
+> OpenStack Marketing
+> erin at openstack.org
+>
+> _______________________________________________
+> Marketing mailing list
+> Marketing at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/marketing
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/09f7f2a2/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Screen Shot 2017-02-15 at 8.28.35 AM.png
+Type: image/png
+Size: 49858 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/09f7f2a2/attachment-0001.png>
+
+From amy at demarco.com  Wed Feb 15 17:04:49 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 15 Feb 2017 11:04:49 -0600
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+Message-ID: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+
+Please add to this list I didn't go through every category:
+
+Git and Gerrit Lunch and Learn -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+Why you should take the COA -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+Strategies to Foster Diversity -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+Guiding the Future of Diversity -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+No Code No Problem -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+Pushing to 5000 -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+Tales from 5 women -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+It's an OpenSource World -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+Plug for Major Hayden, this presentation helped me put myself out there -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/df1629b8/attachment.html>
+
+From amy at demarco.com  Wed Feb 15 17:16:50 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 15 Feb 2017 11:16:50 -0600
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+Message-ID: <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+
+Two more:
+
+Code is not self documenting -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+
+Ci/CD in Documentation -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+
+On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com> wrote:
+
+> Please add to this list I didn't go through every category:
+>
+> Git and Gerrit Lunch and Learn - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17610
+>
+> Why you should take the COA - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17686
+>
+> Strategies to Foster Diversity - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18301
+>
+> Guiding the Future of Diversity - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18274
+>
+> No Code No Problem - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18574
+>
+> Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-
+> speakers#/18414
+>
+> Tales from 5 women - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18540
+>
+> It's an OpenSource World - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17487
+>
+> Plug for Major Hayden, this presentation helped me put myself out there -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/c3468a66/attachment.html>
+
+From kennelson11 at gmail.com  Wed Feb 15 19:09:30 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Wed, 15 Feb 2017 19:09:30 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+Message-ID: <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+
+Here is my talk!
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17632
+
+On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com> wrote:
+
+> Two more:
+>
+> Code is not self documenting -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+>
+> Ci/CD in Documentation -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+>
+> On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com> wrote:
+>
+> Please add to this list I didn't go through every category:
+>
+> Git and Gerrit Lunch and Learn -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+>
+> Why you should take the COA -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+>
+> Strategies to Foster Diversity -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+>
+> Guiding the Future of Diversity -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+>
+> No Code No Problem -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+>
+> Pushing to 5000 -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+>
+> Tales from 5 women -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+>
+> It's an OpenSource World -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+>
+> Plug for Major Hayden, this presentation helped me put myself out there -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/7b4740c0/attachment.html>
+
+From shilla.saebi at gmail.com  Wed Feb 15 19:15:16 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Wed, 15 Feb 2017 14:15:16 -0500
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+Message-ID: <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+
+Here is one more:
+
+Saving one cloud at a time with tenant care
+<https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18310>
+
+
+On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <kennelson11 at gmail.com>
+wrote:
+
+> Here is my talk! https://www.openstack.org/summit/boston-2017/vote-for-
+> speakers#/17632
+>
+> On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com> wrote:
+>
+>> Two more:
+>>
+>> Code is not self documenting - https://www.openstack.org/
+>> summit/boston-2017/vote-for-speakers#/18078
+>>
+>> Ci/CD in Documentation - https://www.openstack.org/
+>> summit/boston-2017/vote-for-speakers#/17888
+>>
+>> On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com> wrote:
+>>
+>> Please add to this list I didn't go through every category:
+>>
+>> Git and Gerrit Lunch and Learn - https://www.openstack.org/
+>> summit/boston-2017/vote-for-speakers#/17610
+>>
+>> Why you should take the COA - https://www.openstack.org/
+>> summit/boston-2017/vote-for-speakers#/17686
+>>
+>> Strategies to Foster Diversity - https://www.openstack.org/
+>> summit/boston-2017/vote-for-speakers#/18301
+>>
+>> Guiding the Future of Diversity - https://www.openstack.org/
+>> summit/boston-2017/vote-for-speakers#/18274
+>>
+>> No Code No Problem - https://www.openstack.org/
+>> summit/boston-2017/vote-for-speakers#/18574
+>>
+>> Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-
+>> speakers#/18414
+>>
+>> Tales from 5 women - https://www.openstack.org/
+>> summit/boston-2017/vote-for-speakers#/18540
+>>
+>> It's an OpenSource World - https://www.openstack.org/
+>> summit/boston-2017/vote-for-speakers#/17487
+>>
+>> Plug for Major Hayden, this presentation helped me put myself out there -
+>> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/32f25b35/attachment-0001.html>
+
+From marcela.bonell.manjarrez at intel.com  Wed Feb 15 19:20:43 2017
+From: marcela.bonell.manjarrez at intel.com (Bonell Manjarrez, Marcela)
+Date: Wed, 15 Feb 2017 19:20:43 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+Message-ID: <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+
+My hands-on training:
+?Using OpenStack SDKs to create my first cloud native application? - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17736
+
+Marcela Bonell
+
+From: Shilla Saebi <shilla.saebi at gmail.com>
+Date: Wednesday, February 15, 2017 at 1:15 PM
+To: Kendall Nelson <kennelson11 at gmail.com>
+Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Here is one more:
+
+Saving one cloud at a time with tenant care<https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18310>
+
+
+On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>> wrote:
+Here is my talk! https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17632
+
+On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Two more:
+
+Code is not self documenting - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+
+Ci/CD in Documentation - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+
+On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Please add to this list I didn't go through every category:
+
+Git and Gerrit Lunch and Learn - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+Why you should take the COA - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+Strategies to Foster Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+Guiding the Future of Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+No Code No Problem - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+Tales from 5 women - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+It's an OpenSource World - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+Plug for Major Hayden, this presentation helped me put myself out there - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/50af0aa2/attachment.html>
+
+From mbracho at redhat.com  Wed Feb 15 19:45:03 2017
+From: mbracho at redhat.com (Maria Bracho)
+Date: Wed, 15 Feb 2017 14:45:03 -0500
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+Message-ID: <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+
+Two more to the list!
+
+Providing Tooling for Effective Collaboration (based on OpenStack-Infra) -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18328
+
+The Power of Collaboration: Testing OpenStack using Distributed Continuous
+Integration (panel with Dell, Rackspace and Red Hat)  -
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18318
+
+Regards,
+Maria
+
+On Wed, Feb 15, 2017 at 2:20 PM, Bonell Manjarrez, Marcela <
+marcela.bonell.manjarrez at intel.com> wrote:
+
+> My hands-on training:
+>
+> ?Using OpenStack SDKs to create my first cloud native application? -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17736
+>
+>
+>
+> Marcela Bonell
+>
+>
+>
+> *From: *Shilla Saebi <shilla.saebi at gmail.com>
+> *Date: *Wednesday, February 15, 2017 at 1:15 PM
+> *To: *Kendall Nelson <kennelson11 at gmail.com>
+> *Cc: *"women-of-openstack at lists.openstack.org" <women-of-openstack at lists.
+> openstack.org>
+> *Subject: *Re: [Women-of-openstack] List of Topics from Women or on
+> Diversity
+>
+>
+>
+> Here is one more:
+>
+>
+>
+> Saving one cloud at a time with tenant care
+> <https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18310>
+>
+>
+>
+>
+>
+> On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <kennelson11 at gmail.com>
+> wrote:
+>
+> Here is my talk! https://www.openstack.org/summit/boston-2017/vote-for-
+> speakers#/17632
+>
+>
+>
+> On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com> wrote:
+>
+> Two more:
+>
+>
+>
+> Code is not self documenting - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18078
+>
+>
+>
+> Ci/CD in Documentation - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17888
+>
+>
+>
+> On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com> wrote:
+>
+> Please add to this list I didn't go through every category:
+>
+>
+>
+> Git and Gerrit Lunch and Learn - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17610
+>
+>
+>
+> Why you should take the COA - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17686
+>
+>
+>
+> Strategies to Foster Diversity - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18301
+>
+>
+>
+> Guiding the Future of Diversity - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18274
+>
+>
+>
+> No Code No Problem - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18574
+>
+>
+>
+> Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-
+> speakers#/18414
+>
+>
+>
+> Tales from 5 women - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18540
+>
+>
+>
+> It's an OpenSource World - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17487
+>
+>
+>
+> Plug for Major Hayden, this presentation helped me put myself out there -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/962dbf67/attachment-0001.html>
+
+From khanak.nangia at intel.com  Wed Feb 15 21:15:07 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Wed, 15 Feb 2017 21:15:07 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+Message-ID: <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+
+My talks :
+3 more to the list
+
+Short History of OpenStack Projects? security pitfalls :  https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17857
+
+Syntribos ? Automated API Security Kung fu for OpenStack : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17847
+
+Impurities in the water ? How dependency vulnerability affects an OpenStack cloud : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17854
+
+Please vote for them :)
+Thank you !
+
+Best Regards,
+Khanak
+From: Maria Bracho <mbracho at redhat.com<mailto:mbracho at redhat.com>>
+Date: Wednesday, February 15, 2017 at 1:45 PM
+To: "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Two more to the list!
+
+Providing Tooling for Effective Collaboration (based on OpenStack-Infra) - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18328
+
+The Power of Collaboration: Testing OpenStack using Distributed Continuous Integration (panel with Dell, Rackspace and Red Hat)  - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18318
+
+Regards,
+Maria
+
+On Wed, Feb 15, 2017 at 2:20 PM, Bonell Manjarrez, Marcela <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>> wrote:
+My hands-on training:
+?Using OpenStack SDKs to create my first cloud native application? - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17736
+
+Marcela Bonell
+
+From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+Date: Wednesday, February 15, 2017 at 1:15 PM
+To: Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Here is one more:
+
+Saving one cloud at a time with tenant care<https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18310>
+
+
+On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>> wrote:
+Here is my talk! https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17632
+
+On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Two more:
+
+Code is not self documenting - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+
+Ci/CD in Documentation - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+
+On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Please add to this list I didn't go through every category:
+
+Git and Gerrit Lunch and Learn - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+Why you should take the COA - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+Strategies to Foster Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+Guiding the Future of Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+No Code No Problem - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+Tales from 5 women - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+It's an OpenSource World - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+Plug for Major Hayden, this presentation helped me put myself out there - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/cca317d1/attachment.html>
+
+From dthakkar at cisco.com  Wed Feb 15 21:30:46 2017
+From: dthakkar at cisco.com (Dipa Thakkar (dthakkar))
+Date: Wed, 15 Feb 2017 21:30:46 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+ <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+Message-ID: <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+
+Next Generation OpenStack Developers: Collaboration Review https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18379
+
+Hoping to present the above.
+Dipa
+
+
+From: "Nangia, Khanak" <khanak.nangia at intel.com>
+Date: Wednesday, February 15, 2017 at 4:15 PM
+To: Maria Bracho <mbracho at redhat.com>, "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com>
+Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+My talks :
+3 more to the list
+
+Short History of OpenStack Projects? security pitfalls :  https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17857
+
+Syntribos ? Automated API Security Kung fu for OpenStack : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17847
+
+Impurities in the water ? How dependency vulnerability affects an OpenStack cloud : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17854
+
+Please vote for them :)
+Thank you !
+
+Best Regards,
+Khanak
+From: Maria Bracho <mbracho at redhat.com<mailto:mbracho at redhat.com>>
+Date: Wednesday, February 15, 2017 at 1:45 PM
+To: "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Two more to the list!
+
+Providing Tooling for Effective Collaboration (based on OpenStack-Infra) - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18328
+
+The Power of Collaboration: Testing OpenStack using Distributed Continuous Integration (panel with Dell, Rackspace and Red Hat)  - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18318
+
+Regards,
+Maria
+
+On Wed, Feb 15, 2017 at 2:20 PM, Bonell Manjarrez, Marcela <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>> wrote:
+My hands-on training:
+?Using OpenStack SDKs to create my first cloud native application? - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17736
+
+Marcela Bonell
+
+From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+Date: Wednesday, February 15, 2017 at 1:15 PM
+To: Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Here is one more:
+
+Saving one cloud at a time with tenant care<https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18310>
+
+
+On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>> wrote:
+Here is my talk! https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17632
+
+On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Two more:
+
+Code is not self documenting - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+
+Ci/CD in Documentation - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+
+On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Please add to this list I didn't go through every category:
+
+Git and Gerrit Lunch and Learn - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+Why you should take the COA - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+Strategies to Foster Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+Guiding the Future of Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+No Code No Problem - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+Tales from 5 women - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+It's an OpenSource World - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+Plug for Major Hayden, this presentation helped me put myself out there - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/d199b100/attachment-0001.html>
+
+From Xing.Yang at dell.com  Thu Feb 16 02:10:15 2017
+From: Xing.Yang at dell.com (yang, xing)
+Date: Thu, 16 Feb 2017 02:10:15 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+ <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>,
+ <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+Message-ID: <F9260FECD2960A4D83AA5C9F995F781642E766A5@MX308CL02.corp.emc.com>
+
+I'm re-sending this email because the previous one was blocked due to my email address change.
+
+Here are two more:
+
+Storage Capabilities in Cinder
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17460
+
+Contributing to OpenStack: Doing the Dirty Jobs
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17711
+
+Thanks!
+Xing
+
+
+________________________________
+From: Dipa Thakkar (dthakkar) [dthakkar at cisco.com]
+Sent: Wednesday, February 15, 2017 4:30 PM
+To: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Next Generation OpenStack Developers: Collaboration Review https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18379
+
+Hoping to present the above.
+Dipa
+
+
+From: "Nangia, Khanak" <khanak.nangia at intel.com>
+Date: Wednesday, February 15, 2017 at 4:15 PM
+To: Maria Bracho <mbracho at redhat.com>, "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com>
+Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+My talks :
+3 more to the list
+
+Short History of OpenStack Projects? security pitfalls :  https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17857
+
+Syntribos ? Automated API Security Kung fu for OpenStack : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17847
+
+Impurities in the water ? How dependency vulnerability affects an OpenStack cloud : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17854
+
+Please vote for them :)
+Thank you !
+
+Best Regards,
+Khanak
+From: Maria Bracho <mbracho at redhat.com<mailto:mbracho at redhat.com>>
+Date: Wednesday, February 15, 2017 at 1:45 PM
+To: "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Two more to the list!
+
+Providing Tooling for Effective Collaboration (based on OpenStack-Infra) - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18328
+
+The Power of Collaboration: Testing OpenStack using Distributed Continuous Integration (panel with Dell, Rackspace and Red Hat)  - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18318
+
+Regards,
+Maria
+
+On Wed, Feb 15, 2017 at 2:20 PM, Bonell Manjarrez, Marcela <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>> wrote:
+My hands-on training:
+?Using OpenStack SDKs to create my first cloud native application? - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17736
+
+Marcela Bonell
+
+From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+Date: Wednesday, February 15, 2017 at 1:15 PM
+To: Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Here is one more:
+
+Saving one cloud at a time with tenant care<https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18310>
+
+
+On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>> wrote:
+Here is my talk! https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17632
+
+On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Two more:
+
+Code is not self documenting - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+
+Ci/CD in Documentation - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+
+On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Please add to this list I didn't go through every category:
+
+Git and Gerrit Lunch and Learn - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+Why you should take the COA - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+Strategies to Foster Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+Guiding the Future of Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+No Code No Problem - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+Tales from 5 women - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+It's an OpenSource World - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+Plug for Major Hayden, this presentation helped me put myself out there - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170216/3dfff527/attachment-0001.html>
+
+From ekhugenbruch at us.ibm.com  Thu Feb 16 02:28:51 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Wed, 15 Feb 2017 21:28:51 -0500
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <F9260FECD2960A4D83AA5C9F995F781642E766A5@MX308CL02.corp.emc.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+ <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>,
+ <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+ <F9260FECD2960A4D83AA5C9F995F781642E766A5@MX308CL02.corp.emc.com>
+Message-ID: <OF760EC974.1AA94466-ON002580C9.000D555F-852580C9.000DA0D9@notes.na.collabserv.com>
+
+Here are mine:
+Around the world in 80 commits: working with a global team and global
+community
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17683
+Here there be dragons: Adventures in running OpenStack on non-x86
+architectures
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17673
+OpenStack Mentoring: The Ninja Becomes the Sensei
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17681
+Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	"yang, xing" <Xing.Yang at dell.com>
+To:	"Dipa Thakkar (dthakkar)" <dthakkar at cisco.com>,
+            "women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	02/15/2017 09:24 PM
+Subject:	Re: [Women-of-openstack] List of Topics from Women or on
+            Diversity
+
+
+
+I'm re-sending this email because the previous one was blocked due to my
+email address change.
+
+Here are two more:
+
+Storage Capabilities in Cinder
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17460
+
+Contributing to OpenStack: Doing the Dirty Jobs
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17711
+
+Thanks!
+Xing
+
+
+
+From: Dipa Thakkar (dthakkar) [dthakkar at cisco.com]
+Sent: Wednesday, February 15, 2017 4:30 PM
+To: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Next Generation OpenStack Developers: Collaboration Review
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18379
+
+Hoping to present the above.
+Dipa
+
+
+      From: "Nangia, Khanak" <khanak.nangia at intel.com>
+      Date: Wednesday, February 15, 2017 at 4:15 PM
+      To: Maria Bracho <mbracho at redhat.com>, "Bonell Manjarrez, Marcela"
+      <marcela.bonell.manjarrez at intel.com>
+      Cc: "women-of-openstack at lists.openstack.org"
+      <women-of-openstack at lists.openstack.org>
+      Subject: Re: [Women-of-openstack] List of Topics from Women or on
+      Diversity
+
+      My talks :
+      3 more to the list
+
+      Short History of OpenStack Projects? security pitfalls :
+      https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17857
+
+      Syntribos ? Automated API Security Kung fu for OpenStack :
+      https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17847
+
+      Impurities in the water ? How dependency vulnerability affects an
+      OpenStack cloud :
+      https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17854
+
+      Please vote for them :)
+      Thank you !
+
+      Best Regards,
+      Khanak
+      From: Maria Bracho <mbracho at redhat.com>
+      Date: Wednesday, February 15, 2017 at 1:45 PM
+      To: "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com>
+      Cc: "women-of-openstack at lists.openstack.org" <
+      women-of-openstack at lists.openstack.org>
+      Subject: Re: [Women-of-openstack] List of Topics from Women or on
+      Diversity
+
+      Two more to the list!
+
+      Providing Tooling for Effective Collaboration (based on
+      OpenStack-Infra) -
+      https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18328
+
+      The Power of Collaboration: Testing OpenStack using Distributed
+      Continuous Integration (panel with Dell, Rackspace and Red Hat)  -
+      https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18318
+
+      Regards,
+      Maria
+
+      On Wed, Feb 15, 2017 at 2:20 PM, Bonell Manjarrez, Marcela <
+      marcela.bonell.manjarrez at intel.com> wrote:
+       My hands-on training:
+       ?Using OpenStack SDKs to create my first cloud native application? -
+       https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17736
+
+       Marcela Bonell
+
+       From: Shilla Saebi <shilla.saebi at gmail.com>
+       Date: Wednesday, February 15, 2017 at 1:15 PM
+       To: Kendall Nelson <kennelson11 at gmail.com>
+       Cc: "women-of-openstack at lists.openstack.org" <
+       women-of-openstack at lists.openstack.org>
+       Subject: Re: [Women-of-openstack] List of Topics from Women or on
+       Diversity
+
+       Here is one more:
+
+       Saving one cloud at a time with tenant care
+
+
+       On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <
+       kennelson11 at gmail.com> wrote:
+        Here is my talk!
+        https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17632
+
+        On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com>
+        wrote:
+        Two more:
+
+        Code is not self documenting -
+        https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+
+        Ci/CD in Documentation -
+        https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+
+        On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com>
+        wrote:
+         Please add to this list I didn't go through every category:
+
+         Git and Gerrit Lunch and Learn -
+         https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+         Why you should take the COA -
+         https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+         Strategies to Foster Diversity -
+         https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+         Guiding the Future of Diversity -
+         https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+         No Code No Problem -
+         https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+         Pushing to 5000 -
+         https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+         Tales from 5 women -
+         https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+         It's an OpenSource World -
+         https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+         Plug for Major Hayden, this presentation helped me put myself out
+         there -
+         https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+
+        _______________________________________________
+        Women-of-openstack mailing list
+        Women-of-openstack at lists.openstack.org
+        http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+        _______________________________________________
+        Women-of-openstack mailing list
+        Women-of-openstack at lists.openstack.org
+        http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+       _______________________________________________
+       Women-of-openstack mailing list
+       Women-of-openstack at lists.openstack.org
+       http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+       _______________________________________________
+      Women-of-openstack mailing list
+      Women-of-openstack at lists.openstack.org
+      http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/294faae9/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/294faae9/attachment-0001.gif>
+
+From geetika791 at gmail.com  Thu Feb 16 05:30:26 2017
+From: geetika791 at gmail.com (Geetika Batra)
+Date: Thu, 16 Feb 2017 11:00:26 +0530
+Subject: [Women-of-openstack]  Topics presented by Geetika Batra
+Message-ID: <CAGxKA8sdkbqKNo+PPm8FSpwjaKqQH-pXR52Dr8Hyiu3g2YL0=A@mail.gmail.com>
+
+Hi Everyone
+
+This summit, I have planned to present two talks and host one hands on
+workshop.
+Everyone is welcome to attend.
+Please vote for the same and pass on the word.
+
+
+*How to adapt Glare to the needs of your project *
+
+https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/18073
+
+
+*Exploring Multinode OpenStack deployments for beginners*
+
+https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/17657
+
+
+*Create your VM in a (almost) deterministic way -- A hands-on lab.*
+
+https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/17717
+
+
+
+Hope to see you there. Thanks in advance.
+
+
+Regards
+Geetika Batra
+
+                         ''~``
+                        ( o o )
++------------------.oooO--(_)--Oooo.------------------+
+|                                                     |
+|                    .oooO                            |
+|                    (   )   Oooo.                    |
++---------------------\ (----(   )--------------------+
+                       \_)    ) /
+                             (_/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170216/4fc49194/attachment.html>
+
+From annegentle at justwriteclick.com  Wed Feb 15 17:09:34 2017
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Wed, 15 Feb 2017 11:09:34 -0600
+Subject: [Women-of-openstack] [OpenStack Marketing] Community Voting for
+ the OpenStack Summit Boston Now Open!
+In-Reply-To: <d0cdcf7d-26c4-4ab8-aa59-3496a84aab79@Spark>
+References: <DFBB49E4-C65A-4128-BF2F-921D4BC14B36@openstack.org>
+ <d0cdcf7d-26c4-4ab8-aa59-3496a84aab79@Spark>
+Message-ID: <CAD0KtVGjg3B7PfpOaT44Cgncnp9qVU6FzZi_Jc-PO-UYsx1Whw@mail.gmail.com>
+
+I'm seeing the same, and logging a bug here:
+
+https://bugs.launchpad.net/openstack-org/+bug/1665041
+
+Anne
+
+On Wed, Feb 15, 2017 at 10:28 AM, Swarna Podila (Avi Networks) <
+swarna at avinetworks.com> wrote:
+
+> Sorry for the mass reply, but I am not able to access the Vote For
+> Speakers link.  Attached is the screenshot of what I see; the text box
+> there is not editable (as in, I cannot enter anything into it).  I click on
+> "Log in as someone else?, it logs me out, but brings me back to this same
+> page when I try to log back in.
+>
+>
+> Best,
+> Swarna.
+>
+> On Feb 15, 2017, 8:23 AM -0800, Erin Disney <erin at openstack.org>, wrote:
+>
+> Hi everyone,
+>
+> Session voting is now open for the May 2017 OpenStack Summit in Boston!
+>
+> VOTE HERE <https://www.openstack.org/summit/boston-2017/vote-for-speakers>
+>
+> Hurry, voting closes Tuesday, February 21st 11:59pm PST (Wednesday,
+> February 22 at 7:59am UTC).
+>
+> Please Note: Based on community feedback, unique URLs to submissions have
+> been added back for this Summit.
+>
+> Track Chairs will ultimately determine the final schedule. Community votes
+> are meant to help inform the decision, but are not considered to be the
+> deciding factor. Track chairs exercise judgment in their area of expertise
+> and help ensure diversity. View full details of the session selection
+> process here
+> <https://www.openstack.org/summit/boston-2017/call-for-presentations/selection-process>
+> .
+>
+> Continue to visit https://www.openstack.org/summit/boston-2017/ for all
+> Summit-related information.
+>
+> REGISTER
+> Register HERE
+> <https://www.eventbrite.com/e/openstack-summit-may-2017-boston-tickets-28375675409> before
+> prices increase in early March.
+>
+> TRAVEL SUPPORT PROGRAM
+> March 6 is the last day to submit applications. Please submit your
+> applications HERE
+> <https://www.openstack.org/summit/boston-2017/travel/#travel-support> by
+> 11:59pm PST (March 7 at 7:59am UTC).
+>
+> VISA APPLICATION PROCESS
+> If you require a visa to travel to the United States, please carefully
+> read the instructions HERE
+> <https://www.openstack.org/summit/boston-2017/travel/#visa>. All visa
+> invitation letter requests must be received by April 17.
+>
+> BECOME A SPONSOR
+> If you are interested in sponsoring the Summit as well, it's not too late.
+> Please email summit at openstack.org no later than March 13th.
+>
+>
+> Erin Disney
+> OpenStack Marketing
+> erin at openstack.org
+>
+> _______________________________________________
+> Marketing mailing list
+> Marketing at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/marketing
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+
+Read my blog: justwrite.click <https://justwriteclick.com>
+Subscribe to Docs|Code: docslikecode.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/7894787a/attachment-0001.html>
+
+From Xing.Yang at dell.com  Wed Feb 15 21:30:03 2017
+From: Xing.Yang at dell.com (yang, xing)
+Date: Wed, 15 Feb 2017 21:30:03 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>,
+ <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+Message-ID: <F9260FECD2960A4D83AA5C9F995F781642E7609C@MX308CL02.corp.emc.com>
+
+Here are two more:
+
+Storage Capabilities in Cinder
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17460
+
+Contributing to OpenStack: Doing the Dirty Jobs
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17711
+
+Thanks!
+Xing
+
+
+________________________________
+From: Nangia, Khanak [khanak.nangia at intel.com]
+Sent: Wednesday, February 15, 2017 4:15 PM
+To: Maria Bracho; Bonell Manjarrez, Marcela
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+My talks :
+3 more to the list
+
+Short History of OpenStack Projects? security pitfalls :  https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17857
+
+Syntribos ? Automated API Security Kung fu for OpenStack : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17847
+
+Impurities in the water ? How dependency vulnerability affects an OpenStack cloud : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17854
+
+Please vote for them :)
+Thank you !
+
+Best Regards,
+Khanak
+From: Maria Bracho <mbracho at redhat.com<mailto:mbracho at redhat.com>>
+Date: Wednesday, February 15, 2017 at 1:45 PM
+To: "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Two more to the list!
+
+Providing Tooling for Effective Collaboration (based on OpenStack-Infra) - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18328
+
+The Power of Collaboration: Testing OpenStack using Distributed Continuous Integration (panel with Dell, Rackspace and Red Hat)  - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18318
+
+Regards,
+Maria
+
+On Wed, Feb 15, 2017 at 2:20 PM, Bonell Manjarrez, Marcela <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>> wrote:
+My hands-on training:
+?Using OpenStack SDKs to create my first cloud native application? - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17736
+
+Marcela Bonell
+
+From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+Date: Wednesday, February 15, 2017 at 1:15 PM
+To: Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Here is one more:
+
+Saving one cloud at a time with tenant care<https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18310>
+
+
+On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>> wrote:
+Here is my talk! https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17632
+
+On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Two more:
+
+Code is not self documenting - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+
+Ci/CD in Documentation - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+
+On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Please add to this list I didn't go through every category:
+
+Git and Gerrit Lunch and Learn - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+Why you should take the COA - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+Strategies to Foster Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+Guiding the Future of Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+No Code No Problem - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+Tales from 5 women - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+It's an OpenSource World - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+Plug for Major Hayden, this presentation helped me put myself out there - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/98f5b19b/attachment-0001.html>
+
+From anindita.das at intel.com  Wed Feb 15 22:16:06 2017
+From: anindita.das at intel.com (Das, Anindita)
+Date: Wed, 15 Feb 2017 22:16:06 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+ <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+ <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+Message-ID: <C53E73D4-B893-450D-892E-BD1723C8CAC4@intel.com>
+
+My talks:
+
+2 more to the list:
+
+Glimpse into Neutron for future Neutrinos
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18555
+
+A Field Trip in the Cloud
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18156
+
+Please vote for them :)
+
+Thanks,
+Anindita (irc: dasanind)
+
+From: "Dipa Thakkar (dthakkar)" <dthakkar at cisco.com>
+Date: Wednesday, February 15, 2017 at 3:30 PM
+To: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Next Generation OpenStack Developers: Collaboration Review https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18379
+
+Hoping to present the above.
+Dipa
+
+
+From: "Nangia, Khanak" <khanak.nangia at intel.com>
+Date: Wednesday, February 15, 2017 at 4:15 PM
+To: Maria Bracho <mbracho at redhat.com>, "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com>
+Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+My talks :
+3 more to the list
+
+Short History of OpenStack Projects? security pitfalls :  https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17857
+
+Syntribos ? Automated API Security Kung fu for OpenStack : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17847
+
+Impurities in the water ? How dependency vulnerability affects an OpenStack cloud : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17854
+
+Please vote for them :)
+Thank you !
+
+Best Regards,
+Khanak
+From: Maria Bracho <mbracho at redhat.com<mailto:mbracho at redhat.com>>
+Date: Wednesday, February 15, 2017 at 1:45 PM
+To: "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Two more to the list!
+
+Providing Tooling for Effective Collaboration (based on OpenStack-Infra) - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18328
+
+The Power of Collaboration: Testing OpenStack using Distributed Continuous Integration (panel with Dell, Rackspace and Red Hat)  - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18318
+
+Regards,
+Maria
+
+On Wed, Feb 15, 2017 at 2:20 PM, Bonell Manjarrez, Marcela <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>> wrote:
+My hands-on training:
+?Using OpenStack SDKs to create my first cloud native application? - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17736
+
+Marcela Bonell
+
+From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+Date: Wednesday, February 15, 2017 at 1:15 PM
+To: Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Here is one more:
+
+Saving one cloud at a time with tenant care<https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18310>
+
+
+On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>> wrote:
+Here is my talk! https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17632
+
+On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Two more:
+
+Code is not self documenting - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+
+Ci/CD in Documentation - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+
+On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Please add to this list I didn't go through every category:
+
+Git and Gerrit Lunch and Learn - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+Why you should take the COA - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+Strategies to Foster Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+Guiding the Future of Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+No Code No Problem - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+Tales from 5 women - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+It's an OpenSource World - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+Plug for Major Hayden, this presentation helped me put myself out there - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170215/3f0cd541/attachment-0001.html>
+
+From ifat.afek at nokia.com  Thu Feb 16 10:01:34 2017
+From: ifat.afek at nokia.com (Afek, Ifat (Nokia - IL))
+Date: Thu, 16 Feb 2017 10:01:34 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <OF760EC974.1AA94466-ON002580C9.000D555F-852580C9.000DA0D9@notes.na.collabserv.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+ <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+ <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+ <F9260FECD2960A4D83AA5C9F995F781642E766A5@MX308CL02.corp.emc.com>
+ <OF760EC974.1AA94466-ON002580C9.000D555F-852580C9.000DA0D9@notes.na.collabserv.com>
+Message-ID: <DDA69C34-C235-4E19-A26A-E7BC778F099A@alcatel-lucent.com>
+
+Hi,
+
+Three more sessions:
+
+Collectd and Vitrage integration - an eventful presentation
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17737
+
+One Truth Prevails! - Deduce Unrevealed Fault with Vitrage RCA Service
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17880
+
+The Vitrage Story: from Nothing to the Big Tent
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17928
+
+Thanks,
+Ifat.
+
+From: Emily K Hugenbruch <ekhugenbruch at us.ibm.com>
+Date: Thursday, 16 February 2017 at 04:28
+To: "yang, xing" <Xing.Yang at dell.com>
+Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+
+Here are mine:
+Around the world in 80 commits: working with a global team and global community
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17683
+Here there be dragons: Adventures in running OpenStack on non-x86 architectures
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17673
+OpenStack Mentoring: The Ninja Becomes the Sensei
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17681
+Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+[nactive hide details for "yang, xing" ---02/15/2017 09:24:23 PM---I'm re-]"yang, xing" ---02/15/2017 09:24:23 PM---I'm re-sending this email because the previous one was blocked due to my email address change. Here
+
+From: "yang, xing" <Xing.Yang at dell.com>
+To: "Dipa Thakkar (dthakkar)" <dthakkar at cisco.com>, "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Date: 02/15/2017 09:24 PM
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+________________________________
+
+
+
+I'm re-sending this email because the previous one was blocked due to my email address change.
+
+Here are two more:
+
+Storage Capabilities in Cinder
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17460
+
+Contributing to OpenStack: Doing the Dirty Jobs
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17711
+
+Thanks!
+Xing
+
+________________________________
+
+From: Dipa Thakkar (dthakkar) [dthakkar at cisco.com]
+Sent: Wednesday, February 15, 2017 4:30 PM
+To: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Next Generation OpenStack Developers: Collaboration Review https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18379
+
+Hoping to present the above.
+Dipa
+From: "Nangia, Khanak" <khanak.nangia at intel.com>
+Date: Wednesday, February 15, 2017 at 4:15 PM
+To: Maria Bracho <mbracho at redhat.com>, "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com>
+Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+My talks :
+3 more to the list
+
+Short History of OpenStack Projects? security pitfalls : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17857
+
+Syntribos ? Automated API Security Kung fu for OpenStack : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17847
+
+Impurities in the water ? How dependency vulnerability affects an OpenStack cloud : https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17854
+
+Please vote for them :)
+Thank you !
+
+Best Regards,
+Khanak
+From: Maria Bracho <mbracho at redhat.com<mailto:mbracho at redhat.com>>
+Date: Wednesday, February 15, 2017 at 1:45 PM
+To: "Bonell Manjarrez, Marcela" <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Two more to the list!
+
+Providing Tooling for Effective Collaboration (based on OpenStack-Infra) - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18328
+
+The Power of Collaboration: Testing OpenStack using Distributed Continuous Integration (panel with Dell, Rackspace and Red Hat) - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18318
+
+Regards,
+Maria
+
+On Wed, Feb 15, 2017 at 2:20 PM, Bonell Manjarrez, Marcela <marcela.bonell.manjarrez at intel.com<mailto:marcela.bonell.manjarrez at intel.com>> wrote:
+My hands-on training:
+?Using OpenStack SDKs to create my first cloud native application? - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17736
+
+Marcela Bonell
+
+From: Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>>
+Date: Wednesday, February 15, 2017 at 1:15 PM
+To: Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+Here is one more:
+
+Saving one cloud at a time with tenant care<https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18310>
+
+
+On Wed, Feb 15, 2017 at 2:09 PM, Kendall Nelson <kennelson11 at gmail.com<mailto:kennelson11 at gmail.com>> wrote:
+Here is my talk! https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17632
+
+On Wed, Feb 15, 2017 at 11:17 AM Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Two more:
+
+Code is not self documenting - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18078
+
+Ci/CD in Documentation - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17888
+
+On Wed, Feb 15, 2017 at 11:04 AM, Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Please add to this list I didn't go through every category:
+
+Git and Gerrit Lunch and Learn - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+Why you should take the COA - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+Strategies to Foster Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+Guiding the Future of Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+No Code No Problem - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+Tales from 5 women - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+It's an OpenSource World - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+Plug for Major Hayden, this presentation helped me put myself out there - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170216/ca412840/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.gif
+Type: image/gif
+Size: 106 bytes
+Desc: image001.gif
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170216/ca412840/attachment-0001.gif>
+
+From ifat.afek at nokia.com  Thu Feb 16 15:02:24 2017
+From: ifat.afek at nokia.com (Afek, Ifat (Nokia - IL))
+Date: Thu, 16 Feb 2017 15:02:24 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <DDA69C34-C235-4E19-A26A-E7BC778F099A@alcatel-lucent.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+ <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+ <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+ <F9260FECD2960A4D83AA5C9F995F781642E766A5@MX308CL02.corp.emc.com>
+ <OF760EC974.1AA94466-ON002580C9.000D555F-852580C9.000DA0D9@notes.na.collabserv.com>
+ <DDA69C34-C235-4E19-A26A-E7BC778F099A@alcatel-lucent.com>
+Message-ID: <2CBC6BA5-7C4F-4F74-8132-8B11442B01F6@alcatel-lucent.com>
+
+Hi,
+
+Three more sessions:
+
+Collectd and Vitrage integration - an eventful presentation
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17737
+
+One Truth Prevails! - Deduce Unrevealed Fault with Vitrage RCA Service
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17880
+
+The Vitrage Story: from Nothing to the Big Tent
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17928
+
+Thanks,
+Ifat.
+
+From: Emily K Hugenbruch <ekhugenbruch at us.ibm.com>
+Date: Thursday, 16 February 2017 at 04:28
+To: "yang, xing" <Xing.Yang at dell.com>
+Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+
+Here are mine:
+Around the world in 80 commits: working with a global team and global community
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17683
+Here there be dragons: Adventures in running OpenStack on non-x86 architectures
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17673
+OpenStack Mentoring: The Ninja Becomes the Sensei
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17681
+Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+[active hide details for "yang, xing" ---02/15/2017 09:24:23 PM---I'm re-]"yang, xing" ---02/15/2017 09:24:23 PM---I'm re-sending this email because the previous one was blocked due to my email address change. Here
+
+From: "yang, xing" <Xing.Yang at dell.com>
+To: "Dipa Thakkar (dthakkar)" <dthakkar at cisco.com>, "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Date: 02/15/2017 09:24 PM
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+________________________________
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170216/3b3f936b/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.gif
+Type: image/gif
+Size: 107 bytes
+Desc: image001.gif
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170216/3b3f936b/attachment.gif>
+
+From bfcohen at luthcomputer.com  Thu Feb 16 17:57:27 2017
+From: bfcohen at luthcomputer.com (Beth Cohen)
+Date: Thu, 16 Feb 2017 12:57:27 -0500
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <2CBC6BA5-7C4F-4F74-8132-8B11442B01F6@alcatel-lucent.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+ <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+ <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+ <F9260FECD2960A4D83AA5C9F995F781642E766A5@MX308CL02.corp.emc.com>
+ <OF760EC974.1AA94466-ON002580C9.000D555F-852580C9.000DA0D9@notes.na.collabserv.com>
+ <DDA69C34-C235-4E19-A26A-E7BC778F099A@alcatel-lucent.com>
+ <2CBC6BA5-7C4F-4F74-8132-8B11442B01F6@alcatel-lucent.com>
+Message-ID: <cd214f47-b660-8300-be85-07ce30350242@luthcomputer.com>
+
+And these:
+
+
+      Verizon Product Case Study - OpenStack at the Edge
+
+https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/17470
+
+
+      OpenStack Security - Translating it into Real World products
+
+https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/17488
+
+
+      The Evolution of the User Group: Facilitating OpenStack Adoption
+
+https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/18295
+
+
+
+-- 
+_____________________________________________________________________
+
+Beth Cohen	
+Luth Computer Specialists, Inc.
+www.luthcomputer.com
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170216/12557e4f/attachment-0001.html>
+
+From rossetti.megan18 at gmail.com  Fri Feb 17 14:11:03 2017
+From: rossetti.megan18 at gmail.com (Megan Rossetti)
+Date: Fri, 17 Feb 2017 09:11:03 -0500
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <cd214f47-b660-8300-be85-07ce30350242@luthcomputer.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CAFs83QpZSz8Vo2QGYh4uMfBWN7QA4-DbqD+_2Lji1a1jLj4JoA@mail.gmail.com>
+ <CAJ6yrQj=KJUTa_ycd_vsU1+=cVvH=Ne8xSV8Ay=7=+_XUn=JBw@mail.gmail.com>
+ <CAPrU3jHbBUZ2sMwcUk3ORaxzGv-qdnD+8UWtaw7jh6193SFq-w@mail.gmail.com>
+ <5D3C266A-F238-4BA1-BB17-06DD67364A47@intel.com>
+ <CAM6SK=ByrDUoJWvaDf7x0k9kSNryq-RQo=mVT3Z2fv1=R0Cx6g@mail.gmail.com>
+ <D3C81C1F-0C3D-4F60-9083-69E426A1483A@intel.com>
+ <12EB67FA-670E-4F16-AEB6-F10C5D007F72@cisco.com>
+ <F9260FECD2960A4D83AA5C9F995F781642E766A5@MX308CL02.corp.emc.com>
+ <OF760EC974.1AA94466-ON002580C9.000D555F-852580C9.000DA0D9@notes.na.collabserv.com>
+ <DDA69C34-C235-4E19-A26A-E7BC778F099A@alcatel-lucent.com>
+ <2CBC6BA5-7C4F-4F74-8132-8B11442B01F6@alcatel-lucent.com>
+ <cd214f47-b660-8300-be85-07ce30350242@luthcomputer.com>
+Message-ID: <CAG_yZdjAAD0qZizu=pyFeXj--k-FPHuNaVvXgAnYAW+jDWfWrQ@mail.gmail.com>
+
+Good morning,
+
+Here are a couple more for consideration:
+
+*Walmart's Open Source Culture Success*
+
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17823
+
+
+*OpenStack for the Masses*
+
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18140
+
+
+Thank you!
+
+
+ - Megan
+
+
+On Thu, Feb 16, 2017 at 12:57 PM, Beth Cohen <bfcohen at luthcomputer.com>
+wrote:
+
+> And these:
+> Verizon Product Case Study - OpenStack at the Edge
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/17470
+>
+> OpenStack Security - Translating it into Real World products
+>
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/17488
+> The Evolution of the User Group: Facilitating OpenStack Adoption
+>
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/18295
+>
+>
+> --
+> _____________________________________________________________________
+>
+> Beth Cohen	
+> Luth Computer Specialists, Inc.www.luthcomputer.com
+> 15 Wellington Street
+> Arlington, MA 02476
+> bfcohen at luthcomputer.com
+> Cell 617-721-7256 <(617)%20721-7256>                                                                  781-646-4018 <(781)%20646-4018>
+> Twitter: @bfcohen
+> Skype: bfcohen100
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170217/a244f243/attachment.html>
+
+From irenab.dev at gmail.com  Mon Feb 20 07:53:04 2017
+From: irenab.dev at gmail.com (Irena Berezovsky)
+Date: Mon, 20 Feb 2017 09:53:04 +0200
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+Message-ID: <CALqgCCqDqnXZC9FQZ3MemXTPO6O0gzYO0VVZnY3hua9_kUJD2Q@mail.gmail.com>
+
+One more:
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17700
+
+On Wed, Feb 15, 2017 at 7:04 PM, Amy Marrich <amy at demarco.com> wrote:
+
+> Please add to this list I didn't go through every category:
+>
+> Git and Gerrit Lunch and Learn - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17610
+>
+> Why you should take the COA - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17686
+>
+> Strategies to Foster Diversity - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18301
+>
+> Guiding the Future of Diversity - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18274
+>
+> No Code No Problem - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18574
+>
+> Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-
+> speakers#/18414
+>
+> Tales from 5 women - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/18540
+>
+> It's an OpenSource World - https://www.openstack.org/
+> summit/boston-2017/vote-for-speakers#/17487
+>
+> Plug for Major Hayden, this presentation helped me put myself out there -
+> https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170220/c10d82b7/attachment.html>
+
+From amy at demarco.com  Mon Feb 20 18:41:53 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 20 Feb 2017 12:41:53 -0600
+Subject: [Women-of-openstack] Reminders - Meeting cancellation and Voting
+	Deadline
+Message-ID: <CAFs83Qo69psvvAJ734uOOHLutpU7t+E-TKGJMeptsOZh_NjHUA@mail.gmail.com>
+
+Just a reminder that there is no Women of OpenStack meeting today due to
+the PTG and President's Day in the US.
+
+Also remember voting for Summit Presentations ends Wednesday 2/22 at 6:59
+UTC so get your votes in!
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170220/52ce4acb/attachment.html>
+
+From jm4186 at att.com  Mon Feb 20 18:47:37 2017
+From: jm4186 at att.com (MORRIS, JANET R)
+Date: Mon, 20 Feb 2017 18:47:37 +0000
+Subject: [Women-of-openstack] Reminders - Meeting cancellation and
+ Voting	Deadline
+In-Reply-To: <CAFs83Qo69psvvAJ734uOOHLutpU7t+E-TKGJMeptsOZh_NjHUA@mail.gmail.com>
+References: <CAFs83Qo69psvvAJ734uOOHLutpU7t+E-TKGJMeptsOZh_NjHUA@mail.gmail.com>
+Message-ID: <13316E14B5F88349B5986225A4791DAF1B596496@GAALPA1MSGUSRBG.ITServices.sbc.com>
+
+Reminder to vote for our presentations . . .
+
+Tales of 5 women making AT&T a leader in openstack adoption
+https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/18540
+
+Comprehensive VNF Testing: Achieving Agility without Risking Service Reliability?
+https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/18526
+
+Automation of End-to-End and Full Stack Testing of an OpenStack Cloud?
+https://www.openstack.org/summit/boston-2017/vote-for-speakers/#/18511
+
+Thanks!
+
+Janet R. Morris
+Director-Technology
+AIC ? AT&T Integrated Cloud, Testing & Environments
+Office: 732-420-8273
+Cell: 732-371-1513
+
+-  This email is AT&T Proprietary - Use pursuant to company instructions
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170220/b2b277e4/attachment.html>
+
+From deepika at cisco.com  Mon Feb 20 23:51:38 2017
+From: deepika at cisco.com (Deepika Gupta (deepika))
+Date: Mon, 20 Feb 2017 23:51:38 +0000
+Subject: [Women-of-openstack] List of Topics from Women or on Diversity
+In-Reply-To: <CALqgCCqDqnXZC9FQZ3MemXTPO6O0gzYO0VVZnY3hua9_kUJD2Q@mail.gmail.com>
+References: <CAFs83QrgL1w+JzAeABYMp=oJZZKX7MOXm5hGYmgDhv=wgnvYvg@mail.gmail.com>
+ <CALqgCCqDqnXZC9FQZ3MemXTPO6O0gzYO0VVZnY3hua9_kUJD2Q@mail.gmail.com>
+Message-ID: <D4D0C097.30A54%deepika@cisco.com>
+
+Hi All,
+
+Sorry for the delayed response but please vote for my talk as well on pen testing in openstack for which the link is below :
+
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17507
+
+Thanks,
+
+Deepika
+
+
+
+
+
+
+From: Irena Berezovsky <irenab.dev at gmail.com<mailto:irenab.dev at gmail.com>>
+Date: Sunday, February 19, 2017 at 11:53 PM
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] List of Topics from Women or on Diversity
+
+One more:
+https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17700
+
+On Wed, Feb 15, 2017 at 7:04 PM, Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>> wrote:
+Please add to this list I didn't go through every category:
+
+Git and Gerrit Lunch and Learn - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17610
+
+Why you should take the COA - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17686
+
+Strategies to Foster Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18301
+
+Guiding the Future of Diversity - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18274
+
+No Code No Problem - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18574
+
+Pushing to 5000 - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18414
+
+Tales from 5 women - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/18540
+
+It's an OpenSource World - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17487
+
+Plug for Major Hayden, this presentation helped me put myself out there - https://www.openstack.org/summit/boston-2017/vote-for-speakers#/17655
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170220/744531e4/attachment.html>
+
+From aqsamm at gmail.com  Tue Feb 21 09:24:26 2017
+From: aqsamm at gmail.com (Aqsa Malik)
+Date: Tue, 21 Feb 2017 10:24:26 +0100
+Subject: [Women-of-openstack] Volunteer speakers for OpenStack
+Message-ID: <CA+85TMu0qBqmQCkH10fZ9Rd-C_KBHy_htWkuN6W+TYvpoMwbjQ@mail.gmail.com>
+
+Hi Nick,
+
+I would be interested in volunteering if you are looking for topics related
+to women/diversity, or kick starting your contribution journey in
+OpenStack, plus anything related to VNF management and Orchestration
+projects.
+
+Thanks
+
+-- 
+Aqsa Malik
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170221/55a3d5ff/attachment-0001.html>
+
+From nick.jones at datacentred.co.uk  Mon Feb 27 13:38:58 2017
+From: nick.jones at datacentred.co.uk (Nick Jones)
+Date: Mon, 27 Feb 2017 13:38:58 +0000
+Subject: [Women-of-openstack] Volunteer speakers for OpenStack
+In-Reply-To: <CA+85TMu0qBqmQCkH10fZ9Rd-C_KBHy_htWkuN6W+TYvpoMwbjQ@mail.gmail.com>
+References: <CA+85TMu0qBqmQCkH10fZ9Rd-C_KBHy_htWkuN6W+TYvpoMwbjQ@mail.gmail.com>
+Message-ID: <37453584-7CCD-4EE0-B669-6B7F90C77AA4@datacentred.co.uk>
+
+Hi Aqsa.
+
+> On 21 Feb 2017, at 09:24, Aqsa Malik <aqsamm at gmail.com> wrote:
+> 
+> Hi Nick,
+> 
+> I would be interested in volunteering if you are looking for topics related to women/diversity, or kick starting your contribution journey in OpenStack, plus anything related to VNF management and Orchestration projects.
+
+Absolutely!  I?ll drop you another email off-list with details.
+
+Thanks.
+
+-- 
+
+-Nick
+-- 
+DataCentred Limited registered in England and Wales no. 05611763
+
+

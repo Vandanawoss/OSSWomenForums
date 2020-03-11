@@ -1,0 +1,354 @@
+From chanika at gmail.com  Tue Aug 29 09:43:59 2006
+From: chanika at gmail.com (Chani)
+Date: Tue, 29 Aug 2006 00:43:59 -0700
+Subject: [Kde-women] hello?
+Message-ID: <1d3f149e0608290043o6a158decoe03b2070f12fd87f@mail.gmail.com>
+
+this list seems pretty dead. is there anyone out there? :)
+I'm Chani, I just finished my SoC project for kopete...
+
+-- 
+This message brought to you by evyl bananas and the number 3.
+www.chani3.com
+
+From annemarie.mahfouf at free.fr  Tue Aug 29 17:41:18 2006
+From: annemarie.mahfouf at free.fr (annemarie.mahfouf at free.fr)
+Date: Tue, 29 Aug 2006 17:41:18 +0200
+Subject: [Kde-women] hello?
+In-Reply-To: <1d3f149e0608290043o6a158decoe03b2070f12fd87f@mail.gmail.com>
+References: <1d3f149e0608290043o6a158decoe03b2070f12fd87f@mail.gmail.com>
+Message-ID: <1156866078.44f4601e73b00@imp3-g19.free.fr>
+
+Quoting Chani <chanika at gmail.com>:
+
+> this list seems pretty dead. is there anyone out there? :)
+> I'm Chani, I just finished my SoC project for kopete...
+>
+> --
+> This message brought to you by evyl bananas and the number 3.
+> www.chani3.com
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+>
+
+
+Hi Chani,
+
+Congrats on your SoC project, it's great to have newcomers in KDE, especially
+women!!! This list is pretty quiet, yes but maybe it can be revived! I just got
+my ADSL connection in France (I moved from Canada end of June and was on
+holiday) so I am pretty verbose right now!
+
+annma
+
+From pdparo at yahoo.com  Tue Aug 29 18:52:31 2006
+From: pdparo at yahoo.com (Paula Costa)
+Date: Tue, 29 Aug 2006 09:52:31 -0700 (PDT)
+Subject: [Kde-women] hello?
+Message-ID: <20060829165231.4822.qmail@web51005.mail.yahoo.com>
+
+Hello All,
+
+Trying to give my contribution to wake up this list, I
+will introduce myself.
+My name is Paula, 28 years old, and I'm from Brazil.
+I'm an Electrical Engineer with some experience
+developing software.
+My interests in participating KDE Women project are:
+- First of all, incentivate projects for the Linux
+world developed by women;
+- Trying to engage myself in running or future
+projects (even if I don't have
+a huge experience as a programmer).
+
+Right now, I'm nursering my 5 months old daughter and
+attending some master classes
+about the development of games using Java technology.
+Due to both facts I`m current interested in developing
+computer games for babies or
+little children.
+Any idea or proposals?
+
+Best Regards,
+
+Paula
+ 
+
+-----Original Message-----
+From: annemarie.mahfouf at free.fr
+[mailto:annemarie.mahfouf at free.fr]
+Sent: Tuesday, August 29, 2006 12:41 PM
+To: For discussion of the KDE Women project
+Subject: Re: [Kde-women] hello?
+
+
+Quoting Chani <chanika at gmail.com>:
+
+> this list seems pretty dead. is there anyone out
+there? :)
+> I'm Chani, I just finished my SoC project for
+kopete...
+>
+> --
+> This message brought to you by evyl bananas and the
+number 3.
+> www.chani3.com
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+>
+
+
+Hi Chani,
+
+Congrats on your SoC project, it's great to have
+newcomers in KDE, especially
+women!!! This list is pretty quiet, yes but maybe it
+can be revived! I just got
+my ADSL connection in France (I moved from Canada end
+of June and was on
+holiday) so I am pretty verbose right now!
+
+annma
+_______________________________________________
+kde-women mailing list
+kde-women at kde.org
+https://mail.kde.org/mailman/listinfo/kde-women
+
+
+__________________________________________________
+Do You Yahoo!?
+Tired of spam?  Yahoo! Mail has the best spam protection around 
+http://mail.yahoo.com 
+
+From annemarie.mahfouf at free.fr  Tue Aug 29 20:46:24 2006
+From: annemarie.mahfouf at free.fr (annemarie.mahfouf at free.fr)
+Date: Tue, 29 Aug 2006 20:46:24 +0200
+Subject: [Kde-women] hello?
+In-Reply-To: <20060829165231.4822.qmail@web51005.mail.yahoo.com>
+References: <20060829165231.4822.qmail@web51005.mail.yahoo.com>
+Message-ID: <1156877184.44f48b805ade4@imp1-g19.free.fr>
+
+Hi,
+
+There is a need for kids software as there are few available. In KDE-Edu we try
+to develop educational software but there is none for very young children.
+The first one your child would use would be a "baby keys" one. Typing on any key
+will trigger an action as a sound, a baloon inflating, an animation of
+something...
+Any small game which respond to a baby typing would be nice.
+A coloring book as well is missing. TuxPaint is a nice painting tool though.
+You can try GCompris which is not KDE but it'll give you an idea of what exists.
+
+I also have a nearly-6-months daughter :) and I am also interested in kid
+software :))
+
+Nice meeting you!
+
+annma
+
+Quoting Paula Costa <pdparo at yahoo.com>:
+
+> Hello All,
+>
+> Trying to give my contribution to wake up this list, I
+> will introduce myself.
+> My name is Paula, 28 years old, and I'm from Brazil.
+> I'm an Electrical Engineer with some experience
+> developing software.
+> My interests in participating KDE Women project are:
+> - First of all, incentivate projects for the Linux
+> world developed by women;
+> - Trying to engage myself in running or future
+> projects (even if I don't have
+> a huge experience as a programmer).
+>
+> Right now, I'm nursering my 5 months old daughter and
+> attending some master classes
+> about the development of games using Java technology.
+> Due to both facts I`m current interested in developing
+> computer games for babies or
+> little children.
+> Any idea or proposals?
+>
+> Best Regards,
+>
+> Paula
+>
+>
+> -----Original Message-----
+> From: annemarie.mahfouf at free.fr
+> [mailto:annemarie.mahfouf at free.fr]
+> Sent: Tuesday, August 29, 2006 12:41 PM
+> To: For discussion of the KDE Women project
+> Subject: Re: [Kde-women] hello?
+>
+>
+> Quoting Chani <chanika at gmail.com>:
+>
+> > this list seems pretty dead. is there anyone out
+> there? :)
+> > I'm Chani, I just finished my SoC project for
+> kopete...
+> >
+> > --
+> > This message brought to you by evyl bananas and the
+> number 3.
+> > www.chani3.com
+> > _______________________________________________
+> > kde-women mailing list
+> > kde-women at kde.org
+> > https://mail.kde.org/mailman/listinfo/kde-women
+> >
+>
+>
+> Hi Chani,
+>
+> Congrats on your SoC project, it's great to have
+> newcomers in KDE, especially
+> women!!! This list is pretty quiet, yes but maybe it
+> can be revived! I just got
+> my ADSL connection in France (I moved from Canada end
+> of June and was on
+> holiday) so I am pretty verbose right now!
+>
+> annma
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+>
+>
+> __________________________________________________
+> Do You Yahoo!?
+> Tired of spam?  Yahoo! Mail has the best spam protection around
+> http://mail.yahoo.com
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+>
+
+
+
+From ale.cerqueda at gmail.com  Tue Aug 29 20:07:30 2006
+From: ale.cerqueda at gmail.com (Ale Cerqueda)
+Date: Tue, 29 Aug 2006 13:07:30 -0500
+Subject: [Kde-women] hello?
+In-Reply-To: <20060829165231.4822.qmail@web51005.mail.yahoo.com>
+References: <20060829165231.4822.qmail@web51005.mail.yahoo.com>
+Message-ID: <e39e1f30608291107j28d3e96enf797beba642e4788@mail.gmail.com>
+
+Hi, im Alejandra Cerqueda from Puebla, Mexico.
+Im taking part of the Coordination of the "Encuentro Nacional de Linux y
+Software Libre ENLi-2006" at October 19-21.
+ ENLi-2006 is a contact point for a lot of people that is interested in
+Linux techs.
+Well, the idea of todays witting is to invite you to take part of this event
+. Im interested in create a enthusiast group of devoloper women here in
+Puebla,Mexico and I know that KDE-women  its an important asociation.
+One of the activities in our event is to have a space of discussion about
+some important issues. One of them is "Free Software & Women".
+I would like you to participate in a videoconference and talk about this
+issue, and share with the Linux users community your experiences and
+knowledge of this topics.
+Please take consideration of this sincere request.
+
+-- 
+Alejandra Cerqueda Bejar
+ENLi-2006
+
+www.enli.org.mx
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20060829/d515d49a/attachment.html 
+
+From bab_sweta at yahoo.co.in  Thu Aug 31 08:46:40 2006
+From: bab_sweta at yahoo.co.in (sweta pandey)
+Date: Thu, 31 Aug 2006 07:46:40 +0100 (BST)
+Subject: [Kde-women] help
+Message-ID: <20060831064641.89901.qmail@web7707.mail.in.yahoo.com>
+
+Respected Madam,
+  helo i m sweta from india
+  i m right now using kde-2.1 and qt-3.5
+  plz tell me how to do
+  interface b/w kde and qt i read yr online tutorial but still not get it.
+  i mean i m desigining my GUI  in qt designer and after setting signal and slots i m implementing slots in kde
+  so plz tell me step by step
+  Thanks in advance
+  sweta
+
+ 				
+---------------------------------
+ Here's a new way to find what you're looking for - Yahoo! Answers 
+ Send FREE SMS to your friend's mobile from Yahoo! Messenger Version 8. Get it NOW
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20060831/635743d6/attachment.html 
+
+From bab_sweta at yahoo.co.in  Thu Aug 31 15:17:03 2006
+From: bab_sweta at yahoo.co.in (sweta pandey)
+Date: Thu, 31 Aug 2006 14:17:03 +0100 (BST)
+Subject: [Kde-women] helo detail required
+Message-ID: <20060831131703.67877.qmail@web7701.mail.in.yahoo.com>
+
+helo i m sweta from india .
+  i m right now using kde-2.1 and QT-3.3.0 on redhat-9
+  can any body tell step by sep how to interface b/w qt and kde step by step i read tutoria but still i dont know
+  and how to upgrade kde-2.1 to kde-3 on redhat -9
+  Thx and Regards,
+  sweta
+   
+
+ 				
+---------------------------------
+ Here's a new way to find what you're looking for - Yahoo! Answers 
+ Send FREE SMS to your friend's mobile from Yahoo! Messenger Version 8. Get it NOW
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20060831/20735aa9/attachment.html 
+
+From annemarie.mahfouf at free.fr  Thu Aug 31 20:19:25 2006
+From: annemarie.mahfouf at free.fr (annemarie.mahfouf at free.fr)
+Date: Thu, 31 Aug 2006 20:19:25 +0200
+Subject: [Kde-women] helo detail required
+In-Reply-To: <20060831131703.67877.qmail@web7701.mail.in.yahoo.com>
+References: <20060831131703.67877.qmail@web7701.mail.in.yahoo.com>
+Message-ID: <1157048365.44f7282da4f2c@imp7-g19.free.fr>
+
+Hi Sweta,
+
+You cannot code using qt3 and kde2, you have to have the same number version.
+To update kde2 to kded3 on Redhat, I guess you can use the Redhat package
+manager probably.
+
+Please tell us more specifically what you need to understand and maybe we can
+explain.
+
+Good luck,
+
+Anne-Marie
+
+Quoting sweta pandey <bab_sweta at yahoo.co.in>:
+
+> helo i m sweta from india .
+>   i m right now using kde-2.1 and QT-3.3.0 on redhat-9
+>   can any body tell step by sep how to interface b/w qt and kde step by step
+> i read tutoria but still i dont know
+>   and how to upgrade kde-2.1 to kde-3 on redhat -9
+>   Thx and Regards,
+>   sweta
+>
+>
+>
+> ---------------------------------
+>  Here's a new way to find what you're looking for - Yahoo! Answers
+>  Send FREE SMS to your friend's mobile from Yahoo! Messenger Version 8. Get
+> it NOW
+
+
+

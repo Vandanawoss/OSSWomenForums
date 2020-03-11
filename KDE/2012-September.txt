@@ -1,0 +1,994 @@
+From smayres at gmail.com  Sat Sep  8 11:38:32 2012
+From: smayres at gmail.com (Camila Ayres)
+Date: Sat, 8 Sep 2012 13:38:32 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAFkLwpXEec3OhXkVmapUh1R7iFPUriQNkUke1MspEYUvk=3Meg@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <CAFFVnfNhjATNP9kR-J+UVN2YfKkzdRnf-tbNWPWAu74qZ-KDNQ@mail.gmail.com>
+ <CAP1mu2x7yernM0-6Eu+b2xBcAd8RH5XGin69u53vy5ZbwB=yJQ@mail.gmail.com>
+ <CAFkLwpXEec3OhXkVmapUh1R7iFPUriQNkUke1MspEYUvk=3Meg@mail.gmail.com>
+Message-ID: <CABe7M6snQGySOFj6_ArRsDMo+-N1u96Tdr3EG=J5gb4iWQCsJg@mail.gmail.com>
+
+Hello People,
+
+Don't forget to add what are your plans for ada Lovelace day in the spreedsheet:
+
+https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc
+
+We are getting close to October 16th :D
+
+Camila
+
+On Thu, Aug 2, 2012 at 8:17 AM, Lydia Pintscher <lydia at kde.org> wrote:
+> On Thu, Aug 2, 2012 at 6:34 AM,  <the.lady.phoenix at gmail.com> wrote:
+>> I hope not G+ or anything like that.  IRC works quite well, why rock
+>> the boat with new and hard to use and not available to everyone stuff?
+>
+> In addition to what Dario said: We want to reach a new audience. For
+> them IRC isn't necessarily easier than Google Hangout. IRC is easy for
+> us - but we're looking to expand our reach. You need to pick up people
+> where they are.
+>
+>
+> Cheers
+> Lydia
+>
+> --
+> Lydia Pintscher - http://about.me/lydia.pintscher
+> KDE Community Working Group / KDE e.V. board member
+> http://kde.org - http://open-advice.org
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+From rauch at kde.org  Mon Sep 10 14:55:11 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Mon, 10 Sep 2012 16:55:11 +0200
+Subject: [Kde-women] Input for talk?
+In-Reply-To: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+References: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+Message-ID: <CAA0Jy_y4ysF5PYi5FB4EQy4BpOqvnLq4sjrH4QDXePed-1d6ww@mail.gmail.com>
+
+No ideas? Or any hints as to what *you* would find interesting? My
+current thinking is now along the lines of "what can you learn from
+FLOSS communities" and tie that to events. Any input would be
+appreciated :)
+
+On 21 August 2012 16:00, Claudia Rauch <rauch at kde.org> wrote:
+> Hi all,
+>
+> I'm hosting a short session at http://geekgirlmeetup.de/ on September
+> 15th. I will recycle my talk from FSCONS last year, on how to organize
+> and run successful sprints [1], but since I assume that not everyone
+> in the audience will be a developer or contributor to a FLOSS project,
+> I want to put a bit of a different twist to the talk - something like
+> "why should you organise a meeting/sprint" and how you can pull it off
+> easily.
+>
+> Do any of you have some input for this? Maybe also something
+> especially from a female perspective?
+>
+> Thanks,
+> Claudia
+>
+>
+> [1] http://fscons.org/2011/my.fscons.org/schedule/session/71/index.html
+>
+> --
+>
+> Claudia Rauch
+> Business Manager
+> KDE e.V.
+> Linienstr. 141
+> 10115 Berlin
+> Germany
+> Phone: +49 (0) 30 2023 7305 0
+> Fax: +49 (0) 30 2023 7305 9
+> Mobile: +49 178 522 3086
+>
+> KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+> (Charlottenburg), with number VR 31685. Its president is Cornelius
+> Schumacher. For more information please see http://ev.kde.org, and
+> http://kde.org/
+
+
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+(Charlottenburg), with number VR 31685. Its president is Cornelius
+Schumacher. For more information please see http://ev.kde.org, and
+http://kde.org/
+
+From lydia at kde.org  Thu Sep 13 20:08:34 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Thu, 13 Sep 2012 22:08:34 +0200
+Subject: [Kde-women] Input for talk?
+In-Reply-To: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+References: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+Message-ID: <CAFkLwpVML5U=QHxaNW-+xMFoiwua-hp9Uz92VbPrmbM62H8==w@mail.gmail.com>
+
+On Tue, Aug 21, 2012 at 4:00 PM, Claudia Rauch <rauch at kde.org> wrote:
+> Hi all,
+>
+> I'm hosting a short session at http://geekgirlmeetup.de/ on September
+> 15th. I will recycle my talk from FSCONS last year, on how to organize
+> and run successful sprints [1], but since I assume that not everyone
+> in the audience will be a developer or contributor to a FLOSS project,
+> I want to put a bit of a different twist to the talk - something like
+> "why should you organise a meeting/sprint" and how you can pull it off
+> easily.
+>
+> Do any of you have some input for this? Maybe also something
+> especially from a female perspective?
+
+Hey :)
+
+Here's a few things that come to my mind right now:
+* you get to know people
+* people get to know you
+* it's a task that developers are usually thrilled about someone else
+taking it -> they will love you
+* you learn a lot about organizing and planning
+* it's one way to give back to Free Software in an essential way
+without writing code
+* you get to show your city/country to a bunch of awesome people from abroad
+* language skills++
+* people skills++
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From smayres at gmail.com  Thu Sep 13 20:53:36 2012
+From: smayres at gmail.com (Camila Ayres)
+Date: Thu, 13 Sep 2012 22:53:36 +0200
+Subject: [Kde-women] Schedule for Ada Lovelace day
+Message-ID: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+
+Hi People,
+
+What do you think about we start to promote it?
+Aracele: you could write about it.
+
+For this would be nice more tutorials in the spreadsheet:
+
+https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc#gid=0
+
+I've decided to change mine to something easier: How easy is to
+develop a plasmoide (with qml and plasmate)
+what do you think?
+
+Even if we don't have exactly the title of the tutorials, we could at
+least tell people that we are planing to do something October 16th.
+And if the tutorials are not too long we could start at 5:00 pm UTC
+time, what do you think?
+
+Cheers,
+Camila Ayres
+
+From the.lady.phoenix at gmail.com  Fri Sep 14 00:00:25 2012
+From: the.lady.phoenix at gmail.com (the.lady.phoenix at gmail.com)
+Date: Fri, 14 Sep 2012 00:00:25 +0000
+Subject: [Kde-women] Input for talk?
+In-Reply-To: <CAFkLwpVML5U=QHxaNW-+xMFoiwua-hp9Uz92VbPrmbM62H8==w@mail.gmail.com>
+References: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+ <CAFkLwpVML5U=QHxaNW-+xMFoiwua-hp9Uz92VbPrmbM62H8==w@mail.gmail.com>
+Message-ID: <CAP1mu2y1TL2jrLeTs7FZ8PKMj+k+8MACnrO7unPqff9SiHRGcg@mail.gmail.com>
+
+well I know I'd be interested in hearing about how to make a women in
+stem (science, technology, engineering, mathematics) group in a town
+or at a school.  I've not had any success in getting one started but
+seeing as out of the 18 credits I'm taking this semester in over half
+I'm the only woman (3 classes), the the other 2 have a grand total of
+3 other women (2 and 1).  So it might be that there aren't enough
+bodies to make my idea work where I am.
+
+Sara
+
+On 13/09/2012, Lydia Pintscher <lydia at kde.org> wrote:
+> On Tue, Aug 21, 2012 at 4:00 PM, Claudia Rauch <rauch at kde.org> wrote:
+>> Hi all,
+>>
+>> I'm hosting a short session at http://geekgirlmeetup.de/ on September
+>> 15th. I will recycle my talk from FSCONS last year, on how to organize
+>> and run successful sprints [1], but since I assume that not everyone
+>> in the audience will be a developer or contributor to a FLOSS project,
+>> I want to put a bit of a different twist to the talk - something like
+>> "why should you organise a meeting/sprint" and how you can pull it off
+>> easily.
+>>
+>> Do any of you have some input for this? Maybe also something
+>> especially from a female perspective?
+>
+> Hey :)
+>
+> Here's a few things that come to my mind right now:
+> * you get to know people
+> * people get to know you
+> * it's a task that developers are usually thrilled about someone else
+> taking it -> they will love you
+> * you learn a lot about organizing and planning
+> * it's one way to give back to Free Software in an essential way
+> without writing code
+> * you get to show your city/country to a bunch of awesome people from
+> abroad
+> * language skills++
+> * people skills++
+>
+> Cheers
+> Lydia
+>
+> --
+> Lydia Pintscher - http://about.me/lydia.pintscher
+> KDE Community Working Group / KDE e.V. board member
+> http://kde.org - http://open-advice.org
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+>
+
+From rauch at kde.org  Fri Sep 14 10:26:36 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Fri, 14 Sep 2012 12:26:36 +0200
+Subject: [Kde-women] Input for talk?
+In-Reply-To: <CAP1mu2y1TL2jrLeTs7FZ8PKMj+k+8MACnrO7unPqff9SiHRGcg@mail.gmail.com>
+References: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+ <CAFkLwpVML5U=QHxaNW-+xMFoiwua-hp9Uz92VbPrmbM62H8==w@mail.gmail.com>
+ <CAP1mu2y1TL2jrLeTs7FZ8PKMj+k+8MACnrO7unPqff9SiHRGcg@mail.gmail.com>
+Message-ID: <CAA0Jy_yPYk2Umwx=n1RAZUT5=jfT8Adcyen3Evq_GoyNrOOnLQ@mail.gmail.com>
+
+On 14 September 2012 02:00,  <the.lady.phoenix at gmail.com> wrote:
+> well I know I'd be interested in hearing about how to make a women in
+> stem (science, technology, engineering, mathematics) group in a town
+> or at a school.  I've not had any success in getting one started but
+> seeing as out of the 18 credits I'm taking this semester in over half
+> I'm the only woman (3 classes), the the other 2 have a grand total of
+> 3 other women (2 and 1).  So it might be that there aren't enough
+> bodies to make my idea work where I am.
+
+Yeah, I can imagine that this isn't easy. Here in Berlin there quite a
+big start-up scene and women in tech is kind of a hype topic right now
+;).
+
+How did you promote you group? Did you reach out to the local LUG (if
+there is one) or did you talk to your teachers? Maybe they can share
+this?
+
+
+> On 13/09/2012, Lydia Pintscher <lydia at kde.org> wrote:
+>> On Tue, Aug 21, 2012 at 4:00 PM, Claudia Rauch <rauch at kde.org> wrote:
+>>> Hi all,
+>>>
+>>> I'm hosting a short session at http://geekgirlmeetup.de/ on September
+>>> 15th. I will recycle my talk from FSCONS last year, on how to organize
+>>> and run successful sprints [1], but since I assume that not everyone
+>>> in the audience will be a developer or contributor to a FLOSS project,
+>>> I want to put a bit of a different twist to the talk - something like
+>>> "why should you organise a meeting/sprint" and how you can pull it off
+>>> easily.
+>>>
+>>> Do any of you have some input for this? Maybe also something
+>>> especially from a female perspective?
+>>
+>> Hey :)
+>>
+>> Here's a few things that come to my mind right now:
+>> * you get to know people
+>> * people get to know you
+>> * it's a task that developers are usually thrilled about someone else
+>> taking it -> they will love you
+>> * you learn a lot about organizing and planning
+>> * it's one way to give back to Free Software in an essential way
+>> without writing code
+>> * you get to show your city/country to a bunch of awesome people from
+>> abroad
+>> * language skills++
+>> * people skills++
+>>
+>> Cheers
+>> Lydia
+>>
+>> --
+>> Lydia Pintscher - http://about.me/lydia.pintscher
+>> KDE Community Working Group / KDE e.V. board member
+>> http://kde.org - http://open-advice.org
+>> _______________________________________________
+>> kde-women mailing list
+>> kde-women at kde.org
+>> https://mail.kde.org/mailman/listinfo/kde-women
+>>
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+(Charlottenburg), with number VR 31685. Its president is Cornelius
+Schumacher. For more information please see http://ev.kde.org, and
+http://kde.org/
+
+From the.lady.phoenix at gmail.com  Sat Sep 15 02:42:34 2012
+From: the.lady.phoenix at gmail.com (the.lady.phoenix at gmail.com)
+Date: Sat, 15 Sep 2012 02:42:34 +0000
+Subject: [Kde-women] Input for talk?
+In-Reply-To: <CAA0Jy_yPYk2Umwx=n1RAZUT5=jfT8Adcyen3Evq_GoyNrOOnLQ@mail.gmail.com>
+References: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+ <CAFkLwpVML5U=QHxaNW-+xMFoiwua-hp9Uz92VbPrmbM62H8==w@mail.gmail.com>
+ <CAP1mu2y1TL2jrLeTs7FZ8PKMj+k+8MACnrO7unPqff9SiHRGcg@mail.gmail.com>
+ <CAA0Jy_yPYk2Umwx=n1RAZUT5=jfT8Adcyen3Evq_GoyNrOOnLQ@mail.gmail.com>
+Message-ID: <CAP1mu2w08OiU=io_txfF=JjFNfxJQomMY+dMsMh02XiGRLwDYw@mail.gmail.com>
+
+Well Claudia,
+
+I talked to my advisor, who happens to be the Computer Department
+Chair, and the advisor for the computer club.  He didn't see the need
+for a women in STEM group since there was a computer club.  The few
+programming instructors I talked to (because there is only like 3
+total in the school) didn't have any interest in becoming an advisor.
+I didn't ask anyone in the Science or Math departments as I'm not a
+student in any of those programs and didn't know whom to approach.
+The school didn't like the idea of it as it wasn't co-ed, and yet they
+have a group for black men.  This is my last semester and then
+hopefully I'll get accepted to a halfway decent school to continue my
+education.
+
+I also put up some flyers and held a couple interest meetings where I
+was the only one that showed up.  And yet, in my basic electronic
+class (AC/DC circuits) the 2 other women come to me to help them as I
+obviously know what I'm doing.
+
+As for a LUG there isn't one in town, I don't think there is one in
+the entire state!  In my linux class (which I couldn't test out of so
+I have to take it), no one else likes or uses linux including the
+instructor, and she doesn't like kde and is like don't use it use
+gnome!  Then again she is a mac person.
+
+I think its the fact that in america few want to help until they need help.
+
+Sara
+
+On 14/09/2012, Claudia Rauch <rauch at kde.org> wrote:
+> On 14 September 2012 02:00,  <the.lady.phoenix at gmail.com> wrote:
+>> well I know I'd be interested in hearing about how to make a women in
+>> stem (science, technology, engineering, mathematics) group in a town
+>> or at a school.  I've not had any success in getting one started but
+>> seeing as out of the 18 credits I'm taking this semester in over half
+>> I'm the only woman (3 classes), the the other 2 have a grand total of
+>> 3 other women (2 and 1).  So it might be that there aren't enough
+>> bodies to make my idea work where I am.
+>
+> Yeah, I can imagine that this isn't easy. Here in Berlin there quite a
+> big start-up scene and women in tech is kind of a hype topic right now
+> ;).
+>
+> How did you promote you group? Did you reach out to the local LUG (if
+> there is one) or did you talk to your teachers? Maybe they can share
+> this?
+>
+>
+>> On 13/09/2012, Lydia Pintscher <lydia at kde.org> wrote:
+>>> On Tue, Aug 21, 2012 at 4:00 PM, Claudia Rauch <rauch at kde.org> wrote:
+>>>> Hi all,
+>>>>
+>>>> I'm hosting a short session at http://geekgirlmeetup.de/ on September
+>>>> 15th. I will recycle my talk from FSCONS last year, on how to organize
+>>>> and run successful sprints [1], but since I assume that not everyone
+>>>> in the audience will be a developer or contributor to a FLOSS project,
+>>>> I want to put a bit of a different twist to the talk - something like
+>>>> "why should you organise a meeting/sprint" and how you can pull it off
+>>>> easily.
+>>>>
+>>>> Do any of you have some input for this? Maybe also something
+>>>> especially from a female perspective?
+>>>
+>>> Hey :)
+>>>
+>>> Here's a few things that come to my mind right now:
+>>> * you get to know people
+>>> * people get to know you
+>>> * it's a task that developers are usually thrilled about someone else
+>>> taking it -> they will love you
+>>> * you learn a lot about organizing and planning
+>>> * it's one way to give back to Free Software in an essential way
+>>> without writing code
+>>> * you get to show your city/country to a bunch of awesome people from
+>>> abroad
+>>> * language skills++
+>>> * people skills++
+>>>
+>>> Cheers
+>>> Lydia
+>>>
+>>> --
+>>> Lydia Pintscher - http://about.me/lydia.pintscher
+>>> KDE Community Working Group / KDE e.V. board member
+>>> http://kde.org - http://open-advice.org
+>>> _______________________________________________
+>>> kde-women mailing list
+>>> kde-women at kde.org
+>>> https://mail.kde.org/mailman/listinfo/kde-women
+>>>
+>> _______________________________________________
+>> kde-women mailing list
+>> kde-women at kde.org
+>> https://mail.kde.org/mailman/listinfo/kde-women
+>
+>
+>
+> --
+>
+> Claudia Rauch
+> Business Manager
+> KDE e.V.
+> Linienstr. 141
+> 10115 Berlin
+> Germany
+> Phone: +49 (0) 30 2023 7305 0
+> Fax: +49 (0) 30 2023 7305 9
+> Mobile: +49 178 522 3086
+>
+> KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+> (Charlottenburg), with number VR 31685. Its president is Cornelius
+> Schumacher. For more information please see http://ev.kde.org, and
+> http://kde.org/
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+>
+
+From rauch at kde.org  Mon Sep 17 08:48:09 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Mon, 17 Sep 2012 10:48:09 +0200
+Subject: [Kde-women] Input for talk?
+In-Reply-To: <CAP1mu2w08OiU=io_txfF=JjFNfxJQomMY+dMsMh02XiGRLwDYw@mail.gmail.com>
+References: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+ <CAFkLwpVML5U=QHxaNW-+xMFoiwua-hp9Uz92VbPrmbM62H8==w@mail.gmail.com>
+ <CAP1mu2y1TL2jrLeTs7FZ8PKMj+k+8MACnrO7unPqff9SiHRGcg@mail.gmail.com>
+ <CAA0Jy_yPYk2Umwx=n1RAZUT5=jfT8Adcyen3Evq_GoyNrOOnLQ@mail.gmail.com>
+ <CAP1mu2w08OiU=io_txfF=JjFNfxJQomMY+dMsMh02XiGRLwDYw@mail.gmail.com>
+Message-ID: <CAA0Jy_yHTK_ntvVzMGhkHimns+Oe_A7fWHDpk8Quw79H7L+_pg@mail.gmail.com>
+
+On 15 September 2012 04:42,  <the.lady.phoenix at gmail.com> wrote:
+> Well Claudia,
+>
+> I talked to my advisor, who happens to be the Computer Department
+> Chair, and the advisor for the computer club.  He didn't see the need
+> for a women in STEM group since there was a computer club.  The few
+> programming instructors I talked to (because there is only like 3
+> total in the school) didn't have any interest in becoming an advisor.
+> I didn't ask anyone in the Science or Math departments as I'm not a
+> student in any of those programs and didn't know whom to approach.
+> The school didn't like the idea of it as it wasn't co-ed, and yet they
+> have a group for black men.  This is my last semester and then
+> hopefully I'll get accepted to a halfway decent school to continue my
+> education.
+
+Wow, this must be frustrating... and the reaction of your teacher
+clearly show why there is a need for a women's group. I think it's
+great that you tried to organize something.
+
+> I also put up some flyers and held a couple interest meetings where I
+> was the only one that showed up.  And yet, in my basic electronic
+> class (AC/DC circuits) the 2 other women come to me to help them as I
+> obviously know what I'm doing.
+>
+> As for a LUG there isn't one in town, I don't think there is one in
+> the entire state!  In my linux class (which I couldn't test out of so
+> I have to take it), no one else likes or uses linux including the
+> instructor, and she doesn't like kde and is like don't use it use
+> gnome!  Then again she is a mac person.
+
+I hope you get the chance to go to a Linuxfest in your area some time.
+Since I'm not based in the US, I can't really offer any suggestions.
+But maybe Valorie, who should be on this list, too, can offer some
+advice.
+
+> I think its the fact that in america few want to help until they need help.
+>
+> Sara
+>
+> On 14/09/2012, Claudia Rauch <rauch at kde.org> wrote:
+>> On 14 September 2012 02:00,  <the.lady.phoenix at gmail.com> wrote:
+>>> well I know I'd be interested in hearing about how to make a women in
+>>> stem (science, technology, engineering, mathematics) group in a town
+>>> or at a school.  I've not had any success in getting one started but
+>>> seeing as out of the 18 credits I'm taking this semester in over half
+>>> I'm the only woman (3 classes), the the other 2 have a grand total of
+>>> 3 other women (2 and 1).  So it might be that there aren't enough
+>>> bodies to make my idea work where I am.
+>>
+>> Yeah, I can imagine that this isn't easy. Here in Berlin there quite a
+>> big start-up scene and women in tech is kind of a hype topic right now
+>> ;).
+>>
+>> How did you promote you group? Did you reach out to the local LUG (if
+>> there is one) or did you talk to your teachers? Maybe they can share
+>> this?
+>>
+>>
+>>> On 13/09/2012, Lydia Pintscher <lydia at kde.org> wrote:
+>>>> On Tue, Aug 21, 2012 at 4:00 PM, Claudia Rauch <rauch at kde.org> wrote:
+>>>>> Hi all,
+>>>>>
+>>>>> I'm hosting a short session at http://geekgirlmeetup.de/ on September
+>>>>> 15th. I will recycle my talk from FSCONS last year, on how to organize
+>>>>> and run successful sprints [1], but since I assume that not everyone
+>>>>> in the audience will be a developer or contributor to a FLOSS project,
+>>>>> I want to put a bit of a different twist to the talk - something like
+>>>>> "why should you organise a meeting/sprint" and how you can pull it off
+>>>>> easily.
+>>>>>
+>>>>> Do any of you have some input for this? Maybe also something
+>>>>> especially from a female perspective?
+>>>>
+>>>> Hey :)
+>>>>
+>>>> Here's a few things that come to my mind right now:
+>>>> * you get to know people
+>>>> * people get to know you
+>>>> * it's a task that developers are usually thrilled about someone else
+>>>> taking it -> they will love you
+>>>> * you learn a lot about organizing and planning
+>>>> * it's one way to give back to Free Software in an essential way
+>>>> without writing code
+>>>> * you get to show your city/country to a bunch of awesome people from
+>>>> abroad
+>>>> * language skills++
+>>>> * people skills++
+>>>>
+>>>> Cheers
+>>>> Lydia
+>>>>
+>>>> --
+>>>> Lydia Pintscher - http://about.me/lydia.pintscher
+>>>> KDE Community Working Group / KDE e.V. board member
+>>>> http://kde.org - http://open-advice.org
+>>>> _______________________________________________
+>>>> kde-women mailing list
+>>>> kde-women at kde.org
+>>>> https://mail.kde.org/mailman/listinfo/kde-women
+>>>>
+>>> _______________________________________________
+>>> kde-women mailing list
+>>> kde-women at kde.org
+>>> https://mail.kde.org/mailman/listinfo/kde-women
+>>
+>>
+>>
+>> --
+>>
+>> Claudia Rauch
+>> Business Manager
+>> KDE e.V.
+>> Linienstr. 141
+>> 10115 Berlin
+>> Germany
+>> Phone: +49 (0) 30 2023 7305 0
+>> Fax: +49 (0) 30 2023 7305 9
+>> Mobile: +49 178 522 3086
+>>
+>> KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+>> (Charlottenburg), with number VR 31685. Its president is Cornelius
+>> Schumacher. For more information please see http://ev.kde.org, and
+>> http://kde.org/
+>> _______________________________________________
+>> kde-women mailing list
+>> kde-women at kde.org
+>> https://mail.kde.org/mailman/listinfo/kde-women
+>>
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+(Charlottenburg), with number VR 31685. Its president is Cornelius
+Schumacher. For more information please see http://ev.kde.org, and
+http://kde.org/
+
+From valorie.zimmerman at gmail.com  Tue Sep 18 06:26:53 2012
+From: valorie.zimmerman at gmail.com (Valorie Zimmerman)
+Date: Mon, 17 Sep 2012 23:26:53 -0700
+Subject: [Kde-women] Input for talk?
+In-Reply-To: <CAA0Jy_yHTK_ntvVzMGhkHimns+Oe_A7fWHDpk8Quw79H7L+_pg@mail.gmail.com>
+References: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+ <CAFkLwpVML5U=QHxaNW-+xMFoiwua-hp9Uz92VbPrmbM62H8==w@mail.gmail.com>
+ <CAP1mu2y1TL2jrLeTs7FZ8PKMj+k+8MACnrO7unPqff9SiHRGcg@mail.gmail.com>
+ <CAA0Jy_yPYk2Umwx=n1RAZUT5=jfT8Adcyen3Evq_GoyNrOOnLQ@mail.gmail.com>
+ <CAP1mu2w08OiU=io_txfF=JjFNfxJQomMY+dMsMh02XiGRLwDYw@mail.gmail.com>
+ <CAA0Jy_yHTK_ntvVzMGhkHimns+Oe_A7fWHDpk8Quw79H7L+_pg@mail.gmail.com>
+Message-ID: <CACpu027kmG1QETG+qxWWAX0hE4b7nGL4G9XR+hgi0KJN=rc6ew@mail.gmail.com>
+
+On Mon, Sep 17, 2012 at 1:48 AM, Claudia Rauch <rauch at kde.org> wrote:
+> On 15 September 2012 04:42,  <the.lady.phoenix at gmail.com> wrote:
+>> Well Claudia,
+>>
+>> I talked to my advisor, who happens to be the Computer Department
+>> Chair, and the advisor for the computer club.  He didn't see the need
+>> for a women in STEM group since there was a computer club.  The few
+>> programming instructors I talked to (because there is only like 3
+>> total in the school) didn't have any interest in becoming an advisor.
+>> I didn't ask anyone in the Science or Math departments as I'm not a
+>> student in any of those programs and didn't know whom to approach.
+>> The school didn't like the idea of it as it wasn't co-ed, and yet they
+>> have a group for black men.  This is my last semester and then
+>> hopefully I'll get accepted to a halfway decent school to continue my
+>> education.
+>
+> Wow, this must be frustrating... and the reaction of your teacher
+> clearly show why there is a need for a women's group. I think it's
+> great that you tried to organize something.
+
+Sometimes going through the student government channels works better
+than directly with teaching staff. Other resources are the student
+services folks, or the librarians. Good people to know, whether or not
+they can help. And sometimes librarians are the BEST advisors. They
+know everyone, and everything.
+
+>> I also put up some flyers and held a couple interest meetings where I
+>> was the only one that showed up.  And yet, in my basic electronic
+>> class (AC/DC circuits) the 2 other women come to me to help them as I
+>> obviously know what I'm doing.
+
+Sounds familiar. How about meeting in a pub or cool restaurant?
+Sometimes people want to get away from campus.
+
+>> As for a LUG there isn't one in town, I don't think there is one in
+>> the entire state!  In my linux class (which I couldn't test out of so
+>> I have to take it), no one else likes or uses linux including the
+>> instructor, and she doesn't like kde and is like don't use it use
+>> gnome!  Then again she is a mac person.
+
+Wow. What a negative experience. :-(
+
+> I hope you get the chance to go to a Linuxfest in your area some time.
+> Since I'm not based in the US, I can't really offer any suggestions.
+> But maybe Valorie, who should be on this list, too, can offer some
+> advice.
+>
+>> I think its the fact that in america few want to help until they need help.
+>>
+>> Sara
+
+I think you are right, but women do like to network with other smart
+women. Perhaps you just need to widen your focus a bit? If women
+aren't interested in help/support, perhaps they are interested in fun
+activities, networking, learning new skills, etc.
+
+Also what can work (see OpenHatch) is opening it up to men if they are
+brought by women.
+
+And yes, a thousand times yes to attending a Linux Festival somewhere
+within your area. Our local Linuxfest Northwest is *awesome.* I hear
+good things about the SELF, OLF and SCaLE too.
+
+Valorie
+
+
+>> On 14/09/2012, Claudia Rauch <rauch at kde.org> wrote:
+>>> On 14 September 2012 02:00,  <the.lady.phoenix at gmail.com> wrote:
+>>>> well I know I'd be interested in hearing about how to make a women in
+>>>> stem (science, technology, engineering, mathematics) group in a town
+>>>> or at a school.  I've not had any success in getting one started but
+>>>> seeing as out of the 18 credits I'm taking this semester in over half
+>>>> I'm the only woman (3 classes), the the other 2 have a grand total of
+>>>> 3 other women (2 and 1).  So it might be that there aren't enough
+>>>> bodies to make my idea work where I am.
+>>>
+>>> Yeah, I can imagine that this isn't easy. Here in Berlin there quite a
+>>> big start-up scene and women in tech is kind of a hype topic right now
+>>> ;).
+>>>
+>>> How did you promote you group? Did you reach out to the local LUG (if
+>>> there is one) or did you talk to your teachers? Maybe they can share
+>>> this?
+>>>
+>>>
+>>>> On 13/09/2012, Lydia Pintscher <lydia at kde.org> wrote:
+>>>>> On Tue, Aug 21, 2012 at 4:00 PM, Claudia Rauch <rauch at kde.org> wrote:
+>>>>>> Hi all,
+>>>>>>
+>>>>>> I'm hosting a short session at http://geekgirlmeetup.de/ on September
+>>>>>> 15th. I will recycle my talk from FSCONS last year, on how to organize
+>>>>>> and run successful sprints [1], but since I assume that not everyone
+>>>>>> in the audience will be a developer or contributor to a FLOSS project,
+>>>>>> I want to put a bit of a different twist to the talk - something like
+>>>>>> "why should you organise a meeting/sprint" and how you can pull it off
+>>>>>> easily.
+>>>>>>
+>>>>>> Do any of you have some input for this? Maybe also something
+>>>>>> especially from a female perspective?
+>>>>>
+>>>>> Hey :)
+>>>>>
+>>>>> Here's a few things that come to my mind right now:
+>>>>> * you get to know people
+>>>>> * people get to know you
+>>>>> * it's a task that developers are usually thrilled about someone else
+>>>>> taking it -> they will love you
+>>>>> * you learn a lot about organizing and planning
+>>>>> * it's one way to give back to Free Software in an essential way
+>>>>> without writing code
+>>>>> * you get to show your city/country to a bunch of awesome people from
+>>>>> abroad
+>>>>> * language skills++
+>>>>> * people skills++
+>>>>>
+>>>>> Cheers
+>>>>> Lydia
+
+-- 
+http://about.me/valoriez
+
+From lydia at kde.org  Sun Sep 23 14:39:10 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sun, 23 Sep 2012 16:39:10 +0200
+Subject: [Kde-women] Schedule for Ada Lovelace day
+In-Reply-To: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+References: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+Message-ID: <CAFkLwpWCthxidd8hQNAmXHy7n_ESOuPDo9mqVvayjjj7S2j6UA@mail.gmail.com>
+
+Meep :)
+
+On Thu, Sep 13, 2012 at 10:53 PM, Camila Ayres <smayres at gmail.com> wrote:
+> Hi People,
+>
+> What do you think about we start to promote it?
+
+Coming Friday.
+By Wednesday we should have all tutorials in the spreadsheet. So far
+we have only 3. This isn't a lot... We should have at least one or two
+more.
+I just added a general Q&A session that I am going to do together with Frederik.
+
+> Aracele: you could write about it.
+
+That'd be great. Make sure it is clear that this is for women and
+their friends. Everyone is welcome as long as they're nice.
+We should have more than one. I will try to blog the Monday after
+next. Who else? We should spread it out. Anyone up for drafting a dot
+story that we can publish 4 days before the event?
+
+> For this would be nice more tutorials in the spreadsheet:
+>
+> https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc#gid=0
+>
+> I've decided to change mine to something easier: How easy is to
+> develop a plasmoide (with qml and plasmate)
+> what do you think?
+
+Sounds good.
+
+> Even if we don't have exactly the title of the tutorials, we could at
+> least tell people that we are planing to do something October 16th.
+> And if the tutorials are not too long we could start at 5:00 pm UTC
+> time, what do you think?
+
+Sounds good to me.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From araceletorres at gmail.com  Sun Sep 23 16:23:31 2012
+From: araceletorres at gmail.com (Aracele Torres)
+Date: Sun, 23 Sep 2012 13:23:31 -0300
+Subject: [Kde-women] Schedule for Ada Lovelace day
+In-Reply-To: <CAFkLwpWCthxidd8hQNAmXHy7n_ESOuPDo9mqVvayjjj7S2j6UA@mail.gmail.com>
+References: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+ <CAFkLwpWCthxidd8hQNAmXHy7n_ESOuPDo9mqVvayjjj7S2j6UA@mail.gmail.com>
+Message-ID: <CAKQ=CTry1Ev1RUHWMGns-_oxmUBJM9Xk3M=EeOvWtP2vqg=2CQ@mail.gmail.com>
+
+Hi everybody!
+
+As I had said I can write something to spread around. Is there a deadline
+for this?
+I can help to write the dot story too.
+There is someone else here in Brazil who will make a tutorial. Her name is
+Melissa.
+Maybe her tutorial is about kile and LaTex. I added her to this list.
+
+Cheers.
+
+2012/9/23 Lydia Pintscher <lydia at kde.org>
+
+> Meep :)
+>
+> On Thu, Sep 13, 2012 at 10:53 PM, Camila Ayres <smayres at gmail.com> wrote:
+> > Hi People,
+> >
+> > What do you think about we start to promote it?
+>
+> Coming Friday.
+> By Wednesday we should have all tutorials in the spreadsheet. So far
+> we have only 3. This isn't a lot... We should have at least one or two
+> more.
+> I just added a general Q&A session that I am going to do together with
+> Frederik.
+>
+> > Aracele: you could write about it.
+>
+> That'd be great. Make sure it is clear that this is for women and
+> their friends. Everyone is welcome as long as they're nice.
+> We should have more than one. I will try to blog the Monday after
+> next. Who else? We should spread it out. Anyone up for drafting a dot
+> story that we can publish 4 days before the event?
+>
+> > For this would be nice more tutorials in the spreadsheet:
+> >
+> >
+> https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc#gid=0
+> >
+> > I've decided to change mine to something easier: How easy is to
+> > develop a plasmoide (with qml and plasmate)
+> > what do you think?
+>
+> Sounds good.
+>
+> > Even if we don't have exactly the title of the tutorials, we could at
+> > least tell people that we are planing to do something October 16th.
+> > And if the tutorials are not too long we could start at 5:00 pm UTC
+> > time, what do you think?
+>
+> Sounds good to me.
+>
+>
+> Cheers
+> Lydia
+>
+> --
+> Lydia Pintscher - http://about.me/lydia.pintscher
+> KDE Community Working Group / KDE e.V. board member
+> http://kde.org - http://open-advice.org
+>
+
+
+
+-- 
+Aracele Torres
+http://cibermundi.wordpress.com
+http://about.me/araceletorres
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20120923/cfc7346e/attachment.html>
+
+From lydia at kde.org  Sun Sep 23 20:26:01 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sun, 23 Sep 2012 22:26:01 +0200
+Subject: [Kde-women] Schedule for Ada Lovelace day
+In-Reply-To: <CAKQ=CTry1Ev1RUHWMGns-_oxmUBJM9Xk3M=EeOvWtP2vqg=2CQ@mail.gmail.com>
+References: <CABe7M6sX6CduFP6mQUA5bFsWAeyku_xOpRDa3KcFW2EW_CYxXw@mail.gmail.com>
+ <CAFkLwpWCthxidd8hQNAmXHy7n_ESOuPDo9mqVvayjjj7S2j6UA@mail.gmail.com>
+ <CAKQ=CTry1Ev1RUHWMGns-_oxmUBJM9Xk3M=EeOvWtP2vqg=2CQ@mail.gmail.com>
+Message-ID: <CAFkLwpXPiPJAx-dgiDagoFtOy661+CJ-od7XoU_fnk9aP3BfjQ@mail.gmail.com>
+
+On Sun, Sep 23, 2012 at 6:23 PM, Aracele Torres <araceletorres at gmail.com> wrote:
+> Hi everybody!
+>
+> As I had said I can write something to spread around. Is there a deadline
+> for this?
+
+I'd be great if you could do it on Friday. (Not before Wednesday.
+Hopefully until then we'll have 1 or 2 more tutorials.)
+
+> I can help to write the dot story too.
+
+Great! https://promo.notes.kde.org/81 is the place for it. The password is ada.
+
+> There is someone else here in Brazil who will make a tutorial. Her name is
+> Melissa.
+> Maybe her tutorial is about kile and LaTex. I added her to this list.
+
+That'd be sweet!
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From the.lady.phoenix at gmail.com  Mon Sep 24 11:16:48 2012
+From: the.lady.phoenix at gmail.com (the.lady.phoenix at gmail.com)
+Date: Mon, 24 Sep 2012 07:16:48 -0400
+Subject: [Kde-women] Input for talk?
+In-Reply-To: <CAA0Jy_yHTK_ntvVzMGhkHimns+Oe_A7fWHDpk8Quw79H7L+_pg@mail.gmail.com>
+References: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+ <CAFkLwpVML5U=QHxaNW-+xMFoiwua-hp9Uz92VbPrmbM62H8==w@mail.gmail.com>
+ <CAP1mu2y1TL2jrLeTs7FZ8PKMj+k+8MACnrO7unPqff9SiHRGcg@mail.gmail.com>
+ <CAA0Jy_yPYk2Umwx=n1RAZUT5=jfT8Adcyen3Evq_GoyNrOOnLQ@mail.gmail.com>
+ <CAP1mu2w08OiU=io_txfF=JjFNfxJQomMY+dMsMh02XiGRLwDYw@mail.gmail.com>
+ <CAA0Jy_yHTK_ntvVzMGhkHimns+Oe_A7fWHDpk8Quw79H7L+_pg@mail.gmail.com>
+Message-ID: <CAP1mu2yOg0=HmE0WnaLySGasGs1t7Po66b3gq_Ko-R8rDwXh4Q@mail.gmail.com>
+
+I agree that his answer was iffy at best, but the computer club barely
+has enough members at the start of each year to keep going.  I'm
+currently going to a small public school on my own dime, (US slang for
+I'm paying for in this case, my schooling without any assistance) so
+its not surprising that its hard to get enough people to start let
+alone maintain a school club, especially one aimed at a minority that
+the government doesn't feel a need to help.  There is a club on campus
+that is restricted to minority males and gets government money however,
+if I were to start one it would have to open to the guys.  Thinking about it,
+I don't think that should be much of a problem, just add that disrespectful
+guys will be asked to behave, second offense to leave, be asked to leave
+twice or refuse to once asked, call the campus police, have them escorted
+out and banned for their disrespectful behaviour.  The school is big on the
+respect thing, which I like, I don't see it from everyone but from
+enough to know
+that more are then aren't.
+
+I'm going to try and get one going if I end up going to a co-ed school
+for my higher education otherwise I'll be going to an all women's
+college were I don't think it would be as hard to start and maintain a
+group of women supporting each other.  Which was my basic idea,
+support each other to learn the material and deal with any shall we
+say any attitutes that we may encounter along the way.  I did visit the
+student orgization advisor and got some info on club rules.  I'm thinking
+perhaps having a few info sessions to see what sort of interest there is and
+see if any of the instructors in other departments would be willing to
+advertise,
+such as the math, nursing, computer, physcis, chem, and artiecture departments.
+
+ON a happier note, there is a Regional LinuxFest in a city around 3-4
+hours from my door to the confrence center's doors.  They are meeting
+next June, of which companies such as google, hp, and oracle were
+sponsors last year.  Plus KDE was there.  Sadly there isn't any information
+the cost of attending like what the rooms cost last year, or the enterance fee.
+So I'll be checking in on the website as often as I can remember to,
+until I find
+out.
+

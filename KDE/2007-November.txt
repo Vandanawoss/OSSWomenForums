@@ -1,0 +1,27 @@
+From valorie.zimmerman at gmail.com  Fri Nov 23 23:41:25 2007
+From: valorie.zimmerman at gmail.com (Valorie Zimmerman)
+Date: Fri, 23 Nov 2007 14:41:25 -0800
+Subject: [Kde-women] I'm glad to find that this list exists
+Message-ID: <3081c4410711231441i185d6601lf14603604d0499ea@mail.gmail.com>
+
+Hi everyone,
+
+I just found out that this list exists from Vid Ayer's pages on the
+web, and signed right up. I'm generally a happy user of KDE, first in
+Mandrake, then Gentoo, and now Kubuntu. But a number of small issues
+have arisen, and I don't know who to ask for advice.
+
+I'll start with the little annoyances first -- I've installed Kmoon
+and Kweather in both Dapper Drake and now in Gutsy, but neither runs.
+They don't show up in the menus, and when I attempt to start from
+Konsole, I get "command not found". I used to love both these lil
+applets.
+
+Locate finds the files; but perhaps they are not installed in the
+correct directories? I'm a beginner and don't know how to evaluate (or
+correct) the situation if that's what is wrong.
+
+Valorie
+-- 
+All my pages: http://valorie.zimmerman.googlepages.com
+

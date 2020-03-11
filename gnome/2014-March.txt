@@ -1,0 +1,199 @@
+From conf-assist@fsf.org  Mon Mar 10 21:46:13 2014
+Return-Path: <conf-assist@fsf.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id AED377624D
+	for <gnome-women-list@gnome.org>; Mon, 10 Mar 2014 21:46:13 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -4.21
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.21 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_HI=-5,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id XeGAnanjzt7x for <gnome-women-list@gnome.org>;
+	Mon, 10 Mar 2014 21:46:12 +0000 (UTC)
+Received: from mail.fsf.org (mail.fsf.org [208.118.235.13])
+	by restaurant.gnome.org (Postfix) with ESMTP id 10DAC760A6
+	for <gnome-women-list@gnome.org>; Mon, 10 Mar 2014 21:45:53 +0000 (UTC)
+Received: (helo=[192.168.0.235])
+	by mail.fsf.org with esmtpsa (TLS-1.0:DHE_RSA_AES_128_CBC_SHA1:16)
+	(Exim 4.69) (envelope-from <conf-assist@fsf.org>) id 1WN818-00015a-OX
+	for gnome-women-list@gnome.org; Mon, 10 Mar 2014 17:45:51 -0400
+Message-ID: <531E328D.1030702@fsf.org>
+Date: Mon, 10 Mar 2014 17:45:49 -0400
+From: "Georgia Young, Free Software Foundation" <conf-assist@fsf.org>
+Organization: Free Software Foundation
+User-Agent: Mozilla/5.0 (X11; Linux x86_64;
+	rv:24.0) Gecko/20100101 Thunderbird/24.3.0
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: multipart/alternative;
+	boundary="------------020208020906010006000404"
+X-detected-operating-system: by mail.fsf.org: GNU/Linux 2.2.x-3.x [generic]
+X-Mailman-Approved-At: Mon, 10 Mar 2014 21:48:23 +0000
+Subject: [gnome-women] You're Invited! LibrePlanet 2014: Free Software,
+ Free Society streaming & in person at MIT, March 22-23
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 10 Mar 2014 21:46:13 -0000
+
+This is a multi-part message in MIME format.
+--------------020208020906010006000404
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hello from the Free Software Foundation!
+
+Mark your calendars, because the LibrePlanet conference 
+<https://libreplanet.org/2014> is streaming live from MIT on March 
+22-23, 2014. The theme this year is Free Software, Free Society, and our 
+keynote speakers include two amazing women (among many women speaking 
+this year): Sue Gardner, Executive Director of the Wikimedia Foundation, 
+and Karen Sandler, Executive Director of the GNOME Foundation.
+
+How can free software protect journalists, whistleblowers, activists, 
+and regular computer users from government and corporate surveillance? 
+How can free software, or free software values like copyleft, community 
+development, and transparency, be used by people fighting to create free 
+societies around the world? What challenges are standing between us and 
+our goal of free software ubiquity? With your help, we'll tackle these 
+questions and more at LibrePlanet 2014.
+
+We're creating our most advanced-ever free software streaming system for 
+LibrePlanet 2014: If you are not able to attend in person, you can 
+livestream the conference and watch recordings of the sessions 
+afterwards. We encourage you to bookmark our streaming portal, 
+libreplanet.org/2014/live. Participating remotely doesn't require any 
+kind of registration.
+
+At LibrePlanet, we bring together software developers, policy experts, 
+activists, and computer users to learn skills, share accomplishments, 
+and address challenges to software freedom. Newcomers are always 
+welcome, and LibrePlanet 2014 will feature programming for all ages and 
+experience levels. LibrePlanet 2014 <https://libreplanet.org/2014> is 
+produced in partnership by the Free Software Foundation 
+<https://www.fsf.org> with the Student Information Processing Board 
+(SIPB) <http://sipb.mit.edu/> at MIT.
+
+If you are able to attend in person, FSF members and students attend 
+LibrePlanet at no cost. The conference will also feature workshops in 
+using free programs, talks and discussion panels with free software 
+luminaries, plentiful networking opportunities, a cryptoparty hosted at 
+the FSF's offices in downtown Boston, and a cocktail party and raffle on 
+Saturday night. And as always, FSF founder and president Richard 
+Stallman will be on hand to present the annual Free Software Awards.
+
+More information is available at https://libreplanet.org/2014/: Register 
+for LibrePlanet today 
+<https://crm.fsf.org/civicrm/event/register?reset=1&id=13>. Becoming an 
+FSF member <https://www.fsf.org/associate/> will make your admission 
+gratis and support the FSF's work year-round.
+
+Please feel free to email me if you have any questions.
+
+-- 
+Georgia Young
+Conference Assistant
+Free Software Foundation
+
+
+--------------020208020906010006000404
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html;
+      charset=ISO-8859-1">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <div class="moz-text-html" lang="x-western">
+      <div class="moz-text-html" lang="x-western">
+        <div id="pagebody">
+          <div id="content">Hello from the Free Software Foundation!<br>
+            <br>
+            Mark your calendars, because the <a
+              href="https://libreplanet.org/2014">LibrePlanet conference</a>
+            is streaming live from MIT on March 22-23, 2014. The theme
+            this year is Free Software, Free Society, and our keynote
+            speakers include two amazing women (among many women
+            speaking this year): Sue Gardner, Executive Director of the
+            Wikimedia Foundation, and Karen Sandler, Executive Director
+            of the GNOME Foundation.
+            <p>How can free software protect journalists,
+              whistleblowers, activists, and regular computer users from
+              government and corporate surveillance? How can free
+              software, or free software values like copyleft, community
+              development, and transparency, be used by people fighting
+              to create free societies around the world? What challenges
+              are standing between us and our goal of free software
+              ubiquity? With your help, we'll tackle these questions and
+              more at LibrePlanet 2014.<br>
+            </p>
+            <p>We're creating our most advanced-ever free software
+              streaming system for LibrePlanet 2014: If you are not able
+              to attend in person, you can livestream the conference and
+              watch recordings of the sessions afterwards. We encourage
+              you to bookmark our streaming portal,
+              libreplanet.org/2014/live. Participating remotely doesn't
+              require any kind of registration. </p>
+            <p>At LibrePlanet, we bring together software developers,
+              policy experts, activists, and computer users to learn
+              skills, share accomplishments, and address challenges to
+              software freedom. Newcomers are always welcome, and
+              LibrePlanet 2014 will feature programming for all ages and
+              experience levels. <a href="https://libreplanet.org/2014">LibrePlanet
+
+
+                2014</a> is produced in partnership by the <a
+                href="https://www.fsf.org">Free Software Foundation</a>
+              with the <a href="http://sipb.mit.edu/">Student
+                Information Processing Board (SIPB)</a> at MIT. <br>
+            </p>
+            <p>If you are able to attend in person, FSF members and
+              students attend LibrePlanet at no cost. The conference
+              will also feature workshops in using free programs, talks
+              and discussion panels with free software luminaries,
+              plentiful networking opportunities, a cryptoparty hosted
+              at the FSF's offices in downtown Boston, and a cocktail
+              party and raffle on Saturday night. And as always, FSF
+              founder and president Richard Stallman will be on hand to
+              present the annual Free Software Awards. </p>
+            <p> More information is available at <a
+                href="https://libreplanet.org/2014/">https://libreplanet.org/2014/</a>:
+              <a
+                href="https://crm.fsf.org/civicrm/event/register?reset=1&amp;id=13">Register
+
+                for LibrePlanet today</a>. Becoming an <a
+                href="https://www.fsf.org/associate/">FSF member</a>
+              will make your admission gratis and support the FSF's work
+              year-round.<br>
+            </p>
+            <p>Please feel free to email me if you have any questions.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <pre class="moz-signature" cols="72">-- 
+Georgia Young
+Conference Assistant
+Free Software Foundation</pre>
+  </body>
+</html>
+
+--------------020208020906010006000404--

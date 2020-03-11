@@ -1,0 +1,1265 @@
+From ines at drury.edu  Tue Oct  7 19:33:00 2003
+From: ines at drury.edu (Ines)
+Date: Wed Oct  8 01:34:06 2003
+Subject: [Kde-women]spanish translator
+Message-ID: <3F834D2C.6040201@drury.edu>
+
+Hi everybody,
+
+	My name is Ines Sombra and I was wondering if you already have a
+spanish translator. I'm a native of Argentina but I'm currently living
+on Missouri, USA (will move to Texas to start working on my masters
+soon). I would really like to contribute to your project; so if you
+ladies have room or tasks for another one I'll be glad to help.
+
+Thanks for taking the time to read me :)
+
+Ines
+
+p.s sorry to the moderator about the first message; forgot which account 
+I was using
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+
+
+
+From frauke at frsv.de  Fri Oct 10 18:45:42 2003
+From: frauke at frsv.de (Frauke Oster)
+Date: Fri Oct 10 17:45:25 2003
+Subject: [Kde-women]spanish translator
+In-Reply-To: <3F834D2C.6040201@drury.edu>
+References: <3F834D2C.6040201@drury.edu>
+Message-ID: <3F86D426.8020501@frsv.de>
+
+Hi Ines,
+
+we need translators for almost every language. Do you want to translate 
+for KDE in general or especially the website of KDE women? We need for 
+both tasks help. And I think you will soon find a lot of stuff that 
+needs a spanish translasion. We are working currently at a translation 
+file for the website and I would be glad if you would start helping us 
+with the translation. You're of course welcome in the project :)
+
+Frauke
+
+p.s. Sorry for the late answer... :(
+
+Ines wrote:
+> Hi everybody,
+> 
+>     My name is Ines Sombra and I was wondering if you already have a
+> spanish translator. I'm a native of Argentina but I'm currently living
+> on Missouri, USA (will move to Texas to start working on my masters
+> soon). I would really like to contribute to your project; so if you
+> ladies have room or tasks for another one I'll be glad to help.
+> 
+> Thanks for taking the time to read me :)
+> 
+> Ines
+> 
+> p.s sorry to the moderator about the first message; forgot which account 
+> I was using
+
+
+From ines at drury.edu  Fri Oct 10 13:38:24 2003
+From: ines at drury.edu (Ines)
+Date: Sat Oct 11 01:46:45 2003
+Subject: [Kde-women]spanish translator
+In-Reply-To: <3F86D426.8020501@frsv.de>
+References: <3F834D2C.6040201@drury.edu> <3F86D426.8020501@frsv.de>
+Message-ID: <3F86EE90.7080209@drury.edu>
+
+Hello Frauke,
+
+	I would love to help on both! Where do I begin? I have the guides about 
+documentation that are on the KDE internationalization page but do I 
+need anything else?
+
+Hope you have a nice weekend,
+
+Ines
+
+Frauke Oster wrote:
+> Hi Ines,
+> 
+> we need translators for almost every language. Do you want to translate 
+> for KDE in general or especially the website of KDE women? We need for 
+> both tasks help. And I think you will soon find a lot of stuff that 
+> needs a spanish translasion. We are working currently at a translation 
+> file for the website and I would be glad if you would start helping us 
+> with the translation. You're of course welcome in the project :)
+> 
+> Frauke
+> 
+> p.s. Sorry for the late answer... :(
+> 
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+
+
+From misurauf at tiscali.de  Sat Oct 11 13:14:44 2003
+From: misurauf at tiscali.de (Michaela Ilkka Surauf)
+Date: Sat Oct 11 12:14:48 2003
+Subject: [Kde-women] Re: kde-women Digest, Vol 3, Issue 2
+In-Reply-To: <3F7C1A6000382483@raven.intern.zoo.tiscali.de>
+References: <3F7C1A6000382483@raven.intern.zoo.tiscali.de> (added by
+	postmaster@webmail.tiscali.de)
+Message-ID: <200310111214.44369.misurauf@tiscali.de>
+
+Hello.
+This is Michaela Ilkka from germany
+i live to translate too.
+I can translate to swedish if thre will bee any need
+
+Bye so long
+
+Michaela
+
+| kde-women-request@mail.kde.org schrieb am Samstag, 11. Oktober 2003 12:02:
+|  Send kde-women mailing list submissions to
+|  	kde-women@mail.kde.org
+|
+|  To subscribe or unsubscribe via the World Wide Web, visit
+|  	http://mail.kde.org/mailman/listinfo/kde-women
+|  or, via email, send a message with subject or body 'help' to
+|  	kde-women-request@mail.kde.org
+|
+|  You can reach the person managing the list at
+|  	kde-women-owner@mail.kde.org
+|
+|  When replying, please edit your Subject line so it is more specific
+|  than "Re: Contents of kde-women digest..."
+
+From frauke at frsv.de  Sat Oct 11 17:41:25 2003
+From: frauke at frsv.de (Frauke Oster)
+Date: Sat Oct 11 16:41:07 2003
+Subject: [Kde-women]spanish translator
+In-Reply-To: <3F86EE90.7080209@drury.edu>
+References: <3F834D2C.6040201@drury.edu> <3F86D426.8020501@frsv.de>
+	<3F86EE90.7080209@drury.edu>
+Message-ID: <3F881695.2080906@frsv.de>
+
+Hi again :)
+
+Ok, for translating kde applications you should send the language 
+coordinatot a mail. For spanish it is jaime@kde.org. And you can 
+subscribe on the mailinglist for spanish translations by sending a 
+message to majordomo@kybs.de with the words "subscribe kde-es" in the 
+body. That are the first steps. I think Jaime can explain you how the 
+spanish translation works. Every language modul is a bit different.
+
+For translating the women.kde.org website I will become coordinator I 
+guess and we'll use this mailinglist for things that should be 
+discussed. I am currently working on building up a structure for 
+translating the website. Unfortunately we'll have to wait a bit until a 
+.pot file is created for the website. I'm already talking with some 
+people to get the .pot file generated and I hope that it doesn't take 
+long at all. As soon as the .pot file is generated and the translation 
+of the website can begin, I will send an email over this mailinglist to 
+tell you and all other interested women, how the structure of the 
+translation will be and how to translate the website. I hope it will not 
+much differ from the translation of an application.
+
+I hope this information help a bit :)
+
+Cheers,
+Frauke
+
+
+
+Ines wrote:
+> Hello Frauke,
+> 
+>     I would love to help on both! Where do I begin? I have the guides 
+> about documentation that are on the KDE internationalization page but do 
+> I need anything else?
+> 
+> Hope you have a nice weekend,
+> 
+> Ines
+> 
+> Frauke Oster wrote:
+
+From frauke at frsv.de  Sat Oct 11 17:44:08 2003
+From: frauke at frsv.de (Frauke Oster)
+Date: Sat Oct 11 16:43:50 2003
+Subject: [Kde-women] Re: kde-women Digest, Vol 3, Issue 2
+In-Reply-To: <200310111214.44369.misurauf@tiscali.de>
+References: <3F7C1A6000382483@raven.intern.zoo.tiscali.de> (added
+	by	postmaster@webmail.tiscali.de)
+	<200310111214.44369.misurauf@tiscali.de>
+Message-ID: <3F881738.5040704@frsv.de>
+
+Hi Michaela,
+sure there will be need for a swedish translation. We need help for 
+every language that exists. If you want you can also help with the 
+translation into german.
+maybe you read my last mail, I send two minutes ago, where I explained, 
+that the translation of the website will start as soon as the .pot file 
+is generated.
+So, I hope you will contribute to KDE women too :)
+
+Cheers,
+Frauke
+
+
+Michaela Ilkka Surauf wrote:
+> Hello.
+> This is Michaela Ilkka from germany
+> i live to translate too.
+> I can translate to swedish if thre will bee any need
+> 
+> Bye so long
+> 
+> Michaela
+> 
+> | kde-women-request@mail.kde.org schrieb am Samstag, 11. Oktober 2003 12:02:
+> |  Send kde-women mailing list submissions to
+> |  	kde-women@mail.kde.org
+> |
+> |  To subscribe or unsubscribe via the World Wide Web, visit
+> |  	http://mail.kde.org/mailman/listinfo/kde-women
+> |  or, via email, send a message with subject or body 'help' to
+> |  	kde-women-request@mail.kde.org
+> |
+> |  You can reach the person managing the list at
+> |  	kde-women-owner@mail.kde.org
+> |
+> |  When replying, please edit your Subject line so it is more specific
+> |  than "Re: Contents of kde-women digest..."
+> 
+> _______________________________________________
+> kde-women mailing list
+> kde-women@mail.kde.org
+> http://mail.kde.org/mailman/listinfo/kde-women
+> 
+
+
+From maria at a1.pl  Sun Oct 12 14:54:13 2003
+From: maria at a1.pl (Marysia Ossowska)
+Date: Sun Oct 12 17:39:10 2003
+Subject: [Kde-women] Re: kde-women Digest, Vol 3, Issue 2
+In-Reply-To: <20031011100209.00A585A15@poczta.swlmedia.pl>
+References: <20031011100209.00A585A15@poczta.swlmedia.pl>
+Message-ID: <200310121354.13205.maria@a1.pl>
+
+Hi, all,
+reading your message from yesterday I thought you might also need a translator 
+into Polish language. I am a Polish native speaker who quite fluently speaks 
+English, German and Spanish and would want to join the project of translation 
+for KDE in general or the website of KDE women.
+
+Greets,
+Maria
+
+On Sat. October 11. 2003 12:02, kde-women-request@mail.kde.org wrote:
+> Hi Ines,
+>
+> we need translators for almost every language. Do you want to translate
+> for KDE in general or especially the website of KDE women? We need for
+> both tasks help. And I think you will soon find a lot of stuff that
+> needs a spanish translasion. We are working currently at a translation
+> file for the website and I would be glad if you would start helping us
+> with the translation. You're of course welcome in the project :)
+>
+> Frauke
+>
+> p.s. Sorry for the late answer... :(
+>
+> Ines wrote:
+> > Hi everybody,
+> >
+> >     My name is Ines Sombra and I was wondering if you already have a
+> > spanish translator. I'm a native of Argentina but I'm currently living
+> > on Missouri, USA (will move to Texas to start working on my masters
+> > soon). I would really like to contribute to your project; so if you
+> > ladies have room or tasks for another one I'll be glad to help.
+> >
+> > Thanks for taking the time to read me :)
+> >
+> > Ines
+> >
+> > p.s sorry to the moderator about the first message; forgot which account
+> > I was using
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Fri, 10 Oct 2003 12:38:24 -0500
+> From: Ines <ines@drury.edu>
+> Subject: Re: [Kde-women]spanish translator
+> To: For discussion of the KDE Women project <kde-women@mail.kde.org>
+> Message-ID: <3F86EE90.7080209@drury.edu>
+> Content-Type: text/plain; charset=us-ascii; format=flowed
+>
+> Hello Frauke,
+>
+> 	I would love to help on both! Where do I begin? I have the guides about
+> documentation that are on the KDE internationalization page but do I
+> need anything else?
+>
+> Hope you have a nice weekend,
+>
+> Ines
+>
+> Frauke Oster wrote:
+> > Hi Ines,
+> >
+> > we need translators for almost every language. Do you want to translate
+> > for KDE in general or especially the website of KDE women? We need for
+> > both tasks help. And I think you will soon find a lot of stuff that
+> > needs a spanish translasion. We are working currently at a translation
+> > file for the website and I would be glad if you would start helping us
+> > with the translation. You're of course welcome in the project :)
+> >
+> > Frauke
+> >
+> > p.s. Sorry for the late answer... :(
+
+From frauke at frsv.de  Sun Oct 12 20:44:43 2003
+From: frauke at frsv.de (Frauke Oster)
+Date: Sun Oct 12 19:44:26 2003
+Subject: [Kde-women] Re: kde-women Digest, Vol 3, Issue 2
+In-Reply-To: <200310121354.13205.maria@a1.pl>
+References: <20031011100209.00A585A15@poczta.swlmedia.pl>
+	<200310121354.13205.maria@a1.pl>
+Message-ID: <3F89930B.40704@frsv.de>
+
+Hi Maria,
+nice to see that you want to translate too.
+For general KDE translation to Polish you should visit the website
+http://i18n.kde.org/teams/index.php?action=info&team=pl
+where you find some information about the polish translation team, there 
+mailinglist and coordinators. That should be a good starting point for 
+you to get in contact with the coordinators and translators of the 
+polish translation team.
+For the website I can just repeat that I will drop a mail to this list 
+as soon as the .pot file is ready.
+I am glad to see that so many women are interested in translation and I 
+want to say to you and all other interested women, welcome to KDE Women 
+and the translation teams!
+
+Cheers,
+Frauke
+
+Marysia Ossowska wrote:
+> Hi, all,
+> reading your message from yesterday I thought you might also need a translator 
+> into Polish language. I am a Polish native speaker who quite fluently speaks 
+> English, German and Spanish and would want to join the project of translation 
+> for KDE in general or the website of KDE women.
+> 
+> Greets,
+> Maria
+> 
+
+From eva at kde.org  Mon Oct 13 10:28:53 2003
+From: eva at kde.org (Eva Brucherseifer)
+Date: Mon Oct 13 09:26:34 2003
+Subject: [Kde-women] Re: kde-women Digest, Vol 3, Issue 2
+In-Reply-To: <3F89930B.40704@frsv.de>
+References: <20031011100209.00A585A15@poczta.swlmedia.pl>
+	<200310121354.13205.maria@a1.pl> <3F89930B.40704@frsv.de>
+Message-ID: <200310130928.53638.eva@kde.org>
+
+Hi Frauke, Maria, Michaela, Ines and all others :-)
+
+On Sonntag, 12. Oktober 2003 19:44, Frauke Oster wrote:
+> I am glad to see that so many women are interested in translation and I
+> want to say to you and all other interested women, welcome to KDE Women
+> and the translation teams!
+
+Indeed, I am also very glad. I'd esp like to thank also Frauke for taking up 
+the maintenance of the kde-women pages and I am very happy to see the project 
+going on!
+
+Thank you very much for you work!
+eva
+
+
+From atastas at eml.cc  Mon Oct 13 11:42:46 2003
+From: atastas at eml.cc (atastas@eml.cc)
+Date: Mon Oct 13 12:44:24 2003
+Subject: [Kde-women] need more translators
+Message-ID: <20031013104246.B0E7C3D35C@www.fastmail.fm>
+
+hi all:
+Do you need an Arabic translator...? I would be glad to help...specially
+that kde made my transition from windows to Linux much easier and more
+fun!!
+I am from Jordan... I have been introduced to Linux a year and a half
+ago...so frankly I am still a beginner in "the way toward a Linux guru to
+be" project :)
+Linux users in the Arab world are not the majority... but we are heading
+(as the rest of the world) toward Linux with slow but sure steps... I
+know that the Arabic contribution to the international Linux community is
+small.... but hey. everything has a starting point!
+taghrid abu shemala
+-- 
+  tara
+  atastas@eml.cc
+
+-- 
+http://www.fastmail.fm - A no graphics, no pop-ups email service
+From frauke at frsv.de  Mon Oct 13 22:15:50 2003
+From: frauke at frsv.de (Frauke Oster)
+Date: Mon Oct 13 21:13:25 2003
+Subject: [Kde-women] Re: kde-women Digest, Vol 3, Issue 2
+Message-ID: <3F8AF9E6.8050207@frsv.de>
+
+That's no problem. I love to see that kde-women is back again and that 
+it grows steadily. Also I am very glad to see that it was named in the 
+last Linux User magazine. I hope that we can do a lot more for and with 
+the project.
+
+Cheers,
+Frauke
+
+
+ >Indeed, I am also very glad. I'd esp like to thank also Frauke for 
+taking up
+ >the maintenance of the kde-women pages and I am very happy to see the 
+project
+ >going on!
+
+ >Thank you very much for you work!
+ >eva
+
+From frauke at frsv.de  Mon Oct 13 22:25:22 2003
+From: frauke at frsv.de (Frauke Oster)
+Date: Mon Oct 13 21:22:57 2003
+Subject: [Kde-women] need more translators
+Message-ID: <3F8AFC22.4040108@frsv.de>
+
+Hi Tara,
+of course we need an Arabic translator. If you want to translate the KDE 
+applications as well as the website you can contact the oordinator of 
+the arabic translation team for translating the applications. His mail 
+adress is contact(at)arabeyes(dot)org. You also can find some 
+information about translating for that team at 
+http://i18n.kde.org/teams/index.php?action=info&team=ar
+For the kde-women website I hope you'll help too and I only can say 
+welcome to KDE Women.
+I will hopefully soon have the translation file ready and then I'll send 
+a mail about this list.
+
+Cheers and welcome,
+Frauke
+
+
+ >hi all:
+ >Do you need an Arabic translator...? I would be glad to help...specially
+ >that kde made my transition from windows to Linux much easier and more
+ >fun!!
+ >I am from Jordan... I have been introduced to Linux a year and a half
+ >ago...so frankly I am still a beginner in "the way toward a Linux guru to
+ >be" project :)
+ >Linux users in the Arab world are not the majority... but we are heading
+ >(as the rest of the world) toward Linux with slow but sure steps... I
+ >know that the Arabic contribution to the international Linux community is
+ >small.... but hey. everything has a starting point!
+ >taghrid abu shemala
+ >--
+ >  tara
+ >  atastas@eml.cc
+
+From annemahfouf at hotmail.com  Wed Oct 15 19:45:05 2003
+From: annemahfouf at hotmail.com (Mahfouf Anne-Marie)
+Date: Wed Oct 15 20:45:39 2003
+Subject: [Kde-women] Many many ideas! Would you like to help?
+Message-ID: <BAY10-F80KAAxDCrV0000010f0f@hotmail.com>
+
+Hi,
+
+Here are some ideas for the women.kde-org website and our project in 
+general. There were a lot of discussions about the project and the tasks we 
+try to fullfill.
+These mail should give a general idea about, what we have in mind :)
+This is just a proposal, feel free to flame/add/suppress/critisize/improve 
+;-)
+
+A very big idea is to have a database full of tasks, that need to be done, 
+and to get women and
+the whole community to do stuff. We, the women, would provide the tools 
+(webpages, forms, HowTos...) and would be a sort of "motor" for all these 
+points.
+
+The database should use mysql and this can be used for the website. So, we 
+can use forms for enter new tasks and for getting assigned to a task.
+
+There will be a lot of tasks, that are to do, and they aren't only for 
+developers. You should find there a lot of tasks that can be done without 
+knowing a programming language and that can be done from everyone who wants 
+to start to contribute or is contributing already. An example for such tasks 
+can be KHangMan, which would need some improvement at the icons or reviewing 
+a list of words, that needs some language work. That is only one example and 
+there can be found easily a lot of more tasks like this.
+
+There will be a database of applications that need short explanations for 
+the whatsthis help. About that aseigo wrote a tutorial that really helps to 
+get started with writing whatsthis and can be found at 
+http://urbanlizard.com/~aseigo/whatsthis_tutorial/ . But there isn't only 
+the work to write new whatsthis, also to find out which applications need 
+whatsthis and make a list of them. (that can be shared between us)
+This would be separated in 2 categories:
+- the apps that needs the whatsthis help and use QtDesigner (easy)
+- the apps that needs the whatsthishelp and don't use QtDesigner (less easy)
+Therfore there has to be a form as well to get assigned to an application to 
+work on.
+
+Problem: as we are in feature freeze, time will be limited to add strings
+until the i18n freeze. Do we have time to get this in place before this
+freeze? If not, see what branch to work on for 3.3.
+
+A list of classes that don't have API doc can be generated and how to write 
+this doc
+    (that's more for developers)
+
+A tutorial about how to translate is in progress and hopefully we can start 
+soon with translating our website. We are just waiting for the translation 
+file and every translator is welcome.
+
+List the KDE apps that do not have a User Guide i.e. a proper doc and try
+to get people to write docs or part of a doc.
+Lauri: what do you think about that? Would that interfere with your team
+work? It's just an idea as I noticed new features/apps in 3.2 have no doc
+yet. But I don't want to mess with other people work. If it's not such a
+good idea, we'll drop it. We can just add a contact for people who would
+like to help with that instead.
+
+List some small bugs in KDE apps. For example, one could use the KControl
+Center and see if all the buttons are consistent (I noticed for example that
+some Apply are enabled even if any change was made, this is an error). See
+if all keyboard shortcuts are consistent. See if each app can be used via
+the keyboard without the mouse (ask in accessibility about that, I saw a
+mail on that and it seems to me very important yet developers usually
+concentrate on big features, not on small stuff)
+See how to fix that. Are the menus consistent (for example in Games or in
+Edu)
+
+Make a list of wanted apps. I often meet new developers and they don't
+know what to code. In the Edutainment area, there can be things to be done:
+an app to make kids learn the time, a simple paint program for very young
+kids with stamps, .... I am sure that you have many ideas!
+
+I believe that if we can succeed in partially solve all those small 
+problems, we'll make KDE really better for the end user.
+We, KDE-Women, can provide the website and maintainance of all that, plus
+being involved as well. We'll also lead the translation of KDE websites as
+we'll be the first one to use i18n. Now, don't we rock?
+
+Those are just some ideas of what could be done in KDE by us.
+
+If we agree on some points, we can then share ideas on how to do it.
+
+Best regards,
+
+annma & frauke
+
+_________________________________________________________________
+Hotmail messages direct to your mobile phone http://www.msn.co.uk/msnmobile
+
+From lauri at kde.org  Fri Oct 17 15:51:00 2003
+From: lauri at kde.org (Lauri Watts)
+Date: Fri Oct 17 18:21:09 2003
+Subject: [Kde-women] Many many ideas! Would you like to help?
+In-Reply-To: <BAY10-F80KAAxDCrV0000010f0f@hotmail.com>
+References: <BAY10-F80KAAxDCrV0000010f0f@hotmail.com>
+Message-ID: <200310171451.08882.lauri@kde.org>
+
+On Wednesday 15 October 2003 20.45, Mahfouf Anne-Marie wrote:
+
+> List the KDE apps that do not have a User Guide i.e. a proper doc and try
+> to get people to write docs or part of a doc.
+> Lauri: what do you think about that? Would that interfere with your team
+> work? It's just an idea as I noticed new features/apps in 3.2 have no doc
+> yet. But I don't want to mess with other people work. If it's not such a
+> good idea, we'll drop it. We can just add a contact for people who would
+> like to help with that instead.
+
+It's just not as simple as 'pick an app, write some stuff', potential writers 
+need to be able to use CVS for instance, since there's no point writing about 
+the last version of something.  It's better if they contact me first, so I 
+can keep track of who is working on what.
+
+So, new writers are always welcome, but this, and many other things, are 
+already on the "Open jobs" list on www.kde.org.  
+
+Why don't you just work on improving and updating that page instead of 
+duplicating it on another site?
+
+In fact, I think it would be better for KDE overall if resources were 
+concentrated on the main KDE sites.  A translation tutorial, for instance, 
+makes most sense as an adjunct or addition to the translation how-to (well 
+it's more than a how-to, it's practically a book) on i18n.kde.org, a how-to 
+on how to write API docs would be natural for developer.kde.org.  Anything I 
+could write to guide a new docs volunteer would be a duplication of chunks of 
+i18n.kde.org/docs/
+
+Wouldn't it be better to make the project "improve the existing resources" 
+than to duplicate parts of them?  
+
+Regards,
+-- 
+Lauri Watts
+KDE Documentation: http://i18n.kde.org/doc/
+KDE on FreeBSD: http://freebsd.kde.org/
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 187 bytes
+Desc: signature
+Url : http://mail.kde.org/pipermail/kde-women/attachments/20031017/c877eb6d/attachment.bin
+From ines at drury.edu  Fri Oct 17 12:34:22 2003
+From: ines at drury.edu (Ines)
+Date: Fri Oct 17 18:35:48 2003
+Subject: [Kde-women] Many many ideas! Would you like to help?
+In-Reply-To: <200310171451.08882.lauri@kde.org>
+References: <200310171451.08882.lauri@kde.org>
+Message-ID: <3F901A0E.3010607@drury.edu>
+
+Hello Lauri,
+
+	Yes, I agree with you; we shouldn't re-invent the wheel and re-write 
+existing documentation. At the same time, what I've seen done is a mini 
+how-to by the "project leader" with all the references to the 
+documentation you talk about as a welcoming thing.
+	The guys in the spanish translation team have a 2 page 
+"welcome-on-board-and-this-is-where-you-start" link that they send to 
+every person that joins the project so it might be a bit redundant for 
+kde-women to have one but it's a better alternative than having to 
+explain it over and over on the list. I also think it gives newbies the 
+"personal" touch that they look for when they join.
+
+:)
+
+Ines
+
+
+
+Lauri Watts wrote:
+>>List the KDE apps that do not have a User Guide i.e. a proper doc and try
+>>to get people to write docs or part of a doc.
+>>Lauri: what do you think about that? Would that interfere with your team
+>>work? It's just an idea as I noticed new features/apps in 3.2 have no doc
+>>yet. But I don't want to mess with other people work. If it's not such a
+>>good idea, we'll drop it. We can just add a contact for people who would
+>>like to help with that instead.
+> 
+> 
+> It's just not as simple as 'pick an app, write some stuff', potential writers 
+> need to be able to use CVS for instance, since there's no point writing about 
+> the last version of something.  It's better if they contact me first, so I 
+> can keep track of who is working on what.
+> 
+> So, new writers are always welcome, but this, and many other things, are 
+> already on the "Open jobs" list on www.kde.org.  
+> 
+> Why don't you just work on improving and updating that page instead of 
+> duplicating it on another site?
+> 
+> In fact, I think it would be better for KDE overall if resources were 
+> concentrated on the main KDE sites.  A translation tutorial, for instance, 
+> makes most sense as an adjunct or addition to the translation how-to (well 
+> it's more than a how-to, it's practically a book) on i18n.kde.org, a how-to 
+> on how to write API docs would be natural for developer.kde.org.  Anything I 
+> could write to guide a new docs volunteer would be a duplication of chunks of 
+> i18n.kde.org/docs/
+> 
+> Wouldn't it be better to make the project "improve the existing resources" 
+> than to duplicate parts of them?  
+> 
+> Regards,
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+
+
+From oster at kde.org  Sun Oct 26 15:14:50 2003
+From: oster at kde.org (Frauke Oster)
+Date: Sun Oct 26 15:14:35 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+Message-ID: <3F9BD6DA.60805@kde.org>
+
+Hey everyone,
+
+since a while I am thinking about a KDE Women meeting and I am wondering 
+if you all are interested in meeting each other.
+So I thought I just drop a mail here and ask you all what you think 
+about it :)
+
+A KDE Women meeting needs a lot of organization and I think it isn't 
+possible to have one before summer 2004. But if we start now with 
+preparations we could meet in the next summer and have a lot of fun 
+together. Therefor I would like to know how much you are interested
+in meeting each other and if you have any ideas for a program.
+
+Maybe everyone who wants to have a meeting could send me a private mail, 
+that you would like to participate at the meeting and where you are 
+from. If you know when you have holidays in the summer (e.g. when you 
+have school holidays or something like that) you could add that.
+So I could have a look, if you all want a meeting and where to locate a 
+meeting. Any ideas for a program are welcome too.
+
+You can also send a mail to the mailinglist about the meeting, but 
+please send a seperated mail to me, when you want to participate. This 
+mail isn't binding, it is just to give me an overview.
+
+I hope to meet you all :)
+
+Cheers,
+Frauke
+
+From trish at trish.de  Sun Oct 26 17:25:10 2003
+From: trish at trish.de (Patricia Jung)
+Date: Sun Oct 26 17:18:10 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+In-Reply-To: <3F9BD6DA.60805@kde.org>
+References: <3F9BD6DA.60805@kde.org>
+Message-ID: <20031026162510.GF19898@lillagroenn.trish.de>
+
+On Sun, Oct 26, 2003 at 03:14:50PM +0100, Frauke Oster wrote:
+> since a while I am thinking about a KDE Women meeting and I am wondering 
+Sounds like a good idea -- although it is also a question of funding.
+
+> So I could have a look, if you all want a meeting and where to locate a 
+> meeting. Any ideas for a program are welcome too.
+I'd love to see a little conference program with programming workshops
+and the like. 
+
+The meeting itself should include a weekend as not everyone is a
+student, and planning of holidays in many companies isn't that easy.
+
+:)
+
+    Patricia
+From oster at kde.org  Mon Oct 27 20:39:47 2003
+From: oster at kde.org (Frauke Oster)
+Date: Mon Oct 27 20:40:03 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+In-Reply-To: <20031026162510.GF19898@lillagroenn.trish.de>
+References: <3F9BD6DA.60805@kde.org>
+	<20031026162510.GF19898@lillagroenn.trish.de>
+Message-ID: <3F9D7483.5000700@kde.org>
+
+Patricia Jung wrote:
+
+> 
+> Sounds like a good idea -- although it is also a question of funding.
+
+Sure it is a question of funding and this mail is first of all to check 
+if there are interested women. I think it is very good to have an idea 
+how many would like to have a meeting before we start to organize and 
+plan in detail. We have to talk to the KDE e.V as well when we want to 
+organize a meeting. They can help us with funding etc. But at the moment 
+I would love to see if enough women would like to participate. So please 
+send me all a mail, when you want to meet us all.
+
+>
+> > I'd love to see a little conference program with programming workshops
+> and the like. 
+
+I think it is a good idea to have a programming workshop, maybe annma 
+could explain a bit about working with KDevelop and the QT Designer, and 
+   stuff like this. A little conference program would be very great, and 
+everyone who would like to do actively a workshop could send me a mail 
+too :)
+
+> 
+> The meeting itself should include a weekend as not everyone is a
+> student, and planning of holidays in many companies isn't that easy.
+> 
+That's right, and we will think about this in the organization :)
+
+Cheers,
+Frauke
+
+
+From ines at drury.edu  Mon Oct 27 13:44:00 2003
+From: ines at drury.edu (Ines)
+Date: Mon Oct 27 20:45:44 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+In-Reply-To: <3F9D7483.5000700@kde.org>
+References: <3F9BD6DA.60805@kde.org>	<20031026162510.GF19898@lillagroenn.trish.de>
+	<3F9D7483.5000700@kde.org>
+Message-ID: <3F9D7580.6090507@drury.edu>
+
+Hello all,
+
+	Since we all pretty much live on different continents where exactly 
+will this meeting be held at? I just had to ask ;)
+
+Ines
+
+Frauke Oster wrote:
+> Patricia Jung wrote:
+> 
+>>
+>> Sounds like a good idea -- although it is also a question of funding.
+> 
+> 
+> Sure it is a question of funding and this mail is first of all to check 
+> if there are interested women. I think it is very good to have an idea 
+> how many would like to have a meeting before we start to organize and 
+> plan in detail. We have to talk to the KDE e.V as well when we want to 
+> organize a meeting. They can help us with funding etc. But at the moment 
+> I would love to see if enough women would like to participate. So please 
+> send me all a mail, when you want to meet us all.
+> 
+>>
+>> > I'd love to see a little conference program with programming workshops
+>> and the like. 
+> 
+> 
+> I think it is a good idea to have a programming workshop, maybe annma 
+> could explain a bit about working with KDevelop and the QT Designer, and 
+>   stuff like this. A little conference program would be very great, and 
+> everyone who would like to do actively a workshop could send me a mail 
+> too :)
+> 
+>>
+>> The meeting itself should include a weekend as not everyone is a
+>> student, and planning of holidays in many companies isn't that easy.
+>>
+> That's right, and we will think about this in the organization :)
+> 
+> Cheers,
+> Frauke
+> 
+> 
+> _______________________________________________
+> kde-women mailing list
+> kde-women@mail.kde.org
+> http://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+
+
+From oster at kde.org  Mon Oct 27 21:16:02 2003
+From: oster at kde.org (Frauke Oster)
+Date: Mon Oct 27 21:16:26 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+In-Reply-To: <3F9D7580.6090507@drury.edu>
+References: <3F9BD6DA.60805@kde.org>	<20031026162510.GF19898@lillagroenn.trish.de>	<3F9D7483.5000700@kde.org>
+	<3F9D7580.6090507@drury.edu>
+Message-ID: <3F9D7D02.701@kde.org>
+
+Ines wrote:
+> Hello all,
+> 
+>     Since we all pretty much live on different continents where exactly 
+> will this meeting be held at? I just had to ask ;)
+> 
+> Ines
+
+Hi Ines,
+
+we don't know yet. We want to find a place, where most of the women can 
+participate. So, I would love to know in which countries you all live. 
+We will try to find the best location, but I can't promise that it will 
+be the best one for every one.
+
+This questioning if you want to participate is just to have an overview 
+and to see in which country a meeting could take place. I can't say it 
+take place in Germany, Spain, France, or somewhere else. At the moment 
+we even don't know if many women would like to have a meeting. So, as 
+soon I think the answering to my mail is stopping, I will write a mail 
+to the list and tell you all if there is interest to have a meeting.
+
+I guess, Ines, you have interest, because you asked where it will take 
+place. I made a little tablet to note down how many women want a 
+meeting. Maybe you send me a mail too, that you would like to have a 
+meeting and where you are coming from. It would be very great to meet 
+you and the other women, but I can't promise anything yet.
+
+So, I would ask you all, to send me a mail when you are interested in 
+having a meeting. It is just if you want one, it is not binding that you 
+have to participate, when a meeting is organized. I hope you all will 
+come and have a good time.
+
+Cheers,
+Frauke
+
+From annemahfouf at hotmail.com  Mon Oct 27 21:20:03 2003
+From: annemahfouf at hotmail.com (Mahfouf Anne-Marie)
+Date: Mon Oct 27 22:20:39 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+Message-ID: <BAY10-F10TONIbpBWty00034c20@hotmail.com>
+
+Hi all,
+
+I am interested in a meeting. In Europe in July or early August would do. I 
+live in Canada but I am planning some holiday in France next summer.
+
+If it's possible for me to come, I would be happy to give a talk about 
+KDevelop && QtDesigner and to answer all (not too difficult) questions about 
+KDE development.
+
+Of course maybe it will be difficult to find a location suitable for 
+everyone. In any case, we can do some IRC meetings at the same time.
+
+Anne-Marie
+
+
+>From: Frauke Oster <oster@kde.org>
+>Reply-To: For discussion of the KDE Women project <kde-women@mail.kde.org>
+>To: For discussion of the KDE Women project <kde-women@mail.kde.org>
+>Subject: Re: [Kde-women] What about a KDE Women meeting??
+>Date: Mon, 27 Oct 2003 21:16:02 +0100
+>
+>Ines wrote:
+>>Hello all,
+>>
+>>     Since we all pretty much live on different continents where exactly 
+>>will this meeting be held at? I just had to ask ;)
+>>
+>>Ines
+>
+>Hi Ines,
+>
+>we don't know yet. We want to find a place, where most of the women can 
+>participate. So, I would love to know in which countries you all live. We 
+>will try to find the best location, but I can't promise that it will be the 
+>best one for every one.
+>
+>This questioning if you want to participate is just to have an overview and 
+>to see in which country a meeting could take place. I can't say it take 
+>place in Germany, Spain, France, or somewhere else. At the moment we even 
+>don't know if many women would like to have a meeting. So, as soon I think 
+>the answering to my mail is stopping, I will write a mail to the list and 
+>tell you all if there is interest to have a meeting.
+>
+>I guess, Ines, you have interest, because you asked where it will take 
+>place. I made a little tablet to note down how many women want a meeting. 
+>Maybe you send me a mail too, that you would like to have a meeting and 
+>where you are coming from. It would be very great to meet you and the other 
+>women, but I can't promise anything yet.
+>
+>So, I would ask you all, to send me a mail when you are interested in 
+>having a meeting. It is just if you want one, it is not binding that you 
+>have to participate, when a meeting is organized. I hope you all will come 
+>and have a good time.
+>
+>Cheers,
+>Frauke
+>
+>_______________________________________________
+>kde-women mailing list
+>kde-women@mail.kde.org
+>http://mail.kde.org/mailman/listinfo/kde-women
+
+_________________________________________________________________
+On the move? Get Hotmail on your mobile phone http://www.msn.co.uk/msnmobile
+
+From tberg at vosberg.be  Mon Oct 27 23:21:11 2003
+From: tberg at vosberg.be (Thirza Berg)
+Date: Mon Oct 27 23:22:19 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+In-Reply-To: <BAY10-F10TONIbpBWty00034c20@hotmail.com>
+References: <BAY10-F10TONIbpBWty00034c20@hotmail.com>
+Message-ID: <200310272321.11573.tberg@vosberg.be>
+
+Hi all,
+
+I'm also interested in a meeting. I'm living in Europe/Belgium, date/time 
+doesn't matter... got a flexible job ;-)
+
+Greetz from Belgium ;-)
+Thirza
+
+On Monday 27 October 2003 22:20, Mahfouf Anne-Marie wrote:
+> Hi all,
+>
+> I am interested in a meeting. In Europe in July or early August would do. I
+> live in Canada but I am planning some holiday in France next summer.
+>
+> If it's possible for me to come, I would be happy to give a talk about
+> KDevelop && QtDesigner and to answer all (not too difficult) questions
+> about KDE development.
+>
+> Of course maybe it will be difficult to find a location suitable for
+> everyone. In any case, we can do some IRC meetings at the same time.
+>
+> Anne-Marie
+>
+>
+> From: Frauke Oster <oster@kde.org>
+>
+> >Reply-To: For discussion of the KDE Women project <kde-women@mail.kde.org>
+> >To: For discussion of the KDE Women project <kde-women@mail.kde.org>
+> >Subject: Re: [Kde-women] What about a KDE Women meeting??
+> >Date: Mon, 27 Oct 2003 21:16:02 +0100
+> >
+> >Ines wrote:
+> >>Hello all,
+> >>
+> >>     Since we all pretty much live on different continents where exactly
+> >>will this meeting be held at? I just had to ask ;)
+> >>
+> >>Ines
+> >
+> >Hi Ines,
+> >
+> >we don't know yet. We want to find a place, where most of the women can
+> >participate. So, I would love to know in which countries you all live. We
+> >will try to find the best location, but I can't promise that it will be
+> > the best one for every one.
+> >
+> >This questioning if you want to participate is just to have an overview
+> > and to see in which country a meeting could take place. I can't say it
+> > take place in Germany, Spain, France, or somewhere else. At the moment we
+> > even don't know if many women would like to have a meeting. So, as soon I
+> > think the answering to my mail is stopping, I will write a mail to the
+> > list and tell you all if there is interest to have a meeting.
+> >
+> >I guess, Ines, you have interest, because you asked where it will take
+> >place. I made a little tablet to note down how many women want a meeting.
+> >Maybe you send me a mail too, that you would like to have a meeting and
+> >where you are coming from. It would be very great to meet you and the
+> > other women, but I can't promise anything yet.
+> >
+> >So, I would ask you all, to send me a mail when you are interested in
+> >having a meeting. It is just if you want one, it is not binding that you
+> >have to participate, when a meeting is organized. I hope you all will come
+> >and have a good time.
+> >
+> >Cheers,
+> >Frauke
+> >
+> >_______________________________________________
+> >kde-women mailing list
+> >kde-women@mail.kde.org
+> >http://mail.kde.org/mailman/listinfo/kde-women
+>
+> _________________________________________________________________
+> On the move? Get Hotmail on your mobile phone
+> http://www.msn.co.uk/msnmobile
+>
+> _______________________________________________
+> kde-women mailing list
+> kde-women@mail.kde.org
+> http://mail.kde.org/mailman/listinfo/kde-women
+
+From slgeo1 at bigpond.com  Tue Oct 28 09:54:09 2003
+From: slgeo1 at bigpond.com (Sarah George)
+Date: Tue Oct 28 01:11:25 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+In-Reply-To: <3F9D7D02.701@kde.org>
+References: <3F9BD6DA.60805@kde.org> <3F9D7580.6090507@drury.edu>
+	<3F9D7D02.701@kde.org>
+Message-ID: <200310280954.09511.slgeo1@bigpond.com>
+
+On Tuesday 28 October 2003 07:16, Frauke Oster wrote:
+> Ines wrote:
+> > Hello all,
+> >
+> >     Since we all pretty much live on different continents where
+> > exactly will this meeting be held at? I just had to ask ;)
+
+Melbourne, Australia would be good :) Seriously, why not include an 
+IRC session on the weekend to talk to everyone that couldn't make it?
+
+-- Sarah
+
+-- 
+Sarah George
+slgeo1@bigpond.com
+http://www.users.bigpond.com/slgeo1/
+
+From zoukiba at onlinehome.de  Tue Oct 28 09:54:51 2003
+From: zoukiba at onlinehome.de (zoukiba@onlinehome.de)
+Date: Tue Oct 28 09:53:16 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+In-Reply-To: <3F9BD6DA.60805@kde.org>
+References: <3F9BD6DA.60805@kde.org>
+Message-ID: <200310280954.26220.zoukiba@onlinehome.de>
+
+Hey , 
+
+  i am also interested in a meeting . I am french but i live in germany (near 
+D?sseldorf)  . 
+I plan to have holiday in france in summer. My children have school holiday in 
+August .
+
+Best regards 
+Isabelle alias Zoukiba 
+
+   
+Am Sonntag, 26. Oktober 2003 15:14 schrieb Frauke Oster:
+> Hey everyone,
+>
+> since a while I am thinking about a KDE Women meeting and I am wondering
+> if you all are interested in meeting each other.
+> So I thought I just drop a mail here and ask you all what you think
+> about it :)
+>
+> A KDE Women meeting needs a lot of organization and I think it isn't
+> possible to have one before summer 2004. But if we start now with
+> preparations we could meet in the next summer and have a lot of fun
+> together. Therefor I would like to know how much you are interested
+> in meeting each other and if you have any ideas for a program.
+>
+> Maybe everyone who wants to have a meeting could send me a private mail,
+> that you would like to participate at the meeting and where you are
+> from. If you know when you have holidays in the summer (e.g. when you
+> have school holidays or something like that) you could add that.
+> So I could have a look, if you all want a meeting and where to locate a
+> meeting. Any ideas for a program are welcome too.
+>
+> You can also send a mail to the mailinglist about the meeting, but
+> please send a seperated mail to me, when you want to participate. This
+> mail isn't binding, it is just to give me an overview.
+>
+> I hope to meet you all :)
+>
+> Cheers,
+> Frauke
+>
+> _______________________________________________
+> kde-women mailing list
+> kde-women@mail.kde.org
+> http://mail.kde.org/mailman/listinfo/kde-women
+
+From ines at drury.edu  Tue Oct 28 13:17:22 2003
+From: ines at drury.edu (Ines)
+Date: Tue Oct 28 20:19:12 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+In-Reply-To: <200310280954.26220.zoukiba@onlinehome.de>
+References: <3F9BD6DA.60805@kde.org> <200310280954.26220.zoukiba@onlinehome.de>
+Message-ID: <3F9EC0C2.5060900@drury.edu>
+
+I'm in Springfield MO, USA...
+
+Ines
+
+
+zoukiba@onlinehome.de wrote:
+
+> Hey , 
+> 
+>   i am also interested in a meeting . I am french but i live in germany (near 
+> D?sseldorf)  . 
+> I plan to have holiday in france in summer. My children have school holiday in 
+> August .
+> 
+> Best regards 
+> Isabelle alias Zoukiba 
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+
+
+From oster at kde.org  Wed Oct 29 10:26:02 2003
+From: oster at kde.org (oster@kde.org)
+Date: Wed Oct 29 10:28:12 2003
+Subject: [Kde-women] What about a KDE Women meeting??
+Message-ID: <27101276$10674192603f9f867c0e6bf4.44454333@config8.schlund.de>
+
+
+Hi all,
+I think an IRC session would be really good. That's just a question of
+the organization and I think that we find a solution for that.
+
+You are all spreaded around the world, so we need something for everyone
+who can't be at the meeting and IRC is one of the easiest ways to
+organize a online meeting. 
+
+I don't know if it is possible to have an online conference, but I'm
+sure we find the best way to include every woman, who wants to
+participate, if online or real. 
+
+Cheers,
+Frauke
+
+PS. Go on and tell me who wants a meeting :)
+From eva at kde.org  Thu Oct 30 14:11:47 2003
+From: eva at kde.org (Eva Brucherseifer)
+Date: Thu Oct 30 14:11:59 2003
+Subject: [Kde-women] KDE women meeting
+Message-ID: <200310301411.47627.eva@kde.org>
+
+Hi,
+
+I wasn't able to read all your mails since I was busy with a linux fair the 
+last days. I'd just like to throw this into the discussion:
+
+There are also plans to have another KDE conference next year, either late 
+August and somewhere in central Europe (Netherlands, France, Germany) or in 
+late September south Europe (Spain),  but it's not decided yet. What about 
+joining the efforts here? 
+
+As this year we again want to have a conference part first and a one week 
+hacking session afterwards. I don't think it would be any problem to get a 
+seperate room for kde-women activities. Financial as well as human ressources 
+are very limited in KDE e.V. and I really suggest to join the meetings. 
+
+Tell me, what you think about it.
+
+Greetings,
+eva
+
+From annemahfouf at hotmail.com  Thu Oct 30 13:47:03 2003
+From: annemahfouf at hotmail.com (Mahfouf Anne-Marie)
+Date: Thu Oct 30 14:47:41 2003
+Subject: [Kde-women] KDE women meeting
+Message-ID: <BAY10-F851wfWKrMYrp0003ec90@hotmail.com>
+
+
+>From: Eva Brucherseifer <eva@kde.org>
+>Reply-To: eva@kde.org,For discussion of the KDE Women project 
+><kde-women@mail.kde.org>
+>To: kde-women@kde.org
+>Subject: [Kde-women] KDE women meeting
+>Date: Thu, 30 Oct 2003 14:11:47 +0100
+>
+>Hi,
+>
+>I wasn't able to read all your mails since I was busy with a linux fair the
+>last days. I'd just like to throw this into the discussion:
+>
+>There are also plans to have another KDE conference next year, either late
+>August and somewhere in central Europe (Netherlands, France, Germany) or in
+>late September south Europe (Spain),  but it's not decided yet. What about
+>joining the efforts here?
+
+Impossible for me late August in France (kids start school late August - 
+early September) and probably also impossible late September because I won't 
+be able to pay the plane ticket. In July or early August I'll go to France 
+on holiday.
+Known developers can maybe get some financial support but I doubt I will.
+
+It is of course possible to join the KDE conference, we don't want to 
+separate from that of course. It depends on how many women can make it.
+<wish>And maybe the KDE conference will be split soon in several countries 
+(happening at the same time at different places) so that we, outside Europe, 
+feel not too much outside it...
+
+annma
+
+_________________________________________________________________
+It's fast, it's easy and it's free. Get MSN Messenger today! 
+http://www.msn.co.uk/messenger
+

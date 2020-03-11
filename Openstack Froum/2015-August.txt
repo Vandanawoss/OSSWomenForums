@@ -1,0 +1,767 @@
+From egle.sigler at rackspace.com  Wed Aug  5 18:51:31 2015
+From: egle.sigler at rackspace.com (Egle Sigler)
+Date: Wed, 5 Aug 2015 18:51:31 +0000
+Subject: [Women-of-openstack] [Diversity] OpenStack Diversity Working Group
+ Meeting Thursday 17:00 UTC
+Message-ID: <2f306db8f5c4495db527e0fb2d84578b@543888-IEXCH02.ror-uc.rackspace.com>
+
+Hello Everyone,
+Join us for OpenStack Diversity working group meeting.
+
+
+Etherpad: https://etherpad.openstack.org/p/OpenStackDiversity.5
+Agenda: https://wiki.openstack.org/wiki/Diversity#Agenda
+
+
+Info on OpenStack IRC: https://wiki.openstack.org/wiki/IRC
+Web IRC link if you are not using IRC client: http://webchat.freenode.net/?channels=openstack-diversity
+
+
+Meetbot quick reference guide: http://meetbot.debian.net/Manual.html#user-reference
+
+
+Thank you,
+Egle
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150805/1ab26d53/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 2125 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150805/1ab26d53/attachment.ics>
+
+From egle.sigler at rackspace.com  Wed Aug  5 18:52:39 2015
+From: egle.sigler at rackspace.com (Egle Sigler)
+Date: Wed, 5 Aug 2015 18:52:39 +0000
+Subject: [Women-of-openstack] [Diversity] OpenStack Diversity Working Group
+ Meeting Thursday 17:00 UTC
+Message-ID: <69442dbc6d65498b8ce1d92b02b57efe@543888-IEXCH02.ror-uc.rackspace.com>
+
+Hello Everyone,
+Join us for OpenStack Diversity working group meeting.
+
+
+Etherpad: https://etherpad.openstack.org/p/OpenStackDiversity.5
+Agenda: https://wiki.openstack.org/wiki/Diversity#Agenda
+
+
+Info on OpenStack IRC: https://wiki.openstack.org/wiki/IRC
+Web IRC link if you are not using IRC client: http://webchat.freenode.net/?channels=openstack-diversity
+
+
+Meetbot quick reference guide: http://meetbot.debian.net/Manual.html#user-reference
+
+
+Thank you,
+Egle
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150805/e28be239/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 2125 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150805/e28be239/attachment.ics>
+
+From egle.sigler at rackspace.com  Fri Aug  7 22:47:51 2015
+From: egle.sigler at rackspace.com (Egle Sigler)
+Date: Fri, 7 Aug 2015 22:47:51 +0000
+Subject: [Women-of-openstack] [Diversity] OpenStack Diversity Working Group
+ Meeting Thursday August 6 Recap
+Message-ID: <D1EA9FD9.1B48C%egle.sigler@rackspace.com>
+
+Hello,
+
+Thanks everyone that joined us yesterday on IRC for our meeting. The next meeting will be Thursday, August 13 at 5:00 UTC.
+
+Here are the notes from our meeting: http://eavesdrop.openstack.org/meetings/diversity_working_group_5/2015/diversity_working_group_5.2015-08-06-17.01.html
+
+Take aways:
+
+  *   We are meeting at two different times on alternating weeks. If you have not signed up for the foundation at lists.openstack.org<mailto:foundation at lists.openstack.org> mailing list, please do so: http://lists.openstack.org/cgi-bin/mailman/listinfo/foundation
+  *   Travel support program deadline for Tokyo is approaching, please share with people that would benefit: https://wiki.openstack.org/wiki/Travel_Support_Program
+  *   OpenStack Seattle Day is offering free passes to women and minorities, please apply/share: http://www.openstackseattle.com/diversity-scholarships/
+  *   OpenStack Tokyo Summit visa information: http://superuser.openstack.org/articles/get-your-openstack-summit-tokyo-visa-in-five-steps
+
+We have also started 3 different projects:
+
+  *   Diversity Survey project: we will be sending out a survey to gather more information from OpenStack community.
+  *   Diversity Data project: we need to determine what data we already have and what success would look like.
+  *   Code of conduct review project: reviewing current code of conduct and process for reporting/resolving violations.
+
+We have volunteers for each project and expect more following next week's meeting.
+If you want to help, or have any questions/comments please let me know.
+Thank you,
+Egle
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150807/a0b34a50/attachment.html>
+
+From egle.sigler at rackspace.com  Mon Aug 10 15:58:19 2015
+From: egle.sigler at rackspace.com (Egle Sigler)
+Date: Mon, 10 Aug 2015 15:58:19 +0000
+Subject: [Women-of-openstack] [OpenStack Foundation] [Diversity]
+ OpenStack Diversity Working Group Meeting Thursday August 6 Recap
+In-Reply-To: <D1EB9311.1FC85%victor.morales@intel.com>
+References: <D1EB9311.1FC85%victor.morales@intel.com>
+Message-ID: <D1EE343A.1BB44%egle.sigler@rackspace.com>
+
+Thank you Victor! Does it mean that there are 551 OpenStack groups listed
+in Meetup site now?
+
+Thank you,
+Egle
+
+On 8/8/15, 11:20 AM, "Morales, Victor" <victor.morales at intel.com> wrote:
+
+>Hi all,
+>
+>I just want to share a couple of findings about getting OpenStack data.
+>
+>Regarding consuming the Meetup API, it seems like the key used for
+>authenticate that service is restricting the results of the search.  I?ve
+>opened a bug[1] in their portal to verify that functionality but  I?m not
+>sure if they have a SLA for answering those questions.  If someone has an
+>account in meetup from other country, I can provide the set of
+>instructions to double-check my theory.
+>
+>By other hand, something that I found interesting is a web site[2] that
+>takes screenshots of some sites.  I used to understand the growing of
+>OpenStack[3] and these are the results:
+>
+>        Groups  Members Interested      Cities  Countries
+>1/29/12  15      1,927   332     12      6
+>6/30/12  25      8,648   1,050   21      10
+>5/14/13  64      16,450          2,939   50      21
+>7/29/13  95      20,439          3,653   72      28
+>4/2/15   440     102,451         11,908          222     59
+>8/6/15   551     138,678         12,170          259     63
+>
+>
+>
+>
+>
+>
+>
+>
+>Regards,
+>Victor Morales
+>
+>[1] https://github.com/meetup/api/issues/95
+>[2] http://web.archive.org/
+>[3] http://openstack.meetup.com/
+>
+>From: Egle Sigler 
+><egle.sigler at rackspace.com<mailto:egle.sigler at rackspace.com>>
+>Date: Friday, August 7, 2015 at 5:47 PM
+>To: 
+>"foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>"
+><foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>>,
+>"women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.op
+>enstack.org>" 
+><women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.op
+>enstack.org>>
+>Subject: [OpenStack Foundation] [Diversity] OpenStack Diversity Working
+>Group Meeting Thursday August 6 Recap
+>
+>Hello,
+>
+>Thanks everyone that joined us yesterday on IRC for our meeting. The next
+>meeting will be Thursday, August 13 at 5:00 UTC.
+>
+>Here are the notes from our meeting:
+>http://eavesdrop.openstack.org/meetings/diversity_working_group_5/2015/div
+>ersity_working_group_5.2015-08-06-17.01.html
+>
+>Take aways:
+>
+>  *   We are meeting at two different times on alternating weeks. If you
+>have not signed up for the
+>foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>
+>mailing list, please do so:
+>http://lists.openstack.org/cgi-bin/mailman/listinfo/foundation
+>  *   Travel support program deadline for Tokyo is approaching, please
+>share with people that would benefit:
+>https://wiki.openstack.org/wiki/Travel_Support_Program
+>  *   OpenStack Seattle Day is offering free passes to women and
+>minorities, please apply/share:
+>http://www.openstackseattle.com/diversity-scholarships/
+>  *   OpenStack Tokyo Summit visa information:
+>http://superuser.openstack.org/articles/get-your-openstack-summit-tokyo-vi
+>sa-in-five-steps
+>
+>We have also started 3 different projects:
+>
+>  *   Diversity Survey project: we will be sending out a survey to gather
+>more information from OpenStack community.
+>  *   Diversity Data project: we need to determine what data we already
+>have and what success would look like.
+>  *   Code of conduct review project: reviewing current code of conduct
+>and process for reporting/resolving violations.
+>
+>We have volunteers for each project and expect more following next week?s
+>meeting.
+>If you want to help, or have any questions/comments please let me know.
+>Thank you,
+>Egle
+
+
+
+From victor.morales at intel.com  Mon Aug 10 16:04:16 2015
+From: victor.morales at intel.com (Morales, Victor)
+Date: Mon, 10 Aug 2015 16:04:16 +0000
+Subject: [Women-of-openstack] [OpenStack Foundation] [Diversity]
+ OpenStack Diversity Working Group Meeting Thursday August 6 Recap
+In-Reply-To: <D1EE343A.1BB44%egle.sigler@rackspace.com>
+References: <D1EB9311.1FC85%victor.morales@intel.com>
+ <D1EE343A.1BB44%egle.sigler@rackspace.com>
+Message-ID: <D1EE3554.1FD23%victor.morales@intel.com>
+
+Well, It seems to be growing quickly, right now are 561 ->
+http://openstack.meetup.com/
+
+On 8/10/15, 10:58 AM, "Egle Sigler" <egle.sigler at rackspace.com> wrote:
+
+>Thank you Victor! Does it mean that there are 551 OpenStack groups listed
+>in Meetup site now?
+>
+>Thank you,
+>Egle
+>
+>On 8/8/15, 11:20 AM, "Morales, Victor" <victor.morales at intel.com> wrote:
+>
+>>Hi all,
+>>
+>>I just want to share a couple of findings about getting OpenStack data.
+>>
+>>Regarding consuming the Meetup API, it seems like the key used for
+>>authenticate that service is restricting the results of the search.  I?ve
+>>opened a bug[1] in their portal to verify that functionality but  I?m not
+>>sure if they have a SLA for answering those questions.  If someone has an
+>>account in meetup from other country, I can provide the set of
+>>instructions to double-check my theory.
+>>
+>>By other hand, something that I found interesting is a web site[2] that
+>>takes screenshots of some sites.  I used to understand the growing of
+>>OpenStack[3] and these are the results:
+>>
+>>        Groups  Members Interested      Cities  Countries
+>>1/29/12  15      1,927   332     12      6
+>>6/30/12  25      8,648   1,050   21      10
+>>5/14/13  64      16,450          2,939   50      21
+>>7/29/13  95      20,439          3,653   72      28
+>>4/2/15   440     102,451         11,908          222     59
+>>8/6/15   551     138,678         12,170          259     63
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>
+>>Regards,
+>>Victor Morales
+>>
+>>[1] https://github.com/meetup/api/issues/95
+>>[2] http://web.archive.org/
+>>[3] http://openstack.meetup.com/
+>>
+>>From: Egle Sigler
+>><egle.sigler at rackspace.com<mailto:egle.sigler at rackspace.com>>
+>>Date: Friday, August 7, 2015 at 5:47 PM
+>>To: 
+>>"foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>"
+>><foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>>,
+>>"women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.o
+>>p
+>>enstack.org>" 
+>><women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.o
+>>p
+>>enstack.org>>
+>>Subject: [OpenStack Foundation] [Diversity] OpenStack Diversity Working
+>>Group Meeting Thursday August 6 Recap
+>>
+>>Hello,
+>>
+>>Thanks everyone that joined us yesterday on IRC for our meeting. The next
+>>meeting will be Thursday, August 13 at 5:00 UTC.
+>>
+>>Here are the notes from our meeting:
+>>http://eavesdrop.openstack.org/meetings/diversity_working_group_5/2015/di
+>>v
+>>ersity_working_group_5.2015-08-06-17.01.html
+>>
+>>Take aways:
+>>
+>>  *   We are meeting at two different times on alternating weeks. If you
+>>have not signed up for the
+>>foundation at lists.openstack.org<mailto:foundation at lists.openstack.org>
+>>mailing list, please do so:
+>>http://lists.openstack.org/cgi-bin/mailman/listinfo/foundation
+>>  *   Travel support program deadline for Tokyo is approaching, please
+>>share with people that would benefit:
+>>https://wiki.openstack.org/wiki/Travel_Support_Program
+>>  *   OpenStack Seattle Day is offering free passes to women and
+>>minorities, please apply/share:
+>>http://www.openstackseattle.com/diversity-scholarships/
+>>  *   OpenStack Tokyo Summit visa information:
+>>http://superuser.openstack.org/articles/get-your-openstack-summit-tokyo-v
+>>i
+>>sa-in-five-steps
+>>
+>>We have also started 3 different projects:
+>>
+>>  *   Diversity Survey project: we will be sending out a survey to gather
+>>more information from OpenStack community.
+>>  *   Diversity Data project: we need to determine what data we already
+>>have and what success would look like.
+>>  *   Code of conduct review project: reviewing current code of conduct
+>>and process for reporting/resolving violations.
+>>
+>>We have volunteers for each project and expect more following next week?s
+>>meeting.
+>>If you want to help, or have any questions/comments please let me know.
+>>Thank you,
+>>Egle
+>
+
+
+From kendall at openstack.org  Mon Aug 10 16:32:38 2015
+From: kendall at openstack.org (Kendall Waters)
+Date: Mon, 10 Aug 2015 11:32:38 -0500
+Subject: [Women-of-openstack] Tokyo Summit Hotels & Visa Invitation Requests
+Message-ID: <618FEEC7-F0E3-44F6-B3F3-5FECF6BC92A2@openstack.org>
+
+Hi Everyone,
+
+If you are planning to attend the upcoming OpenStack Summit in Tokyo please book your travel soon!
+
+
+HOTELS:
+The Discounted Hotel Room Blocks are now available here: https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#hotels <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#hotels>
+
+The process for booking a hotel reservation within our block is somewhat complicated - please CAREFULLY READ THE IMPORTANT BOOKING INSTRUCTIONS BEFORE PROCEEDING. There are two methods for making a reservation which vary depending on the hotel and your arrival/departure dates. 
+
+If you are planning to book more than 10 hotel rooms and would like to create a sub-block please email Sarah at fntech.com <mailto:Sarah at fntech.com>.
+
+
+VISA INFORMATION:
+If you require a visa to travel to Japan, please carefully read the instructions HERE <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#visa>. The entire visa process can take up to 5 weeks to complete so APPLY NOW. 
+1. First, you will need to have booked your flights, hotel accommodation, and Summit registration BEFORE applying for visa invitation support.
+2. Then complete the visa request form on the Summit Tokyo and Travel Page HERE <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#visa>. 
+3. Receive a hardcopy of your visa invitation documents in the mail and apply for a visa at your local Japanese embassy or consulate
+4. Wait for your visa to be issued, which may take up to 10 business days and pick it up from the embassy
+
+All visa requests must be made before October 1. 
+
+If you have any questions related to the summit please contact summit at openstack.org <mailto:summit at openstack.org>.
+
+Thanks!
+Kendall
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150810/0115c3e1/attachment.html>
+
+From egle.sigler at rackspace.com  Wed Aug 12 06:14:29 2015
+From: egle.sigler at rackspace.com (Egle Sigler)
+Date: Wed, 12 Aug 2015 06:14:29 +0000
+Subject: [Women-of-openstack] [Diversity] OpenStack Diversity Working Group
+ Meeting Thursday 05:00 UTC
+Message-ID: <04cc25d70397456bb9756eae0e9daadb@544124-OEXCH02.ror-uc.rackspace.com>
+
+Hello Everyone,
+Join us for OpenStack Diversity working group meeting.
+
+
+Etherpad: https://etherpad.openstack.org/p/OpenStackDiversity.6
+Agenda: https://wiki.openstack.org/wiki/Diversity#Agenda
+
+
+Info on OpenStack IRC: https://wiki.openstack.org/wiki/IRC
+Web IRC link if you are not using IRC client: http://webchat.freenode.net/?channels=openstack-diversity
+
+
+Meetbot quick reference guide: http://meetbot.debian.net/Manual.html#user-reference
+
+
+Thank you,
+Egle
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150812/df1e1c21/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 1970 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150812/df1e1c21/attachment.ics>
+
+From carol.l.barrett at intel.com  Mon Aug 17 22:10:02 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 17 Aug 2015 22:10:02 +0000
+Subject: [Women-of-openstack] [OpenStack] [Diversity] 8/20 Diversity Work
+	Group Meeting reminder
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C86B77A@ORSMSX113.amr.corp.intel.com>
+
+Hi Team - This week Amy Marrich will lead our meeting - Thanks Amy!
+
+We will meet:
+Thursday 8/20/15 at 17:00 UTC
+IRC Channel? #openstack-diversity
+ Etherpad: https://etherpad.openstack.org/p/OpenStackDiversity.7
+
+
+Agenda is:
+
+?         Roll Call
+
+?         Women of OpenStack Update
+
+o   Call to action: If you?re interested in joining this effort, pls join the WOO mail list
+
+?         Update from APAC call
+
+o   Roland Chan and Kavit will lead Geo Diversity effort
+
+o   Who is interested in working with them on this?
+
+o   Attendance is low in APAC call - Pls help increase the participation
+
+?         Data Analysis Team
+
+o   We need a leader for this activity and a core team to help
+
+o   Focus is to determine what data we have and what data we need for Phase 1 thru 3
+
+?         Community Survey Team
+
+o   We need a leader for this activity and a core team to help
+
+o   Goal is to create a survey to gather data from the Community to close the gaps per above team; and to find out if there are other categories of diversity the community believes we should add to our plans
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150817/62096901/attachment.html>
+
+From egle.sigler at rackspace.com  Mon Aug 17 22:23:54 2015
+From: egle.sigler at rackspace.com (Egle Sigler)
+Date: Mon, 17 Aug 2015 22:23:54 +0000
+Subject: [Women-of-openstack] [OpenStack] [Diversity] 8/20 Diversity
+	Work	Group Meeting calendar invite
+Message-ID: <48e5d7d441404151b017d56aa294b3f5@544124-OEXCH02.ror-uc.rackspace.com>
+
+Hi Team - This week Amy Marrich will lead our meeting - Thanks Amy!
+
+We will meet:
+Thursday 8/20/15 at 17:00 UTC
+IRC Channel? #openstack-diversity
+ Etherpad: https://etherpad.openstack.org/p/OpenStackDiversity.7
+
+
+Agenda is:
+   *         Roll Call
+   *         Women of OpenStack Update
+         o   Call to action: If you're interested in joining this effort, pls join the WOO mail list
+   *         Update from APAC call
+         o   Roland Chan and Kavit will lead Geo Diversity effort
+         o   Who is interested in working with them on this?
+         o   Attendance is low in APAC call - Pls help increase the participation
+   *         Data Analysis Team
+         o   We need a leader for this activity and a core team to help
+         o   Focus is to determine what data we have and what data we need for Phase 1 thru 3
+   *         Community Survey Team
+         o   We need a leader for this activity and a core team to help
+         o   Goal is to create a survey to gather data from the Community to close the gaps per above team; and to find out if there are other categories of diversity the community believes we should add to our plans
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150817/66de7cdc/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 3016 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150817/66de7cdc/attachment-0001.ics>
+
+From aplimpton at gmail.com  Tue Aug 18 07:11:22 2015
+From: aplimpton at gmail.com (APlimpton)
+Date: Tue, 18 Aug 2015 00:11:22 -0700
+Subject: [Women-of-openstack] [OpenStack] [Diversity] 8/20 Diversity
+ Work Group Meeting reminder
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5C86B77A@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C86B77A@ORSMSX113.amr.corp.intel.com>
+Message-ID: <CA+8x=aoXYb7i-6drq0haoZMMyKmV81NTB4O1W15AwNzayx-9xQ@mail.gmail.com>
+
+Thanks for leading the next meeting Amy!
+
+I'm confused about part of the agenda though. Both the Diversity Data
+<https://docs.google.com/document/d/1EOFBdXOGsIjtxYLwKqjKUDkGPN2C7zHKzxUjEGq5m58/edit>
+and Diversity Survey
+<https://docs.google.com/document/d/139FLmZ32ydWMwvejiAQ1ZuOBl6dtVpIXyCNDZ69IFPQ/edit>
+teams
+are underway. The core groups were started Meeting 5 (Aug 6th) and both
+teams are working towards their goals w/ actions items that have an Aug 27
+due date. Shouldn't this be an update from them?
+
+Also there's no mention of the Code of Conduct
+<https://docs.google.com/document/d/1MtWnboev18kpOXBz37NCv972uzPCwbr8Toby7VaqxzI/edit>
+sub-committee, can we have their update added to the agenda as well?
+
+Thanks,
+Amanda
+
+On Mon, Aug 17, 2015 at 3:10 PM, Barrett, Carol L <carol.l.barrett at intel.com
+> wrote:
+
+> Hi Team ? This week Amy Marrich will lead our meeting ? Thanks Amy!
+>
+>
+>
+> We will meet:
+>
+> Thursday 8/20/15 at 17:00 UTC
+>
+> IRC Channel? #openstack-diversity
+>
+>  Etherpad: https://etherpad.openstack.org/p/OpenStackDiversity.7
+>
+>
+>
+>
+>
+> Agenda is:
+>
+> ?         Roll Call
+>
+> ?         Women of OpenStack Update
+>
+> o   Call to action: If you?re interested in joining this effort, pls join
+> the WOO mail list
+>
+> ?         Update from APAC call
+>
+> o   Roland Chan and Kavit will lead Geo Diversity effort
+>
+> o   Who is interested in working with them on this?
+>
+> o   Attendance is low in APAC call ? Pls help increase the participation
+>
+> ?         Data Analysis Team
+>
+> o   We need a leader for this activity and a core team to help
+>
+> o   Focus is to determine what data we have and what data we need for
+> Phase 1 thru 3
+>
+> ?         Community Survey Team
+>
+> o   We need a leader for this activity and a core team to help
+>
+> o   Goal is to create a survey to gather data from the Community to close
+> the gaps per above team; and to find out if there are other categories of
+> diversity the community believes we should add to our plans
+>
+> Thanks
+>
+> Carol
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150818/ee01991f/attachment.html>
+
+From carol.l.barrett at intel.com  Wed Aug 26 15:38:08 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Wed, 26 Aug 2015 15:38:08 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Regular Work
+ Group Meetings Starting - Join Us!
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C88A0BA@ORSMSX113.amr.corp.intel.com>
+
+Women of OpenStack - There is a desire to create regular, on-going opportunities for Collaboration across this group. This will enable us to continue the dialog and interaction we have at the Summits and expand the scope of our activities.
+
+One area for expansion is to collaborate with the Diversity Work Group to both inform the definition of programs that increase the participation and contributions of Women into OpenStack as well as lead execution of these programs.
+
+We'd like to invite you to join for a kick-off meeting to discuss:
+*       Diversity WG Collaboration
+*       Goals & Objectives for regular WOO meetings
+*       Logistics planning for the regular meetings
+
+The Doodle at the link below, is for the kick-off meeting scheduling. Pls indicate which days/times between 9/1-9/4 work for your calendar. The Doodle will close on Thursday and we will publish the meeting time.
+        Doodle Link: http://doodle.com/va6bzzad74h45inv
+
+Thanks for your support and participation!
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150826/0f78fbbd/attachment.html>
+
+From carol.l.barrett at intel.com  Thu Aug 27 20:38:29 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Thu, 27 Aug 2015 20:38:29 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Regular
+ Work Group Meetings Starting - Join Us!
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5C88A0BA@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C88A0BA@ORSMSX113.amr.corp.intel.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C88E93D@ORSMSX113.amr.corp.intel.com>
+
+Gentle reminder - If you haven't entered your info into the Doodle, pls do before it closes later today.
+Thanks
+Carol
+
+_____________________________________________
+From: Barrett, Carol L
+Sent: Wednesday, August 26, 2015 8:38 AM
+To: women-of-openstack at lists.openstack.org; foundation at lists.openstack.org
+Cc: Barrett, Carol
+Subject: [OpenStack][Women of OpenStack] Regular Work Group Meetings Starting - Join Us!
+
+
+Women of OpenStack - There is a desire to create regular, on-going opportunities for Collaboration across this group. This will enable us to continue the dialog and interaction we have at the Summits and expand the scope of our activities.
+
+One area for expansion is to collaborate with the Diversity Work Group to both inform the definition of programs that increase the participation and contributions of Women into OpenStack as well as lead execution of these programs.
+
+We'd like to invite you to join for a kick-off meeting to discuss:
+*       Diversity WG Collaboration
+*       Goals & Objectives for regular WOO meetings
+*       Logistics planning for the regular meetings
+
+The Doodle at the link below, is for the kick-off meeting scheduling. Pls indicate which days/times between 9/1-9/4 work for your calendar. The Doodle will close on Thursday and we will publish the meeting time.
+        Doodle Link: http://doodle.com/va6bzzad74h45inv
+
+Thanks for your support and participation!
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150827/0dd44bcc/attachment.html>
+
+From carol.l.barrett at intel.com  Fri Aug 28 14:10:15 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Fri, 28 Aug 2015 14:10:15 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Kick-off
+	Meeting Info
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C8912F7@ORSMSX113.amr.corp.intel.com>
+
+Thanks for your responses in the Doodle. Based upon that, we will have our kick-off meeting on Wednesday  9/2/15 at 18:00 UTC.
+
+You can find the agenda and logistics here: https://etherpad.openstack.org/p/9_2_15_WOS
+
+Talk with you then!
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150828/1c8356c8/attachment.html>
+
+From kendall at openstack.org  Mon Aug 31 18:00:23 2015
+From: kendall at openstack.org (Kendall Waters)
+Date: Mon, 31 Aug 2015 13:00:23 -0500
+Subject: [Women-of-openstack] Command Presence Workshop at Tokyo Summit
+Message-ID: <766F7314-832C-4FDD-BDB4-D2A69A52841F@openstack.org>
+
+Hi everyone,
+
+On the Monday before the OpenStack Summit Tokyo begins, the Women of OpenStack would like to invite you to the Command?Presence Workshop <http://openstacksummitoctober2015tokyo.sched.org/event/1ddf6338bc6c5e9fec181663ea1fa47b#.VeSPktNViko>. This event is intended to teach participants how to handle ?senior-level high pressure meetings,? and the majority of the workshop is a task-force convened to address a simulated, but very realistic crisis event. If you are a technical woman who regularly attends technical meetings working groups and would like to develop and ?command your presence? in high pressure meetings, then this event is for you!
+
+Please note that this event occurs before the launch of the Summit, so please plan your travel accordingly. 
+
+This event is on Monday, October 26 from 9:30am to 12:30pm in the Ougyoku room in the Summit venue, and additional event information will be shared with attendees who RSVP. 
+
+Space is limited, so RSVPs are required. RSVP HERE <https://docs.google.com/spreadsheets/d/1fj7V0nLh7UBvj7I7htWLz63ygdk4vRDkU2DqB-t1TQo/edit?usp=sharing>
+
+See you in Tokyo! 
+
+Cheers,
+Kendall
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150831/1771a2f1/attachment.html>
+
+From tristan at aptira.com  Fri Aug 28 15:12:00 2015
+From: tristan at aptira.com (Tristan Goode)
+Date: Sat, 29 Aug 2015 01:12:00 +1000
+Subject: [Women-of-openstack] [OpenStack Foundation] [OpenStack][Women
+ of OpenStack] Kick-off Meeting Info
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5C8912F7@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C8912F7@ORSMSX113.amr.corp.intel.com>
+Message-ID: <75765c51afe22891864e9cfb332321a6@mail.gmail.com>
+
+Re this:
+
+
+
+Women of OpenStack
+
+September 2, 2015
+
+18:00 UTC
+
+
+
+We will use a voice line for this call:
+
+ Access: (888) 875-9370, Bridge: 3; Passcode: 1278598
+
+
+
+"I understand the foundation has sponsored a female diversity intern that
+probably cant dial this US freecall number. What number should she call?"
+
+
+
+"As with all OpenStack meetings, we must provide equal access to all
+foundation members, even those outside the US".
+
+
+
+Cheers
+
+Tristan
+
+
+
+
+
+*From:* Barrett, Carol L [mailto:carol.l.barrett at intel.com]
+*Sent:* Saturday, 29 August 2015 12:10 AM
+*To:* foundation at lists.openstack.org; women-of-openstack at lists.openstack.org
+*Subject:* [OpenStack Foundation] [OpenStack][Women of OpenStack] Kick-off
+Meeting Info
+
+
+
+Thanks for your responses in the Doodle. Based upon that, we will have our
+kick-off meeting on Wednesday  9/2/15 at 18:00 UTC.
+
+
+
+You can find the agenda and logistics here:
+https://etherpad.openstack.org/p/9_2_15_WOS
+
+
+
+Talk with you then!
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150829/db8fbc49/attachment-0001.html>
+

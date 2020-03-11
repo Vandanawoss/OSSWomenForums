@@ -1,0 +1,68 @@
+From marinaz@redhat.com  Fri Sep 16 23:18:50 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 5780C7501A6;
+	Fri, 16 Sep 2011 23:18:50 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.406
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.406 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.504,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id pW9FdcxKonQd; Fri, 16 Sep 2011 23:18:47 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id B603575019E;
+	Fri, 16 Sep 2011 23:18:39 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p8GNIcbM032254;
+	Fri, 16 Sep 2011 19:18:38 -0400
+Date: Fri, 16 Sep 2011 19:18:38 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <2126306411.1257881.1316215118237.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <870773125.1257856.1316214621815.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.5.71]
+X-Mailer: Zimbra 6.0.9_GA_2686 (ZimbraWebClient - FF3.0 (Linux)/6.0.9_GA_2686)
+Cc: women-outreach <women-outreach@gnome.org>, outreach-list@gnome.org
+Subject: [gnome-women] Outreach Program for Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 16 Sep 2011 23:18:50 -0000
+
+Hi all!
+
+We are starting an application process for the third round of GNOME Outreach Program for Women internships just in time for the Software Freedom Day!
+
+The dates for these internships are December 12, 2011 to March 12, 2012. The application deadline is October 31, 2011. The internship dates are aimed at the college women in the Southern Hemisphere who will have a school summer break during this time. However, any woman who has relevant experience and is available for a full-time internship is welcome to apply.
+
+Please check out all the program details here and consider applying for the program!
+http://live.gnome.org/GnomeWomen/OutreachProgram2011
+
+If you are heading to a Software Freedom Day event, please help us spread the word by bringing a few flyers there or making an announcement about the internship opportunities at the event. You can just tell people to check out the main GNOME website for more information.
+
+You can also help us spread the word by sending the information about the program to the universities and organizations, posting the flyer on the university campuses or handing it out at conferences, encouraging anyone who'd be a good candidate to apply, or writing an update about the program on Identi.ca, Twitter, Facebook or Google+!
+
+A flyer, a sample e-mail, and even a sample dent/tweet are here:
+http://live.gnome.org/GnomeWomen/OutreachProgram2011/SpreadTheWord
+
+Thank you!
+Marina

@@ -1,0 +1,245 @@
+From duffy@redhat.com  Tue Dec 20 10:19:27 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 91F003B1F28
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:27 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 10228-04 for <gnome-women-list@gnome.org>;
+	Tue, 20 Dec 2005 10:19:24 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 78CD03B1EA3
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:24 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id jBKFJOqu021420
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:24 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id jBKFJN109659
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:23 -0500
+Received: from [192.168.1.103] (dhcp83-55.boston.redhat.com [172.16.83.55])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id jBKFJNa3008855
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:23 -0500
+Message-ID: <43A8210B.4020606@redhat.com>
+Date: Tue, 20 Dec 2005 10:19:39 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.001 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -0.001
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Article: Gender gap in computer science worsens...
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Dec 2005 15:19:27 -0000
+
+In computer science, a growing gender gap
+Women shunning a field once seen as welcoming
+
+By Marcella Bombardieri, Globe Staff  |  December 18, 2005
+
+MEDFORD -- As a young high school teacher in 1982, Diane Souvaine leapt 
+into graduate school for computer science having taken only one class in 
+the subject.
+
+Computers, she believed, offered an exhilarating way to apply her math 
+skills to real-world problems. And because computer science was coming 
+into its own in the feminist age, she also hoped it would be more 
+welcoming to women than her undergraduate math department.
+
+Today, Souvaine chairs the Tufts University computer science department, 
+which has more female professors than male. But few younger women have 
+followed in her generation's footsteps. Next spring, when 22 computer 
+science graduates accept their Tufts diplomas, only four will be women.
+
+
+http://www.boston.com/news/local/articles/2005/12/18/in_computer_science_a_growing_gender_gap/
+
+
+-- 
+Máirín Duffy <duffy@redhat.com>
+Interaction Designer
+Red Hat Network :: Red Hat, Inc.
+From duffy@redhat.com  Tue Dec 20 10:19:27 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 91F003B1F28
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:27 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 10228-04 for <gnome-women-list@gnome.org>;
+	Tue, 20 Dec 2005 10:19:24 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 78CD03B1EA3
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:24 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id jBKFJOqu021420
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:24 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id jBKFJN109659
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:23 -0500
+Received: from [192.168.1.103] (dhcp83-55.boston.redhat.com [172.16.83.55])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id jBKFJNa3008855
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:23 -0500
+Message-ID: <43A8210B.4020606@redhat.com>
+Date: Tue, 20 Dec 2005 10:19:39 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.001 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -0.001
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Article: Gender gap in computer science worsens...
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Dec 2005 15:19:27 -0000
+
+In computer science, a growing gender gap
+Women shunning a field once seen as welcoming
+
+By Marcella Bombardieri, Globe Staff  |  December 18, 2005
+
+MEDFORD -- As a young high school teacher in 1982, Diane Souvaine leapt 
+into graduate school for computer science having taken only one class in 
+the subject.
+
+Computers, she believed, offered an exhilarating way to apply her math 
+skills to real-world problems. And because computer science was coming 
+into its own in the feminist age, she also hoped it would be more 
+welcoming to women than her undergraduate math department.
+
+Today, Souvaine chairs the Tufts University computer science department, 
+which has more female professors than male. But few younger women have 
+followed in her generation's footsteps. Next spring, when 22 computer 
+science graduates accept their Tufts diplomas, only four will be women.
+
+
+http://www.boston.com/news/local/articles/2005/12/18/in_computer_science_a_growing_gender_gap/
+
+
+-- 
+Máirín Duffy <duffy@redhat.com>
+Interaction Designer
+Red Hat Network :: Red Hat, Inc.
+
+From duffy@redhat.com  Tue Dec 20 10:19:27 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 91F003B1F28
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:27 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 10228-04 for <gnome-women-list@gnome.org>;
+	Tue, 20 Dec 2005 10:19:24 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 78CD03B1EA3
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:24 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id jBKFJOqu021420
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:24 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id jBKFJN109659
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:23 -0500
+Received: from [192.168.1.103] (dhcp83-55.boston.redhat.com [172.16.83.55])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id jBKFJNa3008855
+	for <gnome-women-list@gnome.org>; Tue, 20 Dec 2005 10:19:23 -0500
+Message-ID: <43A8210B.4020606@redhat.com>
+Date: Tue, 20 Dec 2005 10:19:39 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.001 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -0.001
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Article: Gender gap in computer science worsens...
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Dec 2005 15:19:27 -0000
+
+In computer science, a growing gender gap
+Women shunning a field once seen as welcoming
+
+By Marcella Bombardieri, Globe Staff  |  December 18, 2005
+
+MEDFORD -- As a young high school teacher in 1982, Diane Souvaine leapt 
+into graduate school for computer science having taken only one class in 
+the subject.
+
+Computers, she believed, offered an exhilarating way to apply her math 
+skills to real-world problems. And because computer science was coming 
+into its own in the feminist age, she also hoped it would be more 
+welcoming to women than her undergraduate math department.
+
+Today, Souvaine chairs the Tufts University computer science department, 
+which has more female professors than male. But few younger women have 
+followed in her generation's footsteps. Next spring, when 22 computer 
+science graduates accept their Tufts diplomas, only four will be women.
+
+
+http://www.boston.com/news/local/articles/2005/12/18/in_computer_science_a_growing_gender_gap/
+
+
+-- 
+Máirín Duffy <duffy@redhat.com>
+Interaction Designer
+Red Hat Network :: Red Hat, Inc.
+

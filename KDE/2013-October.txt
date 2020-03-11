@@ -1,0 +1,70 @@
+From rachita.tripathi22 at gmail.com  Tue Oct  1 19:02:31 2013
+From: rachita.tripathi22 at gmail.com (Rachita Tripathi)
+Date: Tue, 1 Oct 2013 19:02:31 +0000
+Subject: [Kde-women] Introduction
+Message-ID: <CADPRVZbFtBcJeNaqybgRfaAKUz93HmY5z1qkFxsuQ_ThhUAcrA@mail.gmail.com>
+
+Hi All,
+
+I am Rachita Tripathi, presently pursuing my second year from University
+Institute of Engineering and Technology,Panjab University,Chandigarh,India.
+I have a sound knowledge of C and C++ programming languages and also wish
+to participate for Outreach Program for Women held by GNOME this season.For
+that reason I am looking for the projects in KDE that would fully utilise
+my skills and if I it requires more learning from my side I am willing to
+do that also.
+
+I am new to KDE but quite excited to learn more about it and help its
+developers to make it more powerful.Please feel free to contact me for the
+contribution required.
+
+Looking forward for a positive response.
+
+Thank You,
+
+Regards,
+Rachita Tripathi
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20131001/961da688/attachment.html>
+
+From lydia at kde.org  Tue Oct  8 06:37:53 2013
+From: lydia at kde.org (Lydia Pintscher)
+Date: Tue, 8 Oct 2013 08:37:53 +0200
+Subject: [Kde-women] Introduction
+In-Reply-To: <CADPRVZbFtBcJeNaqybgRfaAKUz93HmY5z1qkFxsuQ_ThhUAcrA@mail.gmail.com>
+References: <CADPRVZbFtBcJeNaqybgRfaAKUz93HmY5z1qkFxsuQ_ThhUAcrA@mail.gmail.com>
+Message-ID: <CAFkLwpUNqm__irE4Y4o_RPjyQoMQMEvJWe7cHK=RYVwwphLUzg@mail.gmail.com>
+
+Hi Rachita :)
+
+On Tue, Oct 1, 2013 at 9:02 PM, Rachita Tripathi
+<rachita.tripathi22 at gmail.com> wrote:
+> Hi All,
+>
+> I am Rachita Tripathi, presently pursuing my second year from University
+> Institute of Engineering and Technology,Panjab University,Chandigarh,India.
+> I have a sound knowledge of C and C++ programming languages and also wish to
+> participate for Outreach Program for Women held by GNOME this season.For
+> that reason I am looking for the projects in KDE that would fully utilise my
+> skills and if I it requires more learning from my side I am willing to do
+> that also.
+>
+> I am new to KDE but quite excited to learn more about it and help its
+> developers to make it more powerful.Please feel free to contact me for the
+> contribution required.
+
+This sounds great! KDE is a really large project. Have you already
+made up your mind about which area to contribute to? You can get an
+overview of what is out there at the topic pages linked at the top of
+http://kde.org/applications/
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE e.V. Board of Directors / KDE Community Working Group
+http://kde.org - http://open-advice.org
+

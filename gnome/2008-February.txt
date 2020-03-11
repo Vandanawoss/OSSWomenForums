@@ -1,0 +1,112 @@
+From amk@amk.ca  Sat Feb 16 14:32:29 2008
+Return-Path: <amk@amk.ca>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9613975007C
+	for <gnome-women-list@gnome.org>; Sat, 16 Feb 2008 14:32:29 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.554
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.554 tagged_above=-999 required=2
+	tests=[AWL=-0.555, BAYES_50=0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6, seldom 2.4 (older, 4) (up: 1397 hrs),
+	(distance 13, link: ethernet/modem), [69.17.117.9]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3yOno+8FCE-Q for <gnome-women-list@gnome.org>;
+	Sat, 16 Feb 2008 14:32:22 +0000 (GMT)
+Received: from mail7.sea5.speakeasy.net (mail7.sea5.speakeasy.net
+	[69.17.117.9])
+	by menubar.gnome.org (Postfix) with ESMTP id 6DA97750075
+	for <gnome-women-list@gnome.org>; Sat, 16 Feb 2008 14:32:22 +0000 (GMT)
+Received: (qmail 18417 invoked from network); 16 Feb 2008 14:32:12 -0000
+Received: from dsl092-163-165.wdc2.dsl.speakeasy.net (HELO localhost)
+	(akuchling@[66.92.163.165]) (envelope-sender <amk@amk.ca>)
+	by mail7.sea5.speakeasy.net (qmail-ldap-1.03) with AES256-SHA encrypted
+	SMTP for <gnome-women-list@gnome.org>; 16 Feb 2008 14:32:11 -0000
+From: "A.M. Kuchling" <amk@amk.ca>
+To: gnome-women-list@gnome.org
+Message-ID: <20080216143204.GB23742@amk.local>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.5.13 (2006-08-11)
+X-Mailman-Approved-At: Tue, 15 Sep 2009 15:37:00 +0000
+Subject: [gnome-women] Come to PyCon 2008 in Chicago
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: amk@amk.ca
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+Date: Sat, 16 Feb 2008 14:32:29 -0000
+X-Original-Date: Sat, 16 Feb 2008 09:32:04 -0500
+X-List-Received-Date: Sat, 16 Feb 2008 14:32:29 -0000
+
+The Python Software Foundation is proud to present PyCon 2008, the 6th
+annual Python community conference, being held in Chicago.
+
+PyCon 2008: March 14-16, 2008 
+Tutorial day: March 13
+Free sprints: March 17-20
+http://us.pycon.org
+
+Come to PyCon 2008 to:
+
+    * meet interesting people in the Python community
+    * learn about cool things others have done recently
+    * show off the cool things you've done recently
+    * learn about projects, tools & techniques
+    * advance open source projects
+
+A sampling of this year's talks:
+
+  * Programming for the One Laptop Per Child laptop
+  * Python-powered Multitouch
+  * The State of Django
+  * High performance Network IO with Python + Libevent
+  * Developing, Testing, and Debugging Python Applications with Wing IDE
+  * Core Python Containers -- Under the Hood
+
+See http://us.pycon.org/2008/conference/talks/ for the full list.
+
+The day before the conference, the tutorial day features 28 different
+three-hour tutorials, on topics such as Python 101, scientific
+programming, SQLAlchemy, PyGame, and web tools such as Django,
+Turbogears, and Plone.
+
+    http://us.pycon.org/2008/tutorials/
+
+After the conference, we have four days of sprints where project
+developers can work together and introduce new developers.  Projects
+sprinting this year include the Python interpreter, Jython, Django,
+Turbogears, Bazaar, and Orbited.  Sprints are free, and anyone can
+attend.
+
+    http://us.pycon.org/2008/sprints/projects/
+
+If you haven't registered for PyCon yet, now is the time!  The
+early-bird registration deadline is this Wednesday, February 20.  
+After that, the price for registration will be going up.
+
+    http://us.pycon.org/2008/registration/
+
+The deadline for hotel reservations at the conference rate is also
+February 20.  Act now, because the regular rate is higher.
+
+    http://us.pycon.org/2008/registration/hotel/
+
+
+Andrew M. Kuchling
+amk@amk.ca
+Registration Manager, PyCon 2008
+http://us.pycon.org

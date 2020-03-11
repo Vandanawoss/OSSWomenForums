@@ -1,0 +1,448 @@
+From valverde.izabel@gmail.com  Tue Oct  4 20:25:13 2011
+Return-Path: <valverde.izabel@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DD58F7503B9
+	for <gnome-women-list@gnome.org>; Tue,  4 Oct 2011 20:25:13 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.69
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.69 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001, T_TO_NO_BRKTS_FREEMAIL=0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ewhCrGP76d8U for <gnome-women-list@gnome.org>;
+	Tue,  4 Oct 2011 20:25:11 +0000 (UTC)
+Received: from mail-qw0-f54.google.com (mail-qw0-f54.google.com
+	[209.85.216.54])
+	by menubar.gnome.org (Postfix) with ESMTP id A27EE75037E
+	for <gnome-women-list@gnome.org>; Tue,  4 Oct 2011 20:25:03 +0000 (UTC)
+Received: by qadz30 with SMTP id z30so1224018qad.27
+	for <gnome-women-list@gnome.org>; Tue, 04 Oct 2011 13:25:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:date:message-id:subject:from:to:cc:content-type;
+	bh=lCb+yOxIvwBl2tMmzpHIJHJoeFG2/ZNBeuX7/jlD6M8=;
+	b=EDMTibIAcOYhkx345y12+FMQZR6ndQLfk+575f4dyk6LGwMr39wTPUJ20aiDEwFiuE
+	zwwPpj/0cjimAtv3L59mAdY2f5mUyn43s/JYp7rMcBRLWKUEvXvb7fpbseGC3AlkGDr/
+	8/ZLykO/xuBzFSfWlFZouquByuKqApkjk2asY=
+MIME-Version: 1.0
+Received: by 10.229.48.73 with SMTP id q9mr1347071qcf.202.1317759901946; Tue,
+	04 Oct 2011 13:25:01 -0700 (PDT)
+Received: by 10.229.104.213 with HTTP; Tue, 4 Oct 2011 13:25:01 -0700 (PDT)
+Date: Tue, 4 Oct 2011 17:25:01 -0300
+Message-ID: <CAPF532ajEGgxL3Z_24jiKcN8-U2XUGur8hY+kRm1ar_wzWOsMw@mail.gmail.com>
+From: Izabel Valverde <valverde.izabel@gmail.com>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1
+Subject: [gnome-women] Few quotes for a Conference in Brazil
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 04 Oct 2011 20:25:14 -0000
+
+Hello girls :-)
+
+In 2 weeks I'll be attending a Conference and I'm thinking to present
+"GNOME Women - How to start".
+The conference http://www.latinoware.org/ is expecting 2500 people!
+
+I'd like to have few quotes from you all.
+
+Best,
+
+Izabel
+From marinaz@redhat.com  Tue Oct  4 22:26:29 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2F163750446
+	for <gnome-women-list@gnome.org>; Tue,  4 Oct 2011 22:26:29 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.406
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.406 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.504,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id bbjUGIQLBqMl for <gnome-women-list@gnome.org>;
+	Tue,  4 Oct 2011 22:26:26 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 80D9B7503CA
+	for <gnome-women-list@gnome.org>; Tue,  4 Oct 2011 22:26:17 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p94MQERB012363;
+	Tue, 4 Oct 2011 18:26:14 -0400
+Date: Tue, 04 Oct 2011 18:26:14 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Izabel Valverde <valverde.izabel@gmail.com>
+Message-ID: <e3ea16dc-35ec-4a8c-b3c0-26731b5ada56@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <CAPF532ajEGgxL3Z_24jiKcN8-U2XUGur8hY+kRm1ar_wzWOsMw@mail.gmail.com>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Originating-IP: [10.3.113.26]
+X-Mailer: Zimbra 7.1.2_GA_3268 (ZimbraWebClient - FF3.0 (Linux)/7.1.2_GA_3268)
+Cc: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] Few quotes for a Conference in Brazil
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 04 Oct 2011 22:26:29 -0000
+
+Hi Izabel!
+
+That's great! Thank you for doing this talk at the conference!
+
+We currently have 15 projects within GNOME participating in the outreach initiative. Along with each project, there is one or several mentors who would be happy to help anyone interested in contributing to the project any time throughout the year.
+https://live.gnome.org/GnomeWomen/OutreachProgram2011#Participating_Projects
+
+There is also a general GNOME Love initiative that is meant to help the newcomers orient themselves within the GNOME community.
+https://live.gnome.org/GnomeLove
+
+You might find the suggestions in the "Application Process" section about how to select the project useful for sharing with the audience.
+https://live.gnome.org/GnomeWomen/OutreachProgram2011#Application_Process
+
+It's good to explain all the communication resources we use in GNOME. Encourage people to sign in into IRC early and to read Planet GNOME. Explain that a lot of information about GNOME projects can be found on the live.gnome.org wiki and that people can look at the Recent Changes there to see what pages have been recently updated. Explain that people can browse the code and change log for any project within GNOME on http://git.gnome.org/browse . Talk about Bugzilla and about the mailing lists archives being available online.
+
+Also, I was recently helping with an excellent Open Source Workshop that Jessica McKellar and Asheesh Laroia from OpenHatch organized. It really reminded me how many concepts one needs to learn to participate in the free and open source software development. Their installation instructions and slides might give you more ideas.
+http://openhatch.org/wiki/Open_Source_Workshop
+
+Please feel free to share your slides before the talk if you'd like some feedback or after the talk, so that we can all learn from them and use them in the future!
+
+Thanks!
+Marina
+
+----- Original Message -----
+From: "Izabel Valverde" <valverde.izabel@gmail.com>
+To: gnome-women-list@gnome.org
+Cc: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+Sent: Tuesday, October 4, 2011 4:25:01 PM
+Subject: Few quotes for a Conference in Brazil
+
+Hello girls :-)
+
+In 2 weeks I'll be attending a Conference and I'm thinking to present
+"GNOME Women - How to start".
+The conference http://www.latinoware.org/ is expecting 2500 people!
+
+I'd like to have few quotes from you all.
+
+Best,
+
+Izabel
+From kristen.eisenberg@yahoo.com  Tue Oct 11 19:26:04 2011
+Return-Path: <kristen.eisenberg@yahoo.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 6FE1E7500D1
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 11 Oct 2011 19:26:04 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.198
+X-Spam-Level: 
+X-Spam-Status: No, score=0.198 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, RP_MATCHES_RCVD=-0.504] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id HtxFNnlZYZpy for <gnome-women-list@mail.gnome.org>;
+	Tue, 11 Oct 2011 19:26:02 +0000 (UTC)
+Received: from nm16-vm3.bullet.mail.ne1.yahoo.com
+	(nm16-vm3.bullet.mail.ne1.yahoo.com [98.138.91.146])
+	by menubar.gnome.org (Postfix) with SMTP id 99ED6750082
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 11 Oct 2011 19:25:53 +0000 (UTC)
+Received: from [98.138.90.52] by nm16.bullet.mail.ne1.yahoo.com with NNFMP;
+	11 Oct 2011 19:25:50 -0000
+Received: from [98.138.87.4] by tm5.bullet.mail.ne1.yahoo.com with NNFMP;
+	11 Oct 2011 19:25:50 -0000
+Received: from [127.0.0.1] by omp1004.mail.ne1.yahoo.com with NNFMP;
+	11 Oct 2011 19:25:50 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 907610.58077.bm@omp1004.mail.ne1.yahoo.com
+Received: (qmail 85567 invoked by uid 60001); 11 Oct 2011 19:25:50 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024;
+	t=1318361150; bh=lFa0j76RQxMN8bVlsswEy6+G/AdGrArBmD55zP18YI4=;
+	h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+	b=rE8xPAtrX/cz7kyB/uwEi1wdc3Cw0w19zN9AtXSw4VtoyV6zHyQCkQp56ExEIoDcVv3pOeonxYRXzi+ps97r1N+XGkJdPrvfa6uC1CwnQgexgcTRVgaCJ8Rnt/cKc1IittauQtYVq5Po2OWECCN/85gDYL/lFePcgIQQGqgartY=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=s1024; d=yahoo.com;
+	h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type;
+	b=zPIjLZb/OJWMBvAnJnoXEMRHu8vXtardKIMyOUr4BDifZ+QiewmrCAjWGvC5AtfqPdH8ekZHaea2A0gS4poKoHNaaD6/mM4Xkctbs69Eefq3RI0Oetc30CnpZa8JyXOZyJ3Vp3LDf6OtC6xESvYLKgxeQN0Hyxw3/AcV2oQMTfw=;
+X-YMail-OSG: e3aC9PgVM1l6F99FQs6IXSobQ8m1GLQA5hWZ5AtKbJgTth4
+	37ucb7ExOnuQ4_CztDWqaBvrXez.oADAF6LIPnOuJU3AAvS8QjrSUZu9.Atg
+	_.Q.D94.YJ5FsswVPWgKEjBmdDSPV.13_andlqMpxygy8WYjVAgbkSoXkNl4
+	qgbtsRu4AinI8xK6HwjuzEFCwyoMalPGWToVNliPQ11jFeVBA83Ws6Gffsh8
+	pDL4FeF5vjAp5wnzkhK2dEYL9PRHFcAe5lTOVdH9hfv3cvkb8D1pcnlSzb8L
+	hNQGocv72TZe0ph.Eiog8oeCi1cgaLcgMMEjlB0G1Wzj5T.VQ4WLyfly7SGn
+	YysBAVM8WScIrV.oYWoGUB9iN4j6CtG88EdZuzi2GHW2M6m0F2013ujWZlXR
+	ZXZr639ZBXjTlvkP.D9BtH2s25Yq6H1H1TdEkivAGGJ7snPKQa8YrFLFIKh6
+	YNhgIcovxSCkSf.0R15y01vDF0s3zJo_ejx8-
+Received: from [178.122.80.118] by web122302.mail.ne1.yahoo.com via HTTP;
+	Tue, 11 Oct 2011 12:25:50 PDT
+X-Mailer: YahooMailWebService/0.8.114.317681
+Message-ID: <1318361150.76122.YahooMailNeo@web122302.mail.ne1.yahoo.com>
+Date: Tue, 11 Oct 2011 12:25:50 -0700 (PDT)
+From: Kristen Eisenberg <kristen.eisenberg@yahoo.com>
+To: "gnome-women-list@mail.gnome.org" <gnome-women-list@mail.gnome.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="1800448838-1019450537-1318361150=:76122"
+Subject: [gnome-women] Outreach Program for Women internships press release
+	posted
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+Reply-To: Kristen Eisenberg <kristen.eisenberg@yahoo.com>
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 11 Oct 2011 19:26:04 -0000
+
+--1800448838-1019450537-1318361150=:76122
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi!=0A=0AThe GNOME 3.0 release has far more contributions by women than any=
+ previous release in GNOME history. This is largely thanks to the hard work=
+ of the first round of the Outreach Program for Women interns, who particip=
+ated in the program from December 15, 2010 to March 15, 2011. All eight par=
+ticipants had their work included in the main branches of their projects an=
+d therefore included in GNOME 3.0. Following on the heels of the successful=
+ first round, the GNOME Project is delighted to announce the participants o=
+f a new round of the Outreach Program for Women internships.=0A=0A=0AKriste=
+n Eisenberg=0ABillige Fl=FCge=0AMarketing GmbH=0AEmanuelstr. 3,=0A10317 Ber=
+lin=0ADeutschland=0ATelefon: +49 (33)=0A5310967=0AEmail:=0Autebachmeier at=
+=0Agmail.com=0ASite:=0Ahttp://flug.airego.de
+- Billige Fl=FCge vergleichen
+--1800448838-1019450537-1318361150=:76122
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"color:#000; background-color:#fff; font-family:ti=
+mes new roman, new york, times, serif;font-size:12pt"><div>Hi!<br><br>The G=
+NOME 3.0 release has far more contributions by women than any previous rele=
+ase in GNOME history. This is largely thanks to the hard work of the first =
+round of the Outreach Program for Women interns, who participated in the pr=
+ogram from December 15, 2010 to March 15, 2011. All eight participants had =
+their work included in the main branches of their projects and therefore in=
+cluded in GNOME 3.0. Following on the heels of the successful first round, =
+the GNOME Project is delighted to announce the participants of a new round =
+of the Outreach Program for Women internships.</div><div><br></div><div>
+
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">K=
+risten Eisenberg</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">B=
+illige Fl=FCge</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">M=
+arketing GmbH</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">E=
+manuelstr. 3,</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">1=
+0317 Berlin</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">D=
+eutschland</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">T=
+elefon: +49 (33)</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">5=
+310967</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">E=
+mail:</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">u=
+tebachmeier at</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">g=
+mail.com</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">S=
+ite:</span></div>
+
+<div class=3D"MsoNormal"><span lang=3D"DE" style=3D"mso-ansi-language:DE">h=
+ttp://flug.airego.de
+- Billige Fl=FCge vergleichen</span></div></div></div></body></html>
+--1800448838-1019450537-1318361150=:76122--
+From valverde.izabel@gmail.com  Sun Oct 16 21:02:15 2011
+Return-Path: <valverde.izabel@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A6D95750291
+	for <gnome-women-list@gnome.org>; Sun, 16 Oct 2011 21:02:15 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.7
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.7 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id HHL7qfTPVM95 for <gnome-women-list@gnome.org>;
+	Sun, 16 Oct 2011 21:02:12 +0000 (UTC)
+Received: from mail-qy0-f182.google.com (mail-qy0-f182.google.com
+	[209.85.216.182])
+	by menubar.gnome.org (Postfix) with ESMTP id C0B1A7500D1
+	for <gnome-women-list@gnome.org>; Sun, 16 Oct 2011 21:02:03 +0000 (UTC)
+Received: by qyg14 with SMTP id 14so1683879qyg.6
+	for <gnome-women-list@gnome.org>; Sun, 16 Oct 2011 14:02:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type:content-transfer-encoding;
+	bh=IMiOFri2OMOmJZWs5RgoW0fKlTQm2vMjtwZU+xl6P4c=;
+	b=A4XcRn/3A9xalI9FvvLPfCqXMeNt7iEFXGzGJIFIOEMcMxdJWuZI2A/eabeOlCxErS
+	qipmquNHKd9BfIl85Pu3dgRAsmB9zf40Tdy4vdNLIDEvsTB8lm5tXn0mlDeZWsvshIdd
+	GQjPNHSmwBYI0Za7ZJTKEhWEoVJHCY5cB/WhM=
+MIME-Version: 1.0
+Received: by 10.229.247.83 with SMTP id mb19mr3463805qcb.126.1318798922499;
+	Sun, 16 Oct 2011 14:02:02 -0700 (PDT)
+Received: by 10.229.104.213 with HTTP; Sun, 16 Oct 2011 14:02:02 -0700 (PDT)
+In-Reply-To: <e3ea16dc-35ec-4a8c-b3c0-26731b5ada56@zmail07.collab.prod.int.phx2.redhat.com>
+References: <CAPF532ajEGgxL3Z_24jiKcN8-U2XUGur8hY+kRm1ar_wzWOsMw@mail.gmail.com>
+	<e3ea16dc-35ec-4a8c-b3c0-26731b5ada56@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Sun, 16 Oct 2011 19:02:02 -0200
+Message-ID: <CAPF532agi-XbJMG8M9GMKR6iQ+3sA62hR-mQH2ievh5paM88_g@mail.gmail.com>
+From: Izabel Valverde <valverde.izabel@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Cc: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] Few quotes for a Conference in Brazil
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 16 Oct 2011 21:02:16 -0000
+
+Dear Marina,
+
+Thank you very much! As always you are a great support!
+
+I will prepare my presentation most based on informations that you sent to =
+me.
+
+Later I can share my slides.
+
+Best Regards,
+
+Izabel
+
+
+P.S. Just now sitting to prepare my presentation I realized that I
+didn't reply before! I'm so sorry!!!
+
+
+2011/10/4 Marina Zhurakhinskaya <marinaz@redhat.com>:
+> Hi Izabel!
+>
+> That's great! Thank you for doing this talk at the conference!
+>
+> We currently have 15 projects within GNOME participating in the outreach =
+initiative. Along with each project, there is one or several mentors who wo=
+uld be happy to help anyone interested in contributing to the project any t=
+ime throughout the year.
+> https://live.gnome.org/GnomeWomen/OutreachProgram2011#Participating_Proje=
+cts
+>
+> There is also a general GNOME Love initiative that is meant to help the n=
+ewcomers orient themselves within the GNOME community.
+> https://live.gnome.org/GnomeLove
+>
+> You might find the suggestions in the "Application Process" section about=
+ how to select the project useful for sharing with the audience.
+> https://live.gnome.org/GnomeWomen/OutreachProgram2011#Application_Process
+>
+> It's good to explain all the communication resources we use in GNOME. Enc=
+ourage people to sign in into IRC early and to read Planet GNOME. Explain t=
+hat a lot of information about GNOME projects can be found on the live.gnom=
+e.org wiki and that people can look at the Recent Changes there to see what=
+ pages have been recently updated. Explain that people can browse the code =
+and change log for any project within GNOME on http://git.gnome.org/browse =
+. Talk about Bugzilla and about the mailing lists archives being available =
+online.
+>
+> Also, I was recently helping with an excellent Open Source Workshop that =
+Jessica McKellar and Asheesh Laroia from OpenHatch organized. It really rem=
+inded me how many concepts one needs to learn to participate in the free an=
+d open source software development. Their installation instructions and sli=
+des might give you more ideas.
+> http://openhatch.org/wiki/Open_Source_Workshop
+>
+> Please feel free to share your slides before the talk if you'd like some =
+feedback or after the talk, so that we can all learn from them and use them=
+ in the future!
+>
+> Thanks!
+> Marina
+>
+> ----- Original Message -----
+> From: "Izabel Valverde" <valverde.izabel@gmail.com>
+> To: gnome-women-list@gnome.org
+> Cc: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+> Sent: Tuesday, October 4, 2011 4:25:01 PM
+> Subject: Few quotes for a Conference in Brazil
+>
+> Hello girls :-)
+>
+> In 2 weeks I'll be attending a Conference and I'm thinking to present
+> "GNOME Women - How to start".
+> The conference http://www.latinoware.org/ is expecting 2500 people!
+>
+> I'd like to have few quotes from you all.
+>
+> Best,
+>
+> Izabel
+>

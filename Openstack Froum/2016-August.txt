@@ -1,0 +1,2212 @@
+From ekhugenbruch at us.ibm.com  Mon Aug  1 01:52:36 2016
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Mon, 1 Aug 2016 01:52:36 +0000
+Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+ Training for next OpenStack Summit
+In-Reply-To: <CAD0KtVH9HEtD2rYfFx7Xn+t0Mx8PGu17yzL2aMR77+C1FCPKVQ@mail.gmail.com>
+References: <CAD0KtVH9HEtD2rYfFx7Xn+t0Mx8PGu17yzL2aMR77+C1FCPKVQ@mail.gmail.com>,
+ <CAP-MG3eHAFRvs08QdMD6fbpd==anFdUYq+qhK2zZsp-E0KQ7Lw@mail.gmail.com>
+ <OFC4692210.B2A568FF-ON00257FFD.0057CDF5-85257FFD.005826E6@notes.na.collabserv.com>
+ <CAP-MG3cRkZ4mz+T5G8B6hW2R9AHQJQgoSXk8bv44_7L0fLeCQA@mail.gmail.com>
+Message-ID: <OFD025A6EA.2FEDA980-ON00258002.000A1B03-00258002.000A4F6C@notes.na.collabserv.com>
+
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160801/21d07629/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Image.1__=8FBBF56EDFC44B658f9e8a93df938690918c8FB at .gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160801/21d07629/attachment-0001.gif>
+
+From ildiko.vancsa at gmail.com  Mon Aug  1 18:11:34 2016
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Mon, 1 Aug 2016 20:11:34 +0200
+Subject: [Women-of-openstack] [training-guides][upstream university]
+	OpenStack mentoring efforts and Upstream Training for next
+	OpenStack Summit
+Message-ID: <23D34C51-ED1F-4353-A102-2BD88CFD3E6C@gmail.com>
+
+Hi,
+
+Thank you Victoria for starting this thread (http://lists.openstack.org/pipermail/women-of-openstack/2016-July/000634.html). Unfortunately I don?t have the mails as I joined to the list late, but I used the same subject with some additional tags.
+
+I got involved with the Upstream University activities in Austin, where I was one of the presenters at the training before the event. Starting from this week I?m joining the OpenStack Foundation team and I would like to continue with this involvement as one of my focus areas.
+
+With the presenters and a few mentors we started an activity after the last Summit to collect feedback and get our heads around how we could improve the training material, orgainzation, experience of both attendees and presenters, etc. I recognized an ongoing activity around the training-guides, which contains the training material, and we have as mentioned earlier the mentor and internship programs connecting this in some extent as well.
+
+In order to try to consolidate the parallel efforts I created an etherpad, where I listed a few items in connection with the training and I also added a section for the mentoring programs: https://etherpad.openstack.org/p/upstream-university-improvements
+I included the feedbacks we collected as well.
+
+Please add your name if you would like to participate in any of the related activities. Also please feel free to extend the lists or add comments to the items. :)
+
+Thanks and Best Regards,
+Ildik?
+
+From ildiko.vancsa at gmail.com  Mon Aug  1 21:59:23 2016
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Mon, 1 Aug 2016 23:59:23 +0200
+Subject: [Women-of-openstack] [OpenStack-docs]
+	[training-guides][upstream university] OpenStack mentoring
+	efforts and Upstream Training for next OpenStack Summit
+In-Reply-To: <E57741E7-92B3-4BA5-813F-AA98D52D188E@fri.uni-lj.si>
+References: <23D34C51-ED1F-4353-A102-2BD88CFD3E6C@gmail.com>
+ <E57741E7-92B3-4BA5-813F-AA98D52D188E@fri.uni-lj.si>
+Message-ID: <89DECE64-4FF5-4D59-AC29-C112B9DD52E4@gmail.com>
+
+Hi Matjaz,
+
+Great, thanks much.
+
+It would be great to connect the activities around this area and have joint efforts. I wanted to join the Training guides meeting last week, but it seemed to be cancelled. Do you still hold them?
+
+Thanks,
+Ildik?
+
+> On 01 Aug 2016, at 23:43, Pan?ur, Matja? <Matjaz.Pancur at fri.uni-lj.si> wrote:
+> 
+> Ildik?, thanks for the ?Upstream training improvements" Etherpad and for reposting this to the Docs ML, as I?m not subscribed to WOO ML. Especially thanks for the feedback, we really needed this so we can improve the material.
+> 
+> I?ll also update the Etherpad with the feedback we collected at the Training guides IRC meetings. 
+> 
+> Cheers,
+> Matjaz
+> 
+>> On 01 Aug 2016, at 20:11, Ildiko Vancsa <ildiko.vancsa at gmail.com> wrote:
+>> 
+>> Hi,
+>> 
+>> Thank you Victoria for starting this thread (http://lists.openstack.org/pipermail/women-of-openstack/2016-July/000634.html). Unfortunately I don?t have the mails as I joined to the list late, but I used the same subject with some additional tags.
+>> 
+>> I got involved with the Upstream University activities in Austin, where I was one of the presenters at the training before the event. Starting from this week I?m joining the OpenStack Foundation team and I would like to continue with this involvement as one of my focus areas.
+>> 
+>> With the presenters and a few mentors we started an activity after the last Summit to collect feedback and get our heads around how we could improve the training material, orgainzation, experience of both attendees and presenters, etc. I recognized an ongoing activity around the training-guides, which contains the training material, and we have as mentioned earlier the mentor and internship programs connecting this in some extent as well.
+>> 
+>> In order to try to consolidate the parallel efforts I created an etherpad, where I listed a few items in connection with the training and I also added a section for the mentoring programs: https://etherpad.openstack.org/p/upstream-university-improvements
+>> I included the feedbacks we collected as well.
+>> 
+>> Please add your name if you would like to participate in any of the related activities. Also please feel free to extend the lists or add comments to the items. :)
+>> 
+>> Thanks and Best Regards,
+>> Ildik?
+>> _______________________________________________
+>> OpenStack-docs mailing list
+>> OpenStack-docs at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-docs
+> 
+
+
+
+From annegentle at justwriteclick.com  Tue Aug  2 18:11:29 2016
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Tue, 2 Aug 2016 13:11:29 -0500
+Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+ Training for next OpenStack Summit
+In-Reply-To: <OFD025A6EA.2FEDA980-ON00258002.000A1B03-00258002.000A4F6C@notes.na.collabserv.com>
+References: <CAP-MG3eHAFRvs08QdMD6fbpd==anFdUYq+qhK2zZsp-E0KQ7Lw@mail.gmail.com>
+ <OFC4692210.B2A568FF-ON00257FFD.0057CDF5-85257FFD.005826E6@notes.na.collabserv.com>
+ <CAP-MG3cRkZ4mz+T5G8B6hW2R9AHQJQgoSXk8bv44_7L0fLeCQA@mail.gmail.com>
+ <CAD0KtVH9HEtD2rYfFx7Xn+t0Mx8PGu17yzL2aMR77+C1FCPKVQ@mail.gmail.com>
+ <OFD025A6EA.2FEDA980-ON00258002.000A1B03-00258002.000A4F6C@notes.na.collabserv.com>
+Message-ID: <CAD0KtVFjqKv-tVTeTKL928pj7bE1Z1hPcEm55iOOYy0vE+yMHw@mail.gmail.com>
+
+On Sun, Jul 31, 2016 at 8:52 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com
+> wrote:
+
+> Hi Anne,
+> That's a great point, and the mentoring team has been talking about
+> "graduation criteria".  We are hoping to have something out on that before
+> the Barcelona summit.  If you have any suggestions, we'd be happy to hear
+> them.
+>
+
+I think in my case it's not so much graduation criteria (I'm not judging my
+mentee) but releasing mentors to mentor others since that's the resource
+we're running out of and want to treat like gold. :)
+
+I could see timing as being a decent criteria for defining each program.
+Then all I'd suggest is -- Duration: six months between Summits as the
+definition for WOO light-weight mentoring + Speed-mentoring.
+
+Anne
+
+
+
+
+> Thanks!
+>
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+>
+>
+>
+> ----- Original message -----
+> From: Anne Gentle <annegentle at justwriteclick.com>
+> To: Victoria Martinez de la Cruz <vkmc at redhat.com>
+> Cc: Emily K Hugenbruch/Endicott/IBM at IBMUS,
+> women-of-openstack at lists.openstack.org
+> Subject: Re: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+> Training for next OpenStack Summit
+> Date: Sun, Jul 31, 2016 4:13 PM
+>
+> Thanks for all the efforts.
+>
+> One outcome I'd like to see from the WOO mentoring is a duration and
+> end-date for the mentoring. Should it be close to the 3-months of the
+> Outreachy program, or 6 months, Summit-to-Summit, or for a year? By letting
+> mentors know when they are freed from one mentoring commitment they can
+> then be ready for another round.
+>
+> Thanks,
+> Anne
+>
+> On Wed, Jul 27, 2016 at 12:40 PM, Victoria Martinez de la Cruz <
+> vkmc at redhat.com> wrote:
+>
+> Thanks for your quick response Emily, will join next mentoring
+> committee meeting!
+>
+> Best,
+>
+> Victoria
+>
+> On Wed, Jul 27, 2016 at 1:02 PM, Emily K Hugenbruch <
+> ekhugenbruch at us.ibm.com> wrote:
+>
+> Hi Victoria,
+> I'll send you an invite to the mentoring committee meetings on Wednesdays.
+> Ildiko actually contacted me yesterday to start to talk a bit about
+> Upstream training and the lightweight mentoring, and next Wednesday we're
+> set to start talking about Speed Mentoring. We have started to talk a bit
+> at our meetings about how we can interact with other mentoring initiatives
+> in the community, like Hackathons, etc.
+> Thanks for bringing this up, we definitely need to get a united approach
+> for mentoring.
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+>
+> [image: Inactive hide details for Victoria Martinez de la Cruz
+> ---07/27/2016 10:52:50 AM---Hi all, The OpenStack Summit is rapidly appr]Victoria
+> Martinez de la Cruz ---07/27/2016 10:52:50 AM---Hi all, The OpenStack
+> Summit is rapidly approaching and I wanted to chat about the
+>
+> From: Victoria Martinez de la Cruz <vkmc at redhat.com>
+> To: women-of-openstack at lists.openstack.org, foundation at lists.openstack.org
+> Cc: marton.kiss at gmail.com, ildiko.vancsa at ericsson.com
+> Date: 07/27/2016 10:52 AM
+> Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+> Training for next OpenStack Summit
+> ------------------------------
+>
+>
+>
+> Hi all,
+>
+> The OpenStack Summit is rapidly approaching and I wanted to chat about the
+> different mentoring efforts that are happening in the OpenStack community
+> before it in order to unite forces and make the best for all of them.
+>
+> As the OpenStack Summit in Austin we had
+>
+> - Mentoring within internships like Outreachy and Google Summer of Code
+> -- Duration: 3 month length
+> -- Target: Underrepresented groups/Students respectively interested in
+> contributing to OpenStack
+> -- Mentors: Volunteers each round, not fixed list
+> -- Coordinators: vkmc, mahatic, devdatta, dims
+> - WOO light-weight mentoring + Speed-mentoring
+> -- Duration: Not defined
+> -- Target: People getting involved with OpenStack, with no prior
+> experience in contributing to open source
+> -- Mentors: DB of mentors
+> -- Coordinators: ekhugen
+> - Upstream Training
+> -- Duration: 2 days training before OpenStack Summit
+> -- Target: People getting involved with OpenStack, with no prior
+> experience in contributing to open source
+> -- Mentors: Volunteers each edition, not fixed list
+> -- Coordinators: Volunteers each edition, not sure how this is defined
+>
+> How can we merge all the efforts together?
+>
+> Now, with regards to Upstream Training for the OpenStack Summit. Is there
+> any update about this training? Who is taking the lead this time? I see
+> that [0] shows information from latest round. Ildiko and I wanted to join
+> this edition too and we want to be ready to help whenever we can with it.
+>
+> Best,
+>
+> Victoria
+>
+> [0] *http://docs.openstack.org/upstream-training/*
+> <http://docs.openstack.org/upstream-training/>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>
+> --
+> Anne Gentle
+> www.justwriteclick.com
+>
+>
+>
+>
+
+
+-- 
+Anne Gentle
+www.justwriteclick.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160802/11c66271/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: Image.1__=8FBBF56EDFC44B658f9e8a93df938690918c8FB at .gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160802/11c66271/attachment.gif>
+
+From ekhugenbruch at us.ibm.com  Tue Aug  2 19:12:35 2016
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Tue, 2 Aug 2016 15:12:35 -0400
+Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+ Training for next OpenStack Summit
+In-Reply-To: <CAD0KtVFjqKv-tVTeTKL928pj7bE1Z1hPcEm55iOOYy0vE+yMHw@mail.gmail.com>
+References: <CAP-MG3eHAFRvs08QdMD6fbpd==anFdUYq+qhK2zZsp-E0KQ7Lw@mail.gmail.com>
+ <OFC4692210.B2A568FF-ON00257FFD.0057CDF5-85257FFD.005826E6@notes.na.collabserv.com>
+ <CAP-MG3cRkZ4mz+T5G8B6hW2R9AHQJQgoSXk8bv44_7L0fLeCQA@mail.gmail.com>
+ <CAD0KtVH9HEtD2rYfFx7Xn+t0Mx8PGu17yzL2aMR77+C1FCPKVQ@mail.gmail.com>
+ <OFD025A6EA.2FEDA980-ON00258002.000A1B03-00258002.000A4F6C@notes.na.collabserv.com>
+ <CAD0KtVFjqKv-tVTeTKL928pj7bE1Z1hPcEm55iOOYy0vE+yMHw@mail.gmail.com>
+Message-ID: <OFFDFFBF4E.E0EB76B6-ON00258003.0064B216-85258003.006985B3@notes.na.collabserv.com>
+
+
+That's very fair, to establish it based on timing, and that would help
+avoid burnout.  You're right that mentors are our most precious resource
+here.
+For graduation criteria, we had been thinking more along the lines of:
+   Did the mentee achieve a goal that they wanted to, like getting a piece
+   of code done, or getting to a new job?
+   Is the mentee ready to be a mentor themselves?
+But we were planning to continue the discussion tomorrow, so we'll
+definitely bring up the 6 month timeframe suggestion then.
+
+FYI, our meeting etherpad, if anyone wants to see the log of our
+discussions on the topic
+https://etherpad.openstack.org/p/WOS_mentoring_12_3, or if you have more
+suggestions for us to discuss at our Wednesday meeting.
+Thanks!
+
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	Anne Gentle <annegentle at justwriteclick.com>
+To:	Emily K Hugenbruch/Endicott/IBM at IBMUS
+Cc:	Victoria Martinez de la Cruz <vkmc at redhat.com>,
+            women-of-openstack at lists.openstack.org
+Date:	08/02/2016 02:11 PM
+Subject:	Re: [Women-of-openstack] OpenStack mentoring efforts and
+            Upstream Training for next OpenStack Summit
+
+
+
+
+
+On Sun, Jul 31, 2016 at 8:52 PM, Emily K Hugenbruch <
+ekhugenbruch at us.ibm.com> wrote:
+  Hi Anne,
+  That's a great point, and the mentoring team has been talking about
+  "graduation criteria".? We are hoping to have something out on that
+  before the Barcelona summit.? If you have any suggestions, we'd be happy
+  to hear them.
+
+I think in my case it's not so much graduation criteria (I'm not judging my
+mentee) but releasing mentors to mentor others since that's the resource
+we're running out of and want to treat like gold. :)
+
+I could see timing as being a decent criteria for defining each program.
+Then all I'd suggest is?-- Duration: six months between Summits as the
+definition for?WOO?light-weight mentoring + Speed-mentoring.
+
+Anne
+
+
+
+  Thanks!
+
+  Sincerely,
+  Emily Kate Hugenbruch
+  OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+  IBM Corporation Endicott, NY
+  Twitter: @ekhugen
+  IRC: ekhugen at freenode
+
+
+  ----- Original message -----
+  From: Anne Gentle <annegentle at justwriteclick.com>
+  To: Victoria Martinez de la Cruz <vkmc at redhat.com>
+  Cc: Emily K Hugenbruch/Endicott/IBM at IBMUS,
+  women-of-openstack at lists.openstack.org
+  Subject: Re: [Women-of-openstack] OpenStack mentoring efforts and
+  Upstream Training for next OpenStack Summit
+  Date: Sun, Jul 31, 2016 4:13 PM
+
+  Thanks for all the efforts.
+
+  One outcome I'd like to see from the WOO mentoring is a duration and
+  end-date for the mentoring. Should it be close to the 3-months of the
+  Outreachy program, or 6 months, Summit-to-Summit, or for a year? By
+  letting mentors know when they are freed from one mentoring commitment
+  they can then be ready for another round.
+
+  Thanks,
+  Anne
+
+  On Wed, Jul 27, 2016 at 12:40 PM, Victoria Martinez de la Cruz <
+  vkmc at redhat.com> wrote:
+    Thanks for your quick response Emily, will join next?mentoring
+    committee?meeting!
+
+    Best,
+
+    Victoria
+
+    On Wed, Jul 27, 2016 at 1:02 PM, Emily K Hugenbruch <
+    ekhugenbruch at us.ibm.com> wrote:
+     Hi Victoria,
+     I'll send you an invite to the mentoring committee meetings on
+     Wednesdays. Ildiko actually contacted me yesterday to start to talk a
+     bit about Upstream training and the lightweight mentoring, and next
+     Wednesday we're set to start talking about Speed Mentoring. We have
+     started to talk a bit at our meetings about how we can interact with
+     other mentoring initiatives in the community, like Hackathons, etc.
+     Thanks for bringing this up, we definitely need to get a united
+     approach for mentoring.
+     Sincerely,
+     Emily Kate Hugenbruch
+     OpenStack Cloud Enablement Engineer - z/VM and Software Engineer -
+     z/VM
+     IBM Corporation Endicott, NY
+     Twitter: @ekhugen
+     IRC: ekhugen at freenode
+
+     Inactive hide details for Victoria Martinez de la Cruz ---07/27/2016
+     10:52:50 AM---Hi all, The OpenStack Summit is rapidly apprVictoria
+     Martinez de la Cruz ---07/27/2016 10:52:50 AM---Hi all, The OpenStack
+     Summit is rapidly approaching and I wanted to chat about the
+
+     From: Victoria Martinez de la Cruz <vkmc at redhat.com>
+     To: women-of-openstack at lists.openstack.org,
+     foundation at lists.openstack.org
+     Cc: marton.kiss at gmail.com, ildiko.vancsa at ericsson.com
+     Date: 07/27/2016 10:52 AM
+     Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+     Training for next OpenStack Summit
+
+
+
+
+     Hi all,
+
+     The OpenStack Summit is rapidly approaching and I wanted to chat about
+     the different mentoring efforts that are happening in the OpenStack
+     community before it in order to unite forces and make the best for all
+     of them.
+
+     As the OpenStack Summit in Austin we had
+
+     - Mentoring within internships like Outreachy and Google Summer of
+     Code
+     -- Duration: 3 month length
+     -- Target: Underrepresented groups/Students respectively interested in
+     contributing to OpenStack
+     -- Mentors: Volunteers each round, not fixed list
+     -- Coordinators: vkmc, mahatic, devdatta, dims
+     - WOO light-weight mentoring + Speed-mentoring
+     -- Duration: Not defined
+     -- Target: People getting involved with OpenStack, with no prior
+     experience in contributing to open source
+     -- Mentors: DB of mentors
+     -- Coordinators: ekhugen
+     - Upstream Training
+     -- Duration: 2 days training before OpenStack Summit
+     -- Target: People getting involved with OpenStack, with no prior
+     experience in contributing to open source
+     -- Mentors: Volunteers each edition, not fixed list
+     -- Coordinators: Volunteers each edition, not sure how this is defined
+
+     How can we merge all the efforts together?
+
+     Now, with regards to Upstream Training for the OpenStack Summit. Is
+     there any update about this training? Who is taking the lead this
+     time? I see that [0] shows information from latest round. Ildiko and I
+     wanted to join this edition too and we want to be ready to help
+     whenever we can with it.
+
+     Best,
+
+     Victoria
+
+     [0]?http://docs.openstack.org/upstream-training/
+     _______________________________________________
+     Women-of-openstack mailing list
+     Women-of-openstack at lists.openstack.org
+     http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+
+
+
+
+    _______________________________________________
+    Women-of-openstack mailing list
+    Women-of-openstack at lists.openstack.org
+    http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+  --
+  Anne Gentle
+  www.justwriteclick.com
+
+
+
+
+
+--
+Anne Gentle
+www.justwriteclick.com
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160802/174fd389/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160802/174fd389/attachment-0001.gif>
+
+From aimeeu.opensource at gmail.com  Thu Aug  4 14:24:24 2016
+From: aimeeu.opensource at gmail.com (Aimee Ukasick)
+Date: Thu, 4 Aug 2016 09:24:24 -0500
+Subject: [Women-of-openstack] Reminder: WOO Telecon Monday 8 August @ 2000
+	UTC
+Message-ID: <CAJAD1-MxD0aFmKMw=pAJY5VuS+O=M3qh0xMSWwTFR1G251KDyQ@mail.gmail.com>
+
+Reminder - we have our bi-weekly Women of OpenStack teleconference
+on Monday, 8 August 2016 @ 2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383
+Participant: 7217256#
+Leader 4018#
+
+Leader: Aimee Ukasick
+Etherpad: https://etherpad.openstack.org/p/WOS_8_8_16
+
+Please join us as we continue our Barcelona Summit planning.
+
+-------
+Aimee Ukasick
+AT&T OpenStack Community Team
+
+
+From aimeeu.opensource at gmail.com  Thu Aug  4 16:23:22 2016
+From: aimeeu.opensource at gmail.com (Aimee Ukasick)
+Date: Thu, 4 Aug 2016 11:23:22 -0500
+Subject: [Women-of-openstack] Reminder: WOO Telecon Monday 8 August @ 2000
+	UTC
+Message-ID: <CAJAD1-MjvbZw5WmYS1qvqSL4zSvLt4DdA+GOL95W2NUzosSqRw@mail.gmail.com>
+
+Reminder - we have our bi-weekly Women of OpenStack teleconference
+on Monday, 8 August 2016 @ 2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383
+Participant: 7217256#
+Leader 4018#
+
+Leader: Aimee Ukasick
+Etherpad: https://etherpad.openstack.org/p/WOS_8_8_16
+
+Please join us as we continue our Barcelona Summit planning.
+
+-------
+Aimee Ukasick
+AT&T OpenStack Community Team
+
+
+From aimeeu.opensource at gmail.com  Mon Aug  8 13:45:59 2016
+From: aimeeu.opensource at gmail.com (Aimee Ukasick)
+Date: Mon, 8 Aug 2016 08:45:59 -0500
+Subject: [Women-of-openstack]  WOO Telecon Today 8 August @ 2000 UTC
+Message-ID: <CAJAD1-ND_coCtAOZiP=pCmAgdvaSZbueS-+-KfMkYEzG1QjVDA@mail.gmail.com>
+
+Reminder - we have our bi-weekly Women of OpenStack teleconference
+today.
+Monday, 8 August 2016 @ 2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383
+Participant: 7217256#
+Leader 4018#
+
+Leader: Aimee Ukasick
+Etherpad: https://etherpad.openstack.org/p/WOS_8_8_16
+
+Please join us as we continue our Barcelona Summit planning.
+
+-------
+Aimee Ukasick
+AT&T OpenStack Community Team
+
+
+From madhulima_p at yahoo.com  Mon Aug  8 19:22:24 2016
+From: madhulima_p at yahoo.com (madhulima pandey)
+Date: Mon, 8 Aug 2016 19:22:24 +0000 (UTC)
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 22, Issue 4
+In-Reply-To: <mailman.1.1470398401.4851.women-of-openstack@lists.openstack.org>
+References: <mailman.1.1470398401.4851.women-of-openstack@lists.openstack.org>
+Message-ID: <1704774076.10973855.1470684144547.JavaMail.yahoo@mail.yahoo.com>
+
+Hi?All,
+Voting?session for?OpenStack?Summit in Barcelona is still open today.
+We have submitted a paper for OpenStack Barcelona Summit titled -
+Deploying Watson IoT on OpenStack: An Enterprise Use Case [Madhulima Pandey, Martin Smithson]
+
+Here is a link to the voting site https://www.openstack.org/summit/barcelona-2016/vote-for-speakers/ .To easily find this session on the voting site, use the titles in the search field (top-left corner)?to find the proposal and cast your vote. 
+
+It's time to weigh in on your favorite topics. If you would like to learn about IoT and OpenStack, please cast your vote today.?
+
+Thanks for the support of women of OpenStack!
+Madhulima 
+
+    On Friday, August 5, 2016 5:00 AM, "women-of-openstack-request at lists.openstack.org" <women-of-openstack-request at lists.openstack.org> wrote:
+ 
+
+ Send Women-of-openstack mailing list submissions to
+??? women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+??? http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+??? women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+??? women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+? 1. Reminder: WOO Telecon Monday 8 August @ 2000??? UTC (Aimee Ukasick)
+? 2. Reminder: WOO Telecon Monday 8 August @ 2000??? UTC (Aimee Ukasick)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Thu, 4 Aug 2016 09:24:24 -0500
+From: Aimee Ukasick <aimeeu.opensource at gmail.com>
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Reminder: WOO Telecon Monday 8 August @
+??? 2000??? UTC
+Message-ID:
+??? <CAJAD1-MxD0aFmKMw=pAJY5VuS+O=M3qh0xMSWwTFR1G251KDyQ at mail.gmail.com>
+Content-Type: text/plain; charset=UTF-8
+
+Reminder - we have our bi-weekly Women of OpenStack teleconference
+on Monday, 8 August 2016 @ 2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383
+Participant: 7217256#
+Leader 4018#
+
+Leader: Aimee Ukasick
+Etherpad: https://etherpad.openstack.org/p/WOS_8_8_16
+
+Please join us as we continue our Barcelona Summit planning.
+
+-------
+Aimee Ukasick
+AT&T OpenStack Community Team
+
+
+
+------------------------------
+
+Message: 2
+Date: Thu, 4 Aug 2016 11:23:22 -0500
+From: Aimee Ukasick <aimeeu.opensource at gmail.com>
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Reminder: WOO Telecon Monday 8 August @
+??? 2000??? UTC
+Message-ID:
+??? <CAJAD1-MjvbZw5WmYS1qvqSL4zSvLt4DdA+GOL95W2NUzosSqRw at mail.gmail.com>
+Content-Type: text/plain; charset=UTF-8
+
+Reminder - we have our bi-weekly Women of OpenStack teleconference
+on Monday, 8 August 2016 @ 2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383
+Participant: 7217256#
+Leader 4018#
+
+Leader: Aimee Ukasick
+Etherpad: https://etherpad.openstack.org/p/WOS_8_8_16
+
+Please join us as we continue our Barcelona Summit planning.
+
+-------
+Aimee Ukasick
+AT&T OpenStack Community Team
+
+
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 22, Issue 4
+*************************************************
+
+
+  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160808/7af56da0/attachment.html>
+
+From ildiko.vancsa at gmail.com  Wed Aug 10 20:56:32 2016
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Wed, 10 Aug 2016 22:56:32 +0200
+Subject: [Women-of-openstack] [OpenStack-docs]
+	[training-guides][upstream university] OpenStack mentoring
+	efforts and Upstream Training for next OpenStack Summit
+In-Reply-To: <E2D3C9C3-A713-4FD4-BC47-088002108E1F@fri.uni-lj.si>
+References: <23D34C51-ED1F-4353-A102-2BD88CFD3E6C@gmail.com>
+ <E57741E7-92B3-4BA5-813F-AA98D52D188E@fri.uni-lj.si>
+ <89DECE64-4FF5-4D59-AC29-C112B9DD52E4@gmail.com>
+ <E2D3C9C3-A713-4FD4-BC47-088002108E1F@fri.uni-lj.si>
+Message-ID: <ABF48236-3DA2-4AEE-B331-CFF5AE45C7B7@gmail.com>
+
+Hi,
+
+I would like to point you to the recent additions on the training etherpad: https://etherpad.openstack.org/p/upstream-university-improvements
+
+There is a ?Content structure? section that contains a basic collection of topics to include in the training. It is also sorted into two main groups, the first one contains the common items and the second lists a few areas that we can consider as modules, which we can have in parallel in smaller groups if we have people interested in those and also mentors who can help with those parts.
+
+There is also a suggestion on the etherpad to try to use PBL (Problem-based Learning) [1]. I think it would be great to consider as it seems a good technique to introduce the students the environment they will work in when they start their journey with OpenStack and they will more likely learn how to solve problems on their own after the training.
+
+It would be great to have better tooling around this event as well, so we also have a proposal on a user interface we could use to coordinate and notify both students/mentees and mentors. [2][3][4]
+
+If you have any further ideas or comments on the content, UI/tooling proposal or PBL please share it in this thread or on the etherpad.
+
+The next steps are:
+* agree on the end goals
+   * training style/format
+   * content
+   * tooling
+* define tasks and start working on the above items
+
+@Matjaz: If I?m not mistaken the next Training Guides team meeting is scheduled for next Monday. Could we use that to go through the etherpad and on the items I listed in this mail?
+
+If anyone would like to join this activity please add your name and contact info to the training etherpad! :)
+
+Thanks and Best Regards,
+Ildik?
+
+[1] https://en.wikipedia.org/wiki/Problem-based_learning
+[2] Upstream training workflow: https://docs.google.com/presentation/d/127N_sIdQbmNgfqqhyJBapZNeXX8ZQyN9Aky4Kq8fbsc/edit?usp=sharing <https://docs.google.com/presentation/d/127N_sIdQbmNgfqqhyJBapZNeXX8ZQyN9Aky4Kq8fbsc/edit?usp=sharing>
+[3] Upstream training management frontend: https://drive.google.com/file/d/0B29dOXqV9UVXUk4zZTBVYjRfSDA/view?usp=sharing <https://drive.google.com/file/d/0B29dOXqV9UVXUk4zZTBVYjRfSDA/view?usp=sharing>
+[4] Upstream training management model: https://drive.google.com/file/d/0B29dOXqV9UVXY3VxQVpRU1AtUW8/view?usp=sharing <https://drive.google.com/file/d/0B29dOXqV9UVXY3VxQVpRU1AtUW8/view?usp=sharing>
+
+
+> On 02 Aug 2016, at 00:42, Pan?ur, Matja? <Matjaz.Pancur at fri.uni-lj.si> wrote:
+> 
+> 
+>> On 01 Aug 2016, at 23:59, Ildiko Vancsa <ildiko.vancsa at gmail.com> wrote:
+>> 
+>> It would be great to connect the activities around this area and have joint efforts. I wanted to join the Training guides meeting last week, but it seemed to be cancelled. Do you still hold them?
+> 
+> Yes, I agree, this Etherpad is a great step towards this. 
+> 
+> Last IRC meeting was canceled as I?m currently on the vacation and no one of the regulars stepped in instead of me to chair them. We also switched to biweekly schedule (every two weeks (on odd weeks))[1] to see if it works for all contributors. I?ll ask at the next IRC meeting if it is OK to make this switch permanent and I?ll update the irc-meetings repo accordingly. 
+> 
+> -Matjaz
+> 
+> [1] http://lists.openstack.org/pipermail/openstack-docs/2016-February/008318.html
+> 
+>> Thanks,
+>> Ildik?
+>> 
+>>> On 01 Aug 2016, at 23:43, Pan?ur, Matja? <Matjaz.Pancur at fri.uni-lj.si> wrote:
+>>> 
+>>> Ildik?, thanks for the ?Upstream training improvements" Etherpad and for reposting this to the Docs ML, as I?m not subscribed to WOO ML. Especially thanks for the feedback, we really needed this so we can improve the material.
+>>> 
+>>> I?ll also update the Etherpad with the feedback we collected at the Training guides IRC meetings. 
+>>> 
+>>> Cheers,
+>>> Matjaz
+>>> 
+>>>> On 01 Aug 2016, at 20:11, Ildiko Vancsa <ildiko.vancsa at gmail.com> wrote:
+>>>> 
+>>>> Hi,
+>>>> 
+>>>> Thank you Victoria for starting this thread (http://lists.openstack.org/pipermail/women-of-openstack/2016-July/000634.html). Unfortunately I don?t have the mails as I joined to the list late, but I used the same subject with some additional tags.
+>>>> 
+>>>> I got involved with the Upstream University activities in Austin, where I was one of the presenters at the training before the event. Starting from this week I?m joining the OpenStack Foundation team and I would like to continue with this involvement as one of my focus areas.
+>>>> 
+>>>> With the presenters and a few mentors we started an activity after the last Summit to collect feedback and get our heads around how we could improve the training material, orgainzation, experience of both attendees and presenters, etc. I recognized an ongoing activity around the training-guides, which contains the training material, and we have as mentioned earlier the mentor and internship programs connecting this in some extent as well.
+>>>> 
+>>>> In order to try to consolidate the parallel efforts I created an etherpad, where I listed a few items in connection with the training and I also added a section for the mentoring programs: https://etherpad.openstack.org/p/upstream-university-improvements
+>>>> I included the feedbacks we collected as well.
+>>>> 
+>>>> Please add your name if you would like to participate in any of the related activities. Also please feel free to extend the lists or add comments to the items. :)
+>>>> 
+>>>> Thanks and Best Regards,
+>>>> Ildik?
+>>>> _______________________________________________
+>>>> OpenStack-docs mailing list
+>>>> OpenStack-docs at lists.openstack.org
+>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-docs
+>>> 
+>> 
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160810/9863ff1b/attachment.html>
+
+From ildiko.vancsa at gmail.com  Thu Aug 11 22:02:24 2016
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Fri, 12 Aug 2016 00:02:24 +0200
+Subject: [Women-of-openstack] [OpenStack-docs]
+	[training-guides][upstream university] OpenStack mentoring
+	efforts and Upstream Training for next OpenStack Summit
+In-Reply-To: <65C27B60-7B51-4D98-9ED0-950017AB7421@fri.uni-lj.si>
+References: <23D34C51-ED1F-4353-A102-2BD88CFD3E6C@gmail.com>
+ <E57741E7-92B3-4BA5-813F-AA98D52D188E@fri.uni-lj.si>
+ <89DECE64-4FF5-4D59-AC29-C112B9DD52E4@gmail.com>
+ <E2D3C9C3-A713-4FD4-BC47-088002108E1F@fri.uni-lj.si>
+ <ABF48236-3DA2-4AEE-B331-CFF5AE45C7B7@gmail.com>
+ <65C27B60-7B51-4D98-9ED0-950017AB7421@fri.uni-lj.si>
+Message-ID: <23B3FEC3-BF44-4155-AB99-33554657F1A5@gmail.com>
+
+Hi Matjaz,
+
+Great, thanks much!
+
+Talk to you on Monday.
+Best Regards,
+Ildik?
+
+> On 11 Aug 2016, at 23:20, Pan?ur, Matja? <Matjaz.Pancur at fri.uni-lj.si> wrote:
+> 
+> 
+>> On 10 Aug 2016, at 22:56, Ildiko Vancsa <ildiko.vancsa at gmail.com <mailto:ildiko.vancsa at gmail.com>> wrote:
+>> 
+>> The next steps are:
+>> * agree on the end goals
+>>    * training style/format
+>>    * content
+>>    * tooling
+>> * define tasks and start working on the above items
+>> 
+>> @Matjaz: If I?m not mistaken the next Training Guides team meeting is scheduled for next Monday. Could we use that to go through the etherpad and on the items I listed in this mail?
+> 
+> Yes, I I?ve already updated our agenda (https://etherpad.openstack.org/p/training-guides-meeting-agenda <https://etherpad.openstack.org/p/training-guides-meeting-agenda>). See you all on Monday. 
+> 
+> Thanks,
+> Matjaz
+> 
+>> 
+>> If anyone would like to join this activity please add your name and contact info to the training etherpad! :)
+>> 
+>> Thanks and Best Regards,
+>> Ildik?
+>> 
+>> [1] https://en.wikipedia.org/wiki/Problem-based_learning <https://en.wikipedia.org/wiki/Problem-based_learning>
+>> [2] Upstream training workflow: https://docs.google.com/presentation/d/127N_sIdQbmNgfqqhyJBapZNeXX8ZQyN9Aky4Kq8fbsc/edit?usp=sharing <https://docs.google.com/presentation/d/127N_sIdQbmNgfqqhyJBapZNeXX8ZQyN9Aky4Kq8fbsc/edit?usp=sharing>
+>> [3] Upstream training management frontend: https://drive.google.com/file/d/0B29dOXqV9UVXUk4zZTBVYjRfSDA/view?usp=sharing <https://drive.google.com/file/d/0B29dOXqV9UVXUk4zZTBVYjRfSDA/view?usp=sharing>
+>> [4] Upstream training management model: https://drive.google.com/file/d/0B29dOXqV9UVXY3VxQVpRU1AtUW8/view?usp=sharing <https://drive.google.com/file/d/0B29dOXqV9UVXY3VxQVpRU1AtUW8/view?usp=sharing>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160812/c6d5f2a3/attachment.html>
+
+From ianyrchoi at gmail.com  Sat Aug 20 00:21:33 2016
+From: ianyrchoi at gmail.com (Ian Y. Choi)
+Date: Sat, 20 Aug 2016 09:21:33 +0900
+Subject: [Women-of-openstack] Fwd: Re: [OpenStack-docs] [training-guides]
+	Team meeting reminder
+In-Reply-To: <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+References: <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+Message-ID: <7bfad2dd-ed0f-ac31-739e-557d9ab327cd@gmail.com>
+
+Hello,
+
+
+It seems that my sent e-mail was filtered to mailing lists because there 
+are too many recipients.
+
+So I am forwarding it to two mailing lists!
+
+
+/Ian
+
+-------- Original Message --------
+Subject: 	Re: [OpenStack-docs] [training-guides] Team meeting reminder
+Date: 	Sat, 20 Aug 2016 09:16:39 +0900
+From: 	Ian Y. Choi <ianyrchoi at gmail.com>
+To: 	Ildiko Vancsa <ildiko.vancsa at gmail.com>
+CC: 	Pan?ur, Matja? <Matjaz.Pancur at fri.uni-lj.si>, openstack-docs 
+<openstack-docs at lists.openstack.org>, Kiss Marton 
+<marton.kiss at gmail.com>, kennelson11 at gmail.com <kennelson11 at gmail.com>, 
+gergely.csatari at nokia.com <gergely.csatari at nokia.com>, 
+women-of-openstack at lists.openstack.org 
+<women-of-openstack at lists.openstack.org>, Mark Korondi1 
+<ORO at zurich.ibm.com>, Lana Brindley <openstack at lanabrindley.com>, 
+Tomoyuki Kato <kato.tomoyuki at jp.fujitsu.com>
+
+
+
+Hello Ildiko,
+
+Thanks a lot for sharing the meeting notes, and sorry for not
+participating in the last meeting.
+(It was 2:00 AM locally, and this constraint sometimes prevent me from
+attending the meeting.)
+
+I have read all of them, and it is so nice! I would like to propose the
+followings:
+
+1) I generally agree with our on-going steps, but I would like to more
+encourage participants to prepare
+such development environment, although we will provide it as a virtual
+machine.
+So it would be much better if we specify 'Prerequisites' or
+'Preparation' on the upstream training registration page,
+rather than announcing 'How to prepare' page (
+http://docs.openstack.org/upstream-training/#how-to-prepare ) after the
+registration.
+
+2) I am not sure if there is 'OpenStack Sandbox' launchpad which is
+linked to our sandbox repository
+http://git.openstack.org/cgit/openstack-dev/sandbox .
+Such launchpad would be nice for exercise, rather than dealing with
+triaging and changing bug status on real OpenStack project bugs.
+
+
+With many thanks,
+
+/Ian
+
+Ildiko Vancsa wrote on 8/18/2016 6:51 AM:
+> Hi All,
+>
+> As we agreed on the meeting I would like to start a follow-up mail thread to decide on tasks and next steps.
+>
+> As a reminder here?s the etherpad that holds the current status, plans and feedback from the Austin training: https://etherpad.openstack.org/p/upstream-university-improvements
+>
+> We have three main topics, which are the content and format of the training, the tooling around the administrational tasks and the development environment for the hands-on parts of the training.
+>
+>
+> Content and format
+>
+> * We decided this Monday to concentrate purely on updating the content for Barcelona and skip to update and/or rethink the tooling that creates the slides
+> * Next steps:
+> 	* Identify parts we would like to keep and update them (in progress)
+> 	* Identify parts and modules that we want to include and need new content
+> 	* Decide about the format (how much to use PBL, excercises, modules, etc.)
+> 	* Define tasks from the list of items
+> 	* Find assignees
+>
+>
+> Tooling for administration
+>
+> * Plans are already outlined on the etherpad
+> * Next steps
+> 	* Decide about the end goal
+> 	* Define tasks and time plan
+> 	* Find assignees
+> * We can also run one or a few meetings with who?s interested as the tool planned and should be good for the mentoring program as well for instance
+>
+>
+> Development environment
+>
+> * We decided on the meeting to go with the idea of having a VM that runs on the students? laptops and use public cloud instances as a backup option
+> * We have an offer from DreamCompute to help us out with public cloud access for those who need it
+> * A script is already ready to put together the VM image: https://github.com/kmARC/openstack-training-virtual-environment
+>
+>
+> We also plan to have a remote content sprint. We need to define the tasks we need to do in order to be able to set up the goals for this sprint and be efficient and productive. It would be a great way of getting some or maybe all of the content work done for example if we have enough participants. The ideal time would be early September which should give us enough time to finish whatever has left for Barcelona still in time. The preferred length would be 3 days.
+>
+> The meeting log from Monday can be found here: http://eavesdrop.openstack.org/meetings/training_guides/2016/training_guides.2016-08-15-17.00.log.html
+>
+> Please share your thoughts and questions with the summary above. Also please feel free to complement if I missed anything.
+>
+> Thanks and Best Regards,
+> Ildik?
+>
+>> On 15 Aug 2016, at 17:42, Pan?ur, Matja? <Matjaz.Pancur at fri.uni-lj.si> wrote:
+>>
+>> Hi all,
+>>
+>> Just a reminder: Training guides team meeting will start in 80 minutes on #openstack-meeting.
+>>
+>> On Agenda: updates for the training at the next OpenStack Summit (https://etherpad.openstack.org/p/upstream-university-improvements)
+>>
+>> -Matjaz
+
+
+
+
+From ildiko.vancsa at gmail.com  Tue Aug 23 14:06:11 2016
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Tue, 23 Aug 2016 10:06:11 -0400
+Subject: [Women-of-openstack] [OpenStack-docs] [training-guides] Team
+	meeting reminder
+In-Reply-To: <OFF7E7A06D.B9EA80C6-ON00258015.0033B77F-00258015.003403DF@notes.na.collabserv.com>
+References: <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+ <672922D1-47BF-4D7D-84D8-2C63FDAA300C@fri.uni-lj.si>
+ <2ECE95EE-D64D-443A-A692-2E7065A0E2D2@fri.uni-lj.si>
+ <44F73801-4C3B-43EC-A681-D1A783113172@fri.uni-lj.si>
+ <D8C26787-A7EC-4685-AC51-3AF86699BECA@fri.uni-lj.si>
+ <7BD63B37-D60E-43C8-9D84-3C3C3B3B42FB@gmail.com>
+ <OFF7E7A06D.B9EA80C6-ON00258015.0033B77F-00258015.003403DF@notes.na.collabserv.com>
+Message-ID: <A0F9283B-D2E4-4059-AE3B-1BFB6EB61D3F@gmail.com>
+
+Hi All,
+
+First of all thank you everyone, it?s really good to see we?re having progress! :)
+
+@Ian: Thanks for adding notes to the etherpad.
+
+Regarding preparation, do you mean to encourage people to put together a dev env for themselves to specify it a prerequisite? I think we can communicate what we decide in the notification mail that they get after registration. I prefer adding questions to the registration page to see what people?s expectations are rather than prerequisites.
+
+I think a Sandbox Launchpad page would be good for practice. It would also be nice to teach people how to find bugs that they will most likely be able to fix and which are really worth to fix at the same time and guide them through the process through those. But we can discuss this topic further.
+
+@Mark: Thanks for the script and sharing the Github page. I added the link and your notes to our etherpad.
+
+I would like to encourage everyone who has some time to try it out and give feedback either regarding how easy it was to use or about improvements, bugs, etc.!
+
+I also added a section on remote content sprint to the etherpad. It would be great if the few of us who?re working on this could have some dedicated time to work on the missing pieces and being able to sync up. I proposed a time period and goals. Please add your thoughts and preferences to the section as well.
+
+If you have any questions, comments or further topics/ideas please add them to the etherpad or reply to this thread.
+
+Thanks and Best Regards,
+Ildik?
+
+> On 20 Aug 2016, at 05:28, Mark Korondi1 <ORO at zurich.ibm.com> wrote:
+> 
+> Hi all,
+>  
+> https://github.com/kmARC/openstack-training-virtual-environment <https://github.com/kmARC/openstack-training-virtual-environment>
+>  
+> I put some screenshots in the document, and there is a ready to use ova appliance that you can import into virtualbox. There will be some more minor modifications s.t.:
+> - I think currently it tries to mount a network share from host which will fail and result in a warning message you can ignore
+> - We need to put all the URL's pointing to the training materials into the browsers home page
+> - etc.
+>  
+> If you feel like having 30-60 minutes to play with it, any feedbacks are welcome.
+>  
+> Mark
+>  
+>  
+> ----- Original message -----
+> From: "Ian Y. Choi" <ianyrchoi at gmail.com>
+> To: Ildiko Vancsa <ildiko.vancsa at gmail.com>
+> Cc: "Pan?ur,Matja?" <Matjaz.Pancur at fri.uni-lj.si>, openstack-docs <openstack-docs at lists.openstack.org>, Kiss Marton <marton.kiss at gmail.com>, "kennelson11 at gmail.com" <kennelson11 at gmail.com>, "gergely.csatari at nokia.com" <gergely.csatari at nokia.com>, "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>, Mark Korondi1 <ORO at zurich.ibm.com>, Lana Brindley <openstack at lanabrindley.com>, Tomoyuki Kato <kato.tomoyuki at jp.fujitsu.com>
+> Subject: Re: [OpenStack-docs] [training-guides] Team meeting reminder
+> Date: Sat, Aug 20, 2016 2:17 AM
+>  
+> Hello Ildiko,
+> 
+> Thanks a lot for sharing the meeting notes, and sorry for not
+> participating in the last meeting.
+> (It was 2:00 AM locally, and this constraint sometimes prevent me from
+> attending the meeting.)
+> 
+> I have read all of them, and it is so nice! I would like to propose the
+> followings:
+> 
+> 1) I generally agree with our on-going steps, but I would like to more
+> encourage participants to prepare
+> such development environment, although we will provide it as a virtual
+> machine.
+> So it would be much better if we specify 'Prerequisites' or
+> 'Preparation' on the upstream training registration page,
+> rather than announcing 'How to prepare' page (
+> http://docs.openstack.org/upstream-training/#how-to-prepare <http://docs.openstack.org/upstream-training/#how-to-prepare> ) after the
+> registration.
+> 
+> 2) I am not sure if there is 'OpenStack Sandbox' launchpad which is
+> linked to our sandbox repository
+> http://git.openstack.org/cgit/openstack-dev/sandbox <http://git.openstack.org/cgit/openstack-dev/sandbox> .
+> Such launchpad would be nice for exercise, rather than dealing with
+> triaging and changing bug status on real OpenStack project bugs.
+> 
+> 
+> With many thanks,
+> 
+> /Ian
+> 
+> Ildiko Vancsa wrote on 8/18/2016 6:51 AM:
+> > Hi All,
+> >
+> > As we agreed on the meeting I would like to start a follow-up mail thread to decide on tasks and next steps.
+> >
+> > As a reminder here?s the etherpad that holds the current status, plans and feedback from the Austin training: https://etherpad.openstack.org/p/upstream-university-improvements <https://etherpad.openstack.org/p/upstream-university-improvements>
+> >
+> > We have three main topics, which are the content and format of the training, the tooling around the administrational tasks and the development environment for the hands-on parts of the training.
+> >
+> >
+> > Content and format
+> >
+> > * We decided this Monday to concentrate purely on updating the content for Barcelona and skip to update and/or rethink the tooling that creates the slides
+> > * Next steps:
+> > * Identify parts we would like to keep and update them (in progress)
+> > * Identify parts and modules that we want to include and need new content
+> > * Decide about the format (how much to use PBL, excercises, modules, etc.)
+> > * Define tasks from the list of items
+> > * Find assignees
+> >
+> >
+> > Tooling for administration
+> >
+> > * Plans are already outlined on the etherpad
+> > * Next steps
+> > * Decide about the end goal
+> > * Define tasks and time plan
+> > * Find assignees
+> > * We can also run one or a few meetings with who?s interested as the tool planned and should be good for the mentoring program as well for instance
+> >
+> >
+> > Development environment
+> >
+> > * We decided on the meeting to go with the idea of having a VM that runs on the students? laptops and use public cloud instances as a backup option
+> > * We have an offer from DreamCompute to help us out with public cloud access for those who need it
+> > * A script is already ready to put together the VM image: https://github.com/kmARC/openstack-training-virtual-environment <https://github.com/kmARC/openstack-training-virtual-environment>
+> >
+> >
+> > We also plan to have a remote content sprint. We need to define the tasks we need to do in order to be able to set up the goals for this sprint and be efficient and productive. It would be a great way of getting some or maybe all of the content work done for example if we have enough participants. The ideal time would be early September which should give us enough time to finish whatever has left for Barcelona still in time. The preferred length would be 3 days.
+> >
+> > The meeting log from Monday can be found here: http://eavesdrop.openstack.org/meetings/training_guides/2016/training_guides.2016-08-15-17.00.log.html <http://eavesdrop.openstack.org/meetings/training_guides/2016/training_guides.2016-08-15-17.00.log.html>
+> >
+> > Please share your thoughts and questions with the summary above. Also please feel free to complement if I missed anything.
+> >
+> > Thanks and Best Regards,
+> > Ildik?
+> >
+> >> On 15 Aug 2016, at 17:42, Pan?ur, Matja? <Matjaz.Pancur at fri.uni-lj.si> wrote:
+> >>
+> >> Hi all,
+> >>
+> >> Just a reminder: Training guides team meeting will start in 80 minutes on #openstack-meeting.
+> >>
+> >> On Agenda: updates for the training at the next OpenStack Summit (https://etherpad.openstack.org/p/upstream-university-improvements <https://etherpad.openstack.org/p/upstream-university-improvements>)
+> >>
+> >> -Matjaz
+> 
+>  
+>  
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160823/cf10be43/attachment.html>
+
+From ianyrchoi at gmail.com  Thu Aug 25 14:57:48 2016
+From: ianyrchoi at gmail.com (Ian Y. Choi)
+Date: Thu, 25 Aug 2016 23:57:48 +0900
+Subject: [Women-of-openstack] [OpenStack-docs] [training-guides] Team
+	meeting reminder
+In-Reply-To: <A0F9283B-D2E4-4059-AE3B-1BFB6EB61D3F@gmail.com>
+References: <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+ <672922D1-47BF-4D7D-84D8-2C63FDAA300C@fri.uni-lj.si>
+ <2ECE95EE-D64D-443A-A692-2E7065A0E2D2@fri.uni-lj.si>
+ <44F73801-4C3B-43EC-A681-D1A783113172@fri.uni-lj.si>
+ <D8C26787-A7EC-4685-AC51-3AF86699BECA@fri.uni-lj.si>
+ <7BD63B37-D60E-43C8-9D84-3C3C3B3B42FB@gmail.com>
+ <OFF7E7A06D.B9EA80C6-ON00258015.0033B77F-00258015.003403DF@notes.na.collabserv.com>
+ <A0F9283B-D2E4-4059-AE3B-1BFB6EB61D3F@gmail.com>
+Message-ID: <0a40ddd1-9ad2-72bd-ace4-c839c3dd612b@gmail.com>
+
+Hello!
+
+@Ildiko,
+
+I agree with your idea: adding questions to the registration page to see 
+expectations :)
+
+@Mark,
+
+I have executed it on my Windows 10 and also Mac OS X environment. The 
+followings are my brief feedback and thoughts:
+
+- DevStack installation and execution work so fine :) And it was easy!
+- I would recommend to enable "Reinitialize the MAC address of all 
+network cards" option when importing the virtual appliance using VirtualBox.
+- There is a warning: "The shared folder 'vagrant' could not be set up: 
+Shared folder path 
+'/home/oro/projects/_github.com/kmARC/openstack-training-virtual-environment' 
+is not absolute."
+- It seems that DevStack source is already stored in the OVA file. We 
+might need to guide users to execute 'git pull' to retrieve the latest 
+DevStack source.
+- No port forwarding and additional host-only network interface prevent 
+users from accessing Horizon on users' host OS environment.
+  (e.g., the connection from Internet Explorer (out of VirtualBox) to 
+Horizon (executing in the virtual machine) is not supported.)
+- If we might use old OVA images during upstream training (as fresh as 
+possible would be nice but freshest DevStack environment would be so 
+ideal), then making DevStack offline (using 'OFFLINE=True' option in 
+local.conf) would be also nice to less use network bandwidth.
+
+
+With many thanks,
+
+/Ian
+
+
+Ildiko Vancsa wrote on 8/23/2016 11:06 PM:
+> Hi All,
+>
+> First of all thank you everyone, it?s really good to see we?re having 
+> progress! :)
+>
+> @Ian: Thanks for adding notes to the etherpad.
+>
+> Regarding preparation, do you mean to encourage people to put together 
+> a dev env for themselves to specify it a prerequisite? I think we can 
+> communicate what we decide in the notification mail that they get 
+> after registration. I prefer adding questions to the registration page 
+> to see what people?s expectations are rather than prerequisites.
+>
+> I think a Sandbox Launchpad page would be good for practice. It would 
+> also be nice to teach people how to find bugs that they will most 
+> likely be able to fix and which are really worth to fix at the same 
+> time and guide them through the process through those. But we can 
+> discuss this topic further.
+>
+> @Mark: Thanks for the script and sharing the Github page. I added the 
+> link and your notes to our etherpad.
+>
+> I would like to encourage everyone who has some time to try it out and 
+> give feedback either regarding how easy it was to use or about 
+> improvements, bugs, etc.!
+>
+> I also added a section on remote content sprint to the etherpad. It 
+> would be great if the few of us who?re working on this could have some 
+> dedicated time to work on the missing pieces and being able to sync 
+> up. I proposed a time period and goals. Please add your thoughts and 
+> preferences to the section as well.
+>
+> If you have any questions, comments or further topics/ideas please add 
+> them to the etherpad or reply to this thread.
+>
+> Thanks and Best Regards,
+> Ildik?
+>
+>> On 20 Aug 2016, at 05:28, Mark Korondi1 <ORO at zurich.ibm.com 
+>> <mailto:ORO at zurich.ibm.com>> wrote:
+>>
+>> Hi all,
+>> https://github.com/kmARC/openstack-training-virtual-environment
+>> I put some screenshots in the document, and there is a ready to use 
+>> ova appliance that you can import into virtualbox. There will be some 
+>> more minor modifications s.t.:
+>> - I think currently it tries to mount a network share from host which 
+>> will fail and result in a warning message you can ignore
+>> - We need to put all the URL's pointing to the training materials 
+>> into the browsers home page
+>> - etc.
+>> If you feel like having 30-60 minutes to play with it, any feedbacks 
+>> are welcome.
+>> Mark
+>>
+>>     ----- Original message -----
+>>     From: "Ian Y. Choi" <ianyrchoi at gmail.com
+>>     <mailto:ianyrchoi at gmail.com>>
+>>     To: Ildiko Vancsa <ildiko.vancsa at gmail.com
+>>     <mailto:ildiko.vancsa at gmail.com>>
+>>     Cc: "Pan?ur,Matja?" <Matjaz.Pancur at fri.uni-lj.si
+>>     <mailto:Matjaz.Pancur at fri.uni-lj.si>>, openstack-docs
+>>     <openstack-docs at lists.openstack.org
+>>     <mailto:openstack-docs at lists.openstack.org>>, Kiss Marton
+>>     <marton.kiss at gmail.com <mailto:marton.kiss at gmail.com>>,
+>>     "kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>"
+>>     <kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>>,
+>>     "gergely.csatari at nokia.com <mailto:gergely.csatari at nokia.com>"
+>>     <gergely.csatari at nokia.com <mailto:gergely.csatari at nokia.com>>,
+>>     "women-of-openstack at lists.openstack.org
+>>     <mailto:women-of-openstack at lists.openstack.org>"
+>>     <women-of-openstack at lists.openstack.org
+>>     <mailto:women-of-openstack at lists.openstack.org>>, Mark Korondi1
+>>     <ORO at zurich.ibm.com <mailto:ORO at zurich.ibm.com>>, Lana Brindley
+>>     <openstack at lanabrindley.com <mailto:openstack at lanabrindley.com>>,
+>>     Tomoyuki Kato <kato.tomoyuki at jp.fujitsu.com
+>>     <mailto:kato.tomoyuki at jp.fujitsu.com>>
+>>     Subject: Re: [OpenStack-docs] [training-guides] Team meeting reminder
+>>     Date: Sat, Aug 20, 2016 2:17 AM
+>>     Hello Ildiko,
+>>
+>>     Thanks a lot for sharing the meeting notes, and sorry for not
+>>     participating in the last meeting.
+>>     (It was 2:00 AM locally, and this constraint sometimes prevent me
+>>     from
+>>     attending the meeting.)
+>>
+>>     I have read all of them, and it is so nice! I would like to
+>>     propose the
+>>     followings:
+>>
+>>     1) I generally agree with our on-going steps, but I would like to
+>>     more
+>>     encourage participants to prepare
+>>     such development environment, although we will provide it as a
+>>     virtual
+>>     machine.
+>>     So it would be much better if we specify 'Prerequisites' or
+>>     'Preparation' on the upstream training registration page,
+>>     rather than announcing 'How to prepare' page (
+>>     http://docs.openstack.org/upstream-training/#how-to-prepare )
+>>     after the
+>>     registration.
+>>
+>>     2) I am not sure if there is 'OpenStack Sandbox' launchpad which is
+>>     linked to our sandbox repository
+>>     http://git.openstack.org/cgit/openstack-dev/sandbox .
+>>     Such launchpad would be nice for exercise, rather than dealing with
+>>     triaging and changing bug status on real OpenStack project bugs.
+>>
+>>
+>>     With many thanks,
+>>
+>>     /Ian
+>>
+>>     Ildiko Vancsa wrote on 8/18/2016 6:51 AM:
+>>     > Hi All,
+>>     >
+>>     > As we agreed on the meeting I would like to start a follow-up
+>>     mail thread to decide on tasks and next steps.
+>>     >
+>>     > As a reminder here?s the etherpad that holds the current
+>>     status, plans and feedback from the Austin training:
+>>     https://etherpad.openstack.org/p/upstream-university-improvements
+>>     >
+>>     > We have three main topics, which are the content and format of
+>>     the training, the tooling around the administrational tasks and
+>>     the development environment for the hands-on parts of the training.
+>>     >
+>>     >
+>>     > Content and format
+>>     >
+>>     > * We decided this Monday to concentrate purely on updating the
+>>     content for Barcelona and skip to update and/or rethink the
+>>     tooling that creates the slides
+>>     > * Next steps:
+>>     > * Identify parts we would like to keep and update them (in
+>>     progress)
+>>     > * Identify parts and modules that we want to include and need
+>>     new content
+>>     > * Decide about the format (how much to use PBL, excercises,
+>>     modules, etc.)
+>>     > * Define tasks from the list of items
+>>     > * Find assignees
+>>     >
+>>     >
+>>     > Tooling for administration
+>>     >
+>>     > * Plans are already outlined on the etherpad
+>>     > * Next steps
+>>     > * Decide about the end goal
+>>     > * Define tasks and time plan
+>>     > * Find assignees
+>>     > * We can also run one or a few meetings with who?s interested
+>>     as the tool planned and should be good for the mentoring program
+>>     as well for instance
+>>     >
+>>     >
+>>     > Development environment
+>>     >
+>>     > * We decided on the meeting to go with the idea of having a VM
+>>     that runs on the students? laptops and use public cloud instances
+>>     as a backup option
+>>     > * We have an offer from DreamCompute to help us out with public
+>>     cloud access for those who need it
+>>     > * A script is already ready to put together the VM image:
+>>     https://github.com/kmARC/openstack-training-virtual-environment
+>>     >
+>>     >
+>>     > We also plan to have a remote content sprint. We need to define
+>>     the tasks we need to do in order to be able to set up the goals
+>>     for this sprint and be efficient and productive. It would be a
+>>     great way of getting some or maybe all of the content work done
+>>     for example if we have enough participants. The ideal time would
+>>     be early September which should give us enough time to finish
+>>     whatever has left for Barcelona still in time. The preferred
+>>     length would be 3 days.
+>>     >
+>>     > The meeting log from Monday can be found here:
+>>     http://eavesdrop.openstack.org/meetings/training_guides/2016/training_guides.2016-08-15-17.00.log.html
+>>     >
+>>     > Please share your thoughts and questions with the summary
+>>     above. Also please feel free to complement if I missed anything.
+>>     >
+>>     > Thanks and Best Regards,
+>>     > Ildik?
+>>     >
+>>     >> On 15 Aug 2016, at 17:42, Pan?ur, Matja?
+>>     <Matjaz.Pancur at fri.uni-lj.si
+>>     <mailto:Matjaz.Pancur at fri.uni-lj.si>> wrote:
+>>     >>
+>>     >> Hi all,
+>>     >>
+>>     >> Just a reminder: Training guides team meeting will start in 80
+>>     minutes on #openstack-meeting.
+>>     >>
+>>     >> On Agenda: updates for the training at the next OpenStack
+>>     Summit
+>>     (https://etherpad.openstack.org/p/upstream-university-improvements)
+>>     >>
+>>     >> -Matjaz
+>>
+>>
+>
+>
+>
+> _______________________________________________
+> OpenStack-docs mailing list
+> OpenStack-docs at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-docs
+
+
+
+
+From erin at openstack.org  Thu Aug 25 18:21:36 2016
+From: erin at openstack.org (Erin Disney)
+Date: Thu, 25 Aug 2016 14:21:36 -0400
+Subject: [Women-of-openstack] OpenStack Summit Barcelona- Schedule is Live!
+Message-ID: <63EDF5CE-9486-42CD-B059-F69CAAC87201@openstack.org>
+
+Hi everyone,
+
+The main conference schedule for the upcoming OpenStack Summit in Barcelona <https://www.openstack.org/summit/barcelona-2016/> is now available! 
+
+SCHEDULE: https://www.openstack.org/summit/barcelona-2016/summit-schedule <https://www.openstack.org/summit/barcelona-2016/summit-schedule>
+Log in with your OpenStack ID and start building your schedule now! It will automatically sync with the mobile app, which will be available by early October. Please note: iCal and Google calendar integration will be available on September 1st. 
+
+IMPORTANT INFO
+Register <https://openstacksummit2016barcelona.eventbrite.com/> now at the early bird discounted rate before prices increase on September 1st at 11:59pm PDT (September 2nd at 6:59 UTC).
+Hotels: Discounted rates for attendees and booking information are available here <https://www.openstack.org/summit/barcelona-2016/travel/#hotels>. Please make sure to thoroughly read the cancellation policies <https://www.openstack.org/summit/barcelona-2016/travel/hotel-cancellation-policy/>. Book soon to ensure your spot!
+Visas: If you require a Visa Invitation Letter, forms must be submitted before October 3. Because of minimum mailing and approval periods, no exceptions can be made. Submit your Visa Invitation Letter request here. <https://www.openstack.org/summit/barcelona-2016/travel/#visa> 
+Travel tips and Local?s Guide: As you make arrangements, review the Barcelona travel tips <https://www.openstack.org/summit/barcelona-2016/travel/travel-tips/> (hint: there?s no Uber; bring cash for taxis) and plan your visit with the official Local?s Guide <https://www.openstack.org/summit/barcelona-2016/city-guide/>. From restaurants to must see sites??we?ve done the research for you.
+
+SPEAKER NOTIFICATIONS
+If you submitted a talk - check your email. Everyone who submitted a speaking proposal for the Summit will soon receive an email notification to let them know whether or not their talk has been accepted. The email sent to selected speakers was sent from speakersupport at openstack.org <mailto:speakersupport at openstack.org> and contains important next steps and speaker registration codes. Each speaker is responsible for registering themselves to attend the Summit, please make sure your colleagues read the email and complete this step.
+
+Contact summit at openstack.org with any questions.
+
+See you in Barcelona!
+
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160825/7c39522e/attachment-0001.html>
+
+From aimeeu.opensource at gmail.com  Mon Aug 29 16:55:50 2016
+From: aimeeu.opensource at gmail.com (Aimee Ukasick)
+Date: Mon, 29 Aug 2016 11:55:50 -0500
+Subject: [Women-of-openstack] PTLs/Cores Presentation Accepted for Barcelona
+Message-ID: <CAJAD1-MDP6Kj-Q40peOvYNewbKiZCvCh6j0nRbe-T3MeFub24g@mail.gmail.com>
+
+Hello!
+
+I'm excited to let everyone know that the "PTLs and Cores: We are Not
+as Scary as You Think - Sponsored by the Women of OpenStack"
+presentation has been scheduled for Tuesday 25 October at 5:05 pm. I
+hope to see everyone there!
+https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/15499/ptls-and-cores-we-are-not-as-scary-as-you-think-sponsored-by-the-women-of-openstack
+
+
+Jessica Murillo and I are asking for suggestions on the PTLs and Cores
+that should be on the panel. We are looking for leaders who value
+diversity and inclusion and would offer a balanced view of what it
+takes to build technical eminence in the Community. Please everyone
+add your suggestions to this etherpad:
+https://etherpad.openstack.org/p/WOS_PTL_Core_Suggestions
+
+Our goal is to create a fun panel that imparts a lot of great
+information on how to communicate effectively with PTLs/Cores as well
+as best practices for contributing. Feel free to add items you would
+like to see covered in this presentation to the etherpad above.
+
+Thanks everyone!
+
+
+aimee
+
+Aimee Ukasick
+AT&T
+
+
+From ianyrchoi at gmail.com  Tue Aug 30 15:05:25 2016
+From: ianyrchoi at gmail.com (Ian Y. Choi)
+Date: Wed, 31 Aug 2016 00:05:25 +0900
+Subject: [Women-of-openstack] [OpenStack-docs] [training-guides] Team
+	meeting reminder
+In-Reply-To: <OF57DBE574.AE27B760-ON0025801A.00690B84-0025801A.0069A02C@notes.na.collabserv.com>
+References: <0a40ddd1-9ad2-72bd-ace4-c839c3dd612b@gmail.com>
+ <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+ <672922D1-47BF-4D7D-84D8-2C63FDAA300C@fri.uni-lj.si>
+ <2ECE95EE-D64D-443A-A692-2E7065A0E2D2@fri.uni-lj.si>
+ <44F73801-4C3B-43EC-A681-D1A783113172@fri.uni-lj.si>
+ <D8C26787-A7EC-4685-AC51-3AF86699BECA@fri.uni-lj.si>
+ <7BD63B37-D60E-43C8-9D84-3C3C3B3B42FB@gmail.com>
+ <OFF7E7A06D.B9EA80C6-ON00258015.0033B77F-00258015.003403DF@notes.na.collabserv.com>
+ <A0F9283B-D2E4-4059-AE3B-1BFB6EB61D3F@gmail.com>
+ <OF57DBE574.AE27B760-ON0025801A.00690B84-0025801A.0069A02C@notes.na.collabserv.com>
+Message-ID: <b7eaa5ed-f8e6-a80f-55e9-d4d4d47d6b5b@gmail.com>
+
+Hello,
+
+@Mark,
+
+For a newcomer, a desktop screen with basic explanation on the environment
+(e.g., default user ID, default password, "/opt/stack" directory + 
+upstream training logo if it is okay)
+like http://www.flickr.com/photos/31838982 at N08/7798881316/ (I searched 
+on Google) would be nice I think.
+
+For network connectivity on OpenStack instances, I usually used the 
+following command. I am sure it will work well
+: $ sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+
+@Ildiko,
+
+IMO testing virtual machine environment is also a good topic for our 
+sprint, so I updated on Etherpad.
+And will our sprint be a kind virtual sprint, like 
+https://wiki.openstack.org/wiki/VirtualSprints ?
+
+
+With many thanks,
+
+/Ian
+
+Mark Korondi1 wrote on 8/26/2016 4:13 AM:
+> Thanks Ian for the constructive critique!
+> Before addressing the issues, I want to ask the others too, if you try 
+> out the image, please think of what *you* as a newcomer would be happy 
+> to start with (firefox bookmarks, editor settings, missing tools which 
+> are not installed, etc.) Especially if there's windows/osx people 
+> here, I'd be happy to hear what would you miss from the VM what you 
+> use on the host machine. Thanks guys!
+>
+> - I would recommend to enable "Reinitialize the MAC address of all
+> network cards" option when importing the virtual appliance using 
+> VirtualBox.
+> OK, TBD
+> - There is a warning: "The shared folder 'vagrant' could not be set up:
+> Shared folder path
+> '/home/oro/projects/_github.com/kmARC/openstack-training-virtual-environment'
+> is not absolute."
+> Yeah, I realized this, will remove
+>
+> - It seems that DevStack source is already stored in the OVA file. We
+> might need to guide users to execute 'git pull' to retrieve the latest
+> DevStack source.
+> I'll build the image one or two days before the actual course, so it 
+> won't be a problem.
+>
+> - No port forwarding and additional host-only network interface prevent
+> users from accessing Horizon on users' host OS environment.
+>   (e.g., the connection from Internet Explorer (out of VirtualBox) to
+> Horizon (executing in the virtual machine) is not supported.)
+> On the network side I'll do some more improvements. Now it's not even 
+> possible to start a VM and get networking in it, IIRC
+>
+> - If we might use old OVA images during upstream training (as fresh as
+> possible would be nice but freshest DevStack environment would be so
+> ideal), then making DevStack offline (using 'OFFLINE=True' option in
+> local.conf) would be also nice to less use network bandwidth.
+> Oh, I didn't know about this. We will definitely use it then, thanks!
+> I try to fix these over the weekend, stay tuned for the next "release" :-)
+> Mark
+>
+
+
+
+From ianyrchoi at gmail.com  Tue Aug 30 16:03:24 2016
+From: ianyrchoi at gmail.com (Ian Y. Choi)
+Date: Wed, 31 Aug 2016 01:03:24 +0900
+Subject: [Women-of-openstack] [OpenStack-docs] [training-guides] Team
+	meeting reminder
+In-Reply-To: <OFE3E17995.A2BA7AD5-ON0025801F.00573B35-0025801F.00574C6D@notes.na.collabserv.com>
+References: <b7eaa5ed-f8e6-a80f-55e9-d4d4d47d6b5b@gmail.com>
+ <0a40ddd1-9ad2-72bd-ace4-c839c3dd612b@gmail.com>
+ <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+ <672922D1-47BF-4D7D-84D8-2C63FDAA300C@fri.uni-lj.si>
+ <2ECE95EE-D64D-443A-A692-2E7065A0E2D2@fri.uni-lj.si>
+ <44F73801-4C3B-43EC-A681-D1A783113172@fri.uni-lj.si>
+ <D8C26787-A7EC-4685-AC51-3AF86699BECA@fri.uni-lj.si>
+ <7BD63B37-D60E-43C8-9D84-3C3C3B3B42FB@gmail.com>
+ <OFF7E7A06D.B9EA80C6-ON00258015.0033B77F-00258015.003403DF@notes.na.collabserv.com>
+ <A0F9283B-D2E4-4059-AE3B-1BFB6EB61D3F@gmail.com>
+ <OF57DBE574.AE27B760-ON0025801A.00690B84-0025801A.0069A02C@notes.na.collabserv.com>
+ <OFE3E17995.A2BA7AD5-ON0025801F.00573B35-0025801F.00574C6D@notes.na.collabserv.com>
+Message-ID: <fcfc9f68-b86a-d2ed-b283-6f4eed0bda6b@gmail.com>
+
+Mark Korondi1 wrote on 8/31/2016 12:53 AM:
+> Hi,
+> good idea for the wallpaper!
+Yes, wallpaper! That's exactly what I thought. Thanks for expressing 
+with a nice word.
+> Yeah, a simple iptables rule should be sufficient, however I think the 
+> Virtualbox VM settings also need to be tuned for this.
+I thought two network interfaces (one: NAT - Internet, the other: 
+Host-only - VM access from the host)
+and a simple iptable rule would be sufficient. Would this environment 
+not be sufficient?
+
+
+With many thanks,
+
+/Ian
+>
+>     ----- Original message -----
+>     From: "Ian Y. Choi" <ianyrchoi at gmail.com>
+>     To: Mark Korondi1 <ORO at zurich.ibm.com>, ildiko.vancsa at gmail.com
+>     Cc: openstack-docs at lists.openstack.org,
+>     women-of-openstack at lists.openstack.org
+>     Subject: Re: [OpenStack-docs] [training-guides] Team meeting reminder
+>     Date: Tue, Aug 30, 2016 5:05 PM
+>     Hello,
+>
+>     @Mark,
+>
+>     For a newcomer, a desktop screen with basic explanation on the
+>     environment
+>     (e.g., default user ID, default password, "/opt/stack" directory +
+>     upstream training logo if it is okay)
+>     like http://www.flickr.com/photos/31838982 at N08/7798881316/ (I searched
+>     on Google) would be nice I think.
+>
+>     For network connectivity on OpenStack instances, I usually used the
+>     following command. I am sure it will work well
+>     : $ sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+>
+>     @Ildiko,
+>
+>     IMO testing virtual machine environment is also a good topic for our
+>     sprint, so I updated on Etherpad.
+>     And will our sprint be a kind virtual sprint, like
+>     https://wiki.openstack.org/wiki/VirtualSprints ?
+>
+>
+>     With many thanks,
+>
+>     /Ian
+>
+>     Mark Korondi1 wrote on 8/26/2016 4:13 AM:
+>     > Thanks Ian for the constructive critique!
+>     > Before addressing the issues, I want to ask the others too, if
+>     you try
+>     > out the image, please think of what *you* as a newcomer would be
+>     happy
+>     > to start with (firefox bookmarks, editor settings, missing tools
+>     which
+>     > are not installed, etc.) Especially if there's windows/osx people
+>     > here, I'd be happy to hear what would you miss from the VM what you
+>     > use on the host machine. Thanks guys!
+>     >
+>     > - I would recommend to enable "Reinitialize the MAC address of all
+>     > network cards" option when importing the virtual appliance using
+>     > VirtualBox.
+>     > OK, TBD
+>     > - There is a warning: "The shared folder 'vagrant' could not be
+>     set up:
+>     > Shared folder path
+>     >
+>     '/home/oro/projects/_github.com/kmARC/openstack-training-virtual-environment'
+>     > is not absolute."
+>     > Yeah, I realized this, will remove
+>     >
+>     > - It seems that DevStack source is already stored in the OVA
+>     file. We
+>     > might need to guide users to execute 'git pull' to retrieve the
+>     latest
+>     > DevStack source.
+>     > I'll build the image one or two days before the actual course, so it
+>     > won't be a problem.
+>     >
+>     > - No port forwarding and additional host-only network interface
+>     prevent
+>     > users from accessing Horizon on users' host OS environment.
+>     >   (e.g., the connection from Internet Explorer (out of
+>     VirtualBox) to
+>     > Horizon (executing in the virtual machine) is not supported.)
+>     > On the network side I'll do some more improvements. Now it's not
+>     even
+>     > possible to start a VM and get networking in it, IIRC
+>     >
+>     > - If we might use old OVA images during upstream training (as
+>     fresh as
+>     > possible would be nice but freshest DevStack environment would be so
+>     > ideal), then making DevStack offline (using 'OFFLINE=True' option in
+>     > local.conf) would be also nice to less use network bandwidth.
+>     > Oh, I didn't know about this. We will definitely use it then,
+>     thanks!
+>     > I try to fix these over the weekend, stay tuned for the next
+>     "release" :-)
+>     > Mark
+>     >
+>
+>
+
+
+
+From kathyc at openstack.org  Tue Aug 30 16:29:27 2016
+From: kathyc at openstack.org (Kathy Cacciatore)
+Date: Tue, 30 Aug 2016 11:29:27 -0500 (CDT)
+Subject: [Women-of-openstack]
+ =?utf-8?q?PTLs/Cores_Presentation_Accepted_f?=
+ =?utf-8?q?or_Barcelona_=28Aimee_Ukasick=29?=
+In-Reply-To: <mailman.3.1472558401.15034.women-of-openstack@lists.openstack.org>
+References: <mailman.3.1472558401.15034.women-of-openstack@lists.openstack.org>
+Message-ID: <1472574567.820624393@mail.openstack.org>
+
+
+Amy, Now that sessions have been selected (or not), Ifat Afek, the PTL of Vitrage (root cause analysis, big tent-approved project), a woman, may be available. She is very supportive of the Women of OpenStack, although may not have time to participate on the mailing list often. Her email address is [ ifat.afek at nokia.com ]( mailto:ifat.afek at nokia.com ). 
+ 
+On Tuesday, August 30, 2016 7:00am, women-of-openstack-request at lists.openstack.org said:
+
+
+
+> Send Women-of-openstack mailing list submissions to
+> women-of-openstack at lists.openstack.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> or, via email, send a message with subject or body 'help' to
+> women-of-openstack-request at lists.openstack.org
+> 
+> You can reach the person managing the list at
+> women-of-openstack-owner at lists.openstack.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of Women-of-openstack digest..."
+> 
+> 
+> Today's Topics:
+> 
+> 1. PTLs/Cores Presentation Accepted for Barcelona (Aimee Ukasick)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Mon, 29 Aug 2016 11:55:50 -0500
+> From: Aimee Ukasick <aimeeu.opensource at gmail.com>
+> To: women-of-openstack at lists.openstack.org
+> Subject: [Women-of-openstack] PTLs/Cores Presentation Accepted for
+> Barcelona
+> Message-ID:
+> <CAJAD1-MDP6Kj-Q40peOvYNewbKiZCvCh6j0nRbe-T3MeFub24g at mail.gmail.com>
+> Content-Type: text/plain; charset=UTF-8
+> 
+> Hello!
+> 
+> I'm excited to let everyone know that the "PTLs and Cores: We are Not
+> as Scary as You Think - Sponsored by the Women of OpenStack"
+> presentation has been scheduled for Tuesday 25 October at 5:05 pm. I
+> hope to see everyone there!
+> https://www.openstack.org/summit/barcelona-2016/summit-schedule/events/15499/ptls-and-cores-we-are-not-as-scary-as-you-think-sponsored-by-the-women-of-openstack
+> 
+> 
+> Jessica Murillo and I are asking for suggestions on the PTLs and Cores
+> that should be on the panel. We are looking for leaders who value
+> diversity and inclusion and would offer a balanced view of what it
+> takes to build technical eminence in the Community. Please everyone
+> add your suggestions to this etherpad:
+> https://etherpad.openstack.org/p/WOS_PTL_Core_Suggestions
+> 
+> Our goal is to create a fun panel that imparts a lot of great
+> information on how to communicate effectively with PTLs/Cores as well
+> as best practices for contributing. Feel free to add items you would
+> like to see covered in this presentation to the etherpad above.
+> 
+> Thanks everyone!
+> 
+> 
+> aimee
+> 
+> Aimee Ukasick
+> AT&T
+> 
+> 
+> 
+> ------------------------------
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> 
+> End of Women-of-openstack Digest, Vol 22, Issue 11
+> **************************************************
+> 
+
+
+
+-- 
+Regards, 
+
+Kathy Cacciatore
+Consulting Marketing Manager
+OpenStack Foundation
+1-512-970-2807 (mobile)
+Part time: Monday - Thursday, 9am - 2pm US CT
+kathyc at openstack.org
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160830/d6a9c7f6/attachment.html>
+
+From ORO at zurich.ibm.com  Tue Aug 30 15:53:31 2016
+From: ORO at zurich.ibm.com (Mark Korondi1)
+Date: Tue, 30 Aug 2016 15:53:31 +0000
+Subject: [Women-of-openstack] [OpenStack-docs] [training-guides] Team
+	meeting reminder
+In-Reply-To: <b7eaa5ed-f8e6-a80f-55e9-d4d4d47d6b5b@gmail.com>
+References: <b7eaa5ed-f8e6-a80f-55e9-d4d4d47d6b5b@gmail.com>,
+ <0a40ddd1-9ad2-72bd-ace4-c839c3dd612b@gmail.com>
+ <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+ <672922D1-47BF-4D7D-84D8-2C63FDAA300C@fri.uni-lj.si>
+ <2ECE95EE-D64D-443A-A692-2E7065A0E2D2@fri.uni-lj.si>
+ <44F73801-4C3B-43EC-A681-D1A783113172@fri.uni-lj.si>
+ <D8C26787-A7EC-4685-AC51-3AF86699BECA@fri.uni-lj.si>
+ <7BD63B37-D60E-43C8-9D84-3C3C3B3B42FB@gmail.com>
+ <OFF7E7A06D.B9EA80C6-ON00258015.0033B77F-00258015.003403DF@notes.na.collabserv.com>
+ <A0F9283B-D2E4-4059-AE3B-1BFB6EB61D3F@gmail.com>
+ <OF57DBE574.AE27B760-ON0025801A.00690B84-0025801A.0069A02C@notes.na.collabserv.com>
+Message-ID: <OFE3E17995.A2BA7AD5-ON0025801F.00573B35-0025801F.00574C6D@notes.na.collabserv.com>
+
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160830/4e449f8c/attachment-0001.html>
+
+From ildiko.vancsa at gmail.com  Tue Aug 30 17:38:58 2016
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Tue, 30 Aug 2016 19:38:58 +0200
+Subject: [Women-of-openstack] [OpenStack-docs] [training-guides] Team
+	meeting reminder
+In-Reply-To: <b7eaa5ed-f8e6-a80f-55e9-d4d4d47d6b5b@gmail.com>
+References: <0a40ddd1-9ad2-72bd-ace4-c839c3dd612b@gmail.com>
+ <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+ <672922D1-47BF-4D7D-84D8-2C63FDAA300C@fri.uni-lj.si>
+ <2ECE95EE-D64D-443A-A692-2E7065A0E2D2@fri.uni-lj.si>
+ <44F73801-4C3B-43EC-A681-D1A783113172@fri.uni-lj.si>
+ <D8C26787-A7EC-4685-AC51-3AF86699BECA@fri.uni-lj.si>
+ <7BD63B37-D60E-43C8-9D84-3C3C3B3B42FB@gmail.com>
+ <OFF7E7A06D.B9EA80C6-ON00258015.0033B77F-00258015.003403DF@notes.na.collabserv.com>
+ <A0F9283B-D2E4-4059-AE3B-1BFB6EB61D3F@gmail.com>
+ <OF57DBE574.AE27B760-ON0025801A.00690B84-0025801A.0069A02C@notes.na.collabserv.com>
+ <b7eaa5ed-f8e6-a80f-55e9-d4d4d47d6b5b@gmail.com>
+Message-ID: <D30110C5-593F-487A-B514-28E7894B169E@gmail.com>
+
+Hi Ian,
+
+Thanks for the link for the sprint.
+
+I think we can make it 100% official and post on the wiki page as well. The idea is to have dedicated time, when we focus on content, exercises, environment, etc. We need to decide the scope and define goals for the sprint and work on to achieve those.
+
+After talking to a few people mid- or second half of next week seems like a good target, e.g. Sept 6-8 or 7-9. I think that gives us enough time to figure out the sprint goals and it?s still in time from the Summit/training perspective, so we can either have another round of this if needed or work more offline on remaining items.
+
+What do you think?
+
+Best Regards,
+Ildik?
+
+> On 30 Aug 2016, at 17:05, Ian Y. Choi <ianyrchoi at gmail.com> wrote:
+> 
+> Hello,
+> 
+> @Mark,
+> 
+> For a newcomer, a desktop screen with basic explanation on the environment
+> (e.g., default user ID, default password, "/opt/stack" directory + upstream training logo if it is okay)
+> like http://www.flickr.com/photos/31838982 at N08/7798881316/ (I searched on Google) would be nice I think.
+> 
+> For network connectivity on OpenStack instances, I usually used the following command. I am sure it will work well
+> : $ sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+> 
+> @Ildiko,
+> 
+> IMO testing virtual machine environment is also a good topic for our sprint, so I updated on Etherpad.
+> And will our sprint be a kind virtual sprint, like https://wiki.openstack.org/wiki/VirtualSprints ?
+> 
+> 
+> With many thanks,
+> 
+> /Ian
+> 
+> Mark Korondi1 wrote on 8/26/2016 4:13 AM:
+>> Thanks Ian for the constructive critique!
+>> Before addressing the issues, I want to ask the others too, if you try out the image, please think of what *you* as a newcomer would be happy to start with (firefox bookmarks, editor settings, missing tools which are not installed, etc.) Especially if there's windows/osx people here, I'd be happy to hear what would you miss from the VM what you use on the host machine. Thanks guys!
+>> 
+>> - I would recommend to enable "Reinitialize the MAC address of all
+>> network cards" option when importing the virtual appliance using VirtualBox.
+>> OK, TBD
+>> - There is a warning: "The shared folder 'vagrant' could not be set up:
+>> Shared folder path
+>> '/home/oro/projects/_github.com/kmARC/openstack-training-virtual-environment'
+>> is not absolute."
+>> Yeah, I realized this, will remove
+>> 
+>> - It seems that DevStack source is already stored in the OVA file. We
+>> might need to guide users to execute 'git pull' to retrieve the latest
+>> DevStack source.
+>> I'll build the image one or two days before the actual course, so it won't be a problem.
+>> 
+>> - No port forwarding and additional host-only network interface prevent
+>> users from accessing Horizon on users' host OS environment.
+>>  (e.g., the connection from Internet Explorer (out of VirtualBox) to
+>> Horizon (executing in the virtual machine) is not supported.)
+>> On the network side I'll do some more improvements. Now it's not even possible to start a VM and get networking in it, IIRC
+>> 
+>> - If we might use old OVA images during upstream training (as fresh as
+>> possible would be nice but freshest DevStack environment would be so
+>> ideal), then making DevStack offline (using 'OFFLINE=True' option in
+>> local.conf) would be also nice to less use network bandwidth.
+>> Oh, I didn't know about this. We will definitely use it then, thanks!
+>> I try to fix these over the weekend, stay tuned for the next "release" :-)
+>> Mark
+>> 
+> 
+
+
+
+From kendall at openstack.org  Tue Aug 30 19:40:25 2016
+From: kendall at openstack.org (Kendall Waters)
+Date: Tue, 30 Aug 2016 14:40:25 -0500
+Subject: [Women-of-openstack] September 1 Early Bird Registration Deadline -
+	OpenStack Summit Barcelona
+Message-ID: <0B7609D9-CA92-4CB6-A2AF-F10F18FA092C@openstack.org>
+
+Hi everyone,
+
+Friendly reminder that this Thursday, September 1, at 11:59pm PDT (September 2 at 6:59 UTC) is the deadline to purchase passes for the OpenStack Summit in Barcelona at the early bird price. 
+
+Register?NOW <https://openstacksummit2016barcelona.eventbrite.com/> before the prices increase! 
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160830/817bd4f9/attachment.html>
+
+From ianyrchoi at gmail.com  Wed Aug 31 03:56:40 2016
+From: ianyrchoi at gmail.com (Ian Y. Choi)
+Date: Wed, 31 Aug 2016 12:56:40 +0900
+Subject: [Women-of-openstack] [OpenStack-docs] [training-guides] Team
+	meeting reminder
+In-Reply-To: <D30110C5-593F-487A-B514-28E7894B169E@gmail.com>
+References: <0a40ddd1-9ad2-72bd-ace4-c839c3dd612b@gmail.com>
+ <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+ <672922D1-47BF-4D7D-84D8-2C63FDAA300C@fri.uni-lj.si>
+ <2ECE95EE-D64D-443A-A692-2E7065A0E2D2@fri.uni-lj.si>
+ <44F73801-4C3B-43EC-A681-D1A783113172@fri.uni-lj.si>
+ <D8C26787-A7EC-4685-AC51-3AF86699BECA@fri.uni-lj.si>
+ <7BD63B37-D60E-43C8-9D84-3C3C3B3B42FB@gmail.com>
+ <OFF7E7A06D.B9EA80C6-ON00258015.0033B77F-00258015.003403DF@notes.na.collabserv.com>
+ <A0F9283B-D2E4-4059-AE3B-1BFB6EB61D3F@gmail.com>
+ <OF57DBE574.AE27B760-ON0025801A.00690B84-0025801A.0069A02C@notes.na.collabserv.com>
+ <b7eaa5ed-f8e6-a80f-55e9-d4d4d47d6b5b@gmail.com>
+ <D30110C5-593F-487A-B514-28E7894B169E@gmail.com>
+Message-ID: <2f44cb12-0437-3bc2-5346-6bc257a67207@gmail.com>
+
+Hello Ildiko,
+
+Great!
+
+But unfortunately, due to my personal schedule, approximately, Sep 7 
+12:00 UTC - 9 12:00 UTC will not be available for me.
+
+Would it be okay to have a sprint on around Sep 10-15?
+
+
+With many thanks,
+
+/Ian
+
+Ildiko Vancsa wrote on 8/31/2016 2:38 AM:
+> Hi Ian,
+>
+> Thanks for the link for the sprint.
+>
+> I think we can make it 100% official and post on the wiki page as well. The idea is to have dedicated time, when we focus on content, exercises, environment, etc. We need to decide the scope and define goals for the sprint and work on to achieve those.
+>
+> After talking to a few people mid- or second half of next week seems like a good target, e.g. Sept 6-8 or 7-9. I think that gives us enough time to figure out the sprint goals and it?s still in time from the Summit/training perspective, so we can either have another round of this if needed or work more offline on remaining items.
+>
+> What do you think?
+>
+> Best Regards,
+> Ildik?
+>
+>> On 30 Aug 2016, at 17:05, Ian Y. Choi <ianyrchoi at gmail.com> wrote:
+>>
+>> Hello,
+>>
+>> @Mark,
+>>
+>> For a newcomer, a desktop screen with basic explanation on the environment
+>> (e.g., default user ID, default password, "/opt/stack" directory + upstream training logo if it is okay)
+>> like http://www.flickr.com/photos/31838982 at N08/7798881316/ (I searched on Google) would be nice I think.
+>>
+>> For network connectivity on OpenStack instances, I usually used the following command. I am sure it will work well
+>> : $ sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+>>
+>> @Ildiko,
+>>
+>> IMO testing virtual machine environment is also a good topic for our sprint, so I updated on Etherpad.
+>> And will our sprint be a kind virtual sprint, like https://wiki.openstack.org/wiki/VirtualSprints ?
+>>
+>>
+>> With many thanks,
+>>
+>> /Ian
+>>
+>> Mark Korondi1 wrote on 8/26/2016 4:13 AM:
+>>> Thanks Ian for the constructive critique!
+>>> Before addressing the issues, I want to ask the others too, if you try out the image, please think of what *you* as a newcomer would be happy to start with (firefox bookmarks, editor settings, missing tools which are not installed, etc.) Especially if there's windows/osx people here, I'd be happy to hear what would you miss from the VM what you use on the host machine. Thanks guys!
+>>>
+>>> - I would recommend to enable "Reinitialize the MAC address of all
+>>> network cards" option when importing the virtual appliance using VirtualBox.
+>>> OK, TBD
+>>> - There is a warning: "The shared folder 'vagrant' could not be set up:
+>>> Shared folder path
+>>> '/home/oro/projects/_github.com/kmARC/openstack-training-virtual-environment'
+>>> is not absolute."
+>>> Yeah, I realized this, will remove
+>>>
+>>> - It seems that DevStack source is already stored in the OVA file. We
+>>> might need to guide users to execute 'git pull' to retrieve the latest
+>>> DevStack source.
+>>> I'll build the image one or two days before the actual course, so it won't be a problem.
+>>>
+>>> - No port forwarding and additional host-only network interface prevent
+>>> users from accessing Horizon on users' host OS environment.
+>>>   (e.g., the connection from Internet Explorer (out of VirtualBox) to
+>>> Horizon (executing in the virtual machine) is not supported.)
+>>> On the network side I'll do some more improvements. Now it's not even possible to start a VM and get networking in it, IIRC
+>>>
+>>> - If we might use old OVA images during upstream training (as fresh as
+>>> possible would be nice but freshest DevStack environment would be so
+>>> ideal), then making DevStack offline (using 'OFFLINE=True' option in
+>>> local.conf) would be also nice to less use network bandwidth.
+>>> Oh, I didn't know about this. We will definitely use it then, thanks!
+>>> I try to fix these over the weekend, stay tuned for the next "release" :-)
+>>> Mark
+>>>
+
+
+
+From ildiko.vancsa at gmail.com  Wed Aug 31 17:55:13 2016
+From: ildiko.vancsa at gmail.com (Ildiko Vancsa)
+Date: Wed, 31 Aug 2016 19:55:13 +0200
+Subject: [Women-of-openstack] [OpenStack-docs] [training-guides] Team
+	meeting reminder
+In-Reply-To: <2f44cb12-0437-3bc2-5346-6bc257a67207@gmail.com>
+References: <0a40ddd1-9ad2-72bd-ace4-c839c3dd612b@gmail.com>
+ <99f3310c-2c11-a0e0-9923-5828591df9f0@gmail.com>
+ <672922D1-47BF-4D7D-84D8-2C63FDAA300C@fri.uni-lj.si>
+ <2ECE95EE-D64D-443A-A692-2E7065A0E2D2@fri.uni-lj.si>
+ <44F73801-4C3B-43EC-A681-D1A783113172@fri.uni-lj.si>
+ <D8C26787-A7EC-4685-AC51-3AF86699BECA@fri.uni-lj.si>
+ <7BD63B37-D60E-43C8-9D84-3C3C3B3B42FB@gmail.com>
+ <OFF7E7A06D.B9EA80C6-ON00258015.0033B77F-00258015.003403DF@notes.na.collabserv.com>
+ <A0F9283B-D2E4-4059-AE3B-1BFB6EB61D3F@gmail.com>
+ <OF57DBE574.AE27B760-ON0025801A.00690B84-0025801A.0069A02C@notes.na.collabserv.com>
+ <b7eaa5ed-f8e6-a80f-55e9-d4d4d47d6b5b@gmail.com>
+ <D30110C5-593F-487A-B514-28E7894B169E@gmail.com>
+ <2f44cb12-0437-3bc2-5346-6bc257a67207@gmail.com>
+Message-ID: <35211C0D-6BE6-4D6E-9D0A-52592EF2CF18@gmail.com>
+
+Hi Ian,
+
+Thanks for sharing your availability.
+
+I created a Doodle poll with dates: http://doodle.com/poll/geaq6fdsg749nsnc <http://doodle.com/poll/geaq6fdsg749nsnc>  Anyone who?s interested, please add your availability if you?re interested to participate.
+
+I think we can aim for multiple shorter periods rather than one long one as we have multiple areas to improve. I would like to have well defined areas  like:
+
+* Updating the common content
+* Work on the exercises for the code contribution block
+* Work on content and exercises for the Documentation contribution block
+* Finalise and test the Dev env.
+* Etc.
+
+If possible it would be great to have drivers for each of these blocks. We can then decide based on people?s availability to what to work on in a more focused way and when and we also need to define goals to see what progress we made.
+
+What do you think?
+
+Thanks,
+Ildik?
+
+
+> On 31 Aug 2016, at 05:56, Ian Y. Choi <ianyrchoi at gmail.com> wrote:
+> 
+> Hello Ildiko,
+> 
+> Great!
+> 
+> But unfortunately, due to my personal schedule, approximately, Sep 7 12:00 UTC - 9 12:00 UTC will not be available for me.
+> 
+> Would it be okay to have a sprint on around Sep 10-15?
+> 
+> 
+> With many thanks,
+> 
+> /Ian
+> 
+> Ildiko Vancsa wrote on 8/31/2016 2:38 AM:
+>> Hi Ian,
+>> 
+>> Thanks for the link for the sprint.
+>> 
+>> I think we can make it 100% official and post on the wiki page as well. The idea is to have dedicated time, when we focus on content, exercises, environment, etc. We need to decide the scope and define goals for the sprint and work on to achieve those.
+>> 
+>> After talking to a few people mid- or second half of next week seems like a good target, e.g. Sept 6-8 or 7-9. I think that gives us enough time to figure out the sprint goals and it?s still in time from the Summit/training perspective, so we can either have another round of this if needed or work more offline on remaining items.
+>> 
+>> What do you think?
+>> 
+>> Best Regards,
+>> Ildik?
+>> 
+>>> On 30 Aug 2016, at 17:05, Ian Y. Choi <ianyrchoi at gmail.com> wrote:
+>>> 
+>>> Hello,
+>>> 
+>>> @Mark,
+>>> 
+>>> For a newcomer, a desktop screen with basic explanation on the environment
+>>> (e.g., default user ID, default password, "/opt/stack" directory + upstream training logo if it is okay)
+>>> like http://www.flickr.com/photos/31838982 at N08/7798881316/ (I searched on Google) would be nice I think.
+>>> 
+>>> For network connectivity on OpenStack instances, I usually used the following command. I am sure it will work well
+>>> : $ sudo iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
+>>> 
+>>> @Ildiko,
+>>> 
+>>> IMO testing virtual machine environment is also a good topic for our sprint, so I updated on Etherpad.
+>>> And will our sprint be a kind virtual sprint, like https://wiki.openstack.org/wiki/VirtualSprints ?
+>>> 
+>>> 
+>>> With many thanks,
+>>> 
+>>> /Ian
+>>> 
+>>> Mark Korondi1 wrote on 8/26/2016 4:13 AM:
+>>>> Thanks Ian for the constructive critique!
+>>>> Before addressing the issues, I want to ask the others too, if you try out the image, please think of what *you* as a newcomer would be happy to start with (firefox bookmarks, editor settings, missing tools which are not installed, etc.) Especially if there's windows/osx people here, I'd be happy to hear what would you miss from the VM what you use on the host machine. Thanks guys!
+>>>> 
+>>>> - I would recommend to enable "Reinitialize the MAC address of all
+>>>> network cards" option when importing the virtual appliance using VirtualBox.
+>>>> OK, TBD
+>>>> - There is a warning: "The shared folder 'vagrant' could not be set up:
+>>>> Shared folder path
+>>>> '/home/oro/projects/_github.com/kmARC/openstack-training-virtual-environment'
+>>>> is not absolute."
+>>>> Yeah, I realized this, will remove
+>>>> 
+>>>> - It seems that DevStack source is already stored in the OVA file. We
+>>>> might need to guide users to execute 'git pull' to retrieve the latest
+>>>> DevStack source.
+>>>> I'll build the image one or two days before the actual course, so it won't be a problem.
+>>>> 
+>>>> - No port forwarding and additional host-only network interface prevent
+>>>> users from accessing Horizon on users' host OS environment.
+>>>>  (e.g., the connection from Internet Explorer (out of VirtualBox) to
+>>>> Horizon (executing in the virtual machine) is not supported.)
+>>>> On the network side I'll do some more improvements. Now it's not even possible to start a VM and get networking in it, IIRC
+>>>> 
+>>>> - If we might use old OVA images during upstream training (as fresh as
+>>>> possible would be nice but freshest DevStack environment would be so
+>>>> ideal), then making DevStack offline (using 'OFFLINE=True' option in
+>>>> local.conf) would be also nice to less use network bandwidth.
+>>>> Oh, I didn't know about this. We will definitely use it then, thanks!
+>>>> I try to fix these over the weekend, stay tuned for the next "release" :-)
+>>>> Mark
+>>>> 
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160831/697e0840/attachment.html>
+
+From malini.k.bhandaru at intel.com  Wed Aug 31 22:01:53 2016
+From: malini.k.bhandaru at intel.com (Bhandaru, Malini K)
+Date: Wed, 31 Aug 2016 22:01:53 +0000
+Subject: [Women-of-openstack] Command Presence Workshop on Oct 24 morning
+Message-ID: <EE6FFF4F6C34C84C8C98DD2414EEA47E8C1C66E6@fmsmsx117.amr.corp.intel.com>
+
+Ladies,
+Back by popular request is the "Command Presence Workshop" on Oct 24 morning.
+Please watch out for the signup sheet and schedule update. Looking forward to meeting you!
+Regards,
+Malini
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160831/dd50ebb4/attachment.html>
+

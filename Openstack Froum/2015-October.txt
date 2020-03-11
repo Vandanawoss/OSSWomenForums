@@ -1,0 +1,2046 @@
+From carol.l.barrett at intel.com  Thu Oct  1 22:39:40 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Thu, 1 Oct 2015 22:39:40 +0000
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+	Meeting
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C924BBB@ORSMSX113.amr.corp.intel.com>
+
+Hi Team - Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we're on track.
+
+I will be on vacation that day and am looking for a volunteer to lead the meeting. Pls let me know if you're interested in.
+Thanks
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151001/778612bd/attachment.html>
+
+From bfcohen at luthcomputer.com  Fri Oct  2 01:09:44 2015
+From: bfcohen at luthcomputer.com (Beth Cohen)
+Date: Thu, 01 Oct 2015 21:09:44 -0400
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+ Meeting
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5C924BBB@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C924BBB@ORSMSX113.amr.corp.intel.com>
+Message-ID: <560DD958.5040605@luthcomputer.com>
+
+Dumb Question.
+
+AM or PM?
+
+On 10/1/2015 6:39 PM, Barrett, Carol L wrote:
+> Hi Team ? Our next meeting is 10/5 at 7:00 Pacific. I think we want to 
+> review the plans for Tokyo and make sure we?re on track.
+> I will be on vacation that day and am looking for a volunteer to lead 
+> the meeting. Pls let me know if you?re interested in.
+> Thanks
+> Carol
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-- 
+_____________________________________________________________________
+
+Beth Cohen	
+Luth Computer Specialists, Inc.
+www.luthcomputer.com
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151001/e31911b9/attachment.html>
+
+From carol.l.barrett at intel.com  Fri Oct  2 15:38:03 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Fri, 2 Oct 2015 15:38:03 +0000
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+ Meeting
+In-Reply-To: <560DD958.5040605@luthcomputer.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C924BBB@ORSMSX113.amr.corp.intel.com>
+ <560DD958.5040605@luthcomputer.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C926353@ORSMSX113.amr.corp.intel.com>
+
+Sorry- PM....
+
+From: Beth Cohen [mailto:bfcohen at luthcomputer.com]
+Sent: Thursday, October 01, 2015 6:10 PM
+To: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+Dumb Question.
+
+AM or PM?
+On 10/1/2015 6:39 PM, Barrett, Carol L wrote:
+Hi Team - Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we're on track.
+
+I will be on vacation that day and am looking for a volunteer to lead the meeting. Pls let me know if you're interested in.
+Thanks
+Carol
+
+
+
+
+
+_______________________________________________
+
+Women-of-openstack mailing list
+
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+--
+
+_____________________________________________________________________
+
+
+
+Beth Cohen
+
+Luth Computer Specialists, Inc.
+
+www.luthcomputer.com<http://www.luthcomputer.com>
+
+15 Wellington Street
+
+Arlington, MA 02476
+
+
+
+bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>
+
+Cell 617-721-7256
+
+781-646-4018
+
+Twitter: @bfcohen
+
+Skype: bfcohen100
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151002/3fd200ee/attachment.html>
+
+From carol.l.barrett at intel.com  Fri Oct  2 15:50:42 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Fri, 2 Oct 2015 15:50:42 +0000
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+ Meeting
+In-Reply-To: <560DD958.5040605@luthcomputer.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C924BBB@ORSMSX113.amr.corp.intel.com>
+ <560DD958.5040605@luthcomputer.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C926408@ORSMSX113.amr.corp.intel.com>
+
+The wiki is updated and the etherpad is ready for the meeting.
+https://wiki.openstack.org/wiki/Women_of_OpenStack#October_6.2C_2015_Team_Meeting
+https://etherpad.openstack.org/p/WOS_10_6_15
+
+If someone can lead great, if not, we'll regroup when I'm back.
+Thanks
+Carol
+
+
+From: Beth Cohen [mailto:bfcohen at luthcomputer.com]
+Sent: Thursday, October 01, 2015 6:10 PM
+To: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+Dumb Question.
+
+AM or PM?
+On 10/1/2015 6:39 PM, Barrett, Carol L wrote:
+Hi Team - Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we're on track.
+
+I will be on vacation that day and am looking for a volunteer to lead the meeting. Pls let me know if you're interested in.
+Thanks
+Carol
+
+
+
+
+
+_______________________________________________
+
+Women-of-openstack mailing list
+
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+--
+
+_____________________________________________________________________
+
+
+
+Beth Cohen
+
+Luth Computer Specialists, Inc.
+
+www.luthcomputer.com<http://www.luthcomputer.com>
+
+15 Wellington Street
+
+Arlington, MA 02476
+
+
+
+bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>
+
+Cell 617-721-7256
+
+781-646-4018
+
+Twitter: @bfcohen
+
+Skype: bfcohen100
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151002/8a9cccb8/attachment.html>
+
+From Amy.Marrich at rackspace.com  Fri Oct  2 16:20:49 2015
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Fri, 2 Oct 2015 16:20:49 +0000
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+ Meeting
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5C926408@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C924BBB@ORSMSX113.amr.corp.intel.com>
+ <560DD958.5040605@luthcomputer.com>
+ <2D352D0CD819F64F9715B1B89695400D5C926408@ORSMSX113.amr.corp.intel.com>
+Message-ID: <D23418EC.1398A%amy.marrich@rackspace.com>
+
+I won't be able to attend as Monday night's meeting as I don't get home until the meeting will be ending, but I did want to point everyone to the 'Review/Edit Draft of Women of Openstack 'friendly face' at Summit mail' item. We still need to decide how responses will be handled and where they should be sent.
+
+Thanks,
+
+Amy
+
+From: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Friday, October 2, 2015 at 10:50 AM
+To: Beth Cohen <bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+The wiki is updated and the etherpad is ready for the meeting.
+https://wiki.openstack.org/wiki/Women_of_OpenStack#October_6.2C_2015_Team_Meeting
+https://etherpad.openstack.org/p/WOS_10_6_15
+
+If someone can lead great, if not, we'll regroup when I'm back.
+Thanks
+Carol
+
+
+From: Beth Cohen [mailto:bfcohen at luthcomputer.com]
+Sent: Thursday, October 01, 2015 6:10 PM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+Dumb Question.
+
+AM or PM?
+On 10/1/2015 6:39 PM, Barrett, Carol L wrote:
+Hi Team - Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we're on track.
+
+I will be on vacation that day and am looking for a volunteer to lead the meeting. Pls let me know if you're interested in.
+Thanks
+Carol
+
+
+
+
+
+_______________________________________________
+
+Women-of-openstack mailing list
+
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+--
+
+_____________________________________________________________________
+
+
+
+Beth Cohen
+
+Luth Computer Specialists, Inc.
+
+www.luthcomputer.com<http://www.luthcomputer.com>
+
+15 Wellington Street
+
+Arlington, MA 02476
+
+
+
+bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>
+
+Cell 617-721-7256
+
+781-646-4018
+
+Twitter: @bfcohen
+
+Skype: bfcohen100
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151002/09f23998/attachment-0001.html>
+
+From lskrocki at cisco.com  Fri Oct  2 16:23:41 2015
+From: lskrocki at cisco.com (Linda Skrocki (lskrocki))
+Date: Fri, 2 Oct 2015 16:23:41 +0000
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+ Meeting
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5C926408@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C924BBB@ORSMSX113.amr.corp.intel.com>
+ <560DD958.5040605@luthcomputer.com>
+ <2D352D0CD819F64F9715B1B89695400D5C926408@ORSMSX113.amr.corp.intel.com>
+Message-ID: <D233FB67.72BB6%lskrocki@cisco.com>
+
+Do we want to setup a webex again? I'm happy to help - same with any of the other Cisco ladies, I'm sure.
+
+Thanks,
+ls
+
+From: <Barrett>, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Friday, October 2, 2015 at 8:50 AM
+To: Beth Cohen <bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+The wiki is updated and the etherpad is ready for the meeting.
+https://wiki.openstack.org/wiki/Women_of_OpenStack#October_6.2C_2015_Team_Meeting
+https://etherpad.openstack.org/p/WOS_10_6_15
+
+If someone can lead great, if not, we'll regroup when I'm back.
+Thanks
+Carol
+
+
+From: Beth Cohen [mailto:bfcohen at luthcomputer.com]
+Sent: Thursday, October 01, 2015 6:10 PM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+Dumb Question.
+
+AM or PM?
+On 10/1/2015 6:39 PM, Barrett, Carol L wrote:
+Hi Team - Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we're on track.
+
+I will be on vacation that day and am looking for a volunteer to lead the meeting. Pls let me know if you're interested in.
+Thanks
+Carol
+
+
+
+
+
+_______________________________________________
+
+Women-of-openstack mailing list
+
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+--
+
+_____________________________________________________________________
+
+
+
+Beth Cohen
+
+Luth Computer Specialists, Inc.
+
+www.luthcomputer.com<http://www.luthcomputer.com>
+
+15 Wellington Street
+
+Arlington, MA 02476
+
+
+
+bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>
+
+Cell 617-721-7256
+
+781-646-4018
+
+Twitter: @bfcohen
+
+Skype: bfcohen100
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151002/0c6c2bef/attachment.html>
+
+From claire at openstack.org  Fri Oct  2 16:34:37 2015
+From: claire at openstack.org (Claire Massey)
+Date: Fri, 2 Oct 2015 11:34:37 -0500
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+	Meeting
+In-Reply-To: <D23418EC.1398A%amy.marrich@rackspace.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C924BBB@ORSMSX113.amr.corp.intel.com>
+ <560DD958.5040605@luthcomputer.com>
+ <2D352D0CD819F64F9715B1B89695400D5C926408@ORSMSX113.amr.corp.intel.com>
+ <D23418EC.1398A%amy.marrich@rackspace.com>
+Message-ID: <D25769F5-6289-426F-A7B6-6BA231ABC000@openstack.org>
+
+Hi Amy,
+
+Can you please re-share that document with me? 
+
+FYI - I?m also working on a handout PDF that will include all women-specific Summit events and sessions along with a handy map highlighting where to find it. The venue is complex so everyone is going to need to pay close attention to the detailed maps. =)
+
+I plan to send this out next week to this mailing list and also directly to all women who?ve registered for the Summit. 
+
+Cheers,
+Claire 
+
+
+
+> On Oct 2, 2015, at 11:20 AM, Amy Marrich <Amy.Marrich at rackspace.com> wrote:
+> 
+> I won?t be able to attend as Monday night?s meeting as I don?t get home until the meeting will be ending, but I did want to point everyone to the 'Review/Edit Draft of Women of Openstack 'friendly face' at Summit mail? item. We still need to decide how responses will be handled and where they should be sent.
+> 
+> Thanks,
+> 
+> Amy
+> 
+> From: "Barrett, Carol L" <carol.l.barrett at intel.com <mailto:carol.l.barrett at intel.com>>
+> Date: Friday, October 2, 2015 at 10:50 AM
+> To: Beth Cohen <bfcohen at luthcomputer.com <mailto:bfcohen at luthcomputer.com>>, "women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>>
+> Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+> 
+> The wiki is updated and the etherpad is ready for the meeting.
+> https://wiki.openstack.org/wiki/Women_of_OpenStack#October_6.2C_2015_Team_Meeting <https://wiki.openstack.org/wiki/Women_of_OpenStack#October_6.2C_2015_Team_Meeting>
+> https://etherpad.openstack.org/p/WOS_10_6_15 <https://etherpad.openstack.org/p/WOS_10_6_15>
+>  
+> If someone can lead great, if not, we?ll regroup when I?m back.
+> Thanks
+> Carol
+>  
+>  
+> From: Beth Cohen [mailto:bfcohen at luthcomputer.com <mailto:bfcohen at luthcomputer.com>] 
+> Sent: Thursday, October 01, 2015 6:10 PM
+> To: women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>
+> Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+>  
+> Dumb Question.
+> 
+> AM or PM?
+> 
+> On 10/1/2015 6:39 PM, Barrett, Carol L wrote:
+> Hi Team ? Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we?re on track.
+>  
+> I will be on vacation that day and am looking for a volunteer to lead the meeting. Pls let me know if you?re interested in.
+> Thanks
+> Carol
+>  
+> 
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> 
+> 
+> -- 
+> _____________________________________________________________________
+>  
+> Beth Cohen                                                           
+> Luth Computer Specialists, Inc.
+> www.luthcomputer.com <http://www.luthcomputer.com/>
+> 15 Wellington Street
+> Arlington, MA 02476
+>  
+> bfcohen at luthcomputer.com <mailto:bfcohen at luthcomputer.com>                                                   
+> Cell 617-721-7256                                                                  
+> 781-646-4018  
+> Twitter: @bfcohen
+> Skype: bfcohen100
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151002/ecf9b944/attachment-0001.html>
+
+From Amy.Marrich at rackspace.com  Fri Oct  2 16:37:02 2015
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Fri, 2 Oct 2015 16:37:02 +0000
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+ Meeting
+In-Reply-To: <D25769F5-6289-426F-A7B6-6BA231ABC000@openstack.org>
+References: <2D352D0CD819F64F9715B1B89695400D5C924BBB@ORSMSX113.amr.corp.intel.com>
+ <560DD958.5040605@luthcomputer.com>
+ <2D352D0CD819F64F9715B1B89695400D5C926408@ORSMSX113.amr.corp.intel.com>
+ <D23418EC.1398A%amy.marrich@rackspace.com>
+ <D25769F5-6289-426F-A7B6-6BA231ABC000@openstack.org>
+Message-ID: <D2341D4C.13999%amy.marrich@rackspace.com>
+
+Claire,
+
+It was added to last meeting's ether pad and then included on next week's but here it is.
+
+Thanks,
+
+Amy
+
+Heading to OpenStack Summit? Worried about wandering around looking like the new kid on campus or want to pass along your experiences to others?
+
+The Women of OpenStack will be helping people to connect so you don't have to wander the halls alone. This is a great opportunity to meet others and become more active in the community. If you'd like to be involved in this program please send your name, email address you'd like to be contacted at and whether you are attending Summit for the first time or not to XXXXXX
+
+From: Claire Massey <claire at openstack.org<mailto:claire at openstack.org>>
+Date: Friday, October 2, 2015 at 11:34 AM
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>
+Cc: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+Hi Amy,
+
+Can you please re-share that document with me?
+
+FYI - I'm also working on a handout PDF that will include all women-specific Summit events and sessions along with a handy map highlighting where to find it. The venue is complex so everyone is going to need to pay close attention to the detailed maps. =)
+
+I plan to send this out next week to this mailing list and also directly to all women who've registered for the Summit.
+
+Cheers,
+Claire
+
+
+
+On Oct 2, 2015, at 11:20 AM, Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>> wrote:
+
+I won't be able to attend as Monday night's meeting as I don't get home until the meeting will be ending, but I did want to point everyone to the 'Review/Edit Draft of Women of Openstack 'friendly face' at Summit mail' item. We still need to decide how responses will be handled and where they should be sent.
+
+Thanks,
+
+Amy
+
+From: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Friday, October 2, 2015 at 10:50 AM
+To: Beth Cohen <bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+The wiki is updated and the etherpad is ready for the meeting.
+https://wiki.openstack.org/wiki/Women_of_OpenStack#October_6.2C_2015_Team_Meeting
+https://etherpad.openstack.org/p/WOS_10_6_15
+
+If someone can lead great, if not, we'll regroup when I'm back.
+Thanks
+Carol
+
+
+From: Beth Cohen [mailto:bfcohen at luthcomputer.com]
+Sent: Thursday, October 01, 2015 6:10 PM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+Dumb Question.
+
+AM or PM?
+On 10/1/2015 6:39 PM, Barrett, Carol L wrote:
+Hi Team - Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we're on track.
+
+I will be on vacation that day and am looking for a volunteer to lead the meeting. Pls let me know if you're interested in.
+Thanks
+Carol
+
+
+
+
+
+_______________________________________________
+
+Women-of-openstack mailing list
+
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+--
+
+_____________________________________________________________________
+
+
+
+Beth Cohen
+
+Luth Computer Specialists, Inc.
+
+www.luthcomputer.com<http://www.luthcomputer.com/>
+
+15 Wellington Street
+
+Arlington, MA 02476
+
+
+
+bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>
+
+Cell 617-721-7256
+
+781-646-4018
+
+Twitter: @bfcohen
+
+Skype: bfcohen100
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151002/24350ea7/attachment-0001.html>
+
+From bfcohen at luthcomputer.com  Fri Oct  2 17:33:09 2015
+From: bfcohen at luthcomputer.com (bfcohen)
+Date: Fri, 02 Oct 2015 13:33:09 -0400
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+ Meeting
+Message-ID: <wrdl0ey9vxdtxkw2ncwbs61c.1443807189212@email.android.com>
+
+Do we need a Web Executive and conference ?number? ? I can provide that. ?Sorry I have been a bit behind the curve.
+
+
+Sent from my Verizon Wireless 4G LTE smartphone
+
+
+
+-------- Original message --------From: Amy Marrich <Amy.Marrich at rackspace.com> Date: 10/2/2015  12:37 PM  (GMT-05:00) To: Claire Massey <claire at openstack.org> Cc: women-of-openstack at lists.openstack.org Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting 
+
+Claire,
+
+
+
+It was added to last meeting?s ether pad and then included on next week?s but here it is.
+
+
+
+Thanks,
+
+
+
+Amy
+
+
+
+
+
+Heading to OpenStack Summit? Worried about wandering around looking like the new kid on campus or want to pass along your experiences to others??
+
+
+
+
+The Women of OpenStack will be helping people to connect so you don?t have to wander the halls alone. This is a great opportunity to meet others and become more active in the community. If you?d like to be involved in
+ this program please send your name, email address you?d like to be contacted at and whether you are attending Summit for the first time or not to XXXXXX
+
+
+
+
+
+
+From: Claire Massey <claire at openstack.org>
+
+Date: Friday, October 2, 2015 at 11:34 AM
+
+To: Amy Marrich <amy.marrich at rackspace.com>
+
+Cc: "Barrett, Carol L" <carol.l.barrett at intel.com>, "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+
+
+
+
+
+
+Hi Amy,
+
+
+
+Can you please re-share that document with me??
+
+
+
+FYI - I?m also working on a handout PDF that will include all women-specific Summit events and sessions along with a handy map highlighting where to find it. The venue is complex so everyone is going to need to pay close attention to the detailed
+ maps. =)
+
+
+
+I plan to send this out next week to this mailing list and also directly to all women who?ve registered for the Summit.?
+
+
+
+Cheers,
+
+
+
+Claire?
+
+
+
+
+
+
+
+
+
+
+
+On Oct 2, 2015, at 11:20 AM, Amy Marrich <Amy.Marrich at rackspace.com> wrote:
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151002/514165a7/attachment.html>
+
+From jessicak at us.ibm.com  Mon Oct  5 02:22:50 2015
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Sun, 4 Oct 2015 21:22:50 -0500
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+	Meeting
+In-Reply-To: <wrdl0ey9vxdtxkw2ncwbs61c.1443807189212@email.android.com>
+References: <wrdl0ey9vxdtxkw2ncwbs61c.1443807189212@email.android.com>
+Message-ID: <201510050222.t952MjrH021929@d03av05.boulder.ibm.com>
+
+I think that would be great if you could provide ... I don't see one in the
+meeting notice.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	bfcohen <bfcohen at luthcomputer.com>
+To:	Amy Marrich <Amy.Marrich at rackspace.com>, Claire Massey
+            <claire at openstack.org>
+Cc:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	10/02/2015 12:34 PM
+Subject:	Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5
+            Team Meeting
+
+
+
+Do we need a Web Executive and conference  number?   I can provide that.
+Sorry I have been a bit behind the curve.
+
+
+
+Sent from my Verizon Wireless 4G LTE smartphone
+-------- Original message --------
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+Date: 10/2/2015 12:37 PM (GMT-05:00)
+To: Claire Massey <claire at openstack.org>
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+Meeting
+
+Claire,
+
+It was added to last meeting?s ether pad and then included on next week?s
+but here it is.
+
+Thanks,
+
+Amy
+
+Heading to OpenStack Summit? Worried about wandering around looking like
+the new kid on campus or want to pass along your experiences to others?
+
+The Women of OpenStack will be helping people to connect so you don?t have
+to wander the halls alone. This is a great opportunity to meet others and
+become more active in the community. If you?d like to be involved in this
+program please send your name, email address you?d like to be contacted at
+and whether you are attending Summit for the first time or not to XXXXXX
+
+From: Claire Massey <claire at openstack.org>
+Date: Friday, October 2, 2015 at 11:34 AM
+To: Amy Marrich <amy.marrich at rackspace.com>
+Cc: "Barrett, Carol L" <carol.l.barrett at intel.com>, "
+women-of-openstack at lists.openstack.org" <
+women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+Meeting
+
+Hi Amy,
+
+Can you please re-share that document with me?
+
+FYI - I?m also working on a handout PDF that will include all
+women-specific Summit events and sessions along with a handy map
+highlighting where to find it. The venue is complex so everyone is going to
+need to pay close attention to the detailed maps. =)
+
+I plan to send this out next week to this mailing list and also directly to
+all women who?ve registered for the Summit.
+
+Cheers,
+Claire
+
+
+
+      On Oct 2, 2015, at 11:20 AM, Amy Marrich <Amy.Marrich at rackspace.com>
+      wrote:
+      _______________________________________________
+      Women-of-openstack mailing list
+      Women-of-openstack at lists.openstack.org
+      http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151004/2a067cd6/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151004/2a067cd6/attachment.gif>
+
+From bfcohen at luthcomputer.com  Mon Oct  5 11:58:57 2015
+From: bfcohen at luthcomputer.com (bfcohen)
+Date: Mon, 05 Oct 2015 07:58:57 -0400
+Subject: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team
+ Meeting
+Message-ID: <pk12rc2p7m422jkcgbv9q5cn.1444046337580@email.android.com>
+
+Will send it out this AM
+
+
+Sent from my Verizon Wireless 4G LTE smartphone-------- Original message --------From: Jessica Murillo <jessicak at us.ibm.com> Date: 10/4/2015  10:22 PM  (GMT-05:00) To: bfcohen <bfcohen at luthcomputer.com> Cc: Amy Marrich <Amy.Marrich at rackspace.com>, Claire Massey <claire at openstack.org>, women-of-openstack at lists.openstack.org Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting 
+I think that would be great if you could provide ... I don't see one in the meeting notice. 
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems 
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+bfcohen ---10/02/2015 12:34:03 PM---Do we need a Web Executive and conference ?number? ? I can provide that. ?Sorry I have been a bit be
+
+From:        bfcohen <bfcohen at luthcomputer.com>
+To:        Amy Marrich <Amy.Marrich at rackspace.com>, Claire Massey <claire at openstack.org>
+Cc:        "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Date:        10/02/2015 12:34 PM
+Subject:        Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+
+
+Do we need a Web Executive and conference  number?   I can provide that.  Sorry I have been a bit behind the curve.
+
+
+
+Sent from my Verizon Wireless 4G LTE smartphone
+-------- Original message --------
+From: Amy Marrich <Amy.Marrich at rackspace.com> 
+Date: 10/2/2015 12:37 PM (GMT-05:00) 
+To: Claire Massey <claire at openstack.org> 
+Cc: women-of-openstack at lists.openstack.org 
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting 
+
+Claire,
+
+It was added to last meeting?s ether pad and then included on next week?s but here it is.
+
+Thanks,
+
+Amy
+
+Heading to OpenStack Summit? Worried about wandering around looking like the new kid on campus or want to pass along your experiences to others? 
+
+The Women of OpenStack will be helping people to connect so you don?t have to wander the halls alone. This is a great opportunity to meet others and become more active in the community. If you?d like to be involved in this program please send your name, email address you?d like to be contacted at and whether you are attending Summit for the first time or not to XXXXXX
+
+From: Claire Massey <claire at openstack.org>
+Date: Friday, October 2, 2015 at 11:34 AM
+To: Amy Marrich <amy.marrich at rackspace.com>
+Cc: "Barrett, Carol L" <carol.l.barrett at intel.com>, "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [Openstack][Women of OpenStack] 10/5 Team Meeting
+
+Hi Amy, 
+
+Can you please re-share that document with me? 
+
+FYI - I?m also working on a handout PDF that will include all women-specific Summit events and sessions along with a handy map highlighting where to find it. The venue is complex so everyone is going to need to pay close attention to the detailed maps. =)
+
+I plan to send this out next week to this mailing list and also directly to all women who?ve registered for the Summit. 
+
+Cheers,
+Claire 
+
+
+
+On Oct 2, 2015, at 11:20 AM, Amy Marrich <Amy.Marrich at rackspace.com> wrote:
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151005/3f7c129d/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151005/3f7c129d/attachment-0001.gif>
+
+From bfcohen at luthcomputer.com  Mon Oct  5 13:12:51 2015
+From: bfcohen at luthcomputer.com (bfcohen)
+Date: Mon, 05 Oct 2015 09:12:51 -0400
+Subject: [Women-of-openstack] Women of OpenStack Meeting invite
+Message-ID: <toiplyna7awgmg8dkw0lucxo.1444050771675@email.android.com>
+
+
+
+
+
+Sent from my Verizon Wireless 4G LTE smartphone-------- Original message --------From: "Cohen, Beth F (Beth)" <beth.cohen at verizon.com> Date: 10/5/2015  9:11 AM  (GMT-05:00) To: bfcohen at luthcomputer.com Subject: Women of OpenStack Meeting 
+
+
+?
+?
+-----Original Appointment-----
+
+
+From: Cohen, Beth F (Beth) 
+
+
+Sent: Monday, October 05, 2015 8:30 AM
+
+
+To: Cohen, Beth F (Beth); women-of-openstack at lists.openstack.org
+
+
+Cc: Shari Mahrdt
+
+
+Subject: Women of OpenStack Meeting
+
+
+When: Monday, October 05, 2015 10:00 PM-11:00 PM (UTC-05:00) Eastern Time (US & Canada).
+
+
+Where: 1-203-277-8157 866-619-0383 Participant: 7217256# Leader 4018#
+?
+?
+1-203-277-8157???? 866-619-0383? Participant: 7217256# Leader 4018#
+
+
+
+
+Participant Join URL:
+http://www.mymeetings.com/nc/join.php?i=745083366&p=&t=c 
+
+
+?
+Hi Team ? Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we?re on track.
+?
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151005/b622a1c0/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: invite.vcs
+Type: text/calendar
+Size: 2264 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151005/b622a1c0/attachment.ics>
+
+From beth.cohen at verizon.com  Mon Oct  5 12:30:08 2015
+From: beth.cohen at verizon.com (Cohen, Beth F (Beth))
+Date: Mon, 5 Oct 2015 08:30:08 -0400
+Subject: [Women-of-openstack] Women of OpenStack Meeting
+Message-ID: <24310489C27ED447A664542AA6E308A917800770D7@FHDP1LUMXC7V33.us.one.verizon.com>
+
+1-203-277-8157     866-619-0383  Participant: 7217256# Leader 4018#
+Participant Join URL:   http://www.mymeetings.com/nc/join.php?i=745083366&p=&t=c
+
+Hi Team ? Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we?re on track.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151005/f1436386/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 1830 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151005/f1436386/attachment.ics>
+
+From ekhugenbruch at us.ibm.com  Wed Oct  7 13:55:30 2015
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Wed, 7 Oct 2015 13:55:30 +0000
+Subject: [Women-of-openstack] Tool lunch and learn at the summit?
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5C8E64E3@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5C8E64E3@ORSMSX113.amr.corp.intel.com>,
+ <CAPfWQsrdUyjrHVDpg6Pr3W8rwmAHyVks48rpY4V3Tg_u7vjRJg@mail.gmail.com>,
+ <72C14C9D-F9F1-4F07-A717-DD02DB8EE3B6@openstack.org><2D352D0CD819F64F9715B1B89695400D5C8D1DE1@ORSMSX113.amr.corp.intel.com><201509230214.t8N2EX0b012424@d03av04.boulder.ibm.com><201509231554.t8NFsPmF010845@d01av05.pok.ibm.com><D2283959.469EA%nikacost@cisco.com><201509231624.t8NGOpUA026916@d03av03.boulder.ibm.com><D2284ACB.5AA41%cferry@carpathia.com><2D352D0CD819F64F9715B1B89695400D5C8D28BC@ORSMSX113.amr.corp.intel.com><D2284FC2.5AA88%cferry@carpathia.com><D2284FDA.46A25%nikacost@cisco.com><CAPfWQsoWAvOG8qtxZu-6_V1UfDUUF95Ykzd1gyXrP6rGcw8bYQ@mail.gmail.com><8B85B219-A457-4C0B-A80E-0142DDCC4F40@openstack.org>
+ <OF813149F6.1D471485-ON00257ECB.004CEAB2-00257ECB.004D159A@notes.na.collabserv.com>
+Message-ID: <201510071355.t97DtlQ0021807@d01av02.pok.ibm.com>
+
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/8dd15b53/attachment-0001.html>
+
+From bfcohen100 at gmail.com  Wed Oct  7 16:39:27 2015
+From: bfcohen100 at gmail.com (Beth Cohen)
+Date: Wed, 7 Oct 2015 12:39:27 -0400
+Subject: [Women-of-openstack] Invitation: Women of OpenStack @ Mon Oct 5,
+ 2015 10pm - 11pm (bfcohen100@gmail.com)
+Message-ID: <24310489C27ED447A664542AA6E308A91780130010@FHDP1LUMXC7V33.us.one.verizon.com>
+
+
+more details ?<https://www.google.com/calendar/event?action=VIEW&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en>
+
+Women of OpenStack
+Hi Team ? Our next meeting is 10/5 at 12:00 Noon Pacific. I think we want to review the plans for Tokyo and make sure we?re on track.
+
+
+When
+        Mon Oct 5, 2015 10pm ? 11pm Eastern Time
+
+Calendar
+        bfcohen100 at gmail.com<mailto:bfcohen100 at gmail.com>
+
+Who
+        ?
+        Beth Cohen - organizer
+
+?
+        beth.cohen at verizon.com<mailto:beth.cohen at verizon.com>
+
+Going?   Yes<https://www.google.com/calendar/event?action=RESPOND&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&rst=1&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en> - Maybe<https://www.google.com/calendar/event?action=RESPOND&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&rst=3&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en> - No<https://www.google.com/calendar/event?action=RESPOND&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&rst=2&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en>    more options ?<https://www.google.com/calendar/event?action=VIEW&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en>
+
+Invitation from Google Calendar<https://www.google.com/calendar/>
+
+You are receiving this courtesy email at the account beth.cohen at verizon.com<mailto:beth.cohen at verizon.com> because you are an attendee of this event.
+To stop receiving future updates for this event, decline this event. Alternatively you can sign up for a Google account at https://www.google.com/calendar/ and control your notification settings for your entire calendar.
+Forwarding this invitation could allow any recipient to modify your RSVP response. Learn More<https://support.google.com/calendar/answer/37135#forwarding>.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/58de1501/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 4029 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/58de1501/attachment.ics>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: invite.ics
+Type: application/ics
+Size: 1333 bytes
+Desc: invite.ics
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/58de1501/attachment.bin>
+
+From bfcohen100 at gmail.com  Wed Oct  7 16:40:32 2015
+From: bfcohen100 at gmail.com (Beth Cohen)
+Date: Wed, 7 Oct 2015 12:40:32 -0400
+Subject: [Women-of-openstack] Invitation: Women of OpenStack @ Mon Oct 5,
+ 2015 10pm - 11pm (bfcohen100@gmail.com)
+Message-ID: <24310489C27ED447A664542AA6E308A91780130015@FHDP1LUMXC7V33.us.one.verizon.com>
+
+
+With real dial in information.  I can add WebEx if we need it.
+
+
+more details ?<https://www.google.com/calendar/event?action=VIEW&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en>
+
+Women of OpenStack
+Hi Team ? Our next meeting is 10/5 at 7:00 Pacific. I think we want to review the plans for Tokyo and make sure we?re on track.
+
+I will be on vacation that day and am looking for a volunteer to lead the meeting. Pls let me know if you?re interested in.
+Thanks
+Carol
+When
+        Mon Oct 5, 2015 10pm ? 11pm Eastern Time
+
+Calendar
+        bfcohen100 at gmail.com<mailto:bfcohen100 at gmail.com>
+
+Who
+        ?
+        Beth Cohen - organizer
+
+?
+        beth.cohen at verizon.com<mailto:beth.cohen at verizon.com>
+
+Going?   Yes<https://www.google.com/calendar/event?action=RESPOND&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&rst=1&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en> - Maybe<https://www.google.com/calendar/event?action=RESPOND&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&rst=3&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en> - No<https://www.google.com/calendar/event?action=RESPOND&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&rst=2&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en>    more options ?<https://www.google.com/calendar/event?action=VIEW&eid=Z3M3cDI2OWg5bTg4NHVqbGMzZDlndDM4bGsgYmV0aC5jb2hlbkB2ZXJpem9uLmNvbQ&tok=MjAjYmZjb2hlbjEwMEBnbWFpbC5jb200NjljMWYzMmUxNjE5ZGNkYjFkY2VmYWZmYmU5YTc5ZDU0ODA3M2Ew&ctz=America/New_York&hl=en>
+
+Invitation from Google Calendar<https://www.google.com/calendar/>
+
+You are receiving this courtesy email at the account beth.cohen at verizon.com<mailto:beth.cohen at verizon.com> because you are an attendee of this event.
+To stop receiving future updates for this event, decline this event. Alternatively you can sign up for a Google account at https://www.google.com/calendar/ and control your notification settings for your entire calendar.
+Forwarding this invitation could allow any recipient to modify your RSVP response. Learn More<https://support.google.com/calendar/answer/37135#forwarding>.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/bdfe3566/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 4310 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/bdfe3566/attachment-0001.ics>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: invite.ics
+Type: application/ics
+Size: 1333 bytes
+Desc: invite.ics
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/bdfe3566/attachment-0001.bin>
+
+From claire at openstack.org  Thu Oct  8 00:34:20 2015
+From: claire at openstack.org (Claire Massey)
+Date: Wed, 7 Oct 2015 19:34:20 -0500
+Subject: [Women-of-openstack] Tokyo Summit MAP & List of Women-Specific
+	Events
+Message-ID: <312989A3-40DF-441F-8CFF-3EA3023A751F@openstack.org>
+
+Hello Women of OpenStack!
+
+We look forward to seeing many of you in Tokyo at the Summit in just a few short weeks. Currently just 11% of the registered attendees are women. Yes, that means women are still way underrepresented at the Summits - but our presence is valuable and strong. We hope you?ll be an active participant at the Summit and make your voice heard.
+
+Attached is a helpful Summit venue map that highlights the women-specific events that are planned throughout the week. We encourage you to participate in some or all of these events, take the opportunity to get to know your fellow Stackers in person and support the talks with women presenters.
+
+View a list of all women-lead sessions HERE <https://openstacksummitoctober2015tokyo.sched.org/?s=WOO>.
+
+First-up when you arrive in Tokyo you?ll want to kick-off the Summit by attending the Women of OpenStack Networking Happy Hour on Monday evening, October 26. This fun-filled event is a great place to meet and mingle before the week gets hectic. BIG thank you to Intel and IBM for their continued sponsorship!
+
+Women of OpenStack Networking Event - RSVP HERE! <https://www.eventbrite.com/e/women-of-openstack-networking-event-tokyo-summit-tickets-18935864681>
+Monday, October 26
+4:30-7:30pm
+
+If you haven?t already, please step-up your involvement with the Women of OpenStack group by join us on LinkedIn <https://www.linkedin.com/groups/Women-OpenStack-WOS-4681909?gid=4681909&mostPopular=&trk=tyah&trkInfo=clickedVertical:group,idx:1-1-1,tarId:1430248860119,tas:women%20of%20openstack> and participating in the upcoming meetings. View all related items here: https://wiki.openstack.org/wiki/Women_of_OpenStack <https://wiki.openstack.org/wiki/Women_of_OpenStack>.
+
+During the Summit we?ll again host a Working Breakfast Session <http://openstacksummitoctober2015tokyo.sched.org/event/f6f1cc58fbdd8b1bc345116889274a4a#.VhV-jWDyS5I> on Wednesday morning, 7:00-9:00am, before Keynotes. More details and the meeting agenda will soon be added to the summit schedule and shared on the mailing list. Stay tuned. 
+
+See you in Tokyo!
+
+Cheers,
+Claire
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/22a5ff47/attachment-0002.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: WomenOfOpenStackTokyoSummitMap.pdf
+Type: application/pdf
+Size: 600206 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/22a5ff47/attachment-0001.pdf>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151007/22a5ff47/attachment-0003.html>
+
+From claire at openstack.org  Thu Oct  8 16:55:52 2015
+From: claire at openstack.org (Claire Massey)
+Date: Thu, 8 Oct 2015 11:55:52 -0500
+Subject: [Women-of-openstack] Outreachy: Call for Funding, Mentors
+References: <BB9FDA2D-D0B1-471E-A52D-17D1D8BCBD18@openstack.org>
+Message-ID: <74861177-FD95-487C-B53C-07890FDD9047@openstack.org>
+
+Sharing here as well!
+
+
+
+> Begin forwarded message:
+> 
+> From: Lauren Sell <lauren at openstack.org>
+> Subject: [openstack-community] Outreachy: Call for Funding, Mentors
+> Date: October 8, 2015 at 10:52:59 AM CDT
+> To: foundation at lists.openstack.org, "foundation-board at lists.openstack.org mailing list" <foundation-board at lists.openstack.org>, marketing at lists.openstack.org, Community User Groups OpenStack <community at lists.openstack.org>
+> Cc: Victoria Mart?nez de la Cruz <victoria at vmartinezdelacruz.com>
+> 
+> Hi everyone,
+> 
+> Quick update on the Outreachy <https://www.gnome.org/outreachy/> program, including a request for funding and volunteer mentors. For those of you who are not aware, Outreachy helps people from groups underrepresented in free and open source software get involved by matching interns with established mentors in the upstream community.
+> 
+> There have been a record 30 intern applicants and 11 volunteer mentors for OpenStack this next cycle, which will take place Dec 7, 2015 - March 7, 2016. The OpenStack program coordinators could use a few more volunteer mentors, and there has been specific interest in Ceilometer, Cinder, Horizon, Murano, Neutron, Nova, Sahara and Zaqar. You can learn more about what is expected from mentors and how to apply here: https://wiki.openstack.org/wiki/Outreachy/Mentors <https://wiki.openstack.org/wiki/Outreachy/Mentors>
+> 
+> Additionally, the Foundation agreed to sponsor five interns, but we could use some additional sponsors to help support the large increase in OpenStack applicants. The sponsorship cost is 6,500 USD per intern, which provide them a stipend for the three-month program. You can learn more about sponsorship here: https://wiki.gnome.org/Outreachy/Admin/InfoForOrgs#Action <https://wiki.gnome.org/Outreachy/Admin/InfoForOrgs#Action>
+> 
+> I personally believe Outreachy is one of the most important and effective diversity efforts we?ve invested in to date. We?ve had some amazing graduates become long-term contributors to our community. I cannot give enough praise and thanks to the program coordinators (Victoria Martinez de la Cruz and Mahati Chamarthy for OpenStack), volunteer mentors, and sponsors for making it possible.
+> 
+> Please help spread the word. If you are interested in becoming a mentor or sponsoring an intern, please contact Victoria (victoria at vmartinezdelacruz.com <mailto:victoria at vmartinezdelacruz.com>) or me (lauren at openstack.org <mailto:lauren at openstack.org>).
+> 
+> Thanks,
+> Lauren
+> _______________________________________________
+> Community mailing list
+> Community at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/community
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151008/a2630c65/attachment.html>
+
+From rochelle.grober at huawei.com  Thu Oct  8 23:12:34 2015
+From: rochelle.grober at huawei.com (Rochelle Grober)
+Date: Thu, 8 Oct 2015 23:12:34 +0000
+Subject: [Women-of-openstack] Only a bit less than 25 hours to vote for TC!
+Message-ID: <DA7681A6D234954992BD2FB907F9666208F0002D@SJCEML701-CHM.china.huawei.com>
+
+All the candidates are great.  You can read about them here:
+https://wiki.openstack.org/wiki/TC_Elections_September/October_2015
+at the bottom of the page.
+
+And we have three women running for the TC this election:
+
+Anne Gentle
+Carol Barrett
+Rochelle Grober
+
+Each has a non-traditional view and role in the OpenStack community.
+
+But, please, if you have a ballot, read the statements and vote.  It's not just your right, it's your responsibility.
+
+--Rocky
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151008/03785fa0/attachment.html>
+
+From claire at openstack.org  Mon Oct 12 15:28:36 2015
+From: claire at openstack.org (Claire Massey)
+Date: Mon, 12 Oct 2015 10:28:36 -0500
+Subject: [Women-of-openstack] Fwd: October 12 Meeting Agenda and Logistics
+References: <2D352D0CD819F64F9715B1B89695400D5C97F7CA@ORSMSX113.amr.corp.intel.com>
+Message-ID: <9C6AEF72-D22E-40DA-9F46-981D02B866AC@openstack.org>
+
+
+> Begin forwarded message:
+> 
+> From: "Barrett, Carol L" <carol.l.barrett at intel.com>
+> Subject: [OpenStack Foundation] [Women-of-openstack] October 12 Meeting Agenda and Logistics
+> Date: October 12, 2015 at 9:29:41 AM CDT
+> To: "foundation at lists.openstack.org" <foundation at lists.openstack.org>
+> 
+> Hi Team ? We?re on for our team meeting today. Talk with you then.
+> Thanks
+> Carol
+>  
+>  
+> Logistics
+> Monday October 12, 1900 - 2000 UTC (10/12/15, Noon Pacific)
+> Etherpad: https://etherpad.openstack.org/p/WOS_10_12_15 <https://etherpad.openstack.org/p/WOS_10_12_15>
+> Access: (888) 875-9370, Bridge: 3; Passcode: 1278598
+>  
+> Agenda
+> Roll Call
+> Diversity WG Update - Egle, Carol, others
+> Hashtag social media campaign, #WeAreOpenStack Update - Allison, Claire
+> Tokyo Planning
+> Tools Learning and Networking Lunch Breaks - Update - Emily, Amy
+> Tokyo Mentoring Plans - Allison
+> Tokyo Monday Reception Plans
+> Breakfast Working Session - Jessica
+> Women's Guide to the OpenStack Summit - Tamara Johnston, Claire
+> Draft of Women of Openstack 'friendly face' at Summit mail
+> Opens - All
+>  
+>  
+> _______________________________________________
+> Foundation mailing list
+> Foundation at lists.openstack.org <mailto:Foundation at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/foundation <http://lists.openstack.org/cgi-bin/mailman/listinfo/foundation>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151012/543927fd/attachment.html>
+
+From carol.l.barrett at intel.com  Mon Oct 12 15:29:39 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 12 Oct 2015 15:29:39 +0000
+Subject: [Women-of-openstack] [OpenStack Foundation] October 12 Meeting
+ Agenda and Logistics
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C97FED9@ORSMSX113.amr.corp.intel.com>
+
+Hi Team - We're on for our team meeting today. Talk with you then.
+Thanks
+Carol
+
+Logistics
+*       Monday October 12, 1900 - 2000 UTC (10/12/15, Noon Pacific)
+*       Etherpad: https://etherpad.openstack.org/p/WOS_10_12_15
+*       Access: (888) 875-9370, Bridge: 3; Passcode: 1278598
+
+Agenda
+*       Roll Call
+*       Diversity WG Update - Egle, Carol, others
+*       Hashtag social media campaign, #WeAreOpenStack Update - Allison, Claire
+*       Tokyo Planning
+o       Tools Learning and Networking Lunch Breaks - Update - Emily, Amy
+o       Tokyo Mentoring Plans - Allison
+o       Tokyo Monday Reception Plans
+o       Breakfast Working Session - Jessica
+o       Women's Guide to the OpenStack Summit - Tamara Johnston, Claire
+o       Draft of Women of Openstack 'friendly face' at Summit mail
+*       Opens - All
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151012/f3de0710/attachment.html>
+
+From egle.sigler at rackspace.com  Mon Oct 12 17:42:01 2015
+From: egle.sigler at rackspace.com (Egle Sigler)
+Date: Mon, 12 Oct 2015 17:42:01 +0000
+Subject: [Women-of-openstack] [Diversity] Have you taken Diversity Survey?
+Message-ID: <D2415B3D.200DB%egle.sigler@rackspace.com>
+
+Hello OpenStack Community,
+
+Last week, OpenStack Foundation sent out a diversity survey email, asking everyone to participate in the Diversity survey.
+
+If you have taken the survey already: thank you!
+
+If you have not had a chance to take the survey yet, please search your email for subject ?Survey: Support Diversity in the OpenStack Community??.  The email has a link to the survey, please consider participating in it. Survey feedback will help the Diversity Working Group define more effective diversity and inclusion programs, and the baseline will allow us to measure how successful they are over time. Deadline to take the survey is: October 14 at 11:59 pm UTC.
+
+More information about the Diversity working group: https://wiki.openstack.org/wiki/Diversity
+
+If you have any questions or comments, please let me know.
+Thank you,
+Egle Sigler
+Co-Chair of Diversity Working Group
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151012/f2febae2/attachment.html>
+
+From claire at openstack.org  Wed Oct 14 17:53:00 2015
+From: claire at openstack.org (Claire Massey)
+Date: Wed, 14 Oct 2015 10:53:00 -0700
+Subject: [Women-of-openstack] Tokyo Summit MAP & List of Women-Specific
+	Events
+In-Reply-To: <312989A3-40DF-441F-8CFF-3EA3023A751F@openstack.org>
+References: <312989A3-40DF-441F-8CFF-3EA3023A751F@openstack.org>
+Message-ID: <8F4104FC-2640-4844-99A3-97EAF97D5DE6@openstack.org>
+
+Hi everyone,
+
+As you?ve probably identified by now - the Tokyo Summit venue is a complex campus of buildings that can be somewhat confusing to navigate. Also, if you?ve never before travelled to the Prince International Convention Center in Tokyo - then it?s going to be a little challenging for you to find it when you arrive at the Shinagawa Train Station. For these reasons we've created maps, directional videos and downloadable PDF files to help you.
+
+Technology fails from time to time. Batteries die. Satellites refuse to connect. So if you?re planning to attend the Summit please do yourself a favor and *download and read the Summit maps now* to triumph over the urban terrain when you arrive. Seriously, you?re going to want this info to be downloaded and accessible offline on your phone / tablet / laptop when you land in Tokyo! 
+
+We will be sharing this info with all registered attendees as well - but please HELP us spread the word to your colleagues before they fly!
+
+Thanks,
+Claire
+
+
+AIRPORT TO SUMMIT DIRECTIONS
+  * Directions from Both Haneda & Nartita Airports <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#hotels>
+ 
+NARITA AIRPORT
+  * Video directions to Summit <https://www.youtube.com/watch?v=_mlwE_Ha7Ws>
+  * Downloadable Directions to Summit <https://www.openstack.org/assets/tokyo-summit/directions/OSTokyo-Narita-Directions-PROOF-v2.pdf>
+
+HANEDA AIRPORT
+  * Video directions to Summit <https://www.youtube.com/watch?v=85464R-1Eq8>
+  * Downloadable Directions to Summit <https://www.openstack.org/assets/tokyo-summit/directions/OSTokyo-Haneda-Directions-PROOF-v2.pdf>
+
+SUMMIT VENUE MAPS
+  * All Summit Maps <https://www.openstack.org/summit/tokyo-2015/campus-maps>
+  * High Level Campus Map <https://www.openstack.org/assets/tokyo-summit/OSTokyo-Map-Campus-Overview.jpg>
+  * Detailed Summit Map <https://www.openstack.org/assets/tokyo-summit/OSTokyo-Campus-Map-web.jpg>
+  * Marketplace Expo Hall Map <https://openstack.org/assets/tokyo-summit/OSTokyo-Expo-Map.jpg>
+  * Lunch Location Map <https://www.openstack.org/assets/tokyo-summit/lunch-menus/OSTokyo-Lunch-Map-web.jpg>
+
+
+
+> On Oct 7, 2015, at 5:34 PM, Claire Massey <claire at openstack.org> wrote:
+> 
+> Hello Women of OpenStack!
+> 
+> We look forward to seeing many of you in Tokyo at the Summit in just a few short weeks. Currently just 11% of the registered attendees are women. Yes, that means women are still way underrepresented at the Summits - but our presence is valuable and strong. We hope you?ll be an active participant at the Summit and make your voice heard.
+> 
+> Attached is a helpful Summit venue map that highlights the women-specific events that are planned throughout the week. We encourage you to participate in some or all of these events, take the opportunity to get to know your fellow Stackers in person and support the talks with women presenters.
+> 
+> View a list of all women-lead sessions HERE <https://openstacksummitoctober2015tokyo.sched.org/?s=WOO>.
+> 
+> First-up when you arrive in Tokyo you?ll want to kick-off the Summit by attending the Women of OpenStack Networking Happy Hour on Monday evening, October 26. This fun-filled event is a great place to meet and mingle before the week gets hectic. BIG thank you to Intel and IBM for their continued sponsorship!
+> 
+> Women of OpenStack Networking Event - RSVP HERE! <https://www.eventbrite.com/e/women-of-openstack-networking-event-tokyo-summit-tickets-18935864681>
+> Monday, October 26
+> 4:30-7:30pm
+> 
+> If you haven?t already, please step-up your involvement with the Women of OpenStack group by join us on LinkedIn <https://www.linkedin.com/groups/Women-OpenStack-WOS-4681909?gid=4681909&mostPopular=&trk=tyah&trkInfo=clickedVertical:group,idx:1-1-1,tarId:1430248860119,tas:women%20of%20openstack> and participating in the upcoming meetings. View all related items here: https://wiki.openstack.org/wiki/Women_of_OpenStack <https://wiki.openstack.org/wiki/Women_of_OpenStack>.
+> 
+> During the Summit we?ll again host a Working Breakfast Session <http://openstacksummitoctober2015tokyo.sched.org/event/f6f1cc58fbdd8b1bc345116889274a4a#.VhV-jWDyS5I> on Wednesday morning, 7:00-9:00am, before Keynotes. More details and the meeting agenda will soon be added to the summit schedule and shared on the mailing list. Stay tuned. 
+> 
+> See you in Tokyo!
+> 
+> Cheers,
+> Claire
+> 
+> <WomenOfOpenStackTokyoSummitMap.pdf>
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151014/812a6ecc/attachment.html>
+
+From carol.l.barrett at intel.com  Fri Oct 16 23:54:10 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Fri, 16 Oct 2015 23:54:10 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Monday 10/19
+	Team Meeting
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C98F7C8@ORSMSX113.amr.corp.intel.com>
+
+Hi Team - We're on for our team meeting on Monday to finalize plans for Tokyo.
+
+Logistics
+*       Monday 10/19, 1900 UTC (Noon Pacific)
+*       Dial In Access: 1-203-277-8157 or 866-619-0383 Participant: 7217256#
+*       Etherpad: https://etherpad.openstack.org/p/WOS_10_19_15
+
+Agenda:
+*       Roll Call
+*       Friendly Faces Session Plan - Claire, Jessica, Amy
+*       Tokyo Monday Reception Plans - Claire
+*       Breakfast Working Session Update - Jessica
+*       Women's Guide to the OpenStack Summit - Tamara Johnston, Claire
+*       Draft of Women of Openstack 'friendly face' at Summit mail
+*       Opens
+
+Thanks
+Carol
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151016/73bed69f/attachment.html>
+
+From sharoner at gigaspaces.com  Tue Oct 20 09:07:39 2015
+From: sharoner at gigaspaces.com (Sharone Zitzman)
+Date: Tue, 20 Oct 2015 12:07:39 +0300
+Subject: [Women-of-openstack] OpenStack Community Open Space at the Tokyo
+	Summit
+Message-ID: <CAHL_q8she9YvxfVRpEa2D-XH5-bev8GvewkUE6BiFaF8f8z6KQ@mail.gmail.com>
+
+Hi Everyone,
+
+I'm very excited to be making my way to my first OpenStack Summit, despite
+organizing the OpenStack Israel community for a number of years now (annual
+event, meetup, and web presence).
+
+I think this is an excellent opportunity to leverage the diversity of
+community leaders from around the globe all being in the same place and I
+wanted to attempt to organize an on the ground "open space" meeting - i.e.
+an ad hoc, informal, brainstorming session - where we can all learn from
+each other about what we're doing on the ground, and from each other's
+experience.
+
+I have created a global OpenStack community Facebook group, so we can all
+have a place to collaborate:
+https://www.facebook.com/groups/637144716425889/
+
+And have scheduled an on the ground event for Wednesday October 28th at
+10:00 AM - which is between other conference community sessions at the
+summit.
+https://www.facebook.com/events/933499416688213/
+
+You are all invited to join both the group and the meetup.
+
+Looking forward to meeting you all there.
+
+Warm Regards,
+Sharone Zitzman
+@shar1z <http://www.twitter.com/shar1z>
+
+-- 
+
+
+[image: photo]
+<http://getcloudify.org/?utm_source=EML-SIG&utm_medium=EML&utm_term=SIG-CFY&utm_content=EML-SIG-CFY-LG&utm_campaign=EML-SIG-CFY-09-15>
+*Sharone Zitzman*
+Community & Growth Lead - Cloudify, GigaSpaces
++972-54- <+972-54-22-66-463>559-9104 | sharoner at gigaspaces.com |
+http://getcloudify.org
+<http://getcloudify.org/?utm_source=EML-SIG&utm_medium=EML&utm_term=SIG-CFY&utm_content=EML-SIG-CFY-URL&utm_campaign=EML-SIG-CFY-09-15>
+  <https://il.linkedin.com/in/sharonez> <http://twitter.com/shar1z>
+<https://github.com/shar1z>
+<http://getcloudify.org/authors/sharone-zitzman/?utm_source=EML-SIG&utm_medium=EML&utm_term=SIG-CFY&utm_content=EML-SIG-CFY&utm_campaign=EML-SIG-CFY-09-15>
+
+
+
+
+-- 
+
+
+[image: photo]
+<http://getcloudify.org/?utm_source=EML-SIG&utm_medium=EML&utm_term=SIG-CFY&utm_content=EML-SIG-CFY-LG&utm_campaign=EML-SIG-CFY-09-15>
+*Sharone Zitzman*
+Community & Growth Lead - Cloudify, GigaSpaces
++972-54- <+972-54-22-66-463>559-9104 | sharoner at gigaspaces.com |
+http://getcloudify.org
+<http://getcloudify.org/?utm_source=EML-SIG&utm_medium=EML&utm_term=SIG-CFY&utm_content=EML-SIG-CFY-URL&utm_campaign=EML-SIG-CFY-09-15>
+  <https://il.linkedin.com/in/sharonez> <http://twitter.com/shar1z>
+<https://github.com/shar1z>
+<http://getcloudify.org/authors/sharone-zitzman/?utm_source=EML-SIG&utm_medium=EML&utm_term=SIG-CFY&utm_content=EML-SIG-CFY&utm_campaign=EML-SIG-CFY-09-15>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151020/3c4511b0/attachment-0001.html>
+
+From claire at openstack.org  Tue Oct 20 21:49:52 2015
+From: claire at openstack.org (Claire Massey)
+Date: Tue, 20 Oct 2015 16:49:52 -0500
+Subject: [Women-of-openstack] Women's Guide to Tokyo OpenStack Summit
+Message-ID: <3FBD5311-6018-492C-A790-A53693AAB5B5@openstack.org>
+
+Hi everyone,
+
+We?ve already shared most of this information with you - but here?s a friendly reminder. Below and on the attached guide you will find the women-specific events that we?ve planned throughout the Summit. Please download and save this guide/map so that you can easily navigate yourself around the Summit Campus. 
+
+First time Summit attendees- we have a Friendly Faces Meet-up for you on Tuesday morning before keynotes. This is a great time to get connected with your fellow Women of OpenStack who are experienced Summit goers and know all the pro-tips. Sign-up HERE <https://ibm.biz/Women_of_OpenStack_Tokyo_Meetup>.   
+
+Diversity - it?s a hot topic in the OpenStack Community right now and only 11% of Summit attendees are women. It?s clear that we?re an underrepresented minority, so please speak up! We encourage you to attend the Diversity working group and following session on Tuesday afternoon to make your voices heard. We?re also encouraging the OpenStack community to use the hashtag #WeAreOpenStack on social media to promote the diversity and inclusivity of the OpenStack community. Please use this hashtag, share your pictures from the Summit and encourage your colleagues to do the same. 
+
+Directions & Maps - the Summit Campus is a little challenging to find - so please carefully watch, read and download the helpful directions HERE <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#hotels> before you fly.  These directions will get you from the airports to the train station to the Summit Campus. 
+
+Make sure you kick-off the week by attending the Women of OpenStack Networking Happy Hour <https://www.eventbrite.com/e/women-of-openstack-networking-event-tokyo-summit-tickets-18935864681> on Monday evening. This is a great place to meet and mingle before the week gets hectic. BIG thank you to Intel and IBM for their continued sponsorship.
+
+We wish you all a safe trip to Tokyo and look forward to seeing you soon!
+
+Cheers,
+Claire
+
+
+All Women-Lead Summit Sessions - https://openstacksummitoctober2015tokyo.sched.org/?s=WOO <https://openstacksummitoctober2015tokyo.sched.org/?s=WOO>
+
+LUNCH
+Tables will be reserved for the Women of OpenStack each day (Tuesday - Thursday) in the Hot Buffet Lunch Room. Look for the flowers and ?Reserved? signs. 
+Kokushin room, PAMIR, Level 3 (Blue Bld #3 on maps)
+
+
+MONDAY, OCT 28
+
+Command Presence Workshop <http://sched.co/4Cce> Now at Max Capacity
+9:30am - 12:30pm
+Ogyoku room, Level 1 of PAMIR (Blue Bld #3 on maps)
+
+Women of OpenStack Networking Event - RSVP HERE! <https://www.eventbrite.com/e/women-of-openstack-networking-event-tokyo-summit-tickets-18935864681>
+RSVP Required, space is limited, nearing max capacity
+4:30-7:30pm
+Laputa Garden
+Bus transportation provided from Level 1 of PAMIR (Blue, Bld #3 on maps)
+
+
+TUESDAY, OCT 27
+
+Friendly Faces Meet-Up - first time summit attendees, this is for you!
+7:00am - 7:45am, before morning keynotes
+Komyo Lounge, Level 1 of the Grand Prince Hotel Takinawa (Orange, Blg #4 on maps)
+During the Tokyo Summit the Women of OpenStack will be helping people to connect so you don?t have to wander the halls alone. This is a great opportunity to meet others and become more active in the community. If you?d like to be involved in this program please add yourself to this Google doc: https://ibm.biz/Women_of_OpenStack_Tokyo_Meetup <https://ibm.biz/Women_of_OpenStack_Tokyo_Meetup>
+
+Diversity Working Group <http://sched.co/4Ffq>, 2:50pm - 3:30pm
+Rooms N1/N2, Lower level (underground) in Sakura (Green, #5 Blg on maps)
+Please join us for discussion on diversity topics in OpenStack community. 
+Topics:
+? Diversity working group update 
+? Results of diversity survey
+? How you can help
+
+Session: Let?s Talk About the Diversity of Our Community <http://sched.co/49vq>, 3:40pm - 4:20pm
+Seigyoku room, Level 1 of PAMIR (Blue, Blg #3 on maps)
+In Vancouver the OpenStack Board chartered a work group to explore and foster a diverse OpenStack Community. The basis for this is the belief that enlisting the broadest set of viewpoints and experience will enable us to create the most innovative and impactful technologies in support of the OpenStack Mission. A broad set of community members formed the Diversity Work Group that has worked over the Liberty cycle to form a framework for a diverse community through the creation of a Diversity Policy, integrated Diversity expectations into our Code of Conducts and identified initial areas of focus for extending the diversity of our community. Please come join us to discuss the team?s work and shape the future direction. 
+
+
+WEDNESDAY, OCT 28
+
+Working Breakfast Session <http://sched.co/4Cce>, 7:00am - 9:00pm, before morning keynotes
+Zuiko room, Level 2 of PAMIR (Blue, Blg #3 on maps)
+3rd Summit breakfast working session. We'll review what we have accomplished since the Paris and Vancouver Summits and hear lightning talks from two speakers who exemplify #WeAreOpenStack. Our first speaker, Xing Yang, is making a positive impact on OpenStack as a core Cinder and Manila contributor and our second speaker, Niki Acosta, is using her skills to grow the OpenStack ecosystem. We'll break into smaller groups to discuss the key lightening talk messages and identify actions for the Women of OpenStack to achieve over the next six months. Breakfast and coffee will be provided.
+
+#vBrownBag Tech Talks <http://openstacksummitoctober2015tokyo.sched.org/type/#vbrownbag%23>, 11:15am - 6:00pm
+Wakashiba room, Level 2 of PAMIR (Blue, Blg #3 on maps)
+The majority of the Tech Talks scheduled on Wednesday have women presenters.
+
+Tech Tools Lunch & Learn <http://sched.co/4RMg>, 12:45pm - 2:00pm
+Zuiko room, Level 2 of PAMIR (Blue, Blg #3 on maps)
+Prerequisite: Please have git and git-review installed on your laptops
+Git and Gerrit are some of the essential tools in getting started with OpenStack software development. Git is a free and open source version control system. It allows many software developers to work on a given project without requiring them to share a common network. Gerrit is a free, web-based team code collaboration tool. Developers in a team can review each other's modifications on their source code using a web browser and approve or reject those changes. It integrates closely with Git. In this session we will walk-through participants to submit a test patch to a repository in OpenStack. The process involves learning about git along with a cheat sheet of most useful commands and review process in Gerrit. Participants will walk away with working knowledge on these tools.
+
+
+THURSDAY, OCT 29
+
+Session: Overcoming Subtle Bias <http://sched.co/4A6U>, 11:50am - 12:30pm
+Seigyoku room, Level 1 of PAMIR (Blue, Blg #3 on maps)
+The Women of Openstack Working Group continues to go from strength to strength. With a record of over 600 women or 10% of the Vancouver Summit attendees, women are a growing and vocal presence in our extremely diverse community. Join this panel of women and minorities as we discuss the topic of subtle bias in the workplace and the OpenStack community and how to remove barriers to full participation in all aspects and roles. From PTL to code reviewer, there is a place for everyone to contribute to the fullest extent possible. Learn how to identify and overcome the subtle biases that can drag down even the most confident person. 
+? Identifying our own biases and tips for avoiding their influence
+? Looking beyond the surface: First impressions and how they can sway even the most seemingly impartial decision
+? On an IRC, everyone is equal: Using tools to level the playing field for everyone
+? Establishing criteria to ensure fair treatment for all
+
+Afternoon Women of OpenStack Sync, 4:00pm - 4:30pm
+Momiji Lounge, Level 1 of New Takanawa (Red, #1 Blg on maps) 
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151020/9e5cd6cc/attachment-0002.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: WomenOfOpenStackTokyoSummitMap.pdf
+Type: application/pdf
+Size: 602050 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151020/9e5cd6cc/attachment-0001.pdf>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151020/9e5cd6cc/attachment-0003.html>
+
+From claire at openstack.org  Wed Oct 21 19:16:36 2015
+From: claire at openstack.org (Claire Massey)
+Date: Wed, 21 Oct 2015 14:16:36 -0500
+Subject: [Women-of-openstack] Women's Guide to Tokyo OpenStack Summit
+In-Reply-To: <3FBD5311-6018-492C-A790-A53693AAB5B5@openstack.org>
+References: <3FBD5311-6018-492C-A790-A53693AAB5B5@openstack.org>
+Message-ID: <C9D202BD-3863-4407-994A-D6EF8137A56D@openstack.org>
+
+HI there,
+
+I forgot to mention that, weather permitting, the Monday evening Women of OpenStack party in Tokyo will be outdoors on a rooftop - so bring a jacket or sweater. The sun sets at 4:45pm. If the weather doesn?t cooperate then the party will move indoors.
+
+Safe travels and we?ll see you soon!
+
+Cheers,
+Claire 
+
+
+
+> On Oct 20, 2015, at 4:49 PM, Claire Massey <claire at openstack.org> wrote:
+> 
+> Hi everyone,
+> 
+> We?ve already shared most of this information with you - but here?s a friendly reminder. Below and on the attached guide you will find the women-specific events that we?ve planned throughout the Summit. Please download and save this guide/map so that you can easily navigate yourself around the Summit Campus. 
+> 
+> First time Summit attendees- we have a Friendly Faces Meet-up for you on Tuesday morning before keynotes. This is a great time to get connected with your fellow Women of OpenStack who are experienced Summit goers and know all the pro-tips. Sign-up HERE <https://ibm.biz/Women_of_OpenStack_Tokyo_Meetup>.   
+> 
+> Diversity - it?s a hot topic in the OpenStack Community right now and only 11% of Summit attendees are women. It?s clear that we?re an underrepresented minority, so please speak up! We encourage you to attend the Diversity working group and following session on Tuesday afternoon to make your voices heard. We?re also encouraging the OpenStack community to use the hashtag #WeAreOpenStack on social media to promote the diversity and inclusivity of the OpenStack community. Please use this hashtag, share your pictures from the Summit and encourage your colleagues to do the same. 
+> 
+> Directions & Maps - the Summit Campus is a little challenging to find - so please carefully watch, read and download the helpful directions HERE <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#hotels> before you fly.  These directions will get you from the airports to the train station to the Summit Campus. 
+> 
+> Make sure you kick-off the week by attending the Women of OpenStack Networking Happy Hour <https://www.eventbrite.com/e/women-of-openstack-networking-event-tokyo-summit-tickets-18935864681> on Monday evening. This is a great place to meet and mingle before the week gets hectic. BIG thank you to Intel and IBM for their continued sponsorship.
+> 
+> We wish you all a safe trip to Tokyo and look forward to seeing you soon!
+> 
+> Cheers,
+> Claire
+> 
+> 
+> All Women-Lead Summit Sessions - https://openstacksummitoctober2015tokyo.sched.org/?s=WOO <https://openstacksummitoctober2015tokyo.sched.org/?s=WOO>
+> 
+> LUNCH
+> Tables will be reserved for the Women of OpenStack each day (Tuesday - Thursday) in the Hot Buffet Lunch Room. Look for the flowers and ?Reserved? signs. 
+> Kokushin room, PAMIR, Level 3 (Blue Bld #3 on maps)
+> 
+> 
+> MONDAY, OCT 28
+> 
+> Command Presence Workshop <http://sched.co/4Cce> Now at Max Capacity
+> 9:30am - 12:30pm
+> Ogyoku room, Level 1 of PAMIR (Blue Bld #3 on maps)
+> 
+> Women of OpenStack Networking Event - RSVP HERE! <https://www.eventbrite.com/e/women-of-openstack-networking-event-tokyo-summit-tickets-18935864681>
+> RSVP Required, space is limited, nearing max capacity
+> 4:30-7:30pm
+> Laputa Garden
+> Bus transportation provided from Level 1 of PAMIR (Blue, Bld #3 on maps)
+> 
+> 
+> TUESDAY, OCT 27
+> 
+> Friendly Faces Meet-Up - first time summit attendees, this is for you!
+> 7:00am - 7:45am, before morning keynotes
+> Komyo Lounge, Level 1 of the Grand Prince Hotel Takinawa (Orange, Blg #4 on maps)
+> During the Tokyo Summit the Women of OpenStack will be helping people to connect so you don?t have to wander the halls alone. This is a great opportunity to meet others and become more active in the community. If you?d like to be involved in this program please add yourself to this Google doc: https://ibm.biz/Women_of_OpenStack_Tokyo_Meetup <https://ibm.biz/Women_of_OpenStack_Tokyo_Meetup>
+> 
+> Diversity Working Group <http://sched.co/4Ffq>, 2:50pm - 3:30pm
+> Rooms N1/N2, Lower level (underground) in Sakura (Green, #5 Blg on maps)
+> Please join us for discussion on diversity topics in OpenStack community. 
+> Topics:
+> ? Diversity working group update 
+> ? Results of diversity survey
+> ? How you can help
+> 
+> Session: Let?s Talk About the Diversity of Our Community <http://sched.co/49vq>, 3:40pm - 4:20pm
+> Seigyoku room, Level 1 of PAMIR (Blue, Blg #3 on maps)
+> In Vancouver the OpenStack Board chartered a work group to explore and foster a diverse OpenStack Community. The basis for this is the belief that enlisting the broadest set of viewpoints and experience will enable us to create the most innovative and impactful technologies in support of the OpenStack Mission. A broad set of community members formed the Diversity Work Group that has worked over the Liberty cycle to form a framework for a diverse community through the creation of a Diversity Policy, integrated Diversity expectations into our Code of Conducts and identified initial areas of focus for extending the diversity of our community. Please come join us to discuss the team?s work and shape the future direction. 
+> 
+> 
+> WEDNESDAY, OCT 28
+> 
+> Working Breakfast Session <http://sched.co/4Cce>, 7:00am - 9:00pm, before morning keynotes
+> Zuiko room, Level 2 of PAMIR (Blue, Blg #3 on maps)
+> 3rd Summit breakfast working session. We'll review what we have accomplished since the Paris and Vancouver Summits and hear lightning talks from two speakers who exemplify #WeAreOpenStack. Our first speaker, Xing Yang, is making a positive impact on OpenStack as a core Cinder and Manila contributor and our second speaker, Niki Acosta, is using her skills to grow the OpenStack ecosystem. We'll break into smaller groups to discuss the key lightening talk messages and identify actions for the Women of OpenStack to achieve over the next six months. Breakfast and coffee will be provided.
+> 
+> #vBrownBag Tech Talks <http://openstacksummitoctober2015tokyo.sched.org/type/#vbrownbag%23>, 11:15am - 6:00pm
+> Wakashiba room, Level 2 of PAMIR (Blue, Blg #3 on maps)
+> The majority of the Tech Talks scheduled on Wednesday have women presenters.
+> 
+> Tech Tools Lunch & Learn <http://sched.co/4RMg>, 12:45pm - 2:00pm
+> Zuiko room, Level 2 of PAMIR (Blue, Blg #3 on maps)
+> Prerequisite: Please have git and git-review installed on your laptops
+> Git and Gerrit are some of the essential tools in getting started with OpenStack software development. Git is a free and open source version control system. It allows many software developers to work on a given project without requiring them to share a common network. Gerrit is a free, web-based team code collaboration tool. Developers in a team can review each other's modifications on their source code using a web browser and approve or reject those changes. It integrates closely with Git. In this session we will walk-through participants to submit a test patch to a repository in OpenStack. The process involves learning about git along with a cheat sheet of most useful commands and review process in Gerrit. Participants will walk away with working knowledge on these tools.
+> 
+> 
+> THURSDAY, OCT 29
+> 
+> Session: Overcoming Subtle Bias <http://sched.co/4A6U>, 11:50am - 12:30pm
+> Seigyoku room, Level 1 of PAMIR (Blue, Blg #3 on maps)
+> The Women of Openstack Working Group continues to go from strength to strength. With a record of over 600 women or 10% of the Vancouver Summit attendees, women are a growing and vocal presence in our extremely diverse community. Join this panel of women and minorities as we discuss the topic of subtle bias in the workplace and the OpenStack community and how to remove barriers to full participation in all aspects and roles. From PTL to code reviewer, there is a place for everyone to contribute to the fullest extent possible. Learn how to identify and overcome the subtle biases that can drag down even the most confident person. 
+> ? Identifying our own biases and tips for avoiding their influence
+> ? Looking beyond the surface: First impressions and how they can sway even the most seemingly impartial decision
+> ? On an IRC, everyone is equal: Using tools to level the playing field for everyone
+> ? Establishing criteria to ensure fair treatment for all
+> 
+> Afternoon Women of OpenStack Sync, 4:00pm - 4:30pm
+> Momiji Lounge, Level 1 of New Takanawa (Red, #1 Blg on maps) 
+> Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+> 
+> 
+> <WomenOfOpenStackTokyoSummitMap.pdf>
+> 
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151021/54f18da2/attachment.html>
+
+From allison at openstack.org  Thu Oct 22 16:09:00 2015
+From: allison at openstack.org (Allison Price)
+Date: Thu, 22 Oct 2015 11:09:00 -0500
+Subject: [Women-of-openstack] #WeAreOpenStack
+Message-ID: <2D1D3C98-DA73-4EEC-925F-65B47E2C9C45@openstack.org>
+
+Hi everyone, 
+
+At the OpenStack Summit Tokyo, we are kicking off a social media initiative to promote diversity and inclusivity within the OpenStack community. This idea was developed by the Women of OpenStack, and we encourage everyone in the community, even if you aren?t able to attend the Summit, to join in! 
+
+To participate, use the hashtag #WeAreOpenStack on Twitter, Facebook or Instagram to show what the OpenStack community means to you. Posts can include pictures of you with fellow community members or your perspective of being a part of the community.  
+
+The OpenStack Summit Tokyo is simply going to be the launch of this hashtag, but after the Summit, continue to use the hashtag at different OpenStack events, including OpenStack Days, meetups and even day-to-day activities with your fellow Stackers. 
+
+Cheers,
+Allison
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151022/ca42f6a9/attachment.html>
+
+From Amy.Marrich at rackspace.com  Sun Oct 25 13:11:13 2015
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Sun, 25 Oct 2015 13:11:13 +0000
+Subject: [Women-of-openstack] Group me app
+Message-ID: <4e363687324846cb902fdbd61f0dc4e2@rackspace.com>
+
+It may be too late for this week but we might want to keep making a group to stay in tough in mind for Austin.
+
+Am
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151025/62258b62/attachment.html>
+
+From carol.l.barrett at intel.com  Sun Oct 25 20:42:35 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Sun, 25 Oct 2015 20:42:35 +0000
+Subject: [Women-of-openstack] Group me app
+In-Reply-To: <4e363687324846cb902fdbd61f0dc4e2@rackspace.com>
+References: <4e363687324846cb902fdbd61f0dc4e2@rackspace.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C9A5214@ORSMSX113.amr.corp.intel.com>
+
+Let's talk about that when we're together this week. I'm not sure what that is.
+Thanks
+Carol
+
+From: Amy Marrich [mailto:Amy.Marrich at rackspace.com]
+Sent: Sunday, October 25, 2015 10:11 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Group me app
+
+It may be too late for this week but we might want to keep making a group to stay in tough in mind for Austin.
+
+Am
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151025/484fd7b3/attachment.html>
+
+From sharoner at gigaspaces.com  Thu Oct 22 19:25:00 2015
+From: sharoner at gigaspaces.com (Sharone Zitzman)
+Date: Thu, 22 Oct 2015 22:25:00 +0300
+Subject: [Women-of-openstack] New OpenStack Community Slack
+Message-ID: <CAHL_q8tVG8xwYMbW=cA57awg-3Do4xy2puLTTbCGeCsxy-rdUw@mail.gmail.com>
+
+Hey Stackers,
+
+I created an OpenStack Community Slack, so we can chat before and during
+the summit, and share pics and experiences...and then keep it going year
+round.
+
+Use this link to get an auto-invite:
+https://openstackcommunityinvites.herokuapp.com
+
+Looking forward to an excellent event!
+Sharone
+-- 
+
+
+[image: photo]
+<http://getcloudify.org/?utm_source=EML-SIG&utm_medium=EML&utm_term=SIG-CFY&utm_content=EML-SIG-CFY-LG&utm_campaign=EML-SIG-CFY-09-15>
+*Sharone Zitzman*
+Community & Growth Lead - Cloudify, GigaSpaces
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151022/5e4f3270/attachment.html>
+
+From sleipnir012 at gmail.com  Mon Oct 26 19:48:44 2015
+From: sleipnir012 at gmail.com (sleipnir012 at gmail.com)
+Date: Tue, 27 Oct 2015 04:48:44 +0900
+Subject: [Women-of-openstack] Group me app
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5C9A5214@ORSMSX113.amr.corp.intel.com>
+References: <4e363687324846cb902fdbd61f0dc4e2@rackspace.com>
+ <2D352D0CD819F64F9715B1B89695400D5C9A5214@ORSMSX113.amr.corp.intel.com>
+Message-ID: <9AB134DD-E517-4F72-A528-16979CEDA6E2@gmail.com>
+
+We used the groupme app in two projects: LBaaS and Watcher and it works great. It is like a message system for a group of "invited" people so we are in contact and can reach out to each other all the time 
+
+Susanne
+
+Sent from my iPhone
+
+> On Oct 26, 2015, at 5:42 AM, Barrett, Carol L <carol.l.barrett at intel.com> wrote:
+> 
+> Let?s talk about that when we?re together this week. I?m not sure what that is.
+> Thanks
+> Carol
+>  
+> From: Amy Marrich [mailto:Amy.Marrich at rackspace.com] 
+> Sent: Sunday, October 25, 2015 10:11 PM
+> To: women-of-openstack at lists.openstack.org
+> Subject: [Women-of-openstack] Group me app
+>  
+> It may be too late for this week but we might want to keep making a group to stay in tough in mind for Austin.
+> 
+> Am
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151027/800a0b30/attachment.html>
+
+From sharoner at gigaspaces.com  Tue Oct 27 09:57:12 2015
+From: sharoner at gigaspaces.com (Sharone Zitzman)
+Date: Tue, 27 Oct 2015 12:57:12 +0300
+Subject: [Women-of-openstack] Community Open Space - Tomorrow 10AM |
+	Building 1- Hotel Lobby
+In-Reply-To: <CAHL_q8ty7tP0vQhYJzwzXKb7hbSDAyiW3crjKdmLRg2Q0XaB9Q@mail.gmail.com>
+References: <CAHL_q8ty7tP0vQhYJzwzXKb7hbSDAyiW3crjKdmLRg2Q0XaB9Q@mail.gmail.com>
+Message-ID: <CAHL_q8uMNT1nMp9aE9ahMwcaXbXdxk0TbKjtnFDBrD1Q+KnKTg@mail.gmail.com>
+
+Hey Folks,
+
+Just a quick reminder that the community open space is happening tomorrow
+morning in the Prince New Takanawa Hotel lobby at 10AM.
+
+Please come to share your experiences with OpenStack community building,
+and lessons learned.
+
+Here's a link: https://m.facebook.com/events/933499416688213
+
+Looking forward to meeting you all.
+
+Regards,
+Sharone
+@shar1z
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151027/5cc7ac23/attachment.html>
+
+From ruchi.bhargava at intel.com  Thu Oct 29 07:14:54 2015
+From: ruchi.bhargava at intel.com (Bhargava, Ruchi)
+Date: Thu, 29 Oct 2015 07:14:54 +0000
+Subject: [Women-of-openstack] Women of OpenStack Sync & Networking @4pm
+Message-ID: <A7ABD22757C7EA4D9B9F00DDA880BB9B7BD17980@ORSMSX101.amr.corp.intel.com>
+
+Sounds like someone has set up a nice special area in the Huawei-IBM lounge area called as Momiji lounge ? with coffee and snacks.
+The FN Tech ladies were wondering why are the Women of OpenStack not here? So I just volunteered to send this email ? so if you are still in Tokyo, please walk on to the area and enjoy some snacks and network with other women of OpnStack!
+
+Ruchi
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151029/4c65ecc6/attachment.html>
+
+From carol.l.barrett at intel.com  Thu Oct 29 07:40:24 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Thu, 29 Oct 2015 07:40:24 +0000
+Subject: [Women-of-openstack] Women of OpenStack Sync & Networking @4pm
+In-Reply-To: <A7ABD22757C7EA4D9B9F00DDA880BB9B7BD17980@ORSMSX101.amr.corp.intel.com>
+References: <A7ABD22757C7EA4D9B9F00DDA880BB9B7BD17980@ORSMSX101.amr.corp.intel.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5C9AF40F@ORSMSX113.amr.corp.intel.com>
+
+Thanks Ruchi!
+
+From: Bhargava, Ruchi [mailto:ruchi.bhargava at intel.com]
+Sent: Thursday, October 29, 2015 4:15 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Women of OpenStack Sync & Networking @4pm
+
+Sounds like someone has set up a nice special area in the Huawei-IBM lounge area called as Momiji lounge ? with coffee and snacks.
+The FN Tech ladies were wondering why are the Women of OpenStack not here? So I just volunteered to send this email ? so if you are still in Tokyo, please walk on to the area and enjoy some snacks and network with other women of OpnStack!
+
+Ruchi
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151029/874a059a/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Thu Oct 29 07:57:26 2015
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Thu, 29 Oct 2015 07:57:26 +0000
+Subject: [Women-of-openstack] Women of OpenStack Sync & Networking @4pm
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5C9AF40F@ORSMSX113.amr.corp.intel.com>
+References: <A7ABD22757C7EA4D9B9F00DDA880BB9B7BD17980@ORSMSX101.amr.corp.intel.com>,
+ <2D352D0CD819F64F9715B1B89695400D5C9AF40F@ORSMSX113.amr.corp.intel.com>
+Message-ID: <A4B235CE-C83E-49E9-A610-B2658AE64779@sandisk.com>
+
+Thanks.  Is this in the new Takanawa hotel?
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+On Oct 29, 2015, at 4:40 PM, Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>> wrote:
+
+Thanks Ruchi!
+
+From: Bhargava, Ruchi [mailto:ruchi.bhargava at intel.com]
+Sent: Thursday, October 29, 2015 4:15 PM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Women of OpenStack Sync & Networking @4pm
+
+Sounds like someone has set up a nice special area in the Huawei-IBM lounge area called as Momiji lounge - with coffee and snacks.
+The FN Tech ladies were wondering why are the Women of OpenStack not here? So I just volunteered to send this email - so if you are still in Tokyo, please walk on to the area and enjoy some snacks and network with other women of OpnStack!
+
+Ruchi
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151029/4117fd8f/attachment.html>
+
+From Amy.Marrich at rackspace.com  Thu Oct 29 07:59:38 2015
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Thu, 29 Oct 2015 07:59:38 +0000
+Subject: [Women-of-openstack] Women of OpenStack Sync & Networking @4pm
+In-Reply-To: <A4B235CE-C83E-49E9-A610-B2658AE64779@sandisk.com>
+References: <A7ABD22757C7EA4D9B9F00DDA880BB9B7BD17980@ORSMSX101.amr.corp.intel.com>
+ <2D352D0CD819F64F9715B1B89695400D5C9AF40F@ORSMSX113.amr.corp.intel.com>
+ <A4B235CE-C83E-49E9-A610-B2658AE64779@sandisk.com>
+Message-ID: <D25800D9.1485D%amy.marrich@rackspace.com>
+
+Nithya,
+
+It's where the IBM name machines are.
+
+Thanks,
+
+Amy
+
+From: Nithya Ruff <Nithya.Ruff at sandisk.com<mailto:Nithya.Ruff at sandisk.com>>
+Date: Thursday, October 29, 2015 at 4:57 PM
+To: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Women of OpenStack Sync & Networking @4pm
+
+Thanks.  Is this in the new Takanawa hotel?
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+On Oct 29, 2015, at 4:40 PM, Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>> wrote:
+
+Thanks Ruchi!
+
+From: Bhargava, Ruchi [mailto:ruchi.bhargava at intel.com]
+Sent: Thursday, October 29, 2015 4:15 PM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Women of OpenStack Sync & Networking @4pm
+
+Sounds like someone has set up a nice special area in the Huawei-IBM lounge area called as Momiji lounge - with coffee and snacks.
+The FN Tech ladies were wondering why are the Women of OpenStack not here? So I just volunteered to send this email - so if you are still in Tokyo, please walk on to the area and enjoy some snacks and network with other women of OpnStack!
+
+Ruchi
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151029/f6ce74ae/attachment-0001.html>
+

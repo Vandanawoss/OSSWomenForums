@@ -1,0 +1,316 @@
+From stormy.peters@gmail.com  Mon Aug 24 21:20:53 2009
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 39C8775006A
+	for <gnome-women-list@gnome.org>; Mon, 24 Aug 2009 21:20:53 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 2) (firewall!) (up: 2873 hrs),
+	(distance 14, link: (Google 2)), [74.125.92.25]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TMCj8BMCU23W for <gnome-women-list@gnome.org>;
+	Mon, 24 Aug 2009 21:20:44 +0000 (GMT)
+Received: from qw-out-2122.google.com (qw-out-2122.google.com [74.125.92.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 6A2BA75006B
+	for <gnome-women-list@gnome.org>; Mon, 24 Aug 2009 21:20:35 +0000 (GMT)
+Received: by qw-out-2122.google.com with SMTP id 3so1500084qwe.9
+	for <gnome-women-list@gnome.org>; Mon, 24 Aug 2009 14:20:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:sender:received:in-reply-to
+	:references:date:x-google-sender-auth:message-id:subject:from:to
+	:content-type:content-transfer-encoding;
+	bh=0eRgp1m9vNCFbqlmxqRYaTNNkiN5uSvFEHwSLw4WlA8=;
+	b=D56y1RbbL3wXFzaxmMWF+m87+bdzOMbR8Y0TSpayI2KkxUC+7hPMiFsVMdrLBJfOR7
+	+a9m8rf+NpUHL71CI+R/h1S+B7duDO3jyh91CUKOzVUXJUvpPA/6MNg6R8lltR/fe4xx
+	NysTI7slzr3k4uBsxtfLaaXWGQViZwPE/8Foo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:in-reply-to:references:date
+	:x-google-sender-auth:message-id:subject:from:to:content-type
+	:content-transfer-encoding;
+	b=OUliRRd710j+9A+29YanjYkp760FUbNmcyiCQUrK2jOgXrNHJ7T+GXG/NLpKPd7fS4
+	K2Wa/yoVQsPeEOI75+YGK5UhbenAdn7qTbOEC0G5K5TUs067uXahuRQKyT4y6tv3JgMm
+	cdcXCc34M5dKPpnd+rs9t+btnD5LVn+nW+Q1Y=
+MIME-Version: 1.0
+Sender: stormy.peters@gmail.com
+Received: by 10.224.96.77 with SMTP id g13mr3320703qan.305.1251148834081; Mon, 
+	24 Aug 2009 14:20:34 -0700 (PDT)
+In-Reply-To: <7ceb3e960908240920s62dc163cyf5b18d0a2d25a859@mail.gmail.com>
+References: <7ceb3e960908240901l351d8a68q6f0ab500cbf9a0ce@mail.gmail.com>
+	<7ceb3e960908240920s62dc163cyf5b18d0a2d25a859@mail.gmail.com>
+Date: Mon, 24 Aug 2009 15:20:34 -0600
+X-Google-Sender-Auth: ee13d8b4873c32cf
+Message-ID: <7ceb3e960908241420o1cff27d2r7c9a47a0a73abe82@mail.gmail.com>
+From: Stormy Peters <stormy@gnome.org>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Subject: [gnome-women] Fwd: The Free Software Foundation will host a
+	mini-summit on Women in Free Software (with GNOME Foundation
+	support)
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.10
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 24 Aug 2009 21:20:53 -0000
+
+I should have sent this to this list as well!
+
+Stormy
+
+
+---------- Forwarded message ----------
+From: Stormy Peters <stormy@gnome.org>
+Date: Mon, Aug 24, 2009 at 10:20 AM
+Subject: The Free Software Foundation will host a mini-summit on Women
+in Free Software (with GNOME Foundation support)
+To: foundation-announce <foundation-announce@gnome.org>, GNOME
+Foundation <foundation-list@gnome.org>
+
+
+http://www.fsf.org/news/summit-on-women-in-free-software
+
+The Free Software Foundation will host a mini-summit on Women in Free
+Software to discuss how the free software community can cultivate and
+increase participation by women in free software's development and
+activism communities.
+
+BOSTON, Massachusetts, USA -- Monday, August 24th, 2009 -- On
+September 19, 2009, Deborah Nicholson of the Free Software Foundation
+(FSF), Stormy Peters of the GNOME Foundation and Hillary Rettig, free
+software activist and author of The Lifelong Activist, will gather a
+small group of women activists, thinkers, and scholars to identify
+strategies and initiatives that will foster sustained participation by
+women in the movement.
+
+As organizations representing an international movement to bring free
+software and freedom to everyone, the FSF and GNOME Foundation are
+seeking practical initiatives to increase the participation of women
+in the movement. Historically, women have been underrepresented in the
+technology and free software communities, and despite recent increases
+in the adoption of free software, the situation has not significantly
+improved. Deborah Nicholson said, "At the summit, we will discuss
+existing entry points, why women don't always feel invited, and when
+they do, why they don't always stay. Individual projects have found
+ways to make women welcome and we will look at some of these examples
+and discuss how to build on those successes. We will also identify new
+strategies and tactics to help create a balanced community."
+
+Stormy Peters said, "The Women in Free Software mini-summit will be an
+opportunity to discuss how the FSF and the GNOME Foundation can work
+with the free software community to more effectively encourage women
+to participate, and to make policy and program recommendations to the
+FSF and the wider community to further this goal."
+About the Free Software Foundation
+
+The Free Software Foundation, founded in 1985, is dedicated to
+promoting computer users' right to use, study, copy, modify, and
+redistribute computer programs. The FSF promotes the development and
+use of free (as in freedom) software -- particularly the GNU operating
+system and its GNU/Linux variants -- and free documentation for free
+software. The FSF also helps to spread awareness of the ethical and
+political issues of freedom in the use of software, and its Web sites,
+located at fsf.org and gnu.org, are an important source of information
+about GNU/Linux. Donations to support the FSF's work can be made at
+http://donate.fsf.org. Its headquarters are in Boston, MA, USA.
+Media Contacts
+
+Peter T. Brown
+Executive Director
+Free Software Foundation
++1 (617) 542 5942
+campaigns@fsf.org
+From marinaz@redhat.com  Thu Aug 27 01:13:18 2009
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 014857500C0
+	for <gnome-women-list@gnome.org>; Thu, 27 Aug 2009 01:13:18 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.799
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.799 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, L_P0F_UNKN=0.8]
+X-Amavis-OS-Fingerprint: UNKNOWN
+	[S4:43:1:60:M1360,N,N,N,N,N,N,N,N,N,N,N,N,N,N:!:?:?] (NAT!), (link:
+	(Google/AOL)), [209.132.183.28]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BI-euvEX-LcA for <gnome-women-list@gnome.org>;
+	Thu, 27 Aug 2009 01:13:08 +0000 (GMT)
+Received: from mx1.redhat.com (mx1.redhat.com [209.132.183.28])
+	by menubar.gnome.org (Postfix) with ESMTP id 551E0750092
+	for <gnome-women-list@gnome.org>; Thu, 27 Aug 2009 01:13:00 +0000 (GMT)
+Received: from int-mx08.intmail.prod.int.phx2.redhat.com
+	(int-mx08.intmail.prod.int.phx2.redhat.com [10.5.11.21])
+	by mx1.redhat.com (8.13.8/8.13.8) with ESMTP id n7R1CwCm021742
+	for <gnome-women-list@gnome.org>; Wed, 26 Aug 2009 21:12:58 -0400
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by int-mx08.intmail.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP
+	id n7R1CwZM020647
+	for <gnome-women-list@gnome.org>; Wed, 26 Aug 2009 21:12:58 -0400
+Date: Wed, 26 Aug 2009 21:12:58 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <1828627537.403131251335578313.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.5.41]
+X-Scanned-By: MIMEDefang 2.67 on 10.5.11.21
+Subject: [gnome-women] Round of introductions
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 27 Aug 2009 01:13:18 -0000
+
+Hi!
+
+The broader free software community has restarted the discussion about women participation in open source by a series of interviews in the ROSE Blog [1], plans to host a women in free software mini-summit [2], and approaching the GNOME project about running another women outreach program [3].
+
+Running another women outreach program is a very concrete way of getting more women contributors, and I'd like to ask you to review the current ideas for the program on the wiki and share any feedback you have.
+
+http://live.gnome.org/GnomeWomen/OutreachProgram
+
+This also sounds like a great time for re-vitalizing the Women in GNOME community. So I would like to propose we do a round of introductions. The first bullet point on the GnomeWomen wiki page is "providing role models by increasing the visibility of active women in GNOME" and I think it is a particularly effective way of attracting new contributors. By sharing what we love about our involvement in GNOME, we can show that it really is a women-friendly environment and serve as a starting point of contact for women who want to get involved.
+
+Finally, please join the Women in GNOME group I created on Facebook:
+
+http://www.facebook.com/group.php?gid=118943919669
+
+As for my introduction, I work as a software developer on the GNOME Shell project [4] at Red Hat. Working on the GNOME Shell is particularly exciting because it is the next generation of the GNOME desktop or GNOME 3. I get to code many parts of the desktop interface, weigh in on the design decisions, and make sure that our project is friendly to new contributors by updating the wiki and offering answers to anything I know about on IRC. Because GNOME Shell is a community project, I get to work with people from Red Hat and with anyone from the GNOME community who decides to contribute. Everyone is top-notch and motivated, and while people have strong opinions, they are generally polite. I have recently started blogging [5], and hope to keep my blog updated with the GNOME Shell news and posts that will encourage women to get involved in GNOME.
+
+Now it's your turn :)!
+
+Marina
+
+[1] http://www.linuxpromagazine.com/Online/Blogs/ROSE-Blog-Rikki-s-Open-Source-Exchange
+[2] http://www.fsf.org/news/summit-on-women-in-free-software
+[3] http://live.gnome.org/GnomeWomen/OutreachProgram
+[4] http://live.gnome.org/GnomeShell
+[5] http://blogs.gnome.org/marina
+From duffy@redhat.com  Thu Aug 27 20:14:18 2009
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 87FD37500C7
+	for <gnome-women-list@gnome.org>; Thu, 27 Aug 2009 20:14:18 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.799
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.799 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, L_P0F_UNKN=0.8]
+X-Amavis-OS-Fingerprint: UNKNOWN
+	[S4:43:1:60:M1360,N,N,N,N,N,N,N,N,N,N,N,N,N,N:!:?:?] (NAT!), (link:
+	(Google/AOL)), [209.132.183.28]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id P9itc9WF9eLh for <gnome-women-list@gnome.org>;
+	Thu, 27 Aug 2009 20:14:10 +0000 (GMT)
+Received: from mx1.redhat.com (mx1.redhat.com [209.132.183.28])
+	by menubar.gnome.org (Postfix) with ESMTP id 0BC0075013A
+	for <gnome-women-list@gnome.org>; Thu, 27 Aug 2009 20:14:01 +0000 (GMT)
+Received: from int-mx08.intmail.prod.int.phx2.redhat.com
+	(int-mx08.intmail.prod.int.phx2.redhat.com [10.5.11.21])
+	by mx1.redhat.com (8.13.8/8.13.8) with ESMTP id n7RKDx9C014906
+	for <gnome-women-list@gnome.org>; Thu, 27 Aug 2009 16:13:59 -0400
+Received: from [10.11.12.124] (vpn-12-124.rdu.redhat.com [10.11.12.124])
+	by int-mx08.intmail.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP
+	id n7RKDwbO009321; Thu, 27 Aug 2009 16:13:59 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+In-Reply-To: <1828627537.403131251335578313.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <1828627537.403131251335578313.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Content-Type: text/plain
+Date: Thu, 27 Aug 2009 16:08:26 -0400
+Message-Id: <1251403706.8108.15.camel@localhost.localdomain>
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-Scanned-By: MIMEDefang 2.67 on 10.5.11.21
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] Round of introductions
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 27 Aug 2009 20:14:18 -0000
+
+Hi:)
+
+On Wed, 2009-08-26 at 21:12 -0400, Marina Zhurakhinskaya wrote:
+> Running another women outreach program is a very concrete way of
+>  getting more women contributors, and I'd like to ask you to review the
+>  current ideas for the program on the wiki and share any feedback you
+>  have.
+> 
+> http://live.gnome.org/GnomeWomen/OutreachProgram
+
+Well, the one thing that I thought of is it's programming-centric. If
+it's going to be based on GNOME shell you might want a designer or a
+docs writer maybe? Just an idea.
+
+> This also sounds like a great time for re-vitalizing the Women in GNOME
+>  community. So I would like to propose we do a round of introductions.
+>  The first bullet point on the GnomeWomen wiki page is "providing role
+>  models by increasing the visibility of active women in GNOME" and I
+>  think it is a particularly effective way of attracting new
+>  contributors. By sharing what we love about our involvement in GNOME,
+>  we can show that it really is a women-friendly environment and serve
+>  as a starting point of contact for women who want to get involved.
+
+Unfortunately I'm not quite as involved in GNOME as I used to be, just
+for lack of time. :( I'm an interaction designer with Red Hat and I do a
+lot of UI mockups, user research, and sometimes marketing stuff too.
+Lately I've been really involved in doing these things for Fedora
+specifically (although when I do rich-client mockups they are always for
+GNOME using the HIG :) ), but in the past I have worked on things like
+the GNOME brand book and template for the site that's currently in use
+at gnome.org, and some various artworks and things like that. 
+
+As a designer my favorite thing about GNOME is the design awareness that
+is part of the community - rarely do I have to get any GNOME developers
+I work with up-to-speed becaues they already know their stuff and
+already recognize the value of design. I can dig in and get working
+without having to argue design's case - folks are already sold. :)
+
+Are there any designers or folks interested in design and usability on
+the list?
+
+~m
+

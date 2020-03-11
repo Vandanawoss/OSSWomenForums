@@ -1,0 +1,134 @@
+From schweingruber at pharma-traduction.ch  Thu Sep 30 12:12:27 2010
+From: schweingruber at pharma-traduction.ch (Myriam Schweingruber)
+Date: Thu, 30 Sep 2010 12:12:27 +0200
+Subject: [Kde-women]
+	=?utf-8?q?FYI=3A_Talk_in_Z=C3=BCrich_next_week_-_=22Women_in_Ope?=
+	=?utf-8?q?n_Source=22?=
+Message-ID: <AANLkTim5iPYx9gnVAHE_WoCKJ6-gQdD9Lkp=FhmKpVy8@mail.gmail.com>
+
+Hi all, (German below)
+
+I have been invited by ch/open to give a presentation on the subject
+"Women in OpenSource".
+The presentation will be held in Z?rich next Thursday, October 7 at
+18:00 at Technopark Z?rich West. For more information see the enclosed
+announce below.
+
+If you are in Z?rich on that day I would love to meet you there :)
+
+
+Regards, Myriam.
+
+PS. Although the talk is scheduled in German I can switch to English
+as well if needed
+
+
+Hallo zusammen,
+
+Ich bin von ch/open eingeladen worden, einen Vortrag zum Thema "Frauen
+in der Open Source Szene" zu halten. Der Vortrag wir n?chsten
+Donnerstag, 7. Oktober um 18:00 im Technopark Z?rich West stattfinden.
+Alles weitere k?nnt ihr der untenstehenden Nachricht entnehmen.
+
+Es w?rde mich freuen, euch dort zu sehen :)
+
+
+Lieber Gruss, Myriam.
+
+
+---------- Weitergeleitete Nachricht ----------
+Von: Ursula Burri (/ch/open) <uburri at ch-open.ch>
+Datum: 20. September 2010 15:00
+Betreff: [/ch/open] 7.10.2010: Frauen in der Open Source Szene
+An: Swiss Open Systems User Group <info at ch-open.ch>
+
+
+
+Sponsoren der /ch/open:
+4teamwork, Bern <http://www.4teamwork.ch/>
+Acceleris GmbH, Zollikofen <http://www.acceleris.ch/>
+AdNovum Informatik AG, Z?rich <http://www.adnovum.ch/>
+Bedag Informatik AG, Bern <http://www.bedag.ch/>
+Boll Engineering AG, Wettingen  <http://www.boll.ch/>
+Digicomp Academy AG <http://www.digicomp.ch/>
+H?rlimann Informatik AG, Zufikon <http://www.hi-ag.ch/>
+indato GmbH, Bern <http://www.indato.ch/>
+Ingres Germany GmbH <http://www.ingres.com/>
+leanux.ch AG, Volketswil <http://www.leanux.ch/>
+Leutert NetServices, Effretikon <http://www.wireshark.ch/>
+mimacom ag, Bern <http://www.mimacom.ch>
+Object Engineering GmbH, Uitikon <http://www.objeng.ch/>
+RealStuff Informatik AG, Bern <http://www.realstuff.ch>
+Red Hat Switzerland , Dietlikon <http://www.redhat.ch/>
+Sw-eng. Software Engineering GmbH <http://www.sw-eng.ch/>
+Stevens, Peter <http://www.sierra-charlie.com/course/index-de.php>
+terreActive AG, Aarau <http://www.terreactive.ch/>
+Zentrum f?r Informatik AG <http://www.zfi.ch/>
+
+
+Sehr geehrte Mitglieder und InteressentInnen
+
+Wir m?chten Sie einladen, an unserem n?chsten Event teilzunehmen und
+den Anlass unter m?glichen InteressentInnen bekannt zu machen:
+
+Donnerstag, 07.10.10, Technopark Zuerich, Raum Newton 1011
+18:00 - ca. 19:30 Uhr:
+<http://www.ch-open.ch/events/2010/frauen_und_opensource.html>
+
+Anschliessend an den Vortrag sind Sie zu einem Ap?ro eingeladen.
+
+
+7.10.2010: Frauen in der Open Source Szene
+==========================================
+
+Referentin:
+-----------
+Myriam Schweingruber
+
+
+Abstract:
+---------
+Im Gegensatz zum Bereich der propriet?ren Informatik sind Frauen in
+Freier Software und Open Source immer noch recht selten. Was sind die
+Gr?nde und wie kann man das ?ndern? Nach einer kurzen Vorstellung
+meiner Aktivit?ten werde ich probieren, die Gr?nde abzugrenzen und
+m?gliche L?sungen aufzeichnen.
+
+
+Bio:
+----
+Myriam Schweingruber ist eigentlich Apothekerin und ?bersetzerin, hat
+aber schon seit langem ein grosses Interesse f?r Informatik und Freie
+Software. Sie ist Gr?ndungsmitglied von Wilhelm Tux, Fellow der FSFE
+und arbeitet aktiv bei KDE, Amarok und Kubuntu mit. Ihr Interesse gilt
+auch der Situation von Frauen in der Informatik, mit besonderem
+Schwerpunkt auf Frauen in Freier Software. Sie ist daher auch Mitglied
+bei Ubuntu Women und KDE Women.
+
+
+Wir freuen uns ?ber Ihre Anmeldung unter
+<http://www.ch-open.ch/events/2010/frauen_und_opensource.html>.
+
+Mit freundlichen Gruessen
+Ursula Burri
+
+
+
+--
+------------------------------------------------------------------------
+Swiss Open Systems User Group    Tel.:   +41 44 350 26 56
+/ch/open                         Fax:    +41 44 350 26 55
+Postfach 2322                    E-mail: <mailto:info at ch-open.ch>
+CH-8033 Zuerich                  WWW:    <http://www.ch-open.ch>
+Sekretariat Ursula Burri         E-mail: <mailto:uburri at ch-open.ch>
+
+/ch/open ist Mitglied von ICTswitzerland <http://www.ictswitzerland.ch/>
+------------------------------------------------------------------------
+Open Systems for open minded people!
+
+-- 
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+

@@ -1,0 +1,1505 @@
+From kendall at openstack.org  Mon Feb  1 14:11:58 2016
+From: kendall at openstack.org (Kendall Waters)
+Date: Mon, 1 Feb 2016 08:11:58 -0600
+Subject: [Women-of-openstack] NEW DEADLINE: Feb 2 Call for Speakers -
+	OpenStack Summit Austin
+Message-ID: <238AC2E4-1A6D-4094-8E03-1A31C95F005D@openstack.org>
+
+Hi everyone,
+
+The Call for Speakers unexpectedly closed early. It is now open again and the deadline has been extended for one more day. The NEW deadline to submit a talk is February 2 at 11:59pm PST (February 3 at 7:59 UTC).
+
+Please submit your talks HERE <https://www.openstack.org/summit-login/login?BackURL=/summit/austin-2016/call-for-speakers/>!
+
+We apologize for the error and any inconvenience it may have caused you. If you have any questions, please email speakersupport at openstack.org.
+
+Cheers,
+Kendall
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160201/327bf926/attachment.html>
+
+From ruchi.bhargava at intel.com  Tue Feb  2 13:43:40 2016
+From: ruchi.bhargava at intel.com (Bhargava, Ruchi)
+Date: Tue, 2 Feb 2016 13:43:40 +0000
+Subject: [Women-of-openstack] Looking for a man of the Inclusivity panel
+Message-ID: <y754x0ed20oh8jgktw8ftpw1.1454420614258@email.android.com>
+
+I would suggest Mark Muehl who leads the Comcast effort, I have pinged him and he is willing to participate if we still have yhe slot available
+Let me know
+Thx
+Ruchi
+
+
+
+Sent via the Samsung GALAXY S? 5, an AT&T 4G LTE smartphone
+
+
+-------- Original message --------
+From: Beth Cohen <bfcohen at luthcomputer.com>
+Date: 1/29/2016 13:17 (GMT+00:00)
+To: "Johnston, Tamara" <Tamara.Johnston at emc.com>, "Barrett, Carol L" <carol.l.barrett at intel.com>, women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Looking for a man of the Inclusivity panel
+
+Folks -
+Here is more about the panel:
+
+
+Following up on the themes related to gender equality presented at the previous Summit talks sponsored by The Women of OpenStack working group, this session will focus on our vision of a world where the OpenStack community is truly and completely blind to meaningless differences in gender, color, creed and culture. What will this new world look like? How will it differ from the current one?
+
+A panel of people from all walks of life will explore what that future is and what we can do as a community as a whole to achieve it.
+
+I am looking for a man who is supportive of the OpenStack culture of inclusivity and can represent the man's perspective of how we will reach full equality.
+
+Beth
+
+On 1/28/2016 6:22 PM, Johnston, Tamara wrote:
+- WOO Mailist.
+
+I had the same question :).  I considered a few folks, but it would help to understand what characteristics we?re looking for and what?s expected of this person during the upcoming Summit.
+
+Thanks!
+
+Tamara Joh
+
+From shilla.saebi at gmail.com  Tue Feb  2 14:01:44 2016
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Tue, 2 Feb 2016 09:01:44 -0500
+Subject: [Women-of-openstack] Looking for a man of the Inclusivity panel
+In-Reply-To: <y754x0ed20oh8jgktw8ftpw1.1454420614258@email.android.com>
+References: <y754x0ed20oh8jgktw8ftpw1.1454420614258@email.android.com>
+Message-ID: <CAPrU3jF8V4NyFjkQbyeAy6Y0FUm+KNHAoJmYOdJ-9UK_Uu2Kzw@mail.gmail.com>
+
++1
+
+On Tue, Feb 2, 2016 at 8:43 AM, Bhargava, Ruchi <ruchi.bhargava at intel.com>
+wrote:
+
+> I would suggest Mark Muehl who leads the Comcast effort, I have pinged him
+> and he is willing to participate if we still have yhe slot available
+> Let me know
+> Thx
+> Ruchi
+>
+>
+>
+> Sent via the Samsung GALAXY S? 5, an AT&T 4G LTE smartphone
+>
+>
+> -------- Original message --------
+> From: Beth Cohen <bfcohen at luthcomputer.com>
+> Date: 1/29/2016 13:17 (GMT+00:00)
+> To: "Johnston, Tamara" <Tamara.Johnston at emc.com>, "Barrett, Carol L" <
+> carol.l.barrett at intel.com>, women-of-openstack at lists.openstack.org
+> Subject: Re: [Women-of-openstack] Looking for a man of the Inclusivity
+> panel
+>
+> Folks -
+> Here is more about the panel:
+>
+>
+> Following up on the themes related to gender equality presented at the
+> previous Summit talks sponsored by The Women of OpenStack working group,
+> this session will focus on our vision of a world where the OpenStack
+> community is truly and completely blind to meaningless differences in
+> gender, color, creed and culture. What will this new world look like? How
+> will it differ from the current one?
+>
+> A panel of people from all walks of life will explore what that future is
+> and what we can do as a community as a whole to achieve it.
+>
+> I am looking for a man who is supportive of the OpenStack culture of
+> inclusivity and can represent the man's perspective of how we will reach
+> full equality.
+>
+> Beth
+>
+> On 1/28/2016 6:22 PM, Johnston, Tamara wrote:
+> - WOO Mailist.
+>
+> I had the same question :).  I considered a few folks, but it would help
+> to understand what characteristics we?re looking for and what?s expected of
+> this person during the upcoming Summit.
+>
+> Thanks!
+>
+> Tamara Joh
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160202/cc161f77/attachment.html>
+
+From suzy1316 at gmail.com  Tue Feb  2 17:39:14 2016
+From: suzy1316 at gmail.com (Suzy Greenberg)
+Date: Tue, 02 Feb 2016 17:39:14 +0000
+Subject: [Women-of-openstack] Looking for a man of the Inclusivity panel
+In-Reply-To: <CAPrU3jF8V4NyFjkQbyeAy6Y0FUm+KNHAoJmYOdJ-9UK_Uu2Kzw@mail.gmail.com>
+References: <y754x0ed20oh8jgktw8ftpw1.1454420614258@email.android.com>
+ <CAPrU3jF8V4NyFjkQbyeAy6Y0FUm+KNHAoJmYOdJ-9UK_Uu2Kzw@mail.gmail.com>
+Message-ID: <CAAmTNJ2p66HGgA2O3dYgQF2Tyim3PqgUcj+TJc1rSS78rsfMyQ@mail.gmail.com>
+
+Imad Sousou is passionate about this and on the OpenStack board of
+directors. He is available and very interested in being the male
+representative on this panel. Please let me know who I should work with on
+next steps.
+On Tue, Feb 2, 2016 at 6:04 AM Shilla Saebi <shilla.saebi at gmail.com> wrote:
+
+> +1
+>
+> On Tue, Feb 2, 2016 at 8:43 AM, Bhargava, Ruchi <ruchi.bhargava at intel.com>
+> wrote:
+>
+>> I would suggest Mark Muehl who leads the Comcast effort, I have pinged
+>> him and he is willing to participate if we still have yhe slot available
+>> Let me know
+>> Thx
+>> Ruchi
+>>
+>>
+>>
+>> Sent via the Samsung GALAXY S? 5, an AT&T 4G LTE smartphone
+>>
+>>
+>> -------- Original message --------
+>> From: Beth Cohen <bfcohen at luthcomputer.com>
+>> Date: 1/29/2016 13:17 (GMT+00:00)
+>> To: "Johnston, Tamara" <Tamara.Johnston at emc.com>, "Barrett, Carol L" <
+>> carol.l.barrett at intel.com>, women-of-openstack at lists.openstack.org
+>> Subject: Re: [Women-of-openstack] Looking for a man of the Inclusivity
+>> panel
+>>
+>> Folks -
+>> Here is more about the panel:
+>>
+>>
+>> Following up on the themes related to gender equality presented at the
+>> previous Summit talks sponsored by The Women of OpenStack working group,
+>> this session will focus on our vision of a world where the OpenStack
+>> community is truly and completely blind to meaningless differences in
+>> gender, color, creed and culture. What will this new world look like? How
+>> will it differ from the current one?
+>>
+>> A panel of people from all walks of life will explore what that future is
+>> and what we can do as a community as a whole to achieve it.
+>>
+>> I am looking for a man who is supportive of the OpenStack culture of
+>> inclusivity and can represent the man's perspective of how we will reach
+>> full equality.
+>>
+>> Beth
+>>
+>> On 1/28/2016 6:22 PM, Johnston, Tamara wrote:
+>> - WOO Mailist.
+>>
+>> I had the same question :).  I considered a few folks, but it would help
+>> to understand what characteristics we?re looking for and what?s expected of
+>> this person during the upcoming Summit.
+>>
+>> Thanks!
+>>
+>> Tamara Joh
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160202/9f202aed/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Tue Feb  2 17:41:38 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Tue, 2 Feb 2016 17:41:38 +0000
+Subject: [Women-of-openstack] Looking for a man of the Inclusivity panel
+In-Reply-To: <CAAmTNJ2p66HGgA2O3dYgQF2Tyim3PqgUcj+TJc1rSS78rsfMyQ@mail.gmail.com>
+References: <y754x0ed20oh8jgktw8ftpw1.1454420614258@email.android.com>
+ <CAPrU3jF8V4NyFjkQbyeAy6Y0FUm+KNHAoJmYOdJ-9UK_Uu2Kzw@mail.gmail.com>
+ <CAAmTNJ2p66HGgA2O3dYgQF2Tyim3PqgUcj+TJc1rSS78rsfMyQ@mail.gmail.com>
+Message-ID: <BL2PR02MB4207EE14CA8F70517F26715F6DF0@BL2PR02MB420.namprd02.prod.outlook.com>
+
+Suzy
+
+This is wonderful as Imad is a leader and someone who models this behavior.  I am organizing the male allies part of the program and Beth is putting the panel together.  We will add Imad?s name to the list.
+Thank you.
+
+Thank You,
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+
+From: Suzy Greenberg [mailto:suzy1316 at gmail.com]
+Sent: Tuesday, February 02, 2016 9:39 AM
+To: Shilla Saebi; Bhargava, Ruchi
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Looking for a man of the Inclusivity panel
+
+Imad Sousou is passionate about this and on the OpenStack board of directors. He is available and very interested in being the male representative on this panel. Please let me know who I should work with on next steps.
+On Tue, Feb 2, 2016 at 6:04 AM Shilla Saebi <shilla.saebi at gmail.com<mailto:shilla.saebi at gmail.com>> wrote:
++1
+
+On Tue, Feb 2, 2016 at 8:43 AM, Bhargava, Ruchi <ruchi.bhargava at intel.com<mailto:ruchi.bhargava at intel.com>> wrote:
+I would suggest Mark Muehl who leads the Comcast effort, I have pinged him and he is willing to participate if we still have yhe slot available
+Let me know
+Thx
+Ruchi
+
+
+
+Sent via the Samsung GALAXY S? 5, an AT&T 4G LTE smartphone
+
+
+-------- Original message --------
+From: Beth Cohen <bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>>
+Date: 1/29/2016 13:17 (GMT+00:00)
+To: "Johnston, Tamara" <Tamara.Johnston at emc.com<mailto:Tamara.Johnston at emc.com>>, "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>, women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] Looking for a man of the Inclusivity panel
+
+Folks -
+Here is more about the panel:
+
+
+Following up on the themes related to gender equality presented at the previous Summit talks sponsored by The Women of OpenStack working group, this session will focus on our vision of a world where the OpenStack community is truly and completely blind to meaningless differences in gender, color, creed and culture. What will this new world look like? How will it differ from the current one?
+
+A panel of people from all walks of life will explore what that future is and what we can do as a community as a whole to achieve it.
+
+I am looking for a man who is supportive of the OpenStack culture of inclusivity and can represent the man's perspective of how we will reach full equality.
+
+Beth
+
+On 1/28/2016 6:22 PM, Johnston, Tamara wrote:
+- WOO Mailist.
+
+I had the same question :).  I considered a few folks, but it would help to understand what characteristics we?re looking for and what?s expected of this person during the upcoming Summit.
+
+Thanks!
+
+Tamara Joh
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160202/06a1fc25/attachment-0001.html>
+
+From kavit at aptira.com  Wed Feb  3 21:41:05 2016
+From: kavit at aptira.com (Kavit Munshi)
+Date: Wed, 03 Feb 2016 21:41:05 +0000
+Subject: [Women-of-openstack] Invitation: [Diversity] OpenStack Diversity
+ Working Group Meeting @ Thu 4 Feb 2016 10:30 - 11:30 (kavit@aptira.com)
+Message-ID: <001a11c35e6ea8ff3f052ae479a2@google.com>
+
+You have been invited to the following event.
+
+Title: [Diversity] OpenStack Diversity Working Group Meeting
+When: Thu 4 Feb 2016 10:30 - 11:30 India Standard Time
+Where: IRC: #openstack-meeting-4
+Calendar: kavit at aptira.com
+Who:
+     * Kavit Munshi- organiser
+     * foundation at lists.openstack.org
+     * women-of-openstack at lists.openstack.org
+
+Event details:  
+https://www.google.com/calendar/event?action=VIEW&eid=cGxqNWo3bzV2ZDcyNTVkOThiaGRiaTgzZ2sgd29tZW4tb2Ytb3BlbnN0YWNrQGxpc3RzLm9wZW5zdGFjay5vcmc&tok=MTYja2F2aXRAYXB0aXJhLmNvbTA0YjhmMWJmNTVkYjE5NWMzYzljNzAzOGUwYmIyNWUwOTE4MWY1YmE&ctz=Asia/Calcutta&hl=en_GB
+
+Invitation from Google Calendar: https://www.google.com/calendar/
+
+You are receiving this courtesy email at the account  
+women-of-openstack at lists.openstack.org because you are an attendee of this  
+event.
+
+To stop receiving future updates for this event, decline this event.  
+Alternatively, you can sign up for a Google account at  
+https://www.google.com/calendar/ and control your notification settings for  
+your entire calendar.
+
+Forwarding this invitation could allow any recipient to modify your RSVP  
+response. Learn more at  
+https://support.google.com/calendar/answer/37135#forwarding
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160203/19d88468/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 1292 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160203/19d88468/attachment.ics>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: invite.ics
+Type: application/ics
+Size: 1324 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160203/19d88468/attachment.bin>
+
+From mike at openstack.org  Wed Feb  3 23:40:10 2016
+From: mike at openstack.org (Mike Perez)
+Date: Wed, 3 Feb 2016 15:40:10 -0800
+Subject: [Women-of-openstack] OpenStack Mentoring
+Message-ID: <etPan.56b28fda.33de3bb7.10e9@MICHAELs-MacBook-Pro.local>
+
+Mentoring is an important tool for growing our OpenStack community. ?Mentors help new community members come on board and existing community members expand their skills and reputation. ?Mentees help their mentors expand their worldview and challenge their mindset. This process of gaining knowledge and challenging existing ideas is vital to our community.
+
+The OpenStack community currently has a few levels of mentoring:
+
+* Outreachy mentoring - an intense internship-type experience over a particular three month period https://wiki.openstack.org/wiki/Outreachy.
+* Upstream University - a two-day class for beginners in the community, held on-site the two days prior to the summit
+
+The Women of OpenStack group has seen the need for additional types of mentoring, specifically long term but lightweight mentoring aimed at bringing together mentors and mentees who may not be co-located. ?
+
+* Technical mentoring - mentorship is spread over several months. Mentors with experience in a particular area of OpenStack help their mentees grow in that area. This could be a focus area like release management or marketing, or a particular project like Nova or Neutron.
+* Career mentoring - mentorship is spread out over several months or years. Mentors help their mentees define what kind of career they'd like in the community and move towards those goals. ??
+
+Mentors and mentees may or may not have the same focus area in the community. We hope to kick off these new mentoring programs before the Austin summit, to tie in with a new Speed Mentoring session there.
+
+We are currently looking for mentors of all shapes, sizes and backgrounds to take part in the program pilot. ?Mentors should have between 1 and 4 hours a month free to spend with their menthe. ?
+
+Read our guidelines (https://drive.google.com/file/d/0BxtM4AiszlEyVkEtdktmWjBPN3c/view) and if you're ready to sign up, please fill out our questionnaire https://openstackfoundation.formstack.com/forms/mentoring!
+
+There is an optional speed mentoring session that will be on April 25th Monday morning at the OpenStack conference in Austin before the first keynote. In this event, mentees will be able to meet a variety of mentors in a short amount of time to see who they would like to pair up with. Please check the appropriate box on the questionnaire form if you?re interested in attending.
+
+--  
+Mike Perez
+
+
+
+From jessicak at us.ibm.com  Thu Feb  4 15:56:07 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 4 Feb 2016 09:56:07 -0600
+Subject: [Women-of-openstack] OpenStack Mentoring - updated URL
+In-Reply-To: <etPan.56b28fda.33de3bb7.10e9@MICHAELs-MacBook-Pro.local>
+References: <etPan.56b28fda.33de3bb7.10e9@MICHAELs-MacBook-Pro.local>
+Message-ID: <201602041557.u14FvrTq016525@d01av02.pok.ibm.com>
+
+Thanks, Mike -- It only took a few minutes for me to fill out the
+questionnaire and sign up as a mentor.
+
+I noticed there was an extra character at the end of the URL form below,
+this link worked for me:
+https://openstackfoundation.formstack.com/forms/mentoring
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Mike Perez <mike at openstack.org>
+To:	women-of-openstack at lists.openstack.org
+Cc:	OpenStack Development Mailing List
+            <openstack-dev at lists.openstack.org>,
+            "openstack at lists.openstack.org"
+            <openstack at lists.openstack.org>,
+            "openstack-operators at lists.openstack.org"
+            <openstack-operators at lists.openstack.org>, Community User
+            Groups OpenStack <community at lists.openstack.org>
+Date:	02/03/2016 05:49 PM
+Subject:	[Women-of-openstack] OpenStack Mentoring
+
+
+
+Mentoring is an important tool for growing our OpenStack community.
+Mentors help new community members come on board and existing community
+members expand their skills and reputation. ?Mentees help their mentors
+expand their worldview and challenge their mindset. This process of gaining
+knowledge and challenging existing ideas is vital to our community.
+
+The OpenStack community currently has a few levels of mentoring:
+
+* Outreachy mentoring - an intense internship-type experience over a
+particular three month period https://wiki.openstack.org/wiki/Outreachy.
+* Upstream University - a two-day class for beginners in the community,
+held on-site the two days prior to the summit
+
+The Women of OpenStack group has seen the need for additional types of
+mentoring, specifically long term but lightweight mentoring aimed at
+bringing together mentors and mentees who may not be co-located.
+
+* Technical mentoring - mentorship is spread over several months. Mentors
+with experience in a particular area of OpenStack help their mentees grow
+in that area. This could be a focus area like release management or
+marketing, or a particular project like Nova or Neutron.
+* Career mentoring - mentorship is spread out over several months or years.
+Mentors help their mentees define what kind of career they'd like in the
+community and move towards those goals.
+
+Mentors and mentees may or may not have the same focus area in the
+community. We hope to kick off these new mentoring programs before the
+Austin summit, to tie in with a new Speed Mentoring session there.
+
+We are currently looking for mentors of all shapes, sizes and backgrounds
+to take part in the program pilot. ?Mentors should have between 1 and 4
+hours a month free to spend with their menthe.
+
+Read our guidelines (
+https://drive.google.com/file/d/0BxtM4AiszlEyVkEtdktmWjBPN3c/view) and if
+you're ready to sign up, please fill out our questionnaire
+https://openstackfoundation.formstack.com/forms/mentoring!
+
+There is an optional speed mentoring session that will be on April 25th
+Monday morning at the OpenStack conference in Austin before the first
+keynote. In this event, mentees will be able to meet a variety of mentors
+in a short amount of time to see who they would like to pair up with.
+Please check the appropriate box on the questionnaire form if you?re
+interested in attending.
+
+--
+Mike Perez
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160204/1269a192/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160204/1269a192/attachment.gif>
+
+From DonTalton at fico.com  Thu Feb  4 18:36:04 2016
+From: DonTalton at fico.com (Don Talton)
+Date: Thu, 4 Feb 2016 18:36:04 +0000
+Subject: [Women-of-openstack] [Openstack-operators] OpenStack Mentoring
+In-Reply-To: <etPan.56b28fda.33de3bb7.10e9@MICHAELs-MacBook-Pro.local>
+References: <etPan.56b28fda.33de3bb7.10e9@MICHAELs-MacBook-Pro.local>
+Message-ID: <9C51B97A6E51734B8B70169BECF30AA11B08D02C@mbx025-wd-ca-2.exch025.domain.local>
+
+I would love to see a Upstream University on-demand course developed. Those that can't attend the summit but need more in-depth knowledge of how to contribute would benefit greatly.
+
+-----Original Message-----
+From: Mike Perez [mailto:mike at openstack.org] 
+Sent: Wednesday, February 03, 2016 4:40 PM
+To: women-of-openstack at lists.openstack.org
+Cc: OpenStack Development Mailing List; openstack at lists.openstack.org; openstack-operators at lists.openstack.org; Community User Groups OpenStack
+Subject: [Openstack-operators] OpenStack Mentoring
+
+Mentoring is an important tool for growing our OpenStack community. ?Mentors help new community members come on board and existing community members expand their skills and reputation. ?Mentees help their mentors expand their worldview and challenge their mindset. This process of gaining knowledge and challenging existing ideas is vital to our community.
+
+The OpenStack community currently has a few levels of mentoring:
+
+* Outreachy mentoring - an intense internship-type experience over a particular three month period https://wiki.openstack.org/wiki/Outreachy.
+* Upstream University - a two-day class for beginners in the community, held on-site the two days prior to the summit
+
+The Women of OpenStack group has seen the need for additional types of mentoring, specifically long term but lightweight mentoring aimed at bringing together mentors and mentees who may not be co-located. ?
+
+* Technical mentoring - mentorship is spread over several months. Mentors with experience in a particular area of OpenStack help their mentees grow in that area. This could be a focus area like release management or marketing, or a particular project like Nova or Neutron.
+* Career mentoring - mentorship is spread out over several months or years. Mentors help their mentees define what kind of career they'd like in the community and move towards those goals. ??
+
+Mentors and mentees may or may not have the same focus area in the community. We hope to kick off these new mentoring programs before the Austin summit, to tie in with a new Speed Mentoring session there.
+
+We are currently looking for mentors of all shapes, sizes and backgrounds to take part in the program pilot. ?Mentors should have between 1 and 4 hours a month free to spend with their menthe. ?
+
+Read our guidelines (https://drive.google.com/file/d/0BxtM4AiszlEyVkEtdktmWjBPN3c/view) and if you're ready to sign up, please fill out our questionnaire https://openstackfoundation.formstack.com/forms/mentoring!
+
+There is an optional speed mentoring session that will be on April 25th Monday morning at the OpenStack conference in Austin before the first keynote. In this event, mentees will be able to meet a variety of mentors in a short amount of time to see who they would like to pair up with. Please check the appropriate box on the questionnaire form if you?re interested in attending.
+
+--  
+Mike Perez
+
+
+_______________________________________________
+OpenStack-operators mailing list
+OpenStack-operators at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/openstack-operators
+
+This email and any files transmitted with it are confidential, proprietary and intended solely for the individual or entity to whom they are addressed. If you have received this email in error please delete it immediately.
+
+From kendall at openstack.org  Fri Feb  5 21:38:31 2016
+From: kendall at openstack.org (Kendall Waters)
+Date: Fri, 5 Feb 2016 15:38:31 -0600
+Subject: [Women-of-openstack] Travel Support Program - OpenStack Summit
+	Austin
+Message-ID: <4C416F02-1C68-45B8-AF35-26672B68E5CE@openstack.org>
+
+Hi everyone,
+
+The Foundation is doubling the amount of folks that will be accepted into the Travel Support Program for the OpenStack Summit Austin. 
+
+The Travel Support Program aims to facilitate participation of key contributors to attend the OpenStack Summit by covering the costs for their travel and accommodations. The OpenStack Foundation has set aside a fund to support this program. The total amount of the fund is to be divided among the approved key contributors. The grants will cover a combination of flights, accommodation, and access pass to the Summit. More details here <https://wiki.openstack.org/wiki/Travel_Support_Program>.
+
+You can apply for the Travel Support Program here: https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support <https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support>
+
+The deadline to submit an application is Tuesday, February 9.
+
+Please let me know if you have any questions. 
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160205/cc8bffe8/attachment.html>
+
+From kendall at openstack.org  Tue Feb  9 18:49:17 2016
+From: kendall at openstack.org (Kendall Waters)
+Date: Tue, 9 Feb 2016 19:49:17 +0100
+Subject: [Women-of-openstack] Community Voting NOW OPEN - OpenStack Summit
+	Austin
+Message-ID: <C855DD32-B6AD-4531-9B22-EFE6CB876FCA@openstack.org>
+
+Hi everyone, 
+
+Session voting is now open for the April 2016 OpenStack Summit in Austin. 
+
+VOTE HERE <https://www.openstack.org/summit/austin-2016/vote-for-speakers/>
+Hurry, voting closes Wednesday, February 17 at 11:59pm PST (February 18 at 7:59am UTC).
+
+Track Chairs will ultimately determine the final schedule. Community votes are meant to help inform the decision, but are not the only guide and not considered to be the deciding factor. Track chairs exercise judgment in their area of expertise and help ensure diversity. View full details of the session selection process here. <https://www.openstack.org/summit/austin-2016/call-for-speakers/selection-process>
+
+Continue to visit openstack.org/summit <http://openstack.org/summit> for all Summit-related information.
+
+Cheers,
+The OpenStack Summit Team
+
+
+BECOME A SPONSOR
+If you are interested in sponsoring the Summit as well, it's not too late. Please email summit at openstack.org <mailto:summit at openstack.org> no later than March 8. 
+
+REGISTER
+Register HERE <https://openstacksummit2016austin.eventbrite.com/> before prices increase. Prices will increase early March.
+
+TRAVEL SUPPORT PROGRAM
+Today is the LAST day to submit applications. Please submit your applications HERE <https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support> by 11:59pm PST (February 10 at 7:59am UTC). 
+
+VISA APPLICATION PROCESS
+If you require a visa to travel to the United States, please carefully read the instructions HERE <https://www.openstack.org/summit/austin-2016/austin-and-travel/#visa>. All visa letter requests must be received by April 19.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160209/1eca841b/attachment.html>
+
+From Amy.Marrich at rackspace.com  Tue Feb  9 23:08:07 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Tue, 9 Feb 2016 23:08:07 +0000
+Subject: [Women-of-openstack] Session Voting
+Message-ID: <D2DFCD7A.1833A%amy.marrich@rackspace.com>
+
+Hey all,
+
+Looks like our sessions showed up for voting. Please vote on the following!
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7226
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6829
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7343
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7372
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7373
+
+I didn't put in a session for the Friendly Faces morning meet-up but as we decided to share space with the mentoring we should be covered.
+
+Thanks!
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160209/f807237a/attachment.html>
+
+From sayali.92720 at gmail.com  Wed Feb 10 09:41:02 2016
+From: sayali.92720 at gmail.com (Sayali Lunkad)
+Date: Wed, 10 Feb 2016 10:41:02 +0100
+Subject: [Women-of-openstack] Session voting
+Message-ID: <CAObJ2cGNuRS6MpPLoUYZEbY0S33MLh2WJfo-8a7KS-FHYsPhrA@mail.gmail.com>
+
+Hello Ladies,
+
+Voting for the sessions are open now till 17th February, would be nice if
+we could get some votes on these presentation!
+
+*Want to be an OpenStack intern?:*
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/8033
+*The OpenStack of Things:*
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/7138
+
+Thank you in advance!
+Regards,
+Sayali.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160210/ab7e5294/attachment.html>
+
+From emma.l.foley at intel.com  Wed Feb 10 10:15:05 2016
+From: emma.l.foley at intel.com (Foley, Emma L)
+Date: Wed, 10 Feb 2016 10:15:05 +0000
+Subject: [Women-of-openstack] Session voting
+Message-ID: <0078AE486081F642B4747581212AD05F012AEDB4@IRSMSX109.ger.corp.intel.com>
+
+Hello folks,
+
+Since it's not likely you'll come across it by accident, given the volumes of submissions, I'd like to add my presentation to the list too. 
+Have a look and give it some votes if you're interested. 
+
+*Want to be an OpenStack intern?:*
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/8033 
+*The OpenStack of Things:*
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/7138 
+*DPDK, Collectd & Ceilometer: the missing link between my telco cloud and the NFV infrastructure:*
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6966 
+
+Regards,
+Emma
+
+--------------------------------------------------------------
+Intel Research and Development Ireland Limited
+Registered in Ireland
+Registered Office: Collinstown Industrial Park, Leixlip, County Kildare
+Registered Number: 308263
+
+
+From a_mccormi at yahoo.com  Wed Feb 10 19:53:47 2016
+From: a_mccormi at yahoo.com (Anne McCormick)
+Date: Wed, 10 Feb 2016 19:53:47 +0000 (UTC)
+Subject: [Women-of-openstack] Women of OpenStack Flair
+In-Reply-To: <4FF7D4E1-97A0-42BF-9E4C-980FC50F2C01@openstack.org>
+References: <4FF7D4E1-97A0-42BF-9E4C-980FC50F2C01@openstack.org>
+Message-ID: <1488549340.1822265.1455134027572.JavaMail.yahoo@mail.yahoo.com>
+
+Hello Women of OpenStack,
+About a month ago, I proposed coming up with a logo for Women of OpenStack. Heidi Tretheway offered to help us get started, however I haven't been able to get a hold of her via email. Is there anyone else I can talk to to get started with a logo?
+Thanks!
+- Anne McCormick
+
+
+
+      From: Heidi Joy Tretheway <heidijoy at openstack.org>
+ To: women-of-openstack at lists.openstack.org 
+ Sent: Friday, January 8, 2016 3:27 PM
+ Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+   
+
+There are a few brand guidelines?that we should flag, including not adjusting/adapting the existing OpenStack logo (such as recoloring or reshaping it, and not taking the stacked O and using it as part of a new logo) that we have to enforce to support other global trademark concerns. While some projects have built their own logos, there?s not a lot of consistency and we don?t encourage them to protect the brand equity of the OpenStack logo.
+I?d start by asking the larger question - why is a logo needed? Most projects and working groups don?t have them. It sounds like the key issue for WOO is to have a mark of distinction on a badge or on a participant, which could also be used in a pamphlet or presentation. In lieu of a logo contest, may I suggest that a few WOO folks work with the foundation design team to discuss how we can help identify members? We can discuss badge options, etc. Perhaps at the Monday meeting, 2 or 3 people could volunteer to guide that?
+I?ll be happy to answer any an all questions on logos & brand going forward! And I wholeheartedly support helping to identify WOO members. :-)
+Heidi Joy TrethewaySenior Marketing ManagerOpenStack Foundation
+503 816 9769heidi.tretheway - skypeheidijoy at openstack.org
+
+
+
+
+Begin forwarded message:
+From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+To: Amy Marrich <Amy.Marrich at rackspace.com>, Alexis Lee <lxsli at hpe.com>, "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Date: January 8, 2016 at 9:44:37 AM CST
+Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+
+Amy 
+
+I don't think we have a logo. ?But it is a good idea to perhaps create one starting the Austin Summit. ?Similar to how each project like Cinder etc. have an icon associated with it. 
+
+On the original email suggesting some identification, the icon would help certainly. Some events like the Linux Con events, allow you to select various topics that you want showing on your badge. ?So people know the topics you are interested in. ?This could be where we could identify ourselves as part of WOOS and knowledgeable. 
+
+I will add this to the agenda for Monday's WOOS meeting. 
+
+Thank You,
+Nithya A. Ruff, ?Director, SanDisk Open Source Strategy Office 
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com ???????Twitter: @nithyaruff ?
+
+
+-----Original Message-----
+From: Amy Marrich [mailto:Amy.Marrich at rackspace.com] 
+Sent: Friday, January 08, 2016 7:32 AM
+To: Alexis Lee; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+
+I definitely agree about the IRC nicks being bigger because most people only know you by your nick. But there are plenty of folks who are attending and aren?t on IRC so I can see why it?s not as prevalent on the badge but they should be readable from a short distance.
+
+A related question is does the Women of Openstack have a logo or even a conference related logo? It?d be nice to utilize it in presentations as we?re going to make the pamphlet of talks again.
+
+Amy
+
+On 1/8/16, 5:12 AM, "Alexis Lee" <lxsli at hpe.com> wrote:
+
+
+Anne McCormick said on Thu, Jan 07, 2016 at 10:38:45PM +0000:
+
+I started thinking it would be cool if the Women of OpenStack could 
+have something on their badges, like a sticker, or maybe a pin or 
+something (flair!) that said "Ask me about Women of OpenStack!", so 
+that we could all be ambassadors and welcome newbies into the group. 
+I mean, granted, being women at an OpenStack summit might imply that 
+we know a thing or two about Women of OpenStack. But, it might give 
+us more of an identity (like a secret handshake, but an open, 
+welcoming, friendly one :).
+
+
+We're not all women :)
+
+I like the idea because it helps mark out those people who are happy to 
+be asked about such things from those who'd rather get on with being 
+attendees.
+
+Will there be space on the badge? I remember them being fairly crowded 
+already, if anything I'd like people's IRC nicks to be larger. A "pin"
+(badge to us British) or maybe one of those rubber bracelets would be 
+easier imo, also easier to take off if you want to be left alone for a 
+bit.
+
+Please don't make it super pink, pink is a fine colour but let's not 
+follow that coding.
+
+
+Alexis (lxsli)
+--
+Nova developer, Hewlett-Packard Limited.
+Registered Office: Cain Road, Bracknell, Berkshire RG12 1HN.
+Registered Number: 00690597 England
+VAT number: GB 314 1496 79
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160210/446f1672/attachment.html>
+
+From heidijoy at openstack.org  Wed Feb 10 19:57:16 2016
+From: heidijoy at openstack.org (Heidi Joy Tretheway)
+Date: Wed, 10 Feb 2016 11:57:16 -0800
+Subject: [Women-of-openstack] Women of OpenStack Flair
+In-Reply-To: <1488549340.1822265.1455134027572.JavaMail.yahoo@mail.yahoo.com>
+References: <4FF7D4E1-97A0-42BF-9E4C-980FC50F2C01@openstack.org>
+ <1488549340.1822265.1455134027572.JavaMail.yahoo@mail.yahoo.com>
+Message-ID: <CA6A4F2A-2B14-40A7-B0AA-094C5246DF39@openstack.org>
+
+Hi Anne, 
+I?m sorry I missed your email while at an off-site. I?ll reply directly to you and your team regarding your suggestions. 
+
+Cheers,
+Heidi Joy
+
+______
+Heidi Joy Tretheway
+Senior Marketing Manager, OpenStack Foundation
+503 816 9769  |  skype: heidi.tretheway
+
+
+
+
+
+> On Feb 10, 2016, at 11:53 AM, Anne McCormick <a_mccormi at yahoo.com> wrote:
+> 
+> Hello Women of OpenStack,
+> 
+> About a month ago, I proposed coming up with a logo for Women of OpenStack. Heidi Tretheway offered to help us get started, however I haven't been able to get a hold of her via email. Is there anyone else I can talk to to get started with a logo?
+> 
+> Thanks!
+> 
+> - Anne McCormick
+> 
+> 
+> 
+> 
+> From: Heidi Joy Tretheway <heidijoy at openstack.org>
+> To: women-of-openstack at lists.openstack.org 
+> Sent: Friday, January 8, 2016 3:27 PM
+> Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+> 
+> 
+> There are a few brand guidelines <https://www.openstack.org/brand> that we should flag, including not adjusting/adapting the existing OpenStack logo (such as recoloring or reshaping it, and not taking the stacked O and using it as part of a new logo) that we have to enforce to support other global trademark concerns. While some projects have built their own logos, there?s not a lot of consistency and we don?t encourage them to protect the brand equity of the OpenStack logo.
+> 
+> I?d start by asking the larger question - why is a logo needed? Most projects and working groups don?t have them. It sounds like the key issue for WOO is to have a mark of distinction on a badge or on a participant, which could also be used in a pamphlet or presentation. In lieu of a logo contest, may I suggest that a few WOO folks work with the foundation design team to discuss how we can help identify members? We can discuss badge options, etc. Perhaps at the Monday meeting, 2 or 3 people could volunteer to guide that?
+> 
+> I?ll be happy to answer any an all questions on logos & brand going forward! And I wholeheartedly support helping to identify WOO members. :-)
+> 
+> Heidi Joy Tretheway
+> Senior Marketing Manager
+> OpenStack Foundation
+> 
+> 503 816 9769
+> heidi.tretheway - skype
+> heidijoy at openstack.org <mailto:heidijoy at openstack.org>
+> 
+> 
+>> 
+>>> Begin forwarded message:
+>>> 
+>>> From: Nithya Ruff <Nithya.Ruff at sandisk.com <mailto:Nithya.Ruff at sandisk.com>>
+>>> To: Amy Marrich <Amy.Marrich at rackspace.com <mailto:Amy.Marrich at rackspace.com>>, Alexis Lee <lxsli at hpe.com <mailto:lxsli at hpe.com>>, "women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>>
+>>> Date: January 8, 2016 at 9:44:37 AM CST
+>>> Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+>>> 
+>>> Amy 
+>>> 
+>>> I don't think we have a logo.  But it is a good idea to perhaps create one starting the Austin Summit.  Similar to how each project like Cinder etc. have an icon associated with it. 
+>>> 
+>>> On the original email suggesting some identification, the icon would help certainly. Some events like the Linux Con events, allow you to select various topics that you want showing on your badge.  So people know the topics you are interested in.  This could be where we could identify ourselves as part of WOOS and knowledgeable. 
+>>> 
+>>> I will add this to the agenda for Monday's WOOS meeting. 
+>>> 
+>>> Thank You,
+>>> Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office 
+>>> WIN Board Member
+>>> SanDisk Corporation
+>>> 951 SanDisk Drive, Milpitas, CA 95035
+>>> T: + (408-801-7068)| M: + (510-378-3159)
+>>> Nithya.Ruff at SanDisk.com <mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff  
+>>> 
+>>> 
+>>> -----Original Message-----
+>>> From: Amy Marrich [mailto:Amy.Marrich at rackspace.com <mailto:Amy.Marrich at rackspace.com>] 
+>>> Sent: Friday, January 08, 2016 7:32 AM
+>>> To: Alexis Lee; women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>
+>>> Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+>>> 
+>>> I definitely agree about the IRC nicks being bigger because most people only know you by your nick. But there are plenty of folks who are attending and aren?t on IRC so I can see why it?s not as prevalent on the badge but they should be readable from a short distance.
+>>> 
+>>> A related question is does the Women of Openstack have a logo or even a conference related logo? It?d be nice to utilize it in presentations as we?re going to make the pamphlet of talks again.
+>>> 
+>>> Amy
+>>> 
+>>> On 1/8/16, 5:12 AM, "Alexis Lee" <lxsli at hpe.com <mailto:lxsli at hpe.com>> wrote:
+>>> 
+>>>> Anne McCormick said on Thu, Jan 07, 2016 at 10:38:45PM +0000:
+>>>>> I started thinking it would be cool if the Women of OpenStack could 
+>>>>> have something on their badges, like a sticker, or maybe a pin or 
+>>>>> something (flair!) that said "Ask me about Women of OpenStack!", so 
+>>>>> that we could all be ambassadors and welcome newbies into the group. 
+>>>>> I mean, granted, being women at an OpenStack summit might imply that 
+>>>>> we know a thing or two about Women of OpenStack. But, it might give 
+>>>>> us more of an identity (like a secret handshake, but an open, 
+>>>>> welcoming, friendly one :).
+>>>> 
+>>>> We're not all women :)
+>>>> 
+>>>> I like the idea because it helps mark out those people who are happy to 
+>>>> be asked about such things from those who'd rather get on with being 
+>>>> attendees.
+>>>> 
+>>>> Will there be space on the badge? I remember them being fairly crowded 
+>>>> already, if anything I'd like people's IRC nicks to be larger. A "pin"
+>>>> (badge to us British) or maybe one of those rubber bracelets would be 
+>>>> easier imo, also easier to take off if you want to be left alone for a 
+>>>> bit.
+>>>> 
+>>>> Please don't make it super pink, pink is a fine colour but let's not 
+>>>> follow that coding.
+>>>> 
+>>>> 
+>>>> Alexis (lxsli)
+>>>> --
+>>>> Nova developer, Hewlett-Packard Limited.
+>>>> Registered Office: Cain Road, Bracknell, Berkshire RG12 1HN.
+>>>> Registered Number: 00690597 England
+>>>> VAT number: GB 314 1496 79
+>>>> 
+>>>> _______________________________________________
+>>>> Women-of-openstack mailing list
+>>>> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>>> 
+>>> 
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+>>> 
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> 
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> 
+> 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160210/4f8f6f1b/attachment-0001.html>
+
+From a_mccormi at yahoo.com  Wed Feb 10 20:34:27 2016
+From: a_mccormi at yahoo.com (Anne McCormick)
+Date: Wed, 10 Feb 2016 20:34:27 +0000 (UTC)
+Subject: [Women-of-openstack] Women of OpenStack Flair
+In-Reply-To: <CA6A4F2A-2B14-40A7-B0AA-094C5246DF39@openstack.org>
+References: <CA6A4F2A-2B14-40A7-B0AA-094C5246DF39@openstack.org>
+Message-ID: <52459432.1824283.1455136467689.JavaMail.yahoo@mail.yahoo.com>
+
+Hi Heidi,
+Great! ?I'd love to get the ball rolling on this.
+Thanks!
+- Anne McCormick
+
+      From: Heidi Joy Tretheway <heidijoy at openstack.org>
+ To: Anne McCormick <a_mccormi at yahoo.com> 
+Cc: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+ Sent: Wednesday, February 10, 2016 2:57 PM
+ Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+   
+Hi Anne,?I?m sorry I missed your email while at an off-site. I?ll reply directly to you and your team regarding your suggestions.?
+Cheers,Heidi Joy
+______Heidi Joy TrethewaySenior Marketing Manager, OpenStack Foundation503 816 9769 ?| ?skype: heidi.tretheway
+
+
+
+
+
+On Feb 10, 2016, at 11:53 AM, Anne McCormick <a_mccormi at yahoo.com> wrote:
+Hello Women of OpenStack,
+About a month ago, I proposed coming up with a logo for Women of OpenStack. Heidi Tretheway offered to help us get started, however I haven't been able to get a hold of her via email. Is there anyone else I can talk to to get started with a logo?
+Thanks!
+- Anne McCormick
+
+
+
+      From: Heidi Joy Tretheway <heidijoy at openstack.org>
+ To: women-of-openstack at lists.openstack.org 
+ Sent: Friday, January 8, 2016 3:27 PM
+ Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+  
+
+There are a few brand guidelines?that we should flag, including not adjusting/adapting the existing OpenStack logo (such as recoloring or reshaping it, and not taking the stacked O and using it as part of a new logo) that we have to enforce to support other global trademark concerns. While some projects have built their own logos, there?s not a lot of consistency and we don?t encourage them to protect the brand equity of the OpenStack logo.
+I?d start by asking the larger question - why is a logo needed? Most projects and working groups don?t have them. It sounds like the key issue for WOO is to have a mark of distinction on a badge or on a participant, which could also be used in a pamphlet or presentation. In lieu of a logo contest, may I suggest that a few WOO folks work with the foundation design team to discuss how we can help identify members? We can discuss badge options, etc. Perhaps at the Monday meeting, 2 or 3 people could volunteer to guide that?
+I?ll be happy to answer any an all questions on logos & brand going forward! And I wholeheartedly support helping to identify WOO members. :-)
+Heidi Joy TrethewaySenior Marketing ManagerOpenStack Foundation
+503 816 9769heidi.tretheway - skypeheidijoy at openstack.org
+
+
+
+
+Begin forwarded message:
+From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+To: Amy Marrich <Amy.Marrich at rackspace.com>, Alexis Lee <lxsli at hpe.com>, "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Date: January 8, 2016 at 9:44:37 AM CST
+Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+
+Amy 
+
+I don't think we have a logo. ?But it is a good idea to perhaps create one starting the Austin Summit. ?Similar to how each project like Cinder etc. have an icon associated with it. 
+
+On the original email suggesting some identification, the icon would help certainly. Some events like the Linux Con events, allow you to select various topics that you want showing on your badge. ?So people know the topics you are interested in. ?This could be where we could identify ourselves as part of WOOS and knowledgeable. 
+
+I will add this to the agenda for Monday's WOOS meeting. 
+
+Thank You,
+Nithya A. Ruff, ?Director, SanDisk Open Source Strategy Office 
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com ???????Twitter: @nithyaruff ?
+
+
+-----Original Message-----
+From: Amy Marrich [mailto:Amy.Marrich at rackspace.com] 
+Sent: Friday, January 08, 2016 7:32 AM
+To: Alexis Lee; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Women of OpenStack Flair
+
+I definitely agree about the IRC nicks being bigger because most people only know you by your nick. But there are plenty of folks who are attending and aren?t on IRC so I can see why it?s not as prevalent on the badge but they should be readable from a short distance.
+
+A related question is does the Women of Openstack have a logo or even a conference related logo? It?d be nice to utilize it in presentations as we?re going to make the pamphlet of talks again.
+
+Amy
+
+On 1/8/16, 5:12 AM, "Alexis Lee" <lxsli at hpe.com> wrote:
+
+
+Anne McCormick said on Thu, Jan 07, 2016 at 10:38:45PM +0000:
+
+I started thinking it would be cool if the Women of OpenStack could 
+have something on their badges, like a sticker, or maybe a pin or 
+something (flair!) that said "Ask me about Women of OpenStack!", so 
+that we could all be ambassadors and welcome newbies into the group. 
+I mean, granted, being women at an OpenStack summit might imply that 
+we know a thing or two about Women of OpenStack. But, it might give 
+us more of an identity (like a secret handshake, but an open, 
+welcoming, friendly one :).
+
+
+We're not all women :)
+
+I like the idea because it helps mark out those people who are happy to 
+be asked about such things from those who'd rather get on with being 
+attendees.
+
+Will there be space on the badge? I remember them being fairly crowded 
+already, if anything I'd like people's IRC nicks to be larger. A "pin"
+(badge to us British) or maybe one of those rubber bracelets would be 
+easier imo, also easier to take off if you want to be left alone for a 
+bit.
+
+Please don't make it super pink, pink is a fine colour but let's not 
+follow that coding.
+
+
+Alexis (lxsli)
+--
+Nova developer, Hewlett-Packard Limited.
+Registered Office: Cain Road, Bracknell, Berkshire RG12 1HN.
+Registered Number: 00690597 England
+VAT number: GB 314 1496 79
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+   
+
+
+
+  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160210/0eb8c008/attachment-0001.html>
+
+From rain at redhat.com  Thu Feb 11 11:32:47 2016
+From: rain at redhat.com (K Rain Leander)
+Date: Thu, 11 Feb 2016 06:32:47 -0500 (EST)
+Subject: [Women-of-openstack] Session voting
+In-Reply-To: <0078AE486081F642B4747581212AD05F012AEDB4@IRSMSX109.ger.corp.intel.com>
+References: <0078AE486081F642B4747581212AD05F012AEDB4@IRSMSX109.ger.corp.intel.com>
+Message-ID: <1553714208.27869046.1455190367066.JavaMail.zimbra@redhat.com>
+
+Adding mine to the list, if you're keen:
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7226
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6829
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7343
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7372
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7373
+
+> *Want to be an OpenStack intern?:*
+> https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/8033
+> *The OpenStack of Things:*
+> https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/7138
+> *DPDK, Collectd & Ceilometer: the missing link between my telco cloud and the
+> NFV infrastructure:*
+> https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6966
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6821
+
+Thanks,
+Rain
+
+
+From kjnelson at us.ibm.com  Mon Feb 15 16:09:37 2016
+From: kjnelson at us.ibm.com (Kendall J Nelson)
+Date: Mon, 15 Feb 2016 10:09:37 -0600
+Subject: [Women-of-openstack] Session Voting
+In-Reply-To: <D2DFCD7A.1833A%amy.marrich@rackspace.com>
+References: <D2DFCD7A.1833A%amy.marrich@rackspace.com>
+Message-ID: <201602151610.u1FGA4mL015167@d01av04.pok.ibm.com>
+
+If anyone is willing to help another woman out, I also have a session
+proposed:
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7118
+
+I would greatly appreciate the help getting it noticed!
+
+All the Best,
+                                                          
+   Kendall J. Nelson                                      
+   Software Engineer &                                    
+   OpenStack Contributor                                  
+                                                          
+
+
+                                                           
+                                                           
+                                                           
+   E-mail: kjnelson at us.ibm.com                         IBM 
+   Cell Phone: (952) 215- 4025                             
+   IRC Nickname: diablo_rojo                 3605 Hwy 52 N 
+                                             Rochester, MN 
+                                                55901-1407 
+                                             United States 
+                                                           
+
+
+
+
+
+
+From:	Amy Marrich <Amy.Marrich at rackspace.com>
+To:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	02/09/2016 05:09 PM
+Subject:	[Women-of-openstack] Session Voting
+
+
+
+Hey all,
+
+Looks like our sessions showed up for voting. Please vote on the following!
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7226
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6829
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7343
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7372
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7373
+
+I didn?t put in a session for the Friendly Faces morning meet-up but as we
+decided to share space with the mentoring we should be covered.
+
+Thanks!
+
+Amy_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160215/19e5a8f7/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 09459774.gif
+Type: image/gif
+Size: 2022 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160215/19e5a8f7/attachment.gif>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160215/19e5a8f7/attachment-0001.gif>
+
+From ndahiya at redhat.com  Wed Feb 17 12:15:07 2016
+From: ndahiya at redhat.com (Neeti Dahiya)
+Date: Wed, 17 Feb 2016 07:15:07 -0500 (EST)
+Subject: [Women-of-openstack] Session Voting
+In-Reply-To: <201602151610.u1FGA4mL015167@d01av04.pok.ibm.com>
+References: <D2DFCD7A.1833A%amy.marrich@rackspace.com>
+ <201602151610.u1FGA4mL015167@d01av04.pok.ibm.com>
+Message-ID: <1820877784.26856009.1455711307050.JavaMail.zimbra@redhat.com>
+
+Hi all,
+
+Adding mine to the list too. Would be nice if I could get some votes and meet you all there. :)
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8181
+
+Regards,
+Neeti
+
+----- Original Message -----
+From: "Kendall J Nelson" <kjnelson at us.ibm.com>
+To: "Amy Marrich" <Amy.Marrich at rackspace.com>
+Cc: women-of-openstack at lists.openstack.org
+Sent: Monday, February 15, 2016 9:39:37 PM
+Subject: Re: [Women-of-openstack] Session Voting
+
+
+
+If anyone is willing to help another woman out, I also have a session proposed: 
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7118 
+
+I would greatly appreciate the help getting it noticed! 
+
+All the Best, 
+
+Kendall J. Nelson 
+Software Engineer & 
+OpenStack Contributor 
+
+E-mail: kjnelson at us.ibm.com 
+Cell Phone: (952) 215- 4025 
+IRC Nickname: diablo_rojo 	
+
+
+3605 Hwy 52 N 
+Rochester, MN 55901-1407 
+United States 
+
+
+Amy Marrich ---02/09/2016 05:09:49 PM---Hey all, Looks like our sessions showed up for voting. Please vote on the following! 
+
+From: Amy Marrich <Amy.Marrich at rackspace.com> 
+To: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org> 
+Date: 02/09/2016 05:09 PM 
+Subject: [Women-of-openstack] Session Voting 
+
+
+
+
+Hey all, 
+
+Looks like our sessions showed up for voting. Please vote on the following! 
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7226 
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6829 
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7343 
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7372 
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7373 
+
+I didn?t put in a session for the Friendly Faces morning meet-up but as we decided to share space with the mentoring we should be covered. 
+
+Thanks! 
+
+Amy _______________________________________________ 
+Women-of-openstack mailing list 
+Women-of-openstack at lists.openstack.org 
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack 
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+From Nithya.Ruff at sandisk.com  Wed Feb 17 14:35:44 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Wed, 17 Feb 2016 14:35:44 +0000
+Subject: [Women-of-openstack] Session Voting
+In-Reply-To: <1820877784.26856009.1455711307050.JavaMail.zimbra@redhat.com>
+References: <D2DFCD7A.1833A%amy.marrich@rackspace.com>
+ <201602151610.u1FGA4mL015167@d01av04.pok.ibm.com>
+ <1820877784.26856009.1455711307050.JavaMail.zimbra@redhat.com>
+Message-ID: <BL2PR02MB4205DF25904F78AB9AFA0FEF6AE0@BL2PR02MB420.namprd02.prod.outlook.com>
+
+All
+
+Here are a couple of more sessions.  Both that we have talked about and sponsored thru women of open stack.
+
+How to Contribute to OpenStack without Even Coding
+Speakers: Nithya Ruff
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/7340
+
+
+Here are the presentations someone else submitted with you as a speaker:
+Fostering Full Equality: Sponsored by Women of OpenStack
+Speakers: Beth Cohen, Ruchi Bhargava, Nithya Ruff, Nina Goradia, Vince Brunssen, Josh Kleinpeter
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/Presentation/6838
+
+
+
+Thank You,
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com        Twitter: @nithyaruff
+
+
+-----Original Message-----
+From: Neeti Dahiya [mailto:ndahiya at redhat.com]
+Sent: Wednesday, February 17, 2016 4:15 AM
+To: Kendall J Nelson
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Session Voting
+
+Hi all,
+
+Adding mine to the list too. Would be nice if I could get some votes and meet you all there. :)
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/8181
+
+Regards,
+Neeti
+
+----- Original Message -----
+From: "Kendall J Nelson" <kjnelson at us.ibm.com>
+To: "Amy Marrich" <Amy.Marrich at rackspace.com>
+Cc: women-of-openstack at lists.openstack.org
+Sent: Monday, February 15, 2016 9:39:37 PM
+Subject: Re: [Women-of-openstack] Session Voting
+
+
+
+If anyone is willing to help another woman out, I also have a session proposed:
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7118
+
+I would greatly appreciate the help getting it noticed!
+
+All the Best,
+
+Kendall J. Nelson
+Software Engineer &
+OpenStack Contributor
+
+E-mail: kjnelson at us.ibm.com
+Cell Phone: (952) 215- 4025
+IRC Nickname: diablo_rojo
+
+
+3605 Hwy 52 N
+Rochester, MN 55901-1407
+United States
+
+
+Amy Marrich ---02/09/2016 05:09:49 PM---Hey all, Looks like our sessions showed up for voting. Please vote on the following!
+
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+To: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Date: 02/09/2016 05:09 PM
+Subject: [Women-of-openstack] Session Voting
+
+
+
+
+Hey all,
+
+Looks like our sessions showed up for voting. Please vote on the following!
+
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7226
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/6829
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7343
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7372
+https://www.openstack.org/summit/austin-2016/vote-for-speakers/presentation/7373
+
+I didn?t put in a session for the Friendly Faces morning meet-up but as we decided to share space with the mentoring we should be covered.
+
+Thanks!
+
+Amy _______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+
+From carol.l.barrett at intel.com  Mon Feb 22 15:56:09 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 22 Feb 2016 15:56:09 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's Team
+	Meeting Info
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CB88D26@ORSMSX113.amr.corp.intel.com>
+
+Hi All  - We're on for our regular team meeting today. Details below.
+
+Meeting Logistics
+Monday, February 22, 2016 2000 UTC
+Dial In: Access: (888) 875-9370, Bridge: 3; PassCode: 9518007#
+
+Agenda Etherpad: https://etherpad.openstack.org/p/WOS_2_22_16
+
+Thanks
+Carol
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160222/53ec4858/attachment.html>
+
+From carol.l.barrett at intel.com  Mon Feb 22 20:59:53 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 22 Feb 2016 20:59:53 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Meeting
+ Information Update - Canceling 3/7 Team meeting
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CB8D24A@ORSMSX113.amr.corp.intel.com>
+
+Hi All  - Good meeting today and great progress on all of our workstreams!!
+
+Due to travel and conflicting commitments we are canceling the March 7th meeting.
+Our next team meeting will be March 21 with Beth Cohen as our leader.
+
+Thanks & talk to you then.
+Carol
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160222/c9862dc5/attachment.html>
+

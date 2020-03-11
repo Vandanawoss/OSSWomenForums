@@ -1,0 +1,364 @@
+From ruohomaa+gnome@cc.helsinki.fi  Mon Sep  3 10:42:36 2007
+Return-Path: <ruohomaa+gnome@cc.helsinki.fi>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2F59C3B0014
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Sep 2007 10:42:36 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -1.299
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.299 tagged_above=-999 required=2
+	tests=[AWL=-1.300, BAYES_50=0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 4402 hrs), (distance 23,
+	link: ethernet/modem), [128.214.9.1]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id oFJh6NdQl771 for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Sep 2007 10:42:32 -0400 (EDT)
+Received: from mail.cs.helsinki.fi (courier.cs.helsinki.fi [128.214.9.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 637423B0013
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Sep 2007 10:42:32 -0400 (EDT)
+Received: from [128.214.10.221] (pehesaari-12.cs.helsinki.fi [128.214.10.221])
+	by mail.cs.helsinki.fi with esmtp; Mon, 03 Sep 2007 17:42:29 +0300
+	id 0005FEAD.46DC1D55.000052FE
+From: Sini Ruohomaa <ruohomaa+gnome@cc.helsinki.fi>
+To: gnome-women-list@mail.gnome.org
+Date: Mon, 03 Sep 2007 17:42:29 +0300
+Message-Id: <1188830549.3000.118.camel@pehesaari-12.cs.helsinki.fi>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Evolution 2.8.3 (2.8.3-2.fc6) 
+X-Mailman-Approved-At: Thu, 06 Sep 2007 06:55:08 -0400
+Subject: [gnome-women] Blog on events for women in technology?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 03 Sep 2007 14:42:36 -0000
+
+Hello, ladies!
+
+We've been getting ads of all kinds of interesting events lately, and
+I've been cross-forwarding them to another small network of women in
+technology. Is there, by any chance, a blog or news site on these kinds
+of events somewhere, so that we could do some centralized advertising
+through it via e.g. RSS feeds? 
+
+If not, anyone interested in starting one up? I have a blog service
+available at the university, but the problem there is that I would be
+the only one able to post on it, and I'm often too busy to keep track of
+these kinds of events. I'd therefore rather see either a more
+community-driveable site or a blog by someone who is into blogging
+themselves. :) Would this be something we should try to get Sourceforge
+or a similar larger site to offer on the side? 
+
+--Sini seldom goes to these events, just advertises them. X-)
+
+From g@socallinuxexpo.org  Mon Sep 10 17:24:34 2007
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C8E753B01FC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 10 Sep 2007 17:24:34 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.464
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.464 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, FORGED_RCVD_HELO=0.135]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 125 hrs), (distance 19,
+	link: ethernet/modem), [205.147.45.172]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wTbe5Wz+4xYl for <gnome-women-list@mail.gnome.org>;
+	Mon, 10 Sep 2007 17:24:31 -0400 (EDT)
+Received: from maggie.socallinuxexpo.org (maggie.socallinuxexpo.org
+	[205.147.45.172])
+	by menubar.gnome.org (Postfix) with ESMTP id 958383B01A2
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 10 Sep 2007 17:24:31 -0400 (EDT)
+Received: from garethgreenaway.ca.delsonmarketing.net
+	(h-72-245-253-10.lsanca54.covad.net [72.245.253.10])
+	(authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	l8ALOOGx026237
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Mon, 10 Sep 2007 14:24:27 -0700
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+Organization: Southern California Linux Expo
+To: gnome-women-list@mail.gnome.org
+Date: Mon, 10 Sep 2007 14:24:55 -0700
+User-Agent: KMail/1.9.6
+MIME-Version: 1.0
+Content-Type: text/plain;
+  charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Message-Id: <200709101424.55517.g@socallinuxexpo.org>
+X-Virus-Scanned: ClamAV 0.91.2/4232/Mon Sep 10 11:18:12 2007 on maggie
+X-Virus-Status: Clean
+Subject: [gnome-women] SCALE 6x Gears Up
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 10 Sep 2007 21:24:34 -0000
+
+The Sixth Annual SoCal Linux Expo will be February 8th-10th, 2008. It=20
+will again be at the Westin LAX. SCALE has reserved more of the hotel=20
+resources for SCALE 6X which will help address some of the seminar=20
+crowding issues that arose during S5X (success is a nice problem to have).
+
+Over the last two SCALEs, the Expo has expanded to included specialized=20
+conferences on the Friday prior to SCALE. The Expo will =E2=80=9Cexpand upo=
+n the=20
+expansion=E2=80=9D for SCALE 6x: the Women in Open Source conference will r=
+eturn=20
+for its second year; the health care conference, now knows as DOHCS =E2=80=
+=93=20
+Demonstrating Open Source Health Care Systems, returns for a second=20
+time. Last year DOHCS was a single track. For SCALE 6X, DOHCS splits=20
+into two tracks, a technical track and a business track.
+
+And newly added for SCALE 6X is a Friday conference on education: =E2=80=9C=
+Open=20
+Source in Education=E2=80=9D which focuses on opportunities for Open Source=
+ in=20
+the field of education .
+
+If you have any experience in any of the above-mentioned areas, please=20
+consider sharing it with the Open Source community at SCALE: the calls=20
+for papers for SCALE and for the Friday conferences can be found here:=20
+http://www.socallinuxexpo.org/scale6x/conference-info/calls-for-papers/=20
+<http://www.socallinuxexpo.com/scale6x/conference-info/calls-for-papers/>=20
+All of the calls are now open for submittals. For SCALE 4X and 5X the=20
+speaker slots filled rapidly; we anticipate the same for SCALE 6X. So if=20
+you're considering speaking, don't delay submitting your proposal.=20
+Submittal info for each conference can be found on their respective CFP=20
+pages.
+
+If your organization is considering a booth on the SCALE Expo floor, be=20
+advised that we no more booths than last year, and last year they went=20
+quickly. If you want to ensure that you have a booth reserved, apply for=20
+one NOW. If you're a non-profit group, complete the application form at=20
+http://www.socallinuxexpo.org/scale6x/documents/scale6x_dotORG_application.=
+pdf=20
+and send it to gareth@socallinuxexpo.org
+
+The second SCALE IRC chat will be September 16th , at 7:00 pm PST. It=20
+will be held in the #scale-chat channel of OFTC (irc.oftc.net). If you=20
+have questions or comments about SCALE, feel free to join us.
+
+SCALE 6X looks to be even better than S5X; mark your calendar =E2=80=93 be =
+in=20
+Los Angeles February 8th-10th , 2008!
+
+=2D-=20
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+From ruohomaa+gnome@cc.helsinki.fi  Mon Sep  3 10:42:36 2007
+Return-Path: <ruohomaa+gnome@cc.helsinki.fi>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2F59C3B0014
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Sep 2007 10:42:36 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -1.299
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.299 tagged_above=-999 required=2
+	tests=[AWL=-1.300, BAYES_50=0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 4402 hrs), (distance 23,
+	link: ethernet/modem), [128.214.9.1]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id oFJh6NdQl771 for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Sep 2007 10:42:32 -0400 (EDT)
+Received: from mail.cs.helsinki.fi (courier.cs.helsinki.fi [128.214.9.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 637423B0013
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Sep 2007 10:42:32 -0400 (EDT)
+Received: from [128.214.10.221] (pehesaari-12.cs.helsinki.fi [128.214.10.221])
+	by mail.cs.helsinki.fi with esmtp; Mon, 03 Sep 2007 17:42:29 +0300
+	id 0005FEAD.46DC1D55.000052FE
+From: Sini Ruohomaa <ruohomaa+gnome@cc.helsinki.fi>
+To: gnome-women-list@mail.gnome.org
+Date: Mon, 03 Sep 2007 17:42:29 +0300
+Message-Id: <1188830549.3000.118.camel@pehesaari-12.cs.helsinki.fi>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 7bit
+X-Mailer: Evolution 2.8.3 (2.8.3-2.fc6) 
+X-Mailman-Approved-At: Thu, 06 Sep 2007 06:55:08 -0400
+Subject: [gnome-women] Blog on events for women in technology?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 03 Sep 2007 14:42:36 -0000
+
+Hello, ladies!
+
+We've been getting ads of all kinds of interesting events lately, and
+I've been cross-forwarding them to another small network of women in
+technology. Is there, by any chance, a blog or news site on these kinds
+of events somewhere, so that we could do some centralized advertising
+through it via e.g. RSS feeds? 
+
+If not, anyone interested in starting one up? I have a blog service
+available at the university, but the problem there is that I would be
+the only one able to post on it, and I'm often too busy to keep track of
+these kinds of events. I'd therefore rather see either a more
+community-driveable site or a blog by someone who is into blogging
+themselves. :) Would this be something we should try to get Sourceforge
+or a similar larger site to offer on the side? 
+
+--Sini seldom goes to these events, just advertises them. X-)
+
+
+From g@socallinuxexpo.org  Mon Sep 10 17:24:34 2007
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C8E753B01FC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 10 Sep 2007 17:24:34 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.464
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.464 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, FORGED_RCVD_HELO=0.135]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 125 hrs), (distance 19,
+	link: ethernet/modem), [205.147.45.172]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wTbe5Wz+4xYl for <gnome-women-list@mail.gnome.org>;
+	Mon, 10 Sep 2007 17:24:31 -0400 (EDT)
+Received: from maggie.socallinuxexpo.org (maggie.socallinuxexpo.org
+	[205.147.45.172])
+	by menubar.gnome.org (Postfix) with ESMTP id 958383B01A2
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 10 Sep 2007 17:24:31 -0400 (EDT)
+Received: from garethgreenaway.ca.delsonmarketing.net
+	(h-72-245-253-10.lsanca54.covad.net [72.245.253.10])
+	(authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	l8ALOOGx026237
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Mon, 10 Sep 2007 14:24:27 -0700
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+Organization: Southern California Linux Expo
+To: gnome-women-list@mail.gnome.org
+Date: Mon, 10 Sep 2007 14:24:55 -0700
+User-Agent: KMail/1.9.6
+MIME-Version: 1.0
+Content-Type: text/plain;
+  charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Message-Id: <200709101424.55517.g@socallinuxexpo.org>
+X-Virus-Scanned: ClamAV 0.91.2/4232/Mon Sep 10 11:18:12 2007 on maggie
+X-Virus-Status: Clean
+Subject: [gnome-women] SCALE 6x Gears Up
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 10 Sep 2007 21:24:34 -0000
+
+The Sixth Annual SoCal Linux Expo will be February 8th-10th, 2008. It=20
+will again be at the Westin LAX. SCALE has reserved more of the hotel=20
+resources for SCALE 6X which will help address some of the seminar=20
+crowding issues that arose during S5X (success is a nice problem to have).
+
+Over the last two SCALEs, the Expo has expanded to included specialized=20
+conferences on the Friday prior to SCALE. The Expo will =E2=80=9Cexpand upo=
+n the=20
+expansion=E2=80=9D for SCALE 6x: the Women in Open Source conference will r=
+eturn=20
+for its second year; the health care conference, now knows as DOHCS =E2=80=
+=93=20
+Demonstrating Open Source Health Care Systems, returns for a second=20
+time. Last year DOHCS was a single track. For SCALE 6X, DOHCS splits=20
+into two tracks, a technical track and a business track.
+
+And newly added for SCALE 6X is a Friday conference on education: =E2=80=9C=
+Open=20
+Source in Education=E2=80=9D which focuses on opportunities for Open Source=
+ in=20
+the field of education .
+
+If you have any experience in any of the above-mentioned areas, please=20
+consider sharing it with the Open Source community at SCALE: the calls=20
+for papers for SCALE and for the Friday conferences can be found here:=20
+http://www.socallinuxexpo.org/scale6x/conference-info/calls-for-papers/=20
+<http://www.socallinuxexpo.com/scale6x/conference-info/calls-for-papers/>=20
+All of the calls are now open for submittals. For SCALE 4X and 5X the=20
+speaker slots filled rapidly; we anticipate the same for SCALE 6X. So if=20
+you're considering speaking, don't delay submitting your proposal.=20
+Submittal info for each conference can be found on their respective CFP=20
+pages.
+
+If your organization is considering a booth on the SCALE Expo floor, be=20
+advised that we no more booths than last year, and last year they went=20
+quickly. If you want to ensure that you have a booth reserved, apply for=20
+one NOW. If you're a non-profit group, complete the application form at=20
+http://www.socallinuxexpo.org/scale6x/documents/scale6x_dotORG_application.=
+pdf=20
+and send it to gareth@socallinuxexpo.org
+
+The second SCALE IRC chat will be September 16th , at 7:00 pm PST. It=20
+will be held in the #scale-chat channel of OFTC (irc.oftc.net). If you=20
+have questions or comments about SCALE, feel free to join us.
+
+SCALE 6X looks to be even better than S5X; mark your calendar =E2=80=93 be =
+in=20
+Los Angeles February 8th-10th , 2008!
+
+=2D-=20
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+

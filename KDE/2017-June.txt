@@ -1,0 +1,339 @@
+From nuritzis@gmail.com  Fri Jun 16 23:56:52 2017
+Return-Path: <nuritzis@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.gnome.org (Postfix) with ESMTP id 9D2A87621C
+	for <gnome-women-list@gnome.org>; Fri, 16 Jun 2017 23:56:52 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.899
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.899 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from smtp.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id VU8TLZ87n7rh for <gnome-women-list@gnome.org>;
+	Fri, 16 Jun 2017 23:56:50 +0000 (UTC)
+Received: from mail-ua0-f174.google.com (mail-ua0-f174.google.com
+	[209.85.217.174])
+	by smtp.gnome.org (Postfix) with ESMTPS id 887BD760B1
+	for <gnome-women-list@gnome.org>; Fri, 16 Jun 2017 23:56:50 +0000 (UTC)
+Received: by mail-ua0-f174.google.com with SMTP id m31so34113668uam.1
+	for <gnome-women-list@gnome.org>; Fri, 16 Jun 2017 16:56:50 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20161025;
+	h=mime-version:sender:from:date:message-id:subject:to;
+	bh=vkei64UyIYMVHx+QR8oxvnj6dl/YBbPfs+gbmlwEcxM=;
+	b=Ux5fs8Cs/JsYrn/2vM2cCm66hPToYfHgQ2kMRNuJzrgx5aQOt1O4XCs3LLYwUPzdpY
+	XQYdNSiA5PAY/AoSlQj30Lvmkfx97AFFkcZPJT53xpYYmut++3ikgiXm8NLPFaqFV7St
+	O6mpsnmKdIpzEA08v2SPHlRiAQAYJO0ZLyYAKC6v7teowYlY92+pC7QV9InPB/IT+5IK
+	gKaYRgWA6K1H7af7DujeLlnYc8OH3AGQnvP1at0y5jIhMtGeH42EHO8Nl92uYPqx/Yvj
+	KKb8Q/raW8XsS06BPh3WlrIfi/llPrvVxuowvLL/aZ7CaOGenOxu+m00AobxImss+RPw
+	+UAw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=1e100.net; s=20161025;
+	h=x-gm-message-state:mime-version:sender:from:date:message-id:subject
+	:to; bh=vkei64UyIYMVHx+QR8oxvnj6dl/YBbPfs+gbmlwEcxM=;
+	b=Mn5JT1wMDD+uNDuwxs3DtTTsPSc9q6wZefERqbuKsL+/uIPPGzy78+puT79zd8Jfj3
+	UM4pjdVjmGwU96q4NLTLB83vzKEsjgCRXgBwDG9HUFhL6VSCSLx/xeLchv47B563CYNB
+	tSehbSs+hLi7N6yor0NsWn/6KBmpfla7JKlHpwKflIjTiQfrMx/nGdtFPUzCDjzN/zpo
+	ch+Fe6LJ89lcLgsxWkoiONh8UBbmIPNzqWFmeN8u49WfreMPqM9U6La1UIsSrNeMqtQZ
+	+xunrE2MHQvWPhb6vJfNKqh9yGezAvhal82KVDAySJg+jAoUWrTzKAx9e1OCW26geN0H
+	RW4g==
+X-Gm-Message-State: AKS2vOwQN5W7u8vlp4xX+XDrRys9w+NGXNmAENOzZDjIAX6GMY84ncB7
+	ZvFvNjD4JqWSDw0/t/T23s0xugnrrMu1fFc=
+X-Received: by 10.176.85.146 with SMTP id v18mr7308067uaa.28.1497657408234;
+	Fri, 16 Jun 2017 16:56:48 -0700 (PDT)
+MIME-Version: 1.0
+Sender: nuritzis@gmail.com
+Received: by 10.103.79.157 with HTTP; Fri, 16 Jun 2017 16:56:27 -0700 (PDT)
+From: Nuritzi Sanchez <nuritzis@stanfordalumni.org>
+Date: Fri, 16 Jun 2017 16:56:27 -0700
+X-Google-Sender-Auth: wU-lbiHpviH_khy7p9IYGwd8cAw
+Message-ID: <CAKzqScSxnBnTkbHq+dfKiDndp04UYUBdWrgW2sZvAE=yHoGKpg@mail.gmail.com>
+To: gnome-women-list@gnome.org
+Content-Type: multipart/alternative; boundary="f403045dd2ced02ef905521c8945"
+Subject: [gnome-women] RSVP: Women's Dinner at GUADEC 2017
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.23
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 16 Jun 2017 23:56:52 -0000
+
+--f403045dd2ced02ef905521c8945
+Content-Type: text/plain; charset="UTF-8"
+
+Hi all,
+
+Since Marina will not be able to attend this year's GUADEC
+<https://2017.guadec.org/> [1], I'm trying to help organize the annual Women's
+Dinner <https://wiki.gnome.org/GnomeWomen/Events/GUADEC/2017/WomensDinner> [2]
+in her stead. Thanks for helping to establish the tradition, Marina!
+
+If you are attending GUADEC this year, it'd be great to meet you at the
+dinner! We're still figuring out where and when it will be and I'll update
+this list, and the wiki page, as soon as I have more information. I'm
+coordinating with the GUADEC team so that we try to choose a time that
+won't interfere with other important social events at GUADEC.
+
+*If you are interested in attending the annual women's dinner*, please sign
+up on the wiki page
+<https://wiki.gnome.org/GnomeWomen/Events/GUADEC/2017/WomensDinner> [2] so
+that I can get a sense for how many people might be available (this helps
+with reservation planning, for example).
+
+If you have any questions about the event, please let me know.
+
+Thank you, and I hope to see some of you at GUADEC!
+
+Best,
+Nuritzi
+
+
+[1] https://2017.guadec.org/
+[2] https://wiki.gnome.org/GnomeWomen/Events/GUADEC/2017/WomensDinner
+
+............................................................
+.................
+
+*Nuritzi Sanchez*  |  +1.650.218.7388 |  Endless <http://endlessm.com/>
+
+--f403045dd2ced02ef905521c8945
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi all,=C2=A0<div><br></div><div>Since Marina will not be =
+able to attend this year&#39;s <a href=3D"https://2017.guadec.org/">GUADEC<=
+/a> [1], I&#39;m trying to help organize the annual <a href=3D"https://wiki=
+.gnome.org/GnomeWomen/Events/GUADEC/2017/WomensDinner">Women&#39;s Dinner</=
+a>=C2=A0[2] in her stead. Thanks for helping to establish the tradition, Ma=
+rina!</div><div><br></div><div>If you are attending GUADEC this year, it&#3=
+9;d be great to meet you at the dinner! We&#39;re still figuring out where =
+and when it will be and I&#39;ll update this list, and the wiki page, as so=
+on as I have more information. I&#39;m coordinating with the GUADEC team so=
+ that we try to choose a time that won&#39;t interfere with other important=
+ social events at GUADEC.</div><div><br></div><div><b>If you are interested=
+ in attending the annual women&#39;s dinner</b>, please sign up on the <a h=
+ref=3D"https://wiki.gnome.org/GnomeWomen/Events/GUADEC/2017/WomensDinner">w=
+iki page</a>=C2=A0[2] so that I can get a sense for how many people might b=
+e available (this helps with reservation planning, for example).=C2=A0</div=
+><div><br></div><div>If you have any questions about the event, please let =
+me know. =C2=A0<br clear=3D"all"><div><br></div>Thank you, and I hope to se=
+e some of you at GUADEC!</div><div><br></div><div>Best,=C2=A0</div><div>Nur=
+itzi</div><div><div class=3D"gmail_signature"><div dir=3D"ltr"><div><div di=
+r=3D"ltr"><div dir=3D"ltr"><div dir=3D"ltr" style=3D"font-family:arial;font=
+-size:small"><br></div><div dir=3D"ltr" style=3D"font-family:arial;font-siz=
+e:small"><br></div><div dir=3D"ltr" style=3D"font-family:arial;font-size:sm=
+all">[1]=C2=A0<a href=3D"https://2017.guadec.org/">https://2017.guadec.org/=
+</a></div><div dir=3D"ltr" style=3D"font-family:arial;font-size:small">[2]=
+=C2=A0<a href=3D"https://wiki.gnome.org/GnomeWomen/Events/GUADEC/2017/Women=
+sDinner">https://wiki.gnome.org/GnomeWomen/Events/GUADEC/2017/WomensDinner<=
+/a></div><div dir=3D"ltr" style=3D"font-family:arial;font-size:small"><br><=
+/div><div dir=3D"ltr" style=3D"font-family:arial;font-size:small"><div dir=
+=3D"ltr"><span style=3D"color:rgb(68,68,68);font-family:arial,helvetica,san=
+s-serif;white-space:pre-wrap">..............................</span><span st=
+yle=3D"color:rgb(68,68,68);font-family:arial,helvetica,sans-serif;white-spa=
+ce:pre-wrap">..............................</span><span style=3D"color:rgb(=
+68,68,68);font-family:arial,helvetica,sans-serif;white-space:pre-wrap">....=
+.............</span><br></div><div dir=3D"ltr"><span style=3D"color:rgb(68,=
+68,68);font-family:arial,helvetica,sans-serif;white-space:pre-wrap"><br></s=
+pan></div><div dir=3D"ltr"><b style=3D"color:rgb(96,96,96);font-family:Aria=
+l;font-size:13.3333px">Nuritzi Sanchez</b><span style=3D"color:rgb(96,96,96=
+);font-family:Arial;font-size:13.3333px">=C2=A0=C2=A0|=C2=A0</span><font co=
+lor=3D"#666666" style=3D"font-family:arial,sans-serif;font-size:12.8px"><fo=
+nt style=3D"font-size:13px">=C2=A0+1.</font><a value=3D"+12039126798" style=
+=3D"font-size:13px">650.218.7388</a><font style=3D"font-size:13px">=C2=A0|=
+=C2=A0</font><font style=3D"font-size:13px">=C2=A0</font><font style=3D"fon=
+t-size:13px"><a href=3D"http://endlessm.com/" target=3D"_blank">Endless</a>=
+</font></font>=C2=A0</div></div></div></div></div></div></div>
+</div></div>
+
+--f403045dd2ced02ef905521c8945--
+From nuritzis@gmail.com  Thu Jun 29 02:13:26 2017
+Return-Path: <nuritzis@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.gnome.org (Postfix) with ESMTP id 4B7777621D;
+	Thu, 29 Jun 2017 02:13:26 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.399
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.399 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_SORBS_SPAM=0.5, SPF_PASS=-0.001] autolearn=no
+Received: from smtp.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id mYjtKgSjgdmZ; Thu, 29 Jun 2017 02:13:23 +0000 (UTC)
+Received: from mail-ua0-f175.google.com (mail-ua0-f175.google.com
+	[209.85.217.175])
+	by smtp.gnome.org (Postfix) with ESMTPS id E1CF1762A6;
+	Thu, 29 Jun 2017 02:13:22 +0000 (UTC)
+Received: by mail-ua0-f175.google.com with SMTP id j53so48906484uaa.2;
+	Wed, 28 Jun 2017 19:13:22 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20161025;
+	h=mime-version:sender:from:date:message-id:subject:to:cc;
+	bh=dkJTSQN8dFEB789eYfttrbayd/n9270ciOqoPHm0DeA=;
+	b=da2gx9n8V/2Aw2dt4XRnqq4iURBZOhFA2uIcalcy8f0fqGIqCakepi1xfG6HLNH+Aw
+	S8NHz2/z22ixmzN7zBpzJ5XgOgyGaA3u/t2E1ki3/NAhHTjPoz6w5Qall1MrQ/vUmFnV
+	peBwYdj5lpbEYW8MQFeVb1/g77ns8RExl72zGJq7RViqXqGWRiqcX08tqBYqvFkwuiXk
+	pd/77Ma8Hj+F1nXRaJ21/S8wRrTOjV0p82ggHv6JjK6SNkx5LH4NK9j5Rk1ImSJPHumE
+	jNz1+GwebDJxg8iujiy3MBz3V4OABJgudo6Kb2sSodA3FscLWI2+9DBnhgDodtXNwxSi
+	xunw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=1e100.net; s=20161025;
+	h=x-gm-message-state:mime-version:sender:from:date:message-id:subject
+	:to:cc;
+	bh=dkJTSQN8dFEB789eYfttrbayd/n9270ciOqoPHm0DeA=;
+	b=WPOJ0eQ40p8Od+tTvU3hSHdyXplnhPU6MtvD+K3j8bsRfB8INO/1/p1DPuxfxucE7G
+	sbpwlXN1QW6wIyJ3XGJixRERNP/D+yYi6XEws2BFrQXg3bFo2kKROmnv6igtdZr3wvxh
+	qbZ9LOoobc88GKw7oygmexAwQ0uO+NW8tN6zQhqCHo4cfv5OgVXeVe+qvq1tKt6uMAuL
+	Whyhu40MMM0mYMvp0bQFc2FNJxu9y57xl8jRzhFStlTWcNp9slgBWglAxozrwdG4rewP
+	skRJu4iST4l3ecaTEj5ck0a8rPJm2YlOE/afHYVBRTFxfP6p+s6tkpSrlJ7pgg7qqJmA
+	w+hA==
+X-Gm-Message-State: AKS2vOzVL39cqfT3+aYHigIWZs+bajmMMMUN5YR5C0VKsxD1xA73OTNs
+	SifE/USZ/YMkPMq99PAaSwlAHCWHg39w
+X-Received: by 10.176.85.20 with SMTP id t20mr7106351uaa.28.1498702400326;
+	Wed, 28 Jun 2017 19:13:20 -0700 (PDT)
+MIME-Version: 1.0
+Sender: nuritzis@gmail.com
+Received: by 10.103.74.87 with HTTP; Wed, 28 Jun 2017 19:12:59 -0700 (PDT)
+From: Nuritzi Sanchez <nuritzis@stanfordalumni.org>
+Date: Wed, 28 Jun 2017 19:12:59 -0700
+X-Google-Sender-Auth: 8d2EjMrNiS_3Q5Fz01KlqxcP6Fg
+Message-ID: <CAKzqScTpXjnjM=DTmtCc3NR9B0-aXJohjQWE2BHtZaJi5P=k=Q@mail.gmail.com>
+To: gnome-women-list@gnome.org
+Cc: robin@endlessm.com, Kate Lassalle-Klein <katelk28@gmail.com>, 
+	Cassandra Sanchez <cassandra.s.18@gmail.com>,
+	Rosanna Yuen <zana@gnome.org>, Adelia Rahim <Adeliarahim@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>
+Content-Type: multipart/alternative; boundary="f403045dd9643214ca05530fd825"
+Subject: [gnome-women] Vote | Opening the Women's Dinner
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.23
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 29 Jun 2017 02:13:26 -0000
+
+--f403045dd9643214ca05530fd825
+Content-Type: text/plain; charset="UTF-8"
+
+Hi All,
+
+I know we talked about this last year, but I'd like to revisit the idea of
+opening up the women's dinner to the larger GUADEC attendees based on the
+experience we had last year.
+
+The idea is that we could make it a "Women's Celebration Dinner - a dinner
+celebrating the contributions of women in open source and a chance to meet
+and connect with other women." We could say that this event is especially
+meant for women and people who identify as wome (cis and trans) and
+genderqueer people, but that the event is open to anyone who wants to
+attend.
+
+I'm including people who have already expressed interest in this year's
+dinner.
+
+Can you please respond with a vote for:
+
+
+Should we open the women's dinner?
+
+
+   1. Yes, I have a *strong* preference to open it to anyone who would like
+      to attend
+      2. Yes, I have a *slight* preference to open it to anyone who would
+      like to attend
+      3. No, I have a *slight* preference to keep it Women (cis and trans)
+      and genderqueer people only
+      4. No, I have a *strong* preference to keep it Women (cis and trans)
+      and genderqueer people only
+
+
+Feel free to message me privately if you'd prefer not to vote publicly and
+also feel free to discuss. I'm including those who have already signed up
+to attend, and also some women from Endless who have expressed interest in
+attending the women's dinner this year.
+
+Thanks!
+
+Best,
+Nuritzi
+
+............................................................
+.................
+
+*Nuritzi Sanchez*  |  +1.650.218.7388 |  Endless <http://endlessm.com/>
+
+--f403045dd9643214ca05530fd825
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi All,=C2=A0<div><br></div><div>I know we talked about th=
+is last year, but I&#39;d like to revisit the idea of opening up the women&=
+#39;s dinner to the larger GUADEC attendees based on the experience we had =
+last year.</div><div><br></div><div>The idea is that we could make it a &qu=
+ot;Women&#39;s Celebration Dinner - a dinner celebrating the contributions =
+of women in open source and a chance to meet and connect with other women.&=
+quot; We could say that this event is especially meant for women and people=
+ who identify as wome (cis and trans) and genderqueer people, but that the =
+event is open to anyone who wants to attend.</div><div><br></div><div>I&#39=
+;m including people who have already expressed interest in this year&#39;s =
+dinner.=C2=A0</div><div><br></div><div>Can you please respond with a vote f=
+or:=C2=A0</div><div><blockquote style=3D"margin:0 0 0 40px;border:none;padd=
+ing:0px"><div><br></div><div>Should we open the women&#39;s dinner?</div></=
+blockquote></div><div><ol><ol><li>Yes, I have a <u>strong</u> preference to=
+ open it to anyone who would like to attend</li><li>Yes, I have a <u>slight=
+</u> preference to open it to anyone who would like to attend</li><li>No, I=
+ have a <u>slight</u> preference to keep it=C2=A0Women (cis and trans) and =
+genderqueer people only</li><li>No, I have a <u>strong</u> preference to ke=
+ep it Women (cis and trans) and genderqueer people only</li></ol></ol></div=
+><div><br></div><div>Feel free to message me privately if you&#39;d prefer =
+not to vote publicly and also feel free to discuss. I&#39;m including those=
+ who have already signed up to attend, and also some women from Endless who=
+ have expressed interest in attending the women&#39;s dinner this year.</di=
+v><div><br></div><div>Thanks!<br><br>Best,=C2=A0</div><div>Nuritzi<br><div =
+class=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><div dir=
+=3D"ltr"><div dir=3D"ltr" style=3D"font-family:arial;font-size:small"><br><=
+/div><div dir=3D"ltr" style=3D"font-family:arial;font-size:small"><div dir=
+=3D"ltr"><span style=3D"color:rgb(68,68,68);font-family:arial,helvetica,san=
+s-serif;white-space:pre-wrap">..............................</span><span st=
+yle=3D"color:rgb(68,68,68);font-family:arial,helvetica,sans-serif;white-spa=
+ce:pre-wrap">..............................</span><span style=3D"color:rgb(=
+68,68,68);font-family:arial,helvetica,sans-serif;white-space:pre-wrap">....=
+.............</span><br></div><div dir=3D"ltr"><span style=3D"color:rgb(68,=
+68,68);font-family:arial,helvetica,sans-serif;white-space:pre-wrap"><br></s=
+pan></div><div dir=3D"ltr"><b style=3D"color:rgb(96,96,96);font-family:Aria=
+l;font-size:13.3333px">Nuritzi Sanchez</b><span style=3D"color:rgb(96,96,96=
+);font-family:Arial;font-size:13.3333px">=C2=A0=C2=A0|=C2=A0</span><font co=
+lor=3D"#666666" style=3D"font-family:arial,sans-serif;font-size:12.8px"><fo=
+nt style=3D"font-size:13px">=C2=A0+1.</font><a value=3D"+12039126798" style=
+=3D"font-size:13px">650.218.7388</a><font style=3D"font-size:13px">=C2=A0|=
+=C2=A0</font><font style=3D"font-size:13px">=C2=A0</font><font style=3D"fon=
+t-size:13px"><a href=3D"http://endlessm.com/" target=3D"_blank">Endless</a>=
+</font></font>=C2=A0</div></div></div></div></div></div></div>
+</div></div>
+
+--f403045dd9643214ca05530fd825--

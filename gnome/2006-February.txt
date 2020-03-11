@@ -1,0 +1,487 @@
+From clytie@riverland.net.au  Tue Feb 14 01:24:36 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP
+	id 9264F3B1278; Tue, 14 Feb 2006 01:24:36 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15540-08; Tue, 14 Feb 2006 01:24:35 -0500 (EST)
+Received: from smtp3.adl2.internode.on.net (smtp3.adl2.internode.on.net
+	[203.16.214.203]) by menubar.gnome.org (Postfix) with ESMTP
+	id C7F8A3B10A0; Tue, 14 Feb 2006 01:24:34 -0500 (EST)
+Received: from [10.1.1.91] (ppp211-13.lns1.adl2.internode.on.net
+	[203.122.211.13])
+	by smtp3.adl2.internode.on.net (8.13.5/8.13.5) with ESMTP id
+	k1E6OV4E099598; Tue, 14 Feb 2006 16:54:32 +1030 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.2)
+In-Reply-To: <43F0FA57.1040409@profusion.it>
+References: <87d5hrp3va.fsf@avet.kvota.net> <43F0FA57.1040409@profusion.it>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <962A360F-8FEF-4CB1-A828-9A46DD1DE6FD@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 14 Feb 2006 16:54:30 +1030
+To: gnome-i18n@gnome.org, gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.746.2)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.978 tagged_above=-999 required=2
+	tests=[AWL=-0.447, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.978
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Re: Georgian Gnome l10n state
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 14 Feb 2006 06:24:36 -0000
+
+
+On 14/02/2006, at 7:59 AM, Alinux wrote (very much in part):
+
+> Ubuntu Translators + GIA.ge =3D I, Alexander, Gia Shervashidze =
+(Mozilla
+> localisator)
+> our girlfriends (linguist students), Temuri Doghonadze, and Gio
+> Machitidze (GioMac)...
+
+Mobrdzandeet to you all! :)  (Welcome!)
+
+Temuri Doghonadze, Gio Machitidze, I also invite you to join Gnome-=20
+Women:
+
+http://live.gnome.org/GnomeWomen
+
+I hope to meet you there. :)
+
+"GNOME Women is a group dedicated to providing encouragement for =20
+women to contribute to GNOME."
+
+Everyone with that aim in view is welcome, but I am speaking =20
+personally to female translators like this, because we have too few =20
+of them, and I think together, we can try to address some of the =20
+reasons why. :)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+From clytie@riverland.net.au  Tue Feb 14 01:34:14 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 483063B128F
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 01:34:14 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16115-01 for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 01:34:13 -0500 (EST)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 8F4F03B1278
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 01:34:12 -0500 (EST)
+Received: from [10.1.1.91] (ppp211-13.lns1.adl2.internode.on.net
+	[203.122.211.13])
+	by ash25e.internode.on.net (8.13.5/8.13.5) with ESMTP id k1E6YBxg051408
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 17:04:11 +1030 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.2)
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <3A5EA5DF-6ADA-4207-BDB2-24ECB264F851@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+To: gnome-women-list@mail.gnome.org
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 14 Feb 2006 17:04:09 +1030
+X-Mailer: Apple Mail (2.746.2)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.98 tagged_above=-999 required=2 tests=[AWL=-0.449, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.98
+X-Spam-Level: 
+Subject: [gnome-women] Catching up
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 14 Feb 2006 06:34:14 -0000
+
+Hi everyone :)
+
+Sorry I haven't been participating: I was out of action for some =20
+time, then had to catch up on a lot of translation. The string-freeze =20=
+
+_should_ free me up a bit.
+
+I'm sorry I missed our Bug Day, but hope to contribute to the next =20
+get-together via computer (I can't get around any other way ;) ).
+
+Mary, if we do have a translation session, we could make it =20
+translation/documentation. There's a lot of work needed to be done by =20=
+
+people in English, before we can effectively translate the results. =20
+At least some of the docs need updating/checking. Christian could =20
+probably give us a good view on that.
+
+I've copied a message here, inviting a couple of new female =20
+translators to join. Hope that's OK.
+
+Also hoping things are going as well as possible for you all. :)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+From clytie@riverland.net.au  Tue Feb 14 01:24:36 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP
+	id 9264F3B1278; Tue, 14 Feb 2006 01:24:36 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15540-08; Tue, 14 Feb 2006 01:24:35 -0500 (EST)
+Received: from smtp3.adl2.internode.on.net (smtp3.adl2.internode.on.net
+	[203.16.214.203]) by menubar.gnome.org (Postfix) with ESMTP
+	id C7F8A3B10A0; Tue, 14 Feb 2006 01:24:34 -0500 (EST)
+Received: from [10.1.1.91] (ppp211-13.lns1.adl2.internode.on.net
+	[203.122.211.13])
+	by smtp3.adl2.internode.on.net (8.13.5/8.13.5) with ESMTP id
+	k1E6OV4E099598; Tue, 14 Feb 2006 16:54:32 +1030 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.2)
+In-Reply-To: <43F0FA57.1040409@profusion.it>
+References: <87d5hrp3va.fsf@avet.kvota.net> <43F0FA57.1040409@profusion.it>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <962A360F-8FEF-4CB1-A828-9A46DD1DE6FD@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 14 Feb 2006 16:54:30 +1030
+To: gnome-i18n@gnome.org, gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.746.2)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.978 tagged_above=-999 required=2
+	tests=[AWL=-0.447, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.978
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Re: Georgian Gnome l10n state
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 14 Feb 2006 06:24:36 -0000
+
+
+On 14/02/2006, at 7:59 AM, Alinux wrote (very much in part):
+
+> Ubuntu Translators + GIA.ge =3D I, Alexander, Gia Shervashidze =
+(Mozilla
+> localisator)
+> our girlfriends (linguist students), Temuri Doghonadze, and Gio
+> Machitidze (GioMac)...
+
+Mobrdzandeet to you all! :)  (Welcome!)
+
+Temuri Doghonadze, Gio Machitidze, I also invite you to join Gnome-=20
+Women:
+
+http://live.gnome.org/GnomeWomen
+
+I hope to meet you there. :)
+
+"GNOME Women is a group dedicated to providing encouragement for =20
+women to contribute to GNOME."
+
+Everyone with that aim in view is welcome, but I am speaking =20
+personally to female translators like this, because we have too few =20
+of them, and I think together, we can try to address some of the =20
+reasons why. :)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From clytie@riverland.net.au  Tue Feb 14 01:34:14 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 483063B128F
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 01:34:14 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16115-01 for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 01:34:13 -0500 (EST)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 8F4F03B1278
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 01:34:12 -0500 (EST)
+Received: from [10.1.1.91] (ppp211-13.lns1.adl2.internode.on.net
+	[203.122.211.13])
+	by ash25e.internode.on.net (8.13.5/8.13.5) with ESMTP id k1E6YBxg051408
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 17:04:11 +1030 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.2)
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <3A5EA5DF-6ADA-4207-BDB2-24ECB264F851@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+To: gnome-women-list@mail.gnome.org
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 14 Feb 2006 17:04:09 +1030
+X-Mailer: Apple Mail (2.746.2)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.98 tagged_above=-999 required=2 tests=[AWL=-0.449, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.98
+X-Spam-Level: 
+Subject: [gnome-women] Catching up
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 14 Feb 2006 06:34:14 -0000
+
+Hi everyone :)
+
+Sorry I haven't been participating: I was out of action for some =20
+time, then had to catch up on a lot of translation. The string-freeze =20=
+
+_should_ free me up a bit.
+
+I'm sorry I missed our Bug Day, but hope to contribute to the next =20
+get-together via computer (I can't get around any other way ;) ).
+
+Mary, if we do have a translation session, we could make it =20
+translation/documentation. There's a lot of work needed to be done by =20=
+
+people in English, before we can effectively translate the results. =20
+At least some of the docs need updating/checking. Christian could =20
+probably give us a good view on that.
+
+I've copied a message here, inviting a couple of new female =20
+translators to join. Hope that's OK.
+
+Also hoping things are going as well as possible for you all. :)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From clytie@riverland.net.au  Tue Feb 14 01:24:36 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP
+	id 9264F3B1278; Tue, 14 Feb 2006 01:24:36 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15540-08; Tue, 14 Feb 2006 01:24:35 -0500 (EST)
+Received: from smtp3.adl2.internode.on.net (smtp3.adl2.internode.on.net
+	[203.16.214.203]) by menubar.gnome.org (Postfix) with ESMTP
+	id C7F8A3B10A0; Tue, 14 Feb 2006 01:24:34 -0500 (EST)
+Received: from [10.1.1.91] (ppp211-13.lns1.adl2.internode.on.net
+	[203.122.211.13])
+	by smtp3.adl2.internode.on.net (8.13.5/8.13.5) with ESMTP id
+	k1E6OV4E099598; Tue, 14 Feb 2006 16:54:32 +1030 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.2)
+In-Reply-To: <43F0FA57.1040409@profusion.it>
+References: <87d5hrp3va.fsf@avet.kvota.net> <43F0FA57.1040409@profusion.it>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <962A360F-8FEF-4CB1-A828-9A46DD1DE6FD@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 14 Feb 2006 16:54:30 +1030
+To: gnome-i18n@gnome.org, gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.746.2)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.978 tagged_above=-999 required=2
+	tests=[AWL=-0.447, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.978
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Re: Georgian Gnome l10n state
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 14 Feb 2006 06:24:36 -0000
+
+
+On 14/02/2006, at 7:59 AM, Alinux wrote (very much in part):
+
+> Ubuntu Translators + GIA.ge =3D I, Alexander, Gia Shervashidze =
+(Mozilla
+> localisator)
+> our girlfriends (linguist students), Temuri Doghonadze, and Gio
+> Machitidze (GioMac)...
+
+Mobrdzandeet to you all! :)  (Welcome!)
+
+Temuri Doghonadze, Gio Machitidze, I also invite you to join Gnome-=20
+Women:
+
+http://live.gnome.org/GnomeWomen
+
+I hope to meet you there. :)
+
+"GNOME Women is a group dedicated to providing encouragement for =20
+women to contribute to GNOME."
+
+Everyone with that aim in view is welcome, but I am speaking =20
+personally to female translators like this, because we have too few =20
+of them, and I think together, we can try to address some of the =20
+reasons why. :)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From clytie@riverland.net.au  Tue Feb 14 01:34:14 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 483063B128F
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 01:34:14 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16115-01 for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 01:34:13 -0500 (EST)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 8F4F03B1278
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 01:34:12 -0500 (EST)
+Received: from [10.1.1.91] (ppp211-13.lns1.adl2.internode.on.net
+	[203.122.211.13])
+	by ash25e.internode.on.net (8.13.5/8.13.5) with ESMTP id k1E6YBxg051408
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 14 Feb 2006 17:04:11 +1030 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v746.2)
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <3A5EA5DF-6ADA-4207-BDB2-24ECB264F851@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+To: gnome-women-list@mail.gnome.org
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 14 Feb 2006 17:04:09 +1030
+X-Mailer: Apple Mail (2.746.2)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.98 tagged_above=-999 required=2 tests=[AWL=-0.449, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.98
+X-Spam-Level: 
+Subject: [gnome-women] Catching up
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 14 Feb 2006 06:34:14 -0000
+
+Hi everyone :)
+
+Sorry I haven't been participating: I was out of action for some =20
+time, then had to catch up on a lot of translation. The string-freeze =20=
+
+_should_ free me up a bit.
+
+I'm sorry I missed our Bug Day, but hope to contribute to the next =20
+get-together via computer (I can't get around any other way ;) ).
+
+Mary, if we do have a translation session, we could make it =20
+translation/documentation. There's a lot of work needed to be done by =20=
+
+people in English, before we can effectively translate the results. =20
+At least some of the docs need updating/checking. Christian could =20
+probably give us a good view on that.
+
+I've copied a message here, inviting a couple of new female =20
+translators to join. Hope that's OK.
+
+Also hoping things are going as well as possible for you all. :)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+

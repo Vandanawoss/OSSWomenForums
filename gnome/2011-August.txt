@@ -1,0 +1,534 @@
+From tobias.wittke@gmx.net  Mon Aug  1 16:35:49 2011
+Return-Path: <tobias.wittke@gmx.net>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 82F54750104
+	for <gnome-women-list@gnome.org>; Mon,  1 Aug 2011 16:35:49 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.696
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.696 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_NONE=-0.0001, 
+	RP_MATCHES_RCVD=-0.806, SPF_PASS=-0.001, T_TO_NO_BRKTS_FREEMAIL=0.01]
+	autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 4mUv8gXABCvk for <gnome-women-list@gnome.org>;
+	Mon,  1 Aug 2011 16:35:46 +0000 (UTC)
+Received: from mailout-de.gmx.net (mailout-de.gmx.net [213.165.64.22])
+	by menubar.gnome.org (Postfix) with SMTP id 2205075002C
+	for <gnome-women-list@gnome.org>; Mon,  1 Aug 2011 16:35:37 +0000 (UTC)
+Received: (qmail invoked by alias); 01 Aug 2011 16:35:34 -0000
+Received: from imp054018.vpn.mi.fu-berlin.de (EHLO [130.133.54.18])
+	[130.133.54.18]
+	by mail.gmx.net (mp010) with SMTP; 01 Aug 2011 18:35:34 +0200
+X-Authenticated: #33091492
+X-Provags-ID: V01U2FsdGVkX19QoklALYBQogiKE6OpBd9yrKRx5akF0VC261aRD6
+	a7DrDGDcp+Mqfx
+Message-ID: <4E36D5D6.8090708@gmx.net>
+Date: Mon, 01 Aug 2011 18:35:34 +0200
+From: Tobias Wittke <tobias.wittke@gmx.net>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US;
+	rv:1.9.2.18) Gecko/20110617 Lightning/1.0b2 Thunderbird/3.1.11
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+X-Enigmail-Version: 1.1.2
+Content-Type: text/plain; charset=ISO-8859-15
+Content-Transfer-Encoding: 8bit
+X-Y-GMX-Trusted: 0
+Subject: [gnome-women] Invitation for talk or lecture
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 01 Aug 2011 16:35:49 -0000
+
+### English version ################# (find a German version below) ###
+
+Hi,
+
+my name is Tobias Wittke an I am involved in the Linux project and the
+student body at our CS department at Freie Universität Berlin. In
+cooperation with student organizations from other departments we are
+organising our third critical lecture series (as in Critical Theory) and
+try to shed a light on aspects of fields, that usually don't come up in
+the regular course of study.
+
+Sadly, I noticed that gender and sex seldomly are seen as the important
+categories that they are and awareness about it is in poor supply.
+Exclusion and discrimating practises are overlooked too often or even
+naturalised and vindicated.
+
+
+That is why, in the course of our lecture series, we would like to
+invite you to illustrate the challenges women face in CS and FLOSS and
+maybe show how more gender equality can be achieved.
+If you already have something like this lying around or planning for
+something similar in the near future and can commit to a lecture next
+semester, we would like hearing from you.
+
+Unfortunatelly the accompaning brochure goes to print in two weeks and
+we would need a title (and maybe a very short description) until then.
+
+We can't pay you anything, but you are free to choose any date between
+early November 2011 and early February 2012, so maybe you are in Berlin
+for something differend anyway and would like to come.
+
+
+Thank you very much for your attention. We are looking forward to maybe
+welcoming you next semester.
+
+
+Yours sincerely,
+Tobias Wittke
+
+
+[btw: We are also holding regular talks on FLOSS, so if you would like
+to present one of your projects, feel free to contact us too ;) ]
+
+
+
+### German version ###################################################
+
+
+Hallo,
+
+mein Name ist Tobias Wittke und ich engagiere mich an der Freien
+Universität Berlin in der Fachschaftsinitiative Informatik und dem
+Studentischen Projekt Linux Netzwerke. Zusammen mit Initiativen anderer
+Fachbereiche möchten wir im kommenden Wintersemester zum dritten Mal
+eine kritische Veranstaltungsreihe organisieren und Aspekte unserer
+Fachwissenschaften beleuchten, die sonst leider nicht im üblichen
+Studienverlauf auftauchen.
+
+Leider muss ich immer wieder feststellen, dass die Themen Gender &
+Geschlecht vielfach nicht als wichtige Kategorien wahrgenommen werden
+und ein Problembewusstsein nur unzureichend vorhanden ist. Ausschluss
+und diskriminierende Praxen werden daher oft nicht erkannt oder sogar
+naturalisiert und verteidigt.
+
+
+Daher würde ich Sie gern dazu einladen, im Rahmen der Kritischen
+Veranstaltungsreihe, zu veranschaulichen, welchen besonderen
+Herausfoderungen Frauen in der Informatik bzw. der FLOSS-Bewegung im
+gegenüberstehen, und wie zu mehr Geschlechter-Gerechtigkeit beigetragen
+werden kann. Ich wende mich in der Hoffnung an Sie, dass Sie Derartiges
+vielleicht schon in der Schublade haben oder schon länger mit dem
+Gedanken spielen eine ähnliche Veranstaltung zu halten und entsprechend
+schon Material im Auge haben um schon jetzt entscheiden zu können ob sie
+im kommenden Semester eine Vortrag zu unserer Reihe beitragen können.
+
+
+Leider drückt uns schon ein bisschen der einzig freie Drucktermin für
+die Begleithefte, weshalb wir Titel und eine verbindliche Zusage
+innerhalb der nächsten zwei Wochen bräuchten.
+
+Ein Budget haben wir leider nicht und können daher keine Anfahrts- oder
+Übernachtungkosten übernehmen, da Sie den Termin aber selbst im Zeitraum
+November 2011 bis Anfang Februar 2012 wählen können, ergibt sich
+vielleicht eine Möglichkeit, den Vortrag mit einem anderen Termin in
+Berlin zu kombinieren.
+
+
+Ich bedanke mich für ihre Aufmerksamkeit und würde mich sehr freuen, Sie
+im Wintersemester bei uns begrüßen zu können.
+
+
+
+Hochachtungsvoll,
+Tobias Wittke
+
+
+[Randnotiz: Wir organisieren auch regelmäßig Vorträge zu freier
+Software. Sollten Sie Lust haben eines ihrer Projekte bei uns
+vorzustellen, freuen wir uns auch dazu von Ihnen zu hören ;) ]
+
+
+From marinaz@redhat.com  Fri Aug  5 11:11:53 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C846D7500C5;
+	Fri,  5 Aug 2011 11:11:53 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.833
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.833 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.931,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NmViHZ3KvQBj; Fri,  5 Aug 2011 11:11:48 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id 96D6F7500B4;
+	Fri,  5 Aug 2011 11:11:40 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p75BBdIk015815;
+	Fri, 5 Aug 2011 07:11:39 -0400
+Date: Fri, 5 Aug 2011 07:11:39 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>,
+	opw-interns-2011@gnome.org, opw-gsoc-interns-2011@gnome.org
+Message-ID: <1377594229.636314.1312542699173.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.71]
+X-Mailer: Zimbra 6.0.9_GA_2686 (ZimbraWebClient - SAF3 (Linux)/6.0.9_GA_2686)
+Subject: [gnome-women] GNOME women's dinner details
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 05 Aug 2011 11:11:54 -0000
+
+Hi all!
+
+The GNOME women's dinner at the Desktop Summit will take place on Monday, A=
+ugust 8 at 7pm at the Alt-Berliner Wirtshaus in Mitte.=20
+
+http://www.altberliner-wirtshaus.de/main.html
+
+The address is Wilhelmstra=C3=9Fe 77. It is about a 15 minute walk from the=
+ venue and a 10 minute walk from the City Hostel Berlin, where some people =
+are staying. Here is the map:
+
+http://maps.google.com/maps?q=3DWilhelmstrasse+77,+10117,+Berlin,+Germany&h=
+l=3Den&sll=3D52.5144,13.38123&sspn=3D0.008331,0.013368&z=3D16
+
+Here is the list of 17 people who said they will attend. Please let me know=
+ if you want to join, if you know someone else who wants to join, or if you=
+r plans change.
+
+Tiffany Antopolski
+Tamara Atanasoska
+Emily Chen
+Patricia Santana Cruz
+Luciana Fujii Pontello
+Ekaterina Gerasimova
+Julita Inca
+Stormy Peters
+Julie Pichnon
+Raluca Elena Podiuc
+Anita Reitere
+Karen Sandler
+Srishti Sethi
+Izabel Valverde
+Madhumitha Viswanathan
+Rosanna Yuen
+Marina Zhurakhinskaya
+
+Also, please consider attending the following sessions.
+
+Interns showcase on Saturday, August 6 at 5:15pm where 8 of the OPW/GSoC in=
+terns will be presenting:=20
+https://www.desktopsummit.org/program/sessions/gnome-and-kde-interns-showca=
+se
+
+Women's Networking BoF on Tuesday, August 9 at 6pm:
+http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/Women%27s_Networking_=
+BoF
+
+Mentoring programs feedback BoF on Wednesday, August 10 at 3pm:
+http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/mentoring_programs_fe=
+edback
+
+Look forward to seeing you soon!
+
+Marina
+From rayna.st@gmail.com  Fri Aug  5 11:19:46 2011
+Return-Path: <rayna.st@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 10E207500C4
+	for <gnome-women-list@gnome.org>; Fri,  5 Aug 2011 11:19:46 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aaTrtr+wAMeh for <gnome-women-list@gnome.org>;
+	Fri,  5 Aug 2011 11:19:41 +0000 (UTC)
+Received: from mail-qw0-f54.google.com (mail-qw0-f54.google.com
+	[209.85.216.54])
+	by menubar.gnome.org (Postfix) with ESMTP id E753A75011C
+	for <gnome-women-list@gnome.org>; Fri,  5 Aug 2011 11:19:32 +0000 (UTC)
+Received: by qwc9 with SMTP id 9so2665632qwc.27
+	for <gnome-women-list@gnome.org>; Fri, 05 Aug 2011 04:19:31 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+	:cc:content-type;
+	bh=T2iqnahYL7QEWpwUuZuTVgmY87d5phyKPNSUddu8CtM=;
+	b=SJ2O00Rqym9RSv0gmtRgCnpsPqg8CqnnyzuS3D7vKMwc6Zr7zfLvMb5CavcWf9jJSX
+	ksF5oZcIOUHIj3tgsokfEOY0DRI29CQfhJEquu32E5c1yc0jVOc0tN1zF//HrOj2XNG/
+	2ztYGsplsoYm30+vR1IEHb/JIF2EGlp+oE3Dg=
+Received: by 10.229.62.209 with SMTP id y17mr1492514qch.196.1312543169226;
+	Fri, 05 Aug 2011 04:19:29 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.229.232.139 with HTTP; Fri, 5 Aug 2011 04:18:59 -0700 (PDT)
+In-Reply-To: <1377594229.636314.1312542699173.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<1377594229.636314.1312542699173.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+From: Rayna <rayna.st@gmail.com>
+Date: Fri, 5 Aug 2011 13:18:59 +0200
+Message-ID: <CANACerEs634m5REvdYdST7n5k6Z83NVgmgaxb84NEmChskT2Cw@mail.gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=0016e6546e065aa80004a9c045ec
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] GNOME women's dinner details
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 05 Aug 2011 11:19:46 -0000
+
+--0016e6546e065aa80004a9c045ec
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+2011/8/5 Marina Zhurakhinskaya <marinaz@redhat.com>
+
+> Hi all!
+>
+
+Hi,
+
+This sounds great! But some of us will not be able to attend and I was
+wondering whether there would be some minutes from the BoF sessions
+mentioned below. Thanks :)
+
+>
+> Also, please consider attending the following sessions.
+>
+> Interns showcase on Saturday, August 6 at 5:15pm where 8 of the OPW/GSoC
+> interns will be presenting:
+>
+> https://www.desktopsummit.org/program/sessions/gnome-and-kde-interns-show=
+case
+>
+> Women's Networking BoF on Tuesday, August 9 at 6pm:
+>
+> http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/Women%27s_Networkin=
+g_BoF
+>
+> Mentoring programs feedback BoF on Wednesday, August 10 at 3pm:
+>
+> http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/mentoring_programs_=
+feedback
+>
+> Look forward to seeing you soon!
+>
+> Marina
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+
+
+
+Rayna
+
+--=20
+"Change l'ordre du monde plut=C3=B4t que tes d=C3=A9sirs."
+
+--0016e6546e065aa80004a9c045ec
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<br><br><div class=3D"gmail_quote">2011/8/5 Marina Zhurakhinskaya <span dir=
+=3D"ltr">&lt;<a href=3D"mailto:marinaz@redhat.com">marinaz@redhat.com</a>&g=
+t;</span><br><blockquote class=3D"gmail_quote" style=3D"border-left: 1px so=
+lid rgb(204, 204, 204); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+
+Hi all!<br></blockquote><div><br>Hi,<br><br>This sounds great! But some of =
+us will not be able to attend and I was wondering whether there would be so=
+me minutes from the BoF sessions mentioned below. Thanks :)<br></div><block=
+quote class=3D"gmail_quote" style=3D"border-left: 1px solid rgb(204, 204, 2=
+04); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+
+
+<br>
+Also, please consider attending the following sessions.<br>
+<br>
+Interns showcase on Saturday, August 6 at 5:15pm where 8 of the OPW/GSoC in=
+terns will be presenting:<br>
+<a href=3D"https://www.desktopsummit.org/program/sessions/gnome-and-kde-int=
+erns-showcase" target=3D"_blank">https://www.desktopsummit.org/program/sess=
+ions/gnome-and-kde-interns-showcase</a><br>
+<br>
+Women&#39;s Networking BoF on Tuesday, August 9 at 6pm:<br>
+<a href=3D"http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/Women%27s_=
+Networking_BoF" target=3D"_blank">http://wiki.desktopsummit.org/Workshops_%=
+26_BoFs/2011/Women%27s_Networking_BoF</a><br>
+<br>
+Mentoring programs feedback BoF on Wednesday, August 10 at 3pm:<br>
+<a href=3D"http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/mentoring_=
+programs_feedback" target=3D"_blank">http://wiki.desktopsummit.org/Workshop=
+s_%26_BoFs/2011/mentoring_programs_feedback</a><br>
+<br>
+Look forward to seeing you soon!<br>
+<br>
+Marina<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a></bl=
+ockquote></div><br><br><br>Rayna<br clear=3D"all"><br>-- <br>&quot;Change l=
+&#39;ordre du monde plut=C3=B4t que tes d=C3=A9sirs.&quot;<br>
+
+<br>
+
+--0016e6546e065aa80004a9c045ec--
+From marinaz@redhat.com  Fri Aug  5 12:52:48 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9DD9A75002B
+	for <gnome-women-list@gnome.org>; Fri,  5 Aug 2011 12:52:48 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.833
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.833 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.931,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id nkTpatJB4zcV for <gnome-women-list@gnome.org>;
+	Fri,  5 Aug 2011 12:52:43 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id B24BF7500C4
+	for <gnome-women-list@gnome.org>; Fri,  5 Aug 2011 12:52:35 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p75CqXmH028099;
+	Fri, 5 Aug 2011 08:52:33 -0400
+Date: Fri, 5 Aug 2011 08:52:33 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Rayna <rayna.st@gmail.com>
+Message-ID: <652275121.637627.1312548753668.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <CANACerEs634m5REvdYdST7n5k6Z83NVgmgaxb84NEmChskT2Cw@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.72]
+X-Mailer: Zimbra 6.0.9_GA_2686 (ZimbraWebClient - SAF3 (Linux)/6.0.9_GA_2686)
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] GNOME women's dinner details
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 05 Aug 2011 12:52:48 -0000
+
+Hi Rayana,
+
+Good point! I will try to write the minutes or the summary of the BoF sessi=
+on and will also do a round-up of the links to the blog posts about the wom=
+en-related events at the summit. You can also keep an eye on Planet GNOME f=
+or updates from people attending the summit.
+
+Marina
+
+----- Original Message -----
+From: "Rayna" <rayna.st@gmail.com>
+To: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+Cc: "gnome-women-list" <gnome-women-list@gnome.org>
+Sent: Friday, August 5, 2011 1:18:59 PM
+Subject: Re: [gnome-women] GNOME women's dinner details
+
+
+
+
+2011/8/5 Marina Zhurakhinskaya < marinaz@redhat.com >=20
+
+
+Hi all!=20
+
+
+Hi,=20
+
+This sounds great! But some of us will not be able to attend and I was wond=
+ering whether there would be some minutes from the BoF sessions mentioned b=
+elow. Thanks :)=20
+
+
+
+Also, please consider attending the following sessions.=20
+
+Interns showcase on Saturday, August 6 at 5:15pm where 8 of the OPW/GSoC in=
+terns will be presenting:=20
+https://www.desktopsummit.org/program/sessions/gnome-and-kde-interns-showca=
+se=20
+
+Women's Networking BoF on Tuesday, August 9 at 6pm:=20
+http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/Women%27s_Networking_=
+BoF=20
+
+Mentoring programs feedback BoF on Wednesday, August 10 at 3pm:=20
+http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/mentoring_programs_fe=
+edback=20
+
+Look forward to seeing you soon!=20
+
+Marina=20
+_______________________________________________=20
+gnome-women-list mailing list=20
+gnome-women-list@mail.gnome.org=20
+http://mail.gnome.org/mailman/listinfo/gnome-women-list=20
+
+
+Rayna=20
+
+--=20
+"Change l'ordre du monde plut=C3=B4t que tes d=C3=A9sirs."=20
+

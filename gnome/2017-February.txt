@@ -1,0 +1,65 @@
+From marinaz@redhat.com  Wed Feb 15 16:16:04 2017
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.gnome.org (Postfix) with ESMTP id 8C2D576211;
+	Wed, 15 Feb 2017 16:16:04 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -4.202
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.202 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, RP_MATCHES_RCVD=-0.001,
+	SPF_HELO_PASS=-0.001] autolearn=ham
+Received: from smtp.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id GauTMhhWRA_8; Wed, 15 Feb 2017 16:16:03 +0000 (UTC)
+Received: from mx5-phx2.redhat.com (mx5-phx2.redhat.com [209.132.183.37])
+	by smtp.gnome.org (Postfix) with ESMTPS id BA21176291;
+	Wed, 15 Feb 2017 16:16:03 +0000 (UTC)
+Received: from zmail17.collab.prod.int.phx2.redhat.com
+	(zmail17.collab.prod.int.phx2.redhat.com [10.5.83.19])
+	by mx5-phx2.redhat.com (8.14.4/8.14.4) with ESMTP id v1FGG2Ra022827;
+	Wed, 15 Feb 2017 11:16:02 -0500
+Date: Wed, 15 Feb 2017 11:16:02 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: desktop-devel-list <desktop-devel-list@gnome.org>,
+	foundation-list <foundation-list@gnome.org>,
+	gnome-women-list <gnome-women-list@gnome.org>
+Cc: gnome-outreachy-list@gnome.org
+Message-ID: <2106789003.5216900.1487175362001.JavaMail.zimbra@redhat.com>
+In-Reply-To: <336033036.5215637.1487175004421.JavaMail.zimbra@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.10.121.110]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - FF40 (Linux)/8.0.6_GA_5922)
+Thread-Topic: mentor for Outreachy!
+Thread-Index: iO7hmpDW/M3/0vj0QdRg/JJ9FMNXrQ==
+Subject: [gnome-women] mentor for Outreachy!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.23
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 15 Feb 2017 16:16:04 -0000
+
+Hi all,
+
+Thanks to a confirmed sponsorship from the GNOME Foundation, GNOME is participating in Outreachy in the upcoming May - August round! Please consider adding your project idea and yourself as a mentor at https://wiki.gnome.org/Outreach/Outreachy/2017/MayAugust to help someone from an underrepresented background become a part of our community.
+
+Because GNOME only usually has a few participants in Outreachy, we are looking to offer projects that are most strategic for GNOME. These include, but are not limited to, projects in the area of privacy, developer experience, GTK+, core experience, core applications, and web infrastructure. If you have already listed your project idea for Google Summer of Code, and are willing to mentor it through either program, please list it for review on Outreachy's page.
+
+Please add your ideas as soon as possible. The application period for Outreachy opens tomorrow and the application deadline is March 30.
+
+Thanks,
+Marina

@@ -1,0 +1,205 @@
+From the.lady.phoenix at gmail.com  Thu Aug  2 04:34:02 2012
+From: the.lady.phoenix at gmail.com (the.lady.phoenix at gmail.com)
+Date: Thu, 2 Aug 2012 00:34:02 -0400
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAFFVnfNhjATNP9kR-J+UVN2YfKkzdRnf-tbNWPWAu74qZ-KDNQ@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <CAFFVnfNhjATNP9kR-J+UVN2YfKkzdRnf-tbNWPWAu74qZ-KDNQ@mail.gmail.com>
+Message-ID: <CAP1mu2x7yernM0-6Eu+b2xBcAd8RH5XGin69u53vy5ZbwB=yJQ@mail.gmail.com>
+
+I hope not G+ or anything like that.  IRC works quite well, why rock
+the boat with new and hard to use and not available to everyone stuff?
+
+On 30/07/2012, Dario Freddi <drf54321 at gmail.com> wrote:
+> Hey everyone, sorry for top-posting and being late, I was offline
+> during the last days.
+>
+> As I already told Lydia, I am available for a coding tutorial,
+> preferably via G+ Hangout or similar. I'll add some stuff to the doc
+> soon.
+>
+> 2012/7/23 Camila Ayres <smayres at gmail.com>:
+>>
+>> Hi,
+>>
+>> Ada Lovelace day is gonna be at October 16th this year, so might be a
+>> good
+>> idea to start to prepare ourselves for it.
+>>
+>> - We need ideas for a shortish and easy tutorial that ends up in
+>> something
+>> working and running, or for example, a piece of text translated somewhere
+>> (@Aracele!!).
+>> - Have in mind that people have to know in advance what they need to have
+>> installed, prepared in their computer to follow the tutorial.
+>> - Also, one day in advance, have a help session for people to get their
+>> system
+>> set up.
+>> - What do you prefer: do it through IRC or Google Hangout?
+>> - Depending on how much people will be able to do the tutorial, we could
+>> spread out over 1 week.
+>>
+>> Lydia and I made a list with some names that we thought could be willing
+>> to do
+>> one tutorial - that's why you are receiving this e-mail :) If you know
+>> someone
+>> else that could be included and if you have any differents ideas for Ada
+>> Lovelace Day, please let us know.
+>>
+>> Let's help other to get involved in KDE!
+>>
+>> Cheers,
+>> ----
+>> Camila Ayres
+>> camilasan.com
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+>
+
+From drf54321 at gmail.com  Thu Aug  2 06:13:40 2012
+From: drf54321 at gmail.com (Dario Freddi)
+Date: Thu, 2 Aug 2012 08:13:40 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAP1mu2x7yernM0-6Eu+b2xBcAd8RH5XGin69u53vy5ZbwB=yJQ@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <CAFFVnfNhjATNP9kR-J+UVN2YfKkzdRnf-tbNWPWAu74qZ-KDNQ@mail.gmail.com>
+ <CAP1mu2x7yernM0-6Eu+b2xBcAd8RH5XGin69u53vy5ZbwB=yJQ@mail.gmail.com>
+Message-ID: <CAFFVnfMoECJstXqYAWKX5ju7SOTARnmVWNxZpa=YiFLAn7qRBg@mail.gmail.com>
+
+2012/8/2  <the.lady.phoenix at gmail.com>:
+> I hope not G+ or anything like that.  IRC works quite well, why rock
+> the boat with new and hard to use and not available to everyone stuff?
+
+There is a number of good reasons for that. IRC does not allow the
+same mean of interaction and flexibility, especially when it comes to
+sharing screens or showing stuff in a whiteboard. Also, speaking in
+person in much faster and allows for more detailing. Last but not
+least, I don't really understand the point of availability and "new
+and hard to use".
+
+In general, G+ hangouts or $conferencesolution is what gets closer to
+a real "classroom", and people were happy about it, modulo the fact of
+the limit of the followers. Now that the technology has evolved I see
+close to no reason for not using it.
+
+>
+> On 30/07/2012, Dario Freddi <drf54321 at gmail.com> wrote:
+>> Hey everyone, sorry for top-posting and being late, I was offline
+>> during the last days.
+>>
+>> As I already told Lydia, I am available for a coding tutorial,
+>> preferably via G+ Hangout or similar. I'll add some stuff to the doc
+>> soon.
+>>
+>> 2012/7/23 Camila Ayres <smayres at gmail.com>:
+>>>
+>>> Hi,
+>>>
+>>> Ada Lovelace day is gonna be at October 16th this year, so might be a
+>>> good
+>>> idea to start to prepare ourselves for it.
+>>>
+>>> - We need ideas for a shortish and easy tutorial that ends up in
+>>> something
+>>> working and running, or for example, a piece of text translated somewhere
+>>> (@Aracele!!).
+>>> - Have in mind that people have to know in advance what they need to have
+>>> installed, prepared in their computer to follow the tutorial.
+>>> - Also, one day in advance, have a help session for people to get their
+>>> system
+>>> set up.
+>>> - What do you prefer: do it through IRC or Google Hangout?
+>>> - Depending on how much people will be able to do the tutorial, we could
+>>> spread out over 1 week.
+>>>
+>>> Lydia and I made a list with some names that we thought could be willing
+>>> to do
+>>> one tutorial - that's why you are receiving this e-mail :) If you know
+>>> someone
+>>> else that could be included and if you have any differents ideas for Ada
+>>> Lovelace Day, please let us know.
+>>>
+>>> Let's help other to get involved in KDE!
+>>>
+>>> Cheers,
+>>> ----
+>>> Camila Ayres
+>>> camilasan.com
+>> _______________________________________________
+>> kde-women mailing list
+>> kde-women at kde.org
+>> https://mail.kde.org/mailman/listinfo/kde-women
+>>
+
+From lydia at kde.org  Thu Aug  2 06:17:16 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Thu, 2 Aug 2012 08:17:16 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAP1mu2x7yernM0-6Eu+b2xBcAd8RH5XGin69u53vy5ZbwB=yJQ@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <CAFFVnfNhjATNP9kR-J+UVN2YfKkzdRnf-tbNWPWAu74qZ-KDNQ@mail.gmail.com>
+ <CAP1mu2x7yernM0-6Eu+b2xBcAd8RH5XGin69u53vy5ZbwB=yJQ@mail.gmail.com>
+Message-ID: <CAFkLwpXEec3OhXkVmapUh1R7iFPUriQNkUke1MspEYUvk=3Meg@mail.gmail.com>
+
+On Thu, Aug 2, 2012 at 6:34 AM,  <the.lady.phoenix at gmail.com> wrote:
+> I hope not G+ or anything like that.  IRC works quite well, why rock
+> the boat with new and hard to use and not available to everyone stuff?
+
+In addition to what Dario said: We want to reach a new audience. For
+them IRC isn't necessarily easier than Google Hangout. IRC is easy for
+us - but we're looking to expand our reach. You need to pick up people
+where they are.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From rauch at kde.org  Tue Aug 21 14:00:44 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Tue, 21 Aug 2012 16:00:44 +0200
+Subject: [Kde-women] Input for talk?
+Message-ID: <CAA0Jy_w1nTaH1bBwKYd_VdA+ySuc_5+SuK=S9eK0trbV=1eCRA@mail.gmail.com>
+
+Hi all,
+
+I'm hosting a short session at http://geekgirlmeetup.de/ on September
+15th. I will recycle my talk from FSCONS last year, on how to organize
+and run successful sprints [1], but since I assume that not everyone
+in the audience will be a developer or contributor to a FLOSS project,
+I want to put a bit of a different twist to the talk - something like
+"why should you organise a meeting/sprint" and how you can pull it off
+easily.
+
+Do any of you have some input for this? Maybe also something
+especially from a female perspective?
+
+Thanks,
+Claudia
+
+
+[1] http://fscons.org/2011/my.fscons.org/schedule/session/71/index.html
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+(Charlottenburg), with number VR 31685. Its president is Cornelius
+Schumacher. For more information please see http://ev.kde.org, and
+http://kde.org/
+

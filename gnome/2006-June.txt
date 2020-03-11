@@ -1,0 +1,1256 @@
+From hmw26@cam.ac.uk  Wed Jun 14 15:58:33 2006
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A7D6D3B0167
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:33 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 05400-10 for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:30 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id 27B683B000E
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:29 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from seas010.wireless-pennnet.upenn.edu ([158.130.38.19]:38702
+	helo=bayes)
+	by ppsw-9.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.159]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1FqbV6-0003RO-Ud (Exim 4.54)
+	(return-path <hmw26@cam.ac.uk>); Wed, 14 Jun 2006 20:58:06 +0100
+Received: from hmw26 by bayes with local (Exim 4.62)
+	(envelope-from <hmw26@cam.ac.uk>)
+	id 1FqbU9-00022z-Mj; Wed, 14 Jun 2006 15:57:05 -0400
+Date: Wed, 14 Jun 2006 15:57:05 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20060614195705.GC7758@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org, cjb@mrao.cam.ac.uk
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.11+cvs20060403
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Subject: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/pipermail/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 14 Jun 2006 19:58:33 -0000
+
+Hi everyone,
+
+The GNOME Foundation has just announced that it will be running a
+"Summer of Code"-like program for female students in order to promote
+the participation of women in GNOME-related development!
+
+If you're interested and eligible, visit the program website
+(www.gnome.org/projects/wsop/) and fill out the application form! If
+you don't want to apply (or aren't eligible) but would like to help
+out, the best way to do this is to tell others about the program
+and/or put up a poster (www.gnome.org/projects/wsop/poster.pdf),
+designed by our own Mairin Duffy.
+
+For more information, see the press release
+(www.gnome.org/press/releases/wsop.html) and the program website
+(www.gnome.org/projects/wsop/).
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From clytie@riverland.net.au  Sun Jun 18 03:46:52 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DBB3C3B01C7
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:52 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29796-01 for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:50 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id CD5AA3B0231
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:49 -0400 (EDT)
+Received: from [10.1.1.91] (ppp216-216.lns1.adl2.internode.on.net
+	[203.122.216.216])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k5I7iFnx031089
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 17:14:15 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v750)
+In-Reply-To: <20060614195705.GC7758@bayes>
+References: <20060614195705.GC7758@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 18 Jun 2006 17:14:15 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.981 tagged_above=-999 required=2
+	tests=[AWL=-0.450, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.981
+X-Spam-Level: 
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 18 Jun 2006 07:46:53 -0000
+
+
+On 15/06/2006, at 5:27 AM, Hanna M. Wallach wrote:
+
+> The GNOME Foundation has just announced that it will be running a
+> "Summer of Code"-like program for female students in order to promote
+> the participation of women in GNOME-related development!
+
+This is great! :)
+
+I've sent it to my son, and asked him to make sure all the female =20
+students in his faculty  know about it. He considers the proportion =20
+of female students shockingly low, but it's a start...
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From hmw26@cam.ac.uk  Thu Jun 22 17:24:57 2006
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0F0BD3B086B
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:57 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 27571-09 for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:55 -0400 (EDT)
+Received: from ppsw-7.csi.cam.ac.uk (ppsw-7.csi.cam.ac.uk [131.111.8.137])
+	by menubar.gnome.org (Postfix) with ESMTP id 6F6473B07DC
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:55 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from seas016.wireless-pennnet.upenn.edu ([158.130.38.25]:57646
+	helo=bayes)
+	by ppsw-7.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.157]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1FtWfR-0000vr-Nm (Exim 4.54)
+	(return-path <hmw26@cam.ac.uk>); Thu, 22 Jun 2006 22:24:49 +0100
+Received: from hmw26 by bayes with local (Exim 4.62)
+	(envelope-from <hmw26@cam.ac.uk>)
+	id 1FtWex-0000vC-Al; Thu, 22 Jun 2006 17:24:19 -0400
+Date: Thu, 22 Jun 2006 17:24:19 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: Clytie Siddall <clytie@riverland.net.au>
+Message-ID: <20060622212419.GA3525@bayes>
+Mail-Followup-To: Clytie Siddall <clytie@riverland.net.au>,
+	gnome-women-list@mail.gnome.org
+References: <20060614195705.GC7758@bayes>
+	<B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.11+cvs20060403
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 22 Jun 2006 21:24:57 -0000
+
+Hi Clytie,
+
+> This is great! :)
+
+I'm glad you like it! :-)
+
+> I've sent it to my son, and asked him to make sure all the female
+> students in his faculty know about it. He considers the proportion
+> of female students shockingly low, but it's a start...
+
+Wonderful -- thanks so much for doing that!
+
+All the best,
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From hmw26@cam.ac.uk  Wed Jun 14 15:58:33 2006
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A7D6D3B0167
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:33 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 05400-10 for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:30 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id 27B683B000E
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:29 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from seas010.wireless-pennnet.upenn.edu ([158.130.38.19]:38702
+	helo=bayes)
+	by ppsw-9.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.159]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1FqbV6-0003RO-Ud (Exim 4.54)
+	(return-path <hmw26@cam.ac.uk>); Wed, 14 Jun 2006 20:58:06 +0100
+Received: from hmw26 by bayes with local (Exim 4.62)
+	(envelope-from <hmw26@cam.ac.uk>)
+	id 1FqbU9-00022z-Mj; Wed, 14 Jun 2006 15:57:05 -0400
+Date: Wed, 14 Jun 2006 15:57:05 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20060614195705.GC7758@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org, cjb@mrao.cam.ac.uk
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.11+cvs20060403
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Subject: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/pipermail/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 14 Jun 2006 19:58:33 -0000
+
+Hi everyone,
+
+The GNOME Foundation has just announced that it will be running a
+"Summer of Code"-like program for female students in order to promote
+the participation of women in GNOME-related development!
+
+If you're interested and eligible, visit the program website
+(www.gnome.org/projects/wsop/) and fill out the application form! If
+you don't want to apply (or aren't eligible) but would like to help
+out, the best way to do this is to tell others about the program
+and/or put up a poster (www.gnome.org/projects/wsop/poster.pdf),
+designed by our own Mairin Duffy.
+
+For more information, see the press release
+(www.gnome.org/press/releases/wsop.html) and the program website
+(www.gnome.org/projects/wsop/).
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From clytie@riverland.net.au  Sun Jun 18 03:46:52 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DBB3C3B01C7
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:52 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29796-01 for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:50 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id CD5AA3B0231
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:49 -0400 (EDT)
+Received: from [10.1.1.91] (ppp216-216.lns1.adl2.internode.on.net
+	[203.122.216.216])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k5I7iFnx031089
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 17:14:15 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v750)
+In-Reply-To: <20060614195705.GC7758@bayes>
+References: <20060614195705.GC7758@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 18 Jun 2006 17:14:15 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.981 tagged_above=-999 required=2
+	tests=[AWL=-0.450, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.981
+X-Spam-Level: 
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 18 Jun 2006 07:46:53 -0000
+
+
+On 15/06/2006, at 5:27 AM, Hanna M. Wallach wrote:
+
+> The GNOME Foundation has just announced that it will be running a
+> "Summer of Code"-like program for female students in order to promote
+> the participation of women in GNOME-related development!
+
+This is great! :)
+
+I've sent it to my son, and asked him to make sure all the female =20
+students in his faculty  know about it. He considers the proportion =20
+of female students shockingly low, but it's a start...
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From hmw26@cam.ac.uk  Thu Jun 22 17:24:57 2006
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0F0BD3B086B
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:57 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 27571-09 for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:55 -0400 (EDT)
+Received: from ppsw-7.csi.cam.ac.uk (ppsw-7.csi.cam.ac.uk [131.111.8.137])
+	by menubar.gnome.org (Postfix) with ESMTP id 6F6473B07DC
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:55 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from seas016.wireless-pennnet.upenn.edu ([158.130.38.25]:57646
+	helo=bayes)
+	by ppsw-7.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.157]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1FtWfR-0000vr-Nm (Exim 4.54)
+	(return-path <hmw26@cam.ac.uk>); Thu, 22 Jun 2006 22:24:49 +0100
+Received: from hmw26 by bayes with local (Exim 4.62)
+	(envelope-from <hmw26@cam.ac.uk>)
+	id 1FtWex-0000vC-Al; Thu, 22 Jun 2006 17:24:19 -0400
+Date: Thu, 22 Jun 2006 17:24:19 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: Clytie Siddall <clytie@riverland.net.au>
+Message-ID: <20060622212419.GA3525@bayes>
+Mail-Followup-To: Clytie Siddall <clytie@riverland.net.au>,
+	gnome-women-list@mail.gnome.org
+References: <20060614195705.GC7758@bayes>
+	<B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.11+cvs20060403
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 22 Jun 2006 21:24:57 -0000
+
+Hi Clytie,
+
+> This is great! :)
+
+I'm glad you like it! :-)
+
+> I've sent it to my son, and asked him to make sure all the female
+> students in his faculty know about it. He considers the proportion
+> of female students shockingly low, but it's a start...
+
+Wonderful -- thanks so much for doing that!
+
+All the best,
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From clytie@riverland.net.au  Tue Jun 27 02:23:43 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 5D1833B007C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 02:23:43 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 08757-05 for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 02:23:41 -0400 (EDT)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 4E2003B00AE
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 02:23:39 -0400 (EDT)
+Received: from [10.1.1.91] (ppp129-35.lns2.adl2.internode.on.net
+	[59.167.129.35])
+	by smtp1.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k5R6NYoE056575 for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 15:53:38 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v750)
+In-Reply-To: <20060622212419.GA3525@bayes>
+References: <20060614195705.GC7758@bayes>
+	<B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+	<20060622212419.GA3525@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <C4FA2195-177A-439A-89B7-9DA67336C622@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 27 Jun 2006 15:53:33 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.772 tagged_above=-999 required=2
+	tests=[AWL=-1.655, BAYES_40=-0.185, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -0.772
+X-Spam-Level: 
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 27 Jun 2006 06:23:43 -0000
+
+
+On 23/06/2006, at 6:54 AM, Hanna M. Wallach wrote:
+
+> Hi Clytie,
+>
+>> This is great! :)
+>
+> I'm glad you like it! :-)
+
+I believe it's really important.
+>
+>> I've sent it to my son, and asked him to make sure all the female
+>> students in his faculty know about it. He considers the proportion
+>> of female students shockingly low, but it's a start...
+>
+> Wonderful -- thanks so much for doing that!
+
+My pleasure. I've also introduced it at VNOSS (Vietnamese Open-source =20=
+
+Software community), explaining it and stressing the opportunity. In =20
+that mail, I also offered to help them cross any communication or =20
+confidence barriers which they may find intimidating. Participation =20
+by Vietnamese women online is much worse even than the average: I =20
+have not yet met a single other Vietnamese woman who actually =20
+participates online. :(
+
+I do know, though, that one or two lurk on the VNOSS list, and others =20=
+
+have male family members there.
+
+So I do hope for something from this. :)
+>
+> All the best,
+
+To you, too, Hanna. :)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From hmw26@cam.ac.uk  Wed Jun 14 15:58:33 2006
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A7D6D3B0167
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:33 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 05400-10 for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:30 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id 27B683B000E
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:29 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from seas010.wireless-pennnet.upenn.edu ([158.130.38.19]:38702
+	helo=bayes)
+	by ppsw-9.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.159]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1FqbV6-0003RO-Ud (Exim 4.54)
+	(return-path <hmw26@cam.ac.uk>); Wed, 14 Jun 2006 20:58:06 +0100
+Received: from hmw26 by bayes with local (Exim 4.62)
+	(envelope-from <hmw26@cam.ac.uk>)
+	id 1FqbU9-00022z-Mj; Wed, 14 Jun 2006 15:57:05 -0400
+Date: Wed, 14 Jun 2006 15:57:05 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20060614195705.GC7758@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org, cjb@mrao.cam.ac.uk
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.11+cvs20060403
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Subject: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/pipermail/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 14 Jun 2006 19:58:33 -0000
+
+Hi everyone,
+
+The GNOME Foundation has just announced that it will be running a
+"Summer of Code"-like program for female students in order to promote
+the participation of women in GNOME-related development!
+
+If you're interested and eligible, visit the program website
+(www.gnome.org/projects/wsop/) and fill out the application form! If
+you don't want to apply (or aren't eligible) but would like to help
+out, the best way to do this is to tell others about the program
+and/or put up a poster (www.gnome.org/projects/wsop/poster.pdf),
+designed by our own Mairin Duffy.
+
+For more information, see the press release
+(www.gnome.org/press/releases/wsop.html) and the program website
+(www.gnome.org/projects/wsop/).
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From clytie@riverland.net.au  Sun Jun 18 03:46:52 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DBB3C3B01C7
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:52 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29796-01 for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:50 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id CD5AA3B0231
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:49 -0400 (EDT)
+Received: from [10.1.1.91] (ppp216-216.lns1.adl2.internode.on.net
+	[203.122.216.216])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k5I7iFnx031089
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 17:14:15 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v750)
+In-Reply-To: <20060614195705.GC7758@bayes>
+References: <20060614195705.GC7758@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 18 Jun 2006 17:14:15 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.981 tagged_above=-999 required=2
+	tests=[AWL=-0.450, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.981
+X-Spam-Level: 
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 18 Jun 2006 07:46:53 -0000
+
+
+On 15/06/2006, at 5:27 AM, Hanna M. Wallach wrote:
+
+> The GNOME Foundation has just announced that it will be running a
+> "Summer of Code"-like program for female students in order to promote
+> the participation of women in GNOME-related development!
+
+This is great! :)
+
+I've sent it to my son, and asked him to make sure all the female =20
+students in his faculty  know about it. He considers the proportion =20
+of female students shockingly low, but it's a start...
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From hmw26@cam.ac.uk  Thu Jun 22 17:24:57 2006
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0F0BD3B086B
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:57 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 27571-09 for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:55 -0400 (EDT)
+Received: from ppsw-7.csi.cam.ac.uk (ppsw-7.csi.cam.ac.uk [131.111.8.137])
+	by menubar.gnome.org (Postfix) with ESMTP id 6F6473B07DC
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:55 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from seas016.wireless-pennnet.upenn.edu ([158.130.38.25]:57646
+	helo=bayes)
+	by ppsw-7.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.157]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1FtWfR-0000vr-Nm (Exim 4.54)
+	(return-path <hmw26@cam.ac.uk>); Thu, 22 Jun 2006 22:24:49 +0100
+Received: from hmw26 by bayes with local (Exim 4.62)
+	(envelope-from <hmw26@cam.ac.uk>)
+	id 1FtWex-0000vC-Al; Thu, 22 Jun 2006 17:24:19 -0400
+Date: Thu, 22 Jun 2006 17:24:19 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: Clytie Siddall <clytie@riverland.net.au>
+Message-ID: <20060622212419.GA3525@bayes>
+Mail-Followup-To: Clytie Siddall <clytie@riverland.net.au>,
+	gnome-women-list@mail.gnome.org
+References: <20060614195705.GC7758@bayes>
+	<B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.11+cvs20060403
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 22 Jun 2006 21:24:57 -0000
+
+Hi Clytie,
+
+> This is great! :)
+
+I'm glad you like it! :-)
+
+> I've sent it to my son, and asked him to make sure all the female
+> students in his faculty know about it. He considers the proportion
+> of female students shockingly low, but it's a start...
+
+Wonderful -- thanks so much for doing that!
+
+All the best,
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From clytie@riverland.net.au  Tue Jun 27 02:23:43 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 5D1833B007C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 02:23:43 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 08757-05 for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 02:23:41 -0400 (EDT)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 4E2003B00AE
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 02:23:39 -0400 (EDT)
+Received: from [10.1.1.91] (ppp129-35.lns2.adl2.internode.on.net
+	[59.167.129.35])
+	by smtp1.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k5R6NYoE056575 for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 15:53:38 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v750)
+In-Reply-To: <20060622212419.GA3525@bayes>
+References: <20060614195705.GC7758@bayes>
+	<B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+	<20060622212419.GA3525@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <C4FA2195-177A-439A-89B7-9DA67336C622@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 27 Jun 2006 15:53:33 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.772 tagged_above=-999 required=2
+	tests=[AWL=-1.655, BAYES_40=-0.185, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -0.772
+X-Spam-Level: 
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 27 Jun 2006 06:23:43 -0000
+
+
+On 23/06/2006, at 6:54 AM, Hanna M. Wallach wrote:
+
+> Hi Clytie,
+>
+>> This is great! :)
+>
+> I'm glad you like it! :-)
+
+I believe it's really important.
+>
+>> I've sent it to my son, and asked him to make sure all the female
+>> students in his faculty know about it. He considers the proportion
+>> of female students shockingly low, but it's a start...
+>
+> Wonderful -- thanks so much for doing that!
+
+My pleasure. I've also introduced it at VNOSS (Vietnamese Open-source =20=
+
+Software community), explaining it and stressing the opportunity. In =20
+that mail, I also offered to help them cross any communication or =20
+confidence barriers which they may find intimidating. Participation =20
+by Vietnamese women online is much worse even than the average: I =20
+have not yet met a single other Vietnamese woman who actually =20
+participates online. :(
+
+I do know, though, that one or two lurk on the VNOSS list, and others =20=
+
+have male family members there.
+
+So I do hope for something from this. :)
+>
+> All the best,
+
+To you, too, Hanna. :)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From hmw26@cam.ac.uk  Wed Jun 14 15:58:33 2006
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A7D6D3B0167
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:33 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 05400-10 for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:30 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id 27B683B000E
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 14 Jun 2006 15:58:29 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from seas010.wireless-pennnet.upenn.edu ([158.130.38.19]:38702
+	helo=bayes)
+	by ppsw-9.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.159]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1FqbV6-0003RO-Ud (Exim 4.54)
+	(return-path <hmw26@cam.ac.uk>); Wed, 14 Jun 2006 20:58:06 +0100
+Received: from hmw26 by bayes with local (Exim 4.62)
+	(envelope-from <hmw26@cam.ac.uk>)
+	id 1FqbU9-00022z-Mj; Wed, 14 Jun 2006 15:57:05 -0400
+Date: Wed, 14 Jun 2006 15:57:05 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20060614195705.GC7758@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org, cjb@mrao.cam.ac.uk
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.11+cvs20060403
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Subject: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/pipermail/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 14 Jun 2006 19:58:33 -0000
+
+Hi everyone,
+
+The GNOME Foundation has just announced that it will be running a
+"Summer of Code"-like program for female students in order to promote
+the participation of women in GNOME-related development!
+
+If you're interested and eligible, visit the program website
+(www.gnome.org/projects/wsop/) and fill out the application form! If
+you don't want to apply (or aren't eligible) but would like to help
+out, the best way to do this is to tell others about the program
+and/or put up a poster (www.gnome.org/projects/wsop/poster.pdf),
+designed by our own Mairin Duffy.
+
+For more information, see the press release
+(www.gnome.org/press/releases/wsop.html) and the program website
+(www.gnome.org/projects/wsop/).
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From clytie@riverland.net.au  Sun Jun 18 03:46:52 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DBB3C3B01C7
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:52 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29796-01 for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:50 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id CD5AA3B0231
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 03:46:49 -0400 (EDT)
+Received: from [10.1.1.91] (ppp216-216.lns1.adl2.internode.on.net
+	[203.122.216.216])
+	by ash25e.internode.on.net (8.13.6/8.13.5) with ESMTP id k5I7iFnx031089
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 18 Jun 2006 17:14:15 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v750)
+In-Reply-To: <20060614195705.GC7758@bayes>
+References: <20060614195705.GC7758@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 18 Jun 2006 17:14:15 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.981 tagged_above=-999 required=2
+	tests=[AWL=-0.450, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -1.981
+X-Spam-Level: 
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 18 Jun 2006 07:46:53 -0000
+
+
+On 15/06/2006, at 5:27 AM, Hanna M. Wallach wrote:
+
+> The GNOME Foundation has just announced that it will be running a
+> "Summer of Code"-like program for female students in order to promote
+> the participation of women in GNOME-related development!
+
+This is great! :)
+
+I've sent it to my son, and asked him to make sure all the female =20
+students in his faculty  know about it. He considers the proportion =20
+of female students shockingly low, but it's a start...
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From hmw26@cam.ac.uk  Thu Jun 22 17:24:57 2006
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0F0BD3B086B
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:57 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 27571-09 for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:55 -0400 (EDT)
+Received: from ppsw-7.csi.cam.ac.uk (ppsw-7.csi.cam.ac.uk [131.111.8.137])
+	by menubar.gnome.org (Postfix) with ESMTP id 6F6473B07DC
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 22 Jun 2006 17:24:55 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from seas016.wireless-pennnet.upenn.edu ([158.130.38.25]:57646
+	helo=bayes)
+	by ppsw-7.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.157]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1FtWfR-0000vr-Nm (Exim 4.54)
+	(return-path <hmw26@cam.ac.uk>); Thu, 22 Jun 2006 22:24:49 +0100
+Received: from hmw26 by bayes with local (Exim 4.62)
+	(envelope-from <hmw26@cam.ac.uk>)
+	id 1FtWex-0000vC-Al; Thu, 22 Jun 2006 17:24:19 -0400
+Date: Thu, 22 Jun 2006 17:24:19 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: Clytie Siddall <clytie@riverland.net.au>
+Message-ID: <20060622212419.GA3525@bayes>
+Mail-Followup-To: Clytie Siddall <clytie@riverland.net.au>,
+	gnome-women-list@mail.gnome.org
+References: <20060614195705.GC7758@bayes>
+	<B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.11+cvs20060403
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 22 Jun 2006 21:24:57 -0000
+
+Hi Clytie,
+
+> This is great! :)
+
+I'm glad you like it! :-)
+
+> I've sent it to my son, and asked him to make sure all the female
+> students in his faculty know about it. He considers the proportion
+> of female students shockingly low, but it's a start...
+
+Wonderful -- thanks so much for doing that!
+
+All the best,
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From clytie@riverland.net.au  Tue Jun 27 02:23:43 2006
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 5D1833B007C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 02:23:43 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 08757-05 for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 02:23:41 -0400 (EDT)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 4E2003B00AE
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 02:23:39 -0400 (EDT)
+Received: from [10.1.1.91] (ppp129-35.lns2.adl2.internode.on.net
+	[59.167.129.35])
+	by smtp1.adl2.internode.on.net (8.13.6/8.13.5) with ESMTP id
+	k5R6NYoE056575 for <gnome-women-list@mail.gnome.org>;
+	Tue, 27 Jun 2006 15:53:38 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v750)
+In-Reply-To: <20060622212419.GA3525@bayes>
+References: <20060614195705.GC7758@bayes>
+	<B5135195-F456-4507-9655-B0584CAB4DFB@riverland.net.au>
+	<20060622212419.GA3525@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <C4FA2195-177A-439A-89B7-9DA67336C622@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Tue, 27 Jun 2006 15:53:33 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.750)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.772 tagged_above=-999 required=2
+	tests=[AWL=-1.655, BAYES_40=-0.185, SPF_HELO_PASS=-0.001,
+	SPF_NEUTRAL=1.069]
+X-Spam-Score: -0.772
+X-Spam-Level: 
+Subject: Re: [gnome-women] GNOME to Sponsor Female Developers in a Summer
+	Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 27 Jun 2006 06:23:43 -0000
+
+
+On 23/06/2006, at 6:54 AM, Hanna M. Wallach wrote:
+
+> Hi Clytie,
+>
+>> This is great! :)
+>
+> I'm glad you like it! :-)
+
+I believe it's really important.
+>
+>> I've sent it to my son, and asked him to make sure all the female
+>> students in his faculty know about it. He considers the proportion
+>> of female students shockingly low, but it's a start...
+>
+> Wonderful -- thanks so much for doing that!
+
+My pleasure. I've also introduced it at VNOSS (Vietnamese Open-source =20=
+
+Software community), explaining it and stressing the opportunity. In =20
+that mail, I also offered to help them cross any communication or =20
+confidence barriers which they may find intimidating. Participation =20
+by Vietnamese women online is much worse even than the average: I =20
+have not yet met a single other Vietnamese woman who actually =20
+participates online. :(
+
+I do know, though, that one or two lurk on the VNOSS list, and others =20=
+
+have male family members there.
+
+So I do hope for something from this. :)
+>
+> All the best,
+
+To you, too, Hanna. :)
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+

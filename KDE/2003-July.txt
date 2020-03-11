@@ -1,0 +1,73 @@
+From zpvie at yahoo.com  Fri Jul 11 16:52:56 2003
+From: zpvie at yahoo.com (zp)
+Date: Sat Jul 12 00:53:01 2003
+Subject: [Kde-women]hi
+Message-ID: <20030711225256.65374.qmail@web21307.mail.yahoo.com>
+
+Hi to all;
+
+For a long time i have been searching a solution to
+this error:
+
+cd .. && /bin/sh ./config.status tavlam/Makefile
+depfiles 
+config.status: error: invalid argument: depfiles 
+gmake: *** [Makefile] Error 1 
+
+and while searching ,i met your mailing list and i am
+here 
+
+i read your documentation about Qt Designer and
+KDevelop.i have some questions:
+
+1) why i have the error about depfiles??how can i fix
+it?
+
+2)"In the KDevelop menu File select New then click on
+Qt2 User Interface (*.ui) in the box that appears.
+Type in sigcreatedlg in the Filename text field at the
+top and click OK" i did it it is ok but 
+
+"Then Qt Designer opens and ask you to choose a
+template for the new form. " it does not work i don't
+have the new form!!why?(i installed qt designer and
+set the path in kdevelop)
+
+thanks to all
+ZP
+
+__________________________________
+Do you Yahoo!?
+SBC Yahoo! DSL - Now only $29.95 per month!
+http://sbc.yahoo.com
+From frauke at frsv.de  Wed Jul 30 20:10:17 2003
+From: frauke at frsv.de (Frauke Oster)
+Date: Wed Jul 30 19:09:18 2003
+Subject: [Kde-women]hi
+Message-ID: <200307301910.24452.frauke@frsv.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hallo!
+Can you tell me, when your error occurs? It is hard to debug an error without 
+knowing when it happens. :) 
+Can you also tell me which system do you use and what KDE version you use? 
+Also it would be very useful to know what version you have from KDevelop and 
+Qt :) The Tutorial is some days old I guess, and I don't know if you use the 
+new version of Qt, so that you got problems because of this differences. 
+Maybe I can help you.
+
+Yours,
+- -- 
+Frauke Oster
+KDE/Kivio Developer
+
+frauke@frsv.de
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.2-rc1-SuSE (GNU/Linux)
+
+iD8DBQE/J/v/YW/cUpC8Z+wRAicgAJ9yjGV+bui1UOL2oTfSU7WMuRpR4QCdGSz4
+EwZzqulkOMePdqEiLDkaKdk=
+=9EAy
+-----END PGP SIGNATURE-----

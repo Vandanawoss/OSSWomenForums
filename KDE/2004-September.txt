@@ -1,0 +1,692 @@
+From claudia.koltzenburg at rrz.uni-hamburg.de  Wed Sep  1 10:33:47 2004
+From: claudia.koltzenburg at rrz.uni-hamburg.de (Koltzenburg)
+Date: Wed Sep  1 10:34:56 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+Message-ID: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+
+Hallo in die Runde,
+
+ich bin seit Neuerem KDE-Userin und habe ein paar Fragen,
+
+aber vorher m?chte ich gern wissen, wer hier so mitliest und bei 
+wem die Fragen also ankommen :-) 
+
+Gruesse, Claudia
+-- 
+Claudia Koltzenburg, M.A. | tel: +49 (0)40 42838 4892
+Projektmanagement DFG-Projekt GAP - German Academic Publishers
+claudia.koltzenburg _at__ rrz.uni-hamburg.de | www.gap-c.de
+Postadresse s. www.rrz.uni-hamburg.de/RRZ/C.Koltzenburg/
+From blk20 at cam.ac.uk  Wed Sep  1 11:50:14 2004
+From: blk20 at cam.ac.uk (blk20)
+Date: Wed Sep  1 11:42:26 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+Message-ID: <1094032213.2348.49.camel@localhost>
+
+Hi Claudia,
+
+Thanks for your post. I take your email as a chance to present myself. I
+am Bernhard, a social anthropologist, currently undertaking ethnographic
+fieldwork in France. I am working for the University of Cambridge and I
+do research in the realm of free software. 
+
+I am on a EU funded project called flosspols. We try to figure out why
+there are so few women in the free software world (all major surveys on
+free software developers show that there are less than 2% women
+involved) and what one could do to change the situation. In my project
+team there are three more anthropologists (Dawn Nafus - specialised on
+technology), James Leach (specialist in creativity and exchange theory)
+and Marilyn Strathern (also working on exchange, author of the book 'The
+gender of the gift'). 
+
+My participation in the world of free software is not limited to online
+groups (such as kde-women or linux chix), but I also engage in offline
+events such as LUGs, conferences and camps. I get the impression that
+there are more women in offline events than in online channels. Of
+course this is hard to evaluate. I also have the impression that there
+are more women involved in creative free software activities that are
+not related to coding (such as design, advocacy, documentation,
+translation,...). 
+
+Cheers	,
+--Bernhard
+
+On Wed, 2004-09-01 at 10:33, Koltzenburg wrote:
+> Hallo in die Runde,
+> 
+> ich bin seit Neuerem KDE-Userin und habe ein paar Fragen,
+> 
+> aber vorher m?chte ich gern wissen, wer hier so mitliest und bei 
+> wem die Fragen also ankommen :-) 
+> 
+> Gruesse, Claudia
+
+From claudia.koltzenburg at rrz.uni-hamburg.de  Wed Sep  1 12:00:46 2004
+From: claudia.koltzenburg at rrz.uni-hamburg.de (Koltzenburg)
+Date: Wed Sep  1 12:01:34 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <1094032213.2348.49.camel@localhost>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<1094032213.2348.49.camel@localhost>
+Message-ID: <200409011200.47054.claudia.koltzenburg@rrz.uni-hamburg.de>
+
+Hi Bernard, hey all, 
+
+Bernard, 
+
+thanks for your mail which prompts me to observe: what a very 
+familiar way of male contemporaries to react: 
+
+> I take your email as a chance to present myself. 
+
+:-)
+
+> We try to figure
+> out why there are so few women in the free software world (all
+> major surveys on free software developers show that there are
+> less than 2% women involved) and what one could do to change
+> the situation. 
+
+hm, for me the gesture includes the message: watch out, women, 
+you're being watched :-)
+and: you are so few...
+
+well, while it may just be a nice transparent gesture of yours, i 
+do not know the solution to the situation you've just placed 
+yourself (and other list members) in - and i realise this is one 
+reason why i definitely prefer patronising-free women-only 
+lists :-)
+
+you posing as an anthroplogist, can you help solve this situation 
+- or may i suggest you rather let female colleagues of yours 
+speak on this issue here?
+
+what do others think about this?
+
+and: can someone please try to explain to me why this list is so 
+quiet?
+
+best, Claudia
+-- 
+Claudia Koltzenburg, M.A. | tel: +49 (0)40 42838 4892
+Projektmanagement DFG-Projekt GAP - German Academic Publishers
+claudia.koltzenburg _at__ rrz.uni-hamburg.de | www.gap-c.de
+Postadresse s. www.rrz.uni-hamburg.de/RRZ/C.Koltzenburg/
+From blk20 at cam.ac.uk  Wed Sep  1 13:00:55 2004
+From: blk20 at cam.ac.uk (blk20)
+Date: Wed Sep  1 12:53:07 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409011200.47054.claudia.koltzenburg@rrz.uni-hamburg.de>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<1094032213.2348.49.camel@localhost>
+	<200409011200.47054.claudia.koltzenburg@rrz.uni-hamburg.de>
+Message-ID: <1094036455.2348.86.camel@localhost>
+
+Hi there,
+
+Thanks for your quick answer, Claudia.
+
+> thanks for your mail which prompts me to observe: what a very 
+> familiar way of male contemporaries to react: 
+> 
+> > I take your email as a chance to present myself. 
+
+These are exactly the things I am interested in. Why is this a male
+reaction? I would be curious to learn more about that.
+
+> well, while it may just be a nice transparent gesture of yours, i 
+> do not know the solution to the situation you've just placed 
+> yourself (and other list members) in - and i realise this is one 
+> reason why i definitely prefer patronising-free women-only 
+> lists :-)
+
+Well, is this a 'women only' list? I did not assume that, especially
+since there are public archives of the list. However if I was wrong I
+very much apologise and will of course immediately un-subscribe. However
+if the community would like to help me understand the situation of women
+in free software I would be happy to stay and post questions from time
+to time. 
+
+> you posing as an anthroplogist, can you help solve this situation 
+> - or may i suggest you rather let female colleagues of yours 
+> speak on this issue here?
+
+Unfortunately they are not involved in the fieldwork-part of the study. 
+
+Cheers, 
+--Bernhard 
+
+From claudia.koltzenburg at rrz.uni-hamburg.de  Wed Sep  1 13:15:01 2004
+From: claudia.koltzenburg at rrz.uni-hamburg.de (Koltzenburg)
+Date: Wed Sep  1 13:15:28 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <1094036455.2348.86.camel@localhost>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<200409011200.47054.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<1094036455.2348.86.camel@localhost>
+Message-ID: <200409011315.01811.claudia.koltzenburg@rrz.uni-hamburg.de>
+
+Hey all, hey Bernard, 
+
+> > familiar way of male contemporaries to react:
+> > > I take your email as a chance to present myself.
+>
+> These are exactly the things I am interested in. Why is this a
+> male reaction? I would be curious to learn more about that.
+
+actually, i personally have had enough of that kind of extra work 
+(unpaid) and, to boot, find it tedious to explain to men all 
+over again - so i am not the one to go into this - 
+
+maybe someone else to promote current field research here - or 
+rather by pm to bernard in case this is not a defined list 
+focus? 
+
+> > this is one reason why i definitely prefer
+> > patronising-free women-only lists :-)
+>
+> Well, is this a 'women only' list? 
+
+it is marked as a women's list - which obviously in this case 
+does not mean women only (just like in a swimming pool, maybe 
+let's compare by substituting one gender for the other: if a 
+changing room is maked "men" and a woman turns up to use the 
+room, what do you think will happen?)
+
+so in fact - right you are, aren't you - here is a nice terrain 
+to discover (to put it colonially ;-) - and use - to find out 
+how maybe also in open source communities the terrain - which 
+terrain - is marked or unmarked and who respects unwritten rules 
+and who doesn't see such rules at all and for what reasons 
+terrain is marked and the like,
+
+back to work,
+cu, Claudia
+From annemarie.mahfouf at free.fr  Wed Sep  1 16:09:12 2004
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Wed Sep  1 16:49:06 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409011315.01811.claudia.koltzenburg@rrz.uni-hamburg.de>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<1094036455.2348.86.camel@localhost>
+	<200409011315.01811.claudia.koltzenburg@rrz.uni-hamburg.de>
+Message-ID: <200409011009.12941.annemarie.mahfouf@free.fr>
+
+Hi Bernhard,
+
+In fact we cannot explain why there are few women in IT and/or free software 
+as obviously we are involved in those. So such researches about women in IT 
+should be conducted with women not involved.
+
+Less than 2%: what about other technical fields as the Space Agency, some 
+research fields and so on. Are these 2% such a special number?
+
+'I am working for the University of Cambridge and I
+do research in the realm of free software." 
+link please? 
+
+Cheers,
+
+Anne-Marie
+From f.oster at frsv.de  Wed Sep  1 17:18:59 2004
+From: f.oster at frsv.de (Frauke Oster)
+Date: Wed Sep  1 17:20:57 2004
+Subject: AW: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409011200.47054.claudia.koltzenburg@rrz.uni-hamburg.de>
+Message-ID: <000001c49037$01f1a070$5f7ce6d9@heim>
+
+Hi Claudia,
+
+I'm Frauke and maybe you know me from the mailinglists lynn and ada. I
+worked some hard months very active on kde-women. Unfortunately I have
+not much time to do so anymore.
+
+
+>well, while it may just be a nice transparent gesture of yours, i 
+>do not know the solution to the situation you've just placed 
+>yourself (and other list members) in - and i realise this is one 
+>reason why i definitely prefer patronising-free women-only 
+>lists :-)
+
+I personally think that kde-women is not(!) a women-only list and we
+tried very hard to connect the work of kde-women with all other
+developers and active people in KDE. We don't want to be a seperated
+group of women, but want to be integrated in the whole KDE community.
+This list and this project should help women to become a member of the
+KDE community and to become active in the project. So I will welcome
+every man, who is interested in the kde-women project. So welcome
+Bernhard!
+
+>and: can someone please try to explain to me why this list is so 
+>quiet?
+
+Well this list is very quiet, because the project is sleeping again.
+Every post on the list is welcome, so I hope to read more posts here
+again.
+
+Cheers,
+Frauke
+
+
+From mailinglist at endosquid.com  Wed Sep  1 17:19:01 2004
+From: mailinglist at endosquid.com (Brendan)
+Date: Wed Sep  1 17:21:18 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409011009.12941.annemarie.mahfouf@free.fr>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<200409011315.01811.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<200409011009.12941.annemarie.mahfouf@free.fr>
+Message-ID: <200409011119.01925.mailinglist@endosquid.com>
+
+On Wednesday 01 September 2004 10:09, Anne-Marie Mahfouf wrote:
+> 'I am working for the University of Cambridge and I
+> do research in the realm of free software."
+> link please?
+
+I did a search on flosspols in his original message.
+http://www.flosspols.org/
+Seems like it's on target.
+
+Brendan
+From claudia.koltzenburg at rrz.uni-hamburg.de  Wed Sep  1 18:23:44 2004
+From: claudia.koltzenburg at rrz.uni-hamburg.de (Koltzenburg)
+Date: Wed Sep  1 18:23:05 2004
+Subject: AW: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <000001c49037$01f1a070$5f7ce6d9@heim>
+References: <000001c49037$01f1a070$5f7ce6d9@heim>
+Message-ID: <200409011823.44698.claudia.koltzenburg@rrz.uni-hamburg.de>
+
+Hey Frauke, hey all, 
+
+> This list and this project should
+> help women to become a member of the KDE community and to
+> become active in the project.
+
+well, then my choice would be to refrain from gendered talk 
+altogether (hello Bernhard ;-) 
+hello Claudia: - had I not trodden into feeling provoked ;-)
+
+let's talk shop then, about KDE, and try to do away with the 
+boundaries that seem to separate one part of the KDE-community 
+from another...
+
+cu, Claudia
+
+From blk20 at cam.ac.uk  Wed Sep  1 19:05:00 2004
+From: blk20 at cam.ac.uk (blk20)
+Date: Wed Sep  1 18:57:16 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409011009.12941.annemarie.mahfouf@free.fr>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<1094036455.2348.86.camel@localhost>
+	<200409011315.01811.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<200409011009.12941.annemarie.mahfouf@free.fr>
+Message-ID: <1094058300.2348.213.camel@localhost>
+
+Hi all,
+
+Thanks for your answers. I am very happy to feel welcomed. 
+
+Anne-Marie, you are of course right, research on the issue should not
+only be done with the women involved. I do not think that women are the
+reason why free software is such a gendered community. Most time I spend
+in settings that are not determined by or for women. Observations I made
+in forums like slashdot, for instance, give me some ideas why free
+software appears not be very attractive for women (I guess most of you
+are familiar with comments on gender issues there). 
+
+However the things I learned being in contact with women's groups such
+as linuxchix were very helpful. Participants there pointed me to
+interesting sources of information (such as literature, howtos, etc).
+Furthermore I am interested in whether and how channels that are set up
+by women could help to increase female participation in free software. 
+
+> Less than 2%: what about other technical fields as the Space Agency, some 
+> research fields and so on. Are these 2% such a special number?
+
+There are of course fields (even if very few) where one finds such low
+female participation. Studies of women in science for instance have
+interesting approaches for explanation. However, what I think is
+intruiging in the case of free software, is the fact that there seem to
+be more women in proprietary software than in open source. 
+
+> link please? 
+
+Thanks Brendan, we will of course put up the findings there. 
+
+Cheers, 
+--Bernhard 
+
+From esme at nocturnal.clara.co.uk  Wed Sep  1 19:57:46 2004
+From: esme at nocturnal.clara.co.uk (Esme)
+Date: Wed Sep  1 19:56:59 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <1094058300.2348.213.camel@localhost>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<200409011009.12941.annemarie.mahfouf@free.fr>
+	<1094058300.2348.213.camel@localhost>
+Message-ID: <200409011857.46188.esme@nocturnal.clara.co.uk>
+
+Hello!
+
+To comment very briefly on the women in OSS movement, my guess would be 
+economic. It's harder for us to get jobs that pay as well as men - and often 
+we are still expected to be homemakers as well. So if the choice is between 
+working unwaged on open source software or be paid to work on proprietary 
+software, it may be no real choice at all for many. 
+
+I havent had a chance to look at the KDE development stuff in Linux as yet, 
+because I've needed to start learning SQL in a hurry. But I hope to take a 
+look at it soon. 
+
+Esme
+
+From annemarie.mahfouf at free.fr  Wed Sep  1 21:21:47 2004
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Wed Sep  1 21:29:16 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409011857.46188.esme@nocturnal.clara.co.uk>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<1094058300.2348.213.camel@localhost>
+	<200409011857.46188.esme@nocturnal.clara.co.uk>
+Message-ID: <200409011521.48031.annemarie.mahfouf@free.fr>
+
+Hi,
+
+There are more women that thought at first sight in KDE.
+I discovered another one today, in fact I was intrigued because I thought 
+'this person behaves as I do' (in the way she is involved in the project) but 
+I did not think at first she was a woman. When I found out, I was pleased and 
+it stresses your point, Bernhard, about women doing things differently and 
+being more involved. I remarked (and was told) that women have a better sense 
+of the community dimension in the project. I also remark they tend to pursue 
+their objective until it's done while men would jump from 1 to another.
+Women also abstain of quick flaming people.
+That's only general comments and only my opinion.
+
+Maybe a study will find that women in general are more involved in 'free' 
+activities in the society, helping at schools, involved in charities and so 
+on (free as they give and don't get anything in return). It's my opinion that 
+women give a lot of free time to others so it's just a matter of defining 
+Open a bit more maybe :-)
+
+That was just some quick thoughts,
+
+Anne-Marie
+From eva.brucherseifer at basyskom.de  Wed Sep  1 23:23:26 2004
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Wed Sep  1 23:22:04 2004
+Subject: AW: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409011823.44698.claudia.koltzenburg@rrz.uni-hamburg.de>
+References: <000001c49037$01f1a070$5f7ce6d9@heim>
+	<200409011823.44698.claudia.koltzenburg@rrz.uni-hamburg.de>
+Message-ID: <200409012323.26111.eva.brucherseifer@basyskom.de>
+
+Hi Claudia :-)
+
+nice to meet you here. 
+
+On Wednesday 01 September 2004 18:23, Koltzenburg wrote:
+> Hey Frauke, hey all,
+>
+> > This list and this project should
+> > help women to become a member of the KDE community and to
+> > become active in the project.
+>
+> well, then my choice would be to refrain from gendered talk
+> altogether (hello Bernhard ;-)
+> hello Claudia: - had I not trodden into feeling provoked ;-)
+
+Esp. since it prevents us from being more involved in the technical side... 
+there are too many of those studies taking place lately... and as we don't 
+have enough women for that the researchers aks the same women over and over 
+again ;-)
+
+BTW: it seems people not involved with free software like the term foss or 
+floss - I don't understand why. It stands for
+free, libre and open source software - which is actually the same. It's like 
+calling apples "apples pommes and ?pfel"...
+
+>
+> let's talk shop then, about KDE, and try to do away with the
+> boundaries that seem to separate one part of the KDE-community
+> from another...
+
+you mentioned a few problems you have with KDE - what is it? (Which is the 
+reason I answered your mail in the first place ;-)
+
+Greetings,
+eva
+
+>
+> cu, Claudia
+>
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+-----------------------------------------
+basysKom
+Ingenieurb?ro Brucherseifer und Ackermann GbR
+IT System Kompetenz
+-----------------------------------------
+Dipl.-Ing. Eva Brucherseifer
+Karlstr. 45
+64283 Darmstadt
+Fon: 06151-3969961   Fax: 06151-3969736
+Mobil: 0170-5533642
+eva.brucherseifer@basyskom.de
+www.basyskom.de
+-----------------------------------------
+From annemarie.mahfouf at free.fr  Wed Sep  1 23:33:58 2004
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Wed Sep  1 23:40:54 2004
+Subject: AW: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409012323.26111.eva.brucherseifer@basyskom.de>
+References: <000001c49037$01f1a070$5f7ce6d9@heim>
+	<200409011823.44698.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<200409012323.26111.eva.brucherseifer@basyskom.de>
+Message-ID: <200409011733.58556.annemarie.mahfouf@free.fr>
+
+Hi,
+>
+> BTW: it seems people not involved with free software like the term foss or
+> floss - I don't understand why. It stands for
+> free, libre and open source software - which is actually the same. It's
+> like calling apples "apples pommes and ?pfel"...
+LOL
+yes....
+
+annma
+From eva.brucherseifer at basyskom.de  Wed Sep  1 23:50:23 2004
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Wed Sep  1 23:49:01 2004
+Subject: [Kde-women] cool gadget :-)
+Message-ID: <200409012350.23857.eva.brucherseifer@basyskom.de>
+
+Hi,
+
+just came over something I'd like to share with you:
+http://desk3d.sourceforge.net/
+This thing has a real coolness factor.... unfortunatly I have to watch my 
+boyfriend using it as my own graphics card doesn't have hardware 
+acceleration :-(
+
+Cheers,
+eva
+
+-- 
+-----------------------------------------
+basysKom
+Ingenieurb?ro Brucherseifer und Ackermann GbR
+IT System Kompetenz
+-----------------------------------------
+Dipl.-Ing. Eva Brucherseifer
+Karlstr. 45
+64283 Darmstadt
+Fon: 06151-3969961   Fax: 06151-3969736
+Mobil: 0170-5533642
+eva.brucherseifer@basyskom.de
+www.basyskom.de
+-----------------------------------------
+From trish at trish.de  Thu Sep  2 11:05:33 2004
+From: trish at trish.de (Patricia Jung)
+Date: Thu Sep  2 11:03:11 2004
+Subject: AW: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409012323.26111.eva.brucherseifer@basyskom.de>
+References: <000001c49037$01f1a070$5f7ce6d9@heim>
+	<200409011823.44698.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<200409012323.26111.eva.brucherseifer@basyskom.de>
+Message-ID: <opsdozjjhc4nmnk7@bra.gulbrandsen.priv.no>
+
+On Wed, 1 Sep 2004 23:23:26 +0200, Eva Brucherseifer  
+<eva.brucherseifer@basyskom.de> wrote:
+> BTW: it seems people not involved with free software like the term foss
+In my experience the usage of this term hasn't anything to do with whether  
+people are involved in Open Source projects or not -- to me it looks more  
+like a regional term: It isn't used much in Europe, but when talking with  
+Open Source people from developing countries, I come quite frequently  
+around it. Which, of course, doesn't render your statement about the  
+pleonasm invalid.
+
+Greetings
+
+	Patricia
+
+
+From claudia.koltzenburg at rrz.uni-hamburg.de  Thu Sep  2 11:55:25 2004
+From: claudia.koltzenburg at rrz.uni-hamburg.de (Koltzenburg)
+Date: Thu Sep  2 11:53:35 2004
+Subject: AW: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409012323.26111.eva.brucherseifer@basyskom.de>
+References: <000001c49037$01f1a070$5f7ce6d9@heim>
+	<200409011823.44698.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<200409012323.26111.eva.brucherseifer@basyskom.de>
+Message-ID: <200409021155.26190.claudia.koltzenburg@rrz.uni-hamburg.de>
+
+hi Eva, hey all, 
+
+> > let's talk shop then, about KDE, and try to do away with the
+> > boundaries that seem to separate one part of the
+> > KDE-community from another...
+>
+> you mentioned a few problems you have with KDE - what is it?
+> (Which is the reason I answered your mail in the first place
+
+testing this list for my inquiries proves that i opt for a 
+different forum to place my KDE inquiries in, cu there,
+
+i will stay on here and see how the feel develops
+(hi bernard, this is a test result for your research :-)
+
+Claudia
+From blk20 at cam.ac.uk  Mon Sep  6 15:46:15 2004
+From: blk20 at cam.ac.uk (blk20)
+Date: Mon Sep  6 15:38:15 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <200409011521.48031.annemarie.mahfouf@free.fr>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<1094058300.2348.213.camel@localhost>
+	<200409011857.46188.esme@nocturnal.clara.co.uk>
+	<200409011521.48031.annemarie.mahfouf@free.fr>
+Message-ID: <1094478375.2379.37.camel@localhost>
+
+Hi there,
+
+sorry for responding that late. I was offline for a couple of days. 
+
+On Wed, 2004-09-01 at 21:21, Anne-Marie Mahfouf wrote:
+> Hi,
+> 
+> There are more women that thought at first sight in KDE.
+> I discovered another one today, in fact I was intrigued because I thought 
+> 'this person behaves as I do' (in the way she is involved in the project) but 
+> I did not think at first she was a woman. When I found out, I was pleased and 
+> it stresses your point, Bernhard, about women doing things differently and 
+> being more involved. I remarked (and was told) that women have a better sense 
+> of the community dimension in the project. I also remark they tend to pursue 
+> their objective until it's done while men would jump from 1 to another.
+> Women also abstain of quick flaming people.
+
+Anne-Marie, I think this is very interesting. Originally I thought that
+women would involve in different activities than men would do (for
+instance women would do more internationalisation than coding). However
+now I understand your post in the sense that women have a different
+approach within the same kind of activity (e.g. women would code
+differently, stay longer with a problem, etc).
+
+When you were intereacting with this other developer, what in particular
+was it that it made you think 'this person behaves as I do'? I mean was
+something like similarly commenting code or reacting to criticism? Has
+anybody else made similar experienes?
+
+Thanks. 
+
+Cheers,
+--Bernhard
+
+Ps: In the FLOSS project in 2001/2 we invented the term to escape
+discussions at that time whether one should call non-proprietary
+software 'free software', 'open source' or 'libre software'. We wanted
+everybody who took part of one of the 'communities'. I personally do not
+make a difference in these terms. Results within the survey also showed
+that there were not many significant differences between people of the
+different communities. 
+
+From annemarie.mahfouf at free.fr  Mon Sep  6 15:49:32 2004
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Mon Sep  6 15:59:26 2004
+Subject: [Kde-women] bei wem kommen die Fragen an?
+In-Reply-To: <1094478375.2379.37.camel@localhost>
+References: <200409011033.47471.claudia.koltzenburg@rrz.uni-hamburg.de>
+	<200409011521.48031.annemarie.mahfouf@free.fr>
+	<1094478375.2379.37.camel@localhost>
+Message-ID: <200409060949.32872.annemarie.mahfouf@free.fr>
+
+On September 6, 2004 09:46 am, blk20 wrote:
+> Hi there,
+>
+> sorry for responding that late. I was offline for a couple of days.
+>
+> On Wed, 2004-09-01 at 21:21, Anne-Marie Mahfouf wrote:
+> > Hi,
+> >
+> > There are more women that thought at first sight in KDE.
+> > I discovered another one today, in fact I was intrigued because I thought
+> > 'this person behaves as I do' (in the way she is involved in the project)
+> > but I did not think at first she was a woman. When I found out, I was
+> > pleased and it stresses your point, Bernhard, about women doing things
+> > differently and being more involved. I remarked (and was told) that women
+> > have a better sense of the community dimension in the project. I also
+> > remark they tend to pursue their objective until it's done while men
+> > would jump from 1 to another. Women also abstain of quick flaming people.
+>
+> Anne-Marie, I think this is very interesting. Originally I thought that
+> women would involve in different activities than men would do (for
+> instance women would do more internationalisation than coding). However
+> now I understand your post in the sense that women have a different
+> approach within the same kind of activity (e.g. women would code
+> differently, stay longer with a problem, etc).
+>
+> When you were intereacting with this other developer, what in particular
+> was it that it made you think 'this person behaves as I do'? I mean was
+> something like similarly commenting code or reacting to criticism? Has
+> anybody else made similar experienes?
+
+In the way she pursues the common objective, in the way she explains her views 
+and not dismiss gratuitously some ideas and so on. In the way she interacts 
+with people (via emails). Names don't make it evident what gender a person is 
+so there was no clue for me she was female other than I had a feeling after a 
+few shared work that she was.
+And I don't know how she came to KDE but it is as easier for a woman than for 
+a man to do any work in KDE. The only difficulty might be on IRC when you 
+state you're a woman and some people might act as jerks. IRC anonymity might 
+reinforce that. Handling it is not difficult though (ain't I known as 'KDE 
+Mum'? ;-)
+
+
+Anne-Marie

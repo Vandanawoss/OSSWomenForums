@@ -1,0 +1,557 @@
+From bab_sweta at yahoo.co.in  Fri Sep  8 12:12:07 2006
+From: bab_sweta at yahoo.co.in (sweta pandey)
+Date: Fri, 8 Sep 2006 11:12:07 +0100 (BST)
+Subject: [Kde-women] helo detail req
+Message-ID: <20060908101207.64063.qmail@web7715.mail.in.yahoo.com>
+
+helo how to upgrade kde-2 to kde-3 on redhat 9
+  plz tell me step by step
+  Thx and regards,
+  sweta
+
+ 				
+---------------------------------
+ Find out what India is talking about on  - Yahoo! Answers India 
+ Send FREE SMS to your friend's mobile from Yahoo! Messenger Version 8. Get it NOW
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20060908/695f980b/attachment.html 
+
+From geengyr at gmail.com  Thu Sep 14 03:56:37 2006
+From: geengyr at gmail.com (Genny)
+Date: Wed, 13 Sep 2006 21:56:37 -0400
+Subject: [Kde-women] Upgrading from KDE 3.4 to 3.54 in Suse 9.3 (Suse go
+	kaBOOM)
+Message-ID: <200609132156.37451.geengyr@gmail.com>
+
+(invalid MIME type problem or QT 3.3.6 install went horribly wrong?)
+
+Hello,
+
+I finally managed to upgrade from KDE 3.4 to 3.5.4 in Suse 9.3 for the first 
+time after a year of trying, or so I thought.  I am not a newbie to linux, 
+but I don't know more then the basics.  I am much more experienced in 
+windows/ms-dos, so I am sure half my problems are caused by the way I 
+approach interacting with an operating system.  I have tried all sorts of 
+methods, and walk-throughs.  YOU never seemed to work for me, and the KDE 
+Konstruct had disastrous results when I tried it last week.  SMART seems to 
+be the only route I can make work.
+
+So, how did I start?  I used kget to grab every rpm from the YOU repository 
+for suse 9.3, I arranged them in a directory, and I followed the install 
+directions on the KDE website.  First installing QT, etc.
+
+When I came to installing kde3-base I received a small error, but everything 
+still looked like it was working.
+
+# smart install kdebase*.rpm
+Updating cache...               ######################################## 
+[100%]
+
+Computing transaction...
+
+Upgrading packages (6):
+  kdebase3-3.5.4-58.1 at i586               kdebase3-nsplugin-3.5.4-58.1 at i586
+  kdebase3-kdm-3.5.4-58.1 at i586           kdebase3-samba-3.5.4-58.1 at i586
+  kdebase3-ksysguardd-3.5.4-58.1 at i586    kdebase3-session-3.5.4-58.1 at i586
+
+Installing packages (2):
+  kdebase3-devel-3.5.4-58.1 at i586         kdebase3-extra-3.5.4-58.1 at i586
+
+29.3MB of package files are needed. 14.1MB will be used.
+
+Confirm changes? (Y/n): y
+
+Committing transaction...
+Preparing...                    ######################################## [  
+0%]
+   1:Installing kdebase3-sess.. ######################################## [  
+7%]
+   2:Cleaning kdebase3-session  ######################################## [ 
+14%]
+   3:Installing kdebase3        ######################################## [ 
+21%]
+Output from kdebase3-3.5.4-58.1 at i586:
+Starting SuSEconfig, the SuSE Configuration Tool...
+Running module permissions only
+Reading /etc/sysconfig and updating the system...
+Executing /sbin/conf.d/SuSEconfig.permissions...
+Checking permissions and ownerships - using the permissions files
+        /etc/permissions.d/apache2
+        /etc/permissions.d/cups-client
+        /etc/permissions.d/mailman
+        /etc/permissions.d/postfix
+        /etc/permissions.d/squid
+        /etc/permissions.d/susehelp
+        /etc/permissions.d/tetex
+        /etc/permissions
+        /etc/permissions.easy
+        /etc/permissions.local
+setting /opt/kde3/bin/khc_indexbuilder to root:man 2755. (wrong permissions 
+0755)
+Finished.
+   4:Cleaning kdebase3          ######################################## [ 
+28%]
+Output from kdebase3-kdm-3.5.4-58.1 at i586:
+warning: /opt/kde3/share/config/kdm/kdmrc saved 
+as /opt/kde3/share/config/kdm/kdmrc.rpmsave
+   5:Installing kdebase3-kdm    ######################################## [ 
+35%]
+Information: reading current kdmrc /opt/kde3/share/config/kdm/kdmrc (from kde 
+>= 2.2.x)
+Information: current kdmrc is from kde >= 3.1 (config version 2.3)
+   6:Cleaning kdebase3-kdm      ######################################## [ 
+42%]
+   7:Installing kdebase3-samba  ######################################## [ 
+50%]
+   8:Cleaning kdebase3-samba    ######################################## [ 
+57%]
+   9:Installing kdebase3-ksys.. ######################################## [ 
+64%]
+  10:Cleaning kdebase3-ksysgu.. ######################################## [ 
+71%]
+  11:Installing kdebase3-nspl.. ######################################## [ 
+78%]
+  12:Cleaning kdebase3-nsplugin ######################################## [ 
+85%]
+  13:Installing kdebase3-extra  ######################################## [ 
+92%]
+  14:Installing kdebase3-devel  ######################################## 
+[100%]
+
+Saving cache...
+
+# rpm -q kdebase3
+kdebase3-3.5.4-58.1
+
+
+My question here is, did it really work?  Is it safe to reboot my 
+computer/proceed with installing the rest of the packages?  What was the 
+permissions and ownerships error?
+
+I then proceded to install the rest of the packages, only running into a 
+problem with db42 -- it wanted db41 instead.  Everything looked great, but i 
+hade some MIME errors when I opened anything from the "new" KDE.   So I 
+decided the system most likely needed a reset.
+
+Everything with the reset went great as well. Everything was and still is 
+running so much faster, and my i add, WOW, KATE is so much better now.
+
+But, i soon noticed errors with programs that i had before the upgrade -- 
+Kopete 0.12, Firefox, opera..  I haven't dared venture any further into my 
+software titles.
+
+When I tried to reinstall Opera (web browser) I got this error:
+File '/opt/kde3/share/applications/kde/knights.desktop' contains invalid MIME 
+type 'application/x-chess-pgn,Application' that contains invalid characters
+
+Firefox has something similar when I tried to run it.
+
+Is this normal? I would really appreciate it if someone could point me in the 
+right direction to getting my MIME types fixed :(
+
+I see these errors in console when i try to install the programs -- because 
+they wouldn't run i was trying to reinstall them.
+
+I tried fixing the error in knights.desktop -- though nothing was listed under 
+mime-types -- and when i go to close the properties dialog box, the konquer 
+window that i had used to open the file crashes.
+
+Should I simply delete that file?  since i never ever used that program I have 
+uninstalled it.
+
+Everytime i close a program - new or old it crashes spewing out:
+
+CODE
+Using host libthread_db library "/lib/tls/libthread_db.so.1".
+[Thread debugging using libthread_db enabled]
+[New Thread 1096339648 (LWP 19655)]
+[KCrash handler]
+#9  0x41db6453 in scim::TransactionReader::get_data_type ()
+   from /usr/lib/libscim-1.0.so.6
+#10 0x41db6490 in scim::Transaction::get_data_type ()
+   from /usr/lib/libscim-1.0.so.6
+#11 0x41cfcc4e in scim::QScimInputContext::panel_send_request ()
+   from /usr/lib/qt3/plugins/inputmethods/libqscim.so
+#12 0x41cfd12e in scim::QScimInputContext::~QScimInputContext ()
+   from /usr/lib/qt3/plugins/inputmethods/libqscim.so
+#13 0x40896779 in QObject::~QObject () from /usr/lib/qt3/lib/libqt-mt.so.3
+#14 0x407dfbf0 in QInputContext::~QInputContext ()
+   from /usr/lib/qt3/lib/libqt-mt.so.3
+#15 0x41ce5714 in ~QMultiInputContext (this=0x81d19c8) at qintdict.h:56
+#16 0x407f883c in QWidget::destroyInputContext ()
+   from /usr/lib/qt3/lib/libqt-mt.so.3
+#17 0x407fe1a3 in QWidget::destroy () from /usr/lib/qt3/lib/libqt-mt.so.3
+#18 0x408ce216 in QWidget::~QWidget () from /usr/lib/qt3/lib/libqt-mt.so.3
+#19 0x40996281 in QMainWindow::~QMainWindow ()
+   from /usr/lib/qt3/lib/libqt-mt.so.3
+#20 0x4126ffe0 in KMainWindow::~KMainWindow () 
+from /opt/kde3/lib/libkdeui.so.4
+#21 0x4182809f in Konsole::~Konsole () 
+from /opt/kde3/lib/libkdeinit_konsole.so
+#22 0x4089364c in QObject::event () from /usr/lib/qt3/lib/libqt-mt.so.3
+#23 0x408c8ebc in QWidget::event () from /usr/lib/qt3/lib/libqt-mt.so.3
+#24 0x40994512 in QMainWindow::event () from /usr/lib/qt3/lib/libqt-mt.so.3
+#25 0x4082f67f in QApplication::internalNotify ()
+   from /usr/lib/qt3/lib/libqt-mt.so.3
+#26 0x40831263 in QApplication::notify () from /usr/lib/qt3/lib/libqt-mt.so.3
+#27 0x40572e81 in KApplication::notify () from /opt/kde3/lib/libkdecore.so.4
+#28 0x408304c0 in QApplication::sendPostedEvents ()
+   from /usr/lib/qt3/lib/libqt-mt.so.3
+#29 0x40847494 in QEventLoop::enterLoop () from /usr/lib/qt3/lib/libqt-mt.so.3
+#30 0x40847286 in QEventLoop::exec () from /usr/lib/qt3/lib/libqt-mt.so.3
+#31 0x4083112f in QApplication::exec () from /usr/lib/qt3/lib/libqt-mt.so.3
+#32 0x41825b6c in kdemain () from /opt/kde3/lib/libkdeinit_konsole.so
+#33 0x40d21564 in kdeinitmain () from /opt/kde3/lib/kde3/konsole.so
+#34 0x0804eb7e in launch ()
+#35 0x0804f2cb in handle_launcher_request ()
+#36 0x0804f859 in handle_requests ()
+#37 0x080501f9 in main ()
+
+I assume that means the root of the problem is with my QT installation. Any 
+suggestions? I tried reinstalling QT3, and there was no change at all.
+
+I would appreciate any advice you could send me towards fixing this problem :
+(I was soo happy to of finely achieved upgrading KDE.
+
+Thank you in advance, and I analogise if this seems broken and incongruent, 
+but I have spent 7 hours installing KDE and 5 more hours trying to fix it and 
+I made these posts on a forum as I went along.
+
+
+From torsten.rahn at credativ.de  Thu Sep 14 10:58:11 2006
+From: torsten.rahn at credativ.de (Torsten Rahn)
+Date: Thu, 14 Sep 2006 10:58:11 +0200
+Subject: [Kde-women] Upgrading from KDE 3.4 to 3.54 in Suse 9.3 (Suse go
+	kaBOOM)
+In-Reply-To: <200609132156.37451.geengyr@gmail.com>
+References: <200609132156.37451.geengyr@gmail.com>
+Message-ID: <200609141058.12092.torsten.rahn@credativ.de>
+
+
+Hi Genny,
+
+On 14.09.2006 03:56, Genny wrote:
+> My question here is, did it really work?  Is it safe to reboot my
+> computer/proceed with installing the rest of the packages?  What was the
+> permissions and ownerships error?
+
+I have no experience with Smart but it looks ok to me. I would interprete the 
+wrong permissions to have been fixed.
+
+> When I tried to reinstall Opera (web browser) I got this error:
+> File '/opt/kde3/share/applications/kde/knights.desktop' contains invalid
+> MIME type 'application/x-chess-pgn,Application' that contains invalid
+> character
+
+Did you try to delete the respective line in that file using Kate?
+( I guess the trailing ",Application" just doesn't belong there )
+
+> Is this normal? 
+
+No.
+
+> Should I simply delete that file?  since i never ever used that program I
+> have uninstalled it.
+
+If you delete the file, the application won't appear in the K-Menu.
+
+> #9  0x41db6453 in scim::TransactionReader::get_data_type ()
+
+SCIM is the component which deals with input methods (i.e. stuff like 
+asian/non-latin letters). No idea why this is causing trouble here. So yes, 
+it might be related to the qt-packages or some incompatible libraries which 
+deal with scim input, however I'm not familiar with that stuff.
+
+Torsten
+
+
+From geengyr at gmail.com  Thu Sep 14 13:52:33 2006
+From: geengyr at gmail.com (Genny)
+Date: Thu, 14 Sep 2006 07:52:33 -0400
+Subject: [Kde-women] Upgrading from KDE 3.4 to 3.54 in Suse 9.3 (Suse go
+	kaBOOM)
+In-Reply-To: <200609141058.12092.torsten.rahn@credativ.de>
+References: <200609132156.37451.geengyr@gmail.com>
+	<200609141058.12092.torsten.rahn@credativ.de>
+Message-ID: <200609140752.34006.geengyr@gmail.com>
+
+Thank you for your reply.
+
+I am sad to say good bye to KDE, but Suse has too many issues updateing it.  
+Until I can get a different distro I have to move to something that works.  I 
+hope when I return on a few months that kode-women.org will of been 
+updated ;)  There are alot of great applications out there that need adding 
+to the website.  I absolutly love KDE 3.5.4.  Great work!
+
+Best wishes,
+
+On Thursday 14 September 2006 04:58, Torsten Rahn wrote:
+> Hi Genny,
+>
+> On 14.09.2006 03:56, Genny wrote:
+> > My question here is, did it really work?  Is it safe to reboot my
+> > computer/proceed with installing the rest of the packages?  What was the
+> > permissions and ownerships error?
+>
+> I have no experience with Smart but it looks ok to me. I would interprete
+> the wrong permissions to have been fixed.
+>
+> > When I tried to reinstall Opera (web browser) I got this error:
+> > File '/opt/kde3/share/applications/kde/knights.desktop' contains invalid
+> > MIME type 'application/x-chess-pgn,Application' that contains invalid
+> > character
+>
+> Did you try to delete the respective line in that file using Kate?
+> ( I guess the trailing ",Application" just doesn't belong there )
+>
+> > Is this normal?
+>
+> No.
+>
+> > Should I simply delete that file?  since i never ever used that program I
+> > have uninstalled it.
+>
+> If you delete the file, the application won't appear in the K-Menu.
+>
+> > #9  0x41db6453 in scim::TransactionReader::get_data_type ()
+>
+> SCIM is the component which deals with input methods (i.e. stuff like
+> asian/non-latin letters). No idea why this is causing trouble here. So yes,
+> it might be related to the qt-packages or some incompatible libraries which
+> deal with scim input, however I'm not familiar with that stuff.
+>
+> Torsten
+>
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+From eva.brucherseifer at basyskom.de  Thu Sep 14 14:04:46 2006
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Thu, 14 Sep 2006 14:04:46 +0200
+Subject: [Kde-women] Upgrading from KDE 3.4 to 3.54 in Suse 9.3 (Suse go
+	kaBOOM)
+In-Reply-To: <200609140752.34006.geengyr@gmail.com>
+References: <200609132156.37451.geengyr@gmail.com>
+	<200609141058.12092.torsten.rahn@credativ.de>
+	<200609140752.34006.geengyr@gmail.com>
+Message-ID: <200609141404.46940.eva.brucherseifer@basyskom.de>
+
+Hi Genny,
+
+have you tried Kubuntu? It comes along with current KDE and also it uses 
+Debian update mechanism. I was told that this works better.
+
+I have to admit, that even though I am using and administrating my suse box 
+since 1998, having administrated Solaris for 5 years and having been a suse 
+beta tester for some versions, I also was alienated by recent changes in 
+Suse's update mechanims. So far I didn't have the time (and motivation) to 
+learn their new stuff and your report doesn't motivate either (I also have 
+suse 9.3). 
+
+Maybe it is time to switch to Kubuntu. A lot of my friends are very happy with 
+it. And due to better colaboration with the core Ubuntu team Kubuntu is 
+growing fast. 
+
+Cheers,
+eva
+
+Am Donnerstag, 14. September 2006 13:52 schrieb Genny:
+> Thank you for your reply.
+>
+> I am sad to say good bye to KDE, but Suse has too many issues updateing it.
+> Until I can get a different distro I have to move to something that works. 
+> I hope when I return on a few months that kode-women.org will of been
+> updated ;)  There are alot of great applications out there that need adding
+> to the website.  I absolutly love KDE 3.5.4.  Great work!
+>
+> Best wishes,
+>
+> On Thursday 14 September 2006 04:58, Torsten Rahn wrote:
+> > Hi Genny,
+> >
+> > On 14.09.2006 03:56, Genny wrote:
+> > > My question here is, did it really work?  Is it safe to reboot my
+> > > computer/proceed with installing the rest of the packages?  What was
+> > > the permissions and ownerships error?
+> >
+> > I have no experience with Smart but it looks ok to me. I would interprete
+> > the wrong permissions to have been fixed.
+> >
+> > > When I tried to reinstall Opera (web browser) I got this error:
+> > > File '/opt/kde3/share/applications/kde/knights.desktop' contains
+> > > invalid MIME type 'application/x-chess-pgn,Application' that contains
+> > > invalid character
+> >
+> > Did you try to delete the respective line in that file using Kate?
+> > ( I guess the trailing ",Application" just doesn't belong there )
+> >
+> > > Is this normal?
+> >
+> > No.
+> >
+> > > Should I simply delete that file?  since i never ever used that program
+> > > I have uninstalled it.
+> >
+> > If you delete the file, the application won't appear in the K-Menu.
+> >
+> > > #9  0x41db6453 in scim::TransactionReader::get_data_type ()
+> >
+> > SCIM is the component which deals with input methods (i.e. stuff like
+> > asian/non-latin letters). No idea why this is causing trouble here. So
+> > yes, it might be related to the qt-packages or some incompatible
+> > libraries which deal with scim input, however I'm not familiar with that
+> > stuff.
+> >
+> > Torsten
+> >
+> > _______________________________________________
+> > kde-women mailing list
+> > kde-women at kde.org
+> > https://mail.kde.org/mailman/listinfo/kde-women
+>
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+Eva Brucherseifer
+General Manager
+
+basysKom GmbH
+Robert-Bosch-Str. 7 | 64293 Darmstadt | Germany
+Tel: +49 6151 3969-961 | Fax: -736 | Mobile: +49 170 5533642
+eva.brucherseifer at basyskom.de | www.basyskom.de
+
+From annemarie.mahfouf at free.fr  Thu Sep 14 15:16:54 2006
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Thu, 14 Sep 2006 15:16:54 +0200
+Subject: [Kde-women] New article on the website
+Message-ID: <200609141516.54700.annemarie.mahfouf@free.fr>
+
+Hi all,
+
+I wrote a new article on the website where I explain how to get started in 
+KDE4 development by using a simple project template.
+
+http://women.kde.org/articles/tutorials/kde4_template/
+
+If any of you have an idea for a tutorial, please feel free to submit it here 
+and we'll publish it or we'll give you svn access to the website.
+
+Any comments are welcome.
+
+Cheers,
+
+Anne-Marie
+aka annma
+
+From eva.brucherseifer at basyskom.de  Thu Sep 14 16:02:42 2006
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Thu, 14 Sep 2006 16:02:42 +0200
+Subject: [Kde-women] New article on the website
+In-Reply-To: <200609141516.54700.annemarie.mahfouf@free.fr>
+References: <200609141516.54700.annemarie.mahfouf@free.fr>
+Message-ID: <200609141602.43283.eva.brucherseifer@basyskom.de>
+
+Hi Annma,
+
+nice article! I've also forwarded it to my collegues as one of them is 
+starting with KDE4 development right now. 
+
+Will you also announce the article on the dot?
+
+Cheers,
+eva
+
+Am Donnerstag, 14. September 2006 15:16 schrieb Anne-Marie Mahfouf:
+> Hi all,
+>
+> I wrote a new article on the website where I explain how to get started in
+> KDE4 development by using a simple project template.
+>
+> http://women.kde.org/articles/tutorials/kde4_template/
+>
+> If any of you have an idea for a tutorial, please feel free to submit it
+> here and we'll publish it or we'll give you svn access to the website.
+>
+> Any comments are welcome.
+>
+> Cheers,
+>
+> Anne-Marie
+> aka annma
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+Eva Brucherseifer
+General Manager
+
+basysKom GmbH
+Robert-Bosch-Str. 7 | 64293 Darmstadt | Germany
+Tel: +49 6151 3969-961 | Fax: -736 | Mobile: +49 170 5533642
+eva.brucherseifer at basyskom.de | www.basyskom.de
+
+From torsten.rahn at credativ.de  Thu Sep 14 15:43:48 2006
+From: torsten.rahn at credativ.de (Torsten Rahn)
+Date: Thu, 14 Sep 2006 15:43:48 +0200
+Subject: [Kde-women] Upgrading from KDE 3.4 to 3.54 in Suse 9.3 (Suse go
+	kaBOOM)
+In-Reply-To: <200609140752.34006.geengyr@gmail.com>
+References: <200609132156.37451.geengyr@gmail.com>
+	<200609141058.12092.torsten.rahn@credativ.de>
+	<200609140752.34006.geengyr@gmail.com>
+Message-ID: <200609141543.48868.torsten.rahn@credativ.de>
+
+> I am sad to say good bye to KDE, but Suse has too many issues updateing it.
+
+If you're still having trouble I'd contact binner at kde.org. He's one of the KDE 
+packaging people at SUSE and I'm quite sure that he'll have much more 
+experience to help you. 
+
+> Until I can get a different distro I have to move to something that works. 
+
+I personally use Kubuntu these days which you can even order at no cost at 
+
+https://shipit.kubuntu.org/
+
+but I'm quite sure other distributions such as Mandriva and Mepis (which is 
+based on Kubuntu as well), etc. would do the trick as well.
+
+> I hope when I return on a few months that kode-women.org will of been
+> updated ;)  
+
+Not quite sure what you mean by that :-)
+
+Torsten
+
+From annemarie.mahfouf at free.fr  Thu Sep 14 17:25:25 2006
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Thu, 14 Sep 2006 17:25:25 +0200
+Subject: [Kde-women] New article on the website
+In-Reply-To: <200609141602.43283.eva.brucherseifer@basyskom.de>
+References: <200609141516.54700.annemarie.mahfouf@free.fr>
+	<200609141602.43283.eva.brucherseifer@basyskom.de>
+Message-ID: <200609141725.25619.annemarie.mahfouf@free.fr>
+
+Hi Eva,
+
+> nice article! I've also forwarded it to my collegues as one of them is
+> starting with KDE4 development right now.
+>
+> Will you also announce the article on the dot?
+
+Yes, it'll be announced in the next Quickies (I submitted it after reading 
+your mail ;-)
+
+Hope you are OK :-)
+
+Anne-Marie
+aka annma
+

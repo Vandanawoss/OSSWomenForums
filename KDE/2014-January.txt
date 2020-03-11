@@ -1,0 +1,33 @@
+From valorie.zimmerman at gmail.com  Thu Jan  2 00:17:10 2014
+From: valorie.zimmerman at gmail.com (Valorie Zimmerman)
+Date: Wed, 1 Jan 2014 16:17:10 -0800
+Subject: [Kde-women] Debian mini-conf
+Message-ID: <CACpu026LXByAaWp12cRP5i2RkunB6p3tL4Czu5C5ZnL-NKdzjQ@mail.gmail.com>
+
+This sounds interesting:
+https://wiki.debian.org/DebianWomen/Projects/MiniDebconf-Women/2014/CallForProposals
+
+Women are strongly urged to submit talk proposals. Just passing it
+along; I'm not an active Debian community member.
+
+All the best,
+
+Valorie
+
+-- 
+http://about.me/valoriez
+
+From valorie.zimmerman at gmail.com  Thu Jan 30 08:17:35 2014
+From: valorie.zimmerman at gmail.com (Valorie Zimmerman)
+Date: Thu, 30 Jan 2014 00:17:35 -0800
+Subject: [Kde-women] Ops for #kde-women
+Message-ID: <CACpu027OzPef0hjcK_bnqRBk8G8Z5LHpdLVc9Dan5OMy-pcxeA@mail.gmail.com>
+
+Hi folks, we had an icky troll in channel tonight. Who would like ops,
+so we can react more quickly to such intrusions?
+
+Valorie
+
+-- 
+http://about.me/valoriez
+

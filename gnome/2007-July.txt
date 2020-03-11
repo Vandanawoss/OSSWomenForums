@@ -1,0 +1,398 @@
+From clytie@riverland.net.au  Sun Jul  1 01:17:57 2007
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E0CD73B020F
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  1 Jul 2007 01:17:56 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: 1.87
+X-Spam-Level: *
+X-Spam-Status: No, score=1.87 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, L_P0F_UNKN=0.8, SPF_NEUTRAL=1.069]
+X-Amavis-OS-Fingerprint: UNKNOWN [16384:47:1:48:M1460,S,E:P:?:?], (link:
+	ethernet/modem), [203.16.214.141]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Ip5SMsypSZrO for <gnome-women-list@mail.gnome.org>;
+	Sun,  1 Jul 2007 01:17:55 -0400 (EDT)
+Received: from ipmail02.adl2.internode.on.net (ipmail02.adl2.internode.on.net
+	[203.16.214.141])
+	by menubar.gnome.org (Postfix) with ESMTP id B7B243B01C1
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  1 Jul 2007 01:17:54 -0400 (EDT)
+X-IronPort-AV: E=Sophos;i="4.16,481,1175437800"; 
+	d="sig'?scan'208";a="145327540"
+Received: from ppp121-45-69-247.lns10.adl6.internode.on.net (HELO [10.1.1.92])
+	([121.45.69.247])
+	by ipmail02.adl2.internode.on.net with ESMTP; 01 Jul 2007 14:47:50 +0930
+Mime-Version: 1.0 (Apple Message framework v752.3)
+In-Reply-To: <c5dbda760706301418o377cd5a8r63efa97944ff9812@mail.gmail.com>
+References: <c5dbda760706301418o377cd5a8r63efa97944ff9812@mail.gmail.com>
+Content-Type: multipart/signed; protocol="application/pgp-signature";
+	micalg=pgp-sha1; boundary="Apple-Mail-89-948914684"
+Message-Id: <F59D33E8-AF06-4120-B972-3E5F78B9CE49@riverland.net.au>
+Content-Transfer-Encoding: 7bit
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 1 Jul 2007 14:47:41 +0930
+To: gnome-women-list@mail.gnome.org
+X-Pgp-Agent: GPGMail 1.1.2 (Tiger)
+X-Mailer: Apple Mail (2.752.3)
+Subject: Re: [gnome-women] guadec meeting for gnome-women
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 01 Jul 2007 05:17:57 -0000
+
+This is an OpenPGP/MIME signed message (RFC 2440 and 3156)
+--Apple-Mail-89-948914684
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+
+HI everyone :)
+
+On 01/07/2007, at 6:48 AM, P=C4=B1nar Yanarda=C4=9F wrote:
+>
+> I'm a new member of GNOME Women, so first I'll introduce myself a =20
+> bit :)
+
+Marhaba Pinar. :)
+>
+> I'm a 21 year-old computer engineer from Turkey and I'm also a GSoC =20=
+
+> student under GNOME working for Evolution and Seahorse. I like =20
+> Debian, Ruby, metal music and old damn FRP games. I've a blog right =20=
+
+> there- if interested -> http://pinguar.org/blog
+
+I have a number of Turkish woman friends, so I am delighted to =20
+welcome you to GNOME Women.
+>
+> So.. Are there any chix who'll come to Guadec? I'm going to join to =20=
+
+> Guadec for the first time, and a little party or sth. like would be =20=
+
+> nice to meet and enjoy with other GNOMEchix0rz! ;)
+
+I can't attend cons, since I can't move around at all, but I hope you =20=
+
+have a great time. There should be at least one BOF session aimed at =20
+chix, and you're bound to meet other chix there. Check out the =20
+Linuxchix lists for other people's plans for GUADEC, if you haven't =20
+joined Linuxchix yet. ;)
+
+Good luck with everything!
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN=
+
+--Apple-Mail-89-948914684
+content-type: application/pgp-signature; x-mac-type=70674453;
+	name=PGP.sig
+content-description: This is a digitally signed message part
+content-disposition: inline; filename=PGP.sig
+content-transfer-encoding: 7bit
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.7 (Darwin)
+
+iD8DBQFGhzj1gPyLEUXLW+kRAuGtAJ9SbFC9FPwEAmFIAbLGpfWaPB3ezACfbTZJ
+drxq4HvvOMkRM1f5PWrnUwI=
+=OTSg
+-----END PGP SIGNATURE-----
+
+--Apple-Mail-89-948914684--
+From g@socallinuxexpo.org  Fri Jul 27 15:12:29 2007
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9CA9E3B0012
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 27 Jul 2007 15:12:29 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.464
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.464 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, FORGED_RCVD_HELO=0.135]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 1038 hrs), (distance 15,
+	link: ethernet/modem), [205.147.45.172]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id XYYfaITeNmmv for <gnome-women-list@mail.gnome.org>;
+	Fri, 27 Jul 2007 15:12:28 -0400 (EDT)
+Received: from maggie.socallinuxexpo.org (maggie.socallinuxexpo.org
+	[205.147.45.172])
+	by menubar.gnome.org (Postfix) with ESMTP id 153723B00B6
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 27 Jul 2007 15:12:27 -0400 (EDT)
+Received: from garethgreenaway.ca.delsonmarketing.net
+	(h-72-245-253-10.lsanca54.covad.net [72.245.253.10])
+	(authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	l6RJCKIf008237
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Fri, 27 Jul 2007 12:12:22 -0700
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+Organization: Southern California Linux Expo
+To: gnome-women-list@mail.gnome.org
+Date: Fri, 27 Jul 2007 12:13:39 -0700
+User-Agent: KMail/1.9.6
+MIME-Version: 1.0
+Content-Type: text/plain;
+  charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Message-Id: <200707271213.39935.g@socallinuxexpo.org>
+X-Virus-Scanned: ClamAV 0.90.3/3784/Fri Jul 27 10:35:18 2007 on maggie
+X-Virus-Status: Clean
+Subject: [gnome-women] So Cal Linux Expo Announces Call For Papers
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 27 Jul 2007 19:12:29 -0000
+
+July 27th, 2007
+
+The Linux Expo of Southern California has opened the Call For Papers for=20
+the 6th Annual Southern California Linux Expo, to be held February 8th,=20
+9th, & 10th, 2008. As with SCALE 5x, S6x will be held at the Westin=20
+Hotel at Los Angeles International Airport.
+
+If you=E2=80=99re interested in speaking at SCALE, don=E2=80=99t wait to su=
+bmit your=20
+proposal. Over their last couple of events, the Linux Expo has had many=20
+more applications than they have had speaker slots available. See=20
+http://socallinuxexpo.org/scale6x/documents/scale6x-cfp.pdf for details=20
+on how to apply for a speaking opportunity at SCALE.
+
+Likewise, if you know someone who has something interesting to say about=20
+Open Source software, pass along the CFP to them and encourage them to=20
+apply.
+
+=2D-=20
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+From clytie@riverland.net.au  Sun Jul  1 01:17:57 2007
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E0CD73B020F
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  1 Jul 2007 01:17:56 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: 1.87
+X-Spam-Level: *
+X-Spam-Status: No, score=1.87 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, L_P0F_UNKN=0.8, SPF_NEUTRAL=1.069]
+X-Amavis-OS-Fingerprint: UNKNOWN [16384:47:1:48:M1460,S,E:P:?:?], (link:
+	ethernet/modem), [203.16.214.141]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Ip5SMsypSZrO for <gnome-women-list@mail.gnome.org>;
+	Sun,  1 Jul 2007 01:17:55 -0400 (EDT)
+Received: from ipmail02.adl2.internode.on.net (ipmail02.adl2.internode.on.net
+	[203.16.214.141])
+	by menubar.gnome.org (Postfix) with ESMTP id B7B243B01C1
+	for <gnome-women-list@mail.gnome.org>;
+	Sun,  1 Jul 2007 01:17:54 -0400 (EDT)
+X-IronPort-AV: E=Sophos;i="4.16,481,1175437800"; 
+	d="sig'?scan'208";a="145327540"
+Received: from ppp121-45-69-247.lns10.adl6.internode.on.net (HELO [10.1.1.92])
+	([121.45.69.247])
+	by ipmail02.adl2.internode.on.net with ESMTP; 01 Jul 2007 14:47:50 +0930
+Mime-Version: 1.0 (Apple Message framework v752.3)
+In-Reply-To: <c5dbda760706301418o377cd5a8r63efa97944ff9812@mail.gmail.com>
+References: <c5dbda760706301418o377cd5a8r63efa97944ff9812@mail.gmail.com>
+Content-Type: multipart/signed; protocol="application/pgp-signature";
+	micalg=pgp-sha1; boundary="Apple-Mail-89-948914684"
+Message-Id: <F59D33E8-AF06-4120-B972-3E5F78B9CE49@riverland.net.au>
+Content-Transfer-Encoding: 7bit
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Sun, 1 Jul 2007 14:47:41 +0930
+To: gnome-women-list@mail.gnome.org
+X-Pgp-Agent: GPGMail 1.1.2 (Tiger)
+X-Mailer: Apple Mail (2.752.3)
+Subject: Re: [gnome-women] guadec meeting for gnome-women
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 01 Jul 2007 05:17:57 -0000
+
+This is an OpenPGP/MIME signed message (RFC 2440 and 3156)
+--Apple-Mail-89-948914684
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+
+HI everyone :)
+
+On 01/07/2007, at 6:48 AM, P=C4=B1nar Yanarda=C4=9F wrote:
+>
+> I'm a new member of GNOME Women, so first I'll introduce myself a =20
+> bit :)
+
+Marhaba Pinar. :)
+>
+> I'm a 21 year-old computer engineer from Turkey and I'm also a GSoC =20=
+
+> student under GNOME working for Evolution and Seahorse. I like =20
+> Debian, Ruby, metal music and old damn FRP games. I've a blog right =20=
+
+> there- if interested -> http://pinguar.org/blog
+
+I have a number of Turkish woman friends, so I am delighted to =20
+welcome you to GNOME Women.
+>
+> So.. Are there any chix who'll come to Guadec? I'm going to join to =20=
+
+> Guadec for the first time, and a little party or sth. like would be =20=
+
+> nice to meet and enjoy with other GNOMEchix0rz! ;)
+
+I can't attend cons, since I can't move around at all, but I hope you =20=
+
+have a great time. There should be at least one BOF session aimed at =20
+chix, and you're bound to meet other chix there. Check out the =20
+Linuxchix lists for other people's plans for GUADEC, if you haven't =20
+joined Linuxchix yet. ;)
+
+Good luck with everything!
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN=
+
+--Apple-Mail-89-948914684
+content-type: application/pgp-signature; x-mac-type=70674453;
+	name=PGP.sig
+content-description: This is a digitally signed message part
+content-disposition: inline; filename=PGP.sig
+content-transfer-encoding: 7bit
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.7 (Darwin)
+
+iD8DBQFGhzj1gPyLEUXLW+kRAuGtAJ9SbFC9FPwEAmFIAbLGpfWaPB3ezACfbTZJ
+drxq4HvvOMkRM1f5PWrnUwI=
+=OTSg
+-----END PGP SIGNATURE-----
+
+--Apple-Mail-89-948914684--
+
+From g@socallinuxexpo.org  Fri Jul 27 15:12:29 2007
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9CA9E3B0012
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 27 Jul 2007 15:12:29 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.464
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.464 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, FORGED_RCVD_HELO=0.135]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 1038 hrs), (distance 15,
+	link: ethernet/modem), [205.147.45.172]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id XYYfaITeNmmv for <gnome-women-list@mail.gnome.org>;
+	Fri, 27 Jul 2007 15:12:28 -0400 (EDT)
+Received: from maggie.socallinuxexpo.org (maggie.socallinuxexpo.org
+	[205.147.45.172])
+	by menubar.gnome.org (Postfix) with ESMTP id 153723B00B6
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 27 Jul 2007 15:12:27 -0400 (EDT)
+Received: from garethgreenaway.ca.delsonmarketing.net
+	(h-72-245-253-10.lsanca54.covad.net [72.245.253.10])
+	(authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	l6RJCKIf008237
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Fri, 27 Jul 2007 12:12:22 -0700
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+Organization: Southern California Linux Expo
+To: gnome-women-list@mail.gnome.org
+Date: Fri, 27 Jul 2007 12:13:39 -0700
+User-Agent: KMail/1.9.6
+MIME-Version: 1.0
+Content-Type: text/plain;
+  charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+Message-Id: <200707271213.39935.g@socallinuxexpo.org>
+X-Virus-Scanned: ClamAV 0.90.3/3784/Fri Jul 27 10:35:18 2007 on maggie
+X-Virus-Status: Clean
+Subject: [gnome-women] So Cal Linux Expo Announces Call For Papers
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 27 Jul 2007 19:12:29 -0000
+
+July 27th, 2007
+
+The Linux Expo of Southern California has opened the Call For Papers for=20
+the 6th Annual Southern California Linux Expo, to be held February 8th,=20
+9th, & 10th, 2008. As with SCALE 5x, S6x will be held at the Westin=20
+Hotel at Los Angeles International Airport.
+
+If you=E2=80=99re interested in speaking at SCALE, don=E2=80=99t wait to su=
+bmit your=20
+proposal. Over their last couple of events, the Linux Expo has had many=20
+more applications than they have had speaker slots available. See=20
+http://socallinuxexpo.org/scale6x/documents/scale6x-cfp.pdf for details=20
+on how to apply for a speaking opportunity at SCALE.
+
+Likewise, if you know someone who has something interesting to say about=20
+Open Source software, pass along the CFP to them and encourage them to=20
+apply.
+
+=2D-=20
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+

@@ -1,0 +1,3209 @@
+From duffy@redhat.com  Mon Jan  9 17:14:16 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 8D0023B16AC
+	for <gnome-women-list@gnome.org>; Mon,  9 Jan 2006 17:14:16 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 31454-05 for <gnome-women-list@gnome.org>;
+	Mon,  9 Jan 2006 17:14:14 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 259C23B16E6
+	for <gnome-women-list@gnome.org>; Mon,  9 Jan 2006 17:13:41 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k09MDeB3008081
+	for <gnome-women-list@gnome.org>; Mon, 9 Jan 2006 17:13:40 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k09MDe100776
+	for <gnome-women-list@gnome.org>; Mon, 9 Jan 2006 17:13:40 -0500
+Received: from [172.16.83.35]
+	(IDENT:U2FsdGVkX18jGfqbUf7FM3PiG8vz8MnIexf2grvvrFk@dhcp83-35.boston.redhat.com
+	[172.16.83.35])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k09MDeEg013977
+	for <gnome-women-list@gnome.org>; Mon, 9 Jan 2006 17:13:40 -0500
+Message-ID: <43C2E015.1030100@redhat.com>
+Date: Mon, 09 Jan 2006 17:13:41 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.276 tagged_above=-999 required=2 tests=[AWL=0.325, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.276
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Help Host A Bug Day?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 09 Jan 2006 22:14:16 -0000
+
+As per Mary's suggestion on the women@opensource.org list, I think we should host a bug day (or something - open to suggestions.) :)
+
+Does not this Sat, but the next (21-Jan) sound good? Would anybody be interested in participating at that time? Would anybody else be free then to help me host in #gnome-women?
+
+Thanks,
+~m
+From mary@home.puzzling.org  Mon Jan  9 17:41:03 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7447B3B11A4
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 17:41:03 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 01051-03 for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 17:41:00 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id A2B8C3B166F
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 17:40:58 -0500 (EST)
+Received: (qmail 30492 invoked from network); 9 Jan 2006 22:40:59 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 9 Jan 2006 22:40:59 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 5E05B7880DC
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 09:47:17 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 18209-10 for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 09:47:17 +1100 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id 408BB7880D7; Tue, 10 Jan 2006 09:47:17 +1100 (EST)
+Date: Tue, 10 Jan 2006 09:47:17 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060109224717.GC9763@home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <43C2E015.1030100@redhat.com>
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 09 Jan 2006 22:41:03 -0000
+
+On Mon, Jan 09, 2006, Máirín Duffy wrote:
+> As per Mary's suggestion on the women@opensource.org list, I think we 
+> should host a bug day (or something - open to suggestions.) :)
+> 
+> Does not this Sat, but the next (21-Jan) sound good? Would anybody be 
+> interested in participating at that time? Would anybody else be free then 
+> to help me host in #gnome-women?
+
+That Saturday is OK for me. Unfortunately I'm hosting a documentation
+sprint for the Twisted people (a Python project) on the 14th and don't
+want to spend 2 Saturdays in a row on the computer, but I'll commit to
+being there for at least part of the day.
+
+Alternatives to a bug day would include a docs day, a translation day
+(I'm monolingual, so the chances of me personally doing that are small
+;) ), or some kind of tutorial day, on, say, setting up a local copy of
+the latest GNOME builds or something. All possibilities would need
+knowledgable volunteers.
+
+-Mary
+From spangarang@twcny.rr.com  Mon Jan  9 18:02:42 2006
+Return-Path: <spangarang@twcny.rr.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 326603B1539
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 18:02:42 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 02896-01 for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 18:02:39 -0500 (EST)
+Received: from ms-smtp-04.nyroc.rr.com (ms-smtp-04.nyroc.rr.com [24.24.2.58])
+	by menubar.gnome.org (Postfix) with ESMTP id 4D1CE3B16F7
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 18:02:02 -0500 (EST)
+Received: from localhost.localdomain (cpe-69-207-105-212.twcny.res.rr.com
+	[69.207.105.212])
+	by ms-smtp-04.nyroc.rr.com (8.12.10/8.12.10) with ESMTP id
+	k09N1uRD017900 for <gnome-women-list@mail.gnome.org>;
+	Mon, 9 Jan 2006 18:01:57 -0500 (EST)
+Received: from christine by localhost.localdomain with local (Exim 4.60)
+	(envelope-from <spangarang@twcny.rr.com>) id 1Ew61G-0001Ko-4K
+	for gnome-women-list@mail.gnome.org; Mon, 09 Jan 2006 18:01:42 -0500
+Date: Mon, 9 Jan 2006 18:01:41 -0500
+From: Christine Spang <spangarang@twcny.rr.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060109230141.GA31083@freyja.no-ip.com>
+References: <43C2E015.1030100@redhat.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="gBBFr7Ir9EOA20Yy"
+Content-Disposition: inline
+In-Reply-To: <43C2E015.1030100@redhat.com>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.018 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, DNS_FROM_RFC_WHOIS=1.447, FORGED_RCVD_HELO=0.135,
+	SPF_PASS=-0.001]
+X-Spam-Score: -1.018
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 09 Jan 2006 23:02:42 -0000
+
+
+--gBBFr7Ir9EOA20Yy
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+* M=E1ir=EDn Duffy <duffy@redhat.com> [2006:01:09 17:13 -0500]:=20
+> As per Mary's suggestion on the women@opensource.org list, I think we=20
+> should host a bug day (or something - open to suggestions.) :)
+>=20
+> Does not this Sat, but the next (21-Jan) sound good? Would anybody be=20
+> interested in participating at that time? Would anybody else be free=20
+> then to help me host in #gnome-women?
+>=20
+
+I *think* that that's a free day for me (this Saturday isn't, but next shou=
+ld
+be). I'd definitely be up for helping out (even if something different is p=
+icked)
+and things, though I would need to double-check my schedule.
+
+
+Cheers,
+--=20
+A. Christine Spang
+http://frisia.middle-earth.us/
+
+--gBBFr7Ir9EOA20Yy
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDwutVd73XuVITgboRAuheAJ4jnK+AXhHCUodNU1EDAj1+RJq0jwCfZxbt
+sDoPELvINAhSiiEGeU3c//s=
+=K8Zh
+-----END PGP SIGNATURE-----
+
+--gBBFr7Ir9EOA20Yy--
+From duffy@redhat.com  Tue Jan 10 12:50:26 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 86D0B3B1B36
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 12:50:26 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 32343-04 for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 12:50:24 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 1EC4F3B1C37
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 12:49:17 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0AHnCNR018760
+	for <gnome-women-list@mail.gnome.org>; Tue, 10 Jan 2006 12:49:12 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0AHnC101430
+	for <gnome-women-list@mail.gnome.org>; Tue, 10 Jan 2006 12:49:12 -0500
+Received: from [172.16.83.29]
+	(IDENT:U2FsdGVkX18W9AmqWe0NbJXjrZUvWuFmCbNrVfu2u6o@dhcp83-29.boston.redhat.com
+	[172.16.83.29])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0AHnCEg004319
+	for <gnome-women-list@mail.gnome.org>; Tue, 10 Jan 2006 12:49:12 -0500
+Message-ID: <43C3F398.3010602@redhat.com>
+Date: Tue, 10 Jan 2006 12:49:12 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+In-Reply-To: <20060109224717.GC9763@home.puzzling.org>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.456 tagged_above=-999 required=2 tests=[AWL=0.145, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.456
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 10 Jan 2006 17:50:26 -0000
+
+Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or Christine, let's do it.
+
+~m
+From mary@home.puzzling.org  Thu Jan 12 21:20:15 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D8D813B2E0A
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 21:20:15 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 23036-01 for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 21:20:11 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id CE8363B3007
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 21:20:08 -0500 (EST)
+Received: (qmail 2877 invoked from network); 13 Jan 2006 02:20:14 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 13 Jan 2006 02:20:14 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 113B4788052
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 13:20:17 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 15000-04 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 13:20:16 +1100 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id E041678804E; Fri, 13 Jan 2006 13:20:16 +1100 (EST)
+Date: Fri, 13 Jan 2006 13:20:16 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060113022016.GB14881@home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <43C3F398.3010602@redhat.com>
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2 tests=[AWL=0.000, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Jan 2006 02:20:16 -0000
+
+On Tue, Jan 10, 2006, Máirín Duffy wrote:
+> Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or 
+> Christine, let's do it.
+
+The 28th is OK for me. So, what's going to happen? Is there going to be
+anyone(s) with GNOME development/documentation/translation experience on
+hand to help us find good bugs to work on?
+
+I can take care of passing on info to LinuxChix as long as we've got a
+good idea of what we're doing.
+
+-Mary, who suspects 1 day might be enough to get about 1/3 of the
+development environment set up.
+From duffy@redhat.com  Thu Jan 12 23:05:57 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B89A73B3038
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:57 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 28661-02 for <gnome-women-list@gnome.org>;
+	Thu, 12 Jan 2006 23:05:55 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 0FD873B0B09
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:55 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0D45sXm022521
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:54 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0D45s113516
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:54 -0500
+Received: from [172.16.26.16]
+	(IDENT:U2FsdGVkX19mIXdX5o8b93SSJr9g337e9g94JTXN3LU@vpn26-16.sfbay.redhat.com
+	[172.16.26.16])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0D45kEg021530
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:51 -0500
+Message-ID: <43C72718.305@redhat.com>
+Date: Thu, 12 Jan 2006 23:05:44 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>	<20060109224717.GC9763@home.puzzling.org>	<43C3F398.3010602@redhat.com>
+	<20060113022016.GB14881@home.puzzling.org>
+In-Reply-To: <20060113022016.GB14881@home.puzzling.org>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.501 tagged_above=-999 required=2 tests=[AWL=0.100, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.501
+X-Spam-Level: 
+Cc: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Jan 2006 04:05:57 -0000
+
+Mary Gardiner wrote:
+> The 28th is OK for me. So, what's going to happen? Is there going to be
+> anyone(s) with GNOME development/documentation/translation experience on
+> hand to help us find good bugs to work on?
+
+I have some experience; I will ask around and see if any of the GNOME people I 
+know are interested, and I will talk to the GNOME bugsquad and see if they would 
+be interested in taking part as well.
+
+> I can take care of passing on info to LinuxChix as long as we've got a
+> good idea of what we're doing.
+
+Ok cool.
+
+> -Mary, who suspects 1 day might be enough to get about 1/3 of the
+> development environment set up.
+
+Well... I wouldn't think we'd need to have people setting up dev environments 
+(especially if they're new to GNOME, that could be a bit of a frustrating start 
+;-) ), I was thinking more bug triage work, e.g. like a traditional GNOME bug 
+day (http://live.gnome.org/Bugsquad/BugDays).
+
+~m
+From mary@home.puzzling.org  Thu Jan 12 23:10:16 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EAC8D3B0B09
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 23:10:15 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 28892-02 for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 23:10:13 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id CFDB83B0E73
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 23:10:12 -0500 (EST)
+Received: (qmail 10899 invoked from network); 13 Jan 2006 04:10:20 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 13 Jan 2006 04:10:20 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id E3B05788052
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 15:10:21 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 15634-03 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 15:10:21 +1100 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id BBF5378804E; Fri, 13 Jan 2006 15:10:21 +1100 (EST)
+Date: Fri, 13 Jan 2006 15:10:21 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060113041021.GE14881@home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+	<20060113022016.GB14881@home.puzzling.org>
+	<43C72718.305@redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <43C72718.305@redhat.com>
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2 tests=[AWL=0.000, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Jan 2006 04:10:16 -0000
+
+On Thu, Jan 12, 2006, Máirín Duffy wrote:
+> Well... I wouldn't think we'd need to have people setting up dev 
+> environments (especially if they're new to GNOME, that could be a bit of a 
+> frustrating start ;-) ), I was thinking more bug triage work, e.g. like a 
+> traditional GNOME bug day (http://live.gnome.org/Bugsquad/BugDays).
+
+Ah. Well, that should still be interesting as an occasional thing I
+guess, but I'm personally more interested in an introduction to
+development itself sometime in the future.
+
+-Mary
+From mary@home.puzzling.org  Fri Jan 13 19:33:19 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9EB1C3B0D62
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 19:33:19 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 03263-10 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 19:33:17 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 468F23B0F79
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 19:30:35 -0500 (EST)
+Received: (qmail 9093 invoked from network); 14 Jan 2006 00:30:39 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 14 Jan 2006 00:30:39 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 1F642788054
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 14 Jan 2006 11:30:55 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 21849-07 for <gnome-women-list@mail.gnome.org>;
+	Sat, 14 Jan 2006 11:30:55 +1100 (EST)
+Received: from sourdust.home.puzzling.org (sourdust.home.puzzling.org
+	[10.0.0.7]) by home.puzzling.org (Postfix) with ESMTP id F15AB78804F
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 14 Jan 2006 11:30:54 +1100 (EST)
+Received: by sourdust.home.puzzling.org (Postfix, from userid 1000)
+	id 6DC3E194D11; Sat, 14 Jan 2006 11:30:33 +1100 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Sat, 14 Jan 2006 11:30:33 +1100
+Resent-Message-ID: <20060114003033.GK6454@sourdust.home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Sat, 14 Jan 2006 10:39:16 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060113233916.GI6454@sourdust.home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+	<20060113022016.GB14881@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <20060113022016.GB14881@home.puzzling.org>
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 14 Jan 2006 00:33:19 -0000
+
+On Fri, Jan 13, 2006, Mary Gardiner wrote:
+> On Tue, Jan 10, 2006, Máirín Duffy wrote:
+> > Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or 
+> > Christine, let's do it.
+> 
+> The 28th is OK for me.
+
+Argh, sorry, I'm wrong, and I should have thought about that a little
+harder. I'm away all weekend (actually from the 26th to the 29th). On
+the 28th I'm going to be diving and almost certainly not near a computer
+at all.
+
+Most other weekends are good :)
+
+-Mary
+From spangarang@twcny.rr.com  Fri Jan 13 22:29:51 2006
+Return-Path: <spangarang@twcny.rr.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A78BC3B1040
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:51 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15836-08 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:49 -0500 (EST)
+Received: from ms-smtp-01.nyroc.rr.com (ms-smtp-01.nyroc.rr.com [24.24.2.55])
+	by menubar.gnome.org (Postfix) with ESMTP id E24233B0996
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:48 -0500 (EST)
+Received: from localhost.localdomain (cpe-69-207-105-212.twcny.res.rr.com
+	[69.207.105.212])
+	by ms-smtp-01.nyroc.rr.com (8.13.4/8.13.4) with ESMTP id k0E3Thk4028085
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:43 -0500 (EST)
+Received: from christine by localhost.localdomain with local (Exim 4.60)
+	(envelope-from <spangarang@twcny.rr.com>) id 1Exc6s-0006zn-HR
+	for gnome-women-list@mail.gnome.org; Fri, 13 Jan 2006 22:29:46 -0500
+Date: Fri, 13 Jan 2006 22:29:46 -0500
+From: Christine Spang <spangarang@twcny.rr.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060114032945.GA22434@freyja.no-ip.com>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="RnlQjJ0d97Da+TV1"
+Content-Disposition: inline
+In-Reply-To: <43C3F398.3010602@redhat.com>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.596 tagged_above=-999 required=2
+	tests=[AWL=-0.578, BAYES_00=-2.599, DNS_FROM_RFC_WHOIS=1.447,
+	FORGED_RCVD_HELO=0.135, SPF_PASS=-0.001]
+X-Spam-Score: -1.596
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 14 Jan 2006 03:29:51 -0000
+
+
+--RnlQjJ0d97Da+TV1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+* M=E1ir=EDn Duffy <duffy@redhat.com> [2006:01:10 12:49 -0500]:=20
+> Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or=20
+> Christine, let's do it.
+>=20
+> ~m
+
+I think I'm available this day too if needed.
+
+--=20
+A. Christine Spang
+http://frisia.middle-earth.us/
+
+--RnlQjJ0d97Da+TV1
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDyHApd73XuVITgboRAvREAJ9m5yXdd4U6XNVamjvrC29/DJ06TwCdFUB9
+FbM0nxOw+eT4wmtdtu8UpMg=
+=UhFZ
+-----END PGP SIGNATURE-----
+
+--RnlQjJ0d97Da+TV1--
+From duffy@redhat.com  Mon Jan 16 11:21:08 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0A3163B1EA1
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:21:08 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 31464-05 for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:21:04 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 7D8703B1EEE
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:16:17 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0GGGHle020999
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:16:17 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0GGGH102922
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:16:17 -0500
+Received: from [172.16.83.35]
+	(IDENT:U2FsdGVkX1812w2sLDbQz1yc9D/EQq9SQeiNslu+WfE@dhcp83-35.boston.redhat.com
+	[172.16.83.35])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0GGGGxW021750
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:16:16 -0500
+Message-ID: <43CBC6D0.4010903@redhat.com>
+Date: Mon, 16 Jan 2006 11:16:16 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>	<20060109224717.GC9763@home.puzzling.org>	<43C3F398.3010602@redhat.com>
+	<20060114032945.GA22434@freyja.no-ip.com>
+In-Reply-To: <20060114032945.GA22434@freyja.no-ip.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.532 tagged_above=-999 required=2 tests=[AWL=0.069, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.532
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 16 Jan 2006 16:21:08 -0000
+
+OK, so here's the current status on this -
+
+I talked to Christian, Olav, Guilherme, and Luis on the GNOME Bugsquad team and 
+they are all available and willing to participate on Sat. Jan 28th. Mary isn't 
+available, but Christine is.
+
+Mary, Christine, what do you think, should we go ahead? If so, Mary, would you 
+mind sending out a note to LinuxChix?
+
+~m
+From duffy@redhat.com  Mon Jan 16 11:29:58 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2E79E3B1F46
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:29:58 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 32361-02 for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:29:55 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 81FE83B1EA0
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:27:21 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0GGRLld025127
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:27:21 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0GGRF108598
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:27:15 -0500
+Received: from [172.16.83.35]
+	(IDENT:U2FsdGVkX1/mEV7Cny5ixc/YsSu/1l9l/YyS10K2V2s@dhcp83-35.boston.redhat.com
+	[172.16.83.35])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0GGRFxW022787
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:27:15 -0500
+Message-ID: <43CBC963.4050306@redhat.com>
+Date: Mon, 16 Jan 2006 11:27:15 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>	<20060109224717.GC9763@home.puzzling.org>	<43C3F398.3010602@redhat.com>	<20060113022016.GB14881@home.puzzling.org>	<43C72718.305@redhat.com>
+	<20060113041021.GE14881@home.puzzling.org>
+In-Reply-To: <20060113041021.GE14881@home.puzzling.org>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.469 tagged_above=-999 required=2
+	tests=[AWL=-0.022, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, TW_GD=0.077, TW_GT=0.077]
+X-Spam-Score: -2.469
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 16 Jan 2006 16:29:58 -0000
+
+Mary Gardiner wrote:
+> On Thu, Jan 12, 2006, Máirín Duffy wrote:
+> 
+>>Well... I wouldn't think we'd need to have people setting up dev 
+>>environments (especially if they're new to GNOME, that could be a bit of a 
+>>frustrating start ;-) ), I was thinking more bug triage work, e.g. like a 
+>>traditional GNOME bug day (http://live.gnome.org/Bugsquad/BugDays).
+
+> Ah. Well, that should still be interesting as an occasional thing I
+> guess, but I'm personally more interested in an introduction to
+> development itself sometime in the future.
+
+Let's make this the next event we plan then - maybe an introduction to Gnome 
+development, i.e. how to set up CVS, jhbuild, etc. ? Probably would be good to 
+focus on one application and pick out a few bugs to chew on ahead of time.
+
+One idea I also had for a future event, which maybe is kind of silly but is the 
+kind of thing I love to do - We could do a Gnome Women "theme", e.g., make a 
+wallpaper and mocks for a gdm splash, gdm theme, metacity theme, maybe a gtk 
+pixmap theme, etc., and have those prepared ahead of time, and then sit down and 
+go through the process of writing a gdm theme, gathering icons & wallpaper and 
+packaging them together into a gnome theme, etc. (ok these might be a session 
+each ;-) ), and then at the end we'd have a cool Gnome-Women desktop theme for 
+Gnome that we could submit to art.gnome.org. Just an idea. :)
+
+~m
+From spangarang@twcny.rr.com  Mon Jan 16 15:01:53 2006
+Return-Path: <spangarang@twcny.rr.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D0A5A3B2133
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:01:53 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 21488-06 for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:01:50 -0500 (EST)
+Received: from ms-smtp-02.nyroc.rr.com (ms-smtp-02.nyroc.rr.com [24.24.2.56])
+	by menubar.gnome.org (Postfix) with ESMTP id 8A5013B1CFC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:00:44 -0500 (EST)
+Received: from localhost.localdomain (cpe-69-207-105-212.twcny.res.rr.com
+	[69.207.105.212])
+	by ms-smtp-02.nyroc.rr.com (8.13.4/8.13.4) with ESMTP id k0GK0grJ027137
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:00:43 -0500 (EST)
+Received: from christine by localhost.localdomain with local (Exim 4.60)
+	(envelope-from <spangarang@twcny.rr.com>) id 1EyaX1-00033l-UD
+	for gnome-women-list@mail.gnome.org; Mon, 16 Jan 2006 15:00:48 -0500
+Date: Mon, 16 Jan 2006 15:00:47 -0500
+From: Christine Spang <spangarang@twcny.rr.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060116200047.GA5543@freyja.no-ip.com>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+	<20060114032945.GA22434@freyja.no-ip.com>
+	<43CBC6D0.4010903@redhat.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="liOOAslEiF7prFVr"
+Content-Disposition: inline
+In-Reply-To: <43CBC6D0.4010903@redhat.com>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.596 tagged_above=-999 required=2
+	tests=[AWL=-0.578, BAYES_00=-2.599, DNS_FROM_RFC_WHOIS=1.447,
+	FORGED_RCVD_HELO=0.135, SPF_PASS=-0.001]
+X-Spam-Score: -1.596
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 16 Jan 2006 20:01:54 -0000
+
+
+--liOOAslEiF7prFVr
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+* M=E1ir=EDn Duffy <duffy@redhat.com> [2006:01:16 11:16 -0500]:=20
+> Mary, Christine, what do you think, should we go ahead? If so, Mary,=20
+> would you mind sending out a note to LinuxChix?
+>=20
+
+Sounds good to me.
+
+--=20
+A. Christine Spang
+http://frisia.middle-earth.us/
+
+--liOOAslEiF7prFVr
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDy/tvd73XuVITgboRAl3OAJ4hlDWtmu8rOCdbasZ6dUOFOUQFCwCfSifK
+Hm7Fl8eTf3VigaxUICmwBC0=
+=xeNK
+-----END PGP SIGNATURE-----
+
+--liOOAslEiF7prFVr--
+From duffy@redhat.com  Tue Jan 24 10:22:17 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP
+	id 6C19D3B0FFB; Tue, 24 Jan 2006 10:22:17 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14589-07; Tue, 24 Jan 2006 10:22:14 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP
+	id 48B653B1015; Tue, 24 Jan 2006 10:22:10 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0OFM9jW006560;
+	Tue, 24 Jan 2006 10:22:09 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id
+	k0OFM9112239; Tue, 24 Jan 2006 10:22:09 -0500
+Received: from [172.16.83.29]
+	(IDENT:U2FsdGVkX18VGoOJ3eoGYCQjpjkhEtVye0uvVe8VsQs@dhcp83-29.boston.redhat.com
+	[172.16.83.29])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0OFM9pS013393; 
+	Tue, 24 Jan 2006 10:22:09 -0500
+Message-ID: <43D6461F.4070004@redhat.com>
+Date: Tue, 24 Jan 2006 10:22:07 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-bugsquad@gnome.org, gnome-love@gnome.org, gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.543 tagged_above=-999 required=2 tests=[AWL=0.058, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.543
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Bug Day with Gnome Women this Saturday
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 24 Jan 2006 15:22:17 -0000
+
+Hi,
+
+The Gnome Women group [1] is hosting a bug day [2] this Saturday with the Gnome 
+Bugsquad - all are welcome to join.
+
+     Date: Saturday, January 28th
+     Time: 9 AM - 9 PM EST
+  Location: #bugs on irc.gnome.org
+Bug Topic: TBD [3]
+
+   Bugday Masters: Christian Kirbach (nazgul), Luis Villa (luis)
+         Deputies: Olav Vitters (bkor), Guilherme Pastore (fatalerror)
+Gnome Women Hosts: Máirín Duffy (mizmo), Christine Spang (christine)
+
+[1] http://live.gnome.org/GnomeWomen
+[2] http://live.gnome.org/Bugsquad/BugDays
+[3] If anyone has suggestions let me know. :)
+
+~m
+From duffy@redhat.com  Mon Jan  9 17:14:16 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 8D0023B16AC
+	for <gnome-women-list@gnome.org>; Mon,  9 Jan 2006 17:14:16 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 31454-05 for <gnome-women-list@gnome.org>;
+	Mon,  9 Jan 2006 17:14:14 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 259C23B16E6
+	for <gnome-women-list@gnome.org>; Mon,  9 Jan 2006 17:13:41 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k09MDeB3008081
+	for <gnome-women-list@gnome.org>; Mon, 9 Jan 2006 17:13:40 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k09MDe100776
+	for <gnome-women-list@gnome.org>; Mon, 9 Jan 2006 17:13:40 -0500
+Received: from [172.16.83.35]
+	(IDENT:U2FsdGVkX18jGfqbUf7FM3PiG8vz8MnIexf2grvvrFk@dhcp83-35.boston.redhat.com
+	[172.16.83.35])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k09MDeEg013977
+	for <gnome-women-list@gnome.org>; Mon, 9 Jan 2006 17:13:40 -0500
+Message-ID: <43C2E015.1030100@redhat.com>
+Date: Mon, 09 Jan 2006 17:13:41 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.276 tagged_above=-999 required=2 tests=[AWL=0.325, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.276
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Help Host A Bug Day?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 09 Jan 2006 22:14:16 -0000
+
+As per Mary's suggestion on the women@opensource.org list, I think we should host a bug day (or something - open to suggestions.) :)
+
+Does not this Sat, but the next (21-Jan) sound good? Would anybody be interested in participating at that time? Would anybody else be free then to help me host in #gnome-women?
+
+Thanks,
+~m
+
+From mary@home.puzzling.org  Mon Jan  9 17:41:03 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7447B3B11A4
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 17:41:03 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 01051-03 for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 17:41:00 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id A2B8C3B166F
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 17:40:58 -0500 (EST)
+Received: (qmail 30492 invoked from network); 9 Jan 2006 22:40:59 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 9 Jan 2006 22:40:59 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 5E05B7880DC
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 09:47:17 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 18209-10 for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 09:47:17 +1100 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id 408BB7880D7; Tue, 10 Jan 2006 09:47:17 +1100 (EST)
+Date: Tue, 10 Jan 2006 09:47:17 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060109224717.GC9763@home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <43C2E015.1030100@redhat.com>
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 09 Jan 2006 22:41:03 -0000
+
+On Mon, Jan 09, 2006, Máirín Duffy wrote:
+> As per Mary's suggestion on the women@opensource.org list, I think we 
+> should host a bug day (or something - open to suggestions.) :)
+> 
+> Does not this Sat, but the next (21-Jan) sound good? Would anybody be 
+> interested in participating at that time? Would anybody else be free then 
+> to help me host in #gnome-women?
+
+That Saturday is OK for me. Unfortunately I'm hosting a documentation
+sprint for the Twisted people (a Python project) on the 14th and don't
+want to spend 2 Saturdays in a row on the computer, but I'll commit to
+being there for at least part of the day.
+
+Alternatives to a bug day would include a docs day, a translation day
+(I'm monolingual, so the chances of me personally doing that are small
+;) ), or some kind of tutorial day, on, say, setting up a local copy of
+the latest GNOME builds or something. All possibilities would need
+knowledgable volunteers.
+
+-Mary
+
+From spangarang@twcny.rr.com  Mon Jan  9 18:02:42 2006
+Return-Path: <spangarang@twcny.rr.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 326603B1539
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 18:02:42 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 02896-01 for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 18:02:39 -0500 (EST)
+Received: from ms-smtp-04.nyroc.rr.com (ms-smtp-04.nyroc.rr.com [24.24.2.58])
+	by menubar.gnome.org (Postfix) with ESMTP id 4D1CE3B16F7
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 18:02:02 -0500 (EST)
+Received: from localhost.localdomain (cpe-69-207-105-212.twcny.res.rr.com
+	[69.207.105.212])
+	by ms-smtp-04.nyroc.rr.com (8.12.10/8.12.10) with ESMTP id
+	k09N1uRD017900 for <gnome-women-list@mail.gnome.org>;
+	Mon, 9 Jan 2006 18:01:57 -0500 (EST)
+Received: from christine by localhost.localdomain with local (Exim 4.60)
+	(envelope-from <spangarang@twcny.rr.com>) id 1Ew61G-0001Ko-4K
+	for gnome-women-list@mail.gnome.org; Mon, 09 Jan 2006 18:01:42 -0500
+Date: Mon, 9 Jan 2006 18:01:41 -0500
+From: Christine Spang <spangarang@twcny.rr.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060109230141.GA31083@freyja.no-ip.com>
+References: <43C2E015.1030100@redhat.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="gBBFr7Ir9EOA20Yy"
+Content-Disposition: inline
+In-Reply-To: <43C2E015.1030100@redhat.com>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.018 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, DNS_FROM_RFC_WHOIS=1.447, FORGED_RCVD_HELO=0.135,
+	SPF_PASS=-0.001]
+X-Spam-Score: -1.018
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 09 Jan 2006 23:02:42 -0000
+
+
+--gBBFr7Ir9EOA20Yy
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+* M=E1ir=EDn Duffy <duffy@redhat.com> [2006:01:09 17:13 -0500]:=20
+> As per Mary's suggestion on the women@opensource.org list, I think we=20
+> should host a bug day (or something - open to suggestions.) :)
+>=20
+> Does not this Sat, but the next (21-Jan) sound good? Would anybody be=20
+> interested in participating at that time? Would anybody else be free=20
+> then to help me host in #gnome-women?
+>=20
+
+I *think* that that's a free day for me (this Saturday isn't, but next shou=
+ld
+be). I'd definitely be up for helping out (even if something different is p=
+icked)
+and things, though I would need to double-check my schedule.
+
+
+Cheers,
+--=20
+A. Christine Spang
+http://frisia.middle-earth.us/
+
+--gBBFr7Ir9EOA20Yy
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDwutVd73XuVITgboRAuheAJ4jnK+AXhHCUodNU1EDAj1+RJq0jwCfZxbt
+sDoPELvINAhSiiEGeU3c//s=
+=K8Zh
+-----END PGP SIGNATURE-----
+
+--gBBFr7Ir9EOA20Yy--
+
+From duffy@redhat.com  Tue Jan 10 12:50:26 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 86D0B3B1B36
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 12:50:26 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 32343-04 for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 12:50:24 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 1EC4F3B1C37
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 12:49:17 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0AHnCNR018760
+	for <gnome-women-list@mail.gnome.org>; Tue, 10 Jan 2006 12:49:12 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0AHnC101430
+	for <gnome-women-list@mail.gnome.org>; Tue, 10 Jan 2006 12:49:12 -0500
+Received: from [172.16.83.29]
+	(IDENT:U2FsdGVkX18W9AmqWe0NbJXjrZUvWuFmCbNrVfu2u6o@dhcp83-29.boston.redhat.com
+	[172.16.83.29])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0AHnCEg004319
+	for <gnome-women-list@mail.gnome.org>; Tue, 10 Jan 2006 12:49:12 -0500
+Message-ID: <43C3F398.3010602@redhat.com>
+Date: Tue, 10 Jan 2006 12:49:12 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+In-Reply-To: <20060109224717.GC9763@home.puzzling.org>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.456 tagged_above=-999 required=2 tests=[AWL=0.145, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.456
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 10 Jan 2006 17:50:26 -0000
+
+Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or Christine, let's do it.
+
+~m
+
+From mary@home.puzzling.org  Thu Jan 12 21:20:15 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D8D813B2E0A
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 21:20:15 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 23036-01 for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 21:20:11 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id CE8363B3007
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 21:20:08 -0500 (EST)
+Received: (qmail 2877 invoked from network); 13 Jan 2006 02:20:14 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 13 Jan 2006 02:20:14 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 113B4788052
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 13:20:17 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 15000-04 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 13:20:16 +1100 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id E041678804E; Fri, 13 Jan 2006 13:20:16 +1100 (EST)
+Date: Fri, 13 Jan 2006 13:20:16 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060113022016.GB14881@home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <43C3F398.3010602@redhat.com>
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2 tests=[AWL=0.000, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Jan 2006 02:20:16 -0000
+
+On Tue, Jan 10, 2006, Máirín Duffy wrote:
+> Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or 
+> Christine, let's do it.
+
+The 28th is OK for me. So, what's going to happen? Is there going to be
+anyone(s) with GNOME development/documentation/translation experience on
+hand to help us find good bugs to work on?
+
+I can take care of passing on info to LinuxChix as long as we've got a
+good idea of what we're doing.
+
+-Mary, who suspects 1 day might be enough to get about 1/3 of the
+development environment set up.
+
+From duffy@redhat.com  Thu Jan 12 23:05:57 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B89A73B3038
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:57 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 28661-02 for <gnome-women-list@gnome.org>;
+	Thu, 12 Jan 2006 23:05:55 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 0FD873B0B09
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:55 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0D45sXm022521
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:54 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0D45s113516
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:54 -0500
+Received: from [172.16.26.16]
+	(IDENT:U2FsdGVkX19mIXdX5o8b93SSJr9g337e9g94JTXN3LU@vpn26-16.sfbay.redhat.com
+	[172.16.26.16])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0D45kEg021530
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:51 -0500
+Message-ID: <43C72718.305@redhat.com>
+Date: Thu, 12 Jan 2006 23:05:44 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>	<20060109224717.GC9763@home.puzzling.org>	<43C3F398.3010602@redhat.com>
+	<20060113022016.GB14881@home.puzzling.org>
+In-Reply-To: <20060113022016.GB14881@home.puzzling.org>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.501 tagged_above=-999 required=2 tests=[AWL=0.100, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.501
+X-Spam-Level: 
+Cc: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Jan 2006 04:05:57 -0000
+
+Mary Gardiner wrote:
+> The 28th is OK for me. So, what's going to happen? Is there going to be
+> anyone(s) with GNOME development/documentation/translation experience on
+> hand to help us find good bugs to work on?
+
+I have some experience; I will ask around and see if any of the GNOME people I 
+know are interested, and I will talk to the GNOME bugsquad and see if they would 
+be interested in taking part as well.
+
+> I can take care of passing on info to LinuxChix as long as we've got a
+> good idea of what we're doing.
+
+Ok cool.
+
+> -Mary, who suspects 1 day might be enough to get about 1/3 of the
+> development environment set up.
+
+Well... I wouldn't think we'd need to have people setting up dev environments 
+(especially if they're new to GNOME, that could be a bit of a frustrating start 
+;-) ), I was thinking more bug triage work, e.g. like a traditional GNOME bug 
+day (http://live.gnome.org/Bugsquad/BugDays).
+
+~m
+
+From mary@home.puzzling.org  Thu Jan 12 23:10:16 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EAC8D3B0B09
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 23:10:15 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 28892-02 for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 23:10:13 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id CFDB83B0E73
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 23:10:12 -0500 (EST)
+Received: (qmail 10899 invoked from network); 13 Jan 2006 04:10:20 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 13 Jan 2006 04:10:20 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id E3B05788052
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 15:10:21 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 15634-03 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 15:10:21 +1100 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id BBF5378804E; Fri, 13 Jan 2006 15:10:21 +1100 (EST)
+Date: Fri, 13 Jan 2006 15:10:21 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060113041021.GE14881@home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+	<20060113022016.GB14881@home.puzzling.org>
+	<43C72718.305@redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <43C72718.305@redhat.com>
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2 tests=[AWL=0.000, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Jan 2006 04:10:16 -0000
+
+On Thu, Jan 12, 2006, Máirín Duffy wrote:
+> Well... I wouldn't think we'd need to have people setting up dev 
+> environments (especially if they're new to GNOME, that could be a bit of a 
+> frustrating start ;-) ), I was thinking more bug triage work, e.g. like a 
+> traditional GNOME bug day (http://live.gnome.org/Bugsquad/BugDays).
+
+Ah. Well, that should still be interesting as an occasional thing I
+guess, but I'm personally more interested in an introduction to
+development itself sometime in the future.
+
+-Mary
+
+From mary@home.puzzling.org  Fri Jan 13 19:33:19 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9EB1C3B0D62
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 19:33:19 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 03263-10 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 19:33:17 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 468F23B0F79
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 19:30:35 -0500 (EST)
+Received: (qmail 9093 invoked from network); 14 Jan 2006 00:30:39 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 14 Jan 2006 00:30:39 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 1F642788054
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 14 Jan 2006 11:30:55 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 21849-07 for <gnome-women-list@mail.gnome.org>;
+	Sat, 14 Jan 2006 11:30:55 +1100 (EST)
+Received: from sourdust.home.puzzling.org (sourdust.home.puzzling.org
+	[10.0.0.7]) by home.puzzling.org (Postfix) with ESMTP id F15AB78804F
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 14 Jan 2006 11:30:54 +1100 (EST)
+Received: by sourdust.home.puzzling.org (Postfix, from userid 1000)
+	id 6DC3E194D11; Sat, 14 Jan 2006 11:30:33 +1100 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Sat, 14 Jan 2006 11:30:33 +1100
+Resent-Message-ID: <20060114003033.GK6454@sourdust.home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Sat, 14 Jan 2006 10:39:16 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060113233916.GI6454@sourdust.home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+	<20060113022016.GB14881@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <20060113022016.GB14881@home.puzzling.org>
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 14 Jan 2006 00:33:19 -0000
+
+On Fri, Jan 13, 2006, Mary Gardiner wrote:
+> On Tue, Jan 10, 2006, Máirín Duffy wrote:
+> > Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or 
+> > Christine, let's do it.
+> 
+> The 28th is OK for me.
+
+Argh, sorry, I'm wrong, and I should have thought about that a little
+harder. I'm away all weekend (actually from the 26th to the 29th). On
+the 28th I'm going to be diving and almost certainly not near a computer
+at all.
+
+Most other weekends are good :)
+
+-Mary
+
+From spangarang@twcny.rr.com  Fri Jan 13 22:29:51 2006
+Return-Path: <spangarang@twcny.rr.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A78BC3B1040
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:51 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15836-08 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:49 -0500 (EST)
+Received: from ms-smtp-01.nyroc.rr.com (ms-smtp-01.nyroc.rr.com [24.24.2.55])
+	by menubar.gnome.org (Postfix) with ESMTP id E24233B0996
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:48 -0500 (EST)
+Received: from localhost.localdomain (cpe-69-207-105-212.twcny.res.rr.com
+	[69.207.105.212])
+	by ms-smtp-01.nyroc.rr.com (8.13.4/8.13.4) with ESMTP id k0E3Thk4028085
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:43 -0500 (EST)
+Received: from christine by localhost.localdomain with local (Exim 4.60)
+	(envelope-from <spangarang@twcny.rr.com>) id 1Exc6s-0006zn-HR
+	for gnome-women-list@mail.gnome.org; Fri, 13 Jan 2006 22:29:46 -0500
+Date: Fri, 13 Jan 2006 22:29:46 -0500
+From: Christine Spang <spangarang@twcny.rr.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060114032945.GA22434@freyja.no-ip.com>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="RnlQjJ0d97Da+TV1"
+Content-Disposition: inline
+In-Reply-To: <43C3F398.3010602@redhat.com>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.596 tagged_above=-999 required=2
+	tests=[AWL=-0.578, BAYES_00=-2.599, DNS_FROM_RFC_WHOIS=1.447,
+	FORGED_RCVD_HELO=0.135, SPF_PASS=-0.001]
+X-Spam-Score: -1.596
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 14 Jan 2006 03:29:51 -0000
+
+
+--RnlQjJ0d97Da+TV1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+* M=E1ir=EDn Duffy <duffy@redhat.com> [2006:01:10 12:49 -0500]:=20
+> Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or=20
+> Christine, let's do it.
+>=20
+> ~m
+
+I think I'm available this day too if needed.
+
+--=20
+A. Christine Spang
+http://frisia.middle-earth.us/
+
+--RnlQjJ0d97Da+TV1
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDyHApd73XuVITgboRAvREAJ9m5yXdd4U6XNVamjvrC29/DJ06TwCdFUB9
+FbM0nxOw+eT4wmtdtu8UpMg=
+=UhFZ
+-----END PGP SIGNATURE-----
+
+--RnlQjJ0d97Da+TV1--
+
+From duffy@redhat.com  Mon Jan 16 11:21:08 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0A3163B1EA1
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:21:08 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 31464-05 for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:21:04 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 7D8703B1EEE
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:16:17 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0GGGHle020999
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:16:17 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0GGGH102922
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:16:17 -0500
+Received: from [172.16.83.35]
+	(IDENT:U2FsdGVkX1812w2sLDbQz1yc9D/EQq9SQeiNslu+WfE@dhcp83-35.boston.redhat.com
+	[172.16.83.35])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0GGGGxW021750
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:16:16 -0500
+Message-ID: <43CBC6D0.4010903@redhat.com>
+Date: Mon, 16 Jan 2006 11:16:16 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>	<20060109224717.GC9763@home.puzzling.org>	<43C3F398.3010602@redhat.com>
+	<20060114032945.GA22434@freyja.no-ip.com>
+In-Reply-To: <20060114032945.GA22434@freyja.no-ip.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.532 tagged_above=-999 required=2 tests=[AWL=0.069, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.532
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 16 Jan 2006 16:21:08 -0000
+
+OK, so here's the current status on this -
+
+I talked to Christian, Olav, Guilherme, and Luis on the GNOME Bugsquad team and 
+they are all available and willing to participate on Sat. Jan 28th. Mary isn't 
+available, but Christine is.
+
+Mary, Christine, what do you think, should we go ahead? If so, Mary, would you 
+mind sending out a note to LinuxChix?
+
+~m
+
+From duffy@redhat.com  Mon Jan 16 11:29:58 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2E79E3B1F46
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:29:58 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 32361-02 for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:29:55 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 81FE83B1EA0
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:27:21 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0GGRLld025127
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:27:21 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0GGRF108598
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:27:15 -0500
+Received: from [172.16.83.35]
+	(IDENT:U2FsdGVkX1/mEV7Cny5ixc/YsSu/1l9l/YyS10K2V2s@dhcp83-35.boston.redhat.com
+	[172.16.83.35])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0GGRFxW022787
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:27:15 -0500
+Message-ID: <43CBC963.4050306@redhat.com>
+Date: Mon, 16 Jan 2006 11:27:15 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>	<20060109224717.GC9763@home.puzzling.org>	<43C3F398.3010602@redhat.com>	<20060113022016.GB14881@home.puzzling.org>	<43C72718.305@redhat.com>
+	<20060113041021.GE14881@home.puzzling.org>
+In-Reply-To: <20060113041021.GE14881@home.puzzling.org>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.469 tagged_above=-999 required=2
+	tests=[AWL=-0.022, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, TW_GD=0.077, TW_GT=0.077]
+X-Spam-Score: -2.469
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 16 Jan 2006 16:29:58 -0000
+
+Mary Gardiner wrote:
+> On Thu, Jan 12, 2006, Máirín Duffy wrote:
+> 
+>>Well... I wouldn't think we'd need to have people setting up dev 
+>>environments (especially if they're new to GNOME, that could be a bit of a 
+>>frustrating start ;-) ), I was thinking more bug triage work, e.g. like a 
+>>traditional GNOME bug day (http://live.gnome.org/Bugsquad/BugDays).
+
+> Ah. Well, that should still be interesting as an occasional thing I
+> guess, but I'm personally more interested in an introduction to
+> development itself sometime in the future.
+
+Let's make this the next event we plan then - maybe an introduction to Gnome 
+development, i.e. how to set up CVS, jhbuild, etc. ? Probably would be good to 
+focus on one application and pick out a few bugs to chew on ahead of time.
+
+One idea I also had for a future event, which maybe is kind of silly but is the 
+kind of thing I love to do - We could do a Gnome Women "theme", e.g., make a 
+wallpaper and mocks for a gdm splash, gdm theme, metacity theme, maybe a gtk 
+pixmap theme, etc., and have those prepared ahead of time, and then sit down and 
+go through the process of writing a gdm theme, gathering icons & wallpaper and 
+packaging them together into a gnome theme, etc. (ok these might be a session 
+each ;-) ), and then at the end we'd have a cool Gnome-Women desktop theme for 
+Gnome that we could submit to art.gnome.org. Just an idea. :)
+
+~m
+
+From spangarang@twcny.rr.com  Mon Jan 16 15:01:53 2006
+Return-Path: <spangarang@twcny.rr.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D0A5A3B2133
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:01:53 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 21488-06 for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:01:50 -0500 (EST)
+Received: from ms-smtp-02.nyroc.rr.com (ms-smtp-02.nyroc.rr.com [24.24.2.56])
+	by menubar.gnome.org (Postfix) with ESMTP id 8A5013B1CFC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:00:44 -0500 (EST)
+Received: from localhost.localdomain (cpe-69-207-105-212.twcny.res.rr.com
+	[69.207.105.212])
+	by ms-smtp-02.nyroc.rr.com (8.13.4/8.13.4) with ESMTP id k0GK0grJ027137
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:00:43 -0500 (EST)
+Received: from christine by localhost.localdomain with local (Exim 4.60)
+	(envelope-from <spangarang@twcny.rr.com>) id 1EyaX1-00033l-UD
+	for gnome-women-list@mail.gnome.org; Mon, 16 Jan 2006 15:00:48 -0500
+Date: Mon, 16 Jan 2006 15:00:47 -0500
+From: Christine Spang <spangarang@twcny.rr.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060116200047.GA5543@freyja.no-ip.com>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+	<20060114032945.GA22434@freyja.no-ip.com>
+	<43CBC6D0.4010903@redhat.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="liOOAslEiF7prFVr"
+Content-Disposition: inline
+In-Reply-To: <43CBC6D0.4010903@redhat.com>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.596 tagged_above=-999 required=2
+	tests=[AWL=-0.578, BAYES_00=-2.599, DNS_FROM_RFC_WHOIS=1.447,
+	FORGED_RCVD_HELO=0.135, SPF_PASS=-0.001]
+X-Spam-Score: -1.596
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 16 Jan 2006 20:01:54 -0000
+
+
+--liOOAslEiF7prFVr
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+* M=E1ir=EDn Duffy <duffy@redhat.com> [2006:01:16 11:16 -0500]:=20
+> Mary, Christine, what do you think, should we go ahead? If so, Mary,=20
+> would you mind sending out a note to LinuxChix?
+>=20
+
+Sounds good to me.
+
+--=20
+A. Christine Spang
+http://frisia.middle-earth.us/
+
+--liOOAslEiF7prFVr
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDy/tvd73XuVITgboRAl3OAJ4hlDWtmu8rOCdbasZ6dUOFOUQFCwCfSifK
+Hm7Fl8eTf3VigaxUICmwBC0=
+=xeNK
+-----END PGP SIGNATURE-----
+
+--liOOAslEiF7prFVr--
+
+From duffy@redhat.com  Tue Jan 24 10:22:17 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP
+	id 6C19D3B0FFB; Tue, 24 Jan 2006 10:22:17 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14589-07; Tue, 24 Jan 2006 10:22:14 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP
+	id 48B653B1015; Tue, 24 Jan 2006 10:22:10 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0OFM9jW006560;
+	Tue, 24 Jan 2006 10:22:09 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id
+	k0OFM9112239; Tue, 24 Jan 2006 10:22:09 -0500
+Received: from [172.16.83.29]
+	(IDENT:U2FsdGVkX18VGoOJ3eoGYCQjpjkhEtVye0uvVe8VsQs@dhcp83-29.boston.redhat.com
+	[172.16.83.29])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0OFM9pS013393; 
+	Tue, 24 Jan 2006 10:22:09 -0500
+Message-ID: <43D6461F.4070004@redhat.com>
+Date: Tue, 24 Jan 2006 10:22:07 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-bugsquad@gnome.org, gnome-love@gnome.org, gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.543 tagged_above=-999 required=2 tests=[AWL=0.058, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.543
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Bug Day with Gnome Women this Saturday
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 24 Jan 2006 15:22:17 -0000
+
+Hi,
+
+The Gnome Women group [1] is hosting a bug day [2] this Saturday with the Gnome 
+Bugsquad - all are welcome to join.
+
+     Date: Saturday, January 28th
+     Time: 9 AM - 9 PM EST
+  Location: #bugs on irc.gnome.org
+Bug Topic: TBD [3]
+
+   Bugday Masters: Christian Kirbach (nazgul), Luis Villa (luis)
+         Deputies: Olav Vitters (bkor), Guilherme Pastore (fatalerror)
+Gnome Women Hosts: Máirín Duffy (mizmo), Christine Spang (christine)
+
+[1] http://live.gnome.org/GnomeWomen
+[2] http://live.gnome.org/Bugsquad/BugDays
+[3] If anyone has suggestions let me know. :)
+
+~m
+
+From duffy@redhat.com  Mon Jan  9 17:14:16 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 8D0023B16AC
+	for <gnome-women-list@gnome.org>; Mon,  9 Jan 2006 17:14:16 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 31454-05 for <gnome-women-list@gnome.org>;
+	Mon,  9 Jan 2006 17:14:14 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 259C23B16E6
+	for <gnome-women-list@gnome.org>; Mon,  9 Jan 2006 17:13:41 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k09MDeB3008081
+	for <gnome-women-list@gnome.org>; Mon, 9 Jan 2006 17:13:40 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k09MDe100776
+	for <gnome-women-list@gnome.org>; Mon, 9 Jan 2006 17:13:40 -0500
+Received: from [172.16.83.35]
+	(IDENT:U2FsdGVkX18jGfqbUf7FM3PiG8vz8MnIexf2grvvrFk@dhcp83-35.boston.redhat.com
+	[172.16.83.35])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k09MDeEg013977
+	for <gnome-women-list@gnome.org>; Mon, 9 Jan 2006 17:13:40 -0500
+Message-ID: <43C2E015.1030100@redhat.com>
+Date: Mon, 09 Jan 2006 17:13:41 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.276 tagged_above=-999 required=2 tests=[AWL=0.325, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.276
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Help Host A Bug Day?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 09 Jan 2006 22:14:16 -0000
+
+As per Mary's suggestion on the women@opensource.org list, I think we should host a bug day (or something - open to suggestions.) :)
+
+Does not this Sat, but the next (21-Jan) sound good? Would anybody be interested in participating at that time? Would anybody else be free then to help me host in #gnome-women?
+
+Thanks,
+~m
+
+From mary@home.puzzling.org  Mon Jan  9 17:41:03 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7447B3B11A4
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 17:41:03 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 01051-03 for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 17:41:00 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id A2B8C3B166F
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 17:40:58 -0500 (EST)
+Received: (qmail 30492 invoked from network); 9 Jan 2006 22:40:59 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 9 Jan 2006 22:40:59 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 5E05B7880DC
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 09:47:17 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 18209-10 for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 09:47:17 +1100 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id 408BB7880D7; Tue, 10 Jan 2006 09:47:17 +1100 (EST)
+Date: Tue, 10 Jan 2006 09:47:17 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060109224717.GC9763@home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <43C2E015.1030100@redhat.com>
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 09 Jan 2006 22:41:03 -0000
+
+On Mon, Jan 09, 2006, Máirín Duffy wrote:
+> As per Mary's suggestion on the women@opensource.org list, I think we 
+> should host a bug day (or something - open to suggestions.) :)
+> 
+> Does not this Sat, but the next (21-Jan) sound good? Would anybody be 
+> interested in participating at that time? Would anybody else be free then 
+> to help me host in #gnome-women?
+
+That Saturday is OK for me. Unfortunately I'm hosting a documentation
+sprint for the Twisted people (a Python project) on the 14th and don't
+want to spend 2 Saturdays in a row on the computer, but I'll commit to
+being there for at least part of the day.
+
+Alternatives to a bug day would include a docs day, a translation day
+(I'm monolingual, so the chances of me personally doing that are small
+;) ), or some kind of tutorial day, on, say, setting up a local copy of
+the latest GNOME builds or something. All possibilities would need
+knowledgable volunteers.
+
+-Mary
+
+From spangarang@twcny.rr.com  Mon Jan  9 18:02:42 2006
+Return-Path: <spangarang@twcny.rr.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 326603B1539
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 18:02:42 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 02896-01 for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 18:02:39 -0500 (EST)
+Received: from ms-smtp-04.nyroc.rr.com (ms-smtp-04.nyroc.rr.com [24.24.2.58])
+	by menubar.gnome.org (Postfix) with ESMTP id 4D1CE3B16F7
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  9 Jan 2006 18:02:02 -0500 (EST)
+Received: from localhost.localdomain (cpe-69-207-105-212.twcny.res.rr.com
+	[69.207.105.212])
+	by ms-smtp-04.nyroc.rr.com (8.12.10/8.12.10) with ESMTP id
+	k09N1uRD017900 for <gnome-women-list@mail.gnome.org>;
+	Mon, 9 Jan 2006 18:01:57 -0500 (EST)
+Received: from christine by localhost.localdomain with local (Exim 4.60)
+	(envelope-from <spangarang@twcny.rr.com>) id 1Ew61G-0001Ko-4K
+	for gnome-women-list@mail.gnome.org; Mon, 09 Jan 2006 18:01:42 -0500
+Date: Mon, 9 Jan 2006 18:01:41 -0500
+From: Christine Spang <spangarang@twcny.rr.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060109230141.GA31083@freyja.no-ip.com>
+References: <43C2E015.1030100@redhat.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="gBBFr7Ir9EOA20Yy"
+Content-Disposition: inline
+In-Reply-To: <43C2E015.1030100@redhat.com>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.018 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, DNS_FROM_RFC_WHOIS=1.447, FORGED_RCVD_HELO=0.135,
+	SPF_PASS=-0.001]
+X-Spam-Score: -1.018
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 09 Jan 2006 23:02:42 -0000
+
+
+--gBBFr7Ir9EOA20Yy
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+* M=E1ir=EDn Duffy <duffy@redhat.com> [2006:01:09 17:13 -0500]:=20
+> As per Mary's suggestion on the women@opensource.org list, I think we=20
+> should host a bug day (or something - open to suggestions.) :)
+>=20
+> Does not this Sat, but the next (21-Jan) sound good? Would anybody be=20
+> interested in participating at that time? Would anybody else be free=20
+> then to help me host in #gnome-women?
+>=20
+
+I *think* that that's a free day for me (this Saturday isn't, but next shou=
+ld
+be). I'd definitely be up for helping out (even if something different is p=
+icked)
+and things, though I would need to double-check my schedule.
+
+
+Cheers,
+--=20
+A. Christine Spang
+http://frisia.middle-earth.us/
+
+--gBBFr7Ir9EOA20Yy
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDwutVd73XuVITgboRAuheAJ4jnK+AXhHCUodNU1EDAj1+RJq0jwCfZxbt
+sDoPELvINAhSiiEGeU3c//s=
+=K8Zh
+-----END PGP SIGNATURE-----
+
+--gBBFr7Ir9EOA20Yy--
+
+From duffy@redhat.com  Tue Jan 10 12:50:26 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 86D0B3B1B36
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 12:50:26 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 32343-04 for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 12:50:24 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 1EC4F3B1C37
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 10 Jan 2006 12:49:17 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0AHnCNR018760
+	for <gnome-women-list@mail.gnome.org>; Tue, 10 Jan 2006 12:49:12 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0AHnC101430
+	for <gnome-women-list@mail.gnome.org>; Tue, 10 Jan 2006 12:49:12 -0500
+Received: from [172.16.83.29]
+	(IDENT:U2FsdGVkX18W9AmqWe0NbJXjrZUvWuFmCbNrVfu2u6o@dhcp83-29.boston.redhat.com
+	[172.16.83.29])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0AHnCEg004319
+	for <gnome-women-list@mail.gnome.org>; Tue, 10 Jan 2006 12:49:12 -0500
+Message-ID: <43C3F398.3010602@redhat.com>
+Date: Tue, 10 Jan 2006 12:49:12 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+In-Reply-To: <20060109224717.GC9763@home.puzzling.org>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.456 tagged_above=-999 required=2 tests=[AWL=0.145, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.456
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 10 Jan 2006 17:50:26 -0000
+
+Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or Christine, let's do it.
+
+~m
+
+From mary@home.puzzling.org  Thu Jan 12 21:20:15 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D8D813B2E0A
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 21:20:15 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 23036-01 for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 21:20:11 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id CE8363B3007
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 21:20:08 -0500 (EST)
+Received: (qmail 2877 invoked from network); 13 Jan 2006 02:20:14 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 13 Jan 2006 02:20:14 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 113B4788052
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 13:20:17 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 15000-04 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 13:20:16 +1100 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id E041678804E; Fri, 13 Jan 2006 13:20:16 +1100 (EST)
+Date: Fri, 13 Jan 2006 13:20:16 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060113022016.GB14881@home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <43C3F398.3010602@redhat.com>
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2 tests=[AWL=0.000, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Jan 2006 02:20:16 -0000
+
+On Tue, Jan 10, 2006, Máirín Duffy wrote:
+> Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or 
+> Christine, let's do it.
+
+The 28th is OK for me. So, what's going to happen? Is there going to be
+anyone(s) with GNOME development/documentation/translation experience on
+hand to help us find good bugs to work on?
+
+I can take care of passing on info to LinuxChix as long as we've got a
+good idea of what we're doing.
+
+-Mary, who suspects 1 day might be enough to get about 1/3 of the
+development environment set up.
+
+From duffy@redhat.com  Thu Jan 12 23:05:57 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B89A73B3038
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:57 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 28661-02 for <gnome-women-list@gnome.org>;
+	Thu, 12 Jan 2006 23:05:55 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 0FD873B0B09
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:55 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0D45sXm022521
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:54 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0D45s113516
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:54 -0500
+Received: from [172.16.26.16]
+	(IDENT:U2FsdGVkX19mIXdX5o8b93SSJr9g337e9g94JTXN3LU@vpn26-16.sfbay.redhat.com
+	[172.16.26.16])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0D45kEg021530
+	for <gnome-women-list@gnome.org>; Thu, 12 Jan 2006 23:05:51 -0500
+Message-ID: <43C72718.305@redhat.com>
+Date: Thu, 12 Jan 2006 23:05:44 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>	<20060109224717.GC9763@home.puzzling.org>	<43C3F398.3010602@redhat.com>
+	<20060113022016.GB14881@home.puzzling.org>
+In-Reply-To: <20060113022016.GB14881@home.puzzling.org>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.501 tagged_above=-999 required=2 tests=[AWL=0.100, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.501
+X-Spam-Level: 
+Cc: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Jan 2006 04:05:57 -0000
+
+Mary Gardiner wrote:
+> The 28th is OK for me. So, what's going to happen? Is there going to be
+> anyone(s) with GNOME development/documentation/translation experience on
+> hand to help us find good bugs to work on?
+
+I have some experience; I will ask around and see if any of the GNOME people I 
+know are interested, and I will talk to the GNOME bugsquad and see if they would 
+be interested in taking part as well.
+
+> I can take care of passing on info to LinuxChix as long as we've got a
+> good idea of what we're doing.
+
+Ok cool.
+
+> -Mary, who suspects 1 day might be enough to get about 1/3 of the
+> development environment set up.
+
+Well... I wouldn't think we'd need to have people setting up dev environments 
+(especially if they're new to GNOME, that could be a bit of a frustrating start 
+;-) ), I was thinking more bug triage work, e.g. like a traditional GNOME bug 
+day (http://live.gnome.org/Bugsquad/BugDays).
+
+~m
+
+From mary@home.puzzling.org  Thu Jan 12 23:10:16 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EAC8D3B0B09
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 23:10:15 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 28892-02 for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 23:10:13 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id CFDB83B0E73
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 12 Jan 2006 23:10:12 -0500 (EST)
+Received: (qmail 10899 invoked from network); 13 Jan 2006 04:10:20 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 13 Jan 2006 04:10:20 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id E3B05788052
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 15:10:21 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 15634-03 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 15:10:21 +1100 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id BBF5378804E; Fri, 13 Jan 2006 15:10:21 +1100 (EST)
+Date: Fri, 13 Jan 2006 15:10:21 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060113041021.GE14881@home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+	<20060113022016.GB14881@home.puzzling.org>
+	<43C72718.305@redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <43C72718.305@redhat.com>
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2 tests=[AWL=0.000, 
+	BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Jan 2006 04:10:16 -0000
+
+On Thu, Jan 12, 2006, Máirín Duffy wrote:
+> Well... I wouldn't think we'd need to have people setting up dev 
+> environments (especially if they're new to GNOME, that could be a bit of a 
+> frustrating start ;-) ), I was thinking more bug triage work, e.g. like a 
+> traditional GNOME bug day (http://live.gnome.org/Bugsquad/BugDays).
+
+Ah. Well, that should still be interesting as an occasional thing I
+guess, but I'm personally more interested in an introduction to
+development itself sometime in the future.
+
+-Mary
+
+From mary@home.puzzling.org  Fri Jan 13 19:33:19 2006
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9EB1C3B0D62
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 19:33:19 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 03263-10 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 19:33:17 -0500 (EST)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 468F23B0F79
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 19:30:35 -0500 (EST)
+Received: (qmail 9093 invoked from network); 14 Jan 2006 00:30:39 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 14 Jan 2006 00:30:39 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 1F642788054
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 14 Jan 2006 11:30:55 +1100 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 21849-07 for <gnome-women-list@mail.gnome.org>;
+	Sat, 14 Jan 2006 11:30:55 +1100 (EST)
+Received: from sourdust.home.puzzling.org (sourdust.home.puzzling.org
+	[10.0.0.7]) by home.puzzling.org (Postfix) with ESMTP id F15AB78804F
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 14 Jan 2006 11:30:54 +1100 (EST)
+Received: by sourdust.home.puzzling.org (Postfix, from userid 1000)
+	id 6DC3E194D11; Sat, 14 Jan 2006 11:30:33 +1100 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Sat, 14 Jan 2006 11:30:33 +1100
+Resent-Message-ID: <20060114003033.GK6454@sourdust.home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Sat, 14 Jan 2006 10:39:16 +1100
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060113233916.GI6454@sourdust.home.puzzling.org>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+	<20060113022016.GB14881@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <20060113022016.GB14881@home.puzzling.org>
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.9i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 14 Jan 2006 00:33:19 -0000
+
+On Fri, Jan 13, 2006, Mary Gardiner wrote:
+> On Tue, Jan 10, 2006, Máirín Duffy wrote:
+> > Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or 
+> > Christine, let's do it.
+> 
+> The 28th is OK for me.
+
+Argh, sorry, I'm wrong, and I should have thought about that a little
+harder. I'm away all weekend (actually from the 26th to the 29th). On
+the 28th I'm going to be diving and almost certainly not near a computer
+at all.
+
+Most other weekends are good :)
+
+-Mary
+
+From spangarang@twcny.rr.com  Fri Jan 13 22:29:51 2006
+Return-Path: <spangarang@twcny.rr.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A78BC3B1040
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:51 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15836-08 for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:49 -0500 (EST)
+Received: from ms-smtp-01.nyroc.rr.com (ms-smtp-01.nyroc.rr.com [24.24.2.55])
+	by menubar.gnome.org (Postfix) with ESMTP id E24233B0996
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:48 -0500 (EST)
+Received: from localhost.localdomain (cpe-69-207-105-212.twcny.res.rr.com
+	[69.207.105.212])
+	by ms-smtp-01.nyroc.rr.com (8.13.4/8.13.4) with ESMTP id k0E3Thk4028085
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Jan 2006 22:29:43 -0500 (EST)
+Received: from christine by localhost.localdomain with local (Exim 4.60)
+	(envelope-from <spangarang@twcny.rr.com>) id 1Exc6s-0006zn-HR
+	for gnome-women-list@mail.gnome.org; Fri, 13 Jan 2006 22:29:46 -0500
+Date: Fri, 13 Jan 2006 22:29:46 -0500
+From: Christine Spang <spangarang@twcny.rr.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060114032945.GA22434@freyja.no-ip.com>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="RnlQjJ0d97Da+TV1"
+Content-Disposition: inline
+In-Reply-To: <43C3F398.3010602@redhat.com>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.596 tagged_above=-999 required=2
+	tests=[AWL=-0.578, BAYES_00=-2.599, DNS_FROM_RFC_WHOIS=1.447,
+	FORGED_RCVD_HELO=0.135, SPF_PASS=-0.001]
+X-Spam-Score: -1.596
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 14 Jan 2006 03:29:51 -0000
+
+
+--RnlQjJ0d97Da+TV1
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+* M=E1ir=EDn Duffy <duffy@redhat.com> [2006:01:10 12:49 -0500]:=20
+> Ok, how about Saturday, 28 Jan then? If this is good with Mary and/or=20
+> Christine, let's do it.
+>=20
+> ~m
+
+I think I'm available this day too if needed.
+
+--=20
+A. Christine Spang
+http://frisia.middle-earth.us/
+
+--RnlQjJ0d97Da+TV1
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDyHApd73XuVITgboRAvREAJ9m5yXdd4U6XNVamjvrC29/DJ06TwCdFUB9
+FbM0nxOw+eT4wmtdtu8UpMg=
+=UhFZ
+-----END PGP SIGNATURE-----
+
+--RnlQjJ0d97Da+TV1--
+
+From duffy@redhat.com  Mon Jan 16 11:21:08 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0A3163B1EA1
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:21:08 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 31464-05 for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:21:04 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 7D8703B1EEE
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:16:17 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0GGGHle020999
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:16:17 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0GGGH102922
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:16:17 -0500
+Received: from [172.16.83.35]
+	(IDENT:U2FsdGVkX1812w2sLDbQz1yc9D/EQq9SQeiNslu+WfE@dhcp83-35.boston.redhat.com
+	[172.16.83.35])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0GGGGxW021750
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:16:16 -0500
+Message-ID: <43CBC6D0.4010903@redhat.com>
+Date: Mon, 16 Jan 2006 11:16:16 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>	<20060109224717.GC9763@home.puzzling.org>	<43C3F398.3010602@redhat.com>
+	<20060114032945.GA22434@freyja.no-ip.com>
+In-Reply-To: <20060114032945.GA22434@freyja.no-ip.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.532 tagged_above=-999 required=2 tests=[AWL=0.069, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.532
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 16 Jan 2006 16:21:08 -0000
+
+OK, so here's the current status on this -
+
+I talked to Christian, Olav, Guilherme, and Luis on the GNOME Bugsquad team and 
+they are all available and willing to participate on Sat. Jan 28th. Mary isn't 
+available, but Christine is.
+
+Mary, Christine, what do you think, should we go ahead? If so, Mary, would you 
+mind sending out a note to LinuxChix?
+
+~m
+
+From duffy@redhat.com  Mon Jan 16 11:29:58 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2E79E3B1F46
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:29:58 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 32361-02 for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:29:55 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 81FE83B1EA0
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 11:27:21 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0GGRLld025127
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:27:21 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k0GGRF108598
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:27:15 -0500
+Received: from [172.16.83.35]
+	(IDENT:U2FsdGVkX1/mEV7Cny5ixc/YsSu/1l9l/YyS10K2V2s@dhcp83-35.boston.redhat.com
+	[172.16.83.35])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0GGRFxW022787
+	for <gnome-women-list@mail.gnome.org>; Mon, 16 Jan 2006 11:27:15 -0500
+Message-ID: <43CBC963.4050306@redhat.com>
+Date: Mon, 16 Jan 2006 11:27:15 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+References: <43C2E015.1030100@redhat.com>	<20060109224717.GC9763@home.puzzling.org>	<43C3F398.3010602@redhat.com>	<20060113022016.GB14881@home.puzzling.org>	<43C72718.305@redhat.com>
+	<20060113041021.GE14881@home.puzzling.org>
+In-Reply-To: <20060113041021.GE14881@home.puzzling.org>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.469 tagged_above=-999 required=2
+	tests=[AWL=-0.022, BAYES_00=-2.599, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, TW_GD=0.077, TW_GT=0.077]
+X-Spam-Score: -2.469
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 16 Jan 2006 16:29:58 -0000
+
+Mary Gardiner wrote:
+> On Thu, Jan 12, 2006, Máirín Duffy wrote:
+> 
+>>Well... I wouldn't think we'd need to have people setting up dev 
+>>environments (especially if they're new to GNOME, that could be a bit of a 
+>>frustrating start ;-) ), I was thinking more bug triage work, e.g. like a 
+>>traditional GNOME bug day (http://live.gnome.org/Bugsquad/BugDays).
+
+> Ah. Well, that should still be interesting as an occasional thing I
+> guess, but I'm personally more interested in an introduction to
+> development itself sometime in the future.
+
+Let's make this the next event we plan then - maybe an introduction to Gnome 
+development, i.e. how to set up CVS, jhbuild, etc. ? Probably would be good to 
+focus on one application and pick out a few bugs to chew on ahead of time.
+
+One idea I also had for a future event, which maybe is kind of silly but is the 
+kind of thing I love to do - We could do a Gnome Women "theme", e.g., make a 
+wallpaper and mocks for a gdm splash, gdm theme, metacity theme, maybe a gtk 
+pixmap theme, etc., and have those prepared ahead of time, and then sit down and 
+go through the process of writing a gdm theme, gathering icons & wallpaper and 
+packaging them together into a gnome theme, etc. (ok these might be a session 
+each ;-) ), and then at the end we'd have a cool Gnome-Women desktop theme for 
+Gnome that we could submit to art.gnome.org. Just an idea. :)
+
+~m
+
+From spangarang@twcny.rr.com  Mon Jan 16 15:01:53 2006
+Return-Path: <spangarang@twcny.rr.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D0A5A3B2133
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:01:53 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 21488-06 for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:01:50 -0500 (EST)
+Received: from ms-smtp-02.nyroc.rr.com (ms-smtp-02.nyroc.rr.com [24.24.2.56])
+	by menubar.gnome.org (Postfix) with ESMTP id 8A5013B1CFC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:00:44 -0500 (EST)
+Received: from localhost.localdomain (cpe-69-207-105-212.twcny.res.rr.com
+	[69.207.105.212])
+	by ms-smtp-02.nyroc.rr.com (8.13.4/8.13.4) with ESMTP id k0GK0grJ027137
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 16 Jan 2006 15:00:43 -0500 (EST)
+Received: from christine by localhost.localdomain with local (Exim 4.60)
+	(envelope-from <spangarang@twcny.rr.com>) id 1EyaX1-00033l-UD
+	for gnome-women-list@mail.gnome.org; Mon, 16 Jan 2006 15:00:48 -0500
+Date: Mon, 16 Jan 2006 15:00:47 -0500
+From: Christine Spang <spangarang@twcny.rr.com>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Help Host A Bug Day?
+Message-ID: <20060116200047.GA5543@freyja.no-ip.com>
+References: <43C2E015.1030100@redhat.com>
+	<20060109224717.GC9763@home.puzzling.org>
+	<43C3F398.3010602@redhat.com>
+	<20060114032945.GA22434@freyja.no-ip.com>
+	<43CBC6D0.4010903@redhat.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="liOOAslEiF7prFVr"
+Content-Disposition: inline
+In-Reply-To: <43CBC6D0.4010903@redhat.com>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.11
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-1.596 tagged_above=-999 required=2
+	tests=[AWL=-0.578, BAYES_00=-2.599, DNS_FROM_RFC_WHOIS=1.447,
+	FORGED_RCVD_HELO=0.135, SPF_PASS=-0.001]
+X-Spam-Score: -1.596
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 16 Jan 2006 20:01:54 -0000
+
+
+--liOOAslEiF7prFVr
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+* M=E1ir=EDn Duffy <duffy@redhat.com> [2006:01:16 11:16 -0500]:=20
+> Mary, Christine, what do you think, should we go ahead? If so, Mary,=20
+> would you mind sending out a note to LinuxChix?
+>=20
+
+Sounds good to me.
+
+--=20
+A. Christine Spang
+http://frisia.middle-earth.us/
+
+--liOOAslEiF7prFVr
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+Content-Disposition: inline
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.2 (GNU/Linux)
+
+iD8DBQFDy/tvd73XuVITgboRAl3OAJ4hlDWtmu8rOCdbasZ6dUOFOUQFCwCfSifK
+Hm7Fl8eTf3VigaxUICmwBC0=
+=xeNK
+-----END PGP SIGNATURE-----
+
+--liOOAslEiF7prFVr--
+
+From duffy@redhat.com  Tue Jan 24 10:22:17 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP
+	id 6C19D3B0FFB; Tue, 24 Jan 2006 10:22:17 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 14589-07; Tue, 24 Jan 2006 10:22:14 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP
+	id 48B653B1015; Tue, 24 Jan 2006 10:22:10 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k0OFM9jW006560;
+	Tue, 24 Jan 2006 10:22:09 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id
+	k0OFM9112239; Tue, 24 Jan 2006 10:22:09 -0500
+Received: from [172.16.83.29]
+	(IDENT:U2FsdGVkX18VGoOJ3eoGYCQjpjkhEtVye0uvVe8VsQs@dhcp83-29.boston.redhat.com
+	[172.16.83.29])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k0OFM9pS013393; 
+	Tue, 24 Jan 2006 10:22:09 -0500
+Message-ID: <43D6461F.4070004@redhat.com>
+Date: Tue, 24 Jan 2006 10:22:07 -0500
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-bugsquad@gnome.org, gnome-love@gnome.org, gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.543 tagged_above=-999 required=2 tests=[AWL=0.058, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.543
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Bug Day with Gnome Women this Saturday
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 24 Jan 2006 15:22:17 -0000
+
+Hi,
+
+The Gnome Women group [1] is hosting a bug day [2] this Saturday with the Gnome 
+Bugsquad - all are welcome to join.
+
+     Date: Saturday, January 28th
+     Time: 9 AM - 9 PM EST
+  Location: #bugs on irc.gnome.org
+Bug Topic: TBD [3]
+
+   Bugday Masters: Christian Kirbach (nazgul), Luis Villa (luis)
+         Deputies: Olav Vitters (bkor), Guilherme Pastore (fatalerror)
+Gnome Women Hosts: Máirín Duffy (mizmo), Christine Spang (christine)
+
+[1] http://live.gnome.org/GnomeWomen
+[2] http://live.gnome.org/Bugsquad/BugDays
+[3] If anyone has suggestions let me know. :)
+
+~m
+

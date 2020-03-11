@@ -1,0 +1,766 @@
+From marinaz@redhat.com  Thu Sep 16 05:01:40 2010
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 4D2407500F9
+	for <gnome-women-list@gnome.org>; Thu, 16 Sep 2010 05:01:40 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -4.211
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.211 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id kiF-5dWasHaJ for <gnome-women-list@gnome.org>;
+	Thu, 16 Sep 2010 05:01:38 +0000 (UTC)
+Received: from mx02.colomx.prod.int.phx2.redhat.com (mx4-phx2.redhat.com
+	[209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 3DCDB75010A
+	for <gnome-women-list@gnome.org>; Thu, 16 Sep 2010 05:01:29 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx02.colomx.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP id
+	o8G51S7n020675
+	for <gnome-women-list@gnome.org>; Thu, 16 Sep 2010 01:01:28 -0400
+Date: Thu, 16 Sep 2010 01:01:28 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <22954183.797111284613288494.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <1074881628.797031284613208244.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.41]
+X-Mailer: Zimbra 5.0.21_GA_3150.RHEL4_64 (ZimbraWebClient - FF3.0
+	(Linux)/5.0.21_GA_3150.RHEL4_64)
+Subject: [gnome-women] Outreach Program for Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 16 Sep 2010 05:01:40 -0000
+
+Hi all!
+
+We have opened the application process for the first round of internships f=
+or women sponsored by the GNOME Foundation. The dates for these internships=
+ are December 15, 2010 to March 15, 2011. These internship dates are aimed =
+at the college women in the Southern Hemisphere who will have a school summ=
+er break during this time. However, any woman who has relevant experience a=
+nd is available for a full-time internship is welcome to apply.
+
+The application deadline is October 25, 2010. As part of the application pr=
+ocess, we are asking women to take the time to learn about the participatin=
+g projects and make a contribution to the one they are interested in. These=
+ projects include ones in programming, graphic design, documentation, and m=
+arketing.
+
+All the program details are here:
+http://live.gnome.org/GnomeWomen/OutreachProgram2010
+
+We also have an awesome flyer for the program that was designed by M=C3=A1i=
+r=C3=ADn Duffy:
+http://live.gnome.org/GnomeWomen/OutreachProgram2010?action=3DAttachFile&do=
+=3Dview&target=3Dgnome-women-outreach-poster.png
+
+Please consider applying for the internship, signing up as a mentor, or hel=
+ping us spread the word! It would be particularly great if those of you who=
+ are in the Southern Hemisphere can send the information about the program =
+to the universities and organizations, post the flyer on the university cam=
+puses or hand it out at conferences, and encourage anyone who'd be a good c=
+andidate to apply!
+
+All the materials for helping us spread the word are here:
+http://live.gnome.org/GnomeWomen/OutreachProgram2010/SpreadTheWord
+
+Thank you!
+Marina
+From emilychen522@gmail.com  Mon Sep 20 10:53:18 2010
+Return-Path: <emilychen522@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 790DA750ABA;
+	Mon, 20 Sep 2010 10:53:18 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.446
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.446 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=1.553,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wFznCI9F4aNf; Mon, 20 Sep 2010 10:53:15 +0000 (UTC)
+Received: from mail-qy0-f182.google.com (mail-qy0-f182.google.com
+	[209.85.216.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 5BADA750A90;
+	Mon, 20 Sep 2010 10:53:05 +0000 (UTC)
+Received: by qyk4 with SMTP id 4so4636572qyk.6
+	for <multiple recipients>; Mon, 20 Sep 2010 03:53:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:received:in-reply-to
+	:references:date:message-id:subject:from:to:cc:content-type;
+	bh=P3FfKJ5ygjH7WOA20qLYldKExhu8yRL5sFgVaxxm4Qw=;
+	b=LXxNRlz11UnWDHOA0mv3mhtnytnYDkW10ws+k57CLLotnagTV+dInAWQ5InzLKyGUe
+	i+xwFNdAoQ53YE+HwjWXWjDuo5cA4LarmRvmu1FA/WZGbWu3nnlOJeFTdVfCWUwEIhaF
+	Yx2da/CSOkyDHv5uv8rq7ExVXrIoV5s/vL7k0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	b=CpQ4COMalS8MZL71b3SjuW4S2DN7g5/3onY1B1HTTNLEiCpsoTP5Ek2M9ilqxNtR1T
+	ZXijYZPZ9/suW4ebLHFN/jG4BeX32zMVkpsrgdPyUj99PljsGgFGR/m+vXE7LKVLl0iM
+	A0Kte0MlgEMm3M+kYaUuz8NyXnGeH/XSjxk40=
+MIME-Version: 1.0
+Received: by 10.229.95.73 with SMTP id c9mr6028450qcn.111.1284979983284; Mon,
+	20 Sep 2010 03:53:03 -0700 (PDT)
+Received: by 10.229.67.156 with HTTP; Mon, 20 Sep 2010 03:53:03 -0700 (PDT)
+In-Reply-To: <22954183.797111284613288494.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <1074881628.797031284613208244.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<22954183.797111284613288494.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Mon, 20 Sep 2010 18:53:03 +0800
+Message-ID: <AANLkTinfzS+QR7FC-y_SCqomcFPHwGY-SRpfgT=FCO6C@mail.gmail.com>
+From: Emily Chen <emilychen522@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=0016364270d47278df0490aeb761
+Cc: women-outreach@gnome.org, gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] Outreach Program for Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 20 Sep 2010 10:53:20 -0000
+
+--0016364270d47278df0490aeb761
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Marina,
+
+I spread this message on SFD this Saturday. Female students in Beijing are
+very exited about this program. There are some questions from them and me;
+1. It seems the program is for Southern Hemisphere, can students from other
+places apply for this program? Is it a world wide program ?
+2. How many interns we plan to accept this year ?
+3. For a students, what's the next step after sending her application form?
+If there are 10 applications form for one project, is there further
+interview process to select the candidates ?
+
+I also talked with Chinese company, what if one company want to
+participated/sponsor in this program? What's the process like?
+1. Do the company propose one project ?
+2. Do they offer mentors to the project ?
+3. What's the sponsorship fee like for this program?
+
+
+Thanks.
+Emily
+
+2010/9/16 Marina Zhurakhinskaya <marinaz@redhat.com>
+
+> Hi all!
+>
+> We have opened the application process for the first round of internships
+> for women sponsored by the GNOME Foundation. The dates for these internsh=
+ips
+> are December 15, 2010 to March 15, 2011. These internship dates are aimed=
+ at
+> the college women in the Southern Hemisphere who will have a school summe=
+r
+> break during this time. However, any woman who has relevant experience an=
+d
+> is available for a full-time internship is welcome to apply.
+>
+> The application deadline is October 25, 2010. As part of the application
+> process, we are asking women to take the time to learn about the
+> participating projects and make a contribution to the one they are
+> interested in. These projects include ones in programming, graphic design=
+,
+> documentation, and marketing.
+>
+> All the program details are here:
+> http://live.gnome.org/GnomeWomen/OutreachProgram2010
+>
+> We also have an awesome flyer for the program that was designed by M=E1ir=
+=EDn
+> Duffy:
+>
+> http://live.gnome.org/GnomeWomen/OutreachProgram2010?action=3DAttachFile&=
+do=3Dview&target=3Dgnome-women-outreach-poster.png
+>
+> Please consider applying for the internship, signing up as a mentor, or
+> helping us spread the word! It would be particularly great if those of yo=
+u
+> who are in the Southern Hemisphere can send the information about the
+> program to the universities and organizations, post the flyer on the
+> university campuses or hand it out at conferences, and encourage anyone
+> who'd be a good candidate to apply!
+>
+> All the materials for helping us spread the word are here:
+> http://live.gnome.org/GnomeWomen/OutreachProgram2010/SpreadTheWord
+>
+> Thank you!
+> Marina
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+--0016364270d47278df0490aeb761
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Marina, <br><br>I spread this message on SFD this Saturday. Female stude=
+nts in Beijing are very exited about this program. There are some questions=
+ from them and me; <br>1. It seems the program is for Southern Hemisphere, =
+can students from other places apply for this program? Is it a world wide p=
+rogram ? <br>
+2. How many interns we plan to accept this year ? <br>3. For a students, wh=
+at&#39;s the next step after sending her application form? If there are 10 =
+applications form for one project, is there further interview process to se=
+lect the candidates ? <br>
+<br>I also talked with Chinese company, what if one company want to partici=
+pated/sponsor in this program? What&#39;s the process like? <br>1. Do the c=
+ompany propose one project ? <br>2. Do they offer mentors to the project ? =
+<br>
+3. What&#39;s the sponsorship fee like for this program? <br><br><br>Thanks=
+. <br>Emily <br><br><div class=3D"gmail_quote">2010/9/16 Marina Zhurakhinsk=
+aya <span dir=3D"ltr">&lt;<a href=3D"mailto:marinaz@redhat.com">marinaz@red=
+hat.com</a>&gt;</span><br>
+<blockquote class=3D"gmail_quote" style=3D"margin: 0pt 0pt 0pt 0.8ex; borde=
+r-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;">Hi all!<br>
+<br>
+We have opened the application process for the first round of internships f=
+or women sponsored by the GNOME Foundation. The dates for these internships=
+ are December 15, 2010 to March 15, 2011. These internship dates are aimed =
+at the college women in the Southern Hemisphere who will have a school summ=
+er break during this time. However, any woman who has relevant experience a=
+nd is available for a full-time internship is welcome to apply.<br>
+
+<br>
+The application deadline is October 25, 2010. As part of the application pr=
+ocess, we are asking women to take the time to learn about the participatin=
+g projects and make a contribution to the one they are interested in. These=
+ projects include ones in programming, graphic design, documentation, and m=
+arketing.<br>
+
+<br>
+All the program details are here:<br>
+<a href=3D"http://live.gnome.org/GnomeWomen/OutreachProgram2010" target=3D"=
+_blank">http://live.gnome.org/GnomeWomen/OutreachProgram2010</a><br>
+<br>
+We also have an awesome flyer for the program that was designed by M=E1ir=
+=EDn Duffy:<br>
+<a href=3D"http://live.gnome.org/GnomeWomen/OutreachProgram2010?action=3DAt=
+tachFile&amp;do=3Dview&amp;target=3Dgnome-women-outreach-poster.png" target=
+=3D"_blank">http://live.gnome.org/GnomeWomen/OutreachProgram2010?action=3DA=
+ttachFile&amp;do=3Dview&amp;target=3Dgnome-women-outreach-poster.png</a><br=
+>
+
+<br>
+Please consider applying for the internship, signing up as a mentor, or hel=
+ping us spread the word! It would be particularly great if those of you who=
+ are in the Southern Hemisphere can send the information about the program =
+to the universities and organizations, post the flyer on the university cam=
+puses or hand it out at conferences, and encourage anyone who&#39;d be a go=
+od candidate to apply!<br>
+
+<br>
+All the materials for helping us spread the word are here:<br>
+<a href=3D"http://live.gnome.org/GnomeWomen/OutreachProgram2010/SpreadTheWo=
+rd" target=3D"_blank">http://live.gnome.org/GnomeWomen/OutreachProgram2010/=
+SpreadTheWord</a><br>
+<br>
+Thank you!<br>
+Marina<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a></bl=
+ockquote></div><br>
+
+--0016364270d47278df0490aeb761--
+From svaksha@gmail.com  Mon Sep 20 12:55:13 2010
+Return-Path: <svaksha@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CE9EF750B53;
+	Mon, 20 Sep 2010 12:55:13 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.9
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id gL-XTSsf1zqo; Mon, 20 Sep 2010 12:55:08 +0000 (UTC)
+Received: from mail-yx0-f182.google.com (mail-yx0-f182.google.com
+	[209.85.213.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 726CE750B3E;
+	Mon, 20 Sep 2010 12:55:00 +0000 (UTC)
+Received: by yxn35 with SMTP id 35so1879839yxn.27
+	for <multiple recipients>; Mon, 20 Sep 2010 05:54:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:sender:received
+	:in-reply-to:references:date:x-google-sender-auth:message-id:subject
+	:from:to:cc:content-type;
+	bh=e1Usjo9IrdK5U88eo/D4BfDLqKZfJrcXaOBqOjiXAw4=;
+	b=GavC7f17HG7UIzqFliGrcKlaj+qkaA8VE/bzP6++VypR3wxsqWOVqWwnHVLx6sCHKN
+	GyXfj2UX3kRgA8Oxoz7bYPLfY9qjugykTKIqAsjUM9VIzMGQhNr8B9ChMdKSielHDshH
+	/9jSL1rC0o9VJs2YWTTnnbTHbKosiLv9bAqOw=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:in-reply-to:references:date
+	:x-google-sender-auth:message-id:subject:from:to:cc:content-type;
+	b=KG1cGcEGzgeiiVf6xm/KsE+nRwEByE3tx7FYUL2iFp/7HEgNbZYkbYVr3YUhoBovb6
+	FoE6YiJJ9DxUDGDwgRrsowlpMJO7fL7UMmqUEa0B+fgOFpu1ZMS4hqZSBv1FzKSmMWNP
+	Xhb6yek72WXdvvfoX/Py4hbovfWeA6V5WLpoU=
+MIME-Version: 1.0
+Received: by 10.151.105.19 with SMTP id h19mr9037821ybm.169.1284987298637;
+	Mon, 20 Sep 2010 05:54:58 -0700 (PDT)
+Sender: svaksha@gmail.com
+Received: by 10.231.200.134 with HTTP; Mon, 20 Sep 2010 05:54:58 -0700 (PDT)
+In-Reply-To: <AANLkTinfzS+QR7FC-y_SCqomcFPHwGY-SRpfgT=FCO6C@mail.gmail.com>
+References: <1074881628.797031284613208244.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<22954183.797111284613288494.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<AANLkTinfzS+QR7FC-y_SCqomcFPHwGY-SRpfgT=FCO6C@mail.gmail.com>
+Date: Mon, 20 Sep 2010 18:24:58 +0530
+X-Google-Sender-Auth: Kk678n56tLYPkFg40xJMiKEE7eg
+Message-ID: <AANLkTinFm4WNJd3m_mfsd1ZZN9WJkfb=8d9NSa-Dua9=@mail.gmail.com>
+From: =?UTF-8?B?IOCkuOCljeCkteCkleCljeCktyA=?= <vid@svaksha.com>
+To: Emily Chen <emilychen522@gmail.com>
+Content-Type: text/plain; charset=UTF-8
+Cc: women-outreach@gnome.org, gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] Outreach Program for Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 20 Sep 2010 12:55:14 -0000
+
+On Mon, Sep 20, 2010 at 16:23, Emily Chen <emilychen522@gmail.com> wrote:
+> Hi Marina,
+>
+> I spread this message on SFD this Saturday. Female students in Beijing are
+> very exited about this program. There are some questions from them and me;
+> 1. It seems the program is for Southern Hemisphere, can students from other
+> places apply for this program? Is it a world wide program ?
+
+I believe most programs similar to the Gnome one (think gsoc,
+ruby-soc, etc...) are international** in scope. On first read, the
+word "Southern Hemisphere" in the flyer does sound like its target
+audience is women-folk from AU, NZ, etc....  its presumably meant to
+encourage them to apply in larger numbers as per their
+school/university schedule. I doubt if its intended to keep folks from
+other regions from applying, at least its not explicitly mentioned :)
+
+** Most projects have FAQ's for information on specific country
+restrictions, ex. Gsoc has a list of countries whose residents cant
+participate. I'm not aware of specific Gnome project rules.
+
+-- 
+Regards,
+Vid || http://svaksha.com
+From stormy.peters@gmail.com  Mon Sep 20 15:56:20 2010
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 38950750C45;
+	Mon, 20 Sep 2010 15:56:20 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.899
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.899 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id dDmrUg-Hw8g7; Mon, 20 Sep 2010 15:56:17 +0000 (UTC)
+Received: from mail-ww0-f46.google.com (mail-ww0-f46.google.com [74.125.82.46])
+	by menubar.gnome.org (Postfix) with ESMTP id EF276750C0F;
+	Mon, 20 Sep 2010 15:56:08 +0000 (UTC)
+Received: by wwb34 with SMTP id 34so73949wwb.27
+	for <multiple recipients>; Mon, 20 Sep 2010 08:56:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:received:mime-version:sender:received
+	:in-reply-to:references:from:date:x-google-sender-auth:message-id
+	:subject:to:cc:content-type;
+	bh=RW7+cc8zfmuNqpkkMsWzX4/yt5Mj3LoJhxsqpqXB8TM=;
+	b=jd5JVziuw1hb2aG6q3iv4qe8bTekafdhqCWxHlDgRP5uSEZMqpVU0KeSlCWqsiPgqD
+	ksfpzlc8U6yTxNWxbCHKgMsvtfFwbxlxuar9XTSVUBXshKWJOS8Aq0rTuxbtAD0Mb2Gz
+	JClGFSB/bY9Yv0xolfbXgI+0ZkTYRHQWJun6U=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:in-reply-to:references:from:date
+	:x-google-sender-auth:message-id:subject:to:cc:content-type;
+	b=QvyNQ43DZI9uyJ1QsMjX4nB6Xly9n3Ck4LNySiXMprBldU1wDNVjucsTyjsZghLS0T
+	QFMyXa6jzTdKiyAF7nV2O71CXih9RsbKymJin83YxhQxZeG3gvozNT2Jprj2Enh9Fx/F
+	0r1h94fekPGNVo43htEsTsD1JKox9vniG63dE=
+Received: by 10.216.187.130 with SMTP id y2mr4526033wem.60.1284998166406; Mon,
+	20 Sep 2010 08:56:06 -0700 (PDT)
+MIME-Version: 1.0
+Sender: stormy.peters@gmail.com
+Received: by 10.216.68.200 with HTTP; Mon, 20 Sep 2010 08:55:25 -0700 (PDT)
+In-Reply-To: <AANLkTinfzS+QR7FC-y_SCqomcFPHwGY-SRpfgT=FCO6C@mail.gmail.com>
+References: <1074881628.797031284613208244.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<22954183.797111284613288494.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<AANLkTinfzS+QR7FC-y_SCqomcFPHwGY-SRpfgT=FCO6C@mail.gmail.com>
+From: Stormy Peters <stormy@gnome.org>
+Date: Mon, 20 Sep 2010 09:55:25 -0600
+X-Google-Sender-Auth: CbX-Si3U3ZkwfzAhXU2RInQMZlw
+Message-ID: <AANLkTik=5zanfjAVqwYVU0qWjdSpEqHTADF3TFO_NkOk@mail.gmail.com>
+To: Emily Chen <emilychen522@gmail.com>
+Content-Type: multipart/alternative; boundary=0016367fb81b3ee7e90490b2f332
+Cc: women-outreach@gnome.org, gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] Outreach Program for Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 20 Sep 2010 15:56:20 -0000
+
+--0016367fb81b3ee7e90490b2f332
+Content-Type: text/plain; charset=ISO-8859-1
+
+>
+> I can help with some answers.
+
+>
+On Mon, Sep 20, 2010 at 4:53 AM, Emily Chen <emilychen522@gmail.com> wrote:
+
+> 1. It seems the program is for Southern Hemisphere, can students from other
+> places apply for this program? Is it a world wide program ?
+>
+
+We are targeting the southern hemisphere with this one and then we will run
+another round during the summer of of the northern hemisphere. However,
+anyone who is free during those times can apply, regardless of where they
+live.
+
+>
+
+> 2. How many interns we plan to accept this year ?
+>
+For now 3 in this program and 3 in the next one.
+
+>
+
+> 3. For a students, what's the next step after sending her application form?
+> If there are 10 applications form for one project, is there further
+> interview process to select the candidates ?
+>
+
+I'm not sure. But we do expect students to submit a patch as part of their
+process. So they should be encouraged to participate.
+
+>
+> I also talked with Chinese company, what if one company want to
+> participated/sponsor in this program?
+>
+
+That would be great!
+
+>
+
+>  What's the process like?
+>
+>> 1. Do the company propose one project ?
+>
+>> 2. Do they offer mentors to the project ?
+> 3. What's the sponsorship fee like for this program?
+>
+
+It is flexible. If they have a project and a mentor, that would be great. If
+they would like to fund a specific project or task, that would work too. We
+can find mentors. Or they can just sponsor with funding.
+
+>
+It's $4500/student/project. We will take donations in any size.
+
+>
+Stormy
+
+--0016367fb81b3ee7e90490b2f332
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div class=3D"gmail_quote"><blockquote class=3D"gmail_quote" style=3D"margi=
+n:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"></blockquote>I ca=
+n help with some answers.<br><blockquote class=3D"gmail_quote" style=3D"mar=
+gin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+
+</blockquote><br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8=
+ex;border-left:1px #ccc solid;padding-left:1ex"></blockquote>On Mon, Sep 20=
+, 2010 at 4:53 AM, Emily Chen=A0<span dir=3D"ltr">&lt;<a href=3D"mailto:emi=
+lychen522@gmail.com">emilychen522@gmail.com</a>&gt;</span>=A0wrote:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div class=3D"gmail_quote">1. It seems the p=
+rogram is for Southern Hemisphere, can students from other places apply for=
+ this program? Is it a world wide program ?=A0<br>
+
+</div></blockquote><br><blockquote class=3D"gmail_quote" style=3D"margin:0 =
+0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"></blockquote>We are=
+=A0targeting=A0the southern hemisphere with this one and then we will run a=
+nother round during the summer of of the northern hemisphere. However, anyo=
+ne who is free during those times can apply, regardless of where they live.=
+<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"></blockquote>=A0<br><blockquote class=3D"gma=
+il_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-lef=
+t:1ex">
+
+<div class=3D"gmail_quote">2. How many interns we plan to accept this year =
+?=A0<br></div></blockquote>For now 3 in this program and 3 in the next one.=
+<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-lef=
+t:1px #ccc solid;padding-left:1ex">
+
+</blockquote>=A0<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0=
+ .8ex;border-left:1px #ccc solid;padding-left:1ex"><div class=3D"gmail_quot=
+e">3. For a students, what&#39;s the next step after sending her applicatio=
+n form? If there are 10 applications form for one project, is there further=
+ interview process to select the candidates ?=A0<br>
+
+</div></blockquote><br><blockquote class=3D"gmail_quote" style=3D"margin:0 =
+0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"></blockquote>I&#39;m =
+not sure. But we do expect students to submit a patch as part of their proc=
+ess. So they should be encouraged to participate.=A0<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div class=3D"gmail_quote"><blockquote class=
+=3D"gmail_quote" style=3D"margin-top: 0px; margin-right: 0px; margin-bottom=
+: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(2=
+04, 204, 204); border-left-style: solid; padding-left: 1ex; ">
+
+</blockquote><br>I also talked with Chinese company, what if one company wa=
+nt to participated/sponsor in this program?</div></blockquote><br><blockquo=
+te class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc so=
+lid;padding-left:1ex">
+
+</blockquote>That would be great!<br><blockquote class=3D"gmail_quote" styl=
+e=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"></block=
+quote>=A0<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;b=
+order-left:1px #ccc solid;padding-left:1ex">
+
+<div class=3D"gmail_quote"><blockquote class=3D"gmail_quote" style=3D"margi=
+n-top: 0px; margin-right: 0px; margin-bottom: 0px; margin-left: 0.8ex; bord=
+er-left-width: 1px; border-left-color: rgb(204, 204, 204); border-left-styl=
+e: solid; padding-left: 1ex; ">
+
+</blockquote>What&#39;s the process like?=A0<br><blockquote class=3D"gmail_=
+quote" style=3D"margin-top: 0px; margin-right: 0px; margin-bottom: 0px; mar=
+gin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(204, 204, 2=
+04); border-left-style: solid; padding-left: 1ex; ">
+
+</blockquote>1. Do the company propose one project ?=A0<br><blockquote clas=
+s=3D"gmail_quote" style=3D"margin-top: 0px; margin-right: 0px; margin-botto=
+m: 0px; margin-left: 0.8ex; border-left-width: 1px; border-left-color: rgb(=
+204, 204, 204); border-left-style: solid; padding-left: 1ex; ">
+
+</blockquote>2. Do they offer mentors to the project ?=A0<br>3. What&#39;s =
+the sponsorship fee like for this program?=A0</div></blockquote><br><blockq=
+uote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc =
+solid;padding-left:1ex">
+
+</blockquote>It is flexible. If they have a project and a mentor, that woul=
+d be great. If they would like to fund a specific project or task, that wou=
+ld work too. We can find mentors. Or they can just sponsor with funding.<br=
+>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"></blockquote><br><blockquote class=3D"gmail_=
+quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1=
+ex">
+
+</blockquote>It&#39;s $4500/student/project. We will take donations in any =
+size.<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;borde=
+r-left:1px #ccc solid;padding-left:1ex"></blockquote><br><div class=3D"gmai=
+l_quote">
+
+<div>Stormy</div></div></div><br>
+
+--0016367fb81b3ee7e90490b2f332--
+From svaksha@gmail.com  Fri Sep 24 03:02:29 2010
+Return-Path: <svaksha@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 61EF4750851
+	for <gnome-women-list@gnome.org>; Fri, 24 Sep 2010 03:02:29 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.9
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QFHWm3ngL5q1 for <gnome-women-list@gnome.org>;
+	Fri, 24 Sep 2010 03:02:25 +0000 (UTC)
+Received: from mail-iw0-f182.google.com (mail-iw0-f182.google.com
+	[209.85.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id CB1047507DE
+	for <gnome-women-list@gnome.org>; Fri, 24 Sep 2010 03:02:14 +0000 (UTC)
+Received: by iwn34 with SMTP id 34so2972538iwn.27
+	for <gnome-women-list@gnome.org>; Thu, 23 Sep 2010 20:02:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:sender:received:date
+	:x-google-sender-auth:message-id:subject:from:to:content-type;
+	bh=0wjWf7h3jTybcG+xhQTFZfs4B/0LJqBs+bEWfPsrbds=;
+	b=xnnVfm6rsbBspy00PjX3UNYFpkIWxHCHBmBJMHKBVNFZV9VraPfTZCf96IIIteG0kE
+	1Vvs8qjZlO0iU+xVDXVCsSLjzWVRLPWjtXSYX+YuzCZnH6JcUYLdmCFHnOHsTXgUBA/c
+	KT06qA54pezP2wP1CjbTgeU8zinbGYWo3rt4E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+	:from:to:content-type;
+	b=EJml6g1wgeyg4HF4MtT2oTdfUg3UpYA1KUAqh5c0bEjoBKjiEsfCiOycIqggKNk0aD
+	wH0jFUDUmyty63Y2U7ffRGnAVCZwUQM8h5hArFlQ4TLXOOWeTxpd8wj5bkPIsrTc2lzb
+	7IrN3/ZT344TNkxmLV6znHg9bS/V/zxjzUDeI=
+MIME-Version: 1.0
+Received: by 10.231.145.1 with SMTP id b1mr3064633ibv.69.1285297332959; Thu,
+	23 Sep 2010 20:02:12 -0700 (PDT)
+Sender: svaksha@gmail.com
+Received: by 10.231.200.134 with HTTP; Thu, 23 Sep 2010 20:02:12 -0700 (PDT)
+Date: Fri, 24 Sep 2010 08:32:12 +0530
+X-Google-Sender-Auth: t13wnx-Q2sXHUQNIID6Nw2TF4GU
+Message-ID: <AANLkTinScRbMy3Lv0J6U2EcJpQxeyOYkVRjWieCeW65s@mail.gmail.com>
+From: =?UTF-8?B?IOCkuOCljeCkteCkleCljeCktyA=?= <vid@svaksha.com>
+To: gnome-women-list <gnome-women-list@gnome.org>, devchix@googlegroups.com
+Content-Type: text/plain; charset=UTF-8
+Subject: [gnome-women] [x-post] [ANN] Call for proposals -- PyCon 2011
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 24 Sep 2010 03:02:29 -0000
+
+Call for proposals -- PyCon 2011 -- <http://us.pycon.org/2011/>
+===============================================================
+
+Proposal Due date: November 1st, 2010
+
+PyCon is back! With a rocking new website, a great location and more
+Python hackers and luminaries under one roof than you could possibly
+shake a stick at. We've also added an "Extreme" talk track this year -
+no introduction, no fluff - only the pure technical meat!
+
+PyCon 2011 will be held March 9th through the 17th, 2011 in Atlanta,
+Georgia. (Home of some of the best southern food you can possibly find
+on Earth!) The PyCon conference days will be March 11-13, preceded by
+two tutorial days (March 9-10), and followed by four days of
+development sprints (March 14-17).
+
+PyCon 2011 is looking for proposals for the formal presentation tracks
+(this includes "extreme talks"). A request for proposals for poster
+sessions and tutorials will come separately.
+
+Want to showcase your skills as a Python Hacker? Want to have hundreds
+of people see your talk on the subject of your choice? Have some hot
+button issue you think the community needs to address, or have
+some package, code or project you simply love talking about? Want to
+launch your master plan to take over the world with Python?
+
+PyCon is your platform for getting the word out and teaching something
+new to hundreds of people, face to face.
+
+In the past, PyCon has had a broad range of presentations, from
+reports on academic and commercial projects, tutorials on a broad
+range of subjects, and case studies. All conference speakers are
+volunteers and come from a myriad of backgrounds: some are new
+speakers, some have been speaking for years. Everyone is welcome, so
+bring your passion and your code! We've had some incredible past
+PyCons, and we're looking to you to help us top them!
+
+Online proposal submission is open now! Proposals  will be accepted
+through November 10th, with acceptance notifications coming out by
+January 20th. To get started, please see:
+
+   <http://us.pycon.org/2011/speaker/>
+
+For videos of talks from previous years - check out:
+
+   <http://python.mirocommunity.org/category/conferences>
+
+For more information on "Extreme Talks" see:
+
+   <http://us.pycon.org/2011/speaker/extreme/>
+
+We look forward to seeing you in Atlanta!
+
+Please also note - registration for PyCon 2011 will also be capped at
+a maximum of 1,500 delegates, including speakers. When registration
+opens (soon), you're going to want to make sure you register early!
+Speakers with accepted talks will have a guaranteed slot.
+
+Important Dates:
+   * November 1st, 2010: Talk proposals due.
+   * December 15th, 2010: Acceptance emails sent.
+   * January 19th, 2010: Early bird registration closes.
+   * March 9-10th, 2011: Tutorial days at PyCon.
+   * March 11-13th, 2011: PyCon main conference.
+   * March 14-17th, 2011: PyCon sprints days.
+
+Contact Emails:
+   Van Lindberg (Conference Chair) - van@python.org
+   Jesse Noller (Co-Chair) - jnoller@python.org
+   PyCon Organizers list: pycon-organizers@python.org
+
+
+-- 
+Regards,
+Vid || http://svaksha.com

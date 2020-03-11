@@ -1,0 +1,67 @@
+From marinaz@redhat.com  Thu Aug  1 21:50:48 2013
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 2AAEB76D0A
+	for <gnome-women-list@gnome.org>; Thu,  1 Aug 2013 21:50:48 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.458
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.458 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.556,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id 3ZMEQtixKVsS for <gnome-women-list@gnome.org>;
+	Thu,  1 Aug 2013 21:50:34 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by restaurant.gnome.org (Postfix) with ESMTP id 5628D76BC7
+	for <gnome-women-list@gnome.org>; Thu,  1 Aug 2013 21:50:11 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id r71Lo8YF012781;
+	Thu, 1 Aug 2013 17:50:08 -0400
+Date: Thu, 1 Aug 2013 17:50:08 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <111841396.2868840.1375393808256.JavaMail.root@redhat.com>
+In-Reply-To: <992825494.2868083.1375393579525.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.82.12]
+X-Mailer: Zimbra 8.0.3_GA_5664 (ZimbraWebClient - FF21 (Linux)/8.0.3_GA_5664)
+Thread-Topic: women's dinner at GUADEC on Friday
+Thread-Index: R4A9wyhCgUqRZPalUj+ALU3S/9SlxA==
+Cc: Tyler Siprova <tsiprova@redhat.com>
+Subject: [gnome-women] women's dinner at GUADEC on Friday
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 01 Aug 2013 21:50:48 -0000
+
+Hi,
+
+Red Hat is generously sponsoring the women's dinner at GUADEC on Friday, Au=
+gust 2 at 7:30pm at Stopkova at =C4=8Cesk=C3=A1 5, Brno. Please see https:/=
+/wiki.gnome.org/GUADEC/2013/WomensDinner for more information and to RSVP. =
+Please forward the information about the dinner along to women you meet at =
+GUADEC who might not be on this list.
+
+A group of people will be leaving the dorms at 7pm to get to the restaurant=
+ together.=20
+
+Thanks,
+Marina

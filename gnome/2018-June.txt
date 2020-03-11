@@ -1,0 +1,115 @@
+From rosannayuen@gmail.com  Fri Jun 29 06:17:35 2018
+Return-Path: <rosannayuen@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.gnome.org (Postfix) with ESMTP id 1043876126
+	for <gnome-women-list@gnome.org>; Fri, 29 Jun 2018 06:17:35 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.899
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.899 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from smtp.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id YHAr4Pr7Ydy9 for <gnome-women-list@gnome.org>;
+	Fri, 29 Jun 2018 06:17:33 +0000 (UTC)
+Received: from mail-yb0-f176.google.com (mail-yb0-f176.google.com
+	[209.85.213.176])
+	by smtp.gnome.org (Postfix) with ESMTPS id ABB31760C4
+	for <gnome-women-list@gnome.org>; Fri, 29 Jun 2018 06:17:32 +0000 (UTC)
+Received: by mail-yb0-f176.google.com with SMTP id x15-v6so2947623ybm.2
+	for <gnome-women-list@gnome.org>; Thu, 28 Jun 2018 23:17:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20161025;
+	h=mime-version:sender:from:date:message-id:subject:to;
+	bh=+2QCGtsrB/9cPWWiu7C56BqFOMuFAvE3IXX1jPcoItU=;
+	b=Puc8NOUlndJSUS9dt3XAgFqVz9uDK9GzMZzASbSXDnhWkhQn9g+SxWqq3u9DEo/7n8
+	E16fVSlR+JeMd3UACp1vGvPzno8tZ83lgY3SZamskDaFodyc8lGh0TGCIejd/ivqHsk/
+	GLOp5FqyD6287fdgMb1QtohHReyWROz6u07x9s7qNP2OX7oc4AJBfHV+y6zsRC+eJ2ZF
+	HUvAssLpy9nbgkkyN9BpzyFg26y2ocY93l9UaoK6e0GvMpI/NiQmA8DJt77/fyvlSIwK
+	AFKAlpBRBgDm/vxOYtI4uQ8uKvcYQQsqTvF0RK2n4pjBHbQJR3wx531HgyuJu93NcyLt
+	ELLA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=1e100.net; s=20161025;
+	h=x-gm-message-state:mime-version:sender:from:date:message-id:subject
+	:to; bh=+2QCGtsrB/9cPWWiu7C56BqFOMuFAvE3IXX1jPcoItU=;
+	b=ZLTy6CS+W9GZsCqzsLsa0d1eGyUK+St9oqtuG/1MqBel2XMKo5cwaaOKNfpxjtm8oG
+	OLYVJZFaYOAY8jsG7LE1744G1yKoEkkiW2NXIYSlM1jbKVJAGVWKAnTKdfK4vhy90fSD
+	ST6ocYQdlT689WyKdxtYp0/GlBUxYYRuHcJXJmtAtVKVQ5dDtsgiFFN9ruHXApBVKrqO
+	JQOLGvv9HbAO3coj8uSGBWMzHtV1lelgstyga5lEyXxBhVpWakPQ1s4fQNI5Xi5rw79Y
+	4bFIyIEDR/wg8BHnXfY8MLeZWkel0Jx3RmHumqZAuRCKQ8aIOASOFNbw2UUIw9BrLE0u
+	Sstg==
+X-Gm-Message-State: APt69E1VCnO3T/SMoNuSlmv2+KetgqHrG9k0JkWqOWRAzgVDDaQs/B7H
+	nErRNbh/z/mhhLORw+zTa8Jqoi22OzpNbnXrcI/IHw==
+X-Google-Smtp-Source: ADUXVKJoMRVM3Tck5Al9+Toa1m6Wa2pkZ4e92/977cACIfOszoxyTrxkIt9tr19zBlGxs2ti16Q8S7lfS7l4ri+7sdw=
+X-Received: by 2002:a25:5386:: with SMTP id
+	h128-v6mr6566230ybb.344.1530253050911; 
+	Thu, 28 Jun 2018 23:17:30 -0700 (PDT)
+MIME-Version: 1.0
+Sender: rosannayuen@gmail.com
+Received: by 2002:a81:4a56:0:0:0:0:0 with HTTP; Thu, 28 Jun 2018 23:17:30
+	-0700 (PDT)
+From: Rosanna Yuen <zana@gnome.org>
+Date: Thu, 28 Jun 2018 23:17:30 -0700
+X-Google-Sender-Auth: lV0As9B9Zu0ytk-d-QFWaftNcdw
+Message-ID: <CAFd-mVKt0qkMVr_AkAnEG8h95QFm_F12boYfXu8Limg7GUJa7w@mail.gmail.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Content-Type: multipart/alternative; boundary="00000000000084216c056fc1cda5"
+Subject: [gnome-women] =?utf-8?q?Women=27s_Dinner_=E2=80=94_July_8th=2C_20?=
+	=?utf-8?q?18_at_GUADEC_in_Almer=C3=ADa=2C_Spain?=
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.23
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 29 Jun 2018 06:17:35 -0000
+
+--00000000000084216c056fc1cda5
+Content-Type: text/plain; charset="UTF-8"
+
+Hi,
+
+The ninth annual GNOME women's dinner will happen on Sunday, July 8th
+during GUADEC. If you would like to attend, please add your name at
+https://wiki.gnome.org/GUADEC/2018/WomensDinner so that we can ensure we
+have an appropriately-sized table at the restaurant. Please feel free to
+share the information about the dinner with women and genderqueer people
+you know attending GUADEC who may not be on this list.
+
+Hope to see you there!
+-Rosanna
+
+-- 
+Rosanna Yuen
+Director of Operations
+GNOME Foundation, Inc.
+
+--00000000000084216c056fc1cda5
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi,=C2=A0<div><br></div><div>The ninth annual GNOME women&=
+#39;s dinner will happen on Sunday, July 8th during GUADEC. If you would li=
+ke to attend, please add your name at <a href=3D"https://wiki.gnome.org/GUA=
+DEC/2018/WomensDinner">https://wiki.gnome.org/GUADEC/2018/WomensDinner</a> =
+so that we can ensure we have an appropriately-sized table at the restauran=
+t. Please feel free to share the information about the dinner with women an=
+d genderqueer people you know attending GUADEC who may not be on this list.=
+=C2=A0</div><div><br></div><div>Hope to see you there!=C2=A0</div><div>-Ros=
+anna<br clear=3D"all"><div><br></div>-- <br><div class=3D"gmail_signature">=
+<div dir=3D"ltr">Rosanna Yuen<div>Director of Operations</div><div>GNOME Fo=
+undation, Inc.</div></div></div>
+</div></div>
+
+--00000000000084216c056fc1cda5--

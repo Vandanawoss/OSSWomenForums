@@ -1,0 +1,788 @@
+From khanak.nangia at intel.com  Mon Apr  3 16:50:52 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Mon, 3 Apr 2017 16:50:52 +0000
+Subject: [Women-of-openstack] Sweet Reminder: Today's meeting
+Message-ID: <B28845AA-BEA7-4D7C-BB42-71927E0112ED@intel.com>
+
+Hey everyone,
+
+Just wanted to remind everyone about today’s meeting at 1pm PST, 3pm CST and 4pm EST.
+
+Dial-in info is: 1-203-277-8157<tel:(203)%20277-8157> or 866-619-0383<tel:(866)%20619-0383>  Participant: 7217256# Leader 4018#
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+This time we’ll have speakers to share their experiences at the past summits and providing tips to network and how to be successful at talks. Ours speakers are members of OpenStack Innovation Center (OSIC) from Intel : Michal Jastrzebski, Hector Issac Gonzalez Mendoza, Dariusz Smigiel, and Aradhana Singh.
+
+Etherpad for this meeting is at https://etherpad.openstack.org/p/WOS_04_03_17 and if you would like to add something to the agenda please do so. I've added few topics already.
+
+Etherpad for tracking the agenda is at  https://etherpad.openstack.org/p/WOS_Agenda_Tracker . If you'd like to lead a meeting, please sign up.
+
+Talk  to you all in few hours :)
+
+Thank you !
+
+Best,
+
+Khanak
+
+--
+Khanak Nangia
+OpenStack Innovation Center | Security Team
+Intel Corporation | IRC : knangia
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170403/1ca12a44/attachment.html>
+
+From jessicak at us.ibm.com  Mon Apr  3 21:33:24 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 3 Apr 2017 16:33:24 -0500
+Subject: [Women-of-openstack] Looking for your input for WOO Boston working
+	lunch topics/speakers
+Message-ID: <OF6596480E.EF26AAEF-ON002580F7.007594FD-862580F7.00766A19@notes.na.collabserv.com>
+
+
+
+The Women of OpenStack's working session for the Boston summit is moving to
+lunch time on Tuesday, May 9, 12:50pm-1:50pm. (yea! no more early
+mornings!!!)
+
+This is a great opportunity for you to meet other Women of OpenStack and
+help build your new network in a relaxed setting.
+
+It has been one of most highly attended WOO focused sessions for the past
+2-3 years with 100+ attendees, so make sure you register for the session
+here:
+https://www.openstack.org/summit/boston-2017/summit-schedule/events/18648/women-of-openstack-lunch-sponsored-by-ibm
+
+As we have done in the past, the format will be 2-3 lightening (10 minute)
+talks followed by small group / table discussion.
+
+We'd love to hear from you -- and what you are interested in talking about
+during lunch. Please share your suggestions for topic and speaker
+suggestions using this format in this etherpad:
+https://etherpad.openstack.org/p/Boston_WOO_working_lunch
+
+Submitted By: <name> & <email address>
+Topic:
+Speaker:
+
+If you have a great topic but you don't know of the right speaker,  please
+share your idea and we can try and find a speaker.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170403/49f59c81/attachment.html>
+
+From amy at demarco.com  Wed Apr  5 15:47:47 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 5 Apr 2017 10:47:47 -0500
+Subject: [Women-of-openstack] Boston Summit Group Me
+Message-ID: <CAFs83QoUeXJcT47Xsrotw5S4yXdNeUH9t_U89YXCaEspM8Ezbw@mail.gmail.com>
+
+Hey all,
+
+Just wanted to see if there's interested in having a Group Me group for
+Boston and see if there were any volunteers to set it up.
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170405/57ee02ad/attachment.html>
+
+From khanak.nangia at intel.com  Wed Apr  5 16:52:34 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Wed, 5 Apr 2017 16:52:34 +0000
+Subject: [Women-of-openstack] Boston Summit Group Me
+In-Reply-To: <CAFs83QoUeXJcT47Xsrotw5S4yXdNeUH9t_U89YXCaEspM8Ezbw@mail.gmail.com>
+References: <CAFs83QoUeXJcT47Xsrotw5S4yXdNeUH9t_U89YXCaEspM8Ezbw@mail.gmail.com>
+Message-ID: <921F58E3-1009-4493-A5E3-9EB5ECD2AD4B@intel.com>
+
+Hey Amy,
+
+That’s a great initiative, forming the “Women Group” :)
+We can discuss more about it in the WoO meeting.
+
+Thanks,
+Khanak
+
+From: Amy Marrich <amy at demarco.com<mailto:amy at demarco.com>>
+Date: Wednesday, April 5, 2017 at 10:47 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Boston Summit Group Me
+
+Hey all,
+
+Just wanted to see if there's interested in having a Group Me group for Boston and see if there were any volunteers to set it up.
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170405/122efdef/attachment.html>
+
+From shilla.saebi at gmail.com  Thu Apr  6 00:13:13 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Wed, 5 Apr 2017 20:13:13 -0400
+Subject: [Women-of-openstack] Boston Summit Group Me
+In-Reply-To: <921F58E3-1009-4493-A5E3-9EB5ECD2AD4B@intel.com>
+References: <CAFs83QoUeXJcT47Xsrotw5S4yXdNeUH9t_U89YXCaEspM8Ezbw@mail.gmail.com>
+ <921F58E3-1009-4493-A5E3-9EB5ECD2AD4B@intel.com>
+Message-ID: <CAPrU3jFKciYze-D7fbjgJswttL07TR3xqYonb7RDVahpjDSs+Q@mail.gmail.com>
+
+That sounds like a great idea. I can set it up :) I will send the link out
+shortly
+
+On Wed, Apr 5, 2017 at 12:52 PM, Nangia, Khanak <khanak.nangia at intel.com>
+wrote:
+
+> Hey Amy,
+>
+> That’s a great initiative, forming the “Women Group” :)
+> We can discuss more about it in the WoO meeting.
+>
+> Thanks,
+> Khanak
+>
+> From: Amy Marrich <amy at demarco.com>
+> Date: Wednesday, April 5, 2017 at 10:47 AM
+> To: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.
+> openstack.org>
+> Subject: [Women-of-openstack] Boston Summit Group Me
+>
+> Hey all,
+>
+> Just wanted to see if there's interested in having a Group Me group for
+> Boston and see if there were any volunteers to set it up.
+>
+> Thanks,
+>
+> Amy
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170405/6beb7ef9/attachment.html>
+
+From kendall at openstack.org  Thu Apr 13 15:23:31 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Thu, 13 Apr 2017 10:23:31 -0500
+Subject: [Women-of-openstack] OpenStack Summit Boston Prices Increase
+	Tomorrow!
+Message-ID: <6E9532D3-E191-4A38-9568-37633AA06B71@openstack.org>
+
+Hi everyone, 
+
+It’s your last chance to save on your OpenStack Summit Boston <https://www.openstack.org/summit/boston-2017/> tickets before prices increase tomorrow Friday, April 14 at 11:59pm PDT (April 15 at 6:59 UTC).
+
+Haven’t booked your hotel yet? You can purchase a Full Access Summit ticket with a 4-night hotel stay at a hotel walkable to the Summit venue for just $1,599 USD! Hurry—purchase now before prices increase tomorrow! 
+
+REGISTER AND BOOK YOUR HOTEL HERE: https://openstacksummit2017boston.eventbrite.com <https://openstacksummit2017boston.eventbrite.com/> 
+
+If you have a registration code, it must be redeemed by May 3. 
+Note: Registration codes only apply to Weeklong Full Access Passes.
+
+Contact summit at openstack.org <mailto:summit at openstack.org> if you have any questions. 
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170413/79d18978/attachment.html>
+
+From ekhugenbruch at us.ibm.com  Thu Apr 13 18:17:03 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Thu, 13 Apr 2017 14:17:03 -0400
+Subject: [Women-of-openstack] [openstack] [summit] Speed Mentoring at Boston
+	summit, updated time!
+In-Reply-To: <OF9BF651C5.A33480D3-ON002580DD.00722CA2-852580DD.007312AB@LocalDomain>
+References: <OF9BF651C5.A33480D3-ON002580DD.00722CA2-852580DD.007312AB@LocalDomain>
+Message-ID: <OF765DCB81.F1BAD9A3-ON00258101.006390CD-85258101.00647047@notes.na.collabserv.com>
+
+
+Hello,
+We are so pleased to again offer Speed Mentoring on the first day of the
+Boston summit.   The time has recently moved from Monday morning (too
+early!) to Monday lunch.  We have 20 fabulous mentors signed up and 5 great
+volunteers.  We have space for lots more mentees!
+So if you know of someone new to the community, coming to their first
+summit, or just looking to grow their network, please invite them to come
+to Speed Mentoring.
+
+
+            Speed Mentoring Lunch sponsored by Intel - Monday May 8,
+            12:50-1:50PM
+            Open to anyone of any gender or experience looking for
+            technical or career advice.
+
+
+            How will it go?
+
+
+            You'll meet with a mentor in a small group of mentees
+            in short intervals.  Mentors will answer questions and share
+            their experience about how to grow in the community. It's a
+            fast-paced event and a great way to meet new people, start the
+            summit, and be welcomed into the OpenStack community. Mentees
+            are asked to provide 3 questions they would like answered when
+            they sign up.  We'll ask mentors to focus their answers around
+            these questions.
+
+
+            Sign up here:
+            https://www.openstack.org/summit/boston-2017/summit-schedule/events/18680/speed-mentoring-lunch-sponsored-by-intel
+
+            Thanks!
+
+
+
+Sincerely,
+Emily Kate Hugenbruch
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170413/0db9b6e7/attachment.html>
+
+From shilla.saebi at gmail.com  Fri Apr 14 00:26:25 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Thu, 13 Apr 2017 20:26:25 -0400
+Subject: [Women-of-openstack] Group Messaging for Women of OpenStack Boston
+	Summit
+Message-ID: <CAPrU3jHETNcsQxGAOMpyspr+4C611wyJoyVn9ENAdZHPWpMTBQ@mail.gmail.com>
+
+Hello Women of OpenStack,
+
+We will be using groupme for group messaging and collaboration during the
+Boston summit. Please download the application (groupme) on your mobile
+device and feel free to join the group 'Women of OpenStack - Boston'. You
+can click on this link <https://app.groupme.com/join_group/30442129/OXeq4u>
+to get started. Please let me know if you have any questions.
+
+Thank you!
+
+Shilla
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170413/a3999770/attachment.html>
+
+From amy at demarco.com  Fri Apr 14 00:42:38 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 13 Apr 2017 19:42:38 -0500
+Subject: [Women-of-openstack] Group Messaging for Women of OpenStack
+ Boston Summit
+In-Reply-To: <CAPrU3jHETNcsQxGAOMpyspr+4C611wyJoyVn9ENAdZHPWpMTBQ@mail.gmail.com>
+References: <CAPrU3jHETNcsQxGAOMpyspr+4C611wyJoyVn9ENAdZHPWpMTBQ@mail.gmail.com>
+Message-ID: <CAFs83Qr+tKC6wHTqVCnnS9KuVWHA3anwWve3T7HRxKPpKjAPEA@mail.gmail.com>
+
+Thanks Shilla!
+
+On Thu, Apr 13, 2017 at 7:26 PM, Shilla Saebi <shilla.saebi at gmail.com>
+wrote:
+
+> Hello Women of OpenStack,
+>
+> We will be using groupme for group messaging and collaboration during the
+> Boston summit. Please download the application (groupme) on your mobile
+> device and feel free to join the group 'Women of OpenStack - Boston'. You
+> can click on this link
+> <https://app.groupme.com/join_group/30442129/OXeq4u> to get started.
+> Please let me know if you have any questions.
+>
+> Thank you!
+>
+> Shilla
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170413/e030ff18/attachment.html>
+
+From aimeeu.opensource at gmail.com  Fri Apr 14 18:29:49 2017
+From: aimeeu.opensource at gmail.com (Aimee Ukasick)
+Date: Fri, 14 Apr 2017 13:29:49 -0500
+Subject: [Women-of-openstack] Women-Of-Openstack Meeting Reminder : April 17, 2017
+In-Reply-To: <5F0735F5-706F-4C14-AE8E-A34B3817A747@intel.com>
+References: <5F0735F5-706F-4C14-AE8E-A34B3817A747@intel.com>
+Message-ID: <daaafa21-7613-d9b9-b52b-d8c4091f9b04@gmail.com>
+
+Hi all - our next WOO meeting is Monday 17 April 2017 at
+20:00 UTC, 4 EDT, 3 CDT, 2 MDT, and 1 PDT.
+
+
+Please add your agenda items to this meeting's etherpad:
+Meeting etherpad: https://etherpad.openstack.org/p/WOS_04_17_17
+
+Dial In: 1-203-277-8157 or 866-619-0383
+Participant: 7217256# Leader 4018#
+
+We will continue with Boston Summit planning at this meeting.
+
+WOO needs you! Sign up to host a future meeting at:
+https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+See you all on Monday 17 April at 20:00 UTC!
+
+-----
+Aimee Ukasick
+Open Source Engagement OPFNV, ONAP, OpenStack
+IRC: aimeeu
+
+On 03/31/2017 02:17 PM, Nangia, Khanak wrote:
+> Hey everyone,
+> 
+> Just wanted to remind everyone the next meeting will be on Monday, 4/3//17 at 1pm PST, 3pm CST and 4pm EST. This new meeting time is 1 hour later due to DST.
+> 
+> Dial-in info is: 1-203-277-8157<tel:(203)%20277-8157> or 866-619-0383<tel:(866)%20619-0383>  Participant: 7217256# Leader 4018#
+> webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+> 
+> This time we’ll have speakers to share their experiences at the past summits and providing tips to network and how to be successful at talks. Ours speakers are members of OpenStack Innovation Center (OSIC) from Intel : Michal Jastrzebski, Hector Issac Gonzalez Mendoza, Dariusz Smigiel, and Aradhana Singh.
+> 
+> Etherpad for this meeting is at https://etherpad.openstack.org/p/WOS_04_03_17 and if you would like to add something to the agenda please do so. I've added few topics already.
+> 
+> Etherpad for tracking the agenda is at  https://etherpad.openstack.org/p/WOS_Agenda_Tracker . If you'd like to lead a meeting, please sign up.
+> 
+> Talk  to you all on Monday :)
+> 
+> Thank you !
+> 
+> Best,
+> 
+> Khanak
+> 
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+
+
+From aimeeu.opensource at gmail.com  Mon Apr 17 16:31:30 2017
+From: aimeeu.opensource at gmail.com (Aimee Ukasick)
+Date: Mon, 17 Apr 2017 11:31:30 -0500
+Subject: [Women-of-openstack]  Reminder: WOO Meeting Today
+Message-ID: <4ddb7f1f-4932-4f54-79dc-85a273dd1380@gmail.com>
+
+Hi all - our next WOO meeting is today, Monday 17 April 2017 at
+20:00 UTC, 4 EDT, 3 CDT, 2 MDT, and 1 PDT.
+
+
+Please add your agenda items to this meeting's etherpad:
+Meeting etherpad: https://etherpad.openstack.org/p/WOS_04_17_17
+
+Dial In: 1-203-277-8157 or 866-619-0383
+Participant: 7217256# Leader 4018#
+
+We will continue with Boston Summit planning at this meeting.
+
+WOO needs you! Sign up to host a future meeting at:
+https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+See you all later today!
+
+-- 
+Aimee Ukasick
+Open Source Engagement OPNFV, OpenStack, ONAP
+IRC: aimeeu
+
+
+From jessicak at us.ibm.com  Tue Apr 18 05:10:13 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Tue, 18 Apr 2017 00:10:13 -0500
+Subject: [Women-of-openstack] Vote by 12AM ET Thursday,
+ April 20 for our WOO Boston working lunch discussion
+Message-ID: <OFC9B3CE73.96F19DE3-ON00258106.001B2297-86258106.001C670E@notes.na.collabserv.com>
+
+
+
+Thank you for sharing your topic and speaker suggestions in the etherpad --
+you guys came up with some really great ideas!
+
+Please vote in the etherpad below with a '+1' for the topic you'd most like
+to see at the Women of OpenStack working session at the OpenStack summit in
+Boston. It will be held during lunch on Tuesday, May 9, 12:50pm-1:50pm --->
+https://etherpad.openstack.org/p/Boston_WOO_working_lunch
+
+You can register for the Women of OpenStack lunch session here:
+https://www.openstack.org/summit/boston-2017/summit-schedule/events/18648/women-of-openstack-lunch-sponsored-by-ibm
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+----- Forwarded by Jessica Murillo/Austin/IBM on 04/17/2017 11:56 PM -----
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Date:	04/03/2017 04:33 PM
+Subject:	Looking for your input for WOO Boston working lunch
+            topics/speakers
+
+
+The Women of OpenStack's working session for the Boston summit is moving to
+lunch time on Tuesday, May 9, 12:50pm-1:50pm. (yea! no more early
+mornings!!!)
+
+This is a great opportunity for you to meet other Women of OpenStack and
+help build your new network in a relaxed setting.
+
+It has been one of most highly attended WOO focused sessions for the past
+2-3 years with 100+ attendees, so make sure you register for the session
+here:
+https://www.openstack.org/summit/boston-2017/summit-schedule/events/18648/women-of-openstack-lunch-sponsored-by-ibm
+
+As we have done in the past, the format will be 2-3 lightening (10 minute)
+talks followed by small group / table discussion.
+
+We'd love to hear from you -- and what you are interested in talking about
+during lunch. Please share your suggestions for topic and speaker
+suggestions using this format in this etherpad:
+https://etherpad.openstack.org/p/Boston_WOO_working_lunch
+
+Submitted By: <name> & <email address>
+Topic:
+Speaker:
+
+If you have a great topic but you don't know of the right speaker,  please
+share your idea and we can try and find a speaker.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170418/b65b72f0/attachment.html>
+
+From jessicak at us.ibm.com  Thu Apr 20 05:59:58 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 20 Apr 2017 00:59:58 -0500
+Subject: [Women-of-openstack] We have a winner for our WOO Boston working
+	lunch discussion
+In-Reply-To: <OFC9B3CE73.96F19DE3-ON00258106.001B2297-86258106.001C670E@LocalDomain>
+References: <OFC9B3CE73.96F19DE3-ON00258106.001B2297-86258106.001C670E@LocalDomain>
+Message-ID: <OF12802006.5AF99230-ON00258108.002044A5-86258108.0020F4DC@notes.na.collabserv.com>
+
+
+The votes are in and for the Boston Women of OpenStack lunch we will hold a
+panel discussion with women who have had a significant career in Open
+Source! Thanks to Maria-Rita Villari for helping frame this topic and I
+appreciate all the ideas submitted.
+
+19 days and counting until the Boston Summit .... I am looking forward to
+the panel discussion and the table discussion it will generate afterwards.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Cc:	Jessica Murillo/Austin/IBM at IBMUS
+Date:	04/18/2017 12:10 AM
+Subject:	Vote by 12AM ET Thursday, April 20 for our WOO Boston working
+            lunch discussion
+
+
+Thank you for sharing your topic and speaker suggestions in the etherpad --
+you guys came up with some really great ideas!
+
+Please vote in the etherpad below with a '+1' for the topic you'd most like
+to see at the Women of OpenStack working session at the OpenStack summit in
+Boston. It will be held during lunch on Tuesday, May 9, 12:50pm-1:50pm --->
+https://etherpad.openstack.org/p/Boston_WOO_working_lunch
+
+You can register for the Women of OpenStack lunch session here:
+https://www.openstack.org/summit/boston-2017/summit-schedule/events/18648/women-of-openstack-lunch-sponsored-by-ibm
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+----- Forwarded by Jessica Murillo/Austin/IBM on 04/17/2017 11:56 PM -----
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Date:	04/03/2017 04:33 PM
+Subject:	Looking for your input for WOO Boston working lunch
+            topics/speakers
+
+
+The Women of OpenStack's working session for the Boston summit is moving to
+lunch time on Tuesday, May 9, 12:50pm-1:50pm. (yea! no more early
+mornings!!!)
+
+This is a great opportunity for you to meet other Women of OpenStack and
+help build your new network in a relaxed setting.
+
+It has been one of most highly attended WOO focused sessions for the past
+2-3 years with 100+ attendees, so make sure you register for the session
+here:
+https://www.openstack.org/summit/boston-2017/summit-schedule/events/18648/women-of-openstack-lunch-sponsored-by-ibm
+
+As we have done in the past, the format will be 2-3 lightening (10 minute)
+talks followed by small group / table discussion.
+
+We'd love to hear from you -- and what you are interested in talking about
+during lunch. Please share your suggestions for topic and speaker
+suggestions using this format in this etherpad:
+https://etherpad.openstack.org/p/Boston_WOO_working_lunch
+
+Submitted By: <name> & <email address>
+Topic:
+Speaker:
+
+If you have a great topic but you don't know of the right speaker,  please
+share your idea and we can try and find a speaker.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170420/fc888a04/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170420/fc888a04/attachment.gif>
+
+From aimeeu.opensource at gmail.com  Thu Apr 20 15:55:31 2017
+From: aimeeu.opensource at gmail.com (Aimee Ukasick)
+Date: Thu, 20 Apr 2017 10:55:31 -0500
+Subject: [Women-of-openstack] We have a winner for our WOO Boston
+ working lunch discussion
+In-Reply-To: <OF12802006.5AF99230-ON00258108.002044A5-86258108.0020F4DC@notes.na.collabserv.com>
+References: <OFC9B3CE73.96F19DE3-ON00258106.001B2297-86258106.001C670E@LocalDomain>
+ <OF12802006.5AF99230-ON00258108.002044A5-86258108.0020F4DC@notes.na.collabserv.com>
+Message-ID: <361ae248-a5b6-13dd-c8fa-eaa81ec41aa5@gmail.com>
+
+Excellent subject! I am looking forward to hearing the panelists and
+asking questions.
+Thanks for organizing this Jessica!
+
+-----
+Aimee Ukasick
+Open Source Engagement OPNFV, OpenStack, ONAP
+IRC: aimeeu
+
+On 04/20/2017 12:59 AM, Jessica Murillo wrote:
+> 
+> The votes are in and for the Boston Women of OpenStack lunch we will hold a
+> panel discussion with women who have had a significant career in Open
+> Source! Thanks to Maria-Rita Villari for helping frame this topic and I
+> appreciate all the ideas submitted.
+> 
+> 19 days and counting until the Boston Summit .... I am looking forward to
+> the panel discussion and the table discussion it will generate afterwards.
+> 
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> jessicak at us.ibm.com
+> Mobile Phone: 512-970-8466
+> 
+> 
+> 
+> From:	Jessica Murillo/Austin/IBM
+> To:	women-of-openstack at lists.openstack.org
+> Cc:	Jessica Murillo/Austin/IBM at IBMUS
+> Date:	04/18/2017 12:10 AM
+> Subject:	Vote by 12AM ET Thursday, April 20 for our WOO Boston working
+>             lunch discussion
+> 
+> 
+> Thank you for sharing your topic and speaker suggestions in the etherpad --
+> you guys came up with some really great ideas!
+> 
+> Please vote in the etherpad below with a '+1' for the topic you'd most like
+> to see at the Women of OpenStack working session at the OpenStack summit in
+> Boston. It will be held during lunch on Tuesday, May 9, 12:50pm-1:50pm --->
+> https://etherpad.openstack.org/p/Boston_WOO_working_lunch
+> 
+> You can register for the Women of OpenStack lunch session here:
+> https://www.openstack.org/summit/boston-2017/summit-schedule/events/18648/women-of-openstack-lunch-sponsored-by-ibm
+> 
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> jessicak at us.ibm.com
+> Mobile Phone: 512-970-8466
+> ----- Forwarded by Jessica Murillo/Austin/IBM on 04/17/2017 11:56 PM -----
+> 
+> From:	Jessica Murillo/Austin/IBM
+> To:	women-of-openstack at lists.openstack.org
+> Date:	04/03/2017 04:33 PM
+> Subject:	Looking for your input for WOO Boston working lunch
+>             topics/speakers
+> 
+> 
+> The Women of OpenStack's working session for the Boston summit is moving to
+> lunch time on Tuesday, May 9, 12:50pm-1:50pm. (yea! no more early
+> mornings!!!)
+> 
+> This is a great opportunity for you to meet other Women of OpenStack and
+> help build your new network in a relaxed setting.
+> 
+> It has been one of most highly attended WOO focused sessions for the past
+> 2-3 years with 100+ attendees, so make sure you register for the session
+> here:
+> https://www.openstack.org/summit/boston-2017/summit-schedule/events/18648/women-of-openstack-lunch-sponsored-by-ibm
+> 
+> As we have done in the past, the format will be 2-3 lightening (10 minute)
+> talks followed by small group / table discussion.
+> 
+> We'd love to hear from you -- and what you are interested in talking about
+> during lunch. Please share your suggestions for topic and speaker
+> suggestions using this format in this etherpad:
+> https://etherpad.openstack.org/p/Boston_WOO_working_lunch
+> 
+> Submitted By: <name> & <email address>
+> Topic:
+> Speaker:
+> 
+> If you have a great topic but you don't know of the right speaker,  please
+> share your idea and we can try and find a speaker.
+> 
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> jessicak at us.ibm.com
+> Mobile Phone: 512-970-8466
+> 
+> 
+> 
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+
+
+From khanak.nangia at intel.com  Sun Apr 30 22:47:39 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Sun, 30 Apr 2017 22:47:39 +0000
+Subject: [Women-of-openstack] WoO meeting reminder : May 1, 2017
+Message-ID: <A3A3C1E5-A7DB-448D-8CC0-507C96EC161F@intel.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the next meeting will be on Monday, 5/1/17 at 1pm PST, 3pm CST and 4pm EST.
+This will be the last meeting before the Boston Summit.
+
+Dial In: 1-203-277-8157 or 866-619-0383
+Participant: 7217256# Leader 4018#
+
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+Etherpad for this meeting is at https://etherpad.openstack.org/p/WOS_05_01_17 and if you would like to add something to the agenda please do so.
+Etherpad for tracking the agenda is at  https://etherpad.openstack.org/p/WOS_Agenda_Tracker . If you'd like to lead a meeting, please sign up.
+
+Talk  to you all tomorrow :)
+
+Thank you !
+
+Best,
+Khanak Nangia
+IRC: knangia
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170430/402ceb65/attachment.html>
+
+From khanak.nangia at intel.com  Sun Apr 30 22:49:55 2017
+From: khanak.nangia at intel.com (Nangia, Khanak)
+Date: Sun, 30 Apr 2017 22:49:55 +0000
+Subject: [Women-of-openstack] Women Of OpenStack meeting
+Message-ID: <E814E370964CA745B7C55E6FCAFC2AFD394DAE@FMSMSX105.amr.corp.intel.com>
+
+When: Monday, May 01, 2017 3:00 PM-4:00 PM. (UTC-06:00) Central Time (US & Canada)
+Where: On call
+
+*~*~*~*~*~*~*~*~*~*
+
+Hey everyone,
+
+
+
+Just wanted to remind everyone the next meeting will be on Monday, 5/1/17 at 1pm PST, 3pm CST and 4pm EST.
+This will be the last meeting before the Boston Summit.
+
+
+
+Dial In: 1-203-277-8157 or 866-619-0383
+Participant: 7217256# Leader 4018#
+
+
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+
+
+
+Etherpad for this meeting is at https://etherpad.openstack.org/p/WOS_05_01_17 and if you would like to add something to the agenda please do so.
+
+Etherpad for tracking the agenda is at  https://etherpad.openstack.org/p/WOS_Agenda_Tracker . If you'd like to lead a meeting, please sign up.
+
+
+
+Talk  to you all tomorrow :)
+
+
+
+Thank you !
+
+
+
+Best,
+
+Khanak Nangia
+IRC: knangia
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170430/7438b07a/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 2352 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170430/7438b07a/attachment.ics>
+

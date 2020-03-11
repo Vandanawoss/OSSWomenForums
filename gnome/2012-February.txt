@@ -1,0 +1,540 @@
+From sukanya.nitk@gmail.com  Tue Feb 28 04:56:05 2012
+Return-Path: <sukanya.nitk@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 1337A750650
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Feb 2012 04:56:05 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.726
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.726 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DEAR_SOMETHING=1.973, DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001]
+	autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Qv6dMiIFs8g1 for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Feb 2012 04:56:03 +0000 (UTC)
+Received: from mail-pz0-f46.google.com (mail-pz0-f46.google.com
+	[209.85.210.46])
+	by menubar.gnome.org (Postfix) with ESMTP id A90E175064C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Feb 2012 04:55:58 +0000 (UTC)
+Received: by daed14 with SMTP id d14so2770515dae.33
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Feb 2012 20:55:55 -0800 (PST)
+Received-SPF: pass (google.com: domain of sukanya.nitk@gmail.com designates
+	10.68.134.198 as permitted sender) client-ip=10.68.134.198; 
+Authentication-Results: mr.google.com;
+	spf=pass (google.com: domain of sukanya.nitk@gmail.com
+	designates 10.68.134.198 as permitted sender)
+	smtp.mail=sukanya.nitk@gmail.com;
+	dkim=pass header.i=sukanya.nitk@gmail.com
+Received: from mr.google.com ([10.68.134.198])
+	by 10.68.134.198 with SMTP id pm6mr46537799pbb.147.1330404955433
+	(num_hops = 1); Mon, 27 Feb 2012 20:55:55 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:sender:x-google-sender-delegation:date
+	:x-google-sender-auth:message-id:subject:from:to:content-type;
+	bh=bg+uCGYlc1s72R8P0bxgk6vQ3nYvWtVVnXnj5EuQl7Y=;
+	b=b79Yd4JjbbrhvYUpPpah8kGwulrWF+nS+kq1NYZCMAyp+I70gwptq6wFTDfkFByUsB
+	V3NfkCRueC2lngK5k24zBeHgo54vL/FVwfeVUZkNm4CDmgdC6NRAzduj1dG4NYY1C9MT
+	AicyTuPNnhYYk8hLLuNIndn21tedTxfbvGb34=
+MIME-Version: 1.0
+Received: by 10.68.134.198 with SMTP id pm6mr39351020pbb.147.1330404955396;
+	Mon, 27 Feb 2012 20:55:55 -0800 (PST)
+Sender: sukanya.k2810@gmail.com
+X-Google-Sender-Delegation: sukanya.k2810@gmail.com
+Received: by 10.68.237.72 with HTTP; Mon, 27 Feb 2012 20:55:55 -0800 (PST)
+Date: Tue, 28 Feb 2012 10:25:55 +0530
+X-Google-Sender-Auth: TUHHuQ1hZoiqWYmu0XkZ0KGYkfM
+Message-ID: <CAB1MJEg4cnHOGmpZ2ZSPRWSjMYodDBdw2Nnb6SSTaAT+re1ghw@mail.gmail.com>
+From: sukanya kudi <sukanya.nitk@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=047d7b10cb29c618ea04b9ff0ad8
+Subject: [gnome-women] Query regarding Gnome Women/Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 28 Feb 2012 04:56:05 -0000
+
+--047d7b10cb29c618ea04b9ff0ad8
+Content-Type: text/plain; charset=ISO-8859-1
+
+Dear Sir,
+
+ I, Sukanya Kudi, am a sixth semester undergraduate student in India. I
+came to know about the Gnome Women/Outreach Program 2012 through a
+friend.Since my operating system is Linux Mint , I consider it to be a
+great opportunity to work for it and contribute towards it . The procedure
+given on the official site has left me confused a bit. I would like to know
+if i can apply for the internship now or is the deadline over .Also, please
+can you send the details to be sent if I can still apply for this
+internship.
+
+Hope to see your reply soon.
+
+Regards,
+Sukanya Kudi
+
+--047d7b10cb29c618ea04b9ff0ad8
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Dear Sir,<br><br>=A0I, Sukanya Kudi, am a sixth semester undergraduate stud=
+ent in India. I came to know about the Gnome Women/Outreach Program 2012 th=
+rough a friend.Since my operating system is Linux Mint , I consider it to b=
+e a great opportunity to work for it and contribute towards it . The proced=
+ure given on the official site has left me confused a bit. I would like to =
+know if i can apply for the internship now or is the deadline over .Also, p=
+lease can you send the details to be sent if I can still apply for this int=
+ernship.<br>
+<br>Hope to see your reply soon.<br><br>Regards,<br>Sukanya Kudi<br><br>
+
+--047d7b10cb29c618ea04b9ff0ad8--
+From meg387@gmail.com  Tue Feb 28 05:28:48 2012
+Return-Path: <meg387@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B9A6F75068C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Feb 2012 05:28:48 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.476
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.476 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DEAR_SOMETHING=1.973, DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Q5eNPZuvt1oM for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Feb 2012 05:28:47 +0000 (UTC)
+Received: from mail-lpp01m010-f46.google.com (mail-lpp01m010-f46.google.com
+	[209.85.215.46])
+	by menubar.gnome.org (Postfix) with ESMTP id 8229975064C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Feb 2012 05:28:37 +0000 (UTC)
+Received: by lahj13 with SMTP id j13so2552182lah.33
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Feb 2012 21:28:36 -0800 (PST)
+Received-SPF: pass (google.com: domain of meg387@gmail.com designates
+	10.152.102.145 as permitted sender) client-ip=10.152.102.145; 
+Authentication-Results: mr.google.com;
+	spf=pass (google.com: domain of meg387@gmail.com
+	designates 10.152.102.145 as permitted sender)
+	smtp.mail=meg387@gmail.com; dkim=pass header.i=meg387@gmail.com
+Received: from mr.google.com ([10.152.102.145])
+	by 10.152.102.145 with SMTP id fo17mr14264207lab.2.1330406916128
+	(num_hops = 1); Mon, 27 Feb 2012 21:28:36 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=91Mwh8KJM+q+1C816+fm5Ia16rvTFTpcbsHRcedFGzY=;
+	b=mNtjsr2nVNajLL9iGOaTm7pX6i7Z3DTNlrfMPAAlLtg55YJS25lOedUuONkGbV4qaz
+	xtfiO8eav7jRRtLiI7fsaHZd/m8bM16X4sHoUtGBVi+bo1DT3HfguaIYzPCkDqKKtmQW
+	oU9EaIv0uDCxM8b+U/mTBBF1sXnUmmE1STjrs=
+MIME-Version: 1.0
+Received: by 10.152.102.145 with SMTP id fo17mr11914094lab.2.1330406915983;
+	Mon, 27 Feb 2012 21:28:35 -0800 (PST)
+Received: by 10.112.129.38 with HTTP; Mon, 27 Feb 2012 21:28:35 -0800 (PST)
+In-Reply-To: <CAB1MJEg4cnHOGmpZ2ZSPRWSjMYodDBdw2Nnb6SSTaAT+re1ghw@mail.gmail.com>
+References: <CAB1MJEg4cnHOGmpZ2ZSPRWSjMYodDBdw2Nnb6SSTaAT+re1ghw@mail.gmail.com>
+Date: Mon, 27 Feb 2012 23:28:35 -0600
+Message-ID: <CAC4QDKij6u+uxkKNJDRDC8+jzU7Di-7M3eHVrGPi6nNeO4Pk0g@mail.gmail.com>
+From: meg ford <meg387@gmail.com>
+To: sukanya kudi <sukanya.nitk@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d04088c4fa2490004b9ff7f63
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Query regarding Gnome Women/Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 28 Feb 2012 05:28:49 -0000
+
+--f46d04088c4fa2490004b9ff7f63
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello Sukanya,
+
+The deadline is April 6th.
+
+ Here is a link to the page with information:
+https://live.gnome.org/GnomeWomen/OutreachProgram2012
+
+To apply you need to fill out the form on that page and also make a small
+contribution to the project you want to work on, like fixing a bug.
+
+You can also send questions to women-outreach@gnome.org.
+
+Good luck with your application! Sounds like you are a great candidate!
+
+Best wishes,
+Meg Ford
+
+On Mon, Feb 27, 2012 at 10:55 PM, sukanya kudi <sukanya.nitk@gmail.com>wrote:
+
+> Dear Sir,
+>
+>  I, Sukanya Kudi, am a sixth semester undergraduate student in India. I
+> came to know about the Gnome Women/Outreach Program 2012 through a
+> friend.Since my operating system is Linux Mint , I consider it to be a
+> great opportunity to work for it and contribute towards it . The procedure
+> given on the official site has left me confused a bit. I would like to know
+> if i can apply for the internship now or is the deadline over .Also, please
+> can you send the details to be sent if I can still apply for this
+> internship.
+>
+> Hope to see your reply soon.
+>
+> Regards,
+> Sukanya Kudi
+>
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--f46d04088c4fa2490004b9ff7f63
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello Sukanya,<br><br>The deadline is April 6th.<br><br>=A0Here is a link t=
+o the page with information: <a href=3D"https://live.gnome.org/GnomeWomen/O=
+utreachProgram2012">https://live.gnome.org/GnomeWomen/OutreachProgram2012</=
+a> <br>
+<br>To apply you need to fill out the form on that page and also make a sma=
+ll contribution to the project you want to work on, like fixing a bug.<br><=
+br>You can also send questions to <a href=3D"mailto:women-outreach@gnome.or=
+g">women-outreach@gnome.org</a>.<br>
+<br>Good luck with your application! Sounds like you are a great candidate!=
+<br><br>Best wishes,<br>Meg Ford<br><br><div class=3D"gmail_quote">On Mon, =
+Feb 27, 2012 at 10:55 PM, sukanya kudi <span dir=3D"ltr">&lt;<a href=3D"mai=
+lto:sukanya.nitk@gmail.com">sukanya.nitk@gmail.com</a>&gt;</span> wrote:<br=
+>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Dear Sir,<br><br>=A0I, Sukanya Kudi, am a si=
+xth semester undergraduate student in India. I came to know about the Gnome=
+ Women/Outreach Program 2012 through a friend.Since my operating system is =
+Linux Mint , I consider it to be a great opportunity to work for it and con=
+tribute towards it . The procedure given on the official site has left me c=
+onfused a bit. I would like to know if i can apply for the internship now o=
+r is the deadline over .Also, please can you send the details to be sent if=
+ I can still apply for this internship.<br>
+
+<br>Hope to see your reply soon.<br><br>Regards,<br>Sukanya Kudi<br><br>
+<br>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>=
+</blockquote></div><br>
+
+--f46d04088c4fa2490004b9ff7f63--
+From meg387@gmail.com  Tue Feb 28 05:49:41 2012
+Return-Path: <meg387@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EACCA750650
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Feb 2012 05:49:40 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.476
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.476 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DEAR_SOMETHING=1.973, DKIM_SIGNED=0.1,
+	DKIM_VALID=-0.1, DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xJ85U6OMHTTH for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Feb 2012 05:49:38 +0000 (UTC)
+Received: from mail-lpp01m010-f46.google.com (mail-lpp01m010-f46.google.com
+	[209.85.215.46])
+	by menubar.gnome.org (Postfix) with ESMTP id 2844D75064C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Feb 2012 05:49:29 +0000 (UTC)
+Received: by lahj13 with SMTP id j13so2570794lah.33
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Feb 2012 21:49:28 -0800 (PST)
+Received-SPF: pass (google.com: domain of meg387@gmail.com designates
+	10.112.87.234 as permitted sender) client-ip=10.112.87.234; 
+Authentication-Results: mr.google.com;
+	spf=pass (google.com: domain of meg387@gmail.com
+	designates 10.112.87.234 as permitted sender)
+	smtp.mail=meg387@gmail.com; dkim=pass header.i=meg387@gmail.com
+Received: from mr.google.com ([10.112.87.234])
+	by 10.112.87.234 with SMTP id bb10mr7053541lbb.33.1330408168021
+	(num_hops = 1); Mon, 27 Feb 2012 21:49:28 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=X1oHemT0OAAJq+YMJonHU8HFMuhpoLkSPwzmvXn9ZIo=;
+	b=uZVM3gfPeigsNwPIc7Zi5Lsc9QsEHwcBh3oyibgnXPmiMe7fQAiKPSk0umJ3abK+dh
+	3CNxHLPbtwq2AF+/aBFbaJn++lz8qYCLWdNgWUkeNwbKN6q5TQDEucEsZOIeHf1lc/8u
+	8AZxxjPg2F9Ahz/jTL/4kQh6Hft3p0hfKvmHQ=
+MIME-Version: 1.0
+Received: by 10.112.87.234 with SMTP id bb10mr5868994lbb.33.1330408167855;
+	Mon, 27 Feb 2012 21:49:27 -0800 (PST)
+Received: by 10.112.129.38 with HTTP; Mon, 27 Feb 2012 21:49:27 -0800 (PST)
+In-Reply-To: <CAC4QDKij6u+uxkKNJDRDC8+jzU7Di-7M3eHVrGPi6nNeO4Pk0g@mail.gmail.com>
+References: <CAB1MJEg4cnHOGmpZ2ZSPRWSjMYodDBdw2Nnb6SSTaAT+re1ghw@mail.gmail.com>
+	<CAC4QDKij6u+uxkKNJDRDC8+jzU7Di-7M3eHVrGPi6nNeO4Pk0g@mail.gmail.com>
+Date: Mon, 27 Feb 2012 23:49:27 -0600
+Message-ID: <CAC4QDKj4h0rCUnv2+X9KTozja6dGBchk0NWG10rjWEY4b=OP+A@mail.gmail.com>
+From: meg ford <meg387@gmail.com>
+To: sukanya kudi <sukanya.nitk@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d0401fced4056c904b9ffca42
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Query regarding Gnome Women/Outreach Program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 28 Feb 2012 05:49:41 -0000
+
+--f46d0401fced4056c904b9ffca42
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello Sukanya,
+
+Also, the best first step is to find a mentor. This page lists the
+mentors: https://live.gnome.org/GnomeLove/Mentors
+
+You can send an email to a mentor for the projects that you want to work
+on, and they will help you to find a bug and work on it. They will help
+when you have questions, and they are all really nice!
+
+Sorry I forgot to mention it before.
+
+:)
+
+Meg Ford
+
+On Mon, Feb 27, 2012 at 11:28 PM, meg ford <meg387@gmail.com> wrote:
+
+> Hello Sukanya,
+>
+> The deadline is April 6th.
+>
+>  Here is a link to the page with information:
+> https://live.gnome.org/GnomeWomen/OutreachProgram2012
+>
+> To apply you need to fill out the form on that page and also make a small
+> contribution to the project you want to work on, like fixing a bug.
+>
+> You can also send questions to women-outreach@gnome.org.
+>
+> Good luck with your application! Sounds like you are a great candidate!
+>
+> Best wishes,
+> Meg Ford
+>
+> On Mon, Feb 27, 2012 at 10:55 PM, sukanya kudi <sukanya.nitk@gmail.com>wrote:
+>
+>> Dear Sir,
+>>
+>>  I, Sukanya Kudi, am a sixth semester undergraduate student in India. I
+>> came to know about the Gnome Women/Outreach Program 2012 through a
+>> friend.Since my operating system is Linux Mint , I consider it to be a
+>> great opportunity to work for it and contribute towards it . The procedure
+>> given on the official site has left me confused a bit. I would like to know
+>> if i can apply for the internship now or is the deadline over .Also, please
+>> can you send the details to be sent if I can still apply for this
+>> internship.
+>>
+>> Hope to see your reply soon.
+>>
+>> Regards,
+>> Sukanya Kudi
+>>
+>>
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>>
+>
+>
+
+--f46d0401fced4056c904b9ffca42
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello Sukanya,<br><br>Also, the best first step is to find a mentor. This p=
+age lists the mentors:=A0<a href=3D"https://live.gnome.org/GnomeLove/Mentor=
+s"> https://live.gnome.org/GnomeLove/Mentors</a><br><br>You can send an ema=
+il to a mentor for the projects that you want to work on, and they will hel=
+p you to find a bug and work on it. They will help when you have questions,=
+ and they are all really nice!<br>
+<br>Sorry I forgot to mention it before.<br><br>:)<br><br>Meg Ford<br><br><=
+div class=3D"gmail_quote">On Mon, Feb 27, 2012 at 11:28 PM, meg ford <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:meg387@gmail.com">meg387@gmail.com</a>&gt=
+;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Hello Sukanya,<br><br>The deadline is April =
+6th.<br><br>=A0Here is a link to the page with information: <a href=3D"http=
+s://live.gnome.org/GnomeWomen/OutreachProgram2012" target=3D"_blank">https:=
+//live.gnome.org/GnomeWomen/OutreachProgram2012</a> <br>
+
+<br>To apply you need to fill out the form on that page and also make a sma=
+ll contribution to the project you want to work on, like fixing a bug.<br><=
+br>You can also send questions to <a href=3D"mailto:women-outreach@gnome.or=
+g" target=3D"_blank">women-outreach@gnome.org</a>.<br>
+
+<br>Good luck with your application! Sounds like you are a great candidate!=
+<br><br>Best wishes,<br>Meg Ford<br><br><div class=3D"gmail_quote"><div><di=
+v class=3D"h5">On Mon, Feb 27, 2012 at 10:55 PM, sukanya kudi <span dir=3D"=
+ltr">&lt;<a href=3D"mailto:sukanya.nitk@gmail.com" target=3D"_blank">sukany=
+a.nitk@gmail.com</a>&gt;</span> wrote:<br>
+
+</div></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bo=
+rder-left:1px #ccc solid;padding-left:1ex"><div><div class=3D"h5">Dear Sir,=
+<br><br>=A0I, Sukanya Kudi, am a sixth semester undergraduate student in In=
+dia. I came to know about the Gnome Women/Outreach Program 2012 through a f=
+riend.Since my operating system is Linux Mint , I consider it to be a great=
+ opportunity to work for it and contribute towards it . The procedure given=
+ on the official site has left me confused a bit. I would like to know if i=
+ can apply for the internship now or is the deadline over .Also, please can=
+ you send the details to be sent if I can still apply for this internship.<=
+br>
+
+
+<br>Hope to see your reply soon.<br><br>Regards,<br>Sukanya Kudi<br><br>
+<br></div></div>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org" target=3D"_blank">gnome-=
+women-list@mail.gnome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>=
+</blockquote></div><br>
+</blockquote></div><br>
+
+--f46d0401fced4056c904b9ffca42--
+From marinaz@redhat.com  Tue Feb 28 07:07:59 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7C99A7506BF
+	for <gnome-women-list@gnome.org>; Tue, 28 Feb 2012 07:07:44 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Ln3JUTP2nnF3 for <gnome-women-list@gnome.org>;
+	Tue, 28 Feb 2012 07:07:30 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id 08ADD7506BE
+	for <gnome-women-list@gnome.org>; Tue, 28 Feb 2012 07:07:24 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id q1S77Nme006320
+	for <gnome-women-list@gnome.org>; Tue, 28 Feb 2012 02:07:23 -0500
+Date: Tue, 28 Feb 2012 02:07:23 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <eb4b93b7-b2e6-4599-bfc1-79df7857bdc4@zmail12.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <fb73bb0e-d1b0-4f97-8c6b-8b137a455dcf@zmail12.collab.prod.int.phx2.redhat.com>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Originating-IP: [10.3.113.25]
+X-Mailer: Zimbra 7.1.2_GA_3268 (ZimbraWebClient - FF3.0 (Linux)/7.1.2_GA_3268)
+Subject: [gnome-women] Outreach Program for Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 28 Feb 2012 07:07:59 -0000
+
+Hi all!
+
+We have opened the application process for the new round of internships. Th=
+e dates for these internships are May 21 to August 20, 2012. These dates ma=
+tch the ones for the Google Summer of Code program, so I would like to enco=
+urage women who qualify for Google Summer of Code to apply for both program=
+s. Google Summer of Code requires applicants to be students applying for co=
+ding projects, while Outreach Program for Women internships are open to non=
+-students and non-coders as well.
+
+The application deadline is April 6, 2012. As part of the application proce=
+ss, we are asking women to take the time to learn about various GNOME proje=
+cts and make a small contribution to the one they are interested in. These =
+projects include ones in programming, graphic design, web development, docu=
+mentation, and marketing.
+
+All the program details are here:
+http://live.gnome.org/GnomeWomen/OutreachProgram2012
+
+Four creative interns from the previous rounds of the program =E2=80=93 Lia=
+nsu Yu, Christy Eller, Meg Ford, and Tamara Atanasoska =E2=80=93 made an aw=
+esome cartoon to better explain the program=E2=80=99s application process. =
+This cartoon is featured on the program page. A big thank you for their col=
+laborative work that spanned 90 e-mails over a course of a month!
+
+Please consider applying for an internship, signing up as a mentor, or help=
+ing us spread the word! Send the information about the GNOME Outreach Progr=
+am for Women and Google Summer of Code to the universities, FOSS groups, an=
+d technical women groups, post the flyers on the university campuses or han=
+d them out at conferences, encourage anyone who'd be a good candidate to ap=
+ply, or write an update about the program on Identi.ca, Twitter, Facebook o=
+r Google+.
+
+All the materials for helping us spread the word are here:
+http://live.gnome.org/GnomeWomen/OutreachProgram2012/SpreadTheWord
+
+Thank you!
+Marina

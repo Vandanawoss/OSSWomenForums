@@ -1,0 +1,200 @@
+From jo at sharrad.co.uk  Sat Jun  5 00:44:43 2004
+From: jo at sharrad.co.uk (Joanna Harris)
+Date: Sat Jun  5 00:37:53 2004
+Subject: [Kde-women] Welcome
+In-Reply-To: <20040528100030.22398.qmail@ktown.kde.org>
+Message-ID: <web-130041@sharrad.co.uk>
+
+Welcome, Shweety
+
+It is sometimes a bit too quiet on here, but hopefully 
+soon it will liven up.
+
+
+:)
+From eva.brucherseifer at basyskom.de  Sat Jun  5 19:21:12 2004
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Sun Jun  6 10:37:09 2004
+Subject: [Kde-women] Welcome
+In-Reply-To: <web-130041@sharrad.co.uk>
+References: <web-130041@sharrad.co.uk>
+Message-ID: <200406051921.13010.eva.brucherseifer@basyskom.de>
+
+On Saturday 05 June 2004 00:44, Joanna Harris wrote:
+> Welcome, Shweety
+>
+> It is sometimes a bit too quiet on here, but hopefully
+> soon it will liven up.
+
+full ack.
+
+BTW, is any of you planning to come to the KDE World Summit in August?
+=> http://conference2004.kde.org
+
+I think there also were some plans about a KDE Women meeting. Any news about 
+that?
+
+Cheers,
+eva
+
+>
+> :)
+>
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+-----------------------------------------
+basysKom
+Ingenieurb?ro Brucherseifer und Ackermann GbR
+IT System Kompetenz
+-----------------------------------------
+Dipl.-Ing. Eva Brucherseifer
+Karlstr. 45
+64283 Darmstadt
+Fon: 06151-3969961   Fax: 06151-3969736
+Mobil: 0170-5533642
+eva.brucherseifer@basyskom.de
+www.basyskom.de
+-----------------------------------------
+From jo at sharrad.co.uk  Sun Jun  6 21:51:58 2004
+From: jo at sharrad.co.uk (Joanna Harris)
+Date: Sun Jun  6 21:44:48 2004
+Subject: [Kde-women] Re: kde-women Digest, Vol 10, Issue 2
+In-Reply-To: <20040606100029.1161.qmail@ktown.kde.org>
+Message-ID: <web-130166@sharrad.co.uk>
+
+i'll be interested just have to convice the partner!!!
+
+Jo
+From eva at kde.org  Fri Jun 18 09:43:04 2004
+From: eva at kde.org (Eva Brucherseifer)
+Date: Fri Jun 18 09:43:08 2004
+Subject: [Kde-women] Linuxtag
+Message-ID: <200406180943.04746.eva@kde.org>
+
+Hi,
+
+will any of you be at Linuxtag in Karlsruhe next week?
+For those who don't know what I am talking about: http://www.linuxtag.de - 
+Europe's largest OpenSource event.
+
+Greetings,
+eva
+From esme at nocturnal.clara.co.uk  Sun Jun 27 11:00:44 2004
+From: esme at nocturnal.clara.co.uk (Esme)
+Date: Sun Jun 27 11:00:43 2004
+Subject: [Kde-women] Re: Welcome to the "kde-women" mailing list
+In-Reply-To: <mailman.20.1088326099.14165.kde-women@kde.org>
+References: <mailman.20.1088326099.14165.kde-women@kde.org>
+Message-ID: <200406271000.44941.esme@nocturnal.clara.co.uk>
+
+Hello!
+
+I've only recently started actually using Linux, although I've been keeping my 
+eye on it for a few years.  I've been using computers in one way or another 
+for 25 years now, in jobs (data entry, mainframe operations - currently back 
+to just data entry) and as a hobbyist (programming in BASIC for Sharp 
+handheld computers many many moons ago!).
+
+I was an enthusiastic Amiga user for many years, and resisted buying "PC" 
+hardware for quite a while, but with the demise of Commodore gave in to the 
+inevitable. I've never felt the urge to tinker as a hobbyist with Windows 
+(shudder), but now I've started using Linux (Mandrake 10) and learning how it 
+all works, and how to use the command line.. - all nicely echoing my happy 
+experiences with the Amiga - I'm getting enthused again!
+
+At the moment, whilst I'm still getting to grips with Linux, my main useful 
+skill would probably be in helping with documentation, like proofreading and 
+helping create beginners guides.  I would like to get back into coding, 
+though.  C and suchlike don;t look to be quitemy cup of tea, and BASIC seems 
+to be out of fashion these days. Any reccomends as to a currently useful 
+language of that kind of ease of use  would be much appreciated. 
+
+I'm 46 and live in the UK.
+
+Esme
+From henrigirard at yahoo.fr  Sun Jun 27 12:40:49 2004
+From: henrigirard at yahoo.fr (=?iso-8859-1?q?Girard=20Henri?=)
+Date: Sun Jun 27 12:40:55 2004
+Subject: [Kde-women] esme : try gambas linux basic in mdk 10
+Message-ID: <20040627104049.69780.qmail@web12009.mail.yahoo.com>
+
+Hi :)
+As i was reading your message I think gambas (vb like without the buggs... lol) could be one of your favorite GUI in future...
+gambas.sourceforge.net
+i am not an expert in developing but i am learning it in the pedagogical aspect !
+It's really like a game for those who like play with coding...
+Kind regards
+HG
+
+
+		
+---------------------------------
+Cr?ez gratuitement votre Yahoo! Mail avec 100 Mo de stockage !
+Cr?ez votre Yahoo! Mail
+
+Dialoguez en direct avec vos amis gr?ce ? Yahoo! Messenger !
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20040627/1699aa52/attachment.html
+From eva at kde.org  Sun Jun 27 17:22:22 2004
+From: eva at kde.org (Eva Brucherseifer)
+Date: Sun Jun 27 17:19:37 2004
+Subject: [Kde-women] Re: Welcome to the "kde-women" mailing list
+In-Reply-To: <200406271000.44941.esme@nocturnal.clara.co.uk>
+References: <mailman.20.1088326099.14165.kde-women@kde.org>
+	<200406271000.44941.esme@nocturnal.clara.co.uk>
+Message-ID: <200406271722.22667.eva@kde.org>
+
+Hi Esme,
+
+welcome to this list!
+
+On Sunday 27 June 2004 11:00, Esme wrote:
+> Hello!
+>
+> I've only recently started actually using Linux, although I've been keeping
+> my eye on it for a few years.  I've been using computers in one way or
+> another for 25 years now, in jobs (data entry, mainframe operations -
+> currently back to just data entry) and as a hobbyist (programming in BASIC
+> for Sharp handheld computers many many moons ago!).
+>
+> I was an enthusiastic Amiga user for many years, and resisted buying "PC"
+> hardware for quite a while, but with the demise of Commodore gave in to the
+> inevitable. I've never felt the urge to tinker as a hobbyist with Windows
+> (shudder), but now I've started using Linux (Mandrake 10) and learning how
+> it all works, and how to use the command line.. - all nicely echoing my
+> happy experiences with the Amiga - I'm getting enthused again!
+>
+> At the moment, whilst I'm still getting to grips with Linux, my main useful
+> skill would probably be in helping with documentation, like proofreading
+> and helping create beginners guides.  I would like to get back into coding,
+> though.  C and suchlike don;t look to be quitemy cup of tea, and BASIC
+> seems to be out of fashion these days. Any reccomends as to a currently
+> useful language of that kind of ease of use  would be much appreciated.
+
+Well, QT and KDE are coded using C++ using object-oriented techniques. 
+Both toolkits have bindings which enable you to code GUI apps with the same 
+look & feel but using a different language. Please have at this page:
+
+http://developer.kde.org/language-bindings/
+
+The most popular ones are the python bindings actually. 
+
+Please keep us updated on your progress - I am very interested on feedback on 
+using the bindings :-)
+
+Greetings,
+eva
+
+>
+> I'm 46 and live in the UK.
+>
+> Esme
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women

@@ -1,0 +1,45 @@
+From kde-women@mail.kde.org  Wed Jan 29 14:30:51 2003
+From: kde-women@mail.kde.org (volkan ipek)
+Date: Wed, 29 Jan 2003 06:30:51 -0800 (PST)
+Subject: [Kde-women]New Class Generation Problems
+Message-ID: <20030129143051.11161.qmail@web21411.mail.yahoo.com>
+
+Hi Madam!
+
+    I have get the tutorial, Kdevelopment for
+beginners that is written by Ms Anna Marie Mahfouof
+and I downloaded the Sigcreate project. It works great
+without any problem. On the other hand I have
+problems:)
+    
+    The problem is in making the header fýle of the
+project that should be inherited by another header
+file, that is a user interface (.ui) file. I have Red
+Hat 8.0, Kde 2.0, Qt .2.3.1.
+     I open a new project. when i build it, there is
+no problem, I can see the dialog. Then by using Qt, I
+design a user interface file. (*dlg.ui). It is added
+to the project.Up to here everything is under control.
+The problem arises here, I cannot make a header file
+(*.h) of the project whose base class is (*Dlg.h). the
+KDevelopment says that 
+"" Sorry, but KDevelop is not able to add classes to
+existing header and implementation files."" 
+    I cannot able to make the new class. So I cannot
+implement any user interface. I tried to use the
+directions in the tutorial, but no chance. They are
+specific decleration and thay are special to
+sigcreatedlg.ui.
+    
+    Thank you for your consideration...
+                                            volkan
+ipek 
+
+
+
+
+__________________________________________________
+Do you Yahoo!?
+Yahoo! Mail Plus - Powerful. Affordable. Sign up now.
+http://mailplus.yahoo.com
+

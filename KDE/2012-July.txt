@@ -1,0 +1,959 @@
+From smayres at gmail.com  Tue Jul  3 12:23:50 2012
+From: smayres at gmail.com (Camila Ayres)
+Date: Tue, 3 Jul 2012 14:23:50 +0200
+Subject: [Kde-women] We are all awesome
+Message-ID: <CABe7M6t5q0f2PC_DGCxzbrHVTLaQ6TPuM9-EAF6OFZdXQgJMvQ@mail.gmail.com>
+
+Just found this website: http://weareallaweso.me/
+Another interesting idea to get more women to talk :)
+
+"Are you a woman who wants more female speakers at developer
+conferences? I have a quick fix for you: become one.
+
+Think of the other female developers you know. Do you expect those
+women to step forward as speakers and not yourself? The only person
+you control is you, and so I?m asking you: become a speaker."
+
+IMHO, there is a bunch of women around the world doing awesome work in
+free sofware, programming...etc, we just don't show too much what we
+are doing. I think.
+While men easily get proud of themselves, even with their fart, we
+need to do so much more to get there. (I hope you got the point hehe)
+
+Cheers,
+Camila Ayres
+
+From rauch at kde.org  Thu Jul 19 11:01:28 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Thu, 19 Jul 2012 13:01:28 +0200
+Subject: [Kde-women] Women's outreach BoF at Akademy 2012
+Message-ID: <CAA0Jy_wHXTUDroROhofmd2XMGKNmhE4ajmBwp39f7yczo9ZV5g@mail.gmail.com>
+
+Hi all,
+
+Here are my notes from the women's outreach BoF at Akademy 2012 -
+thanks to everyone who participated! Please add anything that I forgot
+to mention and give feedback if you have additional ideas or comments.
+Do we want to publish something on women.kde.org? Or does someone feel
+like blogging about this? Do we have a wiki to collect more ideas?
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* We were approx. 10-12 people, mostly women, 2-3 men were also present.
+*  Quick introduction round
+* The group agreed that KDE is already quite diverse and doing well at
+being welcoming to women and men alike. The question is: how do we
+make this more visible to people outside of the community so that we
+get even more women involved?
+* Carl mentioned the outreach program of the University of Bellingham,
+that got a big grant from the Association of Women in Computing [1].
+Could we work with the uni or this association?
+* In order to get more people, especially women, involved in KDE and
+Free Software in general, you need to show role models, and lower the
+barrier to get involved
+* Lydia mentioned the IRC tutorials that she and others organised for
+Ada Lovelace-Day 2011 [2].
+* We discussed if IRC tutorials are helpful/successful - agreement
+that they are good but only attract women that are already familiar
+with IRC and not necessarily newbies
+*  We briefly touched on the question if there is a difference in why
+women get involved in FLOSS and why men get involved. The women
+present shared their stories and motivations and the conclusion was
+that there are probably no differences. Reasons for joining that were
+mentioned:
+  ** good company / "my people"
+  ** career possibilities
+  ** learning new, valuable things
+  ** doing something valuable for society
+  ** KDE as a whole more welcoming than other FLOSS projects
+  ** KDE is such a large, mature project that everyone can find their niche
+  ** KDE is well documented so it is easy to find information on how
+to get involved
+  ** if you commit a change or write an article, your work is visible
+to you and others
+* A question from Clemens showed that there are women in all kinds of
+roles in KDE but just two female maintainers
+* Valorie made the point that KDE is welcoming as such, but not
+welcoming to women in particular. There seems to be a lacking
+awareness that there are not enough women involved.
+* Runa commented saying that a special women's outreach program might
+give men the impression they are not being valued or that they might
+get censored
+* A short discussion about which message we want to send with women's
+outreach activities: we want this to be a positive message, showing
+that we would like even more women to get involved. We do not want to
+focus on problems.
+* Ada Lovelace Day 2012 is on October 16th [3]
+* Suggestions from a brainstorming on what actions we could take:
+  ** Organise IRC or Google hangout tutorials again for Ada Lovelace Day
+  ** Organise an in person coding workshop similar to Railsgirls workshops [4]
+  ** blog posts/ "Behind KDE " interviews with women involved with KDE
+(not necessarily as a "Women in KDE series" but just to show that
+there are women involved, too).
+  ** create a new "Women in KDE" video, see [5]
+  ** coordinate with http://adainitiative.org/
+  ** pre-Akademy (Friday afternoon) Women's get-together (bring male friends?)
+  ** Women's track/ conference day during Akademy or some other
+conference. Example was: the women's miniconf during linuxconf.au [6]
+  ** Get inspiration from http://openhatch.org/
+  ** Women mentoring program, not paid, but organise a women in KDE
+sprint or a showcase of the contributions at Akademy and
+invite/sponsor those who were successful (similar to GSOC students)
+  ** share ideas and experiences with the women from the GNOME women's
+outreach program
+  ** use the "Team Health Check" tool created by CWG to see how well
+your team does in terms of diversity
+  ** Talk to Linuxchix or Ubuntu Women
+  ** make use of women.kde.org
+  ** get guys involved: it is great if guys also speak up on this
+topic and show their support
+
+Now it's up to us to take the next steps :)-
+
+Claudia
+
+
+[1] http://www.awc-hq.org/home.html
+[2] http://linuxgrandma.blogspot.de/2011/10/teaching-next-adas-join-kde-for-ada.html
+[3] http://findingada.com/
+[4] http://railsgirls.com/
+[5] http://dot.kde.org/2010/03/24/kde-celebrates-ada-lovelace-day
+[6] http://haecksen.net/haecksen-schedule-2012
+
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht T?bingen
+(VR1301). Its president is Cornelius Schumacher. For more information
+please see http://ev.kde.org, and http://kde.org/
+
+From groot at kde.org  Thu Jul 19 23:38:31 2012
+From: groot at kde.org (Adriaan de Groot)
+Date: Fri, 20 Jul 2012 01:38:31 +0200
+Subject: [Kde-women] Women's outreach BoF at Akademy 2012
+In-Reply-To: <CAA0Jy_wHXTUDroROhofmd2XMGKNmhE4ajmBwp39f7yczo9ZV5g@mail.gmail.com>
+References: <CAA0Jy_wHXTUDroROhofmd2XMGKNmhE4ajmBwp39f7yczo9ZV5g@mail.gmail.com>
+Message-ID: <6389297.QgNxDJrbry@sausage>
+
+On Thursday, July 19, 2012 01:01:28 PM Claudia Rauch wrote:
+>   ** Talk to Linuxchix or Ubuntu Women
+
+See if there's a girl geek dinner organization around as well (in lots of 
+bigger cities, but not everywhere).
+
+>   ** make use of women.kde.org
+
+
+From smayres at gmail.com  Mon Jul 23 10:11:32 2012
+From: smayres at gmail.com (Camila Ayres)
+Date: Mon, 23 Jul 2012 12:11:32 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+Message-ID: <2469751.A3Qf61LWiR@berlijn>
+
+
+Hi,
+
+Ada Lovelace day is gonna be at October 16th this year, so might be a good 
+idea to start to prepare ourselves for it.
+
+- We need ideas for a shortish and easy tutorial that ends up in something 
+working and running, or for example, a piece of text translated somewhere 
+(@Aracele!!).
+- Have in mind that people have to know in advance what they need to have 
+installed, prepared in their computer to follow the tutorial. 
+- Also, one day in advance, have a help session for people to get their system 
+set up.
+- What do you prefer: do it through IRC or Google Hangout?
+- Depending on how much people will be able to do the tutorial, we could 
+spread out over 1 week.
+
+Lydia and I made a list with some names that we thought could be willing to do 
+one tutorial - that's why you are receiving this e-mail :) If you know someone 
+else that could be included and if you have any differents ideas for Ada 
+Lovelace Day, please let us know. 
+
+Let's help other to get involved in KDE!
+
+Cheers,
+----
+Camila Ayres
+camilasan.com
+
+From cbo at boemann.dk  Mon Jul 23 11:01:25 2012
+From: cbo at boemann.dk (C. Boemann)
+Date: Mon, 23 Jul 2012 13:01:25 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <2469751.A3Qf61LWiR@berlijn>
+References: <2469751.A3Qf61LWiR@berlijn>
+Message-ID: <201207231301.25382.cbo@boemann.dk>
+
+On Monday 23 July 2012 12:11:32 Camila Ayres wrote:
+> Hi,
+> 
+> Ada Lovelace day is gonna be at October 16th this year, so might be a good
+> idea to start to prepare ourselves for it.
+> 
+> - We need ideas for a shortish and easy tutorial that ends up in something
+> working and running, or for example, a piece of text translated somewhere
+> (@Aracele!!).
+> - Have in mind that people have to know in advance what they need to have
+> installed, prepared in their computer to follow the tutorial.
+> - Also, one day in advance, have a help session for people to get their
+> system set up.
+> - What do you prefer: do it through IRC or Google Hangout?
+> - Depending on how much people will be able to do the tutorial, we could
+> spread out over 1 week.
+> 
+> Lydia and I made a list with some names that we thought could be willing to
+> do one tutorial - that's why you are receiving this e-mail :) If you know
+> someone else that could be included and if you have any differents ideas
+> for Ada Lovelace Day, please let us know.
+> 
+> Let's help other to get involved in KDE!
+> 
+> Cheers,
+> ----
+> Camila Ayres
+> camilasan.com
+Hi. Good thinking.
+
+I'd just make two additional points:
+
+1) irc is preferred especially if we can find a web link somewhere so they 
+don't _have_ to install an irc client, but can just use a browser.
+
+2) Having people accomplish a real task, which the community appreciate, 
+makes for a better experience, and makes it more likely they will actually 
+stay. So it would probably be a good idea to start thinking about real tasks 
+that attendants can accomplish. 
+
+And bonus points if we can make this a group task where all attendants (incl 
+us) already form a sub-community and ending the day/week with some real 
+product. This way we also show this important and cool side of foss/kde. It 
+will require some more pre-planning from our side, but I think it will be 
+worth it.
+
+Camilla Boemann
+
+From cbo at boemann.dk  Mon Jul 23 12:36:27 2012
+From: cbo at boemann.dk (C. Boemann)
+Date: Mon, 23 Jul 2012 14:36:27 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <201207231301.25382.cbo@boemann.dk>
+References: <2469751.A3Qf61LWiR@berlijn> <201207231301.25382.cbo@boemann.dk>
+Message-ID: <201207231436.27868.cbo@boemann.dk>
+
+On Monday 23 July 2012 13:01:25 C. Boemann wrote:
+> On Monday 23 July 2012 12:11:32 Camila Ayres wrote:
+> > Hi,
+> > 
+> > Ada Lovelace day is gonna be at October 16th this year, so might be a
+> > good idea to start to prepare ourselves for it.
+> > 
+> > - We need ideas for a shortish and easy tutorial that ends up in
+> > something working and running, or for example, a piece of text
+> > translated somewhere (@Aracele!!).
+> > - Have in mind that people have to know in advance what they need to 
+have
+> > installed, prepared in their computer to follow the tutorial.
+> > - Also, one day in advance, have a help session for people to get their
+> > system set up.
+> > - What do you prefer: do it through IRC or Google Hangout?
+> > - Depending on how much people will be able to do the tutorial, we could
+> > spread out over 1 week.
+> > 
+> > Lydia and I made a list with some names that we thought could be willing
+> > to do one tutorial - that's why you are receiving this e-mail :) If you
+> > know someone else that could be included and if you have any differents
+> > ideas for Ada Lovelace Day, please let us know.
+> > 
+> > Let's help other to get involved in KDE!
+> > 
+> > Cheers,
+> > ----
+> > Camila Ayres
+> > camilasan.com
+> 
+> Hi. Good thinking.
+> 
+> I'd just make two additional points:
+> 
+> 1) irc is preferred especially if we can find a web link somewhere so they
+> don't _have_ to install an irc client, but can just use a browser.
+To answer my own question:
+
+http://webchat.freenode.net/?channels=kde-women
+
+would make it easy for anyone to join irc
+
+
+> 2) Having people accomplish a real task, which the community appreciate,
+> makes for a better experience, and makes it more likely they will actually
+> stay. So it would probably be a good idea to start thinking about real
+> tasks that attendants can accomplish.
+> 
+> And bonus points if we can make this a group task where all attendants
+> (incl us) already form a sub-community and ending the day/week with some
+> real product. This way we also show this important and cool side of
+> foss/kde. It will require some more pre-planning from our side, but I
+> think it will be worth it.
+> 
+> Camilla Boemann
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+From rybczynska at gmail.com  Mon Jul 23 19:38:52 2012
+From: rybczynska at gmail.com (Marta Rybczynska)
+Date: Mon, 23 Jul 2012 21:38:52 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <201207231436.27868.cbo@boemann.dk>
+References: <2469751.A3Qf61LWiR@berlijn> <201207231301.25382.cbo@boemann.dk>
+ <201207231436.27868.cbo@boemann.dk>
+Message-ID: <CAApg2=Rbs+OMcmda1Ov4s2cXBSL=drFkM_dV4mgXDhuAdVXA_A@mail.gmail.com>
+
+I'm wondering on the type of tutorial to do: code, translation, QA? I would
+realy like code most, I have learned about translation & QA as a more
+"female" subjects. What do you think?
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20120723/65fcc4c5/attachment.html>
+
+From lydia at kde.org  Thu Jul 26 13:24:02 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Thu, 26 Jul 2012 15:24:02 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAApg2=Rbs+OMcmda1Ov4s2cXBSL=drFkM_dV4mgXDhuAdVXA_A@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn> <201207231301.25382.cbo@boemann.dk>
+ <201207231436.27868.cbo@boemann.dk>
+ <CAApg2=Rbs+OMcmda1Ov4s2cXBSL=drFkM_dV4mgXDhuAdVXA_A@mail.gmail.com>
+Message-ID: <CAFkLwpVNayDki4_ATy3c8HHj7==cR504StwXSQ4Pfh1KQ1sQQg@mail.gmail.com>
+
+On Mon, Jul 23, 2012 at 9:38 PM, Marta Rybczynska <rybczynska at gmail.com> wrote:
+> I'm wondering on the type of tutorial to do: code, translation, QA? I would
+> realy like code most, I have learned about translation & QA as a more
+> "female" subjects. What do you think?
+
+If you want to do a code-related tutorial that has something to do
+with KDE that'd be awesome too. I was thinking maybe something about
+the commit digest from you. Maybe you want to do both?
+
+What about the rest? Do you have any ideas for your tutorials?
+
+Another thing: I think we should make this a "women and their friends
+event" again like last year - meaning we'll focus on making this a
+great event for women to get into KDE but men are welcome too as long
+as they are respectful of the event and it's participants.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From myriam at kde.org  Thu Jul 26 15:23:57 2012
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Thu, 26 Jul 2012 17:23:57 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <2469751.A3Qf61LWiR@berlijn>
+References: <2469751.A3Qf61LWiR@berlijn>
+Message-ID: <CAGzoOB8c3tLca6rryv9NbCXruaEHzBCouFf=W9znApNu7wXyTA@mail.gmail.com>
+
+Hi Camila,
+
+On Mon, Jul 23, 2012 at 12:11 PM, Camila Ayres <smayres at gmail.com> wrote:
+>
+> Hi,
+>
+> Ada Lovelace day is gonna be at October 16th this year, so might be a good
+> idea to start to prepare ourselves for it.
+>
+> - We need ideas for a shortish and easy tutorial that ends up in something
+> working and running, or for example, a piece of text translated somewhere
+> (@Aracele!!).
+> - Have in mind that people have to know in advance what they need to have
+> installed, prepared in their computer to follow the tutorial.
+> - Also, one day in advance, have a help session for people to get their system
+> set up.
+> - What do you prefer: do it through IRC or Google Hangout?
+> - Depending on how much people will be able to do the tutorial, we could
+> spread out over 1 week.
+>
+> Lydia and I made a list with some names that we thought could be willing to do
+> one tutorial - that's why you are receiving this e-mail :) If you know someone
+> else that could be included and if you have any differents ideas for Ada
+> Lovelace Day, please let us know.
+>
+> Let's help other to get involved in KDE!
+
+Cool, I would love to participate again, last year was great fun. I
+have in mind something similar to last year, an IRC course. Sadly the
+Google+ hangout is not going to work fin if there are more than a few
+participants, so I still prefer IRC :)
+
+Regards, Myriam
+
+-- 
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+
+From lydia at kde.org  Thu Jul 26 15:40:44 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Thu, 26 Jul 2012 17:40:44 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAGzoOB8c3tLca6rryv9NbCXruaEHzBCouFf=W9znApNu7wXyTA@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <CAGzoOB8c3tLca6rryv9NbCXruaEHzBCouFf=W9znApNu7wXyTA@mail.gmail.com>
+Message-ID: <CAFkLwpUaTxmC8V97=535Bd1YKv_7AMJoU7ehyb-zK4HMGUbinw@mail.gmail.com>
+
+On Thu, Jul 26, 2012 at 5:23 PM, Myriam Schweingruber <myriam at kde.org> wrote:
+> Cool, I would love to participate again, last year was great fun. I
+> have in mind something similar to last year, an IRC course. Sadly the
+> Google+ hangout is not going to work fin if there are more than a few
+> participants, so I still prefer IRC :)
+
+Great.
+FYI: This time we have Hangout on Air afaiu. This should work a lot
+better than last year and more like a broad-cast for most people. You
+can of course also do a IRC tutorial. Up to you really.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From annemarie.mahfouf at free.fr  Thu Jul 26 16:20:52 2012
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Thu, 26 Jul 2012 18:20:52 +0200 (CEST)
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <2469751.A3Qf61LWiR@berlijn>
+Message-ID: <1264784973.78270674.1343319652896.JavaMail.root@spooler3-g27.priv.proxad.net>
+
+Hi,
+
+I'll be happy to participate/help someone at whatever is decided. Currently on vacation until end of August (kids have awfully long holidays!)
+
+Marta I watched the video of your talk at Akademy, awesome and enjoyable and very useful!
+
+Myriam what happened to you? Reading between lines I understood you broke your legs? If it's true I wish you the best of recovery!
+
+Best regards to all,
+
+Anne-Marie
+
+----- Mail original -----
+> De: "Camila Ayres" <smayres at gmail.com>
+> ?: kde-women at kde.org, "aakriti a gupta" <aakriti.a.gupta at gmail.com>, "shreya pandit25" <shreya.pandit25 at gmail.com>,
+> annma at kde.org, ksinny at gmail.com, cbo at boemann.dk, marta at rybczynska.net, drf at kde.org, hein at kde.org, myriam at kde.org,
+> chani at kde.org, aracele at kde.org
+> Envoy?: Lundi 23 Juillet 2012 12:11:32
+> Objet: Ada Lovelace Day 2012
+> 
+> 
+> Hi,
+> 
+> Ada Lovelace day is gonna be at October 16th this year, so might be a
+> good
+> idea to start to prepare ourselves for it.
+> 
+> - We need ideas for a shortish and easy tutorial that ends up in
+> something
+> working and running, or for example, a piece of text translated
+> somewhere
+> (@Aracele!!).
+> - Have in mind that people have to know in advance what they need to
+> have
+> installed, prepared in their computer to follow the tutorial.
+> - Also, one day in advance, have a help session for people to get
+> their system
+> set up.
+> - What do you prefer: do it through IRC or Google Hangout?
+> - Depending on how much people will be able to do the tutorial, we
+> could
+> spread out over 1 week.
+> 
+> Lydia and I made a list with some names that we thought could be
+> willing to do
+> one tutorial - that's why you are receiving this e-mail :) If you
+> know someone
+> else that could be included and if you have any differents ideas for
+> Ada
+> Lovelace Day, please let us know.
+> 
+> Let's help other to get involved in KDE!
+> 
+> Cheers,
+> ----
+> Camila Ayres
+> camilasan.com
+> 
+
+From runa.misc at gmail.com  Fri Jul 27 05:08:05 2012
+From: runa.misc at gmail.com (Runa Bhattacharjee)
+Date: Fri, 27 Jul 2012 10:38:05 +0530
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAFkLwpVNayDki4_ATy3c8HHj7==cR504StwXSQ4Pfh1KQ1sQQg@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn> <201207231301.25382.cbo@boemann.dk>
+ <201207231436.27868.cbo@boemann.dk>
+ <CAApg2=Rbs+OMcmda1Ov4s2cXBSL=drFkM_dV4mgXDhuAdVXA_A@mail.gmail.com>
+ <CAFkLwpVNayDki4_ATy3c8HHj7==cR504StwXSQ4Pfh1KQ1sQQg@mail.gmail.com>
+Message-ID: <50122235.4040305@gmail.com>
+
+On ??????????? 26 ????? 2012 06:54 
+, Lydia Pintscher wrote:
+
+> What about the rest? Do you have any ideas for your tutorials?
+>
+
+I could perhaps chip in with a small tutorial on grooming translation tasks for
+a professional result, maybe as an extension to my open-advice article. Does
+that sound sensible?
+
+cheers
+Runa
+
+-- 
+blog: http://arrbee.wordpress.com
+irc: arrbee or runa_b on Freenode
+http://fedoraproject.org/wiki/User:Runab
+
+From lydia at kde.org  Fri Jul 27 06:41:53 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Fri, 27 Jul 2012 08:41:53 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <50122235.4040305@gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn> <201207231301.25382.cbo@boemann.dk>
+ <201207231436.27868.cbo@boemann.dk>
+ <CAApg2=Rbs+OMcmda1Ov4s2cXBSL=drFkM_dV4mgXDhuAdVXA_A@mail.gmail.com>
+ <CAFkLwpVNayDki4_ATy3c8HHj7==cR504StwXSQ4Pfh1KQ1sQQg@mail.gmail.com>
+ <50122235.4040305@gmail.com>
+Message-ID: <CAFkLwpWAyDCMtmNL9tcV0X6-KEeQ3XUPk5t+8fvFfVQY5TBXdw@mail.gmail.com>
+
+On Fri, Jul 27, 2012 at 7:08 AM, Runa Bhattacharjee <runa.misc at gmail.com> wrote:
+> I could perhaps chip in with a small tutorial on grooming translation tasks
+> for
+> a professional result, maybe as an extension to my open-advice article. Does
+> that sound sensible?
+
+Yes totally!
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From myriam at kde.org  Fri Jul 27 16:37:16 2012
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Fri, 27 Jul 2012 18:37:16 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAFkLwpUaTxmC8V97=535Bd1YKv_7AMJoU7ehyb-zK4HMGUbinw@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <CAGzoOB8c3tLca6rryv9NbCXruaEHzBCouFf=W9znApNu7wXyTA@mail.gmail.com>
+ <CAFkLwpUaTxmC8V97=535Bd1YKv_7AMJoU7ehyb-zK4HMGUbinw@mail.gmail.com>
+Message-ID: <CAGzoOB_ZcYHyN_xXUTepEogeJMtpUZD0M=ohX2AgYtoDFir7Hw@mail.gmail.com>
+
+On Thu, Jul 26, 2012 at 5:40 PM, Lydia Pintscher <lydia at kde.org> wrote:
+> On Thu, Jul 26, 2012 at 5:23 PM, Myriam Schweingruber <myriam at kde.org> wrote:
+>> Cool, I would love to participate again, last year was great fun. I
+>> have in mind something similar to last year, an IRC course. Sadly the
+>> Google+ hangout is not going to work fin if there are more than a few
+>> participants, so I still prefer IRC :)
+>
+> Great.
+> FYI: This time we have Hangout on Air afaiu. This should work a lot
+> better than last year and more like a broad-cast for most people. You
+> can of course also do a IRC tutorial. Up to you really.
+
+Well, if it is really better than last year we can go for it, no problem for me.
+
+Regards, Myriam
+-- 
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+
+From myriam at kde.org  Fri Jul 27 17:00:29 2012
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Fri, 27 Jul 2012 19:00:29 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <1264784973.78270674.1343319652896.JavaMail.root@spooler3-g27.priv.proxad.net>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <1264784973.78270674.1343319652896.JavaMail.root@spooler3-g27.priv.proxad.net>
+Message-ID: <CAGzoOB_0uN7S1z5=nAYsNCUrUt9hgs9vvKOGuEqAhy2MExukvw@mail.gmail.com>
+
+Hi Anne-Marie,
+
+On Thu, Jul 26, 2012 at 6:20 PM, Anne-Marie Mahfouf
+<annemarie.mahfouf at free.fr> wrote:
+> Hi,
+>
+> I'll be happy to participate/help someone at whatever is decided. Currently on vacation until end of August (kids have awfully long holidays!)
+>
+> Marta I watched the video of your talk at Akademy, awesome and enjoyable and very useful!
+
+I watched it life, it was really an outstanding talk
+
+> Myriam what happened to you? Reading between lines I understood you broke your legs? If it's true I wish you the best of recovery!
+
+Yes, both at the same time, luckily after we held our BoF for the
+Quality team, but I am already half time into the bone mending, so it
+is coming together slowly.
+
+Thanks for caring :)
+
+Regards, Myriam
+
+-- 
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+
+From rybczynska at gmail.com  Sat Jul 28 18:46:59 2012
+From: rybczynska at gmail.com (Marta Rybczynska)
+Date: Sat, 28 Jul 2012 20:46:59 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAFkLwpVNayDki4_ATy3c8HHj7==cR504StwXSQ4Pfh1KQ1sQQg@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn> <201207231301.25382.cbo@boemann.dk>
+ <201207231436.27868.cbo@boemann.dk>
+ <CAApg2=Rbs+OMcmda1Ov4s2cXBSL=drFkM_dV4mgXDhuAdVXA_A@mail.gmail.com>
+ <CAFkLwpVNayDki4_ATy3c8HHj7==cR504StwXSQ4Pfh1KQ1sQQg@mail.gmail.com>
+Message-ID: <CAApg2=Q=+oNcPMoiGGP6gOUvsU5MD=jYUJ4DC6i4PoHRttf4og@mail.gmail.com>
+
+On Thu, Jul 26, 2012 at 3:24 PM, Lydia Pintscher <lydia at kde.org> wrote:
+
+> On Mon, Jul 23, 2012 at 9:38 PM, Marta Rybczynska <rybczynska at gmail.com>
+> wrote:
+> > I'm wondering on the type of tutorial to do: code, translation, QA? I
+> would
+> > realy like code most, I have learned about translation & QA as a more
+> > "female" subjects. What do you think?
+>
+> If you want to do a code-related tutorial that has something to do
+> with KDE that'd be awesome too. I was thinking maybe something about
+> the commit digest from you. Maybe you want to do both?
+>
+
+I think I was mistaken by thinking that we're going for one tutorial. If
+there are
+more, there are more options :)
+However, I'm offline around Oct 16. I can record something,
+test/review/help in
+another way, but won't be there live.
+
+Cheers,
+Marta
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20120728/dea2da35/attachment.html>
+
+From rybczynska at gmail.com  Sat Jul 28 18:51:10 2012
+From: rybczynska at gmail.com (Marta Rybczynska)
+Date: Sat, 28 Jul 2012 20:51:10 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAGzoOB_0uN7S1z5=nAYsNCUrUt9hgs9vvKOGuEqAhy2MExukvw@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <1264784973.78270674.1343319652896.JavaMail.root@spooler3-g27.priv.proxad.net>
+ <CAGzoOB_0uN7S1z5=nAYsNCUrUt9hgs9vvKOGuEqAhy2MExukvw@mail.gmail.com>
+Message-ID: <CAApg2=Td12VQ+uVv=dVX4P0zOCHUwd-p2F3EeOW6kmAkpuxn8w@mail.gmail.com>
+
+On Fri, Jul 27, 2012 at 7:00 PM, Myriam Schweingruber <myriam at kde.org>wrote:
+
+> Hi Anne-Marie,
+>
+> On Thu, Jul 26, 2012 at 6:20 PM, Anne-Marie Mahfouf
+> <annemarie.mahfouf at free.fr> wrote:
+> > Hi,
+> >
+> > I'll be happy to participate/help someone at whatever is decided.
+> Currently on vacation until end of August (kids have awfully long holidays!)
+> >
+> > Marta I watched the video of your talk at Akademy, awesome and enjoyable
+> and very useful!
+>
+> I watched it life, it was really an outstanding talk
+>
+
+Thx
+Marta
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20120728/cdc82aec/attachment.html>
+
+From aracele at kde.org  Sat Jul 28 19:21:24 2012
+From: aracele at kde.org (Aracele Torres)
+Date: Sat, 28 Jul 2012 16:21:24 -0300
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAApg2=Td12VQ+uVv=dVX4P0zOCHUwd-p2F3EeOW6kmAkpuxn8w@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <1264784973.78270674.1343319652896.JavaMail.root@spooler3-g27.priv.proxad.net>
+ <CAGzoOB_0uN7S1z5=nAYsNCUrUt9hgs9vvKOGuEqAhy2MExukvw@mail.gmail.com>
+ <CAApg2=Td12VQ+uVv=dVX4P0zOCHUwd-p2F3EeOW6kmAkpuxn8w@mail.gmail.com>
+Message-ID: <CAKQ=CTruroBtca79un0oROmf+gVx5p6GgwGyLodS7N5WBqeEFw@mail.gmail.com>
+
+Hi everybody!
+
+Good idea Camila!
+I can do a tutorial about translation or about how non-programmers can to
+collaborate with KDE. ;-)
+I suggest that we make a frame of possible activities so we can have a
+preview of the event.
+
+Cheers!
+
+-- 
+Aracele Torres
+http://cibermundi.wordpress.com
+http://about.me/araceletorres
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20120728/2e3f23f1/attachment.html>
+
+From smayres at gmail.com  Sun Jul 29 14:11:13 2012
+From: smayres at gmail.com (Camila Ayres)
+Date: Sun, 29 Jul 2012 16:11:13 +0200
+Subject: [Kde-women] Geek Girl Meetup in Berlin
+Message-ID: <CABe7M6utkVD=ZN0_51K3sbi5tr0B9-pu+MZWu1yg22zQAZJYTg@mail.gmail.com>
+
+Geek Girl Meetup:
+http://geekgirlmeetup.de/
+
+As far as I understood, still there is space for talks:
+http://geekgirlmeetup.de/2012/07/29/building-a-programme/
+
+I believe that would be interesting.
+
+Cheers,
+Camila
+
+From lydia at kde.org  Sun Jul 29 14:52:14 2012
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sun, 29 Jul 2012 16:52:14 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAKQ=CTruroBtca79un0oROmf+gVx5p6GgwGyLodS7N5WBqeEFw@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <1264784973.78270674.1343319652896.JavaMail.root@spooler3-g27.priv.proxad.net>
+ <CAGzoOB_0uN7S1z5=nAYsNCUrUt9hgs9vvKOGuEqAhy2MExukvw@mail.gmail.com>
+ <CAApg2=Td12VQ+uVv=dVX4P0zOCHUwd-p2F3EeOW6kmAkpuxn8w@mail.gmail.com>
+ <CAKQ=CTruroBtca79un0oROmf+gVx5p6GgwGyLodS7N5WBqeEFw@mail.gmail.com>
+Message-ID: <CAFkLwpWognLdbnq0_PVs-XPLP2ke4ffSQTn71CbKGSuGXJQJEQ@mail.gmail.com>
+
+On Sat, Jul 28, 2012 at 9:21 PM, Aracele Torres <aracele at kde.org> wrote:
+> Hi everybody!
+>
+> Good idea Camila!
+> I can do a tutorial about translation or about how non-programmers can to
+> collaborate with KDE. ;-)
+> I suggest that we make a frame of possible activities so we can have a
+> preview of the event.
+
+Here you go: https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc
+Please add stuff, everyone.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From rauch at kde.org  Mon Jul 30 06:07:45 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Mon, 30 Jul 2012 08:07:45 +0200
+Subject: [Kde-women] Geek Girl Meetup in Berlin
+In-Reply-To: <CABe7M6utkVD=ZN0_51K3sbi5tr0B9-pu+MZWu1yg22zQAZJYTg@mail.gmail.com>
+References: <CABe7M6utkVD=ZN0_51K3sbi5tr0B9-pu+MZWu1yg22zQAZJYTg@mail.gmail.com>
+Message-ID: <CAA0Jy_x-AH=d-aZaDDtjS98=ppaZ2pq9ZAkLvBaseVzPFAZsTw@mail.gmail.com>
+
+On 29 July 2012 16:11, Camila Ayres <smayres at gmail.com> wrote:
+> Geek Girl Meetup:
+> http://geekgirlmeetup.de/
+
+Yes, this looks interesting and I have already registered.
+
+> As far as I understood, still there is space for talks:
+> http://geekgirlmeetup.de/2012/07/29/building-a-programme/
+
+
+This seems to be an unconference, so everyone can host a session :).
+
+> I believe that would be interesting.
+
+Do it, Camila :)
+
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht T?bingen
+(VR1301). Its president is Cornelius Schumacher. For more information
+please see http://ev.kde.org, and http://kde.org/
+
+From smayres at gmail.com  Sun Jul 29 22:07:20 2012
+From: smayres at gmail.com (Camila Ayres)
+Date: Mon, 30 Jul 2012 00:07:20 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <CAFkLwpWognLdbnq0_PVs-XPLP2ke4ffSQTn71CbKGSuGXJQJEQ@mail.gmail.com>
+References: <2469751.A3Qf61LWiR@berlijn>
+ <1264784973.78270674.1343319652896.JavaMail.root@spooler3-g27.priv.proxad.net>
+ <CAGzoOB_0uN7S1z5=nAYsNCUrUt9hgs9vvKOGuEqAhy2MExukvw@mail.gmail.com>
+ <CAApg2=Td12VQ+uVv=dVX4P0zOCHUwd-p2F3EeOW6kmAkpuxn8w@mail.gmail.com>
+ <CAKQ=CTruroBtca79un0oROmf+gVx5p6GgwGyLodS7N5WBqeEFw@mail.gmail.com>
+ <CAFkLwpWognLdbnq0_PVs-XPLP2ke4ffSQTn71CbKGSuGXJQJEQ@mail.gmail.com>
+Message-ID: <CABe7M6tqeVLu6C1juxRrtgsMv-vRiZ73cXr3zL-0g-H_nxpHXQ@mail.gmail.com>
+
+How much time each tutorial?
+Awesome @Aracele!
+
+On Sun, Jul 29, 2012 at 4:52 PM, Lydia Pintscher <lydia at kde.org> wrote:
+> On Sat, Jul 28, 2012 at 9:21 PM, Aracele Torres <aracele at kde.org> wrote:
+>> Hi everybody!
+>>
+>> Good idea Camila!
+>> I can do a tutorial about translation or about how non-programmers can to
+>> collaborate with KDE. ;-)
+>> I suggest that we make a frame of possible activities so we can have a
+>> preview of the event.
+>
+> Here you go: https://docs.google.com/spreadsheet/ccc?key=0Al1cWa29jR2idC1HRFZEZ2hSWkJjWGdJeHptTnRNWXc
+> Please add stuff, everyone.
+>
+>
+> Cheers
+> Lydia
+>
+> --
+> Lydia Pintscher - http://about.me/lydia.pintscher
+> KDE Community Working Group / KDE e.V. board member
+> http://kde.org - http://open-advice.org
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+From rauch at kde.org  Mon Jul 30 09:44:24 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Mon, 30 Jul 2012 11:44:24 +0200
+Subject: [Kde-women] Percentage of female attendees at Akademy vs. GUADEC
+Message-ID: <CAA0Jy_wp3T86QUVmW0-54PQq_Z-uOOA53T+DGicQAYUE2L8hTA@mail.gmail.com>
+
+Hi,
+
+Yesterday, I saw a tweet [1] saying that GUADEC has 17% female
+attendees, which is quite I good number. This prompted me to check our
+female attendee stats, and unfortunately, they don't look that great.
+If I counted right, from 250 attendees only 25 (10%) were women. The
+numbers might be not entirely correct as we checked off people
+manually, but I don't think that the total picture would change.
+
+GNOME attributes this to their Women's Outreach program, here's an
+article from Der Standard, in German [2].
+
+Cheers,
+Claudia
+
+[1] https://twitter.com/lauramcastro/status/229214912000446466
+[2] http://derstandard.at/1342947984176/GNOME-Aktive-Frauenfoerderung-zeigt-Wirkung
+
+
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht T?bingen
+(VR1301). Its president is Cornelius Schumacher. For more information
+please see http://ev.kde.org, and http://kde.org/
+
+From drf54321 at gmail.com  Mon Jul 30 12:13:46 2012
+From: drf54321 at gmail.com (Dario Freddi)
+Date: Mon, 30 Jul 2012 14:13:46 +0200
+Subject: [Kde-women] Ada Lovelace Day 2012
+In-Reply-To: <2469751.A3Qf61LWiR@berlijn>
+References: <2469751.A3Qf61LWiR@berlijn>
+Message-ID: <CAFFVnfNhjATNP9kR-J+UVN2YfKkzdRnf-tbNWPWAu74qZ-KDNQ@mail.gmail.com>
+
+Hey everyone, sorry for top-posting and being late, I was offline
+during the last days.
+
+As I already told Lydia, I am available for a coding tutorial,
+preferably via G+ Hangout or similar. I'll add some stuff to the doc
+soon.
+
+2012/7/23 Camila Ayres <smayres at gmail.com>:
+>
+> Hi,
+>
+> Ada Lovelace day is gonna be at October 16th this year, so might be a good
+> idea to start to prepare ourselves for it.
+>
+> - We need ideas for a shortish and easy tutorial that ends up in something
+> working and running, or for example, a piece of text translated somewhere
+> (@Aracele!!).
+> - Have in mind that people have to know in advance what they need to have
+> installed, prepared in their computer to follow the tutorial.
+> - Also, one day in advance, have a help session for people to get their system
+> set up.
+> - What do you prefer: do it through IRC or Google Hangout?
+> - Depending on how much people will be able to do the tutorial, we could
+> spread out over 1 week.
+>
+> Lydia and I made a list with some names that we thought could be willing to do
+> one tutorial - that's why you are receiving this e-mail :) If you know someone
+> else that could be included and if you have any differents ideas for Ada
+> Lovelace Day, please let us know.
+>
+> Let's help other to get involved in KDE!
+>
+> Cheers,
+> ----
+> Camila Ayres
+> camilasan.com
+

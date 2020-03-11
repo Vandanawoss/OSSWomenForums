@@ -1,0 +1,2091 @@
+From biatopeira@gmail.com  Tue Jul 17 14:39:19 2012
+Return-Path: <biatopeira@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F1474750225
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 17 Jul 2012 14:39:18 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id HPbDpSmsuRTs for <gnome-women-list@mail.gnome.org>;
+	Tue, 17 Jul 2012 14:39:14 +0000 (UTC)
+Received: from mail-lb0-f174.google.com (mail-lb0-f174.google.com
+	[209.85.217.174])
+	by menubar.gnome.org (Postfix) with ESMTP id AA46D7501F6
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 17 Jul 2012 14:39:05 +0000 (UTC)
+Received: by lbbgm6 with SMTP id gm6so844970lbb.33
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 17 Jul 2012 07:39:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=kUGc+kbRd5NKFQgGdHp+cMzy0UqODOVVfxLan2VQFFs=;
+	b=guzWVQBVkBQuxtABtn0+5wQkr1KuaeS006b8GqQv3F5TGmDi/Iu13p/4iAdMg4gdJv
+	h6DJhRgMyHVUGeLy6lp1NHhH/ZSi6+JZ17OlFM56rd4PQ2xMuhW1cyEad5Eh9qcjzZL1
+	gM39bVgyQcDNv/+xxWiYabY2SlRiRTGj7opnIbverUAU4nHrL9eDCZgIgmDxfnHQ1l5d
+	jNgR0dktdWS7mnPVIrYSVzR0J2oSkLWJ5HEQPfZdnkiUlV5YZkxZRRBJqElSSzV5w9Jo
+	Jn0EexjpWKoXTHT/0YXYyCBpwuE2KdjxXuIr3CCgigPOXuavP5GdJQcw6/fkgwPr3xY1
+	p0Nw==
+MIME-Version: 1.0
+Received: by 10.112.48.169 with SMTP id m9mr1329994lbn.93.1342535943058; Tue,
+	17 Jul 2012 07:39:03 -0700 (PDT)
+Received: by 10.152.3.69 with HTTP; Tue, 17 Jul 2012 07:39:03 -0700 (PDT)
+Date: Tue, 17 Jul 2012 11:39:03 -0300
+Message-ID: <CAOb1LwJHVOAaz5WhRke689bOrSBv6es6UYg-c4cs+bX0Zp66Uw@mail.gmail.com>
+From: Bianca Oliveira <biatopeira@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=bcaec554d848fbf50504c507819a
+Subject: [gnome-women] =?iso-8859-1?q?Apresenta=E7=E3o?=
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 17 Jul 2012 14:39:19 -0000
+
+--bcaec554d848fbf50504c507819a
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ol=E1 pessoal,
+Tudo bom?
+
+Sou Bianca, de Teresina - Piau=ED - Brasil, estava em busca de informa=E7=
+=F5es
+sobre como posso contribuir com o Gnome e encontrei a p=E1gina do Gnome Wom=
+en
+na net. Adoreia proposta e por isso me juntei a este grupo pra saber como
+posso colaborar.
+
+No momento admito que estou um pouco perdida e n=E3o sei bem o que dizer
+sobre quais minhas =E1reas de conhecimento, mas acredito que posso contribu=
+ir
+com:
+elabora=E7=E3o de textos, tradu=E7=F5es, tutoriais, palestras (algo mais
+informativo - j=E1 que j=E1 uso Gnome a alguns anos), constru=E7=E3o/promo=
+=E7=E3o de
+eventos, ca=E7a a bugs... Enfim, um pouco perdida, mas muito disposta a
+contribuir, espero contar com a ajuda de voc=EA que j=E1 est=E3o aqui a mai=
+s
+tempo.
+
+Agrade=E7o desde j=E1! =3D)
+
+Beijos
+
+Bianca Oliveira
+86 98052191 (tim)
+Teresina-PI
+skype: biasol958
+@biatopeira
+
+--bcaec554d848fbf50504c507819a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Ol=E1 pessoal,<div>Tudo bom?</div><div><br></div><div>Sou Bianca, de Teresi=
+na - Piau=ED - Brasil, estava em busca de informa=E7=F5es sobre como posso =
+contribuir com o Gnome e encontrei a p=E1gina do Gnome Women na net. Adorei=
+a proposta e por isso me juntei a este grupo pra saber como posso colaborar=
+.</div>
+<div><br></div><div>No momento admito que estou um pouco perdida e n=E3o se=
+i bem o que dizer sobre quais minhas =E1reas de conhecimento, mas acredito =
+que posso contribuir com:</div><div>elabora=E7=E3o de textos, tradu=E7=F5es=
+, tutoriais, palestras (algo mais informativo - j=E1 que j=E1 uso Gnome a a=
+lguns anos), constru=E7=E3o/promo=E7=E3o de eventos, ca=E7a a bugs... Enfim=
+, um pouco perdida, mas muito disposta a contribuir, espero contar com a aj=
+uda de voc=EA que j=E1 est=E3o aqui a mais tempo.</div>
+<div><br></div><div>Agrade=E7o desde j=E1! =3D)</div><div><br></div><div>Be=
+ijos</div><div><div><br></div><div><div style=3D"color:rgb(102,102,102);fon=
+t-family:arial,sans-serif;font-size:13px">Bianca Oliveira</div><div style=
+=3D"color:rgb(102,102,102);font-family:arial,sans-serif;font-size:13px">
+86 98052191 (tim)</div><div style=3D"color:rgb(102,102,102);font-family:ari=
+al,sans-serif;font-size:13px">Teresina-PI<br>skype: biasol958<br>@biatopeir=
+a</div></div><br>
+</div>
+
+--bcaec554d848fbf50504c507819a--
+From marinaz@redhat.com  Thu Jul 26 15:18:11 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 36E0B7500EB;
+	Thu, 26 Jul 2012 15:18:11 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id w3+6hl9fOkOx; Thu, 26 Jul 2012 15:18:06 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id ABE307500DA;
+	Thu, 26 Jul 2012 15:17:58 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id q6QFHs9N017439;
+	Thu, 26 Jul 2012 11:17:54 -0400
+Date: Thu, 26 Jul 2012 11:17:54 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: "gnome-women-list " <gnome-women-list@gnome.org>
+Message-ID: <284020978.3682617.1343315874693.JavaMail.root@redhat.com>
+In-Reply-To: <1321812403.3666973.1343315091382.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.11.11.12]
+X-Mailer: Zimbra 7.2.0_GA_2669 (ZimbraWebClient - FF3.0 (Linux)/7.2.0_GA_2669)
+X-Mailman-Approved-At: Thu, 26 Jul 2012 15:18:59 +0000
+Cc: Fabiana =?utf-8?Q?Sim=C3=B5es?= <fabianapsimoes@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>, Karen Sandler <karen@gnome.org>,
+	Beth Hadley <bethmhadley@gmail.com>, lucianafujii@gmail.com,
+	Matilda Bernard <serah4291@gmail.com>, Emily Gonyer <emilyyrose@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>, Ana Risteska <a.risteska@gmail.com>
+Subject: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 26 Jul 2012 15:18:11 -0000
+
+Hi all!
+
+Let's get together for a women's dinner tomorrow, Friday, July 27, at 9:00pm. This will give us a chance to meet each other, discuss our experiences, and discuss the effort to involve more women in GNOME and free software.
+
+We'll send details about the restaurant once we have an accurate count and make a reservation, so please *respond as soon as possible if you will attend*. We'll be meeting a 8:30pm outside RIALTA to walk/get rides to the restaurant.
+
+Please let any women you meet at GUADEC know about the dinner and forward them this e-mail, so that they can reply.
+
+Thanks!
+Marina
+From fabianapsimoes@gmail.com  Thu Jul 26 15:33:21 2012
+Return-Path: <fabianapsimoes@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 6A108750120;
+	Thu, 26 Jul 2012 15:33:21 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id qTe3vf5BQjWS; Thu, 26 Jul 2012 15:33:05 +0000 (UTC)
+Received: from mail-gg0-f182.google.com (mail-gg0-f182.google.com
+	[209.85.161.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 018CF7500DA;
+	Thu, 26 Jul 2012 15:32:56 +0000 (UTC)
+Received: by ggnm2 with SMTP id m2so3163078ggn.27
+	for <multiple recipients>; Thu, 26 Jul 2012 08:32:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=RRs/s/GLx0okdhSdE+3As4n6VboZU6ShiIyyj7i2e8c=;
+	b=ttODyEvqR/OZeNGsWvOchugSD0LAXc903JLC2LM0yY8DgdOF7AQhD+wffr0RW2ITbL
+	jteW/tm5vBjPxhouV2XhBQWW7SHzNuQhRD4GmENAupnIPETaV9+9vDPNpsy1p4aI9H4Y
+	QYhJHsR/CHpknDA7tjiK2Q+Ny0NHyAfJqMbJJZ9rNaEi5iF07+ErnzuFQcYCIqo1QrDM
+	TwPQjL7Cp5vqcmrAUxr8x6vrcvGFAdef/8SKUaYLDEGmBm2HiKqq/N3nffIFxh7XJR07
+	/3OHdwm0Zk1oDp0TGTeLhK0FG+6BGbrj4bOPCBwPm0jBpKgTnBRcSUEliXJbVEj/bIXq
+	Pf+A==
+MIME-Version: 1.0
+Received: by 10.50.182.232 with SMTP id eh8mr1978747igc.48.1343316774898; Thu,
+	26 Jul 2012 08:32:54 -0700 (PDT)
+Received: by 10.64.25.133 with HTTP; Thu, 26 Jul 2012 08:32:54 -0700 (PDT)
+Received: by 10.64.25.133 with HTTP; Thu, 26 Jul 2012 08:32:54 -0700 (PDT)
+In-Reply-To: <284020978.3682617.1343315874693.JavaMail.root@redhat.com>
+References: <1321812403.3666973.1343315091382.JavaMail.root@redhat.com>
+	<284020978.3682617.1343315874693.JavaMail.root@redhat.com>
+Date: Thu, 26 Jul 2012 12:32:54 -0300
+Message-ID: <CAHPc0L49zsUB+tiPcBMu8jhVZ7RReUk0gXw-bOXLUuFn_GN6=A@mail.gmail.com>
+From: =?ISO-8859-1?Q?Fabiana_Sim=F5es?= <fabianapsimoes@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=14dae9340e1b304dd204c5bd4f03
+X-Mailman-Approved-At: Thu, 26 Jul 2012 16:27:19 +0000
+Cc: lucianafujii@gmail.com, Karen Sandler <karen@gnome.org>,
+	Beth Hadley <bethmhadley@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Matilda Bernard <serah4291@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>, Ana Risteska <a.risteska@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Emily Gonyer <emilyyrose@gmail.com>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 26 Jul 2012 15:33:21 -0000
+
+--14dae9340e1b304dd204c5bd4f03
+Content-Type: text/plain; charset=ISO-8859-1
+
+Meg and I will attend for sure :)
+On Jul 26, 2012 12:17 PM, "Marina Zhurakhinskaya" <marinaz@redhat.com>
+wrote:
+
+> Hi all!
+>
+> Let's get together for a women's dinner tomorrow, Friday, July 27, at
+> 9:00pm. This will give us a chance to meet each other, discuss our
+> experiences, and discuss the effort to involve more women in GNOME and free
+> software.
+>
+> We'll send details about the restaurant once we have an accurate count and
+> make a reservation, so please *respond as soon as possible if you will
+> attend*. We'll be meeting a 8:30pm outside RIALTA to walk/get rides to the
+> restaurant.
+>
+> Please let any women you meet at GUADEC know about the dinner and forward
+> them this e-mail, so that they can reply.
+>
+> Thanks!
+> Marina
+>
+
+--14dae9340e1b304dd204c5bd4f03
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p>Meg and I will attend for sure :) </p>
+<div class=3D"gmail_quote">On Jul 26, 2012 12:17 PM, &quot;Marina Zhurakhin=
+skaya&quot; &lt;<a href=3D"mailto:marinaz@redhat.com">marinaz@redhat.com</a=
+>&gt; wrote:<br type=3D"attribution"><blockquote class=3D"gmail_quote" styl=
+e=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+Hi all!<br>
+<br>
+Let&#39;s get together for a women&#39;s dinner tomorrow, Friday, July 27, =
+at 9:00pm. This will give us a chance to meet each other, discuss our exper=
+iences, and discuss the effort to involve more women in GNOME and free soft=
+ware.<br>
+
+<br>
+We&#39;ll send details about the restaurant once we have an accurate count =
+and make a reservation, so please *respond as soon as possible if you will =
+attend*. We&#39;ll be meeting a 8:30pm outside RIALTA to walk/get rides to =
+the restaurant.<br>
+
+<br>
+Please let any women you meet at GUADEC know about the dinner and forward t=
+hem this e-mail, so that they can reply.<br>
+<br>
+Thanks!<br>
+Marina<br>
+</blockquote></div>
+
+--14dae9340e1b304dd204c5bd4f03--
+From patriciasantanacruz@gmail.com  Thu Jul 26 15:44:30 2012
+Return-Path: <patriciasantanacruz@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 34314750120;
+	Thu, 26 Jul 2012 15:44:30 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.608
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.608 tagged_above=-999 required=2
+	tests=[BAD_ENC_HEADER=0.001, BAYES_00=-1.9,
+	DKIM_ADSP_CUSTOM_MED=0.001, DKIM_SIGNED=0.1, FREEMAIL_FROM=0.001,
+	FROM_EXCESS_BASE64=0.979, HTML_MESSAGE=0.001, NML_ADSP_CUSTOM_MED=0.9, 
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001, T_DKIM_INVALID=0.01]
+	autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wCYLvvPIXUAV; Thu, 26 Jul 2012 15:44:11 +0000 (UTC)
+Received: from mail-ey0-f182.google.com (mail-ey0-f182.google.com
+	[209.85.215.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 33467750123;
+	Thu, 26 Jul 2012 15:44:01 +0000 (UTC)
+Received: by eaa11 with SMTP id 11so357257eaa.27
+	for <multiple recipients>; Thu, 26 Jul 2012 08:44:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=message-id:to:from:cc:subject:date:mime-version:content-type;
+	bh=oLUmGAG+ERmSCnNybgI5m5YbZs2Ir5gnUF+EHo4RClw=;
+	b=Wy3kBOmQ9DxrnfxvudajCXDjqYfFe0PvO7N3Yi5Pgh1i8luE+loHiiUqVq3mk0uDwN
+	peaFQp+IpQOsaN5vzJimXAE56BKuQzcjilzc4+tX9d95b9N6LNpnZuPIbq381CMSa5wa
+	7xLgyfPlCBnZL/cXVvackSYzMBZn3n536cuBrwau7+QWL++Y3BDx9sy6JJ34jklM0+jt
+	tX3TqGuDjrMktz1h7i/mEHhjGgv/+/k1ZPnzvKDcbB5jXm7Oem5x+6ErN8seP+ONxawW
+	xznWazVp0ykpyeOqkSaUjdMrNqiAVf0IZcBV2TEiBoDkjWBQOReKj5JkP9gxUYNDmqsJ
+	qSLg==
+Received: by 10.14.211.200 with SMTP id w48mr4559157eeo.6.1343317440025;
+	Thu, 26 Jul 2012 08:44:00 -0700 (PDT)
+Received: from [10.20.30.40] ([193.144.61.240])
+	by mx.google.com with ESMTPS id u48sm9707232eep.7.2012.07.26.08.43.57
+	(version=SSLv3 cipher=OTHER); Thu, 26 Jul 2012 08:43:59 -0700 (PDT)
+Message-ID: <501165bf.48df0e0a.6175.ffffec07@mx.google.com>
+To: "=?utf-8?B?TWFyaW5hIFpodXJha2hpbnNrYXlh?=" <marinaz@redhat.com>,
+	"=?utf-8?B?Z25vbWUtd29tZW4tbGlzdA==?=" <gnome-women-list@gnome.org>
+From: "=?utf-8?B?cGF0cmljaWFzYW50YW5hY3J1ekBnbWFpbC5jb20=?="
+	<patriciasantanacruz@gmail.com>
+Date: Thu, 26 Jul 2012 17:43:59 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_Part_1_1343317439146"
+X-Mailman-Approved-At: Thu, 26 Jul 2012 16:27:19 +0000
+Cc: =?utf-8?B?RmFiaWFuYSBTaW3DtWVz?= <fabianapsimoes@gmail.com>,
+	=?utf-8?B?U3VzYW5uYSBIdWh0YW5lbg==?= <ihmis.suski@gmail.com>,
+	=?utf-8?B?S2FyZW4gU2FuZGxlcg==?= <karen@gnome.org>,
+	=?utf-8?B?QmV0aCBIYWRsZXk=?= <bethmhadley@gmail.com>,
+	lucianafujii@gmail.com,
+	=?utf-8?B?TWF0aWxkYSBCZXJuYXJk?= <serah4291@gmail.com>,
+	=?utf-8?B?RW1pbHkgR29ueWVy?= <emilyyrose@gmail.com>,
+	=?utf-8?B?Sm92YW5rYSBHdWxpY29za2E=?= <jovanka.gulicoska@gmail.com>,
+	=?utf-8?B?SnVsaXRhIEluY2EgQ2hpcm9xdWU=?= <jinca@pucp.pe>,
+	=?utf-8?B?QW5hIFJpc3Rlc2th?= <a.risteska@gmail.com>
+Subject: Re: [gnome-women] =?utf-8?q?women=27s_dinner_at_GUADEC?=
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 26 Jul 2012 15:44:30 -0000
+
+------=_Part_1_1343317439146
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+Rm9yIHN1cmUhIQoKU2VudCBmcm9tIG15IEhUQwoKLS0tLS0gUmVwbHkgbWVzc2FnZSAtLS0tLQpG
+cm9tOiAiTWFyaW5hIFpodXJha2hpbnNrYXlhIiA8bWFyaW5hekByZWRoYXQuY29tPgpEYXRlOiBU
+aHUsIEp1bCAyNiwgMjAxMiAxNzoxNwpTdWJqZWN0OiB3b21lbidzIGRpbm5lciBhdCBHVUFERUMK
+VG86ICJnbm9tZS13b21lbi1saXN0IiA8Z25vbWUtd29tZW4tbGlzdEBnbm9tZS5vcmc+CkNjOiAi
+S2FyZW4gU2FuZGxlciIgPGthcmVuQGdub21lLm9yZz4sICJKb2FubWFyaWUgRGlnZ3MiIDxqZGln
+Z3NAaWdhbGlhLmNvbT4sICJUaWZmYW55IEFudG9wb2xza2kiIDx0aWZmYW55LmFudG9wb2xza2lA
+Z21haWwuY29tPiwgIlRhbWFyYSBBdGFuYXNvc2thIiA8dGFtYXJhLmF0YW5hc29za2EyMEBnbWFp
+bC5jb20+LCA8bHVjaWFuYWZ1amlpQGdtYWlsLmNvbT4sICJKdWxpdGEgSW5jYSBDaGlyb3F1ZSIg
+PGppbmNhQHB1Y3AucGU+LCAiUm9zYW5uYSBZdWVuIiA8emFuYUBnbm9tZS5vcmc+LCAiRWthdGVy
+aW5hIEdlcmFzaW1vdmEiIDxraXR0eWthdDM3NTZAZ21haWwuY29tPiwgIk1hdGlsZGEgQmVybmFy
+ZCIgPHNlcmFoNDI5MUBnbWFpbC5jb20+LCAiTWFydGEgTWFyaWEgQ2FzZXR0aSIgPG1tY2FzZXR0
+aUBnbWFpbC5jb20+LCAiTWVnIEZvcmQiIDxtZWczODdAZ21haWwuY29tPiwgIkVtaWx5IEdvbnll
+ciIgPGVtaWx5eXJvc2VAZ21haWwuY29tPiwgIkpvdmFua2EgR3VsaWNvc2thIiA8am92YW5rYS5n
+dWxpY29za2FAZ21haWwuY29tPiwgIkJldGggSGFkbGV5IiA8YmV0aG1oYWRsZXlAZ21haWwuY29t
+PiwgIlN1c2FubmEgSHVodGFuZW4iIDxpaG1pcy5zdXNraUBnbWFpbC5jb20+LCAiQW5hIFJpc3Rl
+c2thIiA8YS5yaXN0ZXNrYUBnbWFpbC5jb20+LCAiUGF0cmljaWEgU2FudGFuYSBDcnV6IiA8cGF0
+cmljaWFzYW50YW5hY3J1ekBnbWFpbC5jb20+LCAiRmFiaWFuYSBTaW3DtWVzIiA8ZmFiaWFuYXBz
+aW1vZXNAZ21haWwuY29tPiwgIkFubmEgWmFjY2hpIiA8YXp6dXJyb3ZlcmRlQGdtYWlsLmNvbT4K
+CgpIaSBhbGwhCgpMZXQncyBnZXQgdG9nZXRoZXIgZm9yIGEgd29tZW4ncyBkaW5uZXIgdG9tb3Jy
+b3csIEZyaWRheSwgSnVseSAyNywgYXQgOTowMHBtLiBUaGlzIHdpbGwgZ2l2ZSB1cyBhIGNoYW5j
+ZSB0byBtZWV0IGVhY2ggb3RoZXIsIGRpc2N1c3Mgb3VyIGV4cGVyaWVuY2VzLCBhbmQgZGlzY3Vz
+cyB0aGUgZWZmb3J0IHRvIGludm9sdmUgbW9yZSB3b21lbiBpbiBHTk9NRSBhbmQgZnJlZSBzb2Z0
+d2FyZS4KCldlJ2xsIHNlbmQgZGV0YWlscyBhYm91dCB0aGUgcmVzdGF1cmFudCBvbmNlIHdlIGhh
+dmUgYW4gYWNjdXJhdGUgY291bnQgYW5kIG1ha2UgYSByZXNlcnZhdGlvbiwgc28gcGxlYXNlICpy
+ZXNwb25kIGFzIHNvb24gYXMgcG9zc2libGUgaWYgeW91IHdpbGwgYXR0ZW5kKi4gV2UnbGwgYmUg
+bWVldGluZyBhIDg6MzBwbSBvdXRzaWRlIFJJQUxUQSB0byB3YWxrL2dldCByaWRlcyB0byB0aGUg
+cmVzdGF1cmFudC4KClBsZWFzZSBsZXQgYW55IHdvbWVuIHlvdSBtZWV0IGF0IEdVQURFQyBrbm93
+IGFib3V0IHRoZSBkaW5uZXIgYW5kIGZvcndhcmQgdGhlbSB0aGlzIGUtbWFpbCwgc28gdGhhdCB0
+aGV5IGNhbiByZXBseS4KClRoYW5rcyEKTWFyaW5hCg==
+
+
+------=_Part_1_1343317439146
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: base64
+Content-Disposition: inline
+
+Rm9yIHN1cmUhITxicj48YnI+U2VudCBmcm9tIG15IEhUQzxicj48YnI+LS0tLS0gUmVwbHkgbWVz
+c2FnZSAtLS0tLTxicj5Gcm9tOiAmcXVvdDtNYXJpbmEgWmh1cmFraGluc2theWEmcXVvdDsgJmx0
+O21hcmluYXpAcmVkaGF0LmNvbSZndDs8YnI+RGF0ZTogVGh1LCBKdWwgMjYsIDIwMTIgMTc6MTc8
+YnI+U3ViamVjdDogd29tZW4mIzM5O3MgZGlubmVyIGF0IEdVQURFQzxicj5UbzogJnF1b3Q7Z25v
+bWUtd29tZW4tbGlzdCZxdW90OyAmbHQ7Z25vbWUtd29tZW4tbGlzdEBnbm9tZS5vcmcmZ3Q7PGJy
+PkNjOiAmcXVvdDtLYXJlbiBTYW5kbGVyJnF1b3Q7ICZsdDtrYXJlbkBnbm9tZS5vcmcmZ3Q7LCAm
+cXVvdDtKb2FubWFyaWUgRGlnZ3MmcXVvdDsgJmx0O2pkaWdnc0BpZ2FsaWEuY29tJmd0OywgJnF1
+b3Q7VGlmZmFueSBBbnRvcG9sc2tpJnF1b3Q7ICZsdDt0aWZmYW55LmFudG9wb2xza2lAZ21haWwu
+Y29tJmd0OywgJnF1b3Q7VGFtYXJhIEF0YW5hc29za2EmcXVvdDsgJmx0O3RhbWFyYS5hdGFuYXNv
+c2thMjBAZ21haWwuY29tJmd0OywgJmx0O2x1Y2lhbmFmdWppaUBnbWFpbC5jb20mZ3Q7LCAmcXVv
+dDtKdWxpdGEgSW5jYSBDaGlyb3F1ZSZxdW90OyAmbHQ7amluY2FAcHVjcC5wZSZndDssICZxdW90
+O1Jvc2FubmEgWXVlbiZxdW90OyAmbHQ7emFuYUBnbm9tZS5vcmcmZ3Q7LCAmcXVvdDtFa2F0ZXJp
+bmEgR2VyYXNpbW92YSZxdW90OyAmbHQ7a2l0dHlrYXQzNzU2QGdtYWlsLmNvbSZndDssICZxdW90
+O01hdGlsZGEgQmVybmFyZCZxdW90OyAmbHQ7c2VyYWg0MjkxQGdtYWlsLmNvbSZndDssICZxdW90
+O01hcnRhIE1hcmlhIENhc2V0dGkmcXVvdDsgJmx0O21tY2FzZXR0aUBnbWFpbC5jb20mZ3Q7LCAm
+cXVvdDtNZWcgRm9yZCZxdW90OyAmbHQ7bWVnMzg3QGdtYWlsLmNvbSZndDssICZxdW90O0VtaWx5
+IEdvbnllciZxdW90OyAmbHQ7ZW1pbHl5cm9zZUBnbWFpbC5jb20mZ3Q7LCAmcXVvdDtKb3Zhbmth
+IEd1bGljb3NrYSZxdW90OyAmbHQ7am92YW5rYS5ndWxpY29za2FAZ21haWwuY29tJmd0OywgJnF1
+b3Q7QmV0aCBIYWRsZXkmcXVvdDsgJmx0O2JldGhtaGFkbGV5QGdtYWlsLmNvbSZndDssICZxdW90
+O1N1c2FubmEgSHVodGFuZW4mcXVvdDsgJmx0O2lobWlzLnN1c2tpQGdtYWlsLmNvbSZndDssICZx
+dW90O0FuYSBSaXN0ZXNrYSZxdW90OyAmbHQ7YS5yaXN0ZXNrYUBnbWFpbC5jb20mZ3Q7LCAmcXVv
+dDtQYXRyaWNpYSBTYW50YW5hIENydXomcXVvdDsgJmx0O3BhdHJpY2lhc2FudGFuYWNydXpAZ21h
+aWwuY29tJmd0OywgJnF1b3Q7RmFiaWFuYSBTaW3DtWVzJnF1b3Q7ICZsdDtmYWJpYW5hcHNpbW9l
+c0BnbWFpbC5jb20mZ3Q7LCAmcXVvdDtBbm5hIFphY2NoaSZxdW90OyAmbHQ7YXp6dXJyb3ZlcmRl
+QGdtYWlsLmNvbSZndDs8YnI+PGJyPjxicj5IaSBhbGwhPGJyPjxicj5MZXQmIzM5O3MgZ2V0IHRv
+Z2V0aGVyIGZvciBhIHdvbWVuJiMzOTtzIGRpbm5lciB0b21vcnJvdywgRnJpZGF5LCBKdWx5IDI3
+LCBhdCA5OjAwcG0uIFRoaXMgd2lsbCBnaXZlIHVzIGEgY2hhbmNlIHRvIG1lZXQgZWFjaCBvdGhl
+ciwgZGlzY3VzcyBvdXIgZXhwZXJpZW5jZXMsIGFuZCBkaXNjdXNzIHRoZSBlZmZvcnQgdG8gaW52
+b2x2ZSBtb3JlIHdvbWVuIGluIEdOT01FIGFuZCBmcmVlIHNvZnR3YXJlLjxicj48YnI+V2UmIzM5
+O2xsIHNlbmQgZGV0YWlscyBhYm91dCB0aGUgcmVzdGF1cmFudCBvbmNlIHdlIGhhdmUgYW4gYWNj
+dXJhdGUgY291bnQgYW5kIG1ha2UgYSByZXNlcnZhdGlvbiwgc28gcGxlYXNlICpyZXNwb25kIGFz
+IHNvb24gYXMgcG9zc2libGUgaWYgeW91IHdpbGwgYXR0ZW5kKi4gV2UmIzM5O2xsIGJlIG1lZXRp
+bmcgYSA4OjMwcG0gb3V0c2lkZSBSSUFMVEEgdG8gd2Fsay9nZXQgcmlkZXMgdG8gdGhlIHJlc3Rh
+dXJhbnQuPGJyPjxicj5QbGVhc2UgbGV0IGFueSB3b21lbiB5b3UgbWVldCBhdCBHVUFERUMga25v
+dyBhYm91dCB0aGUgZGlubmVyIGFuZCBmb3J3YXJkIHRoZW0gdGhpcyBlLW1haWwsIHNvIHRoYXQg
+dGhleSBjYW4gcmVwbHkuPGJyPjxicj5UaGFua3MhPGJyPk1hcmluYTxicj48YnI+PGJyPg==
+
+
+------=_Part_1_1343317439146--
+
+From a.risteska@gmail.com  Thu Jul 26 15:46:42 2012
+Return-Path: <a.risteska@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 47C8B75012E;
+	Thu, 26 Jul 2012 15:46:42 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLY=1,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001]
+	autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id bJ81uYl+5FOK; Thu, 26 Jul 2012 15:46:29 +0000 (UTC)
+Received: from mail-lb0-f182.google.com (mail-lb0-f182.google.com
+	[209.85.217.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 3120B750167;
+	Thu, 26 Jul 2012 15:46:19 +0000 (UTC)
+Received: by lbon10 with SMTP id n10so2743942lbo.27
+	for <multiple recipients>; Thu, 26 Jul 2012 08:46:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+	:cc:content-type;
+	bh=ZjWV2IM9rFOUlKtzALfvE1ZMFpWIlUP7h0MclmKVoME=;
+	b=Xq6R0Ovzl4478sBmhCKM7XCk84vnBgJhcRfCAXycWxzbRjwFl9R3r3L7X+WAKsokg+
+	LzMdyGOS8eIR1++fTU8sBml7ZkBZCoKvvAHh2v/CJYyykDOTcl6UwRQfprNEz04zpC0o
+	FhgKShtBBjFGXvbXhLubu7Y1g3si4oJVrcq1Ld0900Wd41JSqWSlD23C2pULXYoQ/YOn
+	B1N8TQHJOpEU1u9lhlw0LfHDoM/kBzY1roCAraPLt/G42I70g5vQ1GZ093IBMbGszZ1i
+	3hN77e2/R5iDVdtdQM0g19pAvYJtLJMeTyaOqsYG9iA0TQB/gchcB4q26LsdDg+xTZ4r
+	4GJw==
+Received: by 10.152.135.200 with SMTP id pu8mr30170457lab.8.1343317577721;
+	Thu, 26 Jul 2012 08:46:17 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.112.21.162 with HTTP; Thu, 26 Jul 2012 08:45:46 -0700 (PDT)
+In-Reply-To: <501165bf.48df0e0a.6175.ffffec07@mx.google.com>
+References: <501165bf.48df0e0a.6175.ffffec07@mx.google.com>
+From: Ana Risteska <a.risteska@gmail.com>
+Date: Thu, 26 Jul 2012 17:45:46 +0200
+Message-ID: <CAM1HtX0S+KOoK6toEubB9NRh0maJ3K8zj9rbib1kK5SCJUijiw@mail.gmail.com>
+To: "patriciasantanacruz@gmail.com" <patriciasantanacruz@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d043745470a664d04c5bd7f33
+X-Mailman-Approved-At: Thu, 26 Jul 2012 16:27:19 +0000
+Cc: Susanna Huhtanen <ihmis.suski@gmail.com>,
+	=?ISO-8859-1?Q?Fabiana_Sim=F5es?= <fabianapsimoes@gmail.com>,
+	Karen Sandler <karen@gnome.org>,
+	Beth Hadley <bethmhadley@gmail.com>, lucianafujii@gmail.com,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Matilda Bernard <serah4291@gmail.com>, Emily Gonyer <emilyyrose@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 26 Jul 2012 15:46:42 -0000
+
+--f46d043745470a664d04c5bd7f33
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+See you there! :)
+
+On Thu, Jul 26, 2012 at 5:43 PM, patriciasantanacruz@gmail.com <
+patriciasantanacruz@gmail.com> wrote:
+
+> For sure!!
+>
+> Sent from my HTC
+>
+>
+> ----- Reply message -----
+> From: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+> Date: Thu, Jul 26, 2012 17:17
+> Subject: women's dinner at GUADEC
+> To: "gnome-women-list" <gnome-women-list@gnome.org>
+> Cc: "Karen Sandler" <karen@gnome.org>, "Joanmarie Diggs" <
+> jdiggs@igalia.com>, "Tiffany Antopolski" <tiffany.antopolski@gmail.com>,
+> "Tamara Atanasoska" <tamara.atanasoska20@gmail.com>, <
+> lucianafujii@gmail.com>, "Julita Inca Chiroque" <jinca@pucp.pe>, "Rosanna
+> Yuen" <zana@gnome.org>, "Ekaterina Gerasimova" <kittykat3756@gmail.com>,
+> "Matilda Bernard" <serah4291@gmail.com>, "Marta Maria Casetti" <
+> mmcasetti@gmail.com>, "Meg Ford" <meg387@gmail.com>, "Emily Gonyer" <
+> emilyyrose@gmail.com>, "Jovanka Gulicoska" <jovanka.gulicoska@gmail.com>,
+> "Beth Hadley" <bethmhadley@gmail.com>, "Susanna Huhtanen" <
+> ihmis.suski@gmail.com>, "Ana Risteska" <a.risteska@gmail.com>, "Patricia
+> Santana Cruz" <patriciasantanacruz@gmail.com>, "Fabiana Sim=F5es" <
+> fabianapsimoes@gmail.com>, "Anna Zacchi" <azzurroverde@gmail.com>
+>
+>
+> Hi all!
+>
+> Let's get together for a women's dinner tomorrow, Friday, July 27, at
+> 9:00pm. This will give us a chance to meet each other, discuss our
+> experiences, and discuss the effort to involve more women in GNOME and fr=
+ee
+> software.
+>
+> We'll send details about the restaurant once we have an accurate count an=
+d
+> make a reservation, so please *respond as soon as possible if you will
+> attend*. We'll be meeting a 8:30pm outside RIALTA to walk/get rides to th=
+e
+> restaurant.
+>
+> Please let any women you meet at GUADEC know about the dinner and forward
+> them this e-mail, so that they can reply.
+>
+> Thanks!
+> Marina
+>
+>
+>
+
+--f46d043745470a664d04c5bd7f33
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+See you there! :)<br><br><div class=3D"gmail_quote">On Thu, Jul 26, 2012 at=
+ 5:43 PM, <a href=3D"mailto:patriciasantanacruz@gmail.com">patriciasantanac=
+ruz@gmail.com</a> <span dir=3D"ltr">&lt;<a href=3D"mailto:patriciasantanacr=
+uz@gmail.com" target=3D"_blank">patriciasantanacruz@gmail.com</a>&gt;</span=
+> wrote:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">For sure!!<br><br>Sent from my HTC<div class=
+=3D"HOEnZb"><div class=3D"h5"><br><br>----- Reply message -----<br>From: &q=
+uot;Marina Zhurakhinskaya&quot; &lt;<a href=3D"mailto:marinaz@redhat.com" t=
+arget=3D"_blank">marinaz@redhat.com</a>&gt;<br>
+
+Date: Thu, Jul 26, 2012 17:17<br>Subject: women&#39;s dinner at GUADEC<br>T=
+o: &quot;gnome-women-list&quot; &lt;<a href=3D"mailto:gnome-women-list@gnom=
+e.org" target=3D"_blank">gnome-women-list@gnome.org</a>&gt;<br>Cc: &quot;Ka=
+ren Sandler&quot; &lt;<a href=3D"mailto:karen@gnome.org" target=3D"_blank">=
+karen@gnome.org</a>&gt;, &quot;Joanmarie Diggs&quot; &lt;<a href=3D"mailto:=
+jdiggs@igalia.com" target=3D"_blank">jdiggs@igalia.com</a>&gt;, &quot;Tiffa=
+ny Antopolski&quot; &lt;<a href=3D"mailto:tiffany.antopolski@gmail.com" tar=
+get=3D"_blank">tiffany.antopolski@gmail.com</a>&gt;, &quot;Tamara Atanasosk=
+a&quot; &lt;<a href=3D"mailto:tamara.atanasoska20@gmail.com" target=3D"_bla=
+nk">tamara.atanasoska20@gmail.com</a>&gt;, &lt;<a href=3D"mailto:lucianafuj=
+ii@gmail.com" target=3D"_blank">lucianafujii@gmail.com</a>&gt;, &quot;Julit=
+a Inca Chiroque&quot; &lt;<a href=3D"mailto:jinca@pucp.pe" target=3D"_blank=
+">jinca@pucp.pe</a>&gt;, &quot;Rosanna Yuen&quot; &lt;<a href=3D"mailto:zan=
+a@gnome.org" target=3D"_blank">zana@gnome.org</a>&gt;, &quot;Ekaterina Gera=
+simova&quot; &lt;<a href=3D"mailto:kittykat3756@gmail.com" target=3D"_blank=
+">kittykat3756@gmail.com</a>&gt;, &quot;Matilda Bernard&quot; &lt;<a href=
+=3D"mailto:serah4291@gmail.com" target=3D"_blank">serah4291@gmail.com</a>&g=
+t;, &quot;Marta Maria Casetti&quot; &lt;<a href=3D"mailto:mmcasetti@gmail.c=
+om" target=3D"_blank">mmcasetti@gmail.com</a>&gt;, &quot;Meg Ford&quot; &lt=
+;<a href=3D"mailto:meg387@gmail.com" target=3D"_blank">meg387@gmail.com</a>=
+&gt;, &quot;Emily Gonyer&quot; &lt;<a href=3D"mailto:emilyyrose@gmail.com" =
+target=3D"_blank">emilyyrose@gmail.com</a>&gt;, &quot;Jovanka Gulicoska&quo=
+t; &lt;<a href=3D"mailto:jovanka.gulicoska@gmail.com" target=3D"_blank">jov=
+anka.gulicoska@gmail.com</a>&gt;, &quot;Beth Hadley&quot; &lt;<a href=3D"ma=
+ilto:bethmhadley@gmail.com" target=3D"_blank">bethmhadley@gmail.com</a>&gt;=
+, &quot;Susanna Huhtanen&quot; &lt;<a href=3D"mailto:ihmis.suski@gmail.com"=
+ target=3D"_blank">ihmis.suski@gmail.com</a>&gt;, &quot;Ana Risteska&quot; =
+&lt;<a href=3D"mailto:a.risteska@gmail.com" target=3D"_blank">a.risteska@gm=
+ail.com</a>&gt;, &quot;Patricia Santana Cruz&quot; &lt;<a href=3D"mailto:pa=
+triciasantanacruz@gmail.com" target=3D"_blank">patriciasantanacruz@gmail.co=
+m</a>&gt;, &quot;Fabiana Sim=F5es&quot; &lt;<a href=3D"mailto:fabianapsimoe=
+s@gmail.com" target=3D"_blank">fabianapsimoes@gmail.com</a>&gt;, &quot;Anna=
+ Zacchi&quot; &lt;<a href=3D"mailto:azzurroverde@gmail.com" target=3D"_blan=
+k">azzurroverde@gmail.com</a>&gt;<br>
+
+<br><br>Hi all!<br><br>Let&#39;s get together for a women&#39;s dinner tomo=
+rrow, Friday, July 27, at 9:00pm. This will give us a chance to meet each o=
+ther, discuss our experiences, and discuss the effort to involve more women=
+ in GNOME and free software.<br>
+
+<br>We&#39;ll send details about the restaurant once we have an accurate co=
+unt and make a reservation, so please *respond as soon as possible if you w=
+ill attend*. We&#39;ll be meeting a 8:30pm outside RIALTA to walk/get rides=
+ to the restaurant.<br>
+
+<br>Please let any women you meet at GUADEC know about the dinner and forwa=
+rd them this e-mail, so that they can reply.<br><br>Thanks!<br>Marina<br><b=
+r><br></div></div></blockquote></div><br>
+
+--f46d043745470a664d04c5bd7f33--
+From mmcasetti@gmail.com  Thu Jul 26 15:56:27 2012
+Return-Path: <mmcasetti@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 73A34750167;
+	Thu, 26 Jul 2012 15:56:27 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLY=1,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001]
+	autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id z6QJhqIECmLY; Thu, 26 Jul 2012 15:56:25 +0000 (UTC)
+Received: from mail-lpp01m010-f54.google.com (mail-lpp01m010-f54.google.com
+	[209.85.215.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 71970750120;
+	Thu, 26 Jul 2012 15:56:15 +0000 (UTC)
+Received: by laai10 with SMTP id i10so2593322laa.27
+	for <multiple recipients>; Thu, 26 Jul 2012 08:56:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=OWruYnZNKquz5nrsLLuyV4nft1T6pVHpM08/PSj8qUY=;
+	b=idMPIXJKcUAe13P6ElBilC1sWKuXFVyiRt3W78ABaXDYDBDGjcFi8rFq4oR0udjU/2
+	XlAMqILrzRd/W5vjiinA05qspm5zMKrCcGSpKwYczs2QN/mDMgBll4r+MG0hdrG5Xt+i
+	647KfHrl6Q8/+EVwRpNa/4Omh3bFXCEXDyDF1aQiV/pnS39E207/TfdhCQXyonUFkii0
+	t5HBb9OmHLBTfqnlEIOGRUAawkMvkrJzY+zablLgtDHeIsD7WcG9B0g+SXxfOa9spthu
+	lcrx6yILCJTjONO0avEXzTvN6EbA/US52+2hOQgIbi5igUGl78sZmT3i7lRkqCX5YWT0
+	rq5A==
+MIME-Version: 1.0
+Received: by 10.152.131.9 with SMTP id oi9mr30122290lab.39.1343318173763; Thu,
+	26 Jul 2012 08:56:13 -0700 (PDT)
+Received: by 10.114.3.107 with HTTP; Thu, 26 Jul 2012 08:56:13 -0700 (PDT)
+Received: by 10.114.3.107 with HTTP; Thu, 26 Jul 2012 08:56:13 -0700 (PDT)
+In-Reply-To: <CAM1HtX0S+KOoK6toEubB9NRh0maJ3K8zj9rbib1kK5SCJUijiw@mail.gmail.com>
+References: <501165bf.48df0e0a.6175.ffffec07@mx.google.com>
+	<CAM1HtX0S+KOoK6toEubB9NRh0maJ3K8zj9rbib1kK5SCJUijiw@mail.gmail.com>
+Date: Thu, 26 Jul 2012 16:56:13 +0100
+Message-ID: <CAC2+W+LdduN8BH3K5t9K40a5qv_CGR9DJjb_2e8bJVLpJHoUNA@mail.gmail.com>
+From: Marta Maria Casetti <mmcasetti@gmail.com>
+To: Ana Risteska <a.risteska@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d042c64779147b204c5bda2f1
+X-Mailman-Approved-At: Thu, 26 Jul 2012 16:27:20 +0000
+Cc: lucianafujii@gmail.com, Karen Sandler <karen@gnome.org>,
+	=?ISO-8859-1?Q?Fabiana_Sim=F5es?= <fabianapsimoes@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Matilda Bernard <serah4291@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Beth Hadley <bethmhadley@gmail.com>, Emily Gonyer <emilyyrose@gmail.com>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 26 Jul 2012 15:56:27 -0000
+
+--f46d042c64779147b204c5bda2f1
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+I will be there too!
+
+Marta
+On Jul 26, 2012 5:46 PM, "Ana Risteska" <a.risteska@gmail.com> wrote:
+
+> See you there! :)
+>
+> On Thu, Jul 26, 2012 at 5:43 PM, patriciasantanacruz@gmail.com <
+> patriciasantanacruz@gmail.com> wrote:
+>
+>> For sure!!
+>>
+>> Sent from my HTC
+>>
+>>
+>> ----- Reply message -----
+>> From: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+>> Date: Thu, Jul 26, 2012 17:17
+>> Subject: women's dinner at GUADEC
+>> To: "gnome-women-list" <gnome-women-list@gnome.org>
+>> Cc: "Karen Sandler" <karen@gnome.org>, "Joanmarie Diggs" <
+>> jdiggs@igalia.com>, "Tiffany Antopolski" <tiffany.antopolski@gmail.com>,
+>> "Tamara Atanasoska" <tamara.atanasoska20@gmail.com>, <
+>> lucianafujii@gmail.com>, "Julita Inca Chiroque" <jinca@pucp.pe>,
+>> "Rosanna Yuen" <zana@gnome.org>, "Ekaterina Gerasimova" <
+>> kittykat3756@gmail.com>, "Matilda Bernard" <serah4291@gmail.com>, "Marta
+>> Maria Casetti" <mmcasetti@gmail.com>, "Meg Ford" <meg387@gmail.com>,
+>> "Emily Gonyer" <emilyyrose@gmail.com>, "Jovanka Gulicoska" <
+>> jovanka.gulicoska@gmail.com>, "Beth Hadley" <bethmhadley@gmail.com>,
+>> "Susanna Huhtanen" <ihmis.suski@gmail.com>, "Ana Risteska" <
+>> a.risteska@gmail.com>, "Patricia Santana Cruz" <
+>> patriciasantanacruz@gmail.com>, "Fabiana Sim=F5es" <
+>> fabianapsimoes@gmail.com>, "Anna Zacchi" <azzurroverde@gmail.com>
+>>
+>>
+>> Hi all!
+>>
+>> Let's get together for a women's dinner tomorrow, Friday, July 27, at
+>> 9:00pm. This will give us a chance to meet each other, discuss our
+>> experiences, and discuss the effort to involve more women in GNOME and f=
+ree
+>> software.
+>>
+>> We'll send details about the restaurant once we have an accurate count
+>> and make a reservation, so please *respond as soon as possible if you wi=
+ll
+>> attend*. We'll be meeting a 8:30pm outside RIALTA to walk/get rides to t=
+he
+>> restaurant.
+>>
+>> Please let any women you meet at GUADEC know about the dinner and forwar=
+d
+>> them this e-mail, so that they can reply.
+>>
+>> Thanks!
+>> Marina
+>>
+>>
+>>
+>
+
+--f46d042c64779147b204c5bda2f1
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p>I will be there too!</p>
+<p>Marta</p>
+<div class=3D"gmail_quote">On Jul 26, 2012 5:46 PM, &quot;Ana Risteska&quot=
+; &lt;<a href=3D"mailto:a.risteska@gmail.com">a.risteska@gmail.com</a>&gt; =
+wrote:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=3D"m=
+argin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+See you there! :)<br><br><div class=3D"gmail_quote">On Thu, Jul 26, 2012 at=
+ 5:43 PM, <a href=3D"mailto:patriciasantanacruz@gmail.com" target=3D"_blank=
+">patriciasantanacruz@gmail.com</a> <span dir=3D"ltr">&lt;<a href=3D"mailto=
+:patriciasantanacruz@gmail.com" target=3D"_blank">patriciasantanacruz@gmail=
+.com</a>&gt;</span> wrote:<br>
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">For sure!!<br><br>Sent from my HTC<div><div>=
+<br><br>----- Reply message -----<br>From: &quot;Marina Zhurakhinskaya&quot=
+; &lt;<a href=3D"mailto:marinaz@redhat.com" target=3D"_blank">marinaz@redha=
+t.com</a>&gt;<br>
+
+
+Date: Thu, Jul 26, 2012 17:17<br>Subject: women&#39;s dinner at GUADEC<br>T=
+o: &quot;gnome-women-list&quot; &lt;<a href=3D"mailto:gnome-women-list@gnom=
+e.org" target=3D"_blank">gnome-women-list@gnome.org</a>&gt;<br>Cc: &quot;Ka=
+ren Sandler&quot; &lt;<a href=3D"mailto:karen@gnome.org" target=3D"_blank">=
+karen@gnome.org</a>&gt;, &quot;Joanmarie Diggs&quot; &lt;<a href=3D"mailto:=
+jdiggs@igalia.com" target=3D"_blank">jdiggs@igalia.com</a>&gt;, &quot;Tiffa=
+ny Antopolski&quot; &lt;<a href=3D"mailto:tiffany.antopolski@gmail.com" tar=
+get=3D"_blank">tiffany.antopolski@gmail.com</a>&gt;, &quot;Tamara Atanasosk=
+a&quot; &lt;<a href=3D"mailto:tamara.atanasoska20@gmail.com" target=3D"_bla=
+nk">tamara.atanasoska20@gmail.com</a>&gt;, &lt;<a href=3D"mailto:lucianafuj=
+ii@gmail.com" target=3D"_blank">lucianafujii@gmail.com</a>&gt;, &quot;Julit=
+a Inca Chiroque&quot; &lt;<a href=3D"mailto:jinca@pucp.pe" target=3D"_blank=
+">jinca@pucp.pe</a>&gt;, &quot;Rosanna Yuen&quot; &lt;<a href=3D"mailto:zan=
+a@gnome.org" target=3D"_blank">zana@gnome.org</a>&gt;, &quot;Ekaterina Gera=
+simova&quot; &lt;<a href=3D"mailto:kittykat3756@gmail.com" target=3D"_blank=
+">kittykat3756@gmail.com</a>&gt;, &quot;Matilda Bernard&quot; &lt;<a href=
+=3D"mailto:serah4291@gmail.com" target=3D"_blank">serah4291@gmail.com</a>&g=
+t;, &quot;Marta Maria Casetti&quot; &lt;<a href=3D"mailto:mmcasetti@gmail.c=
+om" target=3D"_blank">mmcasetti@gmail.com</a>&gt;, &quot;Meg Ford&quot; &lt=
+;<a href=3D"mailto:meg387@gmail.com" target=3D"_blank">meg387@gmail.com</a>=
+&gt;, &quot;Emily Gonyer&quot; &lt;<a href=3D"mailto:emilyyrose@gmail.com" =
+target=3D"_blank">emilyyrose@gmail.com</a>&gt;, &quot;Jovanka Gulicoska&quo=
+t; &lt;<a href=3D"mailto:jovanka.gulicoska@gmail.com" target=3D"_blank">jov=
+anka.gulicoska@gmail.com</a>&gt;, &quot;Beth Hadley&quot; &lt;<a href=3D"ma=
+ilto:bethmhadley@gmail.com" target=3D"_blank">bethmhadley@gmail.com</a>&gt;=
+, &quot;Susanna Huhtanen&quot; &lt;<a href=3D"mailto:ihmis.suski@gmail.com"=
+ target=3D"_blank">ihmis.suski@gmail.com</a>&gt;, &quot;Ana Risteska&quot; =
+&lt;<a href=3D"mailto:a.risteska@gmail.com" target=3D"_blank">a.risteska@gm=
+ail.com</a>&gt;, &quot;Patricia Santana Cruz&quot; &lt;<a href=3D"mailto:pa=
+triciasantanacruz@gmail.com" target=3D"_blank">patriciasantanacruz@gmail.co=
+m</a>&gt;, &quot;Fabiana Sim=F5es&quot; &lt;<a href=3D"mailto:fabianapsimoe=
+s@gmail.com" target=3D"_blank">fabianapsimoes@gmail.com</a>&gt;, &quot;Anna=
+ Zacchi&quot; &lt;<a href=3D"mailto:azzurroverde@gmail.com" target=3D"_blan=
+k">azzurroverde@gmail.com</a>&gt;<br>
+
+
+<br><br>Hi all!<br><br>Let&#39;s get together for a women&#39;s dinner tomo=
+rrow, Friday, July 27, at 9:00pm. This will give us a chance to meet each o=
+ther, discuss our experiences, and discuss the effort to involve more women=
+ in GNOME and free software.<br>
+
+
+<br>We&#39;ll send details about the restaurant once we have an accurate co=
+unt and make a reservation, so please *respond as soon as possible if you w=
+ill attend*. We&#39;ll be meeting a 8:30pm outside RIALTA to walk/get rides=
+ to the restaurant.<br>
+
+
+<br>Please let any women you meet at GUADEC know about the dinner and forwa=
+rd them this e-mail, so that they can reply.<br><br>Thanks!<br>Marina<br><b=
+r><br></div></div></blockquote></div><br>
+</blockquote></div>
+
+--f46d042c64779147b204c5bda2f1--
+From jinca@pucp.pe  Thu Jul 26 17:03:17 2012
+Return-Path: <jinca@pucp.pe>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BD2087502D7
+	for <gnome-women-list@gnome.org>; Thu, 26 Jul 2012 17:03:17 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.6
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.6 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id RNDZhtj9UxUh for <gnome-women-list@gnome.org>;
+	Thu, 26 Jul 2012 17:03:14 +0000 (UTC)
+Received: from mail-vc0-f182.google.com (mail-vc0-f182.google.com
+	[209.85.220.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 923C775026E
+	for <gnome-women-list@gnome.org>; Thu, 26 Jul 2012 17:03:05 +0000 (UTC)
+Received: by vcbgb22 with SMTP id gb22so3146343vcb.27
+	for <gnome-women-list@gnome.org>; Thu, 26 Jul 2012 10:03:04 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=google.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type:x-gm-message-state;
+	bh=zg5b4LjlybnJz+Ap/GcO3L5ZqneSxxuOAlVw6jIdYRs=;
+	b=RiwFrZ0X3wdzaZJPNEMkNJRdrWF7VTQkDQKFzirV0l7QNamnMEDff2M8oM+Y+mLKac
+	O1QzXhFK2sNmVppJCe/Ds/w3dPbTdprwH4dRf8Pus1xc11iLF7mjKrr+N18fnUlBwwH2
+	CJF6mH4sZy48jfzIVlszsTAgJv0QVDQ8G4o+Rz/t0lT0ON7XWkNuQ8wKKLBzapZE2LdR
+	GJmaVQY2kIycSG8xkGh2KhWsRu2HhiSpEqHIgyUp/IRUpUZ6wtIosRUyrQI5J33eHQwi
+	HZYQ7czgX1qdurDfiU4TW0CCYzmKVfzQj8f4Bb5OPnvH7kKOIhl9CXpy3lFsWs7xpbbn
+	2xtQ==
+MIME-Version: 1.0
+Received: by 10.220.107.15 with SMTP id z15mr2501290vco.36.1343322184292; Thu,
+	26 Jul 2012 10:03:04 -0700 (PDT)
+Received: by 10.58.237.7 with HTTP; Thu, 26 Jul 2012 10:03:04 -0700 (PDT)
+In-Reply-To: <CAC2+W+LdduN8BH3K5t9K40a5qv_CGR9DJjb_2e8bJVLpJHoUNA@mail.gmail.com>
+References: <501165bf.48df0e0a.6175.ffffec07@mx.google.com>
+	<CAM1HtX0S+KOoK6toEubB9NRh0maJ3K8zj9rbib1kK5SCJUijiw@mail.gmail.com>
+	<CAC2+W+LdduN8BH3K5t9K40a5qv_CGR9DJjb_2e8bJVLpJHoUNA@mail.gmail.com>
+Date: Thu, 26 Jul 2012 12:03:04 -0500
+Message-ID: <CAFP92txTdV-jh-U3b55aCSaEojoQsTP1NWDtzSizsOrkPcB4Nw@mail.gmail.com>
+From: Julita Inca Chiroque <jinca@pucp.pe>
+To: Marta Maria Casetti <mmcasetti@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d043c7ba49d1b9804c5be91ed
+X-Gm-Message-State: ALoCoQn6BetuT/hJWm3OX7U/jjVTQ3rqTwn9daAmlE3x5ttHHHhyhLYil/7U/wuiYI8jKIGZ0OE7
+X-Mailman-Approved-At: Fri, 27 Jul 2012 08:29:38 +0000
+Cc: lucianafujii@gmail.com, Karen Sandler <karen@gnome.org>,
+	=?ISO-8859-1?Q?Fabiana_Sim=F5es?= <fabianapsimoes@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Matilda Bernard <serah4291@gmail.com>, Ana Risteska <a.risteska@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Beth Hadley <bethmhadley@gmail.com>, Emily Gonyer <emilyyrose@gmail.com>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 26 Jul 2012 17:03:18 -0000
+
+--f46d043c7ba49d1b9804c5be91ed
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Tamara and I will too :))
+
+2012/7/26 Marta Maria Casetti <mmcasetti@gmail.com>
+
+> I will be there too!
+>
+> Marta
+> On Jul 26, 2012 5:46 PM, "Ana Risteska" <a.risteska@gmail.com> wrote:
+>
+>> See you there! :)
+>>
+>> On Thu, Jul 26, 2012 at 5:43 PM, patriciasantanacruz@gmail.com <
+>> patriciasantanacruz@gmail.com> wrote:
+>>
+>>> For sure!!
+>>>
+>>> Sent from my HTC
+>>>
+>>>
+>>> ----- Reply message -----
+>>> From: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+>>> Date: Thu, Jul 26, 2012 17:17
+>>> Subject: women's dinner at GUADEC
+>>> To: "gnome-women-list" <gnome-women-list@gnome.org>
+>>> Cc: "Karen Sandler" <karen@gnome.org>, "Joanmarie Diggs" <
+>>> jdiggs@igalia.com>, "Tiffany Antopolski" <tiffany.antopolski@gmail.com>=
+,
+>>> "Tamara Atanasoska" <tamara.atanasoska20@gmail.com>, <
+>>> lucianafujii@gmail.com>, "Julita Inca Chiroque" <jinca@pucp.pe>,
+>>> "Rosanna Yuen" <zana@gnome.org>, "Ekaterina Gerasimova" <
+>>> kittykat3756@gmail.com>, "Matilda Bernard" <serah4291@gmail.com>,
+>>> "Marta Maria Casetti" <mmcasetti@gmail.com>, "Meg Ford" <
+>>> meg387@gmail.com>, "Emily Gonyer" <emilyyrose@gmail.com>, "Jovanka
+>>> Gulicoska" <jovanka.gulicoska@gmail.com>, "Beth Hadley" <
+>>> bethmhadley@gmail.com>, "Susanna Huhtanen" <ihmis.suski@gmail.com>,
+>>> "Ana Risteska" <a.risteska@gmail.com>, "Patricia Santana Cruz" <
+>>> patriciasantanacruz@gmail.com>, "Fabiana Sim=F5es" <
+>>> fabianapsimoes@gmail.com>, "Anna Zacchi" <azzurroverde@gmail.com>
+>>>
+>>>
+>>> Hi all!
+>>>
+>>> Let's get together for a women's dinner tomorrow, Friday, July 27, at
+>>> 9:00pm. This will give us a chance to meet each other, discuss our
+>>> experiences, and discuss the effort to involve more women in GNOME and =
+free
+>>> software.
+>>>
+>>> We'll send details about the restaurant once we have an accurate count
+>>> and make a reservation, so please *respond as soon as possible if you w=
+ill
+>>> attend*. We'll be meeting a 8:30pm outside RIALTA to walk/get rides to =
+the
+>>> restaurant.
+>>>
+>>> Please let any women you meet at GUADEC know about the dinner and
+>>> forward them this e-mail, so that they can reply.
+>>>
+>>> Thanks!
+>>> Marina
+>>>
+>>>
+>>>
+>>
+
+--f46d043c7ba49d1b9804c5be91ed
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Tamara and I will too :))<br><br><div class=3D"gmail_quote">2012/7/26 Marta=
+ Maria Casetti <span dir=3D"ltr">&lt;<a href=3D"mailto:mmcasetti@gmail.com"=
+ target=3D"_blank">mmcasetti@gmail.com</a>&gt;</span><br><blockquote class=
+=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padd=
+ing-left:1ex">
+<p>I will be there too!</p><span class=3D"HOEnZb"><font color=3D"#888888">
+<p>Marta</p></font></span><div class=3D"HOEnZb"><div class=3D"h5">
+<div class=3D"gmail_quote">On Jul 26, 2012 5:46 PM, &quot;Ana Risteska&quot=
+; &lt;<a href=3D"mailto:a.risteska@gmail.com" target=3D"_blank">a.risteska@=
+gmail.com</a>&gt; wrote:<br type=3D"attribution"><blockquote class=3D"gmail=
+_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:=
+1ex">
+
+See you there! :)<br><br><div class=3D"gmail_quote">On Thu, Jul 26, 2012 at=
+ 5:43 PM, <a href=3D"mailto:patriciasantanacruz@gmail.com" target=3D"_blank=
+">patriciasantanacruz@gmail.com</a> <span dir=3D"ltr">&lt;<a href=3D"mailto=
+:patriciasantanacruz@gmail.com" target=3D"_blank">patriciasantanacruz@gmail=
+.com</a>&gt;</span> wrote:<br>
+
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">For sure!!<br><br>Sent from my HTC<div><div>=
+<br><br>----- Reply message -----<br>From: &quot;Marina Zhurakhinskaya&quot=
+; &lt;<a href=3D"mailto:marinaz@redhat.com" target=3D"_blank">marinaz@redha=
+t.com</a>&gt;<br>
+
+
+
+Date: Thu, Jul 26, 2012 17:17<br>Subject: women&#39;s dinner at GUADEC<br>T=
+o: &quot;gnome-women-list&quot; &lt;<a href=3D"mailto:gnome-women-list@gnom=
+e.org" target=3D"_blank">gnome-women-list@gnome.org</a>&gt;<br>Cc: &quot;Ka=
+ren Sandler&quot; &lt;<a href=3D"mailto:karen@gnome.org" target=3D"_blank">=
+karen@gnome.org</a>&gt;, &quot;Joanmarie Diggs&quot; &lt;<a href=3D"mailto:=
+jdiggs@igalia.com" target=3D"_blank">jdiggs@igalia.com</a>&gt;, &quot;Tiffa=
+ny Antopolski&quot; &lt;<a href=3D"mailto:tiffany.antopolski@gmail.com" tar=
+get=3D"_blank">tiffany.antopolski@gmail.com</a>&gt;, &quot;Tamara Atanasosk=
+a&quot; &lt;<a href=3D"mailto:tamara.atanasoska20@gmail.com" target=3D"_bla=
+nk">tamara.atanasoska20@gmail.com</a>&gt;, &lt;<a href=3D"mailto:lucianafuj=
+ii@gmail.com" target=3D"_blank">lucianafujii@gmail.com</a>&gt;, &quot;Julit=
+a Inca Chiroque&quot; &lt;<a href=3D"mailto:jinca@pucp.pe" target=3D"_blank=
+">jinca@pucp.pe</a>&gt;, &quot;Rosanna Yuen&quot; &lt;<a href=3D"mailto:zan=
+a@gnome.org" target=3D"_blank">zana@gnome.org</a>&gt;, &quot;Ekaterina Gera=
+simova&quot; &lt;<a href=3D"mailto:kittykat3756@gmail.com" target=3D"_blank=
+">kittykat3756@gmail.com</a>&gt;, &quot;Matilda Bernard&quot; &lt;<a href=
+=3D"mailto:serah4291@gmail.com" target=3D"_blank">serah4291@gmail.com</a>&g=
+t;, &quot;Marta Maria Casetti&quot; &lt;<a href=3D"mailto:mmcasetti@gmail.c=
+om" target=3D"_blank">mmcasetti@gmail.com</a>&gt;, &quot;Meg Ford&quot; &lt=
+;<a href=3D"mailto:meg387@gmail.com" target=3D"_blank">meg387@gmail.com</a>=
+&gt;, &quot;Emily Gonyer&quot; &lt;<a href=3D"mailto:emilyyrose@gmail.com" =
+target=3D"_blank">emilyyrose@gmail.com</a>&gt;, &quot;Jovanka Gulicoska&quo=
+t; &lt;<a href=3D"mailto:jovanka.gulicoska@gmail.com" target=3D"_blank">jov=
+anka.gulicoska@gmail.com</a>&gt;, &quot;Beth Hadley&quot; &lt;<a href=3D"ma=
+ilto:bethmhadley@gmail.com" target=3D"_blank">bethmhadley@gmail.com</a>&gt;=
+, &quot;Susanna Huhtanen&quot; &lt;<a href=3D"mailto:ihmis.suski@gmail.com"=
+ target=3D"_blank">ihmis.suski@gmail.com</a>&gt;, &quot;Ana Risteska&quot; =
+&lt;<a href=3D"mailto:a.risteska@gmail.com" target=3D"_blank">a.risteska@gm=
+ail.com</a>&gt;, &quot;Patricia Santana Cruz&quot; &lt;<a href=3D"mailto:pa=
+triciasantanacruz@gmail.com" target=3D"_blank">patriciasantanacruz@gmail.co=
+m</a>&gt;, &quot;Fabiana Sim=F5es&quot; &lt;<a href=3D"mailto:fabianapsimoe=
+s@gmail.com" target=3D"_blank">fabianapsimoes@gmail.com</a>&gt;, &quot;Anna=
+ Zacchi&quot; &lt;<a href=3D"mailto:azzurroverde@gmail.com" target=3D"_blan=
+k">azzurroverde@gmail.com</a>&gt;<br>
+
+
+
+<br><br>Hi all!<br><br>Let&#39;s get together for a women&#39;s dinner tomo=
+rrow, Friday, July 27, at 9:00pm. This will give us a chance to meet each o=
+ther, discuss our experiences, and discuss the effort to involve more women=
+ in GNOME and free software.<br>
+
+
+
+<br>We&#39;ll send details about the restaurant once we have an accurate co=
+unt and make a reservation, so please *respond as soon as possible if you w=
+ill attend*. We&#39;ll be meeting a 8:30pm outside RIALTA to walk/get rides=
+ to the restaurant.<br>
+
+
+
+<br>Please let any women you meet at GUADEC know about the dinner and forwa=
+rd them this e-mail, so that they can reply.<br><br>Thanks!<br>Marina<br><b=
+r><br></div></div></blockquote></div><br>
+</blockquote></div>
+</div></div></blockquote></div><br>
+
+--f46d043c7ba49d1b9804c5be91ed--
+From karen@gnome.org  Thu Jul 26 22:09:00 2012
+Return-Path: <karen@gnome.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BABE0750120;
+	Thu, 26 Jul 2012 22:09:00 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -3.42
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.42 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, FSL_RCVD_USER=0.001, RCVD_IN_DNSWL_MED=-2.3,
+	SPF_NEUTRAL=0.779] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ru3RTxvAfdlI; Thu, 26 Jul 2012 22:08:58 +0000 (UTC)
+Received: from pure.motives.com (pure.motives.com [207.192.71.45])
+	by menubar.gnome.org (Postfix) with ESMTP id 8DB1F750126;
+	Thu, 26 Jul 2012 22:08:49 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by pure.motives.com (Postfix) with ESMTP id A0ED49CBCE;
+	Thu, 26 Jul 2012 18:08:47 -0400 (EDT)
+Received: from pure.motives.com ([127.0.0.1])
+	by localhost (pure.motives.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 2mL-BUvsvZXy; Thu, 26 Jul 2012 18:08:46 -0400 (EDT)
+Received: from secure.motives.com (localhost [127.0.0.1])
+	by pure.motives.com (Postfix) with ESMTP id 8C39B84076;
+	Thu, 26 Jul 2012 18:08:46 -0400 (EDT)
+Received: from 91.117.99.232 (SquirrelMail authenticated user karen)
+	by secure.motives.com with HTTP;
+	Thu, 26 Jul 2012 18:08:46 -0400 (EDT)
+Message-ID: <1de88a097985590292bcc925f11644ed.squirrel@secure.motives.com>
+In-Reply-To: <CAFP92txTdV-jh-U3b55aCSaEojoQsTP1NWDtzSizsOrkPcB4Nw@mail.gmail.com>
+References: <501165bf.48df0e0a.6175.ffffec07@mx.google.com>
+	<CAM1HtX0S+KOoK6toEubB9NRh0maJ3K8zj9rbib1kK5SCJUijiw@mail.gmail.com>
+	<CAC2+W+LdduN8BH3K5t9K40a5qv_CGR9DJjb_2e8bJVLpJHoUNA@mail.gmail.com>
+	<CAFP92txTdV-jh-U3b55aCSaEojoQsTP1NWDtzSizsOrkPcB4Nw@mail.gmail.com>
+Date: Thu, 26 Jul 2012 18:08:46 -0400 (EDT)
+From: "Karen Sandler" <karen@gnome.org>
+To: "Julita Inca Chiroque" <jinca@pucp.pe>
+User-Agent: SquirrelMail/1.4.15
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Priority: 3 (Normal)
+Importance: Normal
+X-Mailman-Approved-At: Fri, 27 Jul 2012 08:29:38 +0000
+Cc: lucianafujii@gmail.com,
+	Fabiana =?iso-8859-1?Q?Sim=F5es?= <fabianapsimoes@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Matilda Bernard <serah4291@gmail.com>, Ana Risteska <a.risteska@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Beth Hadley <bethmhadley@gmail.com>, Emily Gonyer <emilyyrose@gmail.com>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+Reply-To: karen@gnome.org
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 26 Jul 2012 22:09:01 -0000
+
+count me in too!
+
+karen
+
+On Thu, July 26, 2012 1:03 pm, Julita Inca Chiroque wrote:
+> Tamara and I will too :))
+>
+> 2012/7/26 Marta Maria Casetti <mmcasetti@gmail.com>
+>
+>> I will be there too!
+>>
+>> Marta
+>> On Jul 26, 2012 5:46 PM, "Ana Risteska" <a.risteska@gmail.com> wrote:
+>>
+>>> See you there! :)
+>>>
+>>> On Thu, Jul 26, 2012 at 5:43 PM, patriciasantanacruz@gmail.com <
+>>> patriciasantanacruz@gmail.com> wrote:
+>>>
+>>>> For sure!!
+>>>>
+>>>> Sent from my HTC
+>>>>
+>>>>
+>>>> ----- Reply message -----
+>>>> From: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+>>>> Date: Thu, Jul 26, 2012 17:17
+>>>> Subject: women's dinner at GUADEC
+>>>> To: "gnome-women-list" <gnome-women-list@gnome.org>
+>>>> Cc: "Karen Sandler" <karen@gnome.org>, "Joanmarie Diggs" <
+>>>> jdiggs@igalia.com>, "Tiffany Antopolski"
+>>>> <tiffany.antopolski@gmail.com>,
+>>>> "Tamara Atanasoska" <tamara.atanasoska20@gmail.com>, <
+>>>> lucianafujii@gmail.com>, "Julita Inca Chiroque" <jinca@pucp.pe>,
+>>>> "Rosanna Yuen" <zana@gnome.org>, "Ekaterina Gerasimova" <
+>>>> kittykat3756@gmail.com>, "Matilda Bernard" <serah4291@gmail.com>,
+>>>> "Marta Maria Casetti" <mmcasetti@gmail.com>, "Meg Ford" <
+>>>> meg387@gmail.com>, "Emily Gonyer" <emilyyrose@gmail.com>, "Jovanka
+>>>> Gulicoska" <jovanka.gulicoska@gmail.com>, "Beth Hadley" <
+>>>> bethmhadley@gmail.com>, "Susanna Huhtanen" <ihmis.suski@gmail.com>,
+>>>> "Ana Risteska" <a.risteska@gmail.com>, "Patricia Santana Cruz" <
+>>>> patriciasantanacruz@gmail.com>, "Fabiana Simões" <
+>>>> fabianapsimoes@gmail.com>, "Anna Zacchi" <azzurroverde@gmail.com>
+>>>>
+>>>>
+>>>> Hi all!
+>>>>
+>>>> Let's get together for a women's dinner tomorrow, Friday, July 27, at
+>>>> 9:00pm. This will give us a chance to meet each other, discuss our
+>>>> experiences, and discuss the effort to involve more women in GNOME and
+>>>> free
+>>>> software.
+>>>>
+>>>> We'll send details about the restaurant once we have an accurate count
+>>>> and make a reservation, so please *respond as soon as possible if you
+>>>> will
+>>>> attend*. We'll be meeting a 8:30pm outside RIALTA to walk/get rides to
+>>>> the
+>>>> restaurant.
+>>>>
+>>>> Please let any women you meet at GUADEC know about the dinner and
+>>>> forward them this e-mail, so that they can reply.
+>>>>
+>>>> Thanks!
+>>>> Marina
+>>>>
+>>>>
+>>>>
+>>>
+>
+
+
+From bethmhadley@gmail.com  Thu Jul 26 22:11:15 2012
+Return-Path: <bethmhadley@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C7019750126;
+	Thu, 26 Jul 2012 22:11:15 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLY=1,
+	HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001]
+	autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id JUiyICHdyleK; Thu, 26 Jul 2012 22:11:01 +0000 (UTC)
+Received: from mail-gg0-f182.google.com (mail-gg0-f182.google.com
+	[209.85.161.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 21648750120;
+	Thu, 26 Jul 2012 22:10:52 +0000 (UTC)
+Received: by ggnm2 with SMTP id m2so3817317ggn.27
+	for <multiple recipients>; Thu, 26 Jul 2012 15:10:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+	:cc:content-type;
+	bh=A0Z9QOlfiPqZuRBAVcDOHsHG+KZ2wS0DwVDQ25/cE/U=;
+	b=d385mZM7hRuVV5S14fGjb9h3aO1S8Tcp/SsXTmRI0S9O9rb8LeKj7tjhIe0l9tEmWd
+	qVUA/rL5GyxmGzvNde9Wz7Ivyf5qwDpaFrxGm2kEQKE1hBFC52V69Rz82c7mZKF25M6O
+	FWLbYAf0bV+QwALdu7SVy4JlIbKJdTUG4yFqtAZV7I00y+yBDI8HRC1Mkgl3cPTiu9WH
+	/DgRdbGgiXiBi7bA4u2EYwXEVlizzBGw+eVGEneA+qu1taihXmuC2sIl5/T9muMk95vj
+	EdMix9VWXnbIN0+fvUgWmt3bl303RYQ4YYm7C+1B8uem2BkgeNr71r2Ml26IEQvF3AUh
+	YRog==
+Received: by 10.60.20.74 with SMTP id l10mr554885oee.19.1343340650717; Thu, 26
+	Jul 2012 15:10:50 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.182.50.39 with HTTP; Thu, 26 Jul 2012 15:10:30 -0700 (PDT)
+In-Reply-To: <1de88a097985590292bcc925f11644ed.squirrel@secure.motives.com>
+References: <501165bf.48df0e0a.6175.ffffec07@mx.google.com>
+	<CAM1HtX0S+KOoK6toEubB9NRh0maJ3K8zj9rbib1kK5SCJUijiw@mail.gmail.com>
+	<CAC2+W+LdduN8BH3K5t9K40a5qv_CGR9DJjb_2e8bJVLpJHoUNA@mail.gmail.com>
+	<CAFP92txTdV-jh-U3b55aCSaEojoQsTP1NWDtzSizsOrkPcB4Nw@mail.gmail.com>
+	<1de88a097985590292bcc925f11644ed.squirrel@secure.motives.com>
+From: Beth Hadley <bethmhadley@gmail.com>
+Date: Fri, 27 Jul 2012 00:10:30 +0200
+Message-ID: <CACg2K7_SNYAJcOqGb0hzDiWZHwqP4KUwxvkL85Ezcygc30cR2Q@mail.gmail.com>
+To: karen@gnome.org
+Content-Type: multipart/alternative; boundary=e89a8f923f7c4c61f104c5c2de7d
+X-Mailman-Approved-At: Fri, 27 Jul 2012 08:29:38 +0000
+Cc: lucianafujii@gmail.com,
+	=?ISO-8859-1?Q?Fabiana_Sim=F5es?= <fabianapsimoes@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Emily Gonyer <emilyyrose@gmail.com>, Ana Risteska <a.risteska@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>, Matilda Bernard <serah4291@gmail.com>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 26 Jul 2012 22:11:16 -0000
+
+--e89a8f923f7c4c61f104c5c2de7d
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+I'll be there =3D)
+
+On Fri, Jul 27, 2012 at 12:08 AM, Karen Sandler <karen@gnome.org> wrote:
+
+> count me in too!
+>
+> karen
+>
+> On Thu, July 26, 2012 1:03 pm, Julita Inca Chiroque wrote:
+> > Tamara and I will too :))
+> >
+> > 2012/7/26 Marta Maria Casetti <mmcasetti@gmail.com>
+> >
+> >> I will be there too!
+> >>
+> >> Marta
+> >> On Jul 26, 2012 5:46 PM, "Ana Risteska" <a.risteska@gmail.com> wrote:
+> >>
+> >>> See you there! :)
+> >>>
+> >>> On Thu, Jul 26, 2012 at 5:43 PM, patriciasantanacruz@gmail.com <
+> >>> patriciasantanacruz@gmail.com> wrote:
+> >>>
+> >>>> For sure!!
+> >>>>
+> >>>> Sent from my HTC
+> >>>>
+> >>>>
+> >>>> ----- Reply message -----
+> >>>> From: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+> >>>> Date: Thu, Jul 26, 2012 17:17
+> >>>> Subject: women's dinner at GUADEC
+> >>>> To: "gnome-women-list" <gnome-women-list@gnome.org>
+> >>>> Cc: "Karen Sandler" <karen@gnome.org>, "Joanmarie Diggs" <
+> >>>> jdiggs@igalia.com>, "Tiffany Antopolski"
+> >>>> <tiffany.antopolski@gmail.com>,
+> >>>> "Tamara Atanasoska" <tamara.atanasoska20@gmail.com>, <
+> >>>> lucianafujii@gmail.com>, "Julita Inca Chiroque" <jinca@pucp.pe>,
+> >>>> "Rosanna Yuen" <zana@gnome.org>, "Ekaterina Gerasimova" <
+> >>>> kittykat3756@gmail.com>, "Matilda Bernard" <serah4291@gmail.com>,
+> >>>> "Marta Maria Casetti" <mmcasetti@gmail.com>, "Meg Ford" <
+> >>>> meg387@gmail.com>, "Emily Gonyer" <emilyyrose@gmail.com>, "Jovanka
+> >>>> Gulicoska" <jovanka.gulicoska@gmail.com>, "Beth Hadley" <
+> >>>> bethmhadley@gmail.com>, "Susanna Huhtanen" <ihmis.suski@gmail.com>,
+> >>>> "Ana Risteska" <a.risteska@gmail.com>, "Patricia Santana Cruz" <
+> >>>> patriciasantanacruz@gmail.com>, "Fabiana Sim=F5es" <
+> >>>> fabianapsimoes@gmail.com>, "Anna Zacchi" <azzurroverde@gmail.com>
+> >>>>
+> >>>>
+> >>>> Hi all!
+> >>>>
+> >>>> Let's get together for a women's dinner tomorrow, Friday, July 27, a=
+t
+> >>>> 9:00pm. This will give us a chance to meet each other, discuss our
+> >>>> experiences, and discuss the effort to involve more women in GNOME a=
+nd
+> >>>> free
+> >>>> software.
+> >>>>
+> >>>> We'll send details about the restaurant once we have an accurate cou=
+nt
+> >>>> and make a reservation, so please *respond as soon as possible if yo=
+u
+> >>>> will
+> >>>> attend*. We'll be meeting a 8:30pm outside RIALTA to walk/get rides =
+to
+> >>>> the
+> >>>> restaurant.
+> >>>>
+> >>>> Please let any women you meet at GUADEC know about the dinner and
+> >>>> forward them this e-mail, so that they can reply.
+> >>>>
+> >>>> Thanks!
+> >>>> Marina
+> >>>>
+> >>>>
+> >>>>
+> >>>
+> >
+>
+>
+>
+
+
+--=20
+*Beth Hadley*
+
+--e89a8f923f7c4c61f104c5c2de7d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+I&#39;ll be there =3D)<br><br><div class=3D"gmail_quote">On Fri, Jul 27, 20=
+12 at 12:08 AM, Karen Sandler <span dir=3D"ltr">&lt;<a href=3D"mailto:karen=
+@gnome.org" target=3D"_blank">karen@gnome.org</a>&gt;</span> wrote:<br><blo=
+ckquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #c=
+cc solid;padding-left:1ex">
+
+count me in too!<br>
+<span class=3D"HOEnZb"><font color=3D"#888888"><br>
+karen<br>
+</font></span><div class=3D"HOEnZb"><div class=3D"h5"><br>
+On Thu, July 26, 2012 1:03 pm, Julita Inca Chiroque wrote:<br>
+&gt; Tamara and I will too :))<br>
+&gt;<br>
+&gt; 2012/7/26 Marta Maria Casetti &lt;<a href=3D"mailto:mmcasetti@gmail.co=
+m">mmcasetti@gmail.com</a>&gt;<br>
+&gt;<br>
+&gt;&gt; I will be there too!<br>
+&gt;&gt;<br>
+&gt;&gt; Marta<br>
+&gt;&gt; On Jul 26, 2012 5:46 PM, &quot;Ana Risteska&quot; &lt;<a href=3D"m=
+ailto:a.risteska@gmail.com">a.risteska@gmail.com</a>&gt; wrote:<br>
+&gt;&gt;<br>
+&gt;&gt;&gt; See you there! :)<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt; On Thu, Jul 26, 2012 at 5:43 PM, <a href=3D"mailto:patriciasan=
+tanacruz@gmail.com">patriciasantanacruz@gmail.com</a> &lt;<br>
+&gt;&gt;&gt; <a href=3D"mailto:patriciasantanacruz@gmail.com">patriciasanta=
+nacruz@gmail.com</a>&gt; wrote:<br>
+&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; For sure!!<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; Sent from my HTC<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; ----- Reply message -----<br>
+&gt;&gt;&gt;&gt; From: &quot;Marina Zhurakhinskaya&quot; &lt;<a href=3D"mai=
+lto:marinaz@redhat.com">marinaz@redhat.com</a>&gt;<br>
+&gt;&gt;&gt;&gt; Date: Thu, Jul 26, 2012 17:17<br>
+&gt;&gt;&gt;&gt; Subject: women&#39;s dinner at GUADEC<br>
+&gt;&gt;&gt;&gt; To: &quot;gnome-women-list&quot; &lt;<a href=3D"mailto:gno=
+me-women-list@gnome.org">gnome-women-list@gnome.org</a>&gt;<br>
+&gt;&gt;&gt;&gt; Cc: &quot;Karen Sandler&quot; &lt;<a href=3D"mailto:karen@=
+gnome.org">karen@gnome.org</a>&gt;, &quot;Joanmarie Diggs&quot; &lt;<br>
+&gt;&gt;&gt;&gt; <a href=3D"mailto:jdiggs@igalia.com">jdiggs@igalia.com</a>=
+&gt;, &quot;Tiffany Antopolski&quot;<br>
+&gt;&gt;&gt;&gt; &lt;<a href=3D"mailto:tiffany.antopolski@gmail.com">tiffan=
+y.antopolski@gmail.com</a>&gt;,<br>
+&gt;&gt;&gt;&gt; &quot;Tamara Atanasoska&quot; &lt;<a href=3D"mailto:tamara=
+.atanasoska20@gmail.com">tamara.atanasoska20@gmail.com</a>&gt;, &lt;<br>
+&gt;&gt;&gt;&gt; <a href=3D"mailto:lucianafujii@gmail.com">lucianafujii@gma=
+il.com</a>&gt;, &quot;Julita Inca Chiroque&quot; &lt;<a href=3D"mailto:jinc=
+a@pucp.pe">jinca@pucp.pe</a>&gt;,<br>
+&gt;&gt;&gt;&gt; &quot;Rosanna Yuen&quot; &lt;<a href=3D"mailto:zana@gnome.=
+org">zana@gnome.org</a>&gt;, &quot;Ekaterina Gerasimova&quot; &lt;<br>
+&gt;&gt;&gt;&gt; <a href=3D"mailto:kittykat3756@gmail.com">kittykat3756@gma=
+il.com</a>&gt;, &quot;Matilda Bernard&quot; &lt;<a href=3D"mailto:serah4291=
+@gmail.com">serah4291@gmail.com</a>&gt;,<br>
+&gt;&gt;&gt;&gt; &quot;Marta Maria Casetti&quot; &lt;<a href=3D"mailto:mmca=
+setti@gmail.com">mmcasetti@gmail.com</a>&gt;, &quot;Meg Ford&quot; &lt;<br>
+&gt;&gt;&gt;&gt; <a href=3D"mailto:meg387@gmail.com">meg387@gmail.com</a>&g=
+t;, &quot;Emily Gonyer&quot; &lt;<a href=3D"mailto:emilyyrose@gmail.com">em=
+ilyyrose@gmail.com</a>&gt;, &quot;Jovanka<br>
+&gt;&gt;&gt;&gt; Gulicoska&quot; &lt;<a href=3D"mailto:jovanka.gulicoska@gm=
+ail.com">jovanka.gulicoska@gmail.com</a>&gt;, &quot;Beth Hadley&quot; &lt;<=
+br>
+&gt;&gt;&gt;&gt; <a href=3D"mailto:bethmhadley@gmail.com">bethmhadley@gmail=
+.com</a>&gt;, &quot;Susanna Huhtanen&quot; &lt;<a href=3D"mailto:ihmis.susk=
+i@gmail.com">ihmis.suski@gmail.com</a>&gt;,<br>
+&gt;&gt;&gt;&gt; &quot;Ana Risteska&quot; &lt;<a href=3D"mailto:a.risteska@=
+gmail.com">a.risteska@gmail.com</a>&gt;, &quot;Patricia Santana Cruz&quot; =
+&lt;<br>
+&gt;&gt;&gt;&gt; <a href=3D"mailto:patriciasantanacruz@gmail.com">patricias=
+antanacruz@gmail.com</a>&gt;, &quot;Fabiana Sim=F5es&quot; &lt;<br>
+&gt;&gt;&gt;&gt; <a href=3D"mailto:fabianapsimoes@gmail.com">fabianapsimoes=
+@gmail.com</a>&gt;, &quot;Anna Zacchi&quot; &lt;<a href=3D"mailto:azzurrove=
+rde@gmail.com">azzurroverde@gmail.com</a>&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; Hi all!<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; Let&#39;s get together for a women&#39;s dinner tomorrow, =
+Friday, July 27, at<br>
+&gt;&gt;&gt;&gt; 9:00pm. This will give us a chance to meet each other, dis=
+cuss our<br>
+&gt;&gt;&gt;&gt; experiences, and discuss the effort to involve more women =
+in GNOME and<br>
+&gt;&gt;&gt;&gt; free<br>
+&gt;&gt;&gt;&gt; software.<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; We&#39;ll send details about the restaurant once we have a=
+n accurate count<br>
+&gt;&gt;&gt;&gt; and make a reservation, so please *respond as soon as poss=
+ible if you<br>
+&gt;&gt;&gt;&gt; will<br>
+&gt;&gt;&gt;&gt; attend*. We&#39;ll be meeting a 8:30pm outside RIALTA to w=
+alk/get rides to<br>
+&gt;&gt;&gt;&gt; the<br>
+&gt;&gt;&gt;&gt; restaurant.<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; Please let any women you meet at GUADEC know about the din=
+ner and<br>
+&gt;&gt;&gt;&gt; forward them this e-mail, so that they can reply.<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt; Thanks!<br>
+&gt;&gt;&gt;&gt; Marina<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;&gt;<br>
+&gt;&gt;&gt;<br>
+&gt;<br>
+<br>
+<br>
+</div></div></blockquote></div><br><br clear=3D"all"><div><br></div>-- <br>=
+<i>Beth Hadley</i><br><br>
+
+--e89a8f923f7c4c61f104c5c2de7d--
+From jovanka.gulicoska@gmail.com  Thu Jul 26 19:02:59 2012
+Return-Path: <jovanka.gulicoska@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B567375012E;
+	Thu, 26 Jul 2012 19:02:59 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.7
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.7 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, FREEMAIL_REPLY=1,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 55WWYnDhsGV0; Thu, 26 Jul 2012 19:02:58 +0000 (UTC)
+Received: from mail-wi0-f174.google.com (mail-wi0-f174.google.com
+	[209.85.212.174])
+	by menubar.gnome.org (Postfix) with ESMTP id 91E31750126;
+	Thu, 26 Jul 2012 19:02:49 +0000 (UTC)
+Received: by wibhr14 with SMTP id hr14so5376635wib.9
+	for <multiple recipients>; Thu, 26 Jul 2012 12:02:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type:content-transfer-encoding;
+	bh=AeSQutymM0QwhzyJ3tfcnsSnNIuUEa0DOzbfZ/hxzlM=;
+	b=qFmT7QgP1Zhl+mQAi/Q421rfznHKYQeUfRm3pz843kLdVUHy5qyb03KKemgYVQvEXz
+	/7pBVvFn9ErGdDoOr6KaFzYFuhaKQ//MnQVlthjzqdP9JSiJAhpjPTlB8xenCWMQOvXL
+	xtYGt9J2cwS/gul+ZnDgDs0+EnolTFahoU4AoJQjhJnGqH3EacbRvjsyBoFCnLn1vdjt
+	gSsk95rz5AHTdFcawLbiiVsZ9Ww0ZJEngzLIuIQFfwbJgMVOeXIrUDmcVwVpopHo3ldf
+	f8/VCYhRExQMoPT5V4N/uXeAa83lYBQfqtYo9x3hSANpc4gTZVKNRveqTtxupPP6SgpN
+	cGbQ==
+MIME-Version: 1.0
+Received: by 10.180.98.200 with SMTP id ek8mr15838766wib.0.1343329367255; Thu,
+	26 Jul 2012 12:02:47 -0700 (PDT)
+Received: by 10.194.20.228 with HTTP; Thu, 26 Jul 2012 12:02:47 -0700 (PDT)
+In-Reply-To: <CAFP92txTdV-jh-U3b55aCSaEojoQsTP1NWDtzSizsOrkPcB4Nw@mail.gmail.com>
+References: <501165bf.48df0e0a.6175.ffffec07@mx.google.com>
+	<CAM1HtX0S+KOoK6toEubB9NRh0maJ3K8zj9rbib1kK5SCJUijiw@mail.gmail.com>
+	<CAC2+W+LdduN8BH3K5t9K40a5qv_CGR9DJjb_2e8bJVLpJHoUNA@mail.gmail.com>
+	<CAFP92txTdV-jh-U3b55aCSaEojoQsTP1NWDtzSizsOrkPcB4Nw@mail.gmail.com>
+Date: Thu, 26 Jul 2012 21:02:47 +0200
+Message-ID: <CAMXSf4py+gFKy2rd6Tb0iVOuYGUh5r+Tko0x1ACmDFauJZA=+w@mail.gmail.com>
+From: Jovanka Gulicoska <jovanka.gulicoska@gmail.com>
+To: Julita Inca Chiroque <jinca@pucp.pe>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailman-Approved-At: Fri, 27 Jul 2012 08:29:38 +0000
+Cc: lucianafujii@gmail.com, Karen Sandler <karen@gnome.org>,
+	=?ISO-8859-1?Q?Fabiana_Sim=F5es?= <fabianapsimoes@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Matilda Bernard <serah4291@gmail.com>, Ana Risteska <a.risteska@gmail.com>,
+	Beth Hadley <bethmhadley@gmail.com>, Emily Gonyer <emilyyrose@gmail.com>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 26 Jul 2012 19:03:00 -0000
+
+I'll be there. :)
+
+Jovanka
+
+On Thu, Jul 26, 2012 at 7:03 PM, Julita Inca Chiroque <jinca@pucp.pe> wrote=
+:
+> Tamara and I will too :))
+>
+>
+> 2012/7/26 Marta Maria Casetti <mmcasetti@gmail.com>
+>>
+>> I will be there too!
+>>
+>> Marta
+>>
+>> On Jul 26, 2012 5:46 PM, "Ana Risteska" <a.risteska@gmail.com> wrote:
+>>>
+>>> See you there! :)
+>>>
+>>> On Thu, Jul 26, 2012 at 5:43 PM, patriciasantanacruz@gmail.com
+>>> <patriciasantanacruz@gmail.com> wrote:
+>>>>
+>>>> For sure!!
+>>>>
+>>>> Sent from my HTC
+>>>>
+>>>>
+>>>> ----- Reply message -----
+>>>> From: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+>>>> Date: Thu, Jul 26, 2012 17:17
+>>>> Subject: women's dinner at GUADEC
+>>>> To: "gnome-women-list" <gnome-women-list@gnome.org>
+>>>> Cc: "Karen Sandler" <karen@gnome.org>, "Joanmarie Diggs"
+>>>> <jdiggs@igalia.com>, "Tiffany Antopolski" <tiffany.antopolski@gmail.co=
+m>,
+>>>> "Tamara Atanasoska" <tamara.atanasoska20@gmail.com>,
+>>>> <lucianafujii@gmail.com>, "Julita Inca Chiroque" <jinca@pucp.pe>, "Ros=
+anna
+>>>> Yuen" <zana@gnome.org>, "Ekaterina Gerasimova" <kittykat3756@gmail.com=
+>,
+>>>> "Matilda Bernard" <serah4291@gmail.com>, "Marta Maria Casetti"
+>>>> <mmcasetti@gmail.com>, "Meg Ford" <meg387@gmail.com>, "Emily Gonyer"
+>>>> <emilyyrose@gmail.com>, "Jovanka Gulicoska" <jovanka.gulicoska@gmail.c=
+om>,
+>>>> "Beth Hadley" <bethmhadley@gmail.com>, "Susanna Huhtanen"
+>>>> <ihmis.suski@gmail.com>, "Ana Risteska" <a.risteska@gmail.com>, "Patri=
+cia
+>>>> Santana Cruz" <patriciasantanacruz@gmail.com>, "Fabiana Sim=F5es"
+>>>> <fabianapsimoes@gmail.com>, "Anna Zacchi" <azzurroverde@gmail.com>
+>>>>
+>>>>
+>>>> Hi all!
+>>>>
+>>>> Let's get together for a women's dinner tomorrow, Friday, July 27, at
+>>>> 9:00pm. This will give us a chance to meet each other, discuss our
+>>>> experiences, and discuss the effort to involve more women in GNOME and=
+ free
+>>>> software.
+>>>>
+>>>> We'll send details about the restaurant once we have an accurate count
+>>>> and make a reservation, so please *respond as soon as possible if you =
+will
+>>>> attend*. We'll be meeting a 8:30pm outside RIALTA to walk/get rides to=
+ the
+>>>> restaurant.
+>>>>
+>>>> Please let any women you meet at GUADEC know about the dinner and
+>>>> forward them this e-mail, so that they can reply.
+>>>>
+>>>> Thanks!
+>>>> Marina
+>>>>
+>>>>
+>>>
+>
+From marinaz@redhat.com  Fri Jul 27 14:09:32 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C26C87501E0;
+	Fri, 27 Jul 2012 14:09:32 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id av-CyioRff4g; Fri, 27 Jul 2012 14:09:13 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id BCC0A750210;
+	Fri, 27 Jul 2012 14:09:05 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id q6RE91X9032545;
+	Fri, 27 Jul 2012 10:09:01 -0400
+Date: Fri, 27 Jul 2012 10:09:01 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <259084520.4592362.1343398141310.JavaMail.root@redhat.com>
+In-Reply-To: <284020978.3682617.1343315874693.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.11.10.164]
+X-Mailer: Zimbra 7.2.0_GA_2669 (ZimbraWebClient - FF3.0 (Linux)/7.2.0_GA_2669)
+X-Mailman-Approved-At: Fri, 27 Jul 2012 14:11:31 +0000
+Cc: Fabiana =?utf-8?Q?Sim=C3=B5es?= <fabianapsimoes@gmail.com>,
+	lucianafujii@gmail.com, Karen Sandler <karen@gnome.org>,
+	Beth Hadley <bethmhadley@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>,
+	Emily Gonyer <emilyyrose@gmail.com>, skud@infotrope.net,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>,
+	Ana Risteska <a.risteska@gmail.com>, ysun@suse.com,
+	Matilda Bernard <serah4291@gmail.com>
+Subject: Re: [gnome-women] women's dinner at GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 27 Jul 2012 14:09:33 -0000
+
+The dinner tonight will be at 9pm at
+
+Casa Tito
+Avenida de Nueva York 1, A Coru=C3=B1a
+http://www.casatito.es
+
+It's about 20 minutes walk from Rialta, so for those of you who will be hea=
+ding from there, we will meet outside registration at 8:30pm to head over t=
+ogether.
+
+Look forward to seeing you there! It's still not too late to join in if you=
+ are at GUADEC!
+
+Thanks!
+Marina
+
+----- Original Message -----
+From: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+To: "gnome-women-list" <gnome-women-list@gnome.org>
+Cc: "Fabiana Sim=C3=B5es" <fabianapsimoes@gmail.com>, "Susanna Huhtanen" <i=
+hmis.suski@gmail.com>, "Karen Sandler" <karen@gnome.org>, "Beth Hadley" <be=
+thmhadley@gmail.com>, lucianafujii@gmail.com, "Matilda Bernard" <serah4291@=
+gmail.com>, "Emily Gonyer" <emilyyrose@gmail.com>, "Jovanka Gulicoska" <jov=
+anka.gulicoska@gmail.com>, "Julita Inca Chiroque" <jinca@pucp.pe>, "Ana Ris=
+teska" <a.risteska@gmail.com>
+Sent: Thursday, July 26, 2012 5:17:54 PM
+Subject: [gnome-women] women's dinner at GUADEC
+
+Hi all!
+
+Let's get together for a women's dinner tomorrow, Friday, July 27, at 9:00p=
+m. This will give us a chance to meet each other, discuss our experiences, =
+and discuss the effort to involve more women in GNOME and free software.
+
+We'll send details about the restaurant once we have an accurate count and =
+make a reservation, so please *respond as soon as possible if you will atte=
+nd*. We'll be meeting a 8:30pm outside RIALTA to walk/get rides to the rest=
+aurant.
+
+Please let any women you meet at GUADEC know about the dinner and forward t=
+hem this e-mail, so that they can reply.
+
+Thanks!
+Marina
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+https://mail.gnome.org/mailman/listinfo/gnome-women-list
+From azzurroverde@gmail.com  Tue Jul 31 08:35:19 2012
+Return-Path: <azzurroverde@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CDCA87501B7;
+	Tue, 31 Jul 2012 08:35:19 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TRJNgW+UxnzM; Tue, 31 Jul 2012 08:35:13 +0000 (UTC)
+Received: from mail-gg0-f182.google.com (mail-gg0-f182.google.com
+	[209.85.161.182])
+	by menubar.gnome.org (Postfix) with ESMTP id F19827500B7;
+	Tue, 31 Jul 2012 08:35:04 +0000 (UTC)
+Received: by ggnm2 with SMTP id m2so8463036ggn.27
+	for <multiple recipients>; Tue, 31 Jul 2012 01:35:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:cc:content-type;
+	bh=BCUIfvRZQSz0z40UM8bMMUr28A+K1JVmC/ra+8+YeDw=;
+	b=C0ZBfCkhXtBfAkGtKaULXm31xloGc4LH7v7NV+SN0QzEkgCDQJaK0HcLLoSzaJAxfi
+	KT9qRNqvQsUGX4ps6kTKUiGNuHIVeQwY0PdPZm4U8cJt6QcTVI5RGASWYK5jkkYFptzz
+	5Lywm8792dKTctp9GEP5Efqw3YrGhtBwVvgjXfgtWMq8sQFghpNH4CtLeJEDbiQpDve1
+	laNhVWGRMXPUpmQti91QHUKgotMkmSPET7kWQUJTf1ojcuhIWv0fxD2qdWvIzzY6WoYv
+	BJxELM5844Ahi1HQkuLHxNQ2Hdbff2uU34Vec0yuJ/6Sijvalbjwcka48WgZrg1N3Hkt
+	CrGA==
+MIME-Version: 1.0
+Received: by 10.50.190.230 with SMTP id gt6mr1256467igc.48.1343723702421; Tue,
+	31 Jul 2012 01:35:02 -0700 (PDT)
+Received: by 10.50.193.168 with HTTP; Tue, 31 Jul 2012 01:35:02 -0700 (PDT)
+Date: Tue, 31 Jul 2012 10:35:02 +0200
+Message-ID: <CALBK6KQm1gpL33bpjkq=taW250T65F+1-TLKJWp5V86x2RHKpQ@mail.gmail.com>
+From: Anna Zacchi <azzurroverde@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=14dae93406bbf589e004c61c0de0
+X-Mailman-Approved-At: Tue, 31 Jul 2012 10:46:34 +0000
+Cc: =?ISO-8859-1?Q?Fabiana_Sim=F5es?= <fabianapsimoes@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>, Karen Sandler <karen@gnome.org>,
+	Beth Hadley <bethmhadley@gmail.com>, lucianafujii@gmail.com,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Matilda Bernard <serah4291@gmail.com>, Emily Gonyer <emilyyrose@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>, Ana Risteska <a.risteska@gmail.com>
+Subject: [gnome-women] mailing list for women in computing
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 31 Jul 2012 08:35:20 -0000
+
+--14dae93406bbf589e004c61c0de0
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello all,
+if you haven't heard about it yet, there is a mailing list for technical
+women in computing:
+
+http://anitaborg.org/initiatives/systers/
+
+
+  Anna
+
+--14dae93406bbf589e004c61c0de0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello all,<div>if you haven&#39;t heard about it yet, there is a mailing li=
+st for technical women in computing:</div><div><br></div><div><a href=3D"ht=
+tp://anitaborg.org/initiatives/systers/">http://anitaborg.org/initiatives/s=
+ysters/</a></div>
+<div><br></div><div><br></div><div>=A0 Anna</div>
+
+--14dae93406bbf589e004c61c0de0--
+From tamara.atanasoska20@gmail.com  Tue Jul 31 09:10:22 2012
+Return-Path: <tamara.atanasoska20@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EDEF47500BF;
+	Tue, 31 Jul 2012 09:10:21 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id bePA0NkA2wIE; Tue, 31 Jul 2012 09:10:20 +0000 (UTC)
+Received: from mail-we0-f182.google.com (mail-we0-f182.google.com
+	[74.125.82.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 70A057500B7;
+	Tue, 31 Jul 2012 09:10:10 +0000 (UTC)
+Received: by weyx56 with SMTP id x56so6601151wey.27
+	for <multiple recipients>; Tue, 31 Jul 2012 02:10:09 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=1XoNXfboJHaLuz6TRThlqR4eIDjfGM0BLKumKhotPaI=;
+	b=qzovx3C2iQh87mBg+i2YETZXGVdhtCmfHei+K6RizGSA5zLnwESQUKw7asfuDVZKU6
+	IfKqO/PvFFhGChg9/8HQfYcHzUQwLjrXcp9m41CBGtZwq7cwAHA57Va156iSyxi3JF2Y
+	eM/CeT85Cwc78UL4zMjq6dKFyq6ZBlSK9r8KGsdXRPM3wgNTVPXEkjmtanuM7r6tUP9D
+	MahVAfJwzVfUuprnMxd1cwN/bg3LCFt5iPzJz1JBCq4PW5wdjD8fmT7Y9BQD0pV6eIf9
+	eNPNMB02EYcF3Fk5y+w5yfaajaGWZdmroWoGYKtawILSNumvMvus9B2jRWY+7WqaxYGG
+	YDuw==
+MIME-Version: 1.0
+Received: by 10.180.97.106 with SMTP id dz10mr5018208wib.21.1343725809218;
+	Tue, 31 Jul 2012 02:10:09 -0700 (PDT)
+Received: by 10.216.139.65 with HTTP; Tue, 31 Jul 2012 02:10:09 -0700 (PDT)
+In-Reply-To: <CALBK6KQm1gpL33bpjkq=taW250T65F+1-TLKJWp5V86x2RHKpQ@mail.gmail.com>
+References: <CALBK6KQm1gpL33bpjkq=taW250T65F+1-TLKJWp5V86x2RHKpQ@mail.gmail.com>
+Date: Tue, 31 Jul 2012 11:10:09 +0200
+Message-ID: <CAFDnFaAQeYg41pxBO3gOkDb+QBEuznEYKqw4jGDEP=hBeq0h6A@mail.gmail.com>
+From: Tamara Atanasoska <tamara.atanasoska20@gmail.com>
+To: Anna Zacchi <azzurroverde@gmail.com>
+Content-Type: multipart/alternative; boundary=f46d0442712e88b66b04c61c8be1
+X-Mailman-Approved-At: Tue, 31 Jul 2012 10:46:34 +0000
+Cc: Susanna Huhtanen <ihmis.suski@gmail.com>,
+	=?UTF-8?Q?Fabiana_Sim=C3=B5es?= <fabianapsimoes@gmail.com>,
+	Karen Sandler <karen@gnome.org>,
+	Beth Hadley <bethmhadley@gmail.com>, lucianafujii@gmail.com,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Matilda Bernard <serah4291@gmail.com>, Emily Gonyer <emilyyrose@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>, Ana Risteska <a.risteska@gmail.com>
+Subject: Re: [gnome-women] mailing list for women in computing
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 31 Jul 2012 09:10:22 -0000
+
+--f46d0442712e88b66b04c61c8be1
+Content-Type: text/plain; charset=UTF-8
+
+Thanks Anna, I subscribed.
+
+>
+
+
+On Tue, Jul 31, 2012 at 10:35 AM, Anna Zacchi <azzurroverde@gmail.com>wrote:
+
+> Hello all,
+> if you haven't heard about it yet, there is a mailing list for technical
+> women in computing:
+>
+> http://anitaborg.org/initiatives/systers/
+>
+>
+>   Anna
+>
+
+--f46d0442712e88b66b04c61c8be1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div>Thanks Anna, I subscribed.=C2=A0</div><blockquote class=3D"gmail_quote=
+" style=3D"margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0.=
+8ex;border-left-width:1px;border-left-color:rgb(204,204,204);border-left-st=
+yle:solid;padding-left:1ex">
+=C2=A0</blockquote><br><div class=3D"gmail_quote">On Tue, Jul 31, 2012 at 1=
+0:35 AM, Anna Zacchi <span dir=3D"ltr">&lt;<a href=3D"mailto:azzurroverde@g=
+mail.com" target=3D"_blank">azzurroverde@gmail.com</a>&gt;</span> wrote:<br=
+><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1=
+px #ccc solid;padding-left:1ex">
+Hello all,<div>if you haven&#39;t heard about it yet, there is a mailing li=
+st for technical women in computing:</div><div><br></div><div><a href=3D"ht=
+tp://anitaborg.org/initiatives/systers/" target=3D"_blank">http://anitaborg=
+.org/initiatives/systers/</a></div>
+<span class=3D"HOEnZb"><font color=3D"#888888">
+<div><br></div><div><br></div><div>=C2=A0 Anna</div>
+</font></span></blockquote></div><br>
+
+--f46d0442712e88b66b04c61c8be1--
+From azzurroverde@gmail.com  Tue Jul 31 13:07:55 2012
+Return-Path: <azzurroverde@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C6E597500D6;
+	Tue, 31 Jul 2012 13:07:55 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NgigKsfmvf2c; Tue, 31 Jul 2012 13:07:42 +0000 (UTC)
+Received: from mail-yx0-f182.google.com (mail-yx0-f182.google.com
+	[209.85.213.182])
+	by menubar.gnome.org (Postfix) with ESMTP id CEB0A7500D3;
+	Tue, 31 Jul 2012 13:07:33 +0000 (UTC)
+Received: by yenl8 with SMTP id l8so8826469yen.27
+	for <multiple recipients>; Tue, 31 Jul 2012 06:07:32 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=Skk+qWc6u6hdBnC81JNhWOOIL4t2R7U5k2Ee7u3CLEQ=;
+	b=Q7Iwku8EB7avjGHqQ57qsBXPP/HY16lVwthAkb7tut37ug9IACiDl4YWujuZoDPHVJ
+	SuYzcefqgVT70daOIS6BavOCFublMElsn/Z/T+3IqZ/qSgf/HRHUhAm2kAxnTUry98Nd
+	sjcDaJyYBJkxuwXYBWZIpLT/su7G9uv7MYrQx4Pot0MUtTOv1fAQaarHVen/RsYiws4O
+	43yl7vVqpE/YNY+wRQH9QeIeblz+SbuprbydqFnTxKAh0SR5C/8iZ5yOzNsr4mw9ejbD
+	+UAIf4c2VwsnBmtlsLN/ZGXU7vcCdjgJofTvfN5pIJderAyM27HAuxxKxu3UGvVZeKDz
+	54Cw==
+MIME-Version: 1.0
+Received: by 10.50.171.40 with SMTP id ar8mr1966055igc.14.1343740051834; Tue,
+	31 Jul 2012 06:07:31 -0700 (PDT)
+Received: by 10.50.193.168 with HTTP; Tue, 31 Jul 2012 06:07:31 -0700 (PDT)
+In-Reply-To: <CALBK6KQm1gpL33bpjkq=taW250T65F+1-TLKJWp5V86x2RHKpQ@mail.gmail.com>
+References: <CALBK6KQm1gpL33bpjkq=taW250T65F+1-TLKJWp5V86x2RHKpQ@mail.gmail.com>
+Date: Tue, 31 Jul 2012 15:07:31 +0200
+Message-ID: <CALBK6KTNQ63eYV1Le2m3mYY+p5dKx9_M6eR1NcOmZPzmBfLoKQ@mail.gmail.com>
+From: Anna Zacchi <azzurroverde@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=e89a8f234cd375c99a04c61fdc6a
+X-Mailman-Approved-At: Thu, 02 Aug 2012 08:17:41 +0000
+Cc: =?ISO-8859-1?Q?Fabiana_Sim=F5es?= <fabianapsimoes@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>, Karen Sandler <karen@gnome.org>,
+	Beth Hadley <bethmhadley@gmail.com>, lucianafujii@gmail.com,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	Matilda Bernard <serah4291@gmail.com>, Emily Gonyer <emilyyrose@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>, Ana Risteska <a.risteska@gmail.com>
+Subject: Re: [gnome-women] mailing list for women in computing
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 31 Jul 2012 13:07:56 -0000
+
+--e89a8f234cd375c99a04c61fdc6a
+Content-Type: text/plain; charset=ISO-8859-1
+
+> Hello again, :)
+
+I realized talking with some women today that many still do not know about
+Grace Hopper celebration.
+Here is a link:
+http://gracehopper.org/2012/
+
+This year it will be in Baltimore, in October.
+
+  Anna
+
+--e89a8f234cd375c99a04c61fdc6a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<br><div class=3D"gmail_quote"><blockquote class=3D"gmail_quote" style=3D"m=
+argin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"><span class=
+=3D"HOEnZb">Hello again, :)</span></blockquote><div>I realized talking with=
+ some women today that many still do not know about Grace Hopper celebratio=
+n.</div>
+<div>Here is a link:</div><div><a href=3D"http://gracehopper.org/2012/">htt=
+p://gracehopper.org/2012/</a></div><div><br></div><div>This year it will be=
+ in Baltimore, in October.</div><div><br></div><div>=A0 Anna</div></div>
+
+--e89a8f234cd375c99a04c61fdc6a--

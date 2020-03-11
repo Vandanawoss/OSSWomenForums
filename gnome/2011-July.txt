@@ -1,0 +1,3078 @@
+From diceratops@gmail.com  Tue Jul  5 14:34:58 2011
+Return-Path: <diceratops@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DDFA17502B2
+	for <gnome-women-list@mail.gnome.org>;
+	Tue,  5 Jul 2011 14:34:58 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.689
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.689 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001, T_TO_NO_BRKTS_FREEMAIL=0.01]
+	autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id f6isXLzBOieu for <gnome-women-list@mail.gnome.org>;
+	Tue,  5 Jul 2011 14:34:54 +0000 (UTC)
+Received: from mail-vw0-f46.google.com (mail-vw0-f46.google.com
+	[209.85.212.46])
+	by menubar.gnome.org (Postfix) with ESMTP id 6612075029A
+	for <gnome-women-list@mail.gnome.org>;
+	Tue,  5 Jul 2011 14:34:45 +0000 (UTC)
+Received: by vws1 with SMTP id 1so6101803vws.33
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 05 Jul 2011 07:34:44 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=3hO0liyOaQNPmLEgWphRxePTFKPisdD6j5UvP0In5bI=;
+	b=kr8xaJ5ZTxkyCpIAtZjRA2TknyY+9O4QaukkIAgGccM95dKO56Bk0+axegYC5PUVrZ
+	jSNqFPfm3rplNcdf6mRDzGLh9aCuHGWj2R5GOSYEfmROLVWBQzjsyacugnxEvgSEj4d6
+	NXgm1qhOfJWPa5+tEzMqnwgtO3uaA9xiQHycU=
+MIME-Version: 1.0
+Received: by 10.52.180.169 with SMTP id dp9mr5935268vdc.134.1309876481701;
+	Tue, 05 Jul 2011 07:34:41 -0700 (PDT)
+Received: by 10.220.187.67 with HTTP; Tue, 5 Jul 2011 07:34:41 -0700 (PDT)
+Date: Tue, 5 Jul 2011 10:34:41 -0400
+Message-ID: <CAPNSC7ZC2ALMz1MA0hY_gw2e4SOUd=WZGEq+BWbA2r2s4YuU=w@mail.gmail.com>
+From: Sarah Riggs <diceratops@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=bcaec5101c7364361104a75362b2
+Subject: [gnome-women] Saying hi, and asking for interviewees.
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 05 Jul 2011 14:34:59 -0000
+
+--bcaec5101c7364361104a75362b2
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Hi everyone, this seems like as good a time as any to introduce myself. I'm
+Sarah, and I'm working on my master's thesis right now and collecting
+interviews about women in open source communities. I'm sending along my
+official recruitment letter, so feel free to forward this to anyone that yo=
+u
+think may want to talk about the topic with me.
+
+Thanks for considering!
+Sarah
+
+-------------------------
+My name is Sarah Riggs and I am a Master's Degree seeking candidate at the
+School of Information and Library Science at UNC Chapel Hill. I am
+conducting research which addresses the large gender gap in the open source
+community.
+
+In 2006, a team of researchers sought to capture an image of women
+contributors to open source software, as it was clear that women made up a
+very small minority of participants (Nafus, Leach, & Kriegar, 2006). Severa=
+l
+proactive members of your community then implemented programs aimed at
+increasing the number of women in open source; however, little research has
+been done since this study.
+
+By conducting qualitative interviews, my intention is to collect narratives
+about the experiences of open source participants. I will ask questions
+about your experiences joining and participating in the open source
+community. Your answers will be used to to identify ways in which more wome=
+n
+can feel comfortable joining the community and contributing to open source
+software development.
+
+I would like to hear thoughts from women as well as men who are open source
+contributors. Please consider participating whether you are just starting
+out, or have been contributing to open source for many years. it is
+important for this research to obtain a diverse group of respondents with
+varied backgrounds so this research constructs a representative narrative o=
+f
+experience.
+
+I will be conducting interviews through July 30th, 2011, and I will be happ=
+y
+to meet you at a time and date at your convenience. Those volunteers who ar=
+e
+selected will be allowed to decide the method of participation, and phone
+calls, face-to-face interaction, or Internet Relay Chat are valid means of
+communication.
+
+Exhaustive efforts will be made to ensure that any information you give me
+is confidential, and you are always free to stop the interview at any time.
+
+Please don't hesitate to contact me if you have any further questions. I ca=
+n
+be best reached by e-mail, *smriggs@email.unc.edu*
+
+Thank you for your time,
+Sarah Riggs
+Principal Investigator
+*University of North Carolina at Chapel Hill, School of Information and
+Library Science <http://sils.unc.edu/>*
+
+Reference:
+
+Nafus, D., Leach, J. & Kriegar, B. (2006). *Gender: Integrated Report of
+Findings* (Deliverable =96 16).* *Retrieved from Free/Libre/Open Source
+Software: Policy Support,*
+http://www.flosspols.org/deliverables/FLOSSPOLS-D16-Gender_Integrated_Repor=
+t_of_Findings.pdf
+*
+
+--bcaec5101c7364361104a75362b2
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Hi everyone, this seems like as good a time as any to introduce myself. I&#=
+39;m Sarah, and I&#39;m working on my master&#39;s thesis right now and col=
+lecting interviews about women in open source communities. I&#39;m sending =
+along my official recruitment letter, so feel free to forward this to anyon=
+e that you think may want to talk about the topic with me.<br>
+<br>Thanks for considering!<br>Sarah<br><br><font face=3D"Liberation serif,=
+ Times New Roman, serif"><font style=3D"font-size: 11pt" size=3D"2">-------=
+------------------<br>My
+name is Sarah Riggs and I am a Master&#39;s Degree seeking candidate at
+the School of Information and Library Science at UNC Chapel Hill. I
+am conducting research which addresses the large gender gap in the
+open source community.</font></font>
+<p style=3D"margin-bottom: 0in"><font color=3D"#000000"><font face=3D"Liber=
+ation serif, Times New Roman, serif"><font style=3D"font-size: 11pt" size=
+=3D"2">In
+2006, a team of researchers sought to capture an image of women
+contributors to open source software, as it was clear that women made
+up a very small minority of participants (Nafus, Leach, &amp;
+Kriegar, 2006)</font></font></font><font face=3D"Liberation serif, Times Ne=
+w Roman, serif"><font style=3D"font-size: 11pt" size=3D"2">.
+Several proactive members of your community then implemented programs
+aimed at increasing the number of women in open source; however,
+little research has been done since this study.</font></font>
+</p><p style=3D"margin-bottom: 0in"><font face=3D"Liberation serif, Times N=
+ew Roman, serif"><font style=3D"font-size: 11pt" size=3D"2">By
+conducting qualitative interviews, my intention is to collect
+narratives about the experiences of open source participants. I will
+ask questions about your experiences joining and participating in the
+open source community. Your answers will be used to to identify ways
+in which more women can feel comfortable joining the community and
+contributing to open source software development.</font></font>
+</p><p style=3D"margin-bottom: 0in"><font face=3D"Liberation serif, Times N=
+ew Roman, serif"><font style=3D"font-size: 11pt" size=3D"2">I
+would like to hear thoughts from women as well as men who are open
+source contributors. Please consider participating whether you are
+just starting out, or have been contributing to open source for many
+years. it is important for this research to obtain a diverse group of
+respondents with varied backgrounds so this research constructs a
+representative narrative of experience.</font></font>
+
+</p><p style=3D"margin-bottom: 0in"><font face=3D"Liberation serif, Times N=
+ew Roman, serif"><font style=3D"font-size: 11pt" size=3D"2">I
+will be conducting interviews through July 30</font></font><sup><font face=
+=3D"Liberation serif, Times New Roman, serif"><font style=3D"font-size: 11p=
+t" size=3D"2">th</font></font></sup><font face=3D"Liberation serif, Times N=
+ew Roman, serif"><font style=3D"font-size: 11pt" size=3D"2">,
+2011, and I will be happy to meet you at a time and date at your
+convenience. Those volunteers who are selected will be allowed to
+decide the method of participation, and phone calls, face-to-face
+interaction, or Internet Relay Chat are valid means of communication.
+ </font></font>
+</p>
+
+<p style=3D"margin-bottom: 0in"><font face=3D"Liberation serif, Times New R=
+oman, serif"><font style=3D"font-size: 11pt" size=3D"2">Exhaustive
+efforts will be made to ensure that any information you give me is
+confidential, and you are always free to stop the interview at any
+time.</font></font></p>
+<p style=3D"margin-bottom: 0in"><font face=3D"Liberation serif, Times New R=
+oman, serif"><font style=3D"font-size: 11pt" size=3D"2">Please
+don&#39;t hesitate to contact me if you have any further questions. I can
+be best reached by e-mail, </font></font><font color=3D"#000080"><span lang=
+=3D"zxx"><u><a href=3D"mailto:smriggs@email.unc.edu"><font face=3D"Liberati=
+on serif, Times New Roman, serif"><font style=3D"font-size: 11pt" size=3D"2=
+">smriggs@email.unc.edu</font></font></a></u></span></font>
+
+
+</p><p style=3D"margin-bottom: 0in"><font face=3D"Liberation serif, Times N=
+ew Roman, serif"><font style=3D"font-size: 11pt" size=3D"2">Thank
+you for your time,</font></font></p><font face=3D"Liberation serif, Times N=
+ew Roman, serif"><font style=3D"font-size: 11pt" size=3D"2">Sarah
+Riggs<br></font></font><font face=3D"Liberation serif, Times New Roman, ser=
+if"><font style=3D"font-size: 11pt" size=3D"2">Principal
+Investigator<br></font></font><font color=3D"#000080"><span lang=3D"zxx"><u=
+><a href=3D"http://sils.unc.edu/">University
+of North Carolina at Chapel Hill, School of Information and Library
+Science</a></u></span></font><p style=3D"margin-bottom: 0in">
+</p><p style=3D"margin-bottom: 0in"></p><font face=3D"Liberation serif, Tim=
+es New Roman, serif"><font style=3D"font-size: 11pt" size=3D"2">Reference:<=
+/font></font>
+<p style=3D"margin-bottom: 0in"><font face=3D"Liberation serif, Times New R=
+oman, serif"><font style=3D"font-size: 11pt" size=3D"2"><span style=3D"font=
+-style: normal">Nafus,
+D., Leach, J. &amp; Kriegar, B. (2006). </span></font></font><font face=3D"=
+Liberation serif, Times New Roman, serif"><font style=3D"font-size: 11pt" s=
+ize=3D"2"><i>Gender:
+Integrated Report of Findings</i></font></font><font face=3D"Liberation ser=
+if, Times New Roman, serif"><font style=3D"font-size: 11pt" size=3D"2"><spa=
+n style=3D"font-style: normal">
+(Deliverable =96 16).</span></font></font><font face=3D"Liberation serif, T=
+imes New Roman, serif"><font style=3D"font-size: 11pt" size=3D"2"><i>
+</i></font></font><font face=3D"Liberation serif, Times New Roman, serif"><=
+font style=3D"font-size: 11pt" size=3D"2"><span style=3D"font-style: normal=
+">Retrieved
+from Free/Libre/Open Source Software: Policy Support,</span></font></font><=
+font face=3D"Liberation serif, Times New Roman, serif"><font style=3D"font-=
+size: 11pt" size=3D"2"><i>
+<a href=3D"http://www.flosspols.org/deliverables/FLOSSPOLS-D16-Gender_Integ=
+rated_Report_of_Findings.pdf">http://www.flosspols.org/deliverables/FLOSSPO=
+LS-D16-Gender_Integrated_Report_of_Findings.pdf</a></i></font></font></p>
+
+<br>
+
+--bcaec5101c7364361104a75362b2--
+From marinaz@redhat.com  Wed Jul 13 18:48:19 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 6EB23750068;
+	Wed, 13 Jul 2011 18:48:19 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id TvlSVUN3yuMz; Wed, 13 Jul 2011 18:48:17 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id D8917750062;
+	Wed, 13 Jul 2011 18:48:09 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p6DIm8lm020803;
+	Wed, 13 Jul 2011 14:48:08 -0400
+Date: Wed, 13 Jul 2011 14:48:08 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>,
+	opw-interns-2011@gnome.org, opw-gsoc-interns-2011@gnome.org
+Message-ID: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.5.71]
+X-Mailer: Zimbra 6.0.9_GA_2686 (ZimbraWebClient - FF3.0 (Linux)/6.0.9_GA_2686)
+Subject: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 13 Jul 2011 18:48:19 -0000
+
+Hi all!
+
+It would be great to have a women's dinner at the Desktop Summit, similar to the one we had last year at GUADEC. I was thinking we could have it on Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon as possible if you are coming to the Desktop Summit and would be interested in attending a dinner. Would either evening work for you?
+
+We will also try to plan a BoF together with KDE women, so that we can all meet each other and discuss women outreach efforts.
+
+Please let me know as soon as possible if you will be attending, as this will help in planning the events. If you are local, and can suggest a reasonably quiet and inexpensive restaurant near the venue that would accommodate a large group that would be great!
+
+Thanks,
+Marina
+From alibezz@gmail.com  Wed Jul 13 18:52:09 2011
+Return-Path: <alibezz@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C66FA750068;
+	Wed, 13 Jul 2011 18:52:09 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id JNzdUKcQfKaO; Wed, 13 Jul 2011 18:52:07 +0000 (UTC)
+Received: from mail-fx0-f42.google.com (mail-fx0-f42.google.com
+	[209.85.161.42])
+	by menubar.gnome.org (Postfix) with ESMTP id A0879750062;
+	Wed, 13 Jul 2011 18:51:58 +0000 (UTC)
+Received: by fxe23 with SMTP id 23so8158284fxe.29
+	for <multiple recipients>; Wed, 13 Jul 2011 11:51:56 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=Ur7dPPg2gNUOH7PzaefLqVgGz4Vp+Va/l+XY5UCdhbQ=;
+	b=S7FQfdkkW+m5eepprLod36RpuWyeDye7W143zNIM1HsSCURIdXkb+DjH3TspztL+CL
+	eQu4pvXngsLSmPsdt5GBIUvfdZ2WR71cfXKOYReYvuHzl9EqOz5oDSdxu4o42Rdr6UZU
+	kPrgftRoKjATeI3edjhhTa95L3dnCn14ntMKU=
+MIME-Version: 1.0
+Received: by 10.223.160.144 with SMTP id n16mr2115494fax.88.1310583116461;
+	Wed, 13 Jul 2011 11:51:56 -0700 (PDT)
+Received: by 10.223.96.1 with HTTP; Wed, 13 Jul 2011 11:51:56 -0700 (PDT)
+In-Reply-To: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Wed, 13 Jul 2011 15:51:56 -0300
+Message-ID: <CAA66yiVMw0=pMpodpzrBpGy+uUJhYqAGjm2kKyJBC=qxv1GPdA@mail.gmail.com>
+From: Aline Bessa <alibezz@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=002354187e6c1af59704a7f7e9cc
+X-Mailman-Approved-At: Wed, 13 Jul 2011 18:56:21 +0000
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 13 Jul 2011 18:52:10 -0000
+
+--002354187e6c1af59704a7f7e9cc
+Content-Type: text/plain; charset=ISO-8859-1
+
+Unfortunately, it won't be possible to me this year.
+-- 
+Aline Bessa
+GNU/Linux Registered User #452373
+
+--002354187e6c1af59704a7f7e9cc
+Content-Type: text/html; charset=ISO-8859-1
+
+Unfortunately, it won&#39;t be possible to me this year.<br>-- <br>Aline Bessa<br>GNU/Linux Registered User #452373<br>
+
+--002354187e6c1af59704a7f7e9cc--
+From meg387@gmail.com  Wed Jul 13 19:49:14 2011
+Return-Path: <meg387@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 913557501E7;
+	Wed, 13 Jul 2011 19:49:14 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SOkLIw07dYKi; Wed, 13 Jul 2011 19:49:11 +0000 (UTC)
+Received: from mail-yi0-f54.google.com (mail-yi0-f54.google.com
+	[209.85.218.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 492D575000B;
+	Wed, 13 Jul 2011 19:49:02 +0000 (UTC)
+Received: by yic13 with SMTP id 13so3982267yic.27
+	for <multiple recipients>; Wed, 13 Jul 2011 12:49:01 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=CkJDxJu3oygUAitiDEyJ6s1PD/eWs9pexTD/33hxY1Q=;
+	b=D6muNBbC9f91MlsVJdsNLt4+KFYn+PCDG+ijUuHw+BvlBQeb/VZljaW9on0WmKPd+h
+	HhnJ1g6NnEfYHTmEAexKFJR2W4XV0ZSKueoB/JJ7SjDLEvFhVrw8rR90X4YLxZIkdF/p
+	PsvAaZMlXywP61k6boMa4/jnSo4/pg4AF+TCA=
+MIME-Version: 1.0
+Received: by 10.151.156.18 with SMTP id i18mr1607076ybo.153.1310586541394;
+	Wed, 13 Jul 2011 12:49:01 -0700 (PDT)
+Received: by 10.151.48.8 with HTTP; Wed, 13 Jul 2011 12:49:01 -0700 (PDT)
+In-Reply-To: <CAA66yiVMw0=pMpodpzrBpGy+uUJhYqAGjm2kKyJBC=qxv1GPdA@mail.gmail.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<CAA66yiVMw0=pMpodpzrBpGy+uUJhYqAGjm2kKyJBC=qxv1GPdA@mail.gmail.com>
+Date: Wed, 13 Jul 2011 14:49:01 -0500
+Message-ID: <CAC4QDKj0E9NaxVFp5SanXjbpDyJxM3bRuHiOLZg5fo6QFS3S1w@mail.gmail.com>
+From: meg ford <meg387@gmail.com>
+To: Aline Bessa <alibezz@gmail.com>
+Content-Type: multipart/alternative; boundary=00151750dc2e3f4d3504a7f8b5ed
+X-Mailman-Approved-At: Wed, 13 Jul 2011 19:50:35 +0000
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 13 Jul 2011 19:49:14 -0000
+
+--00151750dc2e3f4d3504a7f8b5ed
+Content-Type: text/plain; charset=ISO-8859-1
+
+I will not able to make it, either. Hopefully I will make it to Boston this
+year, and possibly to GUADEC next year. Have fun!
+
+On Wed, Jul 13, 2011 at 1:51 PM, Aline Bessa <alibezz@gmail.com> wrote:
+
+> Unfortunately, it won't be possible to me this year.
+> --
+> Aline Bessa
+> GNU/Linux Registered User #452373
+>
+
+--00151750dc2e3f4d3504a7f8b5ed
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+I will not able to make it, either. Hopefully I will make it to Boston this=
+ year, and possibly to GUADEC next year. Have fun!<br><br><div class=3D"gma=
+il_quote">On Wed, Jul 13, 2011 at 1:51 PM, Aline Bessa <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:alibezz@gmail.com">alibezz@gmail.com</a>&gt;</span> wro=
+te:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex;">Unfortunately, it won&#39;t be possible to =
+me this year.<br><font color=3D"#888888">-- <br>Aline Bessa<br>GNU/Linux Re=
+gistered User #452373<br>
+
+</font></blockquote></div><br>
+
+--00151750dc2e3f4d3504a7f8b5ed--
+From yrazes@gmail.com  Wed Jul 13 20:04:11 2011
+Return-Path: <yrazes@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 58670750082;
+	Wed, 13 Jul 2011 20:04:11 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ZfXWjaP1MpLB; Wed, 13 Jul 2011 20:04:09 +0000 (UTC)
+Received: from mail-vx0-f182.google.com (mail-vx0-f182.google.com
+	[209.85.220.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 5013775000B;
+	Wed, 13 Jul 2011 20:04:00 +0000 (UTC)
+Received: by vxg33 with SMTP id 33so8436592vxg.27
+	for <multiple recipients>; Wed, 13 Jul 2011 13:03:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=EFfeTlhKPtjkslOPiM5OIx5ekpk6eA7o/bSvi0AmVbQ=;
+	b=oKTzaR9cpMu/FlAng0JHRBSe5to3wOwnKGuMlLdeWysfyB7Jg2BjD5/RBMJLNCIzpU
+	klqHjVXQHsn8bDDxPjCFEPScLwouNzRhDceQHHbNY0lnYVL4JiGf3kcLkVAYUVXh28Zi
+	uw4tYMReIHHUWcn+e4maw8rlbsqIfb/7b6v4I=
+MIME-Version: 1.0
+Received: by 10.52.162.130 with SMTP id ya2mr1662658vdb.182.1310587439182;
+	Wed, 13 Jul 2011 13:03:59 -0700 (PDT)
+Received: by 10.52.187.226 with HTTP; Wed, 13 Jul 2011 13:03:59 -0700 (PDT)
+In-Reply-To: <CAC4QDKj0E9NaxVFp5SanXjbpDyJxM3bRuHiOLZg5fo6QFS3S1w@mail.gmail.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<CAA66yiVMw0=pMpodpzrBpGy+uUJhYqAGjm2kKyJBC=qxv1GPdA@mail.gmail.com>
+	<CAC4QDKj0E9NaxVFp5SanXjbpDyJxM3bRuHiOLZg5fo6QFS3S1w@mail.gmail.com>
+Date: Wed, 13 Jul 2011 15:03:59 -0500
+Message-ID: <CA+Lmyc=xjK3EJrexq27k1oyqpixPb9=T-ReBp3nMf0hkLa9K6A@mail.gmail.com>
+From: yrazes <yrazes@gmail.com>
+To: meg ford <meg387@gmail.com>
+Content-Type: multipart/alternative; boundary=bcaec53f95a7c2757a04a7f8eae5
+X-Mailman-Approved-At: Wed, 13 Jul 2011 20:11:41 +0000
+Cc: Aline Bessa <alibezz@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2011@gnome.org, opw-gsoc-interns-2011@gnome.org,
+	opw-interns-2010 <opw-interns-2010@gnome.org>
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 13 Jul 2011 20:04:11 -0000
+
+--bcaec53f95a7c2757a04a7f8eae5
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi everyone!
+Please count me in Marina :)
+Regards from,
+Julita
+On Wed, Jul 13, 2011 at 2:49 PM, meg ford <meg387@gmail.com> wrote:
+
+> I will not able to make it, either. Hopefully I will make it to Boston this
+> year, and possibly to GUADEC next year. Have fun!
+>
+>
+> On Wed, Jul 13, 2011 at 1:51 PM, Aline Bessa <alibezz@gmail.com> wrote:
+>
+>> Unfortunately, it won't be possible to me this year.
+>> --
+>> Aline Bessa
+>> GNU/Linux Registered User #452373
+>>
+>
+>
+
+--bcaec53f95a7c2757a04a7f8eae5
+Content-Type: text/html; charset=ISO-8859-1
+
+<div>Hi everyone!</div>
+<div>Please count me in Marina :)</div>
+<div>Regards from,</div>
+<div>Julita<br></div>
+<div class="gmail_quote">On Wed, Jul 13, 2011 at 2:49 PM, meg ford <span dir="ltr">&lt;<a href="mailto:meg387@gmail.com">meg387@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote style="BORDER-LEFT: #ccc 1px solid; MARGIN: 0px 0px 0px 0.8ex; PADDING-LEFT: 1ex" class="gmail_quote">I will not able to make it, either. Hopefully I will make it to Boston this year, and possibly to GUADEC next year. Have fun! 
+<div>
+<div></div>
+<div class="h5"><br><br>
+<div class="gmail_quote">On Wed, Jul 13, 2011 at 1:51 PM, Aline Bessa <span dir="ltr">&lt;<a href="mailto:alibezz@gmail.com" target="_blank">alibezz@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote style="BORDER-LEFT: #ccc 1px solid; MARGIN: 0px 0px 0px 0.8ex; PADDING-LEFT: 1ex" class="gmail_quote">Unfortunately, it won&#39;t be possible to me this year.<br><font color="#888888">-- <br>Aline Bessa<br>GNU/Linux Registered User #452373<br>
+</font></blockquote></div><br></div></div></blockquote></div><br>
+
+--bcaec53f95a7c2757a04a7f8eae5--
+From tamara.atanasoska20@gmail.com  Wed Jul 13 20:12:01 2011
+Return-Path: <tamara.atanasoska20@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 04B1975000B;
+	Wed, 13 Jul 2011 20:12:01 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NDG+g-ipjlyz; Wed, 13 Jul 2011 20:11:56 +0000 (UTC)
+Received: from mail-vw0-f54.google.com (mail-vw0-f54.google.com
+	[209.85.212.54])
+	by menubar.gnome.org (Postfix) with ESMTP id F1021750062;
+	Wed, 13 Jul 2011 20:11:47 +0000 (UTC)
+Received: by vws18 with SMTP id 18so8495396vws.27
+	for <multiple recipients>; Wed, 13 Jul 2011 13:11:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=Sd0ZgS5Yu+cH4kaqSNASejiMpYcni3JhkVWiyzhKgMg=;
+	b=XhXMSgMQ8Yw4VOhgTT3atl6GClTKMfQjQGifcFj4EF7UpJJm9wPfpdmyhWYlaDnxLy
+	O+gw6RuYqN0k1xnPVlEHngpqMn2+UTTthenwehPsoM9bWNEVZ8Djvhm16TXoh/OIi91C
+	YRPmJ9DfyVP5D7ixevt6MGbGsGrrAfGZz4+AE=
+MIME-Version: 1.0
+Received: by 10.52.65.38 with SMTP id u6mr618610vds.397.1310587905896; Wed, 13
+	Jul 2011 13:11:45 -0700 (PDT)
+Received: by 10.52.185.196 with HTTP; Wed, 13 Jul 2011 13:11:45 -0700 (PDT)
+In-Reply-To: <CA+Lmyc=xjK3EJrexq27k1oyqpixPb9=T-ReBp3nMf0hkLa9K6A@mail.gmail.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<CAA66yiVMw0=pMpodpzrBpGy+uUJhYqAGjm2kKyJBC=qxv1GPdA@mail.gmail.com>
+	<CAC4QDKj0E9NaxVFp5SanXjbpDyJxM3bRuHiOLZg5fo6QFS3S1w@mail.gmail.com>
+	<CA+Lmyc=xjK3EJrexq27k1oyqpixPb9=T-ReBp3nMf0hkLa9K6A@mail.gmail.com>
+Date: Wed, 13 Jul 2011 22:11:45 +0200
+Message-ID: <CAFDnFaAH3X_mUc9aHS48gdbxAZkYoyipATNM9_Qyt6HcXUmVzw@mail.gmail.com>
+From: Tamara Atanasoska <tamara.atanasoska20@gmail.com>
+To: yrazes <yrazes@gmail.com>
+Content-Type: multipart/alternative; boundary=20cf3071ca8893f32c04a7f90622
+X-Mailman-Approved-At: Wed, 13 Jul 2011 20:25:17 +0000
+Cc: Aline Bessa <alibezz@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2011@gnome.org, meg ford <meg387@gmail.com>,
+	opw-gsoc-interns-2011@gnome.org,
+	opw-interns-2010 <opw-interns-2010@gnome.org>
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 13 Jul 2011 20:12:01 -0000
+
+--20cf3071ca8893f32c04a7f90622
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello everyone.
+I think I will be a part, will let you know later this week.
+
+See how we do it in Macedonia:
+http://a1.sphotos.ak.fbcdn.net/hphotos-ak-ash4/281749_10150230940440059_635090058_7771387_3238085_n.jpg:)
+
+On Wed, Jul 13, 2011 at 10:03 PM, yrazes <yrazes@gmail.com> wrote:
+
+> Hi everyone!
+> Please count me in Marina :)
+> Regards from,
+> Julita
+> On Wed, Jul 13, 2011 at 2:49 PM, meg ford <meg387@gmail.com> wrote:
+>
+>> I will not able to make it, either. Hopefully I will make it to Boston
+>> this year, and possibly to GUADEC next year. Have fun!
+>>
+>>
+>> On Wed, Jul 13, 2011 at 1:51 PM, Aline Bessa <alibezz@gmail.com> wrote:
+>>
+>>> Unfortunately, it won't be possible to me this year.
+>>> --
+>>> Aline Bessa
+>>> GNU/Linux Registered User #452373
+>>>
+>>
+>>
+>
+
+--20cf3071ca8893f32c04a7f90622
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello everyone.<div>I think I will be a part, will let you know later this =
+week.</div><div><br></div><div>See how we do it in Macedonia:=A0<a href=3D"=
+http://a1.sphotos.ak.fbcdn.net/hphotos-ak-ash4/281749_10150230940440059_635=
+090058_7771387_3238085_n.jpg">http://a1.sphotos.ak.fbcdn.net/hphotos-ak-ash=
+4/281749_10150230940440059_635090058_7771387_3238085_n.jpg</a> :)<br>
+<br><div class=3D"gmail_quote">On Wed, Jul 13, 2011 at 10:03 PM, yrazes <sp=
+an dir=3D"ltr">&lt;<a href=3D"mailto:yrazes@gmail.com">yrazes@gmail.com</a>=
+&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"margin:0 0=
+ 0 .8ex;border-left:1px #ccc solid;padding-left:1ex;">
+<div>Hi everyone!</div>
+<div>Please count me in Marina :)</div>
+<div>Regards from,</div>
+<div>Julita<br></div><div><div></div><div class=3D"h5">
+<div class=3D"gmail_quote">On Wed, Jul 13, 2011 at 2:49 PM, meg ford <span =
+dir=3D"ltr">&lt;<a href=3D"mailto:meg387@gmail.com" target=3D"_blank">meg38=
+7@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote style=3D"border-left:#ccc 1px solid;margin:0px 0px 0px 0.8ex;pa=
+dding-left:1ex" class=3D"gmail_quote">I will not able to make it, either. H=
+opefully I will make it to Boston this year, and possibly to GUADEC next ye=
+ar. Have fun!=20
+<div>
+<div></div>
+<div><br><br>
+<div class=3D"gmail_quote">On Wed, Jul 13, 2011 at 1:51 PM, Aline Bessa <sp=
+an dir=3D"ltr">&lt;<a href=3D"mailto:alibezz@gmail.com" target=3D"_blank">a=
+libezz@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote style=3D"border-left:#ccc 1px solid;margin:0px 0px 0px 0.8ex;pa=
+dding-left:1ex" class=3D"gmail_quote">Unfortunately, it won&#39;t be possib=
+le to me this year.<br><font color=3D"#888888">-- <br>Aline Bessa<br>GNU/Li=
+nux Registered User #452373<br>
+
+</font></blockquote></div><br></div></div></blockquote></div><br>
+</div></div></blockquote></div><br></div>
+
+--20cf3071ca8893f32c04a7f90622--
+From ksinnott5ht@gmail.com  Wed Jul 13 21:27:41 2011
+Return-Path: <ksinnott5ht@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 078BF750072;
+	Wed, 13 Jul 2011 21:27:41 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id slbmzuJ-mG+m; Wed, 13 Jul 2011 21:27:38 +0000 (UTC)
+Received: from mail-ew0-f54.google.com (mail-ew0-f54.google.com
+	[209.85.215.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 5EF3B7500CB;
+	Wed, 13 Jul 2011 21:27:28 +0000 (UTC)
+Received: by ewy1 with SMTP id 1so8054449ewy.27
+	for <multiple recipients>; Wed, 13 Jul 2011 14:27:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=C08DgvKbwb4dyP4SG9us2Y59LlcfQbOdNgqZSeZAyQM=;
+	b=JblAsWSp5qpcv+xIQ8C01nQz/8omH34eHop+06Isd8d6ZeNe2MY7fDMye+scPnU7pC
+	HHOb+taNpHXCmQ+152/upnVwP6i2oDZkNHTmSQaFrJCoCA1sL0ydUzLVddsPbSZlkQxK
+	iFQuiWibeIrkgE1DlJLAGunGsr077vVWwTnCs=
+MIME-Version: 1.0
+Received: by 10.213.14.194 with SMTP id h2mr1859920eba.112.1310592446953; Wed,
+	13 Jul 2011 14:27:26 -0700 (PDT)
+Received: by 10.213.102.3 with HTTP; Wed, 13 Jul 2011 14:27:26 -0700 (PDT)
+In-Reply-To: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Wed, 13 Jul 2011 14:27:26 -0700
+Message-ID: <CAGDUd5HGAp=_N2_+fBmUnfXTje9Fu-gXyK-_dWssC4OVKc6WUQ@mail.gmail.com>
+From: Kelly Sinnott <ksinnott5ht@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=0015174c40803ef9f504a7fa15b5
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 13 Jul 2011 21:27:41 -0000
+
+--0015174c40803ef9f504a7fa15b5
+Content-Type: text/plain; charset=ISO-8859-1
+
+Sorry, I will be unable to make it this year. Hope it goes well!
+
+On Wed, Jul 13, 2011 at 11:48 AM, Marina Zhurakhinskaya
+<marinaz@redhat.com>wrote:
+
+> Hi all!
+>
+> It would be great to have a women's dinner at the Desktop Summit, similar
+> to the one we had last year at GUADEC. I was thinking we could have it on
+> Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon
+> as possible if you are coming to the Desktop Summit and would be interested
+> in attending a dinner. Would either evening work for you?
+>
+> We will also try to plan a BoF together with KDE women, so that we can all
+> meet each other and discuss women outreach efforts.
+>
+> Please let me know as soon as possible if you will be attending, as this
+> will help in planning the events. If you are local, and can suggest a
+> reasonably quiet and inexpensive restaurant near the venue that would
+> accommodate a large group that would be great!
+>
+> Thanks,
+> Marina
+>
+
+
+
+-- 
+Regards,
+
+Kelly
+
+--0015174c40803ef9f504a7fa15b5
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Sorry, I will be unable to make it this year. Hope it goes well!<br><br><di=
+v class=3D"gmail_quote">On Wed, Jul 13, 2011 at 11:48 AM, Marina Zhurakhins=
+kaya <span dir=3D"ltr">&lt;<a href=3D"mailto:marinaz@redhat.com">marinaz@re=
+dhat.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex;">Hi all!<br>
+<br>
+It would be great to have a women&#39;s dinner at the Desktop Summit, simil=
+ar to the one we had last year at GUADEC. I was thinking we could have it o=
+n Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soo=
+n as possible if you are coming to the Desktop Summit and would be interest=
+ed in attending a dinner. Would either evening work for you?<br>
+
+<br>
+We will also try to plan a BoF together with KDE women, so that we can all =
+meet each other and discuss women outreach efforts.<br>
+<br>
+Please let me know as soon as possible if you will be attending, as this wi=
+ll help in planning the events. If you are local, and can suggest a reasona=
+bly quiet and inexpensive restaurant near the venue that would accommodate =
+a large group that would be great!<br>
+
+<br>
+Thanks,<br>
+<font color=3D"#888888">Marina<br>
+</font></blockquote></div><br><br clear=3D"all"><br>-- <br>Regards,<br><br>=
+Kelly<br>
+
+--0015174c40803ef9f504a7fa15b5--
+From nohemifdz@gmail.com  Wed Jul 13 22:05:34 2011
+Return-Path: <nohemifdz@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 197DE750082;
+	Wed, 13 Jul 2011 22:05:34 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 3809JE1+kcKe; Wed, 13 Jul 2011 22:05:31 +0000 (UTC)
+Received: from mail-ww0-f46.google.com (mail-ww0-f46.google.com [74.125.82.46])
+	by menubar.gnome.org (Postfix) with ESMTP id B5D26750072;
+	Wed, 13 Jul 2011 22:05:22 +0000 (UTC)
+Received: by wwf25 with SMTP id 25so4994737wwf.27
+	for <multiple recipients>; Wed, 13 Jul 2011 15:05:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=W9mRp50/6YZxBhwfZdQJLjLtNkVrTtjv3K3Xt+EQVd8=;
+	b=GfrRW4NRTSrV04j3hTGnAz2JKe7E7gu8s6A0Gi9B2I2RytpMfBmKt5g1UQSHkGRrxw
+	eLeJ7aq+MIJAcTlEMU+W9RGmK5sFook/IECQkmt1ajPgl3btc0Fw3PX5IuFzjo40C2kt
+	VA+Zoms5dKs8g9k6NyiZH71FGBKy6sh6r5yi4=
+MIME-Version: 1.0
+Received: by 10.216.234.143 with SMTP id s15mr2162557weq.66.1310594720371;
+	Wed, 13 Jul 2011 15:05:20 -0700 (PDT)
+Received: by 10.216.44.140 with HTTP; Wed, 13 Jul 2011 15:05:20 -0700 (PDT)
+In-Reply-To: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Wed, 13 Jul 2011 18:05:20 -0400
+Message-ID: <CAPxvyFSFB4tsOWs7w2w-JRdkS5E=F_a6TMg+7HwdDeQMP=b+yA@mail.gmail.com>
+From: Nohemi Fernandez <nohemifdz@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=0015175771b8c0931c04a7fa9c19
+X-Mailman-Approved-At: Thu, 14 Jul 2011 00:09:07 +0000
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 13 Jul 2011 22:05:34 -0000
+
+--0015175771b8c0931c04a7fa9c19
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello,
+
+I don't think I can go this year (missed the fin-aid deadline by a few
+days!), but I will definitely think about it for next year :)
+
+On Wed, Jul 13, 2011 at 2:48 PM, Marina Zhurakhinskaya
+<marinaz@redhat.com>wrote:
+
+> Hi all!
+>
+> It would be great to have a women's dinner at the Desktop Summit, similar
+> to the one we had last year at GUADEC. I was thinking we could have it on
+> Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon
+> as possible if you are coming to the Desktop Summit and would be interested
+> in attending a dinner. Would either evening work for you?
+>
+> We will also try to plan a BoF together with KDE women, so that we can all
+> meet each other and discuss women outreach efforts.
+>
+> Please let me know as soon as possible if you will be attending, as this
+> will help in planning the events. If you are local, and can suggest a
+> reasonably quiet and inexpensive restaurant near the venue that would
+> accommodate a large group that would be great!
+>
+> Thanks,
+> Marina
+>
+
+--0015175771b8c0931c04a7fa9c19
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello,<br>
+<br>
+I don&#39;t think I can go this year (missed the fin-aid deadline by a few=
+=20
+days!), but I will definitely think about it for next year :) <br><br><div =
+class=3D"gmail_quote">On Wed, Jul 13, 2011 at 2:48 PM, Marina Zhurakhinskay=
+a <span dir=3D"ltr">&lt;<a href=3D"mailto:marinaz@redhat.com">marinaz@redha=
+t.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex;">Hi all!<br>
+<br>
+It would be great to have a women&#39;s dinner at the Desktop Summit, simil=
+ar to the one we had last year at GUADEC. I was thinking we could have it o=
+n Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soo=
+n as possible if you are coming to the Desktop Summit and would be interest=
+ed in attending a dinner. Would either evening work for you?<br>
+
+<br>
+We will also try to plan a BoF together with KDE women, so that we can all =
+meet each other and discuss women outreach efforts.<br>
+<br>
+Please let me know as soon as possible if you will be attending, as this wi=
+ll help in planning the events. If you are local, and can suggest a reasona=
+bly quiet and inexpensive restaurant near the venue that would accommodate =
+a large group that would be great!<br>
+
+<br>
+Thanks,<br>
+<font color=3D"#888888">Marina<br>
+</font></blockquote></div><br>
+
+--0015175771b8c0931c04a7fa9c19--
+From chandniverma2112@gmail.com  Wed Jul 13 22:21:08 2011
+Return-Path: <chandniverma2112@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C327D750062;
+	Wed, 13 Jul 2011 22:21:08 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GGC7rwhzzV5o; Wed, 13 Jul 2011 22:21:06 +0000 (UTC)
+Received: from mail-fx0-f42.google.com (mail-fx0-f42.google.com
+	[209.85.161.42])
+	by menubar.gnome.org (Postfix) with ESMTP id 2A660750072;
+	Wed, 13 Jul 2011 22:20:56 +0000 (UTC)
+Received: by fxe23 with SMTP id 23so8385633fxe.29
+	for <multiple recipients>; Wed, 13 Jul 2011 15:20:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=Culx7tXx2N77KbIov11urDFTVX/AwZGCJnuI2OxR8dg=;
+	b=ZDZN4Zp+80Mga/TfXxRA/Qb0+A4kb9mv66KTNQdq7/OLqqT7AcR+0WsD9xGVoImdcD
+	JKnpfzTZqDY8Uqm1X3ozt/KapXmJ5B9Wwr2Nrb7UwH6LLFkL7yP1bBrk+srj60lgp9pg
+	9+WkTNd5TJ/eKX7kgtdIFQRUTl5yZc5rHG8uc=
+MIME-Version: 1.0
+Received: by 10.204.55.199 with SMTP id v7mr779214bkg.83.1310595654919; Wed,
+	13 Jul 2011 15:20:54 -0700 (PDT)
+Received: by 10.204.15.82 with HTTP; Wed, 13 Jul 2011 15:20:54 -0700 (PDT)
+In-Reply-To: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Thu, 14 Jul 2011 03:50:54 +0530
+Message-ID: <CADttZZr5mD86wNPPGS+9rkLQruZO3gXj+60yYBFKcQO89-fowA@mail.gmail.com>
+From: Chandni Verma <chandniverma2112@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=001636c5a90c74a74d04a7fad4ba
+X-Mailman-Approved-At: Thu, 14 Jul 2011 00:09:07 +0000
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 13 Jul 2011 22:21:09 -0000
+
+--001636c5a90c74a74d04a7fad4ba
+Content-Type: text/plain; charset=ISO-8859-1
+
+wow! sounds interesting! timings suit. yes yes, I will be there!
+Cheers!
+
+-Chandni
+
+On 14 July 2011 00:18, Marina Zhurakhinskaya <marinaz@redhat.com> wrote:
+
+> Hi all!
+>
+> It would be great to have a women's dinner at the Desktop Summit, similar
+> to the one we had last year at GUADEC. I was thinking we could have it on
+> Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon
+> as possible if you are coming to the Desktop Summit and would be interested
+> in attending a dinner. Would either evening work for you?
+>
+> We will also try to plan a BoF together with KDE women, so that we can all
+> meet each other and discuss women outreach efforts.
+>
+> Please let me know as soon as possible if you will be attending, as this
+> will help in planning the events. If you are local, and can suggest a
+> reasonably quiet and inexpensive restaurant near the venue that would
+> accommodate a large group that would be great!
+>
+> Thanks,
+> Marina
+>
+
+--001636c5a90c74a74d04a7fad4ba
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+wow! sounds interesting! timings suit. yes yes, I will be there!<div>Cheers=
+!<br><br></div><div>-Chandni</div><div><br><div class=3D"gmail_quote">On 14=
+ July 2011 00:18, Marina Zhurakhinskaya <span dir=3D"ltr">&lt;<a href=3D"ma=
+ilto:marinaz@redhat.com">marinaz@redhat.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex;">Hi all!<br>
+<br>
+It would be great to have a women&#39;s dinner at the Desktop Summit, simil=
+ar to the one we had last year at GUADEC. I was thinking we could have it o=
+n Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soo=
+n as possible if you are coming to the Desktop Summit and would be interest=
+ed in attending a dinner. Would either evening work for you?<br>
+
+<br>
+We will also try to plan a BoF together with KDE women, so that we can all =
+meet each other and discuss women outreach efforts.<br>
+<br>
+Please let me know as soon as possible if you will be attending, as this wi=
+ll help in planning the events. If you are local, and can suggest a reasona=
+bly quiet and inexpensive restaurant near the venue that would accommodate =
+a large group that would be great!<br>
+
+<br>
+Thanks,<br>
+<font color=3D"#888888">Marina<br>
+</font></blockquote></div><br></div>
+
+--001636c5a90c74a74d04a7fad4ba--
+From valverde.izabel@gmail.com  Wed Jul 13 22:29:42 2011
+Return-Path: <valverde.izabel@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 175AA750072;
+	Wed, 13 Jul 2011 22:29:42 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.7
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.7 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id dQLAqOV6pU+u; Wed, 13 Jul 2011 22:29:39 +0000 (UTC)
+Received: from mail-pz0-f54.google.com (mail-pz0-f54.google.com
+	[209.85.210.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 2FC2E750062;
+	Wed, 13 Jul 2011 22:29:30 +0000 (UTC)
+Received: by pzk27 with SMTP id 27so8320595pzk.27
+	for <multiple recipients>; Wed, 13 Jul 2011 15:29:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type:content-transfer-encoding;
+	bh=dZFGjWP12Azhv9XQMuU9ZQBrAqdDIkI/mOdlSRNVgfA=;
+	b=ZY4KG0A5toICtXZmD1dhW1wskT++OE6KJlxpKSIYTpjSmkS4hBuap3VVkgB7NVALuV
+	00eyOVjskrHuELHe/Bp665StcqpNjWJKIo1wsz3EXgn44qgSyJR1Js64b6UuZuBKvnKV
+	YwdU32aBztPo8i6LmaNa1hLdEom/uZUVIHOMY=
+MIME-Version: 1.0
+Received: by 10.68.46.65 with SMTP id t1mr2069322pbm.231.1310596169298; Wed,
+	13 Jul 2011 15:29:29 -0700 (PDT)
+Received: by 10.68.62.98 with HTTP; Wed, 13 Jul 2011 15:29:29 -0700 (PDT)
+In-Reply-To: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Wed, 13 Jul 2011 19:29:29 -0300
+Message-ID: <CAPF532ZF6xU4hbCwZyveqU97qFdZn541uTz-9XJQTfdQtF+sjg@mail.gmail.com>
+From: Izabel Valverde <valverde.izabel@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailman-Approved-At: Thu, 14 Jul 2011 00:09:07 +0000
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 13 Jul 2011 22:29:42 -0000
+
+I'll be there!!!
+
+Izabel
+
+
+2011/7/13 Marina Zhurakhinskaya <marinaz@redhat.com>:
+> Hi all!
+>
+> It would be great to have a women's dinner at the Desktop Summit, similar=
+ to the one we had last year at GUADEC. I was thinking we could have it on =
+Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon =
+as possible if you are coming to the Desktop Summit and would be interested=
+ in attending a dinner. Would either evening work for you?
+>
+> We will also try to plan a BoF together with KDE women, so that we can al=
+l meet each other and discuss women outreach efforts.
+>
+> Please let me know as soon as possible if you will be attending, as this =
+will help in planning the events. If you are local, and can suggest a reaso=
+nably quiet and inexpensive restaurant near the venue that would accommodat=
+e a large group that would be great!
+>
+> Thanks,
+> Marina
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+From yuliansu@realss.com  Thu Jul 14 01:30:43 2011
+Return-Path: <yuliansu@realss.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A42457500B0;
+	Thu, 14 Jul 2011 01:30:43 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.91
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.91 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id euuchcdnv899; Thu, 14 Jul 2011 01:30:38 +0000 (UTC)
+Received: from bossdog.realss.com (bossdog.realss.com [211.157.114.130])
+	by menubar.gnome.org (Postfix) with ESMTP id E684075004D;
+	Thu, 14 Jul 2011 01:30:29 +0000 (UTC)
+Received: from localhost (localhost [127.0.0.1])
+	by bossdog.realss.com (Postfix) with ESMTP id 779C5104006;
+	Thu, 14 Jul 2011 10:59:32 +0800 (HKT)
+Received: from bossdog.realss.com ([127.0.0.1])
+	by localhost (bossdog.realss.com [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NuSpKGr3q1lL; Thu, 14 Jul 2011 10:59:32 +0800 (HKT)
+Received: from [192.168.1.173] (unknown [123.116.115.81])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by bossdog.realss.com (Postfix) with ESMTPSA id E00FF248079;
+	Thu, 14 Jul 2011 10:59:31 +0800 (HKT)
+Message-ID: <4E1E46B1.2010205@realss.com>
+Date: Thu, 14 Jul 2011 09:30:25 +0800
+From: Yu Liansu <yuliansu@realss.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US;
+	rv:1.9.2.14) Gecko/20110223 Lightning/1.0b2 Thunderbird/3.1.8
+MIME-Version: 1.0
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<CAPF532ZF6xU4hbCwZyveqU97qFdZn541uTz-9XJQTfdQtF+sjg@mail.gmail.com>
+In-Reply-To: <CAPF532ZF6xU4hbCwZyveqU97qFdZn541uTz-9XJQTfdQtF+sjg@mail.gmail.com>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Mailman-Approved-At: Thu, 14 Jul 2011 01:34:50 +0000
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 01:30:44 -0000
+
+I'll be there too, also both evening are fine for me:)
+
+Yu Liansu
+
+于 2011年07月14日 06:29, Izabel Valverde 写道:
+> I'll be there!!!
+>
+> Izabel
+>
+>
+> 2011/7/13 Marina Zhurakhinskaya<marinaz@redhat.com>:
+>> Hi all!
+>>
+>> It would be great to have a women's dinner at the Desktop Summit, similar to the one we had last year at GUADEC. I was thinking we could have it on Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon as possible if you are coming to the Desktop Summit and would be interested in attending a dinner. Would either evening work for you?
+>>
+>> We will also try to plan a BoF together with KDE women, so that we can all meet each other and discuss women outreach efforts.
+>>
+>> Please let me know as soon as possible if you will be attending, as this will help in planning the events. If you are local, and can suggest a reasonably quiet and inexpensive restaurant near the venue that would accommodate a large group that would be great!
+>>
+>> Thanks,
+>> Marina
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>>
+
+
+-- 
+http://www.yuliansu.com
+http://yuliansu.wordpress.com
+
+From emilychen522@gmail.com  Thu Jul 14 03:40:37 2011
+Return-Path: <emilychen522@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DBF7D75005D;
+	Thu, 14 Jul 2011 03:40:37 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id yW9SCe5nGi+C; Thu, 14 Jul 2011 03:40:35 +0000 (UTC)
+Received: from mail-fx0-f42.google.com (mail-fx0-f42.google.com
+	[209.85.161.42])
+	by menubar.gnome.org (Postfix) with ESMTP id 4F03575004D;
+	Thu, 14 Jul 2011 03:40:25 +0000 (UTC)
+Received: by fxe23 with SMTP id 23so363338fxe.29
+	for <multiple recipients>; Wed, 13 Jul 2011 20:40:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=NF2W0+aG5ov6RRDgjySSup7vq5/TsAFoFHIaJdf2jNg=;
+	b=UYHWdVzZMlRBSlHAj0xyT+1vtmltgZhVTmKn9/khIW3v6Nc7xoY7b9ap/UPF/SrS0R
+	hSbLPJLDBlW+xgrUVVyckOovu46VCxKoA7TqcOvzDKK8YeWYA5BcyC1DYIe3dQIsI4rE
+	lloRRv2vYy4VYYypqc4f0A80wc1WlhoMVGxV8=
+MIME-Version: 1.0
+Received: by 10.223.7.10 with SMTP id b10mr2782586fab.76.1310614824067; Wed,
+	13 Jul 2011 20:40:24 -0700 (PDT)
+Received: by 10.223.104.129 with HTTP; Wed, 13 Jul 2011 20:40:24 -0700 (PDT)
+In-Reply-To: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Thu, 14 Jul 2011 11:40:24 +0800
+Message-ID: <CABmsuzc2bzw=OBMCvxfRL=pMk6tC2eoiUDULCS2SOJLCy1O+rA@mail.gmail.com>
+From: Emily Chen <emilychen522@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=0015174785fe06a2ce04a7ff4b6f
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 03:40:38 -0000
+
+--0015174785fe06a2ce04a7ff4b6f
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Marina,
+
+Both time works for me. I am happy to attend the women's dinner again.
+
+-Emily
+
+2011/7/14 Marina Zhurakhinskaya <marinaz@redhat.com>
+
+> Hi all!
+>
+> It would be great to have a women's dinner at the Desktop Summit, similar
+> to the one we had last year at GUADEC. I was thinking we could have it on
+> Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon
+> as possible if you are coming to the Desktop Summit and would be interested
+> in attending a dinner. Would either evening work for you?
+>
+> We will also try to plan a BoF together with KDE women, so that we can all
+> meet each other and discuss women outreach efforts.
+>
+> Please let me know as soon as possible if you will be attending, as this
+> will help in planning the events. If you are local, and can suggest a
+> reasonably quiet and inexpensive restaurant near the venue that would
+> accommodate a large group that would be great!
+>
+> Thanks,
+> Marina
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--0015174785fe06a2ce04a7ff4b6f
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Marina, <br><br>Both time works for me. I am happy to attend the women&#=
+39;s dinner again. <br><br>-Emily <br><br><div class=3D"gmail_quote">2011/7=
+/14 Marina Zhurakhinskaya <span dir=3D"ltr">&lt;<a href=3D"mailto:marinaz@r=
+edhat.com">marinaz@redhat.com</a>&gt;</span><br>
+<blockquote class=3D"gmail_quote" style=3D"margin: 0pt 0pt 0pt 0.8ex; borde=
+r-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;">Hi all!<br>
+<br>
+It would be great to have a women&#39;s dinner at the Desktop Summit, simil=
+ar to the one we had last year at GUADEC. I was thinking we could have it o=
+n Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soo=
+n as possible if you are coming to the Desktop Summit and would be interest=
+ed in attending a dinner. Would either evening work for you?<br>
+
+<br>
+We will also try to plan a BoF together with KDE women, so that we can all =
+meet each other and discuss women outreach efforts.<br>
+<br>
+Please let me know as soon as possible if you will be attending, as this wi=
+ll help in planning the events. If you are local, and can suggest a reasona=
+bly quiet and inexpensive restaurant near the venue that would accommodate =
+a large group that would be great!<br>
+
+<br>
+Thanks,<br>
+Marina<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>
+</blockquote></div><br>
+
+--0015174785fe06a2ce04a7ff4b6f--
+From stormy.peters@gmail.com  Thu Jul 14 01:59:42 2011
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 15EDB75005D;
+	Thu, 14 Jul 2011 01:59:42 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Z8NCEGZrT--6; Thu, 14 Jul 2011 01:59:39 +0000 (UTC)
+Received: from mail-wy0-f182.google.com (mail-wy0-f182.google.com
+	[74.125.82.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 2F86475004D;
+	Thu, 14 Jul 2011 01:59:29 +0000 (UTC)
+Received: by wyg24 with SMTP id 24so880794wyg.27
+	for <multiple recipients>; Wed, 13 Jul 2011 18:59:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=RN4oW+ohxm3Tzj6YON2pGWvqnDCoM1uIU2A3ts6Mbxs=;
+	b=AOC042SjjYliqdbs2fI6kK2u54mrg47xsjxfyJlZxfNlwejO3Tu5aM0cY6u7ij39wM
+	aNGomDE1wOWvfRUR6HSv4LpsXuYxrp5V+aEUQkmuKm4B9ssnJtPoaq06UZjaRp5DNhou
+	D6iftE1q6B0BlKYg/s9B8EG0mL7FKpcSGHIDk=
+MIME-Version: 1.0
+Received: by 10.227.198.80 with SMTP id en16mr1624292wbb.58.1310608767543;
+	Wed, 13 Jul 2011 18:59:27 -0700 (PDT)
+Received: by 10.227.39.20 with HTTP; Wed, 13 Jul 2011 18:59:27 -0700 (PDT)
+Received: by 10.227.39.20 with HTTP; Wed, 13 Jul 2011 18:59:27 -0700 (PDT)
+In-Reply-To: <4E1E46B1.2010205@realss.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<CAPF532ZF6xU4hbCwZyveqU97qFdZn541uTz-9XJQTfdQtF+sjg@mail.gmail.com>
+	<4E1E46B1.2010205@realss.com>
+Date: Wed, 13 Jul 2011 19:59:27 -0600
+Message-ID: <CAJHV1TBpUNQe_doKjz1At1EwMbS8ADpHEeaq3=SCaQi+xwtA6Q@mail.gmail.com>
+From: Stormy Peters <stormy.peters@gmail.com>
+To: Yu Liansu <yuliansu@realss.com>
+Content-Type: multipart/alternative; boundary=00151747bdde076ae004a7fde234
+X-Mailman-Approved-At: Thu, 14 Jul 2011 03:45:51 +0000
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 01:59:42 -0000
+
+--00151747bdde076ae004a7fde234
+Content-Type: text/plain; charset=GB2312
+Content-Transfer-Encoding: quoted-printable
+
+I will be there! Either day.
+On Jul 13, 2011 6:30 PM, "Yu Liansu" <yuliansu@realss.com> wrote:
+> I'll be there too, also both evening are fine for me:)
+>
+> Yu Liansu
+>
+> =D3=DA 2011=C4=EA07=D4=C214=C8=D5 06:29, Izabel Valverde =D0=B4=B5=C0:
+>> I'll be there!!!
+>>
+>> Izabel
+>>
+>>
+>> 2011/7/13 Marina Zhurakhinskaya<marinaz@redhat.com>:
+>>> Hi all!
+>>>
+>>> It would be great to have a women's dinner at the Desktop Summit,
+similar to the one we had last year at GUADEC. I was thinking we could have
+it on Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as
+soon as possible if you are coming to the Desktop Summit and would be
+interested in attending a dinner. Would either evening work for you?
+>>>
+>>> We will also try to plan a BoF together with KDE women, so that we can
+all meet each other and discuss women outreach efforts.
+>>>
+>>> Please let me know as soon as possible if you will be attending, as thi=
+s
+will help in planning the events. If you are local, and can suggest a
+reasonably quiet and inexpensive restaurant near the venue that would
+accommodate a large group that would be great!
+>>>
+>>> Thanks,
+>>> Marina
+>>> _______________________________________________
+>>> gnome-women-list mailing list
+>>> gnome-women-list@mail.gnome.org
+>>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>>>
+>
+>
+> --
+> http://www.yuliansu.com
+> http://yuliansu.wordpress.com
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+--00151747bdde076ae004a7fde234
+Content-Type: text/html; charset=ISO-2022-JP
+Content-Transfer-Encoding: base64
+
+PHA+SSB3aWxsIGJlIHRoZXJlISBFaXRoZXIgZGF5LjwvcD4KPGRpdiBjbGFzcz0iZ21haWxfcXVv
+dGUiPk9uIEp1bCAxMywgMjAxMSA2OjMwIFBNLCAmcXVvdDtZdSBMaWFuc3UmcXVvdDsgJmx0Ozxh
+IGhyZWY9Im1haWx0bzp5dWxpYW5zdUByZWFsc3MuY29tIj55dWxpYW5zdUByZWFsc3MuY29tPC9h
+PiZndDsgd3JvdGU6PGJyIHR5cGU9ImF0dHJpYnV0aW9uIj4mZ3Q7IEkmIzM5O2xsIGJlIHRoZXJl
+IHRvbywgYWxzbyBib3RoIGV2ZW5pbmcgYXJlIGZpbmUgZm9yIG1lOik8YnI+CiZndDsgPGJyPiZn
+dDsgWXUgTGlhbnN1PGJyPiZndDsgPGJyPiZndDsgGyRCUDIbKEIgMjAxMRskQkcvGyhCMDcbJEI3
+bhsoQjE0GyRCRnwbKEIgMDY6MjksIEl6YWJlbCBWYWx2ZXJkZSAbJEI8TEY7GyhCOjxicj4mZ3Q7
+Jmd0OyBJJiMzOTtsbCBiZSB0aGVyZSEhITxicj4mZ3Q7Jmd0Ozxicj4mZ3Q7Jmd0OyBJemFiZWw8
+YnI+Jmd0OyZndDs8YnI+Jmd0OyZndDs8YnI+Jmd0OyZndDsgMjAxMS83LzEzIE1hcmluYSBaaHVy
+YWtoaW5za2F5YSZsdDs8YSBocmVmPSJtYWlsdG86bWFyaW5hekByZWRoYXQuY29tIj5tYXJpbmF6
+QHJlZGhhdC5jb208L2E+Jmd0Ozo8YnI+CiZndDsmZ3Q7Jmd0OyBIaSBhbGwhPGJyPiZndDsmZ3Q7
+Jmd0Ozxicj4mZ3Q7Jmd0OyZndDsgSXQgd291bGQgYmUgZ3JlYXQgdG8gaGF2ZSBhIHdvbWVuJiMz
+OTtzIGRpbm5lciBhdCB0aGUgRGVza3RvcCBTdW1taXQsIHNpbWlsYXIgdG8gdGhlIG9uZSB3ZSBo
+YWQgbGFzdCB5ZWFyIGF0IEdVQURFQy4gSSB3YXMgdGhpbmtpbmcgd2UgY291bGQgaGF2ZSBpdCBv
+biBTdW5kYXksIEF1Z3VzdCA3IG9yIE1vbmRheSwgQXVndXN0IDggYXQgNjozMHBtLiBQbGVhc2Ug
+bGV0IG1lIGtub3cgYXMgc29vbiBhcyBwb3NzaWJsZSBpZiB5b3UgYXJlIGNvbWluZyB0byB0aGUg
+RGVza3RvcCBTdW1taXQgYW5kIHdvdWxkIGJlIGludGVyZXN0ZWQgaW4gYXR0ZW5kaW5nIGEgZGlu
+bmVyLiBXb3VsZCBlaXRoZXIgZXZlbmluZyB3b3JrIGZvciB5b3U/PGJyPgomZ3Q7Jmd0OyZndDs8
+YnI+Jmd0OyZndDsmZ3Q7IFdlIHdpbGwgYWxzbyB0cnkgdG8gcGxhbiBhIEJvRiB0b2dldGhlciB3
+aXRoIEtERSB3b21lbiwgc28gdGhhdCB3ZSBjYW4gYWxsIG1lZXQgZWFjaCBvdGhlciBhbmQgZGlz
+Y3VzcyB3b21lbiBvdXRyZWFjaCBlZmZvcnRzLjxicj4mZ3Q7Jmd0OyZndDs8YnI+Jmd0OyZndDsm
+Z3Q7IFBsZWFzZSBsZXQgbWUga25vdyBhcyBzb29uIGFzIHBvc3NpYmxlIGlmIHlvdSB3aWxsIGJl
+IGF0dGVuZGluZywgYXMgdGhpcyB3aWxsIGhlbHAgaW4gcGxhbm5pbmcgdGhlIGV2ZW50cy4gSWYg
+eW91IGFyZSBsb2NhbCwgYW5kIGNhbiBzdWdnZXN0IGEgcmVhc29uYWJseSBxdWlldCBhbmQgaW5l
+eHBlbnNpdmUgcmVzdGF1cmFudCBuZWFyIHRoZSB2ZW51ZSB0aGF0IHdvdWxkIGFjY29tbW9kYXRl
+IGEgbGFyZ2UgZ3JvdXAgdGhhdCB3b3VsZCBiZSBncmVhdCE8YnI+CiZndDsmZ3Q7Jmd0Ozxicj4m
+Z3Q7Jmd0OyZndDsgVGhhbmtzLDxicj4mZ3Q7Jmd0OyZndDsgTWFyaW5hPGJyPiZndDsmZ3Q7Jmd0
+OyBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXzxicj4mZ3Q7
+Jmd0OyZndDsgZ25vbWUtd29tZW4tbGlzdCBtYWlsaW5nIGxpc3Q8YnI+Jmd0OyZndDsmZ3Q7IDxh
+IGhyZWY9Im1haWx0bzpnbm9tZS13b21lbi1saXN0QG1haWwuZ25vbWUub3JnIj5nbm9tZS13b21l
+bi1saXN0QG1haWwuZ25vbWUub3JnPC9hPjxicj4KJmd0OyZndDsmZ3Q7IDxhIGhyZWY9Imh0dHA6
+Ly9tYWlsLmdub21lLm9yZy9tYWlsbWFuL2xpc3RpbmZvL2dub21lLXdvbWVuLWxpc3QiPmh0dHA6
+Ly9tYWlsLmdub21lLm9yZy9tYWlsbWFuL2xpc3RpbmZvL2dub21lLXdvbWVuLWxpc3Q8L2E+PGJy
+PiZndDsmZ3Q7Jmd0Ozxicj4mZ3Q7IDxicj4mZ3Q7IDxicj4mZ3Q7IC0tIDxicj4mZ3Q7IDxhIGhy
+ZWY9Imh0dHA6Ly93d3cueXVsaWFuc3UuY29tIj5odHRwOi8vd3d3Lnl1bGlhbnN1LmNvbTwvYT48
+YnI+CiZndDsgPGEgaHJlZj0iaHR0cDovL3l1bGlhbnN1LndvcmRwcmVzcy5jb20iPmh0dHA6Ly95
+dWxpYW5zdS53b3JkcHJlc3MuY29tPC9hPjxicj4mZ3Q7IDxicj4mZ3Q7IF9fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fPGJyPiZndDsgZ25vbWUtd29tZW4tbGlz
+dCBtYWlsaW5nIGxpc3Q8YnI+Jmd0OyA8YSBocmVmPSJtYWlsdG86Z25vbWUtd29tZW4tbGlzdEBt
+YWlsLmdub21lLm9yZyI+Z25vbWUtd29tZW4tbGlzdEBtYWlsLmdub21lLm9yZzwvYT48YnI+CiZn
+dDsgPGEgaHJlZj0iaHR0cDovL21haWwuZ25vbWUub3JnL21haWxtYW4vbGlzdGluZm8vZ25vbWUt
+d29tZW4tbGlzdCI+aHR0cDovL21haWwuZ25vbWUub3JnL21haWxtYW4vbGlzdGluZm8vZ25vbWUt
+d29tZW4tbGlzdDwvYT48YnI+PC9kaXY+Cg==
+--00151747bdde076ae004a7fde234--
+From madhuvishy@gmail.com  Thu Jul 14 04:04:39 2011
+Return-Path: <madhuvishy@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C86F17500AD;
+	Thu, 14 Jul 2011 04:04:39 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SgBTzS0xAOa1; Thu, 14 Jul 2011 04:04:34 +0000 (UTC)
+Received: from mail-fx0-f42.google.com (mail-fx0-f42.google.com
+	[209.85.161.42])
+	by menubar.gnome.org (Postfix) with ESMTP id A2C0B75005D;
+	Thu, 14 Jul 2011 04:04:25 +0000 (UTC)
+Received: by fxe23 with SMTP id 23so387583fxe.29
+	for <multiple recipients>; Wed, 13 Jul 2011 21:04:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+	:cc:content-type;
+	bh=CzZplyNifeWN/6v4K8CCgP+Okx8+QZ4S5XJy6eWGfSY=;
+	b=aoNEfm9wIlGOpX+UpkUT29Tt21CdM+/GgRQQNLrQEELJpmak2+TbwVM8QKbcGefAtg
+	rROF3Eu6qY62jg6NURzzq7b/s5fnEwDtjmPUhANn2Vra9pmPQGDdf43x1GJ6v5WSH2uX
+	7pNRpCwGropQwekjiZFfXzS4zD/afFj5GD2/E=
+Received: by 10.204.7.3 with SMTP id b3mr39979bkb.262.1310616263223; Wed, 13
+	Jul 2011 21:04:23 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.205.81.202 with HTTP; Wed, 13 Jul 2011 21:04:03 -0700 (PDT)
+In-Reply-To: <CABmsuzc2bzw=OBMCvxfRL=pMk6tC2eoiUDULCS2SOJLCy1O+rA@mail.gmail.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<CABmsuzc2bzw=OBMCvxfRL=pMk6tC2eoiUDULCS2SOJLCy1O+rA@mail.gmail.com>
+From: Madhumitha Viswanathan <madhuvishy@gmail.com>
+Date: Thu, 14 Jul 2011 09:34:03 +0530
+Message-ID: <CAJoGEJSOYyaS9ib-ZZvP59+Fk5sYT=fYajOx+wiAX-YvMQK-JA@mail.gmail.com>
+To: Emily Chen <emilychen522@gmail.com>
+Content-Type: multipart/alternative; boundary=000325556186ce6b9f04a7ffa00c
+X-Mailman-Approved-At: Thu, 14 Jul 2011 04:17:20 +0000
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 04:04:40 -0000
+
+--000325556186ce6b9f04a7ffa00c
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Marina,
+
+Sounds awesome! I'll be there :) The timings are fine too!
+
+Cheers
+
+On Thu, Jul 14, 2011 at 9:10 AM, Emily Chen <emilychen522@gmail.com> wrote:
+
+> Hi Marina,
+>
+> Both time works for me. I am happy to attend the women's dinner again.
+>
+> -Emily
+>
+> 2011/7/14 Marina Zhurakhinskaya <marinaz@redhat.com>
+>
+>> Hi all!
+>>
+>> It would be great to have a women's dinner at the Desktop Summit, similar
+>> to the one we had last year at GUADEC. I was thinking we could have it on
+>> Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon
+>> as possible if you are coming to the Desktop Summit and would be interested
+>> in attending a dinner. Would either evening work for you?
+>>
+>> We will also try to plan a BoF together with KDE women, so that we can all
+>> meet each other and discuss women outreach efforts.
+>>
+>> Please let me know as soon as possible if you will be attending, as this
+>> will help in planning the events. If you are local, and can suggest a
+>> reasonably quiet and inexpensive restaurant near the venue that would
+>> accommodate a large group that would be great!
+>>
+>> Thanks,
+>> Marina
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>>
+>
+>
+
+
+-- 
+Madhu :)
+
+--000325556186ce6b9f04a7ffa00c
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Marina,<div><br></div><div>Sounds awesome! I&#39;ll be there :) The timi=
+ngs are fine too!</div><div><br></div><div>Cheers=A0</div><br><div class=3D=
+"gmail_quote">On Thu, Jul 14, 2011 at 9:10 AM, Emily Chen <span dir=3D"ltr"=
+>&lt;<a href=3D"mailto:emilychen522@gmail.com">emilychen522@gmail.com</a>&g=
+t;</span> wrote:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex;">Hi Marina, <br><br>Both time works for me. =
+I am happy to attend the women&#39;s dinner again. <br><font color=3D"#8888=
+88"><br>
+
+-Emily <br><br></font><div class=3D"gmail_quote"><div><div></div><div class=
+=3D"h5">2011/7/14 Marina Zhurakhinskaya <span dir=3D"ltr">&lt;<a href=3D"ma=
+ilto:marinaz@redhat.com" target=3D"_blank">marinaz@redhat.com</a>&gt;</span=
+><br>
+
+</div></div><blockquote class=3D"gmail_quote" style=3D"margin:0pt 0pt 0pt 0=
+.8ex;border-left:1px solid rgb(204, 204, 204);padding-left:1ex"><div><div><=
+/div><div class=3D"h5">Hi all!<br>
+<br>
+It would be great to have a women&#39;s dinner at the Desktop Summit, simil=
+ar to the one we had last year at GUADEC. I was thinking we could have it o=
+n Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soo=
+n as possible if you are coming to the Desktop Summit and would be interest=
+ed in attending a dinner. Would either evening work for you?<br>
+
+
+
+<br>
+We will also try to plan a BoF together with KDE women, so that we can all =
+meet each other and discuss women outreach efforts.<br>
+<br>
+Please let me know as soon as possible if you will be attending, as this wi=
+ll help in planning the events. If you are local, and can suggest a reasona=
+bly quiet and inexpensive restaurant near the venue that would accommodate =
+a large group that would be great!<br>
+
+
+
+<br>
+Thanks,<br>
+Marina<br></div></div><div class=3D"im">
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org" target=3D"_blank">gnome-=
+women-list@mail.gnome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>
+</div></blockquote></div><br>
+</blockquote></div><br><br clear=3D"all"><br>-- <br>Madhu :)<br>
+
+--000325556186ce6b9f04a7ffa00c--
+From patriciasc@openismus.com  Thu Jul 14 08:04:47 2011
+Return-Path: <patriciasc@openismus.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 8454C750259;
+	Thu, 14 Jul 2011 08:04:47 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -3.406
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.406 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DOS_RCVD_IP_TWICE_B=0.001,
+	RCVD_IN_DNSWL_MED=-2.3, RDNS_NONE=0.793] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id S+UZF0XjcLpS; Thu, 14 Jul 2011 08:04:42 +0000 (UTC)
+Received: from mail.openismus.com (unknown [85.183.48.167])
+	by menubar.gnome.org (Postfix) with ESMTP id AB1B875005D;
+	Thu, 14 Jul 2011 08:04:33 +0000 (UTC)
+Received: from [192.168.0.112] (unknown [85.183.48.167])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mail.openismus.com (Postfix) with ESMTPSA id 1BE2110180C5;
+	Thu, 14 Jul 2011 10:04:31 +0200 (CEST)
+From: Patricia Santana Cruz <patriciasc@openismus.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+In-Reply-To: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Content-Type: text/plain; charset="UTF-8"
+Date: Thu, 14 Jul 2011 10:04:30 +0200
+Message-ID: <1310630670.2098.7.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.32.2 (2.32.2-1.fc14) 
+Content-Transfer-Encoding: 7bit
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 08:04:47 -0000
+
+Hello everybody!
+
+Marina, that sounds great, I was thinking about this too and I am happy
+that you had the initiative. Last year, I had really a lot of fun :))).
+
+I would suggest to do this on Monday. On Sunday there is going to be the
+big DS party, and I consider that it would be nice to be able to have
+some rest/shower/etc... before it.
+
+I live in Berlin and would not mind to find a place where we can all
+enjoy our dinner, if you confirm with enough time, let's say... before
+the 21st July?. There are not many places around the venue where we can
+choose and we might have to go to some other part of the city, but I
+will figure it out.
+
+Do you agree, ladies?
+
+Patricia.
+
+On Wed, 2011-07-13 at 14:48 -0400, Marina Zhurakhinskaya wrote:
+> Hi all!
+> 
+> It would be great to have a women's dinner at the Desktop Summit, similar to the one we had last year at GUADEC. I was thinking we could have it on Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon as possible if you are coming to the Desktop Summit and would be interested in attending a dinner. Would either evening work for you?
+> 
+> We will also try to plan a BoF together with KDE women, so that we can all meet each other and discuss women outreach efforts.
+> 
+> Please let me know as soon as possible if you will be attending, as this will help in planning the events. If you are local, and can suggest a reasonably quiet and inexpensive restaurant near the venue that would accommodate a large group that would be great!
+> 
+> Thanks,
+> Marina
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+-- 
+patriciasc@openismus.com
+http://psconboard.blogspot.com/
+www.openismus.com
+
+From srishakatux@gmail.com  Thu Jul 14 06:24:20 2011
+Return-Path: <srishakatux@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E66B875005D
+	for <gnome-women-list@gnome.org>; Thu, 14 Jul 2011 06:24:19 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id pbg7Sm-VUXhR for <gnome-women-list@gnome.org>;
+	Thu, 14 Jul 2011 06:24:16 +0000 (UTC)
+Received: from mail-fx0-f42.google.com (mail-fx0-f42.google.com
+	[209.85.161.42])
+	by menubar.gnome.org (Postfix) with ESMTP id 3A64F75004D
+	for <gnome-women-list@gnome.org>; Thu, 14 Jul 2011 06:24:07 +0000 (UTC)
+Received: by fxe23 with SMTP id 23so548787fxe.29
+	for <gnome-women-list@gnome.org>; Wed, 13 Jul 2011 23:24:06 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:content-type; bh=bbsbJM6Peu/za2HatwbCnZR3+h4UELOZp4Tmgk4ceM8=;
+	b=TscB4HN+b1+nxlNcQejutw2BN36XtmGzialAi0JxrdzgsOyC4F3aLMF7NA10hpOhiw
+	YFMQcPKDTCIypnKz4MB16mGag3BRle1yGekrSLa6Y+COFxvXIcAq+WZw2iJbr4hARGK7
+	Ee8wIpM7jMalZDKqwzfiJFXOHlpubUpMWK31k=
+MIME-Version: 1.0
+Received: by 10.223.68.22 with SMTP id t22mr2956214fai.145.1310624646128; Wed,
+	13 Jul 2011 23:24:06 -0700 (PDT)
+Received: by 10.223.104.201 with HTTP; Wed, 13 Jul 2011 23:24:05 -0700 (PDT)
+In-Reply-To: <CA+=tkb0euYj-J7sH9vz-pOgNEsdhzCDB=9=7SV1qNWcmhpG=Pw@mail.gmail.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<CABmsuzc2bzw=OBMCvxfRL=pMk6tC2eoiUDULCS2SOJLCy1O+rA@mail.gmail.com>
+	<CAJoGEJSOYyaS9ib-ZZvP59+Fk5sYT=fYajOx+wiAX-YvMQK-JA@mail.gmail.com>
+	<CA+=tkb0euYj-J7sH9vz-pOgNEsdhzCDB=9=7SV1qNWcmhpG=Pw@mail.gmail.com>
+Date: Thu, 14 Jul 2011 11:54:05 +0530
+Message-ID: <CA+=tkb3PGTnKi0_=RbFN1HTrTgUA35uKQvPgbZntv-rRXNLF-g@mail.gmail.com>
+From: srishti sethi <srishakatux@gmail.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Content-Type: multipart/alternative; boundary=0015174c132677652d04a8019449
+X-Mailman-Approved-At: Thu, 14 Jul 2011 13:17:23 +0000
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 06:24:20 -0000
+
+--0015174c132677652d04a8019449
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Marina,
+
+Pretty cool ! Count me in Marina ! :-) Craving to dine with you all !!!
+-- 
+Thanks & Regards
+Srishti Sethi
+http://srishtisethi.blogspot.com/
+
+On Thu, Jul 14, 2011 at 11:52 AM, srishti sethi <srishakatux@gmail.com>wrote:
+
+>
+> Hi Marina,
+>
+> Pretty cool ! Count me in Marina ! :-) Craving to dine with you all !!!
+> --
+> Thanks & Regards
+> Srishti Sethi
+> http://srishtisethi.blogspot.com/
+>
+> On Thu, Jul 14, 2011 at 9:34 AM, Madhumitha Viswanathan <
+> madhuvishy@gmail.com> wrote:
+>
+>> Hi Marina,
+>>
+>> Sounds awesome! I'll be there :) The timings are fine too!
+>>
+>> Cheers
+>>
+>> On Thu, Jul 14, 2011 at 9:10 AM, Emily Chen <emilychen522@gmail.com>wrote:
+>>
+>>> Hi Marina,
+>>>
+>>> Both time works for me. I am happy to attend the women's dinner again.
+>>>
+>>> -Emily
+>>>
+>>> 2011/7/14 Marina Zhurakhinskaya <marinaz@redhat.com>
+>>>
+>>>> Hi all!
+>>>>
+>>>> It would be great to have a women's dinner at the Desktop Summit,
+>>>> similar to the one we had last year at GUADEC. I was thinking we could have
+>>>> it on Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as
+>>>> soon as possible if you are coming to the Desktop Summit and would be
+>>>> interested in attending a dinner. Would either evening work for you?
+>>>>
+>>>> We will also try to plan a BoF together with KDE women, so that we can
+>>>> all meet each other and discuss women outreach efforts.
+>>>>
+>>>> Please let me know as soon as possible if you will be attending, as this
+>>>> will help in planning the events. If you are local, and can suggest a
+>>>> reasonably quiet and inexpensive restaurant near the venue that would
+>>>> accommodate a large group that would be great!
+>>>>
+>>>> Thanks,
+>>>> Marina
+>>>> _______________________________________________
+>>>> gnome-women-list mailing list
+>>>> gnome-women-list@mail.gnome.org
+>>>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>>>>
+>>>
+>>>
+>>
+>>
+>> --
+>> Madhu :)
+>>
+>
+>
+>
+>
+>
+
+
+-- 
+Thanks & Regards
+Srishti Sethi
+http://srishtisethi.blogspot.com/
+
+--0015174c132677652d04a8019449
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Marina, <br><br>Pretty cool ! Count me in Marina ! :-) Craving to dine w=
+ith you all !!!=A0 <br><font color=3D"#888888">-- <br>Thanks &amp; Regards<=
+br>Srishti Sethi<br><a href=3D"http://srishtisethi.blogspot.com/" target=3D=
+"_blank">http://srishtisethi.blogspot.com/</a></font><br>
+<br><div class=3D"gmail_quote">On Thu, Jul 14, 2011 at 11:52 AM, srishti se=
+thi <span dir=3D"ltr">&lt;<a href=3D"mailto:srishakatux@gmail.com">srishaka=
+tux@gmail.com</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" st=
+yle=3D"margin: 0pt 0pt 0pt 0.8ex; border-left: 1px solid rgb(204, 204, 204)=
+; padding-left: 1ex;">
+<br>Hi Marina, <br><br>Pretty cool ! Count me in Marina ! :-) Craving to di=
+ne with you all !!!=A0 <br><font color=3D"#888888">-- <br>Thanks &amp; Rega=
+rds<br>Srishti Sethi<br><a href=3D"http://srishtisethi.blogspot.com/" targe=
+t=3D"_blank">http://srishtisethi.blogspot.com/</a></font><div>
+<div></div><div class=3D"h5"><br>
+<div class=3D"gmail_quote">On Thu, Jul 14, 2011 at 9:34 AM, Madhumitha Visw=
+anathan <span dir=3D"ltr">&lt;<a href=3D"mailto:madhuvishy@gmail.com" targe=
+t=3D"_blank">madhuvishy@gmail.com</a>&gt;</span> wrote:<br><blockquote clas=
+s=3D"gmail_quote" style=3D"margin: 0pt 0pt 0pt 0.8ex; border-left: 1px soli=
+d rgb(204, 204, 204); padding-left: 1ex;">
+
+Hi Marina,<div><br></div><div>Sounds awesome! I&#39;ll be there :) The timi=
+ngs are fine too!</div><div><br></div><div>Cheers=A0</div><div><div></div><=
+div><br><div class=3D"gmail_quote">On Thu, Jul 14, 2011 at 9:10 AM, Emily C=
+hen <span dir=3D"ltr">&lt;<a href=3D"mailto:emilychen522@gmail.com" target=
+=3D"_blank">emilychen522@gmail.com</a>&gt;</span> wrote:<br>
+
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin: 0pt 0pt 0pt 0.8ex; borde=
+r-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;">Hi Marina, <br><b=
+r>Both time works for me. I am happy to attend the women&#39;s dinner again=
+. <br>
+
+<font color=3D"#888888"><br>
+
+-Emily <br><br></font><div class=3D"gmail_quote"><div><div></div><div>2011/=
+7/14 Marina Zhurakhinskaya <span dir=3D"ltr">&lt;<a href=3D"mailto:marinaz@=
+redhat.com" target=3D"_blank">marinaz@redhat.com</a>&gt;</span><br>
+
+</div></div><blockquote class=3D"gmail_quote" style=3D"margin: 0pt 0pt 0pt =
+0.8ex; border-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;"><div>=
+<div></div><div>Hi all!<br>
+<br>
+It would be great to have a women&#39;s dinner at the Desktop Summit, simil=
+ar to the one we had last year at GUADEC. I was thinking we could have it o=
+n Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soo=
+n as possible if you are coming to the Desktop Summit and would be interest=
+ed in attending a dinner. Would either evening work for you?<br>
+
+
+
+
+
+<br>
+We will also try to plan a BoF together with KDE women, so that we can all =
+meet each other and discuss women outreach efforts.<br>
+<br>
+Please let me know as soon as possible if you will be attending, as this wi=
+ll help in planning the events. If you are local, and can suggest a reasona=
+bly quiet and inexpensive restaurant near the venue that would accommodate =
+a large group that would be great!<br>
+
+
+
+
+
+<br>
+Thanks,<br>
+Marina<br></div></div><div>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org" target=3D"_blank">gnome-=
+women-list@mail.gnome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>
+</div></blockquote></div><br>
+</blockquote></div><br><br clear=3D"all"><br></div></div><font color=3D"#88=
+8888">-- <br>Madhu :)<br>
+</font></blockquote></div><br><br clear=3D"all"><br><br>
+</div></div></blockquote></div><br><br clear=3D"all"><br>-- <br>Thanks &amp=
+; Regards<br>Srishti Sethi<br><a href=3D"http://srishtisethi.blogspot.com/"=
+ target=3D"_blank">http://srishtisethi.blogspot.com/</a><br>
+
+--0015174c132677652d04a8019449--
+From humusha@gmail.com  Thu Jul 14 06:49:15 2011
+Return-Path: <humusha@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DA78775005D;
+	Thu, 14 Jul 2011 06:49:15 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id BX8Nr36Z2mKc; Thu, 14 Jul 2011 06:49:13 +0000 (UTC)
+Received: from mail-pv0-f182.google.com (mail-pv0-f182.google.com
+	[74.125.83.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 79B1A75004D;
+	Thu, 14 Jul 2011 06:49:05 +0000 (UTC)
+Received: by pvg11 with SMTP id 11so8626001pvg.27
+	for <multiple recipients>; Wed, 13 Jul 2011 23:49:03 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=zSdwqsJRjzFK8WFcAfJ5/o1d9Ien3A/P91YLGL1D3ac=;
+	b=XQ4yG5Dygf/BK28eSZrAFdAoI7RhaimWaIHa/UaXkuqtQTs0u2gzqKs4SubUsquYur
+	xZ0o8A663FXyUQ3tJcq+LJpra6u0v1gjn4R+NvbRxyOeLoRExXgoQmhKjUivkuJULn3Z
+	LKfFtRXjtyx9Wg+gfVdoDsqQzOULtyNGwkCcU=
+MIME-Version: 1.0
+Received: by 10.143.33.6 with SMTP id l6mr166458wfj.307.1310626143838; Wed, 13
+	Jul 2011 23:49:03 -0700 (PDT)
+Received: by 10.143.83.7 with HTTP; Wed, 13 Jul 2011 23:49:03 -0700 (PDT)
+In-Reply-To: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Thu, 14 Jul 2011 08:49:03 +0200
+Message-ID: <CAJN7HB+18Nz0P3PFc8F4dgh3BaKOoDi+sjwcDhG-0X8zGy8_Zw@mail.gmail.com>
+From: Nomvula Mahlangu <humusha@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=001636eef86cbca10304a801edd0
+X-Mailman-Approved-At: Thu, 14 Jul 2011 13:17:24 +0000
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 06:49:16 -0000
+
+--001636eef86cbca10304a801edd0
+Content-Type: text/plain; charset=ISO-8859-1
+
+I am not going to make it this year but I would like to attend next year.
+Hope you all have fun!
+
+--001636eef86cbca10304a801edd0
+Content-Type: text/html; charset=ISO-8859-1
+
+I am not going to make it this year but I would like to attend next year. Hope you all have fun!<br>
+
+--001636eef86cbca10304a801edd0--
+From ndoijode@gmail.com  Thu Jul 14 15:24:39 2011
+Return-Path: <ndoijode@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F29587500D3;
+	Thu, 14 Jul 2011 15:24:38 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id r7odOQNImP+7; Thu, 14 Jul 2011 15:24:34 +0000 (UTC)
+Received: from mail-iy0-f182.google.com (mail-iy0-f182.google.com
+	[209.85.210.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 050807500CD;
+	Thu, 14 Jul 2011 15:24:25 +0000 (UTC)
+Received: by iyb11 with SMTP id 11so529892iyb.27
+	for <multiple recipients>; Thu, 14 Jul 2011 08:24:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:content-type; bh=8my7NjGOjqXXafPVzrdQIBv9EZzNTxXeeZDEKEtB97c=;
+	b=qsQtkhLldsqTDHzI9gB3mKvg1TqZpJ7pbZvOqp2GJnmiMcO3evABc3aWJYF4jTZ/sD
+	crNoFLZx2BaOGPF1H0CsKUlVRoXouKsShVsLGoF1K8uUtHvYl9xwzPvjnl+MuJKqCxvq
+	N6RPnv2HmjLnpMrECQ9tgU/O1D4/3vs08YViQ=
+MIME-Version: 1.0
+Received: by 10.231.114.86 with SMTP id d22mr2181220ibq.45.1310657063926; Thu,
+	14 Jul 2011 08:24:23 -0700 (PDT)
+Received: by 10.231.13.193 with HTTP; Thu, 14 Jul 2011 08:24:23 -0700 (PDT)
+In-Reply-To: <CA+=tkb3PGTnKi0_=RbFN1HTrTgUA35uKQvPgbZntv-rRXNLF-g@mail.gmail.com>
+References: <822253882.62439.1310579832095.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<CABmsuzc2bzw=OBMCvxfRL=pMk6tC2eoiUDULCS2SOJLCy1O+rA@mail.gmail.com>
+	<CAJoGEJSOYyaS9ib-ZZvP59+Fk5sYT=fYajOx+wiAX-YvMQK-JA@mail.gmail.com>
+	<CA+=tkb0euYj-J7sH9vz-pOgNEsdhzCDB=9=7SV1qNWcmhpG=Pw@mail.gmail.com>
+	<CA+=tkb3PGTnKi0_=RbFN1HTrTgUA35uKQvPgbZntv-rRXNLF-g@mail.gmail.com>
+Date: Thu, 14 Jul 2011 20:54:23 +0530
+Message-ID: <CANpwAySWeB+ZSuGzZ+O+Lh=6JiUZPNVM38MiAxp10PnZKvWjKA@mail.gmail.com>
+From: Neha <ndoijode@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>, gnome-women-list@gnome.org, 
+	opw-gsoc-interns-2011@gnome.org, opw-interns-2011@gnome.org, 
+	opw-interns-2010@gnome.org
+Content-Type: multipart/alternative; boundary=001636284e12b7bd0c04a80920c1
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 15:24:39 -0000
+
+--001636284e12b7bd0c04a80920c1
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello everyone!
+
+Marina, sorry couldn't afford this time :( Maybe next time I will have more
+money in my pocket :)
+
+Regards,
+Neha
+
+On Thu, Jul 14, 2011 at 11:54 AM, srishti sethi <srishakatux@gmail.com>wrote:
+
+> Hi Marina,
+>
+> Pretty cool ! Count me in Marina ! :-) Craving to dine with you all !!!
+> --
+> Thanks & Regards
+> Srishti Sethi
+> http://srishtisethi.blogspot.com/
+>
+> On Thu, Jul 14, 2011 at 11:52 AM, srishti sethi <srishakatux@gmail.com>wrote:
+>
+>>
+>> Hi Marina,
+>>
+>> Pretty cool ! Count me in Marina ! :-) Craving to dine with you all !!!
+>> --
+>> Thanks & Regards
+>> Srishti Sethi
+>> http://srishtisethi.blogspot.com/
+>>
+>> On Thu, Jul 14, 2011 at 9:34 AM, Madhumitha Viswanathan <
+>> madhuvishy@gmail.com> wrote:
+>>
+>>> Hi Marina,
+>>>
+>>> Sounds awesome! I'll be there :) The timings are fine too!
+>>>
+>>> Cheers
+>>>
+>>> On Thu, Jul 14, 2011 at 9:10 AM, Emily Chen <emilychen522@gmail.com>wrote:
+>>>
+>>>> Hi Marina,
+>>>>
+>>>> Both time works for me. I am happy to attend the women's dinner again.
+>>>>
+>>>> -Emily
+>>>>
+>>>> 2011/7/14 Marina Zhurakhinskaya <marinaz@redhat.com>
+>>>>
+>>>>> Hi all!
+>>>>>
+>>>>> It would be great to have a women's dinner at the Desktop Summit,
+>>>>> similar to the one we had last year at GUADEC. I was thinking we could have
+>>>>> it on Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as
+>>>>> soon as possible if you are coming to the Desktop Summit and would be
+>>>>> interested in attending a dinner. Would either evening work for you?
+>>>>>
+>>>>> We will also try to plan a BoF together with KDE women, so that we can
+>>>>> all meet each other and discuss women outreach efforts.
+>>>>>
+>>>>> Please let me know as soon as possible if you will be attending, as
+>>>>> this will help in planning the events. If you are local, and can suggest a
+>>>>> reasonably quiet and inexpensive restaurant near the venue that would
+>>>>> accommodate a large group that would be great!
+>>>>>
+>>>>> Thanks,
+>>>>> Marina
+>>>>> _______________________________________________
+>>>>> gnome-women-list mailing list
+>>>>> gnome-women-list@mail.gnome.org
+>>>>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>>>>>
+>>>>
+>>>>
+>>>
+>>>
+>>> --
+>>> Madhu :)
+>>>
+>>
+>>
+>>
+>>
+>>
+>
+>
+> --
+> Thanks & Regards
+> Srishti Sethi
+> http://srishtisethi.blogspot.com/
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--001636284e12b7bd0c04a80920c1
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello everyone!<br><br>Marina, sorry couldn&#39;t afford this time :( Maybe=
+ next time I will have more money in my pocket :)<br><br>Regards,<br>Neha<b=
+r><br><div class=3D"gmail_quote">On Thu, Jul 14, 2011 at 11:54 AM, srishti =
+sethi <span dir=3D"ltr">&lt;<a href=3D"mailto:srishakatux@gmail.com">srisha=
+katux@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex;">Hi Marina, <br><br>Pretty cool ! Count me i=
+n Marina ! :-) Craving to dine with you all !!!=A0 <br><font color=3D"#8888=
+88">-- <br>
+Thanks &amp; Regards<br>Srishti Sethi<br><a href=3D"http://srishtisethi.blo=
+gspot.com/" target=3D"_blank">http://srishtisethi.blogspot.com/</a></font><=
+br>
+<br><div class=3D"gmail_quote"><div class=3D"im">On Thu, Jul 14, 2011 at 11=
+:52 AM, srishti sethi <span dir=3D"ltr">&lt;<a href=3D"mailto:srishakatux@g=
+mail.com" target=3D"_blank">srishakatux@gmail.com</a>&gt;</span> wrote:<br>=
+</div>
+<blockquote class=3D"gmail_quote" style=3D"margin:0pt 0pt 0pt 0.8ex;border-=
+left:1px solid rgb(204, 204, 204);padding-left:1ex">
+<br>Hi Marina, <br><br>Pretty cool ! Count me in Marina ! :-) Craving to di=
+ne with you all !!!=A0 <br><font color=3D"#888888">-- <br>Thanks &amp; Rega=
+rds<br>Srishti Sethi<br><a href=3D"http://srishtisethi.blogspot.com/" targe=
+t=3D"_blank">http://srishtisethi.blogspot.com/</a></font><div class=3D"im">
+<div>
+<div></div><div><br>
+<div class=3D"gmail_quote">On Thu, Jul 14, 2011 at 9:34 AM, Madhumitha Visw=
+anathan <span dir=3D"ltr">&lt;<a href=3D"mailto:madhuvishy@gmail.com" targe=
+t=3D"_blank">madhuvishy@gmail.com</a>&gt;</span> wrote:<br><blockquote clas=
+s=3D"gmail_quote" style=3D"margin:0pt 0pt 0pt 0.8ex;border-left:1px solid r=
+gb(204, 204, 204);padding-left:1ex">
+
+
+Hi Marina,<div><br></div><div>Sounds awesome! I&#39;ll be there :) The timi=
+ngs are fine too!</div><div><br></div><div>Cheers=A0</div><div><div></div><=
+div><br><div class=3D"gmail_quote">On Thu, Jul 14, 2011 at 9:10 AM, Emily C=
+hen <span dir=3D"ltr">&lt;<a href=3D"mailto:emilychen522@gmail.com" target=
+=3D"_blank">emilychen522@gmail.com</a>&gt;</span> wrote:<br>
+
+
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0pt 0pt 0pt 0.8ex;border-=
+left:1px solid rgb(204, 204, 204);padding-left:1ex">Hi Marina, <br><br>Both=
+ time works for me. I am happy to attend the women&#39;s dinner again. <br>
+
+
+<font color=3D"#888888"><br>
+
+-Emily <br><br></font><div class=3D"gmail_quote"><div><div></div><div>2011/=
+7/14 Marina Zhurakhinskaya <span dir=3D"ltr">&lt;<a href=3D"mailto:marinaz@=
+redhat.com" target=3D"_blank">marinaz@redhat.com</a>&gt;</span><br>
+
+</div></div><blockquote class=3D"gmail_quote" style=3D"margin:0pt 0pt 0pt 0=
+.8ex;border-left:1px solid rgb(204, 204, 204);padding-left:1ex"><div><div><=
+/div><div>Hi all!<br>
+<br>
+It would be great to have a women&#39;s dinner at the Desktop Summit, simil=
+ar to the one we had last year at GUADEC. I was thinking we could have it o=
+n Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soo=
+n as possible if you are coming to the Desktop Summit and would be interest=
+ed in attending a dinner. Would either evening work for you?<br>
+
+
+
+
+
+
+<br>
+We will also try to plan a BoF together with KDE women, so that we can all =
+meet each other and discuss women outreach efforts.<br>
+<br>
+Please let me know as soon as possible if you will be attending, as this wi=
+ll help in planning the events. If you are local, and can suggest a reasona=
+bly quiet and inexpensive restaurant near the venue that would accommodate =
+a large group that would be great!<br>
+
+
+
+
+
+
+<br>
+Thanks,<br>
+Marina<br></div></div><div>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org" target=3D"_blank">gnome-=
+women-list@mail.gnome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>
+</div></blockquote></div><br>
+</blockquote></div><br><br clear=3D"all"><br></div></div><font color=3D"#88=
+8888">-- <br>Madhu :)<br>
+</font></blockquote></div><br><br clear=3D"all"><br><br>
+</div></div></div></blockquote></div><font color=3D"#888888"><br><br clear=
+=3D"all"><br>-- <br>Thanks &amp; Regards<br>Srishti Sethi<br><a href=3D"htt=
+p://srishtisethi.blogspot.com/" target=3D"_blank">http://srishtisethi.blogs=
+pot.com/</a><br>
+
+</font><br>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>=
+</blockquote></div><br>
+
+--001636284e12b7bd0c04a80920c1--
+From kittykat3756@gmail.com  Thu Jul 14 16:41:11 2011
+Return-Path: <kittykat3756@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 5AD2B750303;
+	Thu, 14 Jul 2011 16:41:11 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.6
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.6 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.1,
+	FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Ly9rwo0QJzE7; Thu, 14 Jul 2011 16:41:06 +0000 (UTC)
+Received: from mail-fx0-f42.google.com (mail-fx0-f42.google.com
+	[209.85.161.42])
+	by menubar.gnome.org (Postfix) with ESMTP id 02A11750130;
+	Thu, 14 Jul 2011 16:41:05 +0000 (UTC)
+Received: by fxe23 with SMTP id 23so1474480fxe.29
+	for <multiple recipients>; Thu, 14 Jul 2011 09:41:04 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:content-type:content-transfer-encoding;
+	bh=+bdkZmjKta9x9u2FT1Q0Y3Y5pxq2PzvrTf6+GoBzkqo=;
+	b=O3/Vh6Gtsfzs6JuyO2ntTeSqFIdVwCR29t32U8wJpnbTP9q2+jHGvpkvJkx8cyVaak
+	ZeiGzivpG/8yGZiQ0/6FFsXr0TEGtjTRaVSNHmTBmhxKD/W0voJ+Oz6XlgeT9g6Lat88
+	+/ZlZzIOGMtc5TquuCWGl6mRRBe9LT4ExYOt0=
+MIME-Version: 1.0
+Received: by 10.223.76.26 with SMTP id a26mr1285231fak.94.1310661664286; Thu,
+	14 Jul 2011 09:41:04 -0700 (PDT)
+Received: by 10.223.74.200 with HTTP; Thu, 14 Jul 2011 09:41:04 -0700 (PDT)
+In-Reply-To: <1310630670.2098.7.camel@localhost.localdomain>
+References: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<1310630670.2098.7.camel@localhost.localdomain>
+Date: Thu, 14 Jul 2011 18:41:04 +0200
+Message-ID: <CAM2D-Rq+Xdui_AaBxktU5a+AdjY3Wx9M1S5fzi7cRAeUZ+=UXQ@mail.gmail.com>
+From: Ekaterina Gerasimova <kittykat3756@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>,
+	gnome-women-list <gnome-women-list@gnome.org>, 
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org, 
+	opw-gsoc-interns-2011@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailman-Approved-At: Thu, 14 Jul 2011 16:56:12 +0000
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 16:41:11 -0000
+
+On 14 July 2011 10:04, Patricia Santana Cruz <patriciasc@openismus.com> wro=
+te:
+> On Wed, 2011-07-13 at 14:48 -0400, Marina Zhurakhinskaya wrote:
+>>
+>> It would be great to have a women's dinner at the Desktop Summit, simila=
+r to the one we had last year at GUADEC. I was thinking we could have it on=
+ Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon=
+ as possible if you are coming to the Desktop Summit and would be intereste=
+d in attending a dinner. Would either evening work for you?
+>
+> I would suggest to do this on Monday.
+
+Yes, Monday would be better.
+
+>> Please let me know as soon as possible if you will be attending, as this=
+ will help in planning the events. If you are local, and can suggest a reas=
+onably quiet and inexpensive restaurant near the venue that would accommoda=
+te a large group that would be great!
+
+Count me in :)
+From snelting@collectifs.net  Thu Jul 14 20:22:09 2011
+Return-Path: <snelting@collectifs.net>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EA4B075045E
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 14 Jul 2011 20:22:08 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.9
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sBf90I4vHBW7 for <gnome-women-list@mail.gnome.org>;
+	Thu, 14 Jul 2011 20:22:04 +0000 (UTC)
+Received: from fb1.tech.numericable.fr (fb1.tech.numericable.fr
+	[82.216.111.51])
+	by menubar.gnome.org (Postfix) with ESMTP id 145387500FE
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 14 Jul 2011 20:21:55 +0000 (UTC)
+Received: from smtp2.tech.numericable.fr (smtp2.nc.sdv.fr [10.0.0.36])
+	by fb1.tech.numericable.fr (Postfix) with ESMTP id 579291562A2
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 14 Jul 2011 22:21:52 +0200 (CEST)
+Received: from [192.168.2.2] (cable-78.29.210.207.coditel.net [78.29.210.207])
+	by smtp2.tech.numericable.fr (Postfix) with ESMTP id 498A218D805
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 14 Jul 2011 22:21:40 +0200 (CEST)
+Message-ID: <4E1F501D.8000900@collectifs.net>
+Date: Thu, 14 Jul 2011 22:22:53 +0200
+From: Femke Snelting <snelting@collectifs.net>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US;
+	rv:1.9.2.18) Gecko/20110616 Lightning/1.0b2 Thunderbird/3.1.11
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+References: <2095171033.63342.1310582888366.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<1310630670.2098.7.camel@localhost.localdomain>
+In-Reply-To: <1310630670.2098.7.camel@localhost.localdomain>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-VR-SPAMSTATE: OK
+X-VR-SPAMSCORE: -100
+X-VR-SPAMCAUSE: Vade Retro 01.323.17 AV+AS Profile: NUMERICABLE; Bailout: 300;
+	Url TLD (20); (-100); sound& (-20)
+Subject: Re: [gnome-women] women's events at the Desktop Summit
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 14 Jul 2011 20:22:09 -0000
+
+Hello!
+
+I'll be at the Desktop Summit on Saturday and Sunday (not directly involved in Gnome/KDE development but co-organised Libre Graphics Meeting 2010 and active in Les Samedies, a women and Free Software group in Brussels). If it happens to work out on Sunday, I'd love to join; if not: enjoy dinner :-)
+
+best,
+
+
+Femke
+
+
+On 07/14/2011 10:04 AM, Patricia Santana Cruz wrote:
+> Hello everybody!
+>
+> Marina, that sounds great, I was thinking about this too and I am happy
+> that you had the initiative. Last year, I had really a lot of fun :))).
+>
+> I would suggest to do this on Monday. On Sunday there is going to be the
+> big DS party, and I consider that it would be nice to be able to have
+> some rest/shower/etc... before it.
+>
+> I live in Berlin and would not mind to find a place where we can all
+> enjoy our dinner, if you confirm with enough time, let's say... before
+> the 21st July?. There are not many places around the venue where we can
+> choose and we might have to go to some other part of the city, but I
+> will figure it out.
+>
+> Do you agree, ladies?
+>
+> Patricia.
+>
+> On Wed, 2011-07-13 at 14:48 -0400, Marina Zhurakhinskaya wrote:
+>> Hi all!
+>>
+>> It would be great to have a women's dinner at the Desktop Summit, similar to the one we had last year at GUADEC. I was thinking we could have it on Sunday, August 7 or Monday, August 8 at 6:30pm. Please let me know as soon as possible if you are coming to the Desktop Summit and would be interested in attending a dinner. Would either evening work for you?
+>>
+>> We will also try to plan a BoF together with KDE women, so that we can all meet each other and discuss women outreach efforts.
+>>
+>> Please let me know as soon as possible if you will be attending, as this will help in planning the events. If you are local, and can suggest a reasonably quiet and inexpensive restaurant near the venue that would accommodate a large group that would be great!
+>>
+>> Thanks,
+>> Marina
+>> _______________________________________________
+>> gnome-women-list mailing list
+>> gnome-women-list@mail.gnome.org
+>> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+From marinaz@redhat.com  Fri Jul 29 04:43:12 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7C7BB750070;
+	Fri, 29 Jul 2011 04:43:12 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -8.094
+X-Spam-Level: 
+X-Spam-Status: No, score=-8.094 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-1.192,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id vT7KgIaWEorv; Fri, 29 Jul 2011 04:43:08 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id AD1BA750006;
+	Fri, 29 Jul 2011 04:43:00 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p6T4gx8c015668;
+	Fri, 29 Jul 2011 00:42:59 -0400
+Date: Fri, 29 Jul 2011 00:42:59 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>,
+	opw-interns-2011@gnome.org, opw-gsoc-interns-2011@gnome.org
+Message-ID: <1602698749.539350.1311914579269.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <606200720.539333.1311914432739.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.71]
+X-Mailer: Zimbra 6.0.9_GA_2686 (ZimbraWebClient - FF3.0 (Linux)/6.0.9_GA_2686)
+Subject: [gnome-women] Outreach Program for Women quarterly update
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 29 Jul 2011 04:43:12 -0000
+
+Hi!
+
+Outreach Program for Women quarterly update for Q2 is below. You can also f=
+ind it on:
+https://live.gnome.org/GnomeMarketing/QuarterlyReports/2011/Q2
+
+Some overlap with the Q1 update is due to some news that belongs to Q2 alre=
+ady being available at the time of writing of the Q1 update. Please let me =
+know if you'd like to add anything!
+
+Note the great news that the GNOME Foundation has approved funding for two =
+more rounds of the internships!
+
+For those attending the Desktop Summit, the GNOME women's dinner will take =
+place on Monday, August 8. I will soon send out an e-mail with the time and=
+ place. The Women's Networking BoF has been scheduled for 6pm on Tuesday, A=
+ugust 9. Please add your name to the wiki page if you are planning to atten=
+d!
+http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/Women%27s_Networking_=
+BoF
+
+Thanks,
+Marina
+
+------------------------
+
+Outreach Program for Women
+
+by: Marina Zhurakhinskaya
+
+Thanks to generous sponsors, Collabora, Google, Mozilla and the GNOME Found=
+ation, GNOME was able to accept eight strong participants for the new round=
+ of internships that are taking place between May 23 and August 22, 2011. S=
+etting the same application dates for this round of OPW internships as the =
+Google Summer of Code (GSoC) application dates proved to be a successful st=
+rategy for encouraging more women to apply for GSoC in GNOME. In addition t=
+o the eight OPW interns, there are seven female interns among the 27 GSoC i=
+nterns in GNOME. This is an unprecedented number of female GSoC participant=
+s in GNOME, as it had at most one female participant in some of the previou=
+s years. All women who applied for GSoC in 2011 found mentors and project i=
+deas, made a first contribution, and navigated the application process with=
+ the help of the resources available through the OPW.
+
+The OPW interns, as well as their location, project, and mentor(s), are:
+
+  * Aline Duarte Bessa, Salvador, Brazil =E2=80=93 Accessibility, Documenta=
+tion =E2=80=93 David Bolter and Joanmarie Diggs
+  * Meg Ford, Chicago, USA =E2=80=93 Accessibility, Art =E2=80=93 David Bol=
+ter and Andreas Nilsson
+  * Ekaterina Gerasimova, Berlin, Germany =E2=80=93 Documentation =E2=80=93=
+ Shaun McCance
+  * Julita Inca, Lima, Peru =E2=80=93 Documentation =E2=80=93 Phil Bull
+  * Yu Liansu, Beijing, China =E2=80=93 Art =E2=80=93 Andreas Nilsson
+  * Priscilla Mahlangu, Pretoria, South Africa =E2=80=93 Localization =E2=
+=80=93 Friedel Wolff
+  * Anita Reitere, Riga, Latvia =E2=80=93 Documentation =E2=80=93 Phil Bull
+  * Kelly Sinnott, Las Vegas, USA =E2=80=93 Documentation =E2=80=93 Shaun M=
+cCance
+
+GSoC female interns, as well as their location, project, and mentor, are:
+
+  * Tiffany Antopolski, Toronto, Canada =E2=80=93 Empathy =E2=80=93 Daniell=
+e Madeley
+  * Tamara Atanasoska, Skopje, Republic of Macedonia =E2=80=93 Anjuta =E2=
+=80=93 Johannes Schmid
+  * Neha Doijode, Karnataka, India =E2=80=93 GNOME Shell =E2=80=93 Marina Z=
+hurakhinskaya
+  * Nohemi Fernandez, Chicago, USA =E2=80=93 GNOME Shell =E2=80=93 Dan Wins=
+hip
+  * Raluca Elena Podiuc, Bucharest, Romania =E2=80=93 Cheese =E2=80=93 Luci=
+ana Fujii Pontello
+  * Srishti Sethi, Rajasthan, India =E2=80=93 GCompris =E2=80=93 Bruno Coud=
+oin
+  * Madhumitha Viswanathan, Chennai, India =E2=80=93 GTG =E2=80=93 Luca Inv=
+ernizzi=20
+
+The press release [1] and the program details page [2] have more informatio=
+n about the program. The list of GNOME projects that participate in the pro=
+gram has grown to 13, and more projects are encouraged to join in!
+
+The GNOME Foundation has approved funding for two more rounds of the Outrea=
+ch Program for Women internships with at least three participants each. The=
+ next round will take place between December 2011 and March 2012. The appli=
+cation deadline for this round will be in the end of October 2011. We will =
+soon update the information on the wiki about the internships and will open=
+ the application period.
+
+The Desktop Summit is the big event for the GNOME community in the next qua=
+rter. It will be taking place August 6-12 in Berlin, Germany. Eleven Outrea=
+ch Program for Women interns from the past two rounds of the program will b=
+e attending the event. They will do lightning talks about their work during=
+ the GNOME and KDE Interns Showcase [3] session. First round's intern Chand=
+ni Verma will do a talk Knock Knock! What is new? [4] about her experience =
+with the program and contributions to Empathy. Encouraged by the last year'=
+s great GNOME women's dinner experience, we will gather for another one thi=
+s year, making it an annual tradition. There will also be a Women's Network=
+ing BoF [5] that will allow GNOME and KDE women to meet each other and talk=
+ about the work they are doing, how they started contributing, and the wome=
+n outreach efforts in both projects.
+
+[1] http://www.gnome.org/press/2011/04/after-a-successful-first-round-gnome=
+-project-announces-new-outreach-program-for-women-interns
+[2] https://live.gnome.org/GnomeWomen/OutreachProgram2011
+[3] https://www.desktopsummit.org/program/sessions/gnome-and-kde-interns-sh=
+owcase
+[4] https://www.desktopsummit.org/program/sessions/knock-knock-what-new
+[5] http://wiki.desktopsummit.org/Workshops_%26_BoFs/2011/Women%27s_Network=
+ing_BoF
+From alibezz@gmail.com  Fri Jul 29 12:47:33 2011
+Return-Path: <alibezz@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D596E750092;
+	Fri, 29 Jul 2011 12:47:33 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GxTi95t1X63D; Fri, 29 Jul 2011 12:47:31 +0000 (UTC)
+Received: from mail-fx0-f54.google.com (mail-fx0-f54.google.com
+	[209.85.161.54])
+	by menubar.gnome.org (Postfix) with ESMTP id A3E13750006;
+	Fri, 29 Jul 2011 12:47:22 +0000 (UTC)
+Received: by fxe4 with SMTP id 4so4408631fxe.27
+	for <multiple recipients>; Fri, 29 Jul 2011 05:47:20 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=Aq0233rjV6jtbN5TrrBol5JVpVJKZSZuCqpILepnTkc=;
+	b=d9W0EfKQHQiJ/oL+LJBPG3TggzJ4Me7AXWqoXTMEtsG3vLfZslB3pbsKUcIXCvRzs5
+	FZjksecNJyY8zmGJ5cSW7BDzE4Ods3zkO17jHXRnmyJyPI4n31vfukK5YQUZYTL2AKh+
+	PHZRnLESfitW4Lo9KflX6FTmt1uXVj11EEzsk=
+MIME-Version: 1.0
+Received: by 10.223.161.74 with SMTP id q10mr1766533fax.117.1311943640490;
+	Fri, 29 Jul 2011 05:47:20 -0700 (PDT)
+Received: by 10.223.75.204 with HTTP; Fri, 29 Jul 2011 05:47:20 -0700 (PDT)
+In-Reply-To: <1602698749.539350.1311914579269.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <606200720.539333.1311914432739.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<1602698749.539350.1311914579269.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Fri, 29 Jul 2011 09:47:20 -0300
+Message-ID: <CAA66yiUFhpEi1CkrGVgBsobepv-SN4wbQUx-dmoGakdqT-6Y3Q@mail.gmail.com>
+From: Aline Bessa <alibezz@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=002354189238a8252904a934aea0
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] Outreach Program for Women quarterly update
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 29 Jul 2011 12:47:34 -0000
+
+--002354189238a8252904a934aea0
+Content-Type: text/plain; charset=ISO-8859-1
+
+Thanks, Marina!
+
+Hey, have you read an email I sent you asking about documentation for an US
+Visa? I intend to go to US GNOME events as soon as possible, but I need the
+visa. =/
+
+Perhaps, when the next event date is set, you could send me a digital letter
+telling that I participated of a GNOME program and intend to go to the US
+because of a GNOME event?
+
+Best regards!
+
+-- 
+Aline Bessa
+GNU/Linux Registered User #452373
+
+--002354189238a8252904a934aea0
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Thanks, Marina!<br><br>Hey, have you read an email I sent you asking about =
+documentation for an US Visa? I intend to go to US GNOME events as soon as =
+possible, but I need the visa. =3D/<br><br>Perhaps, when the next event dat=
+e is set, you could send me a digital letter telling that I participated of=
+ a GNOME program and intend to go to the US because of a GNOME event?<br>
+<br>Best regards!<br clear=3D"all"><br>-- <br>Aline Bessa<br>GNU/Linux Regi=
+stered User #452373<br>
+
+--002354189238a8252904a934aea0--
+From marinaz@redhat.com  Fri Jul 29 19:07:10 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 323DD7500B9;
+	Fri, 29 Jul 2011 19:07:10 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -8.094
+X-Spam-Level: 
+X-Spam-Status: No, score=-8.094 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-1.192,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id wFjHZ1J0j7dU; Fri, 29 Jul 2011 19:07:07 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id AE9E8750092;
+	Fri, 29 Jul 2011 19:06:59 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p6TJ6vor024950;
+	Fri, 29 Jul 2011 15:06:57 -0400
+Date: Fri, 29 Jul 2011 15:06:56 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Aline Bessa <alibezz@gmail.com>
+Message-ID: <157482358.548470.1311966416986.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <CAA66yiUFhpEi1CkrGVgBsobepv-SN4wbQUx-dmoGakdqT-6Y3Q@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.5.71]
+X-Mailer: Zimbra 6.0.9_GA_2686 (ZimbraWebClient - FF3.0 (Linux)/6.0.9_GA_2686)
+Cc: opw-gsoc-interns-2011@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org
+Subject: Re: [gnome-women] Outreach Program for Women quarterly update
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 29 Jul 2011 19:07:10 -0000
+
+Hi Aline!
+
+Sorry I missed your last e-mail.
+
+I think you just need the tourist visa. What is the processing time that is stated for that? If you want to try to find someone who obtained the visa in the past to attend a GNOME event in the US you can try asking on the GNOME Brazil list:
+http://mail.gnome.org/mailman/listinfo/gnome-br-list
+
+The Boston Summit will most likely be held October 8-10. I don't think you need to wait until the dates are officially announced to start the visa application process, especially if it requires a long time. Can you please e-mail Brian Cameron (brian.cameron@oracle.com), who is the GNOME Foundation secretary, and ask him to send you an invitation letter for the Boston Summit. He has the official GNOME Foundation template for such letters. Feel free to CC me and Joanie on your e-mail.
+
+Thanks,
+Marina
+
+----- Original Message -----
+From: "Aline Bessa" <alibezz@gmail.com>
+To: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+Cc: "gnome-women-list" <gnome-women-list@gnome.org>, "opw-interns-2010" <opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org, opw-gsoc-interns-2011@gnome.org
+Sent: Friday, July 29, 2011 8:47:20 AM
+Subject: Re: Outreach Program for Women quarterly update
+
+Thanks, Marina! 
+
+Hey, have you read an email I sent you asking about documentation for an US Visa? I intend to go to US GNOME events as soon as possible, but I need the visa. =/ 
+
+Perhaps, when the next event date is set, you could send me a digital letter telling that I participated of a GNOME program and intend to go to the US because of a GNOME event? 
+
+Best regards! 
+
+-- 
+Aline Bessa 
+GNU/Linux Registered User #452373 
+From valverde.izabel@gmail.com  Fri Jul 29 19:13:54 2011
+Return-Path: <valverde.izabel@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 6F07D7500B9;
+	Fri, 29 Jul 2011 19:13:54 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.7
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.7 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QHRXTZ6auXjC; Fri, 29 Jul 2011 19:13:52 +0000 (UTC)
+Received: from mail-qy0-f175.google.com (mail-qy0-f175.google.com
+	[209.85.216.175])
+	by menubar.gnome.org (Postfix) with ESMTP id 8B945750092;
+	Fri, 29 Jul 2011 19:13:42 +0000 (UTC)
+Received: by qyk30 with SMTP id 30so28977qyk.6
+	for <multiple recipients>; Fri, 29 Jul 2011 12:13:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type:content-transfer-encoding;
+	bh=3Zexk7qtnZh0HQ2oLkMS7P46/D6s0jRUQJCPNefuKfM=;
+	b=io54rhMtHM+/TUYcoBeOiViNOj/szUtmPVz1jby+dxGYMqZ/iekabHLfJDi6wrYejR
+	DDqprR/400+WqIakK4a8qYXEcelD9H3j/g4okh4RqfplXk8/dywx6eDvjLwYg3INp9zU
+	QwlzBuxT8jzi9Y1yFYdu4H5w6BEbP3l45LbYs=
+MIME-Version: 1.0
+Received: by 10.229.188.79 with SMTP id cz15mr1335073qcb.94.1311966821333;
+	Fri, 29 Jul 2011 12:13:41 -0700 (PDT)
+Received: by 10.229.50.143 with HTTP; Fri, 29 Jul 2011 12:13:41 -0700 (PDT)
+In-Reply-To: <157482358.548470.1311966416986.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <CAA66yiUFhpEi1CkrGVgBsobepv-SN4wbQUx-dmoGakdqT-6Y3Q@mail.gmail.com>
+	<157482358.548470.1311966416986.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Fri, 29 Jul 2011 16:13:41 -0300
+Message-ID: <CAPF532YXS18xKSaXats0WLZOdz9xLH=BRQ-nw=tKwjkFbd-=Hw@mail.gmail.com>
+From: Izabel Valverde <valverde.izabel@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Mailman-Approved-At: Fri, 29 Jul 2011 19:15:44 +0000
+Cc: opw-interns-2011@gnome.org, gnome-women-list <gnome-women-list@gnome.org>,
+	opw-interns-2010 <opw-interns-2010@gnome.org>,
+	opw-gsoc-interns-2011@gnome.org
+Subject: Re: [gnome-women] Outreach Program for Women quarterly update
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 29 Jul 2011 19:13:54 -0000
+
+Hi Marina, Hi Aline,
+
+Brazilians don't need visa to enter into European Community. The visa
+is given in board landing.
+
+For US need B1-B2 visa for conferences/events or B2 for tourism.
+
+My tiny help...
+
+Izabel
+
+
+
+2011/7/29 Marina Zhurakhinskaya <marinaz@redhat.com>:
+> Hi Aline!
+>
+> Sorry I missed your last e-mail.
+>
+> I think you just need the tourist visa. What is the processing time that =
+is stated for that? If you want to try to find someone who obtained the vis=
+a in the past to attend a GNOME event in the US you can try asking on the G=
+NOME Brazil list:
+> http://mail.gnome.org/mailman/listinfo/gnome-br-list
+>
+> The Boston Summit will most likely be held October 8-10. I don't think yo=
+u need to wait until the dates are officially announced to start the visa a=
+pplication process, especially if it requires a long time. Can you please e=
+-mail Brian Cameron (brian.cameron@oracle.com), who is the GNOME Foundation=
+ secretary, and ask him to send you an invitation letter for the Boston Sum=
+mit. He has the official GNOME Foundation template for such letters. Feel f=
+ree to CC me and Joanie on your e-mail.
+>
+> Thanks,
+> Marina
+>
+> ----- Original Message -----
+> From: "Aline Bessa" <alibezz@gmail.com>
+> To: "Marina Zhurakhinskaya" <marinaz@redhat.com>
+> Cc: "gnome-women-list" <gnome-women-list@gnome.org>, "opw-interns-2010" <=
+opw-interns-2010@gnome.org>, opw-interns-2011@gnome.org, opw-gsoc-interns-2=
+011@gnome.org
+> Sent: Friday, July 29, 2011 8:47:20 AM
+> Subject: Re: Outreach Program for Women quarterly update
+>
+> Thanks, Marina!
+>
+> Hey, have you read an email I sent you asking about documentation for an =
+US Visa? I intend to go to US GNOME events as soon as possible, but I need =
+the visa. =3D/
+>
+> Perhaps, when the next event date is set, you could send me a digital let=
+ter telling that I participated of a GNOME program and intend to go to the =
+US because of a GNOME event?
+>
+> Best regards!
+>
+> --
+> Aline Bessa
+> GNU/Linux Registered User #452373
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>

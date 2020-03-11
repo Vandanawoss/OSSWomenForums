@@ -1,0 +1,28 @@
+From speakers at ohiolinux.org  Sun Jun 14 01:58:56 2015
+From: speakers at ohiolinux.org (speakers at ohiolinux.org)
+Date: Sun, 14 Jun 2015 03:58:56 +0200
+Subject: [Kde-women] Ohio LinuxFest 2015 Call for Presentations
+Message-ID: <0MhTLo-1YiPuU3YSQ-00MfnA@mrelay.perfora.net>
+
+The 2015 Ohio LinuxFest is looking for presentations on Friday and
+Saturday, October 2 and 3.  Please visit the CFP page
+<https://ohiolinux.org/CFP> for full details about submitting a
+proposal.  The deadline is Friday, July 17, but the sooner you can
+submit a talk, the better.
+
+Started in 2003, the Ohio LinuxFest <https://ohiolinux.org/> is an
+annual grassroots conference in Columbus, Ohio.  We are very keen to
+see increased participation and visibility of women in our community.
+Presentations relating to any free and open source software, not just
+Linux, are welcome.  Relevant topics include networking, system
+administration, user interaction, development, and community building
+but are certainly not limited to these.
+
+Our audience consists of people at all skill levels.  Prior speaking
+experience is a plus, although we do try to provide opportunities for
+first-time speakers.  If you have any questions, please contact us at
+<speakers at ohiolinux.org>.  We look forward to hearing from you!
+
+Vance Kochenderfer
+Speaker Chair, 2015 Ohio LinuxFest
+

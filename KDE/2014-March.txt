@@ -1,0 +1,113 @@
+From khyatiaggarwal at gmail.com  Fri Mar  7 14:35:41 2014
+From: khyatiaggarwal at gmail.com (khyati)
+Date: Fri, 7 Mar 2014 20:05:41 +0530
+Subject: [Kde-women] KDE WOMEN
+Message-ID: <362B12B7-6FA9-4A10-B550-E7D604B8911A@gmail.com>
+
+Hello  Developer ,
+  I, khyati aggarwal, would like to introduce myself to the community, presently pursuing my Engineering degree in Information technology from Sardar patel institute of technology, Mumbai,india. My present skills are in the field of Web Development along with programing languages(c,java). 
+I m interested in participating in  KDE .I m ready to coverup what ever is unknown or little known to me. 
+Sincerely,
+Khyati Aggarwal.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20140307/a9038752/attachment.html>
+
+From gaurav199494 at gmail.com  Fri Mar  7 16:07:49 2014
+From: gaurav199494 at gmail.com (gaurav jain)
+Date: Fri, 7 Mar 2014 21:37:49 +0530
+Subject: [Kde-women] KDE
+Message-ID: <CA+UOsLzhpJMn2mKdO-WG73F_qb02EsSKP9AUF3CO487trg5TRQ@mail.gmail.com>
+
+Hello  Developer ,
+  I, Gaurav Jain, would like to introduce myself to the community,
+presently pursuing my Engineering degree in Information technology from
+Sardar patel institute of technology, Mumbai,india. My present skills are
+in the field of Web Development along with programing languages(c,java).
+I m interested in participating in  KDE .I m ready to coverup what ever is
+unknown or little known to me.
+Sincerely,
+Gaurav Jain.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://mail.kde.org/pipermail/kde-women/attachments/20140307/0420ba41/attachment.html>
+
+From svaksha at gmail.com  Sat Mar  8 04:27:17 2014
+From: svaksha at gmail.com (svaksha)
+Date: Sat, 8 Mar 2014 04:27:17 +0000
+Subject: [Kde-women] KDE WOMEN
+Message-ID: <CAN9ztG9EeX7snQKmFhCqiLR7PZq_DMFD+KjgE09L01DC_AkXNQ@mail.gmail.com>
+
+On Fri, Mar 7, 2014 at 2:35 PM, khyati <khyatiaggarwal at gmail.com> wrote:
+> Hello  Developer ,
+>   I, khyati aggarwal, would like to introduce myself to the community,
+> presently pursuing my Engineering degree in Information technology from
+> Sardar patel institute of technology, Mumbai,india. My present skills are in
+> the field of Web Development along with programing languages(c,java).
+> I m interested in participating in  KDE .I m ready to coverup what ever is
+> unknown or little known to me.
+> Sincerely,
+> Khyati Aggarwal.
+
+Khyati, I'm not sure if I should address this email to you or Gaurav
+Jain because both of you decided to email the same list with identical
+messages within hours of each other:
+http://lists.kde.org/?l=kde-women&m=139422370415814&w=2
+http://lists.kde.org/?l=kde-women&m=139422370215813&w=2
+
+I'm assuming you both are  potential GSoC students? If so, please dont
+spam the list with identical messages like the above - it sends a very
+negative message about Indian students and leads to stereotyping.
+Unlike Indian universities, which turn a blind eye to mass copying
+(plagiarism), such things are viewed seriously.
+
+Among other skills (like programming) one of the main things mentors
+and their Orgs are looking for is the students ability to think for
+themselves, understand the problem-set, the ability to communicate
+their ideas, ask specific questions while coming up with potential
+programming solutions, respecting other people's time and effort,
+etc... Potential applicants are better off trying to gain some of
+these soft-skills alongside their programming-fu.
+
+</end thinking out loud>
+
+Goodluck with GSoC!
+
+? svaksha ? http://svaksha.com
+
+From myriam at kde.org  Fri Mar 14 17:57:33 2014
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Fri, 14 Mar 2014 18:57:33 +0100
+Subject: [Kde-women] KDE
+In-Reply-To: <CA+UOsLzhpJMn2mKdO-WG73F_qb02EsSKP9AUF3CO487trg5TRQ@mail.gmail.com>
+References: <CA+UOsLzhpJMn2mKdO-WG73F_qb02EsSKP9AUF3CO487trg5TRQ@mail.gmail.com>
+Message-ID: <CAGzoOB8ZOwrwspikF_45XEXW4SiiwY8MjcHLbp5mT3EoKAsncA@mail.gmail.com>
+
+Hi Gaurav,
+
+On Fri, Mar 7, 2014 at 5:07 PM, gaurav jain <gaurav199494 at gmail.com> wrote:
+> Hello  Developer ,
+>   I, Gaurav Jain, would like to introduce myself to the community, presently
+> pursuing my Engineering degree in Information technology from Sardar patel
+> institute of technology, Mumbai,india. My present skills are in the field of
+> Web Development along with programing languages(c,java).
+> I m interested in participating in  KDE .I m ready to coverup what ever is
+> unknown or little known to me.
+
+Is there any particular reason you are sending this to the KDE-women's list?
+
+FWIW: if you are interested in coding you should brush up your
+knowledge of C++ and the Qt framework, as well as QML. There are
+extensive guides on how to get started that you should be able to find
+quite easily by searching the web, starting maybe with the KDE guide
+for new developers: http://flossmanuals.net/kde-guide/
+
+Regards, Myriam
+
+-- 
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+

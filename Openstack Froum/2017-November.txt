@@ -1,0 +1,376 @@
+From amy at demarco.com  Mon Nov 13 02:12:12 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 13 Nov 2017 13:12:12 +1100
+Subject: [Women-of-openstack] Meeting Reminder 11/13 - remember 1 hour
+	earlier
+Message-ID: <CAFs83QpWKORCwZjawhQOanZ3yqA5fbkzbWPKJT4FHH9dVJ+8DQ@mail.gmail.com>
+
+Sorry for the late reminder but was in transit and then jet lagged.
+
+We will be having our first IRC meeting tomorrow, Monday November 13 in the
+#openstack-women channel.
+
+Meeting Time: 2000 UTC, 3 PM EDT, 2 PM CDT, 1 PM MDT, 12 PM PDT
+
+Etherpad: https://etherpad.openstack.org/p/WOS_11_13_17
+
+We will go over OpenStack Summit and mentoring among other things.
+
+See everyone tomorrow!
+
+Amy (spotz)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171113/c6a0be51/attachment.html>
+
+From shilla.saebi at gmail.com  Tue Nov 14 15:57:11 2017
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Tue, 14 Nov 2017 10:57:11 -0500
+Subject: [Women-of-openstack] diversity working group
+Message-ID: <CAPrU3jGR_HsOs5g0UpUx5YPXqTy142ZgOLEppyomPufH1M6cgg@mail.gmail.com>
+
+Hi Everyone,
+
+Last week during the OpenStack summit in Sydney, a few folks discussed
+reviving the diversity working group at the Women of OpenStack networking
+lunch, and during the diversity in numbers session. This working group will
+aim to support diversity efforts around language, age, demographic, race,
+gender, education, experience, and other areas I may be missing off the top
+of my head. Please let me know if you are interested in joining or hearing
+more, and I will set something up for us to discuss first steps. Thank you!
+
+Shilla
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171114/5967bf91/attachment.html>
+
+From amy at demarco.com  Tue Nov 14 16:27:33 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Tue, 14 Nov 2017 16:27:33 +0000
+Subject: [Women-of-openstack] diversity working group
+In-Reply-To: <CAPrU3jGR_HsOs5g0UpUx5YPXqTy142ZgOLEppyomPufH1M6cgg@mail.gmail.com>
+References: <CAPrU3jGR_HsOs5g0UpUx5YPXqTy142ZgOLEppyomPufH1M6cgg@mail.gmail.com>
+Message-ID: <CAFs83QrM2AuPpGEuuUqoX8-==-6horMjzCVrdaJUoJANBOQWOg@mail.gmail.com>
+
+Shilla,
+
+Yep we discussed it at the meeting yesterday. Planned on sending out a mail
+blast to all the lists later this week.
+
+One thing to note about the Diversity WG is that it is under the Foundation
+Board and does not fall under the TC or UC. I believe the mailing list is
+the foundation list with a [Diversity] tag in the subject. For those who
+are interested the IRC channel is #openstack-diversity though only Egle an
+myself are still members. Once the group is officially reformed I'll get
+the bot reinstated for meetings.
+
+Thanks,
+
+Amy (spotz)
+
+On Tue, Nov 14, 2017 at 3:57 PM, Shilla Saebi <shilla.saebi at gmail.com>
+wrote:
+
+> Hi Everyone,
+>
+> Last week during the OpenStack summit in Sydney, a few folks discussed
+> reviving the diversity working group at the Women of OpenStack networking
+> lunch, and during the diversity in numbers session. This working group will
+> aim to support diversity efforts around language, age, demographic, race,
+> gender, education, experience, and other areas I may be missing off the top
+> of my head. Please let me know if you are interested in joining or hearing
+> more, and I will set something up for us to discuss first steps. Thank you!
+>
+> Shilla
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171114/c5827eb8/attachment.html>
+
+From amy at demarco.com  Tue Nov 21 03:27:24 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 20 Nov 2017 21:27:24 -0600
+Subject: [Women-of-openstack] Diversity WG
+Message-ID: <CAFs83QqOhCw-EH32P6DfPPTtS7zXebXwwfedC_gF-kfbm89HwQ@mail.gmail.com>
+
+At the Sydney Summit, there seemed to be interest in re-activating the
+Diversity WG. I am sending this email to give some background on the group
+as well as to gauge interest.
+
+A charter was proposed to the board May 2015 by Egle Sigler, Kavit Munshi,
+and Imad Sousou to form the group [1]. The group was formed a short time
+later with Egle Sigler and Carol Barrett as co-chairs and falling under the
+oversight of the Board.
+
+The main work of the diversity group was the diversity survey and its
+results which were released prior to the Tokyo Summit in October, 2015 and
+we had about 20 people show up for the Working Group session held there to
+go over the results. A working group session was also held at the Austin
+Summit with about 10 people in attendance. It was not long after the Austin
+summit that the group membership dwindled down and activity ended.
+
+Things that came out of the work of the Diversity WG are the Git and Gerrit
+Lunch and Learn held at the last 5 summits, the Communication Tools Lunch
+and Learn held in Barcelona, and the Greeters in Barcelona that were
+provided by the Women of OpenStack.
+
+I feel there is still work to do in this area even if only revisiting the
+survey and gathering more data that can be evaluated and used to help grow
+the community.
+
+If you are interested in helping to revive the Diversity WG please let me
+know. The group used the Foundation mailing list (
+foundation at lists.openstack.org) with the [Diversity] tag and still has the
+#openstack-diversity channel on Freenode though it is not currently being
+logged as Egle and myself until recently were the only 2 members.
+
+Thanks,
+
+Amy Marrich (spotz)
+
+[1] https://wiki.openstack.org/wiki/Diversity/ProposedCharter
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171120/924fc877/attachment.html>
+
+From sravanikishore.sravs at gmail.com  Tue Nov 21 03:51:19 2017
+From: sravanikishore.sravs at gmail.com (sravanikishore sravs)
+Date: Mon, 20 Nov 2017 21:51:19 -0600
+Subject: [Women-of-openstack] Diversity WG
+In-Reply-To: <1511235018548.640231852@boxbe>
+References: <1511235018548.640231852@boxbe>
+Message-ID: <E7A6B315-A78E-453D-BF3E-5A570104E40C@gmail.com>
+
+Hi,
+ I can help in reviving the Group. What kind of help is needed?
+
+Thanks
+Sravani
+
+> On Nov 20, 2017, at 9:27 PM, Amy Marrich <amy at demarco.com> wrote:
+> 
+>  <https://www.boxbe.com/overview>   This message is eligible for Automatic Cleanup! (amy at demarco.com) Add cleanup rule <https://www.boxbe.com/popup?url=https%3A%2F%2Fwww.boxbe.com%2Fcleanup%3Fkey%3DSKe4WkWp15KXlMisKmx3kGZ0StXBBP39p%252FjekS4hy4U%253D%26token%3DWbHtgwDBWTUHXayXRoWN6ieLasaVLb78jvXVO21R%252FThZBJh9aC2NoO7%252BBWmWZ0nd2IWVVijbeuFk69Tsgan9yY1csEzlD15bT5v%252BVk7QMzAbH51OBTGDY27QAM%252FJOKmQWq5ntBzvc78%253D&tc_serial=34431242840&tc_rand=169052431&utm_source=stf&utm_medium=email&utm_campaign=ANNO_CLEANUP_ADD&utm_content=001> | More info <http://blog.boxbe.com/general/boxbe-automatic-cleanup?tc_serial=34431242840&tc_rand=169052431&utm_source=stf&utm_medium=email&utm_campaign=ANNO_CLEANUP_ADD&utm_content=001> 
+> At the Sydney Summit, there seemed to be interest in re-activating the Diversity WG. I am sending this email to give some background on the group as well as to gauge interest.
+> 
+> A charter was proposed to the board May 2015 by Egle Sigler, Kavit Munshi, and Imad Sousou to form the group [1]. The group was formed a short time later with Egle Sigler and Carol Barrett as co-chairs and falling under the oversight of the Board.  
+> 
+> The main work of the diversity group was the diversity survey and its results which were released prior to the Tokyo Summit in October, 2015 and we had about 20 people show up for the Working Group session held there to go over the results. A working group session was also held at the Austin Summit with about 10 people in attendance. It was not long after the Austin summit that the group membership dwindled down and activity ended.
+> 
+> Things that came out of the work of the Diversity WG are the Git and Gerrit Lunch and Learn held at the last 5 summits, the Communication Tools Lunch and Learn held in Barcelona, and the Greeters in Barcelona that were provided by the Women of OpenStack.
+> 
+> I feel there is still work to do in this area even if only revisiting the survey and gathering more data that can be evaluated and used to help grow the community. 
+> 
+> If you are interested in helping to revive the Diversity WG please let me know. The group used the Foundation mailing list (foundation at lists.openstack.org <mailto:foundation at lists.openstack.org>) with the [Diversity] tag and still has the #openstack-diversity channel on Freenode though it is not currently being logged as Egle and myself until recently were the only 2 members.
+> 
+> Thanks,
+> 
+> Amy Marrich (spotz)
+> 
+> [1] https://wiki.openstack.org/wiki/Diversity/ProposedCharter <https://wiki.openstack.org/wiki/Diversity/ProposedCharter>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171120/afade8b6/attachment.html>
+
+From jankihchhatbar at gmail.com  Fri Nov 24 04:57:45 2017
+From: jankihchhatbar at gmail.com (Janki Chhatbar)
+Date: Fri, 24 Nov 2017 10:27:45 +0530
+Subject: [Women-of-openstack] Diversity WG
+In-Reply-To: <E7A6B315-A78E-453D-BF3E-5A570104E40C@gmail.com>
+References: <1511235018548.640231852@boxbe>
+ <E7A6B315-A78E-453D-BF3E-5A570104E40C@gmail.com>
+Message-ID: <CAHeQeseXYKbJfWnNBw0mVYkVCWd-2JmkCtw1NHXQQsHLx_S3=Q@mail.gmail.com>
+
+Hi
+
+I would love to be part of this WG.
+
+Thanking you
+
+Janki Chhatbar
+OpenStack | SDN | Docker
+(+91) 9409239106
+simplyexplainedblog.wordpress.com
+
+On Tue, Nov 21, 2017 at 9:21 AM, sravanikishore sravs <
+sravanikishore.sravs at gmail.com> wrote:
+
+> Hi,
+>  I can help in reviving the Group. What kind of help is needed?
+>
+> Thanks
+> Sravani
+>
+> On Nov 20, 2017, at 9:27 PM, Amy Marrich <amy at demarco.com> wrote:
+>
+> [image: Boxbe] <https://www.boxbe.com/overview> This message is eligible
+> for Automatic Cleanup! (amy at demarco.com) Add cleanup rule
+> <https://www.boxbe.com/popup?url=https%3A%2F%2Fwww.boxbe.com%2Fcleanup%3Fkey%3DSKe4WkWp15KXlMisKmx3kGZ0StXBBP39p%252FjekS4hy4U%253D%26token%3DWbHtgwDBWTUHXayXRoWN6ieLasaVLb78jvXVO21R%252FThZBJh9aC2NoO7%252BBWmWZ0nd2IWVVijbeuFk69Tsgan9yY1csEzlD15bT5v%252BVk7QMzAbH51OBTGDY27QAM%252FJOKmQWq5ntBzvc78%253D&tc_serial=34431242840&tc_rand=169052431&utm_source=stf&utm_medium=email&utm_campaign=ANNO_CLEANUP_ADD&utm_content=001>
+> | More info
+> <http://blog.boxbe.com/general/boxbe-automatic-cleanup?tc_serial=34431242840&tc_rand=169052431&utm_source=stf&utm_medium=email&utm_campaign=ANNO_CLEANUP_ADD&utm_content=001>
+> At the Sydney Summit, there seemed to be interest in re-activating the
+> Diversity WG. I am sending this email to give some background on the group
+> as well as to gauge interest.
+>
+> A charter was proposed to the board May 2015 by Egle Sigler, Kavit
+> Munshi, and Imad Sousou to form the group [1]. The group was formed a
+> short time later with Egle Sigler and Carol Barrett as co-chairs and
+> falling under the oversight of the Board.
+>
+> The main work of the diversity group was the diversity survey and its
+> results which were released prior to the Tokyo Summit in October, 2015 and
+> we had about 20 people show up for the Working Group session held there to
+> go over the results. A working group session was also held at the Austin
+> Summit with about 10 people in attendance. It was not long after the Austin
+> summit that the group membership dwindled down and activity ended.
+>
+> Things that came out of the work of the Diversity WG are the Git and
+> Gerrit Lunch and Learn held at the last 5 summits, the Communication Tools
+> Lunch and Learn held in Barcelona, and the Greeters in Barcelona that were
+> provided by the Women of OpenStack.
+>
+> I feel there is still work to do in this area even if only revisiting the
+> survey and gathering more data that can be evaluated and used to help
+> grow the community.
+>
+> If you are interested in helping to revive the Diversity WG please let me
+> know. The group used the Foundation mailing list (
+> foundation at lists.openstack.org) with the [Diversity] tag and still has
+> the #openstack-diversity channel on Freenode though it is not currently
+> being logged as Egle and myself until recently were the only 2 members.
+>
+> Thanks,
+>
+> Amy Marrich (spotz)
+>
+> [1] https://wiki.openstack.org/wiki/Diversity/ProposedCharter
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171124/684de4c3/attachment.html>
+
+From amy at demarco.com  Sun Nov 26 16:38:19 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Sun, 26 Nov 2017 10:38:19 -0600
+Subject: [Women-of-openstack] Meeting Reminder for Tomorrow, 11/27
+Message-ID: <CAFs83Qrq1oGNkOv6TjUn8YAjz2PT3d9ynokvatdcaB2+dXfkyg@mail.gmail.com>
+
+Hey all,
+
+Thought someone else was running the meeting for tomorrow but I guess I was
+mistaken. Etherpad with agenda is at
+https://etherpad.openstack.org/p/WOS_11_27_17
+
+Web IRC link -
+https://www.irccloud.com/irc/freenode:2/channel/openstack-women
+Meeting Time: 2000 UTC, 3 PM EDT, 2 PM CDT, 1 PM MDT, 12 PM PDT
+
+See everyone tomorrow and if anyone would like to lead please let me know.
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171126/0effc45a/attachment.html>
+
+From kennelson11 at gmail.com  Mon Nov 27 15:35:15 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Mon, 27 Nov 2017 15:35:15 +0000
+Subject: [Women-of-openstack] Meeting Reminder for Tomorrow, 11/27
+In-Reply-To: <CAFs83Qrq1oGNkOv6TjUn8YAjz2PT3d9ynokvatdcaB2+dXfkyg@mail.gmail.com>
+References: <CAFs83Qrq1oGNkOv6TjUn8YAjz2PT3d9ynokvatdcaB2+dXfkyg@mail.gmail.com>
+Message-ID: <CAJ6yrQiHJvuhqEQh9AGLnJun9ZLj5djpnQ5kfi5XF5zz9WrC2A@mail.gmail.com>
+
+It was going to be me, but I never formally signed up :/ Sorry Amy. Thank
+you for picking it up!
+
+-Kendall
+
+On Sun, Nov 26, 2017, 8:38 AM Amy Marrich <amy at demarco.com> wrote:
+
+> Hey all,
+>
+> Thought someone else was running the meeting for tomorrow but I guess I
+> was mistaken. Etherpad with agenda is at
+> https://etherpad.openstack.org/p/WOS_11_27_17
+>
+> Web IRC link -
+> https://www.irccloud.com/irc/freenode:2/channel/openstack-women
+> Meeting Time: 2000 UTC, 3 PM EDT, 2 PM CDT, 1 PM MDT, 12 PM PDT
+>
+> See everyone tomorrow and if anyone would like to lead please let me know.
+>
+> Thanks,
+>
+> Amy
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171127/2cac98f6/attachment.html>
+
+From farrell_rhonda at bah.com  Tue Nov 28 12:52:21 2017
+From: farrell_rhonda at bah.com (Farrell, Rhonda [USA])
+Date: Tue, 28 Nov 2017 12:52:21 +0000
+Subject: [Women-of-openstack] ISSA Intl Global SIGs events - December,
+	2017
+Message-ID: <BN6PR06MB2467425FF401463678EB9A82FD3A0@BN6PR06MB2467.namprd06.prod.outlook.com>
+
+Good morning Women of OpenStack:
+
+
+The following ISSA International Global SIGs will be available for your viewing pleasure:
+
+
+  1.  Lead with the Power of Vision, Monday, December 11, 2017, 4:00 – 5:00 PM (Eastern), Extraordinary Goals Inspire Exceptional Talent, Ms. Gretchen McClain, Principal, GW McClain Advisory Services
+     *   http://c.ymcdn.com/sites/www.issa.org/resource/resmgr/2017/Events/SIGs/lead-with-the-power-of-visio.pdf
+  2.  Lessons Learned and Recovery from Breaches, Thursday, December 14, 2017, 12:00 – 1:00 PM (Eastern), Mission Assurance Challenges in the Healthcare Sector, Rebecca Herold, CEO and Founder of The Privacy Professor®
+     *   http://c.ymcdn.com/sites/www.issa.org/resource/resmgr/2017/Events/SIGs/Lessons_Learned_and_Recovery.pdf
+  3.  Security Review & 2018 Predictions for Financial Services,  Friday, December 15, 2017, 12:00 – 1:00 PM (Eastern),  The regulators are coming regarding cybersecurity. Are you ready?, Mr. Adam Hamm, Managing Director at Protiviti Global Consulting
+     *   http://c.ymcdn.com/sites/www.issa.org/resource/resmgr/2017/Events/SIGs/Security_Review_and_Predicti.pdf
+
+
+Sincerely,
+
+
+
+Dr. Rhonda Farrell, CISSP, CSSLP, CMQ/OE, CSQE, CCMP, CMAP
+
+Booz | Allen | Hamilton
+
+National Business Parkway
+
+Annapolis Junction, MD
+
+831-419-4585 (cell)
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171128/72ae4b3a/attachment.html>
+

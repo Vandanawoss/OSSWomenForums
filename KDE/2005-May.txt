@@ -1,0 +1,251 @@
+From eva.brucherseifer at basyskom.de  Sun May  8 17:52:23 2005
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Sun May  8 13:16:30 2005
+Subject: [Kde-women] list moderation of kde-women
+Message-ID: <200505081752.24187.eva.brucherseifer@basyskom.de>
+
+Hi,
+
+I've been the list administrator for kde-women since its beginning in 2001 and 
+I hope everybody was confident. In the last month though I noticed that other 
+tasks are taking more and more time. 
+Therefore I'd like to pass on the list administration to somebody else. It's 
+not much work, you just have to let through an email from time to time or 
+discard some spam. Ideally two women would share the job. Who steps up?
+I still will be around of course and not disappear completely.
+
+Greetings,
+eva
+From f.oster at frsv.de  Sun May  8 13:55:02 2005
+From: f.oster at frsv.de (Frauke Oster)
+Date: Sun May  8 13:55:09 2005
+Subject: [Kde-women] list moderation of kde-women
+In-Reply-To: <200505081752.24187.eva.brucherseifer@basyskom.de>
+References: <200505081752.24187.eva.brucherseifer@basyskom.de>
+Message-ID: <427DFE16.5000104@frsv.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi Eva,
+
+I would apply for the job. I already know the kde mailinglist system and
+how to approve or discard mails, so it isn't any problem for me to take
+over the list administration, if this is ok for everybody.
+
+Cheers,
+Frauke
+
+Eva Brucherseifer wrote:
+> Hi,
+> 
+> I've been the list administrator for kde-women since its beginning in 2001 and 
+> I hope everybody was confident. In the last month though I noticed that other 
+> tasks are taking more and more time. 
+> Therefore I'd like to pass on the list administration to somebody else. It's 
+> not much work, you just have to let through an email from time to time or 
+> discard some spam. Ideally two women would share the job. Who steps up?
+> I still will be around of course and not disappear completely.
+> 
+> Greetings,
+> eva
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+> 
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.5 (MingW32)
+
+iD8DBQFCff4WPN8Rl7LiymIRAnVgAJoC4h8Cp83ycTeAxNALjqAsu21jrACfekra
+of74yYXs04GxzhOu8Be341M=
+=fu8N
+-----END PGP SIGNATURE-----
+From eva.brucherseifer at basyskom.de  Sun May  8 18:52:10 2005
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Sun May  8 14:16:13 2005
+Subject: [Kde-women] list moderation of kde-women
+In-Reply-To: <427DFE16.5000104@frsv.de>
+References: <200505081752.24187.eva.brucherseifer@basyskom.de>
+	<427DFE16.5000104@frsv.de>
+Message-ID: <200505081852.12025.eva.brucherseifer@basyskom.de>
+
+Hi Frauke,
+
+great, that you want to take over. You were on my list of people I was hoping 
+to receive an answer from :-)
+
+I added you as list administrator. I hope you find a second administrator for 
+times your are not available (we all need holiday from time to time, don't 
+we? ;-).
+
+Greetings,
+eva
+
+On Sunday 08 May 2005 13:55, Frauke Oster wrote:
+> gpgkeys: WARNING: this is an *experimental* HKP interface!
+> gpgkeys: HKP fetch error: Connection refused
+> Hi Eva,
+>
+> I would apply for the job. I already know the kde mailinglist system and
+> how to approve or discard mails, so it isn't any problem for me to take
+> over the list administration, if this is ok for everybody.
+>
+> Cheers,
+> Frauke
+>
+> Eva Brucherseifer wrote:
+> > Hi,
+> >
+> > I've been the list administrator for kde-women since its beginning in
+> > 2001 and I hope everybody was confident. In the last month though I
+> > noticed that other tasks are taking more and more time.
+> > Therefore I'd like to pass on the list administration to somebody else.
+> > It's not much work, you just have to let through an email from time to
+> > time or discard some spam. Ideally two women would share the job. Who
+> > steps up? I still will be around of course and not disappear completely.
+> >
+> > Greetings,
+> > eva
+> > _______________________________________________
+> > kde-women mailing list
+> > kde-women@kde.org
+> > https://mail.kde.org/mailman/listinfo/kde-women
+>
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+From ines at drury.edu  Sun May  8 18:08:24 2005
+From: ines at drury.edu (Ines Sombra)
+Date: Sun May  8 18:00:44 2005
+Subject: [Kde-women] list moderation of kde-women
+In-Reply-To: <200505081852.12025.eva.brucherseifer@basyskom.de>
+References: <200505081752.24187.eva.brucherseifer@basyskom.de>	<427DFE16.5000104@frsv.de>
+	<200505081852.12025.eva.brucherseifer@basyskom.de>
+Message-ID: <427E3978.4000408@drury.edu>
+
+I volunteer to be Frauke's backup.
+
+Ines
+
+Eva Brucherseifer wrote:
+> Hi Frauke,
+> 
+> great, that you want to take over. You were on my list of people I was hoping 
+> to receive an answer from :-)
+> 
+> I added you as list administrator. I hope you find a second administrator for 
+> times your are not available (we all need holiday from time to time, don't 
+> we? ;-).
+> 
+> Greetings,
+> eva
+> 
+> On Sunday 08 May 2005 13:55, Frauke Oster wrote:
+> 
+>>gpgkeys: WARNING: this is an *experimental* HKP interface!
+>>gpgkeys: HKP fetch error: Connection refused
+>>Hi Eva,
+>>
+>>I would apply for the job. I already know the kde mailinglist system and
+>>how to approve or discard mails, so it isn't any problem for me to take
+>>over the list administration, if this is ok for everybody.
+>>
+>>Cheers,
+>>Frauke
+>>
+>>Eva Brucherseifer wrote:
+>>
+>>>Hi,
+>>>
+>>>I've been the list administrator for kde-women since its beginning in
+>>>2001 and I hope everybody was confident. In the last month though I
+>>>noticed that other tasks are taking more and more time.
+>>>Therefore I'd like to pass on the list administration to somebody else.
+>>>It's not much work, you just have to let through an email from time to
+>>>time or discard some spam. Ideally two women would share the job. Who
+>>>steps up? I still will be around of course and not disappear completely.
+>>>
+>>>Greetings,
+>>>eva
+>>>_______________________________________________
+>>>kde-women mailing list
+>>>kde-women@kde.org
+>>>https://mail.kde.org/mailman/listinfo/kde-women
+>>
+>>_______________________________________________
+>>kde-women mailing list
+>>kde-women@kde.org
+>>https://mail.kde.org/mailman/listinfo/kde-women
+> 
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+From f.oster at frsv.de  Sun May  8 19:00:50 2005
+From: f.oster at frsv.de (Frauke Oster)
+Date: Sun May  8 19:00:52 2005
+Subject: [Kde-women] list moderation of kde-women
+In-Reply-To: <427E3978.4000408@drury.edu>
+References: <200505081752.24187.eva.brucherseifer@basyskom.de>	<427DFE16.5000104@frsv.de>	<200505081852.12025.eva.brucherseifer@basyskom.de>
+	<427E3978.4000408@drury.edu>
+Message-ID: <427E45C2.5040802@frsv.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Great! So I can really make some holidays sometimes ;)
+
+Frauke
+
+Ines Sombra wrote:
+> I volunteer to be Frauke's backup.
+> 
+> Ines
+> 
+
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.5 (MingW32)
+
+iD8DBQFCfkXCPN8Rl7LiymIRAvraAJ9cwvrNV3ktr5gc/bmI1qc+BgmIYACfbKeI
+sY0uhWn2ol/UVgD6csPlmHA=
+=VFpO
+-----END PGP SIGNATURE-----
+From f.oster at frsv.de  Sat May 14 11:35:36 2005
+From: f.oster at frsv.de (Frauke Oster)
+Date: Sat May 14 11:35:42 2005
+Subject: [Kde-women] Interesting Posting on PlanetKde
+Message-ID: <4285C668.2000109@frsv.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi!
+
+For everyone who isn't reading planetkde.org...
+There is a really interesting post about the KDE Community and Women who
+ contributes to KDE. I want to thank Scott Wheeler right here that he
+pleads for equality and respectfullness. Btw he is one of our male
+supporters :)
+
+http://www.kdedevelopers.org/node/view/1051
+
+Cheers,
+Frauke
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.5 (MingW32)
+
+iD8DBQFChcZoPN8Rl7LiymIRAkz/AJ9DSk3DGa3Iomsq/TPOAE0vIfvbYACgyQoX
+rqa40T2Z/R/d2ZXWj91cvwQ=
+=cSI9
+-----END PGP SIGNATURE-----

@@ -1,0 +1,759 @@
+From farzaneh@farsiweb.info  Mon Oct  3 16:29:04 2005
+Return-Path: <farzaneh@farsiweb.info>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B69FB3B0A20
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Oct 2005 16:29:04 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16785-07 for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Oct 2005 16:29:01 -0400 (EDT)
+Received: from sina.sharif.edu (Sina.Sharif.EDU [81.31.160.34])
+	by menubar.gnome.org (Postfix) with ESMTP id 3204B3B08EC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Oct 2005 16:28:59 -0400 (EDT)
+Received: from bamdad.org (gilas.bamdad.org [81.31.160.190])
+	by sina.sharif.edu (8.12.8/8.12.8) with ESMTP id j93KUNAJ003872
+	for <gnome-women-list@mail.gnome.org>; Tue, 4 Oct 2005 00:00:23 +0330
+Received: from [213.233.163.12] ([213.233.163.12])
+	by bamdad.org (8.12.8/8.12.8) with ESMTP id j93Kb8ew005478
+	for <gnome-women-list@mail.gnome.org>; Tue, 4 Oct 2005 00:07:09 +0330
+From: Farzaneh Sarafraz <farzaneh@farsiweb.info>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Organization: FarsiWeb
+Date: Mon, 03 Oct 2005 23:58:42 +0330
+Message-Id: <1128371322.23138.17.camel@hooloo.farsiweb.info>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.4.0 (2.4.0-2.0.fw.1) 
+Content-Transfer-Encoding: 7bit
+X-sina.sharif.edu-MailScanner-Information: Please contact the ISP for more
+	information
+X-sina.sharif.edu-MailScanner: Found to be clean
+X-sina.sharif.edu-MailScanner-From: farzaneh@farsiweb.info
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Subject: [gnome-women] advice needed on a BOF
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: farzaneh@farsiweb.info
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 03 Oct 2005 20:29:04 -0000
+
+Hi guys,
+
+I am going to attend the FOSS Road: http://www.tacticaltech.org/fossroad
+(The central Asian camp on free and open source software)
+I will host a BOF on women in open source communities. I've planned for
+a brainstorming session and a sum up on some key issues like
+limitations, problems, solutions, and future perspective. I have read
+the essentials such as Val Hensen's
+http://infohost.nmt.edu/~val/howto.html and now I am asking if anyone
+here has any idea, or any experience to share.
+Please do wish me luck ;)
+
+Thank you,
+fa
+
+
+
+
+From duffy@redhat.com  Wed Oct  5 23:37:22 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 645293B22DC
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  5 Oct 2005 23:37:22 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 07827-09 for <gnome-women-list@mail.gnome.org>;
+	Wed,  5 Oct 2005 23:37:20 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 28A8F3B31B7
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  5 Oct 2005 23:37:20 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j963bA9a022524;
+	Wed, 5 Oct 2005 23:37:10 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id
+	j963b9V08137; Wed, 5 Oct 2005 23:37:09 -0400
+Received: from vpn50-29.rdu.redhat.com
+	(IDENT:U2FsdGVkX18iFw5hKnaOwjzvw7uWRd1T6o4Y2vVF+qY@vpn50-29.rdu.redhat.com
+	[172.16.50.29])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j963b8Sr032489; 
+	Wed, 5 Oct 2005 23:37:08 -0400
+Subject: Re: [gnome-women] advice needed on a BOF
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: farzaneh@farsiweb.info
+In-Reply-To: <1128371322.23138.17.camel@hooloo.farsiweb.info>
+References: <1128371322.23138.17.camel@hooloo.farsiweb.info>
+Content-Type: text/plain
+Organization: Red Hat, Inc.
+Date: Wed, 05 Oct 2005 23:37:07 -0400
+Message-Id: <1128569827.4484.25.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-22) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 06 Oct 2005 03:37:22 -0000
+
+Hi Farzaneh,
+
+Awesome! Great to hear that you're sparking more discussion of women in
+FOSS communities; best of luck, and let us know how it goes!
+
+I'm going to give ya a handful of links:
+
+Linuxchix has a women in open source/free software bibliography you may
+find helpful:
+http://www.linuxchix.org/content/docs/research/bibliography
+
+Also, I was recently pointed towards an interesting article Nancy
+Ratliff, a Ph.D. candidate in Rhetoric & Feminism, had to say about
+women in open source communities: http://culturecat.net/node/889 . You
+might find something interesting in my response to the article:
+http://www.livejournal.com/users/mihmo/6071.html
+
+:)
+
+~m
+
+On Mon, 2005-10-03 at 23:58 +0330, Farzaneh Sarafraz wrote:
+> Hi guys,
+> 
+> I am going to attend the FOSS Road: http://www.tacticaltech.org/fossroad
+> (The central Asian camp on free and open source software)
+> I will host a BOF on women in open source communities. I've planned for
+> a brainstorming session and a sum up on some key issues like
+> limitations, problems, solutions, and future perspective. I have read
+> the essentials such as Val Hensen's
+> http://infohost.nmt.edu/~val/howto.html and now I am asking if anyone
+> here has any idea, or any experience to share.
+> Please do wish me luck ;)
+> 
+> Thank you,
+> fa
+
+From mary@home.puzzling.org  Fri Oct  7 01:26:13 2005
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 287AB3B3F8D
+	for <gnome-women-list@gnome.org>; Fri,  7 Oct 2005 01:26:13 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11617-01 for <gnome-women-list@gnome.org>;
+	Fri,  7 Oct 2005 01:26:11 -0400 (EDT)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 57D2C3B3F7A
+	for <gnome-women-list@gnome.org>; Fri,  7 Oct 2005 01:26:10 -0400 (EDT)
+Received: (qmail 659 invoked from network); 7 Oct 2005 05:26:18 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 7 Oct 2005 05:26:18 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 4A3B378807A
+	for <gnome-women-list@gnome.org>; Fri,  7 Oct 2005 15:26:11 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 06241-04 for <gnome-women-list@gnome.org>;
+	Fri, 7 Oct 2005 15:26:11 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id 38E73788079; Fri,  7 Oct 2005 15:26:11 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Fri, 7 Oct 2005 15:26:11 +1000
+Resent-Message-ID: <20051007052611.GF6015@home.puzzling.org>
+Resent-To: Gnome Women <gnome-women-list@gnome.org>
+Date: Fri, 7 Oct 2005 15:25:15 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: Gnome Women <gnome-women-list@gnome.org>
+Message-ID: <20051007052515.GE6015@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Liasing with LinuxChix
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 07 Oct 2005 05:26:13 -0000
+
+Hi GNOME Women,
+
+As per a recent discussion LinuxChix's grrltalk and volunteer lists,
+LinuxChix is considering what it can do to help the * Women projects,
+including GNOME Women, out with their missions. So far we're doing two
+things:
+
+ 1. updating our website to prominently link to the women development
+    groups
+
+ 2. trying to actively liase with them to see if there's anything else
+    they need or want from LinuxChix
+
+Re #2, I volunteered to do liason with GNOME Women since I was here
+anyway. So, let me know at any point if there seems to be some way that
+GNOME Women and LinuxChix could work together or we could send you some
+people or publicity or you could do the same for us or... let me know.
+
+-Mary
+From farzaneh@farsiweb.info  Mon Oct  3 16:29:04 2005
+Return-Path: <farzaneh@farsiweb.info>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B69FB3B0A20
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Oct 2005 16:29:04 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16785-07 for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Oct 2005 16:29:01 -0400 (EDT)
+Received: from sina.sharif.edu (Sina.Sharif.EDU [81.31.160.34])
+	by menubar.gnome.org (Postfix) with ESMTP id 3204B3B08EC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Oct 2005 16:28:59 -0400 (EDT)
+Received: from bamdad.org (gilas.bamdad.org [81.31.160.190])
+	by sina.sharif.edu (8.12.8/8.12.8) with ESMTP id j93KUNAJ003872
+	for <gnome-women-list@mail.gnome.org>; Tue, 4 Oct 2005 00:00:23 +0330
+Received: from [213.233.163.12] ([213.233.163.12])
+	by bamdad.org (8.12.8/8.12.8) with ESMTP id j93Kb8ew005478
+	for <gnome-women-list@mail.gnome.org>; Tue, 4 Oct 2005 00:07:09 +0330
+From: Farzaneh Sarafraz <farzaneh@farsiweb.info>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Organization: FarsiWeb
+Date: Mon, 03 Oct 2005 23:58:42 +0330
+Message-Id: <1128371322.23138.17.camel@hooloo.farsiweb.info>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.4.0 (2.4.0-2.0.fw.1) 
+Content-Transfer-Encoding: 7bit
+X-sina.sharif.edu-MailScanner-Information: Please contact the ISP for more
+	information
+X-sina.sharif.edu-MailScanner: Found to be clean
+X-sina.sharif.edu-MailScanner-From: farzaneh@farsiweb.info
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Subject: [gnome-women] advice needed on a BOF
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: farzaneh@farsiweb.info
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 03 Oct 2005 20:29:04 -0000
+
+Hi guys,
+
+I am going to attend the FOSS Road: http://www.tacticaltech.org/fossroad
+(The central Asian camp on free and open source software)
+I will host a BOF on women in open source communities. I've planned for
+a brainstorming session and a sum up on some key issues like
+limitations, problems, solutions, and future perspective. I have read
+the essentials such as Val Hensen's
+http://infohost.nmt.edu/~val/howto.html and now I am asking if anyone
+here has any idea, or any experience to share.
+Please do wish me luck ;)
+
+Thank you,
+fa
+
+
+
+
+
+From duffy@redhat.com  Wed Oct  5 23:37:22 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 645293B22DC
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  5 Oct 2005 23:37:22 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 07827-09 for <gnome-women-list@mail.gnome.org>;
+	Wed,  5 Oct 2005 23:37:20 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 28A8F3B31B7
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  5 Oct 2005 23:37:20 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j963bA9a022524;
+	Wed, 5 Oct 2005 23:37:10 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id
+	j963b9V08137; Wed, 5 Oct 2005 23:37:09 -0400
+Received: from vpn50-29.rdu.redhat.com
+	(IDENT:U2FsdGVkX18iFw5hKnaOwjzvw7uWRd1T6o4Y2vVF+qY@vpn50-29.rdu.redhat.com
+	[172.16.50.29])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j963b8Sr032489; 
+	Wed, 5 Oct 2005 23:37:08 -0400
+Subject: Re: [gnome-women] advice needed on a BOF
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: farzaneh@farsiweb.info
+In-Reply-To: <1128371322.23138.17.camel@hooloo.farsiweb.info>
+References: <1128371322.23138.17.camel@hooloo.farsiweb.info>
+Content-Type: text/plain
+Organization: Red Hat, Inc.
+Date: Wed, 05 Oct 2005 23:37:07 -0400
+Message-Id: <1128569827.4484.25.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-22) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 06 Oct 2005 03:37:22 -0000
+
+Hi Farzaneh,
+
+Awesome! Great to hear that you're sparking more discussion of women in
+FOSS communities; best of luck, and let us know how it goes!
+
+I'm going to give ya a handful of links:
+
+Linuxchix has a women in open source/free software bibliography you may
+find helpful:
+http://www.linuxchix.org/content/docs/research/bibliography
+
+Also, I was recently pointed towards an interesting article Nancy
+Ratliff, a Ph.D. candidate in Rhetoric & Feminism, had to say about
+women in open source communities: http://culturecat.net/node/889 . You
+might find something interesting in my response to the article:
+http://www.livejournal.com/users/mihmo/6071.html
+
+:)
+
+~m
+
+On Mon, 2005-10-03 at 23:58 +0330, Farzaneh Sarafraz wrote:
+> Hi guys,
+> 
+> I am going to attend the FOSS Road: http://www.tacticaltech.org/fossroad
+> (The central Asian camp on free and open source software)
+> I will host a BOF on women in open source communities. I've planned for
+> a brainstorming session and a sum up on some key issues like
+> limitations, problems, solutions, and future perspective. I have read
+> the essentials such as Val Hensen's
+> http://infohost.nmt.edu/~val/howto.html and now I am asking if anyone
+> here has any idea, or any experience to share.
+> Please do wish me luck ;)
+> 
+> Thank you,
+> fa
+
+
+From mary@home.puzzling.org  Fri Oct  7 01:26:13 2005
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 287AB3B3F8D
+	for <gnome-women-list@gnome.org>; Fri,  7 Oct 2005 01:26:13 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11617-01 for <gnome-women-list@gnome.org>;
+	Fri,  7 Oct 2005 01:26:11 -0400 (EDT)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 57D2C3B3F7A
+	for <gnome-women-list@gnome.org>; Fri,  7 Oct 2005 01:26:10 -0400 (EDT)
+Received: (qmail 659 invoked from network); 7 Oct 2005 05:26:18 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 7 Oct 2005 05:26:18 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 4A3B378807A
+	for <gnome-women-list@gnome.org>; Fri,  7 Oct 2005 15:26:11 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 06241-04 for <gnome-women-list@gnome.org>;
+	Fri, 7 Oct 2005 15:26:11 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id 38E73788079; Fri,  7 Oct 2005 15:26:11 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Fri, 7 Oct 2005 15:26:11 +1000
+Resent-Message-ID: <20051007052611.GF6015@home.puzzling.org>
+Resent-To: Gnome Women <gnome-women-list@gnome.org>
+Date: Fri, 7 Oct 2005 15:25:15 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: Gnome Women <gnome-women-list@gnome.org>
+Message-ID: <20051007052515.GE6015@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Liasing with LinuxChix
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 07 Oct 2005 05:26:13 -0000
+
+Hi GNOME Women,
+
+As per a recent discussion LinuxChix's grrltalk and volunteer lists,
+LinuxChix is considering what it can do to help the * Women projects,
+including GNOME Women, out with their missions. So far we're doing two
+things:
+
+ 1. updating our website to prominently link to the women development
+    groups
+
+ 2. trying to actively liase with them to see if there's anything else
+    they need or want from LinuxChix
+
+Re #2, I volunteered to do liason with GNOME Women since I was here
+anyway. So, let me know at any point if there seems to be some way that
+GNOME Women and LinuxChix could work together or we could send you some
+people or publicity or you could do the same for us or... let me know.
+
+-Mary
+
+From farzaneh@farsiweb.info  Mon Oct  3 16:29:04 2005
+Return-Path: <farzaneh@farsiweb.info>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id B69FB3B0A20
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Oct 2005 16:29:04 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16785-07 for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Oct 2005 16:29:01 -0400 (EDT)
+Received: from sina.sharif.edu (Sina.Sharif.EDU [81.31.160.34])
+	by menubar.gnome.org (Postfix) with ESMTP id 3204B3B08EC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  3 Oct 2005 16:28:59 -0400 (EDT)
+Received: from bamdad.org (gilas.bamdad.org [81.31.160.190])
+	by sina.sharif.edu (8.12.8/8.12.8) with ESMTP id j93KUNAJ003872
+	for <gnome-women-list@mail.gnome.org>; Tue, 4 Oct 2005 00:00:23 +0330
+Received: from [213.233.163.12] ([213.233.163.12])
+	by bamdad.org (8.12.8/8.12.8) with ESMTP id j93Kb8ew005478
+	for <gnome-women-list@mail.gnome.org>; Tue, 4 Oct 2005 00:07:09 +0330
+From: Farzaneh Sarafraz <farzaneh@farsiweb.info>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Organization: FarsiWeb
+Date: Mon, 03 Oct 2005 23:58:42 +0330
+Message-Id: <1128371322.23138.17.camel@hooloo.farsiweb.info>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.4.0 (2.4.0-2.0.fw.1) 
+Content-Transfer-Encoding: 7bit
+X-sina.sharif.edu-MailScanner-Information: Please contact the ISP for more
+	information
+X-sina.sharif.edu-MailScanner: Found to be clean
+X-sina.sharif.edu-MailScanner-From: farzaneh@farsiweb.info
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Subject: [gnome-women] advice needed on a BOF
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: farzaneh@farsiweb.info
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 03 Oct 2005 20:29:04 -0000
+
+Hi guys,
+
+I am going to attend the FOSS Road: http://www.tacticaltech.org/fossroad
+(The central Asian camp on free and open source software)
+I will host a BOF on women in open source communities. I've planned for
+a brainstorming session and a sum up on some key issues like
+limitations, problems, solutions, and future perspective. I have read
+the essentials such as Val Hensen's
+http://infohost.nmt.edu/~val/howto.html and now I am asking if anyone
+here has any idea, or any experience to share.
+Please do wish me luck ;)
+
+Thank you,
+fa
+
+
+
+
+
+From duffy@redhat.com  Wed Oct  5 23:37:22 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 645293B22DC
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  5 Oct 2005 23:37:22 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 07827-09 for <gnome-women-list@mail.gnome.org>;
+	Wed,  5 Oct 2005 23:37:20 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 28A8F3B31B7
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  5 Oct 2005 23:37:20 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j963bA9a022524;
+	Wed, 5 Oct 2005 23:37:10 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id
+	j963b9V08137; Wed, 5 Oct 2005 23:37:09 -0400
+Received: from vpn50-29.rdu.redhat.com
+	(IDENT:U2FsdGVkX18iFw5hKnaOwjzvw7uWRd1T6o4Y2vVF+qY@vpn50-29.rdu.redhat.com
+	[172.16.50.29])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j963b8Sr032489; 
+	Wed, 5 Oct 2005 23:37:08 -0400
+Subject: Re: [gnome-women] advice needed on a BOF
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: farzaneh@farsiweb.info
+In-Reply-To: <1128371322.23138.17.camel@hooloo.farsiweb.info>
+References: <1128371322.23138.17.camel@hooloo.farsiweb.info>
+Content-Type: text/plain
+Organization: Red Hat, Inc.
+Date: Wed, 05 Oct 2005 23:37:07 -0400
+Message-Id: <1128569827.4484.25.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-22) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 06 Oct 2005 03:37:22 -0000
+
+Hi Farzaneh,
+
+Awesome! Great to hear that you're sparking more discussion of women in
+FOSS communities; best of luck, and let us know how it goes!
+
+I'm going to give ya a handful of links:
+
+Linuxchix has a women in open source/free software bibliography you may
+find helpful:
+http://www.linuxchix.org/content/docs/research/bibliography
+
+Also, I was recently pointed towards an interesting article Nancy
+Ratliff, a Ph.D. candidate in Rhetoric & Feminism, had to say about
+women in open source communities: http://culturecat.net/node/889 . You
+might find something interesting in my response to the article:
+http://www.livejournal.com/users/mihmo/6071.html
+
+:)
+
+~m
+
+On Mon, 2005-10-03 at 23:58 +0330, Farzaneh Sarafraz wrote:
+> Hi guys,
+> 
+> I am going to attend the FOSS Road: http://www.tacticaltech.org/fossroad
+> (The central Asian camp on free and open source software)
+> I will host a BOF on women in open source communities. I've planned for
+> a brainstorming session and a sum up on some key issues like
+> limitations, problems, solutions, and future perspective. I have read
+> the essentials such as Val Hensen's
+> http://infohost.nmt.edu/~val/howto.html and now I am asking if anyone
+> here has any idea, or any experience to share.
+> Please do wish me luck ;)
+> 
+> Thank you,
+> fa
+
+
+From mary@home.puzzling.org  Fri Oct  7 01:26:13 2005
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 287AB3B3F8D
+	for <gnome-women-list@gnome.org>; Fri,  7 Oct 2005 01:26:13 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11617-01 for <gnome-women-list@gnome.org>;
+	Fri,  7 Oct 2005 01:26:11 -0400 (EDT)
+Received: from smtp2.syd.swiftdsl.com.au (smtp2.syd.swiftdsl.com.au
+	[218.214.225.98])
+	by menubar.gnome.org (Postfix) with SMTP id 57D2C3B3F7A
+	for <gnome-women-list@gnome.org>; Fri,  7 Oct 2005 01:26:10 -0400 (EDT)
+Received: (qmail 659 invoked from network); 7 Oct 2005 05:26:18 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp2.syd.swiftdsl.com.au with SMTP; 7 Oct 2005 05:26:18 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 4A3B378807A
+	for <gnome-women-list@gnome.org>; Fri,  7 Oct 2005 15:26:11 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 06241-04 for <gnome-women-list@gnome.org>;
+	Fri, 7 Oct 2005 15:26:11 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id 38E73788079; Fri,  7 Oct 2005 15:26:11 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Fri, 7 Oct 2005 15:26:11 +1000
+Resent-Message-ID: <20051007052611.GF6015@home.puzzling.org>
+Resent-To: Gnome Women <gnome-women-list@gnome.org>
+Date: Fri, 7 Oct 2005 15:25:15 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: Gnome Women <gnome-women-list@gnome.org>
+Message-ID: <20051007052515.GE6015@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] Liasing with LinuxChix
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 07 Oct 2005 05:26:13 -0000
+
+Hi GNOME Women,
+
+As per a recent discussion LinuxChix's grrltalk and volunteer lists,
+LinuxChix is considering what it can do to help the * Women projects,
+including GNOME Women, out with their missions. So far we're doing two
+things:
+
+ 1. updating our website to prominently link to the women development
+    groups
+
+ 2. trying to actively liase with them to see if there's anything else
+    they need or want from LinuxChix
+
+Re #2, I volunteered to do liason with GNOME Women since I was here
+anyway. So, let me know at any point if there seems to be some way that
+GNOME Women and LinuxChix could work together or we could send you some
+people or publicity or you could do the same for us or... let me know.
+
+-Mary
+

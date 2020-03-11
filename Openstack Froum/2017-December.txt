@@ -1,0 +1,668 @@
+From kennelson11 at gmail.com  Tue Dec  5 20:40:35 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Tue, 05 Dec 2017 20:40:35 +0000
+Subject: [Women-of-openstack] Agenda Tracker Proposal
+Message-ID: <CAJ6yrQi7z-BTRL=Xma1yK9VSF8apYG5gkqo+n0Ah=2zLFhGkmQ@mail.gmail.com>
+
+I had a thought and was curious to know what you all think :)
+
+Background: Most projects keep track of weekly agendas on a single etherpad
+to persist history in one place OR they use their wiki so that its easier
+to see what is coming for the next week's meeting.
+
+Personally, I think a new etherpad every meeting is a little much
+especially when I can never remember the date of the next meeting (maybe
+this is just me), but I know its kind of how things have been done.
+
+My proposal to just transform the agenda tracker[1] into the actual list of
+agendas rather than a list of etherpads with the agendas. I think it would
+be nice cause we can all book mark it so that we go back to the same one
+every week and it will be easier to promote at events given that it won't
+change. Its also less work for the leader because they won't need to create
+and publicize the new agenda each meeting.
+
+Thoughts?
+
+-Kendall Nelson (diablo_rojo)
+
+[1] https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171205/ecd57792/attachment.html>
+
+From rochelle.grober at huawei.com  Tue Dec  5 21:27:11 2017
+From: rochelle.grober at huawei.com (Rochelle Grober)
+Date: Tue, 5 Dec 2017 21:27:11 +0000
+Subject: [Women-of-openstack] FW:  Agenda Tracker Proposal
+References: <CAJ6yrQi7z-BTRL=Xma1yK9VSF8apYG5gkqo+n0Ah=2zLFhGkmQ@mail.gmail.com> 
+Message-ID: <DA7681A6D234954992BD2FB907F966620BBD1BB3@sjceml521-mbx.china.huawei.com>
+
+Oops.  Reply didn’t go to the group….
+
+From: Rochelle Grober
+Sent: Tuesday, December 05, 2017 1:25 PM
+To: 'Kendall Nelson' <kennelson11 at gmail.com>
+Subject: RE: [Women-of-openstack] Agenda Tracker Proposal
+
+Other projects already do it this way. Essentially, the latest agenda gets put at the top of the etherpad, then discussions/notes/attendance get filled in below the agend and above the previous agenda.  I think it works fairly well.  And like you said, bookmarkable!
+
+--Rocky
+
+From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+Sent: Tuesday, December 05, 2017 12:41 PM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Agenda Tracker Proposal
+
+I had a thought and was curious to know what you all think :)
+Background: Most projects keep track of weekly agendas on a single etherpad to persist history in one place OR they use their wiki so that its easier to see what is coming for the next week's meeting.
+Personally, I think a new etherpad every meeting is a little much especially when I can never remember the date of the next meeting (maybe this is just me), but I know its kind of how things have been done.
+My proposal to just transform the agenda tracker[1] into the actual list of agendas rather than a list of etherpads with the agendas. I think it would be nice cause we can all book mark it so that we go back to the same one every week and it will be easier to promote at events given that it won't change. Its also less work for the leader because they won't need to create and publicize the new agenda each meeting.
+Thoughts?
+
+-Kendall Nelson (diablo_rojo)
+
+[1] https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171205/3133e424/attachment.html>
+
+From anne at openstack.org  Tue Dec  5 22:06:40 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Tue, 5 Dec 2017 16:06:40 -0600
+Subject: [Women-of-openstack] FW:  Agenda Tracker Proposal
+In-Reply-To: <DA7681A6D234954992BD2FB907F966620BBD1BB3@sjceml521-mbx.china.huawei.com>
+References: <CAJ6yrQi7z-BTRL=Xma1yK9VSF8apYG5gkqo+n0Ah=2zLFhGkmQ@mail.gmail.com>
+ <DA7681A6D234954992BD2FB907F966620BBD1BB3@sjceml521-mbx.china.huawei.com>
+Message-ID: <E9DCB47F-32E6-46A4-BCA0-D5986D341469@openstack.org>
+
+Agree with Rocky and Diablo! 
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Dec 5, 2017, at 3:27 PM, Rochelle Grober <rochelle.grober at huawei.com> wrote:
+> 
+> Oops.  Reply didn’t go to the group….
+>  
+> From: Rochelle Grober 
+> Sent: Tuesday, December 05, 2017 1:25 PM
+> To: 'Kendall Nelson' <kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>>
+> Subject: RE: [Women-of-openstack] Agenda Tracker Proposal
+>  
+> Other projects already do it this way. Essentially, the latest agenda gets put at the top of the etherpad, then discussions/notes/attendance get filled in below the agend and above the previous agenda.  I think it works fairly well.  And like you said, bookmarkable!
+>  
+> --Rocky
+>  
+> From: Kendall Nelson [mailto:kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>] 
+> Sent: Tuesday, December 05, 2017 12:41 PM
+> To: women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>
+> Subject: [Women-of-openstack] Agenda Tracker Proposal
+>  
+> I had a thought and was curious to know what you all think :)
+> 
+> Background: Most projects keep track of weekly agendas on a single etherpad to persist history in one place OR they use their wiki so that its easier to see what is coming for the next week's meeting.
+> 
+> Personally, I think a new etherpad every meeting is a little much especially when I can never remember the date of the next meeting (maybe this is just me), but I know its kind of how things have been done.
+> 
+> My proposal to just transform the agenda tracker[1] into the actual list of agendas rather than a list of etherpads with the agendas. I think it would be nice cause we can all book mark it so that we go back to the same one every week and it will be easier to promote at events given that it won't change. Its also less work for the leader because they won't need to create and publicize the new agenda each meeting.
+> 
+> Thoughts?
+>  
+> -Kendall Nelson (diablo_rojo)
+> 
+> [1] https://etherpad.openstack.org/p/WOS_Agenda_Tracker <https://etherpad.openstack.org/p/WOS_Agenda_Tracker>_______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171205/48907e8d/attachment-0001.html>
+
+From ekhugenbruch at us.ibm.com  Tue Dec  5 22:14:50 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Tue, 5 Dec 2017 17:14:50 -0500
+Subject: [Women-of-openstack] FW:  Agenda Tracker Proposal
+In-Reply-To: <OF46573BC4.1A60F026-ON002581ED.00798C05@LocalDomain>
+References: <CAJ6yrQi7z-BTRL=Xma1yK9VSF8apYG5gkqo+n0Ah=2zLFhGkmQ@mail.gmail.com>
+ <DA7681A6D234954992BD2FB907F966620BBD1BB3@sjceml521-mbx.china.huawei.com>
+ <OF46573BC4.1A60F026-ON002581ED.00798C05@LocalDomain>
+Message-ID: <OFD4A2E014.D32F5FE0-ON002581ED.007A2ACF-852581ED.007A357A@notes.na.collabserv.com>
+
++1, good idea Kendall!
+Sincerely,
+Emily Kate Hugenbruch
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	Anne Bertucio <anne at openstack.org>
+To:	Rochelle Grober <rochelle.grober at huawei.com>
+Cc:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	12/05/2017 05:07 PM
+Subject:	Re: [Women-of-openstack] FW:  Agenda Tracker Proposal
+
+
+
+Agree with Rocky and Diablo!
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+      On Dec 5, 2017, at 3:27 PM, Rochelle Grober <
+      rochelle.grober at huawei.com> wrote:
+
+      Oops.  Reply didn’t go to the group….
+
+      From: Rochelle Grober
+      Sent: Tuesday, December 05, 2017 1:25 PM
+      To: 'Kendall Nelson' <kennelson11 at gmail.com>
+      Subject: RE: [Women-of-openstack] Agenda Tracker Proposal
+
+      Other projects already do it this way. Essentially, the latest agenda
+      gets put at the top of the etherpad, then
+      discussions/notes/attendance get filled in below the agend and above
+      the previous agenda.  I think it works fairly well.  And like you
+      said, bookmarkable!
+
+      --Rocky
+
+      From: Kendall Nelson [mailto:kennelson11 at gmail.com]
+      Sent: Tuesday, December 05, 2017 12:41 PM
+      To: women-of-openstack at lists.openstack.org
+      Subject: [Women-of-openstack] Agenda Tracker Proposal
+
+      I had a thought and was curious to know what you all think :)
+      Background: Most projects keep track of weekly agendas on a single
+      etherpad to persist history in one place OR they use their wiki so
+      that its easier to see what is coming for the next week's meeting.
+      Personally, I think a new etherpad every meeting is a little much
+      especially when I can never remember the date of the next meeting
+      (maybe this is just me), but I know its kind of how things have been
+      done.
+      My proposal to just transform the agenda tracker[1] into the actual
+      list of agendas rather than a list of etherpads with the agendas. I
+      think it would be nice cause we can all book mark it so that we go
+      back to the same one every week and it will be easier to promote at
+      events given that it won't change. Its also less work for the leader
+      because they won't need to create and publicize the new agenda each
+      meeting.
+      Thoughts?
+
+      -Kendall Nelson (diablo_rojo)
+
+      [1] https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+      _______________________________________________
+      Women-of-openstack mailing list
+      Women-of-openstack at lists.openstack.org
+      http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+https://urldefense.proofpoint.com/v2/url?u=http-3A__lists.openstack.org_cgi-2Dbin_mailman_listinfo_women-2Dof-2Dopenstack&d=DwIGaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Lc0ljvY7G9YHKKp0KXj2oZ0N_ceIHqWPQilorrrjr60&m=YWN3EducCdLS_gOgsfBirPwdlKEN7YqJDPIQrjrsq0o&s=4P8WG1yGl7XT4jzbJxexYBItRRsa0M71A0Tl6VSMQWo&e=
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171205/6d147a98/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171205/6d147a98/attachment.gif>
+
+From cat.lookabaugh at RACKSPACE.COM  Wed Dec  6 12:43:59 2017
+From: cat.lookabaugh at RACKSPACE.COM (Cat Lookabaugh)
+Date: Wed, 6 Dec 2017 12:43:59 +0000
+Subject: [Women-of-openstack] unsubscribe me, please
+Message-ID: <2C671C34-2772-49A1-895D-9FE9880B3705@contoso.com>
+
+
+
+
+-- Cat Lookabaugh, Sr. Information Developer
+     Technical and Engineering Services
+Rackspace Hosting – the #1 Managed Cloud Company
+Info Dev Team      cat.lookabaugh at rackspace.com
+Office: (210) 312-8193   Cell: (210) 364-1060
+
+We should not write so that it is possible for the reader to understand us, but so that it is impossible for him to misunderstand us. - Quintilian, rhetorician (c. 35-100)
+
+Harmony + Learner + Responsibility + Context + Intellection + Arranger + Consistency + Relator + Input + Analytical
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171206/25d94231/attachment.html>
+
+From amy at demarco.com  Wed Dec  6 15:42:01 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 6 Dec 2017 09:42:01 -0600
+Subject: [Women-of-openstack] unsubscribe me, please
+In-Reply-To: <2C671C34-2772-49A1-895D-9FE9880B3705@contoso.com>
+References: <2C671C34-2772-49A1-895D-9FE9880B3705@contoso.com>
+Message-ID: <CAFs83Qqr6QDFv2ag+SF00VHFcRWmd5EvaRuFY-_SjyWFU=PNyg@mail.gmail.com>
+
+Cat,
+
+You need to go here to unsubscribe:
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+Thanks,
+
+Amy (spotz)
+
+On Wed, Dec 6, 2017 at 6:43 AM, Cat Lookabaugh <cat.lookabaugh at rackspace.com
+> wrote:
+
+>
+>
+>
+>
+>
+>
+> -- Cat Lookabaugh, Sr. Information Developer
+>
+>      Technical and Engineering Services
+>
+> *Rackspace** Hosting* – *the #1 Managed Cloud Company*
+>
+> Info Dev Team      cat.lookabaugh at rackspace.com
+>
+> Office: (210) 312-8193   Cell: (210) 364-1060
+>
+>
+>
+> *We should not write so that it is possible for the reader to understand
+> us, but so that it is impossible for him to misunderstand us.* -
+> Quintilian, rhetorician (c. 35-100)
+>
+>
+>
+> *Harmony* + *Learner* + *Responsibility* + *Context* + *Intellection* +
+> *Arranger* + *Consistency* + *Relator* + *Input* + *Analytical*
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171206/85792b5d/attachment.html>
+
+From courageangeh at gmail.com  Sat Dec  9 13:14:43 2017
+From: courageangeh at gmail.com (courage angeh)
+Date: Sat, 9 Dec 2017 14:14:43 +0100
+Subject: [Women-of-openstack] Introduction
+Message-ID: <CAM2t5dtBuYJdhh6xz_=AsERP8vtNKj+f3ng2Lu0gZDZu2XxCzg@mail.gmail.com>
+
+Hi guys,
+
+My name is Angeh Courage, computer engineering student at the University of
+Buea currently in my forth year of studies. Was a GSoC intern at Mifos
+Initiavie for 2016/2017 and I am good with Python, Java - Spring, web(HTML,
+CSS, JS - React, Angular...)
+I am very interested in cloud computing and containerization and also
+interested contributing to openstack and I will like some help on where I
+should get started.
+
+Thanks,
+Angeh
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171209/c5118009/attachment.html>
+
+From kennelson11 at gmail.com  Wed Dec 13 17:37:35 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Wed, 13 Dec 2017 17:37:35 +0000
+Subject: [Women-of-openstack] Introduction
+In-Reply-To: <CAM2t5dtBuYJdhh6xz_=AsERP8vtNKj+f3ng2Lu0gZDZu2XxCzg@mail.gmail.com>
+References: <CAM2t5dtBuYJdhh6xz_=AsERP8vtNKj+f3ng2Lu0gZDZu2XxCzg@mail.gmail.com>
+Message-ID: <CAJ6yrQiHV1PK_513YYhTEG-sb7BdAQXnao=joFCOiY-yRj0Wxw@mail.gmail.com>
+
+Hello Again :)
+
+I know I had responded the other day, but I just wanted to check in and
+make sure the setup was going well. We would love to chat with you on IRC
+in #openstack-dev or in #openstack-women. Feel free to ping me once you get
+connected and we can chat more about getting you connected with a project.
+
+Here are those directions again if you need them[1].
+
+-Kendall (IRC: diablo_rojo)
+
+On Sat, Dec 9, 2017 at 5:15 AM courage angeh <courageangeh at gmail.com> wrote:
+
+> Hi guys,
+>
+> My name is Angeh Courage, computer engineering student at the University
+> of Buea currently in my forth year of studies. Was a GSoC intern at Mifos
+> Initiavie for 2016/2017 and I am good with Python, Java - Spring, web(HTML,
+> CSS, JS - React, Angular...)
+> I am very interested in cloud computing and containerization and also
+> interested contributing to openstack and I will like some help on where I
+> should get started.
+>
+> Thanks,
+> Angeh
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171213/173a0256/attachment.html>
+
+From courageangeh at gmail.com  Wed Dec 13 18:58:37 2017
+From: courageangeh at gmail.com (courage angeh)
+Date: Wed, 13 Dec 2017 19:58:37 +0100
+Subject: [Women-of-openstack] Introduction
+In-Reply-To: <CAJ6yrQiHV1PK_513YYhTEG-sb7BdAQXnao=joFCOiY-yRj0Wxw@mail.gmail.com>
+References: <CAM2t5dtBuYJdhh6xz_=AsERP8vtNKj+f3ng2Lu0gZDZu2XxCzg@mail.gmail.com>
+ <CAJ6yrQiHV1PK_513YYhTEG-sb7BdAQXnao=joFCOiY-yRj0Wxw@mail.gmail.com>
+Message-ID: <CAM2t5dvDWtNxzCY-F10Zc2xabBfpdWPNHQBxqUbbwm+4vi_YQQ@mail.gmail.com>
+
+Will do, thanks!
+
+On Dec 13, 2017 6:37 PM, "Kendall Nelson" <kennelson11 at gmail.com> wrote:
+
+> Hello Again :)
+>
+> I know I had responded the other day, but I just wanted to check in and
+> make sure the setup was going well. We would love to chat with you on IRC
+> in #openstack-dev or in #openstack-women. Feel free to ping me once you get
+> connected and we can chat more about getting you connected with a project.
+>
+> Here are those directions again if you need them[1].
+>
+> -Kendall (IRC: diablo_rojo)
+>
+> On Sat, Dec 9, 2017 at 5:15 AM courage angeh <courageangeh at gmail.com>
+> wrote:
+>
+>> Hi guys,
+>>
+>> My name is Angeh Courage, computer engineering student at the University
+>> of Buea currently in my forth year of studies. Was a GSoC intern at Mifos
+>> Initiavie for 2016/2017 and I am good with Python, Java - Spring, web(HTML,
+>> CSS, JS - React, Angular...)
+>> I am very interested in cloud computing and containerization and also
+>> interested contributing to openstack and I will like some help on where I
+>> should get started.
+>>
+>> Thanks,
+>> Angeh
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171213/76abdb95/attachment.html>
+
+From amy at demarco.com  Wed Dec 13 19:01:25 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Wed, 13 Dec 2017 13:01:25 -0600
+Subject: [Women-of-openstack] Introduction
+In-Reply-To: <CAJ6yrQiHV1PK_513YYhTEG-sb7BdAQXnao=joFCOiY-yRj0Wxw@mail.gmail.com>
+References: <CAM2t5dtBuYJdhh6xz_=AsERP8vtNKj+f3ng2Lu0gZDZu2XxCzg@mail.gmail.com>
+ <CAJ6yrQiHV1PK_513YYhTEG-sb7BdAQXnao=joFCOiY-yRj0Wxw@mail.gmail.com>
+Message-ID: <CAFs83QoV=uYjJ0=Ho-7RFGTUH1dL1Sr40z-T7AJMm0wotjArAw@mail.gmail.com>
+
+And if we don't answer right away we will when we can!
+
+Amy (spotz)
+
+On Wed, Dec 13, 2017 at 11:37 AM, Kendall Nelson <kennelson11 at gmail.com>
+wrote:
+
+> Hello Again :)
+>
+> I know I had responded the other day, but I just wanted to check in and
+> make sure the setup was going well. We would love to chat with you on IRC
+> in #openstack-dev or in #openstack-women. Feel free to ping me once you get
+> connected and we can chat more about getting you connected with a project.
+>
+> Here are those directions again if you need them[1].
+>
+> -Kendall (IRC: diablo_rojo)
+>
+> On Sat, Dec 9, 2017 at 5:15 AM courage angeh <courageangeh at gmail.com>
+> wrote:
+>
+>> Hi guys,
+>>
+>> My name is Angeh Courage, computer engineering student at the University
+>> of Buea currently in my forth year of studies. Was a GSoC intern at Mifos
+>> Initiavie for 2016/2017 and I am good with Python, Java - Spring, web(HTML,
+>> CSS, JS - React, Angular...)
+>> I am very interested in cloud computing and containerization and also
+>> interested contributing to openstack and I will like some help on where I
+>> should get started.
+>>
+>> Thanks,
+>> Angeh
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171213/002a5755/attachment.html>
+
+From courageangeh at gmail.com  Wed Dec 13 19:04:08 2017
+From: courageangeh at gmail.com (courage angeh)
+Date: Wed, 13 Dec 2017 20:04:08 +0100
+Subject: [Women-of-openstack] Introduction
+In-Reply-To: <CAFs83QoV=uYjJ0=Ho-7RFGTUH1dL1Sr40z-T7AJMm0wotjArAw@mail.gmail.com>
+References: <CAM2t5dtBuYJdhh6xz_=AsERP8vtNKj+f3ng2Lu0gZDZu2XxCzg@mail.gmail.com>
+ <CAJ6yrQiHV1PK_513YYhTEG-sb7BdAQXnao=joFCOiY-yRj0Wxw@mail.gmail.com>
+ <CAFs83QoV=uYjJ0=Ho-7RFGTUH1dL1Sr40z-T7AJMm0wotjArAw@mail.gmail.com>
+Message-ID: <CAM2t5dsYUWZDynZwGdYcisYeOvYOM+jE24xV=APQW=XzwZxHnA@mail.gmail.com>
+
+Ok!
+
+On Dec 13, 2017 8:01 PM, "Amy Marrich" <amy at demarco.com> wrote:
+
+> And if we don't answer right away we will when we can!
+>
+> Amy (spotz)
+>
+> On Wed, Dec 13, 2017 at 11:37 AM, Kendall Nelson <kennelson11 at gmail.com>
+> wrote:
+>
+>> Hello Again :)
+>>
+>> I know I had responded the other day, but I just wanted to check in and
+>> make sure the setup was going well. We would love to chat with you on IRC
+>> in #openstack-dev or in #openstack-women. Feel free to ping me once you get
+>> connected and we can chat more about getting you connected with a project.
+>>
+>> Here are those directions again if you need them[1].
+>>
+>> -Kendall (IRC: diablo_rojo)
+>>
+>> On Sat, Dec 9, 2017 at 5:15 AM courage angeh <courageangeh at gmail.com>
+>> wrote:
+>>
+>>> Hi guys,
+>>>
+>>> My name is Angeh Courage, computer engineering student at the University
+>>> of Buea currently in my forth year of studies. Was a GSoC intern at Mifos
+>>> Initiavie for 2016/2017 and I am good with Python, Java - Spring, web(HTML,
+>>> CSS, JS - React, Angular...)
+>>> I am very interested in cloud computing and containerization and also
+>>> interested contributing to openstack and I will like some help on where I
+>>> should get started.
+>>>
+>>> Thanks,
+>>> Angeh
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171213/a17ef349/attachment.html>
+
+From kennelson11 at gmail.com  Thu Dec 14 21:02:46 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Thu, 14 Dec 2017 21:02:46 +0000
+Subject: [Women-of-openstack] Agenda Tracker Proposal
+In-Reply-To: <CAJ6yrQi7z-BTRL=Xma1yK9VSF8apYG5gkqo+n0Ah=2zLFhGkmQ@mail.gmail.com>
+References: <CAJ6yrQi7z-BTRL=Xma1yK9VSF8apYG5gkqo+n0Ah=2zLFhGkmQ@mail.gmail.com>
+Message-ID: <CAJ6yrQiujTfAdnqMV6CKqfQCfoFDwRgBu3foiVFLLPbO0GTdzg@mail.gmail.com>
+
+Hello,
+
+Following up on this thread now that its died down and I was reminded of it
+today by someone in the #openstack-women channel asking where the agenda
+was.
+
+Seems like there hasn't been any negative feedback on this proposal so I
+will start using the Agenda Tracker etherpad[1] for the next meeting's
+agenda instead of creating a new one.
+
+Thanks!
+-Kendall (diablo_rojo)
+
+[1] https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+On Tue, Dec 5, 2017 at 12:40 PM Kendall Nelson <kennelson11 at gmail.com>
+wrote:
+
+> I had a thought and was curious to know what you all think :)
+>
+> Background: Most projects keep track of weekly agendas on a single
+> etherpad to persist history in one place OR they use their wiki so that its
+> easier to see what is coming for the next week's meeting.
+>
+> Personally, I think a new etherpad every meeting is a little much
+> especially when I can never remember the date of the next meeting (maybe
+> this is just me), but I know its kind of how things have been done.
+>
+> My proposal to just transform the agenda tracker[1] into the actual list
+> of agendas rather than a list of etherpads with the agendas. I think it
+> would be nice cause we can all book mark it so that we go back to the same
+> one every week and it will be easier to promote at events given that it
+> won't change. Its also less work for the leader because they won't need to
+> create and publicize the new agenda each meeting.
+>
+> Thoughts?
+>
+> -Kendall Nelson (diablo_rojo)
+>
+> [1] https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171214/a5c06cd2/attachment.html>
+
+From amy at demarco.com  Thu Dec 14 22:19:27 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 14 Dec 2017 16:19:27 -0600
+Subject: [Women-of-openstack] Agenda Tracker Proposal
+In-Reply-To: <CAJ6yrQiujTfAdnqMV6CKqfQCfoFDwRgBu3foiVFLLPbO0GTdzg@mail.gmail.com>
+References: <CAJ6yrQi7z-BTRL=Xma1yK9VSF8apYG5gkqo+n0Ah=2zLFhGkmQ@mail.gmail.com>
+ <CAJ6yrQiujTfAdnqMV6CKqfQCfoFDwRgBu3foiVFLLPbO0GTdzg@mail.gmail.com>
+Message-ID: <CAFs83QrGkrf9kSDZpoUpA9DFTBBtzSanaYLPyZ64Uz7hsA8Ljg@mail.gmail.com>
+
+Thanks for following up on this Kendall!
+
+Amy (spotz)
+
+On Thu, Dec 14, 2017 at 3:02 PM, Kendall Nelson <kennelson11 at gmail.com>
+wrote:
+
+> Hello,
+>
+> Following up on this thread now that its died down and I was reminded of
+> it today by someone in the #openstack-women channel asking where the agenda
+> was.
+>
+> Seems like there hasn't been any negative feedback on this proposal so I
+> will start using the Agenda Tracker etherpad[1] for the next meeting's
+> agenda instead of creating a new one.
+>
+> Thanks!
+> -Kendall (diablo_rojo)
+>
+> [1] https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+>
+> On Tue, Dec 5, 2017 at 12:40 PM Kendall Nelson <kennelson11 at gmail.com>
+> wrote:
+>
+>> I had a thought and was curious to know what you all think :)
+>>
+>> Background: Most projects keep track of weekly agendas on a single
+>> etherpad to persist history in one place OR they use their wiki so that its
+>> easier to see what is coming for the next week's meeting.
+>>
+>> Personally, I think a new etherpad every meeting is a little much
+>> especially when I can never remember the date of the next meeting (maybe
+>> this is just me), but I know its kind of how things have been done.
+>>
+>> My proposal to just transform the agenda tracker[1] into the actual list
+>> of agendas rather than a list of etherpads with the agendas. I think it
+>> would be nice cause we can all book mark it so that we go back to the same
+>> one every week and it will be easier to promote at events given that it
+>> won't change. Its also less work for the leader because they won't need to
+>> create and publicize the new agenda each meeting.
+>>
+>> Thoughts?
+>>
+>> -Kendall Nelson (diablo_rojo)
+>>
+>> [1] https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171214/6d19652c/attachment.html>
+

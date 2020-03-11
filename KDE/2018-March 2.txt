@@ -1,0 +1,81 @@
+From marinaz@redhat.com  Sun Mar  4 23:36:36 2018
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.gnome.org (Postfix) with ESMTP id 9C437760FD;
+	Sun,  4 Mar 2018 23:36:36 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.91
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.91 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, T_RP_MATCHES_RCVD=-0.01]
+	autolearn=ham
+Received: from smtp.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id VI3hEDshcJ1S; Sun,  4 Mar 2018 23:36:35 +0000 (UTC)
+Received: from mx1.redhat.com (mx1.redhat.com [209.132.183.28])
+	by smtp.gnome.org (Postfix) with ESMTPS id 62D21760DE;
+	Sun,  4 Mar 2018 23:36:35 +0000 (UTC)
+Received: from smtp.corp.redhat.com (int-mx01.intmail.prod.int.phx2.redhat.com
+	[10.5.11.11])
+	(using TLSv1.2 with cipher AECDH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mx1.redhat.com (Postfix) with ESMTPS id E271F28204;
+	Sun,  4 Mar 2018 23:36:33 +0000 (UTC)
+Received: from colo-mx.corp.redhat.com
+	(colo-mx01.intmail.prod.int.phx2.redhat.com [10.5.11.20])
+	by smtp.corp.redhat.com (Postfix) with ESMTPS id D7A23600C0;
+	Sun,  4 Mar 2018 23:36:33 +0000 (UTC)
+Received: from zmail17.collab.prod.int.phx2.redhat.com
+	(zmail17.collab.prod.int.phx2.redhat.com [10.5.83.19])
+	by colo-mx.corp.redhat.com (Postfix) with ESMTP id CDA2D18033E9;
+	Sun,  4 Mar 2018 23:36:33 +0000 (UTC)
+Date: Sun, 4 Mar 2018 18:36:33 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: desktop-devel-list <desktop-devel-list@gnome.org>, 
+	foundation-list <foundation-list@gnome.org>, 
+	gnome-women-list <gnome-women-list@gnome.org>
+Cc: gnome-outreachy-list@gnome.org
+Message-ID: <1192655251.5016936.1520206593643.JavaMail.zimbra@redhat.com>
+In-Reply-To: <1040083525.5016133.1520205364093.JavaMail.zimbra@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.10.121.59, 10.4.195.1]
+Thread-Topic: All project ideas for Outreachy need to be submitted by March 7
+Thread-Index: p4AFh66IZiFJfP/8ut44sNVxYI9nJg==
+X-Scanned-By: MIMEDefang 2.79 on 10.5.11.11
+X-Greylist: Sender IP whitelisted, not delayed by milter-greylist-4.5.16
+	(mx1.redhat.com [10.5.110.30]);
+	Sun, 04 Mar 2018 23:36:33 +0000 (UTC)
+Subject: [gnome-women] All project ideas for Outreachy need to be submitted
+ by March 7
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.23
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 04 Mar 2018 23:36:37 -0000
+
+Hi all,
+
+Thanks to a confirmed sponsorship from the GNOME Foundation, GNOME is participating in Outreachy in the upcoming May round! Outreachy has a new system for listing project ideas and for applying for the program, and all project ideas need to be added through this system by mentors by March 7. This means that if you would like to propose a new project idea for Outreachy, or if you would like to propose the same idea you proposed for GSoC, or if you are already working with a prospective candidate on a project idea, you *have to add it by any time on March 7* at https://www.outreachy.org/communities/cfp/gnome/submit-project/ Mentors or applicants will not be able to propose new project ideas for this round of Outreachy after that.
+
+Because GNOME only usually has a few participants in Outreachy, we are looking to offer projects that are most strategic for GNOME. These include, but are not limited to, projects in the area of privacy, GTK+, core experience, core applications, developer experience, and development infrastructure.
+
+Outreachy application deadline is March 22. Please also consider applying or encouraging others to apply with the help of the resources at https://www.outreachy.org/promote/ More information about GNOME's participation in Outreachy is available at https://wiki.gnome.org/Outreach/Outreachy
+
+Please feel free to e-mail gnome-outreachy-list@gnome.org , which is a private mailing list with Outreachy coordinators and mentors for GNOME, with any questions.
+
+Thanks,
+Marina

@@ -1,0 +1,269 @@
+From rauch at kde.org  Mon Jun 18 10:23:24 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Mon, 18 Jun 2012 12:23:24 +0200
+Subject: [Kde-women] Women's outreach BoF at Akademy?
+Message-ID: <CAA0Jy_xbGU_aB=rtORk4qVLdbo7U6N4nGoRKOFmGOet2XQrTwQ@mail.gmail.com>
+
+Hi all,
+
+I think it's time for a women's outreach BoF at Akademy. I'd like your
+input on this topic, whether or not you can attend.
+
+This was triggered by reading the blog post from Sebas about the
+personas created during the Next Iteration workspaces sprint last week
+[1] I was wondering how a bunch of guys can create a female user
+persona. Of course, the female persona, Carla, likes " convenience of
+technology but is mostly interested in how it improves her life, not
+for the sake of technology". Knowing the people involved, I'm sure
+they meant well :). But it also shows that we need to improve our
+female quote within the community, not only for the sake of diversity
+but to ultimately also broaden our user base.
+
+Lately, there has been a great deal of buzz about how and why to get
+more women into tech [2], [3] and [4] are just some examples. One
+common conclusion is that you need role models to get more girls and
+women involved, and that seems very reasonable. There are a few
+initiatives around like the GNOME Foundation women's outreach program
+or a German initiative to get more female speakers for Tech/Geek
+events which is a list of women in tech that are willing to speak at
+events (common excuse of organizers: we do not know enough women that
+we could invite to speak at events).
+
+I'm personally part of a women's network here in Berlin, called Berlin
+Geekettes, and participated in two Railsgirls workshop that aimed at
+teaching women how to code [5]. I find a great deal of solidarity and
+positive energy in these groups and events and would love to see this
+happen in KDE as well. I don't think we suffer from the "brogrammer"
+phenomenon [6], but we can surely do more :).
+
+BTW, there are also a lot of companies investing in women's outreach
+programs, so this could even be a way to get more funding.
+
+And one more question: I'd also like to invite guys to the BoF. What
+do you think?
+
+Thanks and very much looking forward to your feedback,
+Claudia
+
+
+P.S: even more food for thought: [7], [8].
+
+[1] http://vizzzion.org/blog/2012/06/plasma-personas-carla-and-raj/
+[2] http://www.youtube.com/watch?v=TUvRPmL61SI
+[3] http://news.cnet.com/8301-31322_3-57431869-256/why-we-need-to-keep-talking-about-women-in-tech/?tag=postrtcol%3Bposts
+[4] http://www.fastcompany.com/1836031/can-tech-companies-continue-to-innovate-with-no-women-at-the-table
+[5] http://railsgirls.com/
+[6] http://www.motherjones.com/media/2012/04/silicon-valley-brogrammer-culture-sexist-sxsw
+[7] http://geekfeminism.org/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/
+[8] http://gender.stanford.edu/news/2011/researcher-reveals-how-%E2%80%9Ccomputer-geeks%E2%80%9D-replaced-%E2%80%9Ccomputergirls%E2%80%9D
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht T?bingen
+(VR1301). Its president is Cornelius Schumacher. For more information
+please see http://ev.kde.org, and http://kde.org/
+
+From rauch at kde.org  Mon Jun 18 12:37:38 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Mon, 18 Jun 2012 14:37:38 +0200
+Subject: [Kde-women] Women's outreach BoF at Akademy?
+In-Reply-To: <CAA0Jy_xbGU_aB=rtORk4qVLdbo7U6N4nGoRKOFmGOet2XQrTwQ@mail.gmail.com>
+References: <CAA0Jy_xbGU_aB=rtORk4qVLdbo7U6N4nGoRKOFmGOet2XQrTwQ@mail.gmail.com>
+Message-ID: <CAA0Jy_wawoU5F3hUG-YkzSeDXc5TEmv9v6zn00ay0jSXF0Ad+A@mail.gmail.com>
+
+On 18 June 2012 12:23, Claudia Rauch <rauch at kde.org> wrote:
+> Hi all,
+>
+> I think it's time for a women's outreach BoF at Akademy. I'd like your
+> input on this topic, whether or not you can attend.
+>
+> This was triggered by reading the blog post from Sebas about the
+> personas created during the Next Iteration workspaces sprint last week
+> [1] I was wondering how a bunch of guys can create a female user
+> persona. Of course, the female persona, Carla, likes " convenience of
+> technology but is mostly interested in how it improves her life, not
+> for the sake of technology". Knowing the people involved, I'm sure
+> they meant well :). But it also shows that we need to improve our
+> female quote within the community, not only for the sake of diversity
+> but to ultimately also broaden our user base.
+>
+> Lately, there has been a great deal of buzz about how and why to get
+> more women into tech [2], [3] and [4] are just some examples. One
+> common conclusion is that you need role models to get more girls and
+> women involved, and that seems very reasonable. There are a few
+> initiatives around like the GNOME Foundation women's outreach program
+> or a German initiative to get more female speakers for Tech/Geek
+> events which is a list of women in tech that are willing to speak at
+> events (common excuse of organizers: we do not know enough women that
+> we could invite to speak at events).
+>
+> I'm personally part of a women's network here in Berlin, called Berlin
+> Geekettes, and participated in two Railsgirls workshop that aimed at
+> teaching women how to code [5]. I find a great deal of solidarity and
+> positive energy in these groups and events and would love to see this
+> happen in KDE as well. I don't think we suffer from the "brogrammer"
+> phenomenon [6], but we can surely do more :).
+>
+> BTW, there are also a lot of companies investing in women's outreach
+> programs, so this could even be a way to get more funding.
+>
+> And one more question: I'd also like to invite guys to the BoF. What
+> do you think?
+>
+> Thanks and very much looking forward to your feedback,
+> Claudia
+>
+>
+> P.S: even more food for thought: [7], [8].
+>
+> [1] http://vizzzion.org/blog/2012/06/plasma-personas-carla-and-raj/
+> [2] http://www.youtube.com/watch?v=TUvRPmL61SI
+> [3] http://news.cnet.com/8301-31322_3-57431869-256/why-we-need-to-keep-talking-about-women-in-tech/?tag=postrtcol%3Bposts
+> [4] http://www.fastcompany.com/1836031/can-tech-companies-continue-to-innovate-with-no-women-at-the-table
+> [5] http://railsgirls.com/
+> [6] http://www.motherjones.com/media/2012/04/silicon-valley-brogrammer-culture-sexist-sxsw
+> [7] http://geekfeminism.org/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/
+> [8] http://gender.stanford.edu/news/2011/researcher-reveals-how-%E2%80%9Ccomputer-geeks%E2%80%9D-replaced-%E2%80%9Ccomputergirls%E2%80%9D
+
+I've booked a BoF room for Wednesday, 4 July, from 9.30 to 12.30,
+http://community.kde.org/Akademy/2012/Wednesday#Room_227
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht T?bingen
+(VR1301). Its president is Cornelius Schumacher. For more information
+please see http://ev.kde.org, and http://kde.org/
+
+From myriam at kde.org  Mon Jun 18 11:58:05 2012
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Mon, 18 Jun 2012 13:58:05 +0200
+Subject: [Kde-women] Women's outreach BoF at Akademy?
+In-Reply-To: <CAA0Jy_xbGU_aB=rtORk4qVLdbo7U6N4nGoRKOFmGOet2XQrTwQ@mail.gmail.com>
+References: <CAA0Jy_xbGU_aB=rtORk4qVLdbo7U6N4nGoRKOFmGOet2XQrTwQ@mail.gmail.com>
+Message-ID: <CAGzoOB_M+Jg_Y5GYP0xv71u_-g8N-e6xZ0e=pKaQAXU6L4ttbw@mail.gmail.com>
+
+Hi Claudia,
+
+On Mon, Jun 18, 2012 at 12:23 PM, Claudia Rauch <rauch at kde.org> wrote:
+> Hi all,
+>
+> I think it's time for a women's outreach BoF at Akademy. I'd like your
+> input on this topic, whether or not you can attend.
+
+I very much would like to attend such a BoF, provided it is before
+Thursday as I fly back on that day. Which leaves
+http://community.kde.org/Akademy/2012/Monday and
+http://community.kde.org/Akademy/2012/Wednesday. Keep an eye on the
+schedules and maybe add a provisional slot, just to make sure we
+actually will have a meeting place :)
+
+JFYI: I host a Quality Team BoF already on Monday afternoon, so it
+would be nice if that wouldn't overlap :)
+
+Regards, Myriam.
+
+-- 
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+
+From myriam at kde.org  Mon Jun 18 15:27:03 2012
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Mon, 18 Jun 2012 17:27:03 +0200
+Subject: [Kde-women] Women's outreach BoF at Akademy?
+In-Reply-To: <CAA0Jy_wawoU5F3hUG-YkzSeDXc5TEmv9v6zn00ay0jSXF0Ad+A@mail.gmail.com>
+References: <CAA0Jy_xbGU_aB=rtORk4qVLdbo7U6N4nGoRKOFmGOet2XQrTwQ@mail.gmail.com>
+ <CAA0Jy_wawoU5F3hUG-YkzSeDXc5TEmv9v6zn00ay0jSXF0Ad+A@mail.gmail.com>
+Message-ID: <CAGzoOB8LrSnSr83gRJXnEkEkXZwo-xLx_MVZSXEeEnJShtmNog@mail.gmail.com>
+
+On Mon, Jun 18, 2012 at 2:37 PM, Claudia Rauch <rauch at kde.org> wrote:
+> On 18 June 2012 12:23, Claudia Rauch <rauch at kde.org> wrote:
+>
+> I've booked a BoF room for Wednesday, 4 July, from 9.30 to 12.30,
+> http://community.kde.org/Akademy/2012/Wednesday#Room_227
+
+Cool, thanks a bunch :)
+
+Regards, Myriam
+-- 
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+
+From rauch at kde.org  Tue Jun 19 06:50:26 2012
+From: rauch at kde.org (Claudia Rauch)
+Date: Tue, 19 Jun 2012 08:50:26 +0200
+Subject: [Kde-women] Women's outreach BoF at Akademy?
+In-Reply-To: <CAGzoOB8LrSnSr83gRJXnEkEkXZwo-xLx_MVZSXEeEnJShtmNog@mail.gmail.com>
+References: <CAA0Jy_xbGU_aB=rtORk4qVLdbo7U6N4nGoRKOFmGOet2XQrTwQ@mail.gmail.com>
+ <CAA0Jy_wawoU5F3hUG-YkzSeDXc5TEmv9v6zn00ay0jSXF0Ad+A@mail.gmail.com>
+ <CAGzoOB8LrSnSr83gRJXnEkEkXZwo-xLx_MVZSXEeEnJShtmNog@mail.gmail.com>
+Message-ID: <CAA0Jy_zzyFzWefEqgTtpw9J2pn8T+pQ2-PFOrjRskgtQFqe7rQ@mail.gmail.com>
+
+On 18 June 2012 17:27, Myriam Schweingruber <myriam at kde.org> wrote:
+> On Mon, Jun 18, 2012 at 2:37 PM, Claudia Rauch <rauch at kde.org> wrote:
+>> On 18 June 2012 12:23, Claudia Rauch <rauch at kde.org> wrote:
+>>
+>> I've booked a BoF room for Wednesday, 4 July, from 9.30 to 12.30,
+>> http://community.kde.org/Akademy/2012/Wednesday#Room_227
+>
+> Cool, thanks a bunch :)
+
+See you soon :)
+
+
+
+> Regards, Myriam
+> --
+> Proud member of the Amarok and KDE Community
+> Protect your freedom and join the Fellowship of FSFE:
+> http://www.fsfe.org
+> Please don't send me proprietary file formats,
+> use ISO standard ODF instead (ISO/IEC 26300)
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht T?bingen
+(VR1301). Its president is Cornelius Schumacher. For more information
+please see http://ev.kde.org, and http://kde.org/
+

@@ -1,0 +1,1023 @@
+From duffy@redhat.com  Tue Aug 14 14:07:40 2007
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C60803B0231
+	for <gnome-women-list@gnome.org>; Tue, 14 Aug 2007 14:07:40 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -1.353
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.353 tagged_above=-999 required=2
+	tests=[AWL=-1.166, BAYES_40=-0.185, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6, seldom 2.4 (older, 4) (NAT!) (up: 7610
+	hrs), (distance 11, link: GPRS, T1, FreeS/WAN), [66.187.233.31]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DEXAJaDbHWTR for <gnome-women-list@gnome.org>;
+	Tue, 14 Aug 2007 14:07:34 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id D29313B0193
+	for <gnome-women-list@gnome.org>; Tue, 14 Aug 2007 14:07:28 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.13.1/8.13.1) with ESMTP id l7EI7Odm017771
+	for <gnome-women-list@gnome.org>; Tue, 14 Aug 2007 14:07:24 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.13.1/8.13.1) with ESMTP id
+	l7EI7OQV002369
+	for <gnome-women-list@gnome.org>; Tue, 14 Aug 2007 14:07:24 -0400
+Received: from manus.boston.redhat.com (dhcp83-112.boston.redhat.com
+	[172.16.83.112])
+	by mail.boston.redhat.com (8.13.1/8.13.1) with ESMTP id l7EI7N2L021093; 
+	Tue, 14 Aug 2007 14:07:23 -0400
+Message-ID: <46C1EF5B.8050701@redhat.com>
+Date: Tue, 14 Aug 2007 14:07:23 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Thunderbird 2.0.0.5 (X11/20070719)
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org, fedora-women-list@redhat.com
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+Subject: [gnome-women] [Fwd: shesgeeky]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 14 Aug 2007 18:07:41 -0000
+
+
+
+-------- Original Message --------
+Subject: shesgeeky
+Resent-Date: Tue, 14 Aug 2007 17:47:35 +0000 (UTC)
+Resent-From: debian-women@lists.debian.org
+Date: Tue, 14 Aug 2007 10:42:27 -0700
+From: gaba <gaba@riseup.net>
+To: debian-women@lists.debian.org
+
+hey!
+
+i dont know who is organizing this but i just saw it:
+
+http://shesgeeky.org/
+
+A Women's Tech (un)Conference
+
+October 22-23 Computer History Museum, Mountain View, CA.
+
+Our goal is to create an open space forum for women in tech to come
+together to
+
+    1. Exchanging skills and learning from women from diverse fields of
+technology.
+    2. Discussing topics about women and technology.
+    3. Connecting the diverse range of women in technology, computing,
+entrepreneurship, funding, hardware, open source, nonprofit and any
+other technical geeky field.
+
+This is an unconference so it will have an agenda created by the people
+who attend.
+
+
+-- 
+To UNSUBSCRIBE, email to debian-women-request@lists.debian.org
+with a subject of "unsubscribe". Trouble? Contact 
+listmaster@lists.debian.org
+
+From sankarshan.mukhopadhyay@gmail.com  Mon Aug 20 01:00:57 2007
+Return-Path: <sankarshan.mukhopadhyay@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 89B713B015F
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 01:00:57 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -1.711
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.711 tagged_above=-999 required=2
+	tests=[AWL=-0.315, BAYES_00=-2.599, FORGED_RCVD_HELO=0.135,
+	SPF_HELO_PASS=-0.001, SPF_NEUTRAL=1.069]
+X-Amavis-OS-Fingerprint: Linux 2.6, seldom 2.4 (older, 4) (NAT!) (up: 8919
+	hrs), (distance 11, link: GPRS, T1, FreeS/WAN), [66.187.233.31]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id h4pdHjh78Iwz for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 01:00:55 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 4180D3B013C
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 01:00:55 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.13.1/8.13.1) with ESMTP id l7K50rrb024305
+	for <gnome-women-list@mail.gnome.org>; Mon, 20 Aug 2007 01:00:53 -0400
+Received: from lacrosse.corp.redhat.com (lacrosse.corp.redhat.com
+	[172.16.52.154])
+	by int-mx1.corp.redhat.com (8.13.1/8.13.1) with ESMTP id l7K50rC3020528
+	for <gnome-women-list@mail.gnome.org>; Mon, 20 Aug 2007 01:00:53 -0400
+Received: from localhost.localdomain (vpn-4-6.str.redhat.com [10.32.4.6])
+	by lacrosse.corp.redhat.com (8.12.11.20060308/8.11.6) with ESMTP id
+	l7K50p0j024162
+	for <gnome-women-list@mail.gnome.org>; Mon, 20 Aug 2007 01:00:52 -0400
+Message-ID: <46C9207B.503@gmail.com>
+Date: Mon, 20 Aug 2007 10:32:51 +0530
+From: Sankarshan Mukhopadhyay <sankarshan.mukhopadhyay@gmail.com>
+User-Agent: Thunderbird 2.0.0.5 (X11/20070719)
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+X-Enigmail-Version: 0.95.3
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Subject: [gnome-women] [Fwd: [GNOME-India] Planning to propose a GNOME
+	Project day at foss.in]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 20 Aug 2007 05:00:57 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+I just realised that putting a mail with the above $SUBJECT to
+gnome-in-list is not going to automagically appear in everybody's
+inbox(es), hence this forward. Ideas are welcome.
+
+:Sankarshan
+
+- -------- Original Message --------
+Subject: [GNOME-India] Planning to propose a GNOME Project day at foss.in
+Date: Mon, 20 Aug 2007 07:04:36 +0530
+From: Sankarshan Mukhopadhyay <sankarshan.mukhopadhyay@gmail.com>
+Reply-To: Advocacy,	chit-chat and event planning in India
+<gnome-in-list@gnome.org>
+To: Advocacy, chit-chat and event planning in India
+<gnome-in-list@gnome.org>
+
+$SUBJECT says all. Planned date for proposal is 23rd of this month.
+Let's have a list of ideas.
+
+
+- --
+
+You see things; and you say 'Why?';
+But I dream things that never were;
+and I say 'Why not?' - George Bernard Shaw
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.7 (GNU/Linux)
+Comment: Using GnuPG with Fedora - http://enigmail.mozdev.org
+
+iD8DBQFGySB7XQZpNTcrCzMRAnovAJ40cLeTE68+BxSKYq7HmjmlvI7MgQCcCJhR
+1JdYe2mwczKpOOfs8AmDvqA=
+=Y9eR
+-----END PGP SIGNATURE-----
+From susana.pereira@gmail.com  Mon Aug 20 07:05:24 2007
+Return-Path: <susana.pereira@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2B4723B01AC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 07:05:24 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: 0.27
+X-Spam-Level: 
+X-Spam-Status: No, score=0.27 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, FORGED_RCVD_HELO=0.135,
+	SARE_RECV_IP_082154=1.666, SPF_HELO_PASS=-0.001, SPF_NEUTRAL=1.069]
+X-Amavis-OS-Fingerprint: Linux 2.4-2.6 (up: 4986 hrs), (distance 17, link:
+	ethernet/modem), [212.55.154.25]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PkS3NVvC6bwn for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 07:05:17 -0400 (EDT)
+Received: from sapo.pt (relay5.ptmail.sapo.pt [212.55.154.25])
+	by menubar.gnome.org (Postfix) with SMTP id E4D523B01B5
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 07:05:10 -0400 (EDT)
+Received: (qmail 18352 invoked from network); 20 Aug 2007 11:05:02 -0000
+Received: from unknown (HELO sapo.pt) (10.134.35.210)
+	by relay6 with SMTP; 20 Aug 2007 11:05:02 -0000
+Received: (qmail 9208 invoked from network); 20 Aug 2007 11:05:02 -0000
+X-AntiVirus: PTMail-AV 0.3-0.91.1
+X-Virus-Status: Clean (0.00770 seconds)
+Received: from unknown (HELO [192.168.1.4]) (splp@sapo.pt@[82.155.10.34])
+	(envelope-sender <susana.pereira@gmail.com>)
+	by mta15 (qmail-ldap-1.03) with SMTP
+	for <gnome-women-list@mail.gnome.org>; 20 Aug 2007 11:05:01 -0000
+From: Susana Pereira <susana.pereira@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Date: Mon, 20 Aug 2007 12:05:00 +0100
+Message-Id: <1187607900.5798.5.camel@localhost>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.10.1 
+Content-Transfer-Encoding: 7bit
+Subject: [gnome-women] [Fwd: GNOME Bug Day, Wednesday 22, August]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 20 Aug 2007 11:05:24 -0000
+
+Hi everyone,
+
+Forwarding the email about the upcoming GNOME Bug Day.
+
+Bug days are a great way to get started in the Bugsquad, I hope to see
+some of you in there :)
+
+Cheers,
+
+Susana
+
+------ Mensagem Reencaminhada ------
+De: Pedro Villavicencio Garrido <pvillavi@gmail.com>
+Para: gnome-bugsquad@gnome.org, gnome-love@gnome.org,
+gnome-list@gnome.org
+Assunto: GNOME Bug Day, Wednesday 22, August
+Data: Thu, 16 Aug 2007 08:58:56 -0400
+
+Hola,
+
+As part of the 10 Years of GNOME celebration actions, the GNOME Bugsquad
+will have a Bug Day the Wednesday 22 of August in #bugs irc.gnome.org
+
+Anyone who is interesting in improving GNOME by cleaning up our bug
+database (aka GNOME Bugzilla[1]) can help!, more info at the Bug Day
+page[2].
+
+1- http://bugzilla.gnome.org
+2- http://live.gnome.org/Bugsquad/BugDays
+
+See you all there!
+
+Regards,
+
+pedro.
+
+_______________________________________________
+Gnome-bugsquad mailing list
+Gnome-bugsquad@gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-bugsquad
+
+From g@socallinuxexpo.org  Tue Aug 21 19:34:07 2007
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 8EB403B009E
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Aug 2007 19:34:07 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.464
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.464 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, FORGED_RCVD_HELO=0.135]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 1642 hrs), (distance 19,
+	link: ethernet/modem), [205.147.45.172]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id p5X8GqKz0dBj for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Aug 2007 19:34:06 -0400 (EDT)
+Received: from maggie.socallinuxexpo.org (maggie.socallinuxexpo.org
+	[205.147.45.172])
+	by menubar.gnome.org (Postfix) with ESMTP id 102233B007D
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Aug 2007 19:34:05 -0400 (EDT)
+Received: from garethgreenaway.ca.delsonmarketing.net
+	(h-72-245-253-10.lsanca54.covad.net [72.245.253.10])
+	(authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	l7LNXwmC032073
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Tue, 21 Aug 2007 16:34:00 -0700
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+Organization: Southern California Linux Expo
+To: gnome-women-list@mail.gnome.org
+Date: Tue, 21 Aug 2007 16:34:12 -0700
+User-Agent: KMail/1.9.6
+MIME-Version: 1.0
+Content-Type: text/plain;
+  charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Message-Id: <200708211634.12929.g@socallinuxexpo.org>
+X-Virus-Scanned: ClamAV 0.91.1/4024/Tue Aug 21 15:11:35 2007 on maggie
+X-Virus-Status: Clean
+Subject: [gnome-women] SCALE 6x - Women in Open Source Call For Papers
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 21 Aug 2007 23:34:07 -0000
+
+The Linux Expo of Southern California is proud to announce their second Women 
+in Open Source Conference. The conference will be held on February 8th, 2008 
+in conjunction with the 6th Annual So Cal Linux Expo. 
+
+Continuing our efforts to encourage women of all ages to be a part of the free 
+and open source community, we invite you to showcase your work on Free and 
+Open Source projects. Join us in sharing your accomplishments, success 
+stories, and advancements. 
+
+Past attendees at this event have included women in technology, teachers, and 
+parents of young girls. 
+
+Widespread acceptance of the Linux Expo and participation by the user 
+community have established SCALE as the premiere Open Source conference in 
+the Southwest. 2008 marks the sixth year that SCALE has been engaging and 
+inspiring the open source community. Our event is uniquely community-based 
+and attracts a wide variety of sponsors, non-profit groups, user groups, and 
+attendees. 
+
+The Call For Papers for the Women In Open Source conference can be found here: 
+http://socallinuxexpo.org/scale6x/documents/scale6x-wios-cfp.pdf
+
+-- 
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+From mary@home.puzzling.org  Tue Aug 28 21:58:25 2007
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 017303B0087
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Aug 2007 21:58:25 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: 0.936
+X-Spam-Level: 
+X-Spam-Status: No, score=0.936 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, FORGED_RCVD_HELO=0.135, L_P0F_UNKN=0.8]
+X-Amavis-OS-Fingerprint: UNKNOWN [S4:54:1:60:M1460,S,T,N,W4:.:?:?] (up: 1174
+	hrs), (link: ethernet/modem), [70.85.16.132]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id z41vtijHDBGr for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Aug 2007 21:58:21 -0400 (EDT)
+Received: from fuchsia.puzzling.org (fuchsia.puzzling.org [70.85.16.132])
+	by menubar.gnome.org (Postfix) with ESMTP id 391FE3B007C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Aug 2007 21:58:20 -0400 (EDT)
+Received: from home.puzzling.org (86.228.233.220.exetel.com.au
+	[220.233.228.86])
+	by fuchsia.puzzling.org (Postfix) with ESMTP id D23001F476
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 29 Aug 2007 11:58:18 +1000 (EST)
+Received: from localhost (localhost [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id CA5C0788017
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 29 Aug 2007 11:58:17 +1000 (EST)
+X-Virus-Scanned: Debian amavisd-new at home.puzzling.org
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (home.puzzling.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id rYeKyz3wEsaN for <gnome-women-list@mail.gnome.org>;
+	Wed, 29 Aug 2007 11:58:17 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id A775D788002; Wed, 29 Aug 2007 11:58:17 +1000 (EST)
+Date: Wed, 29 Aug 2007 11:58:17 +1000
+From: Mary Gardiner <mary@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20070829015817.GQ28187@home.puzzling.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.13 (2006-08-11)
+Subject: [gnome-women] LinuxChix Women's mini-conf (Melbourne,
+	Jan 2008): Call for Presentations
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 29 Aug 2007 01:58:25 -0000
+
+***   LinuxChix Womens’ mini-conf: Call for Presentations   ***
+
+The premier annual Linux and Open Source conference in Australia,
+linux.conf.au, is once again hosting a LinuxChix mini-conf. We are now calling
+for presentations by women on both Free Software technical topics and other
+topics of general interest to women involved in Free Software or working in IT.
+
+*About the mini-conf*
+
+The second annual LinuxChix women’s mini-conf will be held on either Monday the
+28th or Tuesday the 29th of January, 2008 (We don’t know which) at the
+University of Melbourne, as part of the annual linux.conf.au Free and Open
+Source Software conference running from 28th of January to the 2nd of February,
+2008. All attendees of linux.conf.au are welcome to attend the women’s
+mini-conf, which will highlight and celebrate the achievements of women in Free
+and Open Source Software. There is no need to be an active member of LinuxChix,
+as attendees and speakers from other women’s advocacy and development groups
+including Systers, project-specific women’s groups and others, are encouraged
+to participate.
+
+The mini-conf has both 50 minute and 25 minute talks slots available. We
+recommend that inexperienced Speakers opt for the shorter slots and plan to
+present for around 15 minutes; the remaining time will be devoted to
+discussion. Experienced speakers may choose to opt for a full 50 minute slot,
+and prepare to talk for 35-40 minutes. We reserve the right to request that 35
+minute presentations be shortened to 15 minutes to enable best use of the time
+we have.
+
+Abstracts for talk proposals should be submitted to - geekess :at:
+geekosophical :dot: net - by Midnight Sunday, October 15, 2007.
+
+There will also be some 10 minute (5 minutes talk, 5 minutes discussion)
+lightning talk slots available. These slots are ideal for first-time speakers
+or those who want to very quickly showcase a project.
+
+All talks should be on Free and Open Source Software related topics.
+
+Please see http://conf.au.linuxchix.org for more information about the women’s
+mini-conference and http://conf.au.linuxchix.org/CFP for full details of the
+call for presentations.
+
+Feel free to forward this announcement to any women or groups you think would
+be interested.
+
+About LinuxChix
+
+LinuxChix is a community for women who like Linux and Free Software, and for
+women and men who want to support women in computing. The membership ranges
+from novices to experienced users, and includes professional and amateur
+programmers, system administrators and technical writers.
+
+About linux.conf.au
+
+linux.conf.au (http://linux.conf.au/) is Australia’s annual technical
+conference on Free Software. Fun, informal and seriously technical,
+linux.conf.au draws together Free and Open Source Software developers from
+across the world. It will be held from January 28th to February 2nd, 2008 at
+The University of Melbourne.
+
+About Linux Australia
+
+Linux Australia (http://www.linux.org.au/) is the peak body for Linux User
+Groups (LUGs) around Australia, and as such represents approximately 5000
+Australian Linux users and developers. Linux Australia facilitates the
+organisation of this international Free Software conference in a different
+Australasian city each year.
+From duffy@redhat.com  Tue Aug 14 14:07:40 2007
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C60803B0231
+	for <gnome-women-list@gnome.org>; Tue, 14 Aug 2007 14:07:40 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -1.353
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.353 tagged_above=-999 required=2
+	tests=[AWL=-1.166, BAYES_40=-0.185, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6, seldom 2.4 (older, 4) (NAT!) (up: 7610
+	hrs), (distance 11, link: GPRS, T1, FreeS/WAN), [66.187.233.31]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id DEXAJaDbHWTR for <gnome-women-list@gnome.org>;
+	Tue, 14 Aug 2007 14:07:34 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id D29313B0193
+	for <gnome-women-list@gnome.org>; Tue, 14 Aug 2007 14:07:28 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.13.1/8.13.1) with ESMTP id l7EI7Odm017771
+	for <gnome-women-list@gnome.org>; Tue, 14 Aug 2007 14:07:24 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.13.1/8.13.1) with ESMTP id
+	l7EI7OQV002369
+	for <gnome-women-list@gnome.org>; Tue, 14 Aug 2007 14:07:24 -0400
+Received: from manus.boston.redhat.com (dhcp83-112.boston.redhat.com
+	[172.16.83.112])
+	by mail.boston.redhat.com (8.13.1/8.13.1) with ESMTP id l7EI7N2L021093; 
+	Tue, 14 Aug 2007 14:07:23 -0400
+Message-ID: <46C1EF5B.8050701@redhat.com>
+Date: Tue, 14 Aug 2007 14:07:23 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <duffy@redhat.com>
+User-Agent: Thunderbird 2.0.0.5 (X11/20070719)
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org, fedora-women-list@redhat.com
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+Subject: [gnome-women] [Fwd: shesgeeky]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 14 Aug 2007 18:07:41 -0000
+
+
+
+-------- Original Message --------
+Subject: shesgeeky
+Resent-Date: Tue, 14 Aug 2007 17:47:35 +0000 (UTC)
+Resent-From: debian-women@lists.debian.org
+Date: Tue, 14 Aug 2007 10:42:27 -0700
+From: gaba <gaba@riseup.net>
+To: debian-women@lists.debian.org
+
+hey!
+
+i dont know who is organizing this but i just saw it:
+
+http://shesgeeky.org/
+
+A Women's Tech (un)Conference
+
+October 22-23 Computer History Museum, Mountain View, CA.
+
+Our goal is to create an open space forum for women in tech to come
+together to
+
+    1. Exchanging skills and learning from women from diverse fields of
+technology.
+    2. Discussing topics about women and technology.
+    3. Connecting the diverse range of women in technology, computing,
+entrepreneurship, funding, hardware, open source, nonprofit and any
+other technical geeky field.
+
+This is an unconference so it will have an agenda created by the people
+who attend.
+
+
+-- 
+To UNSUBSCRIBE, email to debian-women-request@lists.debian.org
+with a subject of "unsubscribe". Trouble? Contact 
+listmaster@lists.debian.org
+
+
+From sankarshan.mukhopadhyay@gmail.com  Mon Aug 20 01:00:57 2007
+Return-Path: <sankarshan.mukhopadhyay@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 89B713B015F
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 01:00:57 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -1.711
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.711 tagged_above=-999 required=2
+	tests=[AWL=-0.315, BAYES_00=-2.599, FORGED_RCVD_HELO=0.135,
+	SPF_HELO_PASS=-0.001, SPF_NEUTRAL=1.069]
+X-Amavis-OS-Fingerprint: Linux 2.6, seldom 2.4 (older, 4) (NAT!) (up: 8919
+	hrs), (distance 11, link: GPRS, T1, FreeS/WAN), [66.187.233.31]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id h4pdHjh78Iwz for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 01:00:55 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 4180D3B013C
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 01:00:55 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.13.1/8.13.1) with ESMTP id l7K50rrb024305
+	for <gnome-women-list@mail.gnome.org>; Mon, 20 Aug 2007 01:00:53 -0400
+Received: from lacrosse.corp.redhat.com (lacrosse.corp.redhat.com
+	[172.16.52.154])
+	by int-mx1.corp.redhat.com (8.13.1/8.13.1) with ESMTP id l7K50rC3020528
+	for <gnome-women-list@mail.gnome.org>; Mon, 20 Aug 2007 01:00:53 -0400
+Received: from localhost.localdomain (vpn-4-6.str.redhat.com [10.32.4.6])
+	by lacrosse.corp.redhat.com (8.12.11.20060308/8.11.6) with ESMTP id
+	l7K50p0j024162
+	for <gnome-women-list@mail.gnome.org>; Mon, 20 Aug 2007 01:00:52 -0400
+Message-ID: <46C9207B.503@gmail.com>
+Date: Mon, 20 Aug 2007 10:32:51 +0530
+From: Sankarshan Mukhopadhyay <sankarshan.mukhopadhyay@gmail.com>
+User-Agent: Thunderbird 2.0.0.5 (X11/20070719)
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+X-Enigmail-Version: 0.95.3
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Subject: [gnome-women] [Fwd: [GNOME-India] Planning to propose a GNOME
+	Project day at foss.in]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 20 Aug 2007 05:00:57 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+I just realised that putting a mail with the above $SUBJECT to
+gnome-in-list is not going to automagically appear in everybody's
+inbox(es), hence this forward. Ideas are welcome.
+
+:Sankarshan
+
+- -------- Original Message --------
+Subject: [GNOME-India] Planning to propose a GNOME Project day at foss.in
+Date: Mon, 20 Aug 2007 07:04:36 +0530
+From: Sankarshan Mukhopadhyay <sankarshan.mukhopadhyay@gmail.com>
+Reply-To: Advocacy,	chit-chat and event planning in India
+<gnome-in-list@gnome.org>
+To: Advocacy, chit-chat and event planning in India
+<gnome-in-list@gnome.org>
+
+$SUBJECT says all. Planned date for proposal is 23rd of this month.
+Let's have a list of ideas.
+
+
+- --
+
+You see things; and you say 'Why?';
+But I dream things that never were;
+and I say 'Why not?' - George Bernard Shaw
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.7 (GNU/Linux)
+Comment: Using GnuPG with Fedora - http://enigmail.mozdev.org
+
+iD8DBQFGySB7XQZpNTcrCzMRAnovAJ40cLeTE68+BxSKYq7HmjmlvI7MgQCcCJhR
+1JdYe2mwczKpOOfs8AmDvqA=
+=Y9eR
+-----END PGP SIGNATURE-----
+
+From susana.pereira@gmail.com  Mon Aug 20 07:05:24 2007
+Return-Path: <susana.pereira@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2B4723B01AC
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 07:05:24 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: 0.27
+X-Spam-Level: 
+X-Spam-Status: No, score=0.27 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, FORGED_RCVD_HELO=0.135,
+	SARE_RECV_IP_082154=1.666, SPF_HELO_PASS=-0.001, SPF_NEUTRAL=1.069]
+X-Amavis-OS-Fingerprint: Linux 2.4-2.6 (up: 4986 hrs), (distance 17, link:
+	ethernet/modem), [212.55.154.25]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id PkS3NVvC6bwn for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 07:05:17 -0400 (EDT)
+Received: from sapo.pt (relay5.ptmail.sapo.pt [212.55.154.25])
+	by menubar.gnome.org (Postfix) with SMTP id E4D523B01B5
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 20 Aug 2007 07:05:10 -0400 (EDT)
+Received: (qmail 18352 invoked from network); 20 Aug 2007 11:05:02 -0000
+Received: from unknown (HELO sapo.pt) (10.134.35.210)
+	by relay6 with SMTP; 20 Aug 2007 11:05:02 -0000
+Received: (qmail 9208 invoked from network); 20 Aug 2007 11:05:02 -0000
+X-AntiVirus: PTMail-AV 0.3-0.91.1
+X-Virus-Status: Clean (0.00770 seconds)
+Received: from unknown (HELO [192.168.1.4]) (splp@sapo.pt@[82.155.10.34])
+	(envelope-sender <susana.pereira@gmail.com>)
+	by mta15 (qmail-ldap-1.03) with SMTP
+	for <gnome-women-list@mail.gnome.org>; 20 Aug 2007 11:05:01 -0000
+From: Susana Pereira <susana.pereira@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Date: Mon, 20 Aug 2007 12:05:00 +0100
+Message-Id: <1187607900.5798.5.camel@localhost>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.10.1 
+Content-Transfer-Encoding: 7bit
+Subject: [gnome-women] [Fwd: GNOME Bug Day, Wednesday 22, August]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 20 Aug 2007 11:05:24 -0000
+
+Hi everyone,
+
+Forwarding the email about the upcoming GNOME Bug Day.
+
+Bug days are a great way to get started in the Bugsquad, I hope to see
+some of you in there :)
+
+Cheers,
+
+Susana
+
+------ Mensagem Reencaminhada ------
+De: Pedro Villavicencio Garrido <pvillavi@gmail.com>
+Para: gnome-bugsquad@gnome.org, gnome-love@gnome.org,
+gnome-list@gnome.org
+Assunto: GNOME Bug Day, Wednesday 22, August
+Data: Thu, 16 Aug 2007 08:58:56 -0400
+
+Hola,
+
+As part of the 10 Years of GNOME celebration actions, the GNOME Bugsquad
+will have a Bug Day the Wednesday 22 of August in #bugs irc.gnome.org
+
+Anyone who is interesting in improving GNOME by cleaning up our bug
+database (aka GNOME Bugzilla[1]) can help!, more info at the Bug Day
+page[2].
+
+1- http://bugzilla.gnome.org
+2- http://live.gnome.org/Bugsquad/BugDays
+
+See you all there!
+
+Regards,
+
+pedro.
+
+_______________________________________________
+Gnome-bugsquad mailing list
+Gnome-bugsquad@gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-bugsquad
+
+
+From g@socallinuxexpo.org  Tue Aug 21 19:34:07 2007
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 8EB403B009E
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Aug 2007 19:34:07 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: -2.464
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.464 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, FORGED_RCVD_HELO=0.135]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 1642 hrs), (distance 19,
+	link: ethernet/modem), [205.147.45.172]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id p5X8GqKz0dBj for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Aug 2007 19:34:06 -0400 (EDT)
+Received: from maggie.socallinuxexpo.org (maggie.socallinuxexpo.org
+	[205.147.45.172])
+	by menubar.gnome.org (Postfix) with ESMTP id 102233B007D
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Aug 2007 19:34:05 -0400 (EDT)
+Received: from garethgreenaway.ca.delsonmarketing.net
+	(h-72-245-253-10.lsanca54.covad.net [72.245.253.10])
+	(authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	l7LNXwmC032073
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Tue, 21 Aug 2007 16:34:00 -0700
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+Organization: Southern California Linux Expo
+To: gnome-women-list@mail.gnome.org
+Date: Tue, 21 Aug 2007 16:34:12 -0700
+User-Agent: KMail/1.9.6
+MIME-Version: 1.0
+Content-Type: text/plain;
+  charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+Message-Id: <200708211634.12929.g@socallinuxexpo.org>
+X-Virus-Scanned: ClamAV 0.91.1/4024/Tue Aug 21 15:11:35 2007 on maggie
+X-Virus-Status: Clean
+Subject: [gnome-women] SCALE 6x - Women in Open Source Call For Papers
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 21 Aug 2007 23:34:07 -0000
+
+The Linux Expo of Southern California is proud to announce their second Women 
+in Open Source Conference. The conference will be held on February 8th, 2008 
+in conjunction with the 6th Annual So Cal Linux Expo. 
+
+Continuing our efforts to encourage women of all ages to be a part of the free 
+and open source community, we invite you to showcase your work on Free and 
+Open Source projects. Join us in sharing your accomplishments, success 
+stories, and advancements. 
+
+Past attendees at this event have included women in technology, teachers, and 
+parents of young girls. 
+
+Widespread acceptance of the Linux Expo and participation by the user 
+community have established SCALE as the premiere Open Source conference in 
+the Southwest. 2008 marks the sixth year that SCALE has been engaging and 
+inspiring the open source community. Our event is uniquely community-based 
+and attracts a wide variety of sponsors, non-profit groups, user groups, and 
+attendees. 
+
+The Call For Papers for the Women In Open Source conference can be found here: 
+http://socallinuxexpo.org/scale6x/documents/scale6x-wios-cfp.pdf
+
+-- 
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+
+From mary@home.puzzling.org  Tue Aug 28 21:58:25 2007
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 017303B0087
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Aug 2007 21:58:25 -0400 (EDT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Score: 0.936
+X-Spam-Level: 
+X-Spam-Status: No, score=0.936 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001, FORGED_RCVD_HELO=0.135, L_P0F_UNKN=0.8]
+X-Amavis-OS-Fingerprint: UNKNOWN [S4:54:1:60:M1460,S,T,N,W4:.:?:?] (up: 1174
+	hrs), (link: ethernet/modem), [70.85.16.132]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id z41vtijHDBGr for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Aug 2007 21:58:21 -0400 (EDT)
+Received: from fuchsia.puzzling.org (fuchsia.puzzling.org [70.85.16.132])
+	by menubar.gnome.org (Postfix) with ESMTP id 391FE3B007C
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Aug 2007 21:58:20 -0400 (EDT)
+Received: from home.puzzling.org (86.228.233.220.exetel.com.au
+	[220.233.228.86])
+	by fuchsia.puzzling.org (Postfix) with ESMTP id D23001F476
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 29 Aug 2007 11:58:18 +1000 (EST)
+Received: from localhost (localhost [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id CA5C0788017
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 29 Aug 2007 11:58:17 +1000 (EST)
+X-Virus-Scanned: Debian amavisd-new at home.puzzling.org
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (home.puzzling.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id rYeKyz3wEsaN for <gnome-women-list@mail.gnome.org>;
+	Wed, 29 Aug 2007 11:58:17 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id A775D788002; Wed, 29 Aug 2007 11:58:17 +1000 (EST)
+Date: Wed, 29 Aug 2007 11:58:17 +1000
+From: Mary Gardiner <mary@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20070829015817.GQ28187@home.puzzling.org>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-Nihilism: Consistency is all I ask... Give us this day our daily mask.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.13 (2006-08-11)
+Subject: [gnome-women] LinuxChix Women's mini-conf (Melbourne,
+	Jan 2008): Call for Presentations
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 29 Aug 2007 01:58:25 -0000
+
+***   LinuxChix Womens’ mini-conf: Call for Presentations   ***
+
+The premier annual Linux and Open Source conference in Australia,
+linux.conf.au, is once again hosting a LinuxChix mini-conf. We are now calling
+for presentations by women on both Free Software technical topics and other
+topics of general interest to women involved in Free Software or working in IT.
+
+*About the mini-conf*
+
+The second annual LinuxChix women’s mini-conf will be held on either Monday the
+28th or Tuesday the 29th of January, 2008 (We don’t know which) at the
+University of Melbourne, as part of the annual linux.conf.au Free and Open
+Source Software conference running from 28th of January to the 2nd of February,
+2008. All attendees of linux.conf.au are welcome to attend the women’s
+mini-conf, which will highlight and celebrate the achievements of women in Free
+and Open Source Software. There is no need to be an active member of LinuxChix,
+as attendees and speakers from other women’s advocacy and development groups
+including Systers, project-specific women’s groups and others, are encouraged
+to participate.
+
+The mini-conf has both 50 minute and 25 minute talks slots available. We
+recommend that inexperienced Speakers opt for the shorter slots and plan to
+present for around 15 minutes; the remaining time will be devoted to
+discussion. Experienced speakers may choose to opt for a full 50 minute slot,
+and prepare to talk for 35-40 minutes. We reserve the right to request that 35
+minute presentations be shortened to 15 minutes to enable best use of the time
+we have.
+
+Abstracts for talk proposals should be submitted to - geekess :at:
+geekosophical :dot: net - by Midnight Sunday, October 15, 2007.
+
+There will also be some 10 minute (5 minutes talk, 5 minutes discussion)
+lightning talk slots available. These slots are ideal for first-time speakers
+or those who want to very quickly showcase a project.
+
+All talks should be on Free and Open Source Software related topics.
+
+Please see http://conf.au.linuxchix.org for more information about the women’s
+mini-conference and http://conf.au.linuxchix.org/CFP for full details of the
+call for presentations.
+
+Feel free to forward this announcement to any women or groups you think would
+be interested.
+
+About LinuxChix
+
+LinuxChix is a community for women who like Linux and Free Software, and for
+women and men who want to support women in computing. The membership ranges
+from novices to experienced users, and includes professional and amateur
+programmers, system administrators and technical writers.
+
+About linux.conf.au
+
+linux.conf.au (http://linux.conf.au/) is Australia’s annual technical
+conference on Free Software. Fun, informal and seriously technical,
+linux.conf.au draws together Free and Open Source Software developers from
+across the world. It will be held from January 28th to February 2nd, 2008 at
+The University of Melbourne.
+
+About Linux Australia
+
+Linux Australia (http://www.linux.org.au/) is the peak body for Linux User
+Groups (LUGs) around Australia, and as such represents approximately 5000
+Australian Linux users and developers. Linux Australia facilitates the
+organisation of this international Free Software conference in a different
+Australasian city each year.
+

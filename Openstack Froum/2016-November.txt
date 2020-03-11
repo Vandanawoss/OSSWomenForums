@@ -1,0 +1,1085 @@
+From carol.l.barrett at intel.com  Tue Nov  8 16:09:43 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Tue, 8 Nov 2016 16:09:43 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Confirming
+	Future Meeting Time
+Message-ID: <2D352D0CD819F64F9715B1B89695400D643EDC0D@ORSMSX113.amr.corp.intel.com>
+
+Hi All - Yes, it's that time of the year again, that undoubtedly will cause us some issues.
+
+I know we touched on this in Barcelona, but am not sure on the outcome.
+
+Are we:
+
+1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+
+2)      Are we sticking with the 1:00 Pacific time we've been meeting?
+
+
+Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me - and I'm guessing I'm not the only one.
+
+Thoughts?
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/32157ab2/attachment.html>
+
+From jessicak at us.ibm.com  Tue Nov  8 16:44:46 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Tue, 8 Nov 2016 16:44:46 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack]
+ Confirming	Future Meeting Time
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D643EDC0D@ORSMSX113.amr.corp.intel.com>
+Message-ID: <OF547A7328.F94D8063-ON00258065.005BFD5A-1478623486423@notes.na.collabserv.com>
+
+I vote 2000 UTC
+
+Jessica Murillo 
+512-970-8466
+Sent from my mobile phone 
+
+> On Nov 8, 2016, at 10:11 AM, Barrett, Carol L <carol.l.barrett at intel.com> wrote:
+> 
+> Hi All ? Yes, it?s that time of the year again, that undoubtedly will cause us some issues.
+>  
+> I know we touched on this in Barcelona, but am not sure on the outcome.
+> 
+> Are we:
+> 1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+> 2)      Are we sticking with the 1:00 Pacific time we?ve been meeting?
+>  
+>  
+> Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me ? and I?m guessing I?m not the only one.
+>  
+> Thoughts?
+> Carol
+>  
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/2bc1c195/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Tue Nov  8 16:46:41 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Tue, 8 Nov 2016 16:46:41 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack]
+	Confirming	Future Meeting Time
+In-Reply-To: <OF547A7328.F94D8063-ON00258065.005BFD5A-1478623486423@notes.na.collabserv.com>
+References: <2D352D0CD819F64F9715B1B89695400D643EDC0D@ORSMSX113.amr.corp.intel.com>,
+ <OF547A7328.F94D8063-ON00258065.005BFD5A-1478623486423@notes.na.collabserv.com>
+Message-ID: <12B30835-37D3-4DD5-A080-1C82C23A22FE@sandisk.com>
+
+Noon or 2000 works for me. Vote for this. Thanks Beth.
+
+Thank you,
+Nithya Ruff
+
+On Nov 8, 2016, at 8:45 AM, Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>> wrote:
+
+I vote 2000 UTC
+
+Jessica Murillo
+512-970-8466
+Sent from my mobile phone
+
+On Nov 8, 2016, at 10:11 AM, Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>> wrote:
+
+Hi All - Yes, it's that time of the year again, that undoubtedly will cause us some issues.
+
+I know we touched on this in Barcelona, but am not sure on the outcome.
+
+Are we:
+
+1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+
+2)      Are we sticking with the 1:00 Pacific time we've been meeting?
+
+
+Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me - and I'm guessing I'm not the only one.
+
+Thoughts?
+Carol
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/6ce8e366/attachment-0001.html>
+
+From beth.cohen at verizon.com  Tue Nov  8 17:09:58 2016
+From: beth.cohen at verizon.com (beth.cohen at verizon.com)
+Date: Tue, 8 Nov 2016 17:09:58 +0000
+Subject: [Women-of-openstack] [E] Women-of-openstack Digest,
+	WOS Meeting time
+Message-ID: <909cac32a59a4e4286130133e685d7ec@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+
+Folks -
+It looks like people want to change the time to keep it at 2000 UTC, which if I remember correctly, moves it to 4PM EST (not 3PM).  I am OK with that.
+
+
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com
+
+????
+
+
+
+-----Original Message-----
+From: women-of-openstack-request at lists.openstack.org [mailto:women-of-openstack-request at lists.openstack.org] 
+Sent: Tuesday, November 08, 2016 11:47 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [E] Women-of-openstack Digest, Vol 25, Issue 1
+
+Send Women-of-openstack mailing list submissions to
+	women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+	women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+	women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. [OpenStack][Women of OpenStack] Confirming	Future Meeting
+      Time (Barrett, Carol L)
+   2. Re: [OpenStack][Women of OpenStack] Confirming	Future Meeting
+      Time (Jessica Murillo)
+   3. Re: [OpenStack][Women of OpenStack]	Confirming	Future Meeting
+      Time (Nithya Ruff)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Tue, 8 Nov 2016 16:09:43 +0000
+From: "Barrett, Carol L" <carol.l.barrett at intel.com>
+To: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack]
+	Confirming	Future Meeting Time
+Message-ID:
+	<2D352D0CD819F64F9715B1B89695400D643EDC0D at ORSMSX113.amr.corp.intel.com>
+	
+Content-Type: text/plain; charset="us-ascii"
+
+Hi All - Yes, it's that time of the year again, that undoubtedly will cause us some issues.
+
+I know we touched on this in Barcelona, but am not sure on the outcome.
+
+Are we:
+
+1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+
+2)      Are we sticking with the 1:00 Pacific time we've been meeting?
+
+
+Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me - and I'm guessing I'm not the only one.
+
+Thoughts?
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/32157ab2/attachment-0001.html>
+
+------------------------------
+
+Message: 2
+Date: Tue, 8 Nov 2016 16:44:46 +0000
+From: "Jessica Murillo" <jessicak at us.ibm.com>
+To: "Barrett, Carol L" <carol.l.barrett at intel.com>
+Cc: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack]
+	Confirming	Future Meeting Time
+Message-ID:
+	<OF547A7328.F94D8063-ON00258065.005BFD5A-1478623486423 at notes.na.collabserv.com>
+	
+Content-Type: text/plain; charset="utf-8"
+
+I vote 2000 UTC
+
+Jessica Murillo
+512-970-8466
+Sent from my mobile phone 
+
+> On Nov 8, 2016, at 10:11 AM, Barrett, Carol L <carol.l.barrett at intel.com> wrote:
+> 
+> Hi All ? Yes, it?s that time of the year again, that undoubtedly will cause us some issues.
+>  
+> I know we touched on this in Barcelona, but am not sure on the outcome.
+> 
+> Are we:
+> 1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+> 2)      Are we sticking with the 1:00 Pacific time we?ve been meeting?
+>  
+>  
+> Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me ? and I?m guessing I?m not the only one.
+>  
+> Thoughts?
+> Carol
+>  
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/2bc1c195/attachment-0001.html>
+
+------------------------------
+
+Message: 3
+Date: Tue, 8 Nov 2016 16:46:41 +0000
+From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+To: Jessica Murillo <jessicak at us.ibm.com>
+Cc: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack]
+	Confirming	Future Meeting Time
+Message-ID: <12B30835-37D3-4DD5-A080-1C82C23A22FE at sandisk.com>
+Content-Type: text/plain; charset="us-ascii"
+
+Noon or 2000 works for me. Vote for this. Thanks Beth.
+
+Thank you,
+Nithya Ruff
+
+On Nov 8, 2016, at 8:45 AM, Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>> wrote:
+
+I vote 2000 UTC
+
+Jessica Murillo
+512-970-8466
+Sent from my mobile phone
+
+On Nov 8, 2016, at 10:11 AM, Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>> wrote:
+
+Hi All - Yes, it's that time of the year again, that undoubtedly will cause us some issues.
+
+I know we touched on this in Barcelona, but am not sure on the outcome.
+
+Are we:
+
+1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+
+2)      Are we sticking with the 1:00 Pacific time we've been meeting?
+
+
+Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me - and I'm guessing I'm not the only one.
+
+Thoughts?
+Carol
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/6ce8e366/attachment.html>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 25, Issue 1
+*************************************************
+
+
+From carol.l.barrett at intel.com  Tue Nov  8 17:27:26 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Tue, 8 Nov 2016 17:27:26 +0000
+Subject: [Women-of-openstack] [E] Women-of-openstack Digest,
+ WOS Meeting time
+In-Reply-To: <909cac32a59a4e4286130133e685d7ec@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+References: <909cac32a59a4e4286130133e685d7ec@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D643EDFAB@ORSMSX113.amr.corp.intel.com>
+
+Here's the tool I use to figure out timezones: http://www.worldtimebuddy.com/
+
+Based upon the tool and the email responses it looks like our meeting time for the Ocata cycle will be: 2000 UTC; Noon Pacific; 3 PM Eastern.
+
+Beth: Can you update the meeting invite you've sent out?
+
+Thanks
+Carol
+
+-----Original Message-----
+From: beth.cohen at verizon.com [mailto:beth.cohen at verizon.com] 
+Sent: Tuesday, November 08, 2016 9:10 AM
+To: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] [E] Women-of-openstack Digest, WOS Meeting time
+
+Folks -
+It looks like people want to change the time to keep it at 2000 UTC, which if I remember correctly, moves it to 4PM EST (not 3PM).  I am OK with that.
+
+
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com
+
+????
+
+
+
+-----Original Message-----
+From: women-of-openstack-request at lists.openstack.org [mailto:women-of-openstack-request at lists.openstack.org] 
+Sent: Tuesday, November 08, 2016 11:47 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [E] Women-of-openstack Digest, Vol 25, Issue 1
+
+Send Women-of-openstack mailing list submissions to
+	women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+	women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+	women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. [OpenStack][Women of OpenStack] Confirming	Future Meeting
+      Time (Barrett, Carol L)
+   2. Re: [OpenStack][Women of OpenStack] Confirming	Future Meeting
+      Time (Jessica Murillo)
+   3. Re: [OpenStack][Women of OpenStack]	Confirming	Future Meeting
+      Time (Nithya Ruff)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Tue, 8 Nov 2016 16:09:43 +0000
+From: "Barrett, Carol L" <carol.l.barrett at intel.com>
+To: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack]
+	Confirming	Future Meeting Time
+Message-ID:
+	<2D352D0CD819F64F9715B1B89695400D643EDC0D at ORSMSX113.amr.corp.intel.com>
+	
+Content-Type: text/plain; charset="us-ascii"
+
+Hi All - Yes, it's that time of the year again, that undoubtedly will cause us some issues.
+
+I know we touched on this in Barcelona, but am not sure on the outcome.
+
+Are we:
+
+1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+
+2)      Are we sticking with the 1:00 Pacific time we've been meeting?
+
+
+Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me - and I'm guessing I'm not the only one.
+
+Thoughts?
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/32157ab2/attachment-0001.html>
+
+------------------------------
+
+Message: 2
+Date: Tue, 8 Nov 2016 16:44:46 +0000
+From: "Jessica Murillo" <jessicak at us.ibm.com>
+To: "Barrett, Carol L" <carol.l.barrett at intel.com>
+Cc: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack]
+	Confirming	Future Meeting Time
+Message-ID:
+	<OF547A7328.F94D8063-ON00258065.005BFD5A-1478623486423 at notes.na.collabserv.com>
+	
+Content-Type: text/plain; charset="utf-8"
+
+I vote 2000 UTC
+
+Jessica Murillo
+512-970-8466
+Sent from my mobile phone 
+
+> On Nov 8, 2016, at 10:11 AM, Barrett, Carol L <carol.l.barrett at intel.com> wrote:
+> 
+> Hi All ? Yes, it?s that time of the year again, that undoubtedly will cause us some issues.
+>  
+> I know we touched on this in Barcelona, but am not sure on the outcome.
+> 
+> Are we:
+> 1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+> 2)      Are we sticking with the 1:00 Pacific time we?ve been meeting?
+>  
+>  
+> Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me ? and I?m guessing I?m not the only one.
+>  
+> Thoughts?
+> Carol
+>  
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/2bc1c195/attachment-0001.html>
+
+------------------------------
+
+Message: 3
+Date: Tue, 8 Nov 2016 16:46:41 +0000
+From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+To: Jessica Murillo <jessicak at us.ibm.com>
+Cc: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack]
+	Confirming	Future Meeting Time
+Message-ID: <12B30835-37D3-4DD5-A080-1C82C23A22FE at sandisk.com>
+Content-Type: text/plain; charset="us-ascii"
+
+Noon or 2000 works for me. Vote for this. Thanks Beth.
+
+Thank you,
+Nithya Ruff
+
+On Nov 8, 2016, at 8:45 AM, Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>> wrote:
+
+I vote 2000 UTC
+
+Jessica Murillo
+512-970-8466
+Sent from my mobile phone
+
+On Nov 8, 2016, at 10:11 AM, Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>> wrote:
+
+Hi All - Yes, it's that time of the year again, that undoubtedly will cause us some issues.
+
+I know we touched on this in Barcelona, but am not sure on the outcome.
+
+Are we:
+
+1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+
+2)      Are we sticking with the 1:00 Pacific time we've been meeting?
+
+
+Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me - and I'm guessing I'm not the only one.
+
+Thoughts?
+Carol
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/6ce8e366/attachment.html>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 25, Issue 1
+*************************************************
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+From jessicak at us.ibm.com  Tue Nov  8 18:08:35 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Tue, 8 Nov 2016 12:08:35 -0600
+Subject: [Women-of-openstack] [E] Women-of-openstack Digest,
+	WOS Meeting time
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D643EDFAB@ORSMSX113.amr.corp.intel.com>
+References: <909cac32a59a4e4286130133e685d7ec@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+ <2D352D0CD819F64F9715B1B89695400D643EDFAB@ORSMSX113.amr.corp.intel.com>
+Message-ID: <OFFCCC1254.27341AC4-ON00258065.00639E96-86258065.0063A9FD@notes.na.collabserv.com>
+
+
+Great -- I will update the Women of OpenStack wiki as well with the
+confirmed time & the timebuddy link.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	"Barrett, Carol L" <carol.l.barrett at intel.com>
+To:	"beth.cohen at verizon.com" <beth.cohen at verizon.com>,
+            "women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	11/08/2016 11:29 AM
+Subject:	Re: [Women-of-openstack] [E] Women-of-openstack Digest, WOS
+            Meeting time
+
+
+
+Here's the tool I use to figure out timezones:
+http://www.worldtimebuddy.com/
+
+Based upon the tool and the email responses it looks like our meeting time
+for the Ocata cycle will be: 2000 UTC; Noon Pacific; 3 PM Eastern.
+
+Beth: Can you update the meeting invite you've sent out?
+
+Thanks
+Carol
+
+-----Original Message-----
+From: beth.cohen at verizon.com [mailto:beth.cohen at verizon.com]
+Sent: Tuesday, November 08, 2016 9:10 AM
+To: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] [E] Women-of-openstack Digest, WOS
+Meeting time
+
+Folks -
+It looks like people want to change the time to keep it at 2000 UTC, which
+if I remember correctly, moves it to 4PM EST (not 3PM).  I am OK with that.
+
+
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com
+
+
+
+
+
+-----Original Message-----
+From: women-of-openstack-request at lists.openstack.org [
+mailto:women-of-openstack-request at lists.openstack.org]
+Sent: Tuesday, November 08, 2016 11:47 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [E] Women-of-openstack Digest, Vol 25, Issue 1
+
+Send Women-of-openstack mailing list submissions to
+		 women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+		 women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+		 women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific than
+"Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. [OpenStack][Women of OpenStack] Confirming		 Future Meeting
+      Time (Barrett, Carol L)
+   2. Re: [OpenStack][Women of OpenStack] Confirming		 Future Meeting
+      Time (Jessica Murillo)
+   3. Re: [OpenStack][Women of OpenStack]		 Confirming		 Future
+Meeting
+      Time (Nithya Ruff)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Tue, 8 Nov 2016 16:09:43 +0000
+From: "Barrett, Carol L" <carol.l.barrett at intel.com>
+To: "women-of-openstack at lists.openstack.org"
+		 <women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack]
+		 Confirming		 Future Meeting Time
+Message-ID:
+
+<2D352D0CD819F64F9715B1B89695400D643EDC0D at ORSMSX113.amr.corp.intel.com>
+
+Content-Type: text/plain; charset="us-ascii"
+
+Hi All - Yes, it's that time of the year again, that undoubtedly will cause
+us some issues.
+
+I know we touched on this in Barcelona, but am not sure on the outcome.
+
+Are we:
+
+1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+
+2)      Are we sticking with the 1:00 Pacific time we've been meeting?
+
+
+Not keeping UTC time will cause conflicts with other OpenStack Community
+meetings for me - and I'm guessing I'm not the only one.
+
+Thoughts?
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <
+http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/32157ab2/attachment-0001.html
+>
+
+------------------------------
+
+Message: 2
+Date: Tue, 8 Nov 2016 16:44:46 +0000
+From: "Jessica Murillo" <jessicak at us.ibm.com>
+To: "Barrett, Carol L" <carol.l.barrett at intel.com>
+Cc: "women-of-openstack at lists.openstack.org"
+		 <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack]
+		 Confirming		 Future Meeting Time
+Message-ID:
+
+<OF547A7328.F94D8063-ON00258065.005BFD5A-1478623486423 at notes.na.collabserv.com>
+
+
+Content-Type: text/plain; charset="utf-8"
+
+I vote 2000 UTC
+
+Jessica Murillo
+512-970-8466
+Sent from my mobile phone
+
+> On Nov 8, 2016, at 10:11 AM, Barrett, Carol L <carol.l.barrett at intel.com>
+wrote:
+>
+> Hi All ? Yes, it?s that time of the year again, that undoubtedly will
+cause us some issues.
+>
+> I know we touched on this in Barcelona, but am not sure on the outcome.
+>
+> Are we:
+> 1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+> 2)      Are we sticking with the 1:00 Pacific time we?ve been meeting?
+>
+>
+> Not keeping UTC time will cause conflicts with other OpenStack Community
+meetings for me ? and I?m guessing I?m not the only one.
+>
+> Thoughts?
+> Carol
+>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <
+http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/2bc1c195/attachment-0001.html
+>
+
+------------------------------
+
+Message: 3
+Date: Tue, 8 Nov 2016 16:46:41 +0000
+From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+To: Jessica Murillo <jessicak at us.ibm.com>
+Cc: "women-of-openstack at lists.openstack.org"
+		 <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack]
+		 Confirming		 Future Meeting Time
+Message-ID: <12B30835-37D3-4DD5-A080-1C82C23A22FE at sandisk.com>
+Content-Type: text/plain; charset="us-ascii"
+
+Noon or 2000 works for me. Vote for this. Thanks Beth.
+
+Thank you,
+Nithya Ruff
+
+On Nov 8, 2016, at 8:45 AM, Jessica Murillo <jessicak at us.ibm.com<
+mailto:jessicak at us.ibm.com>> wrote:
+
+I vote 2000 UTC
+
+Jessica Murillo
+512-970-8466
+Sent from my mobile phone
+
+On Nov 8, 2016, at 10:11 AM, Barrett, Carol L <carol.l.barrett at intel.com<
+mailto:carol.l.barrett at intel.com>> wrote:
+
+Hi All - Yes, it's that time of the year again, that undoubtedly will cause
+us some issues.
+
+I know we touched on this in Barcelona, but am not sure on the outcome.
+
+Are we:
+
+1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+
+2)      Are we sticking with the 1:00 Pacific time we've been meeting?
+
+
+Not keeping UTC time will cause conflicts with other OpenStack Community
+meetings for me - and I'm guessing I'm not the only one.
+
+Thoughts?
+Carol
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<
+mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is
+intended only for the use of the designated recipient(s) named above. If
+the reader of this message is not the intended recipient, you are hereby
+notified that you have received this message in error and that any review,
+dissemination, distribution, or copying of this message is strictly
+prohibited. If you have received this communication in error, please notify
+the sender by telephone or e-mail (as shown above) immediately and destroy
+any and all copies of this message in your possession (whether hard copies
+or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <
+http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/6ce8e366/attachment.html
+>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 25, Issue 1
+*************************************************
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/5c72916b/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/5c72916b/attachment-0001.gif>
+
+From Amy.Marrich at rackspace.com  Tue Nov  8 18:31:59 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Tue, 8 Nov 2016 18:31:59 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Confirming
+ Future Meeting Time
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D643EDC0D@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D643EDC0D@ORSMSX113.amr.corp.intel.com>
+Message-ID: <D44775F6.22BCD%amy.marrich@rackspace.com>
+
+I'm good with staying with our current time. I'll just need to change my 1x1:)
+
+From: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Tuesday, November 8, 2016 at 10:09 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Confirming Future Meeting Time
+
+Hi All - Yes, it's that time of the year again, that undoubtedly will cause us some issues.
+
+I know we touched on this in Barcelona, but am not sure on the outcome.
+
+Are we:
+
+1)      Keeping with 2000 UTC time (which is now Noon Pacific) OR
+
+2)      Are we sticking with the 1:00 Pacific time we've been meeting?
+
+
+Not keeping UTC time will cause conflicts with other OpenStack Community meetings for me - and I'm guessing I'm not the only one.
+
+Thoughts?
+Carol
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161108/22b5a81e/attachment.html>
+
+From aimeeu.opensource at gmail.com  Wed Nov  9 14:09:34 2016
+From: aimeeu.opensource at gmail.com (Aimee Ukasick)
+Date: Wed, 9 Nov 2016 08:09:34 -0600
+Subject: [Women-of-openstack] [E] Women-of-openstack Digest,
+ WOS Meeting time
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D643EDFAB@ORSMSX113.amr.corp.intel.com>
+References: <909cac32a59a4e4286130133e685d7ec@OMZP1LUMXCA08.uswin.ad.vzwcorp.com>
+ <2D352D0CD819F64F9715B1B89695400D643EDFAB@ORSMSX113.amr.corp.intel.com>
+Message-ID: <89e750de-da55-f751-1c01-394a5af01397@gmail.com>
+
+With the US time change, I now have a conflict with the WOO meetings  at
+2000 UTC (3 EST/2CST/1MST/12PST). I have a standing, biweekly, internal
+meeting at 3Eastern/2Central/1Mountain/NoonPacific (11/14, 11/28, 12/12,
+etc), so since I haven't yet mastered being on 2 audio conferences at
+once, I will miss most of the WOO meetings until US Daylight Savings
+Time starts next Spring.
+
+Aimee Ukasick - AT&T Open Source
+
+On 11/8/16 11:27, Barrett, Carol L wrote:
+> Here's the tool I use to figure out timezones: http://www.worldtimebuddy.com/
+> 
+> Based upon the tool and the email responses it looks like our meeting time for the Ocata cycle will be: 2000 UTC; Noon Pacific; 3 PM Eastern.
+> 
+> Beth: Can you update the meeting invite you've sent out?
+> 
+> Thanks
+> Carol
+> 
+> -----Original Message-----
+> From: beth.cohen at verizon.com [mailto:beth.cohen at verizon.com] 
+> Sent: Tuesday, November 08, 2016 9:10 AM
+> To: women-of-openstack at lists.openstack.org
+> Subject: Re: [Women-of-openstack] [E] Women-of-openstack Digest, WOS Meeting time
+> 
+> Folks -
+> It looks like people want to change the time to keep it at 2000 UTC, which if I remember correctly, moves it to 4PM EST (not 3PM).  I am OK with that.
+> 
+> 
+> 
+> 
+> Beth Cohen
+> NFV/SDN Network Product Strategy
+> 
+> O +781-466-2055 | M +781-434-8553
+> beth.cohen at verizon.com
+> 
+>     
+
+
+
+From jessicak at us.ibm.com  Mon Nov 14 16:58:49 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 14 Nov 2016 10:58:49 -0600
+Subject: [Women-of-openstack] Monday, Nov 14 WOO meeting at 2000 UTC
+Message-ID: <OF764B46B6.7502D309-ON0025806B.005CD171-8625806B.005D46BD@notes.na.collabserv.com>
+
+
+
+Please join us for today's Women of OpenStack meeting at 2000 UTC or Noon
+Pacific; 2 PM Central; 3 PM Eastern - to find your correct time use
+http://www.worldtimebuddy.com/
+
+Dial In: 1-203-277-8157 or 866-619-0383 Participant: 7217256# Leader 4018#
+
+https://etherpad.openstack.org/p/WOS_11_14_16
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161114/44e2752d/attachment.html>
+
+From jessicak at us.ibm.com  Tue Nov 15 03:28:32 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 14 Nov 2016 21:28:32 -0600
+Subject: [Women-of-openstack] Recap from today's  Monday,
+ Nov 14 WOO meeting at 2000 UTC
+Message-ID: <OFBDEC6235.9650029F-ON0025806C.0011CE3B-8625806C.0013178E@notes.na.collabserv.com>
+
+
+
+Please look at the etherpad notes from today's WOO discussion and add your
+comments: https://etherpad.openstack.org/p/WOS_11_14_16
+
+We had a quick recap of the Barcelona WOO events and would like everyone to
+have the opportunity to add their feedback on what worked well and what we
+aspire to change to make the events even more successful.
+
+In addition, I have included the results from our recent WOO demographic
+survey along with the charts used during our lightening talk sessions in
+Barcelona.
+(See attached file: 2016_OpenStack_Barcelona_WOO_Final.pdf)
+
+Going forward, at least one of our WOO meetings a month will have a speaker
+and we'll be recording and publishing the sessions.
+
+We also discussed upcoming events including the OpenStack Days Mountain
+West (Dec 7 & 8) in Salt Lake City. The organizers are looking for
+additional sponsors and there are discount codes available for attendees.
+
+Our next meeting on November 28 will be chaired by Amy Marrich.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+----- Forwarded by Jessica Murillo/Austin/IBM on 11/14/2016 09:14 PM -----
+
+From:	Jessica Murillo/Austin/IBM at IBMUS
+To:	women-of-openstack at lists.openstack.org
+Date:	11/14/2016 11:00 AM
+Subject:	[Women-of-openstack] Monday, Nov 14 WOO meeting at 2000 UTC
+
+
+
+Please join us for today's Women of OpenStack meeting at 2000 UTC or Noon
+Pacific; 2 PM Central; 3 PM Eastern - to find your correct time use
+http://www.worldtimebuddy.com/
+
+Dial In: 1-203-277-8157 or 866-619-0383 Participant: 7217256# Leader 4018#
+
+https://etherpad.openstack.org/p/WOS_11_14_16
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161114/9b13e0a7/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 2016_OpenStack_Barcelona_WOO_Final.pdf
+Type: application/pdf
+Size: 13085045 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161114/9b13e0a7/attachment-0001.pdf>
+
+From Amy.Marrich at rackspace.com  Tue Nov 22 21:38:42 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Tue, 22 Nov 2016 21:38:42 +0000
+Subject: [Women-of-openstack] Women of Openstack Meeting Reminder
+Message-ID: <D45A1727.232FF%amy.marrich@rackspace.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the meeting will be this coming Monday, 11/28 at 12pm PST, 2pm CST and 3pm EST.
+
+Dial-in info is: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_11_28_16 and if you would like to add something to the agenda please do so.
+
+This will be a great meeting with our first presentation, Getting started in OpenStack by Emily Wilson of Tesora.
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20161122/b0ef8b29/attachment.html>
+
+From gema at ggomez.me  Wed Nov 23 11:09:01 2016
+From: gema at ggomez.me (Gema Gomez)
+Date: Wed, 23 Nov 2016 11:09:01 +0000
+Subject: [Women-of-openstack] Women of Openstack Meeting Reminder
+In-Reply-To: <D45A1727.232FF%amy.marrich@rackspace.com>
+References: <D45A1727.232FF%amy.marrich@rackspace.com>
+Message-ID: <04281932-43de-1ce0-1ae2-a606aceaccf9@ggomez.me>
+
+Hi everyone,
+
+I have been wanting to send this email for a while but never got around
+to it. I would like to attend the women of openstack meeting every now
+and then but I have two problems with it:
+
+- Time: it is 8pm UTC, which is way too late in the evening for Europe
+people in general to be able to realistically attend regularly. The time
+is also not very Asia friendly. Maybe some people can get up early and
+attend due to this time.
+- Dial-in: US centric. Is there any way to make this an IRC meeting or
+if there is a call that this call also allows for people from outside
+the US to log into it, maybe a google hangout or similar?
+
+Apologies if you have already discussed this, you probably do on regular
+basis. If I am the only one in this situation it is fine I will keep
+reading the mailing and attending the Women of OpenStack ODS events as I
+have done until now, I wonder if there are more people out there unable
+to attend due to this.
+
+Cheers,
+Gema
+
+On 22/11/16 21:38, Amy Marrich wrote:
+> Hey everyone,
+> 
+> Just wanted to remind everyone the meeting will be this coming Monday,
+> 11/28 at 12pm PST, 2pm CST and 3pm EST.  
+> 
+> Dial-in info is: 1-203-277-8157 or _866-619-0383  Participant:
+> 7217256__#_Leader 4018#
+> 
+> Etherpad is at https://etherpad.openstack.org/p/WOS_11_28_16 and if you
+> would like to add something to the agenda please do so.
+> 
+> This will be a great meeting with our first presentation, Getting
+> started in OpenStack by Emily Wilson of Tesora.
+> 
+> Thanks,
+> 
+> Amy
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+
+

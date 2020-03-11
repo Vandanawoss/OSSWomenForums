@@ -1,0 +1,27 @@
+From speakers at ohiolinux.org  Sun Apr 30 01:42:24 2017
+From: speakers at ohiolinux.org (speakers at ohiolinux.org)
+Date: Sat, 29 Apr 2017 19:42:24 -0600 (MDT)
+Subject: Ohio LinuxFest 2017 Call for Presentations
+Message-ID: <20170430014224.4989621173@nyx.nyx.net>
+
+The 2017 Ohio LinuxFest is looking for presentations on Friday and
+Saturday, September 29 and 30.  Please visit the CFP page
+<https://ohiolinux.org/call-for-presentations/> for full details
+about submitting a proposal.  The deadline is Friday, July 14, but
+the sooner you can submit a talk, the better.
+
+Started in 2003, the Ohio LinuxFest <https://ohiolinux.org/> is an
+annual grassroots conference in Columbus, Ohio dedicated to open
+access for all.  Presentations relating to any free and open source
+software, not just Linux, are welcome.  Areas where we've had talks in
+the past include networking, system administration, development, and
+community building.
+
+Our audience consists of people at all skill levels.  Prior speaking
+experience is a plus, although we do try to provide opportunities for
+first-time speakers.  If you have any questions, please contact us at
+<speakers at ohiolinux.org>.  We look forward to hearing from you!
+
+Vance Kochenderfer
+Speaker Chair, 2017 Ohio LinuxFest
+

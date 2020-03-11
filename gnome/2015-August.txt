@@ -1,0 +1,98 @@
+From rosannayuen@gmail.com  Tue Aug  4 15:25:55 2015
+Return-Path: <rosannayuen@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 51C4C76936
+	for <gnome-women-list@gnome.org>; Tue,  4 Aug 2015 15:25:55 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id bzMbqvg1RVCy for <gnome-women-list@gnome.org>;
+	Tue,  4 Aug 2015 15:25:54 +0000 (UTC)
+Received: from mail-ob0-f180.google.com (mail-ob0-f180.google.com
+	[209.85.214.180])
+	by restaurant.gnome.org (Postfix) with ESMTP id A8AC97684A
+	for <gnome-women-list@gnome.org>; Tue,  4 Aug 2015 15:25:54 +0000 (UTC)
+Received: by obnw1 with SMTP id w1so9609202obn.3
+	for <gnome-women-list@gnome.org>; Tue, 04 Aug 2015 08:25:53 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:sender:date:message-id:subject:from:to:content-type;
+	bh=cogJaZzHWYTo6Z3NB23J4mGn0RxMltxdh2kzQmyVy0Q=;
+	b=UFUejE0dFiv1dIv0x6mqobjfJPQ7gdjM+Q+x16DXeMaYJaozlmAhK+8Q+UKXoKGUVL
+	JpE6rzew4ZY0CyOWhz5kzN+csfFRhpvSyUgzQA+DGKegeTkt3DkFhT2giDuIdVoYgE+t
+	lqbqukT4H0oyOLeyauXlO6IMlz78ul6fAtA2Pjkmy2kv5+3RrJURaNZz8eOf1k7XeHZm
+	iYkX4OLlUbO+UPeiuLevEfj5X/EDYHDI9/AJ6Zpf91hj4BqF1nrMABmFgOBuusCg9RJV
+	ebnGOobfEXwOox5Z7YUndtLpzqukQeso3Wi3QVeeWrKBbP9RwSMxLJaNHgToI7+paPB3
+	E2Ug==
+MIME-Version: 1.0
+X-Received: by 10.60.69.39 with SMTP id b7mr3522648oeu.51.1438701952995; Tue,
+	04 Aug 2015 08:25:52 -0700 (PDT)
+Sender: rosannayuen@gmail.com
+Received: by 10.202.213.83 with HTTP; Tue, 4 Aug 2015 08:25:52 -0700 (PDT)
+Date: Tue, 4 Aug 2015 08:25:52 -0700
+X-Google-Sender-Auth: znCQBiLylyHcrQv_rS4aY89kaTg
+Message-ID: <CAFd-mVKw5NzVehJAjDT-MaMXPsmukfPkdmUsLzMo0i6dHtmGjA@mail.gmail.com>
+From: Rosanna Yuen <zana@gnome.org>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Content-Type: multipart/alternative; boundary=001a11330e68d896c0051c7de6d2
+Subject: [gnome-women] Women's Dinner at GUADEC Saturday, August 8
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 04 Aug 2015 15:25:55 -0000
+
+--001a11330e68d896c0051c7de6d2
+Content-Type: text/plain; charset=UTF-8
+
+Hi,
+
+The sixth annual women's dinner at GUADEC will happen on Saturday, August
+8th.  If you would like to attend, please add your name at
+https://wiki.gnome.org/GUADEC/2015/WomensDinner so that we can reserve an
+appropriately-sized table.  Please forward the information about the dinner
+along to women you meet at GUADEC who may not be on this list.
+
+Thanks,
+Rosanna
+
+
+-- 
+Rosanna Yuen
+Director of Operations
+GNOME Foundation, Inc.
+
+--001a11330e68d896c0051c7de6d2
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi,=C2=A0<div><br></div><div>The sixth annual women&#39;s =
+dinner at GUADEC will happen on Saturday, August 8th.=C2=A0 If you would li=
+ke to attend, please add your name at <a href=3D"https://wiki.gnome.org/GUA=
+DEC/2015/WomensDinner">https://wiki.gnome.org/GUADEC/2015/WomensDinner</a> =
+so that we can reserve an appropriately-sized table.=C2=A0 Please forward t=
+he information about the dinner along to women you meet at GUADEC who may n=
+ot be on this list.</div><div><br></div><div>Thanks,</div><div>Rosanna</div=
+><div><br></div><div><br></div><div>-- <br><div class=3D"gmail_signature"><=
+div dir=3D"ltr">Rosanna Yuen<div>Director of Operations</div><div>GNOME Fou=
+ndation, Inc.</div></div></div>
+</div></div>
+
+--001a11330e68d896c0051c7de6d2--

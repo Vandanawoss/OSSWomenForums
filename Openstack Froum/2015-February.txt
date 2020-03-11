@@ -1,0 +1,394 @@
+From ushnishtha at hotmail.com  Tue Feb  3 04:14:03 2015
+From: ushnishtha at hotmail.com (Egle Sigler)
+Date: Mon, 2 Feb 2015 22:14:03 -0600
+Subject: [Women-of-openstack] Call For Speakers: OpenStack Summit and
+ vBrownBag Tech Talks in Vancouver
+Message-ID: <BAY173-W2588EF0865A3DDD27AD90C03D0@phx.gbl>
+
+Hello Everyone,
+
+In addition to the OpenStack Summit call for speakers, https://www.openstack.org/summit/vancouver-2015/call-for-speakers/ there is also a call for speakers for tech talks at vBrownBag. 
+
+
+
+This is going to be a third summit for vBrownBag and they would like to 
+have a day filled with women speakers. TechTalks are ten minute 
+presentations about some aspect of technology. TechTalks are delivered 
+at a major conference. They allow a focused look at a specific project, 
+feature or technique. Presenters are usually the engineers or developers
+ who built what they present. They have the deep knowledge without the 
+marketing. All of the presentations are recorded and posted to YouTube, 
+often we also live stream from the conference.
+
+
+
+Find out more and submit a tech talk here: http://openstack.prov12n.com/vbrownbag-techtalks-in-vancouver/
+
+Thank you,
+Egle Sigler
+
+
+
+ 		 	   		  
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150202/52b7c3aa/attachment.html>
+
+From nikacost at cisco.com  Tue Feb  3 19:30:47 2015
+From: nikacost at cisco.com (Niki Acosta (nikacost))
+Date: Tue, 3 Feb 2015 19:30:47 +0000
+Subject: [Women-of-openstack] Pro tips for writing a killer OpenStack
+	abstract!
+Message-ID: <D0F67E09.85B7%nikacost@cisco.com>
+
+Hello, wonderful Women of OpenStack!
+
+A couple of weeks ago, myself (@nikiacosta), Diane Mueller (@pythondj), and Anne Gentle (@annegentle) hosted a webinar on How to Craft a Successful OpenStack Summit Proposal. This was a result of a blueprint session led by Jessica Murillo (@jess1camurillo) in conjunction with the Women of OpenStack.<https://www.linkedin.com/groups/Women-OpenStack-WOS-4681909?home=&gid=4681909&trk=anet_ug_hm> Our goal was to help more women submit great abstracts and get speaking slots in Vancouver.
+
+With the deadline less than a week away on February 9th, we wanted to share the writeup from SuperUser<http://superuser.openstack.org/>, the OpenStack foundation?s website dedicated to sharing stories of OpenStack users from around the globe. Check out the write up<http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal> which includes links to sample abstracts, and useful information for first-time submitters and veterans alike. Or, if you have time, view the recorded presentation<http://youtu.be/CxFYNZ4jqik>.
+
+Still need help with your idea/title/abstract? Email this list and we?ll be happy to help! We hope to see you all on stage in Vancouver!
+
+
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150203/eacedd7f/attachment.html>
+
+From johanna.heinonen at nsn.com  Wed Feb  4 10:45:49 2015
+From: johanna.heinonen at nsn.com (Heinonen, Johanna (NSN - FI/Espoo))
+Date: Wed, 4 Feb 2015 10:45:49 +0000
+Subject: [Women-of-openstack] Call to Action: Feb 9 Deadline for
+ Vancouver OpenStack Summit speakers
+In-Reply-To: <CAPGMpJ=_0zCBbU4TLZAdvNxH29NokiUmKpAkNGkiPoUZOHAovg@mail.gmail.com>
+References: <OF171B3C79.EEB7A73D-ON87257DDC.00737E66-06257DDC.00769025@us.ibm.com>
+ <CAPGMpJ=_0zCBbU4TLZAdvNxH29NokiUmKpAkNGkiPoUZOHAovg@mail.gmail.com>
+Message-ID: <6D3A69D40E8F434CB54FD55BE4FF58D3252D434A@DEMUMBX002.nsn-intra.net>
+
+Hi all,
+
+Thanks for the support and valuable tips.
+Encouraged by this I have submitted my first proposal: ?SDN-based applications in OpenStack?.
+Let?s see how it goes?
+
+
+Regards,
+Johanna
+
+
+From: ext Rainya Mosher [mailto:rainya.mosher at gmail.com]
+Sent: Friday, January 30, 2015 12:07 AM
+To: Jessica Murillo
+Cc: women-of-openstack
+Subject: Re: [Women-of-openstack] Call to Action: Feb 9 Deadline for Vancouver OpenStack Summit speakers
+
+
+Thank you for the encouragement, Jessica! Next week I'm going heads down for proposal writing for my own and some co-workers talks. I have a good track record and getting acceptance (so far!), so I'm happy to read and offer feedback to anyone who wants it. I'm sure there are others who feel the same way and would love to help however we can.
+Cheers and have a great Thursday,
+
+
+Rainya
+210.316.5065
+Not all of us can save the world. Some of us have to make it worth saving. - RFM
+
+On Thu, Jan 29, 2015 at 3:34 PM, Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>> wrote:
+
+February 9 is the deadline for submitting your talk proposal for the May 2015 OpenStack Summit in Vancouver. If you haven't submitted a proposal yet, here is an excellent article describing how you can get started today: http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal
+
+I encourage you to use the Women of OpenStack mailing list if you:
+ ... have questions on how to submit your proposal
+... are looking for co-presenters
+... want some quick feedback (thumbs up/thumbs down) on your idea
+
+Looking forward to the conversation ...
+
+Jessica Murillo
+Vice President, Strategy and Cloud
+IBM Systems
+Office Phone: 512-286-7691<tel:512-286-7691>, T/L: 363-7691
+Mobile Phone: 512-970-8466<tel:512-970-8466>
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150204/67923617/attachment.html>
+
+From jessicak at us.ibm.com  Wed Feb  4 15:04:03 2015
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Wed, 4 Feb 2015 09:04:03 -0600
+Subject: [Women-of-openstack] Call to Action: Feb 9 Deadline for
+ Vancouver OpenStack Summit speakers
+In-Reply-To: <6D3A69D40E8F434CB54FD55BE4FF58D3252D434A@DEMUMBX002.nsn-intra.net>
+References: <OF171B3C79.EEB7A73D-ON87257DDC.00737E66-06257DDC.00769025@us.ibm.com>
+ <CAPGMpJ=_0zCBbU4TLZAdvNxH29NokiUmKpAkNGkiPoUZOHAovg@mail.gmail.com>
+ <6D3A69D40E8F434CB54FD55BE4FF58D3252D434A@DEMUMBX002.nsn-intra.net>
+Message-ID: <OFC46CA1D4.17AC2A6B-ON87257DE2.00522CFE-06257DE2.0052CA67@us.ibm.com>
+
+That is great news -- I'm hoping other women on this mailing list see this
+post and this encourages them to get started too! 5 more days until the
+deadline.
+
+Jessica Murillo
+Vice President, Strategy and Cloud
+IBM Systems
+Office Phone: 512-286-7691, T/L: 363-7691
+Mobile Phone: 512-970-8466
+jessicak at us.ibm.com
+
+
+
+From:	"Heinonen, Johanna (NSN - FI/Espoo)" <johanna.heinonen at nsn.com>
+To:	ext Rainya Mosher <rainya.mosher at gmail.com>, Jessica
+            Murillo/Austin/IBM at IBMUS,
+Cc:	women-of-openstack <women-of-openstack at lists.openstack.org>
+Date:	02/04/2015 04:45 AM
+Subject:	RE: [Women-of-openstack] Call to Action: Feb 9 Deadline for
+            Vancouver OpenStack Summit speakers
+
+
+
+Hi all,
+
+Thanks for the support and valuable tips.
+Encouraged by this I have submitted my first proposal: ?SDN-based
+applications in OpenStack?.
+Let?s see how it goes?
+
+
+Regards,
+Johanna
+
+
+From: ext Rainya Mosher [mailto:rainya.mosher at gmail.com]
+Sent: Friday, January 30, 2015 12:07 AM
+To: Jessica Murillo
+Cc: women-of-openstack
+Subject: Re: [Women-of-openstack] Call to Action: Feb 9 Deadline for
+Vancouver OpenStack Summit speakers
+
+
+Thank you for the encouragement, Jessica! Next week I'm going heads down
+for proposal writing for my own and some co-workers talks. I have a good
+track record and getting acceptance (so far!), so I'm happy to read and
+offer feedback to anyone who wants it. I'm sure there are others who feel
+the same way and would love to help however we can.
+Cheers and have a great Thursday,
+
+
+Rainya
+210.316.5065
+Not all of us can save the world. Some of us have to make it worth saving.
+- RFM
+
+On Thu, Jan 29, 2015 at 3:34 PM, Jessica Murillo <jessicak at us.ibm.com>
+wrote:
+
+
+February 9 is the deadline for submitting your talk proposal for the May
+2015 OpenStack Summit in Vancouver. If you haven't submitted a proposal
+yet, here is an excellent article describing how you can get started today:
+http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal
+
+
+I encourage you to use the Women of OpenStack mailing list if you:
+ ... have questions on how to submit your proposal
+... are looking for co-presenters
+... want some quick feedback (thumbs up/thumbs down) on your idea
+
+Looking forward to the conversation ...
+
+Jessica Murillo
+Vice President, Strategy and Cloud
+IBM Systems
+Office Phone: 512-286-7691, T/L: 363-7691
+Mobile Phone: 512-970-8466
+jessicak at us.ibm.com
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150204/d138d1c3/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150204/d138d1c3/attachment.gif>
+
+From kathyc at openstack.org  Tue Feb 10 22:07:14 2015
+From: kathyc at openstack.org (Kathy Cacciatore)
+Date: Tue, 10 Feb 2015 16:07:14 -0600 (CST)
+Subject: [Women-of-openstack] Supercomputing 2015 Call for Presentations
+	Deadlines Coming Up
+Message-ID: <1423606034.972621527@mail.openstack.org>
+
+
+Now that you've all submitted your Vancouver Summit talks... 
+ 
+OpenStack would like to participate in the Supercomputing 2015 event in Austin November 15-19.  HPC/Research is a strong workload for OpenStack with many users such as CERN, Argonne National Laboratories, NeCTAR at the University of Melbourne and many more.  We encourage OpenStack users to share the benefits you've gained from cloud computing on the conference agenda.  Please let me know if you are accepted to present or planning to attend.  Here are the submission links and deadlines for your convenience.  Thank you.
+List of[  important dates ]( http://sc15.supercomputing.org/important-dates ).
+[ Invited talk ]( http://sc15.supercomputing.org/program/invited-talks ) proposals are due on February 16.  
+[ Tutorial ]( http://sc15.supercomputing.org/tutorial-submissions ) submissions due March 31.
+[ Paper ]( http://sc15.supercomputing.org/program/technical-papers/ ) submissions due April 3.
+[ Panel ]( http://sc15.supercomputing.org/program/panels ) submissions due April 25.
+[ Posters ]( http://sc15.supercomputing.org/program/posters ), [ Birds-of-a Feather ]( http://sc15.supercomputing.org/program/birds-feather-sessions-bofs ), [ Emerging Technologies ]( http://sc15.supercomputing.org/program/emerging-technologies ), and [ Scientific Visualization and Data Analytics ]( http://sc15.supercomputing.org/program/scientific-visualization-showcase ) submissions are due July 31.  
+[ Award nomination ]( http://sc15.supercomputing.org/program/awards ) deadlines range from April 24-July 1.
+All of the above use a common [ web submission form ]( https://submissions.supercomputing.org/ ).
+
+Regards, 
+
+Kathy Cacciatore
+Consulting Marketing Manager
+OpenStack Foundation
+1-512-970-2807 (mobile)
+Part time: Monday - Thursday, 9am - 2pm US CT
+kathyc at openstack.org
+
+ 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150210/c4ca196b/attachment.html>
+
+From jeanne.colon-bonet at hp.com  Tue Feb 17 00:28:50 2015
+From: jeanne.colon-bonet at hp.com (Colon-Bonet, Jeanne)
+Date: Tue, 17 Feb 2015 00:28:50 +0000
+Subject: [Women-of-openstack] Session voting - Crafting Unforgettable Events
+ & Meetups for Developers
+Message-ID: <40C0F0AB86AB6545A465ABE578B8D83A08674F40@G2W2433.americas.hpqcorp.net>
+
+Hello Women of OpenStack-
+
+Session voting is now open for the OpenStack Vancouver Summit.  VOTE HERE<http://www.openstack.org/vote-vancouver>.
+
+We created a panel "Crafting Unforgettable Events & Meetups for Developers" with Angela Brown (Senior Director of Events), Sharon Cordesse (Strategic Accounts Manager), Theresa Huth (Software Development Manager), and Jeanne Colon-Bonet (Program Manager, Messaging and Outreach)
+
+If you search for "Meetups" our panel will be easy to find.
+
+Please join me in voting for a session that is sure to be an experience for all attendees!
+Thank-you for your consideration and your help in creating this panel, Jeanne.
+
+
+Jeanne Colon-Bonet
+Program Manager, Messaging & Outreach
+
+jeanne.colon-bonet at hp.com<mailto:jeanne.colon-bonet at hp.com>
+T +1 970 898-1646
+Hewlett-Packard Company
+3400 E Harmony Road
+Fort Collins, CO 80528
+USA
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150217/98897c6b/attachment.html>
+
+From sayali.92720 at gmail.com  Wed Feb 18 18:58:24 2015
+From: sayali.92720 at gmail.com (Sayali Lunkad)
+Date: Thu, 19 Feb 2015 00:28:24 +0530
+Subject: [Women-of-openstack] Training-guides session at Vancouver
+Message-ID: <CAObJ2cG9WSJJg2BuEWiAoJ+RUkCOoDj7OsQKcaMS94=Q+f-GQg@mail.gmail.com>
+
+Hey guys,
+
+My team and I have submitted a session for the Vancouver summit. It would
+be awesome if you could give your vote to our session to help it get
+selected if you think it would do good for the community.
+
+Community OpenStack Training Wants to Come a User Group Near You! submitted
+by Sean Roberts ( Speakers: Sean Roberts, Stefano Maffulli, Loic Dachary,
+Sayali Lunkad, Pranav Salunke )
+
+   -
+   https://www.openstack.org/vote-vancouver/Presentation/community-openstack-training-wants-to-come-a-user-group-near-you
+
+*Community voting ends Monday, February 23 at 5pm CT*. After the voting
+concludes, the OpenStack Summit Track Chairs will review all the
+submissions and make final selections.
+
+Thank you in advance!
+
+Regards,
+
+Sayali.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150219/326cf9a8/attachment.html>
+
+From victoria at redhat.com  Fri Feb 20 13:15:58 2015
+From: victoria at redhat.com (Victoria =?utf-8?Q?Mart=C3=ADnez?= de la Cruz)
+Date: Fri, 20 Feb 2015 08:15:58 -0500 (EST)
+Subject: [Women-of-openstack] Training-guides session at Vancouver
+In-Reply-To: <CAObJ2cG9WSJJg2BuEWiAoJ+RUkCOoDj7OsQKcaMS94=Q+f-GQg@mail.gmail.com>
+References: <CAObJ2cG9WSJJg2BuEWiAoJ+RUkCOoDj7OsQKcaMS94=Q+f-GQg@mail.gmail.com>
+Message-ID: <514869080.3177776.1424438158396.JavaMail.zimbra@redhat.com>
+
+Hi Sayali!
+
+That is great! I'd totally love to see it :)
+
+Cheers,
+
+Victoria
+
+----- Original Message -----
+From: "Sayali Lunkad" <sayali.92720 at gmail.com>
+To: women-of-openstack at lists.openstack.org
+Sent: Wednesday, February 18, 2015 3:58:24 PM
+Subject: [Women-of-openstack] Training-guides session at Vancouver
+
+Hey guys, 
+
+My team and I have submitted a session for the Vancouver summit. It would be awesome if you could give your vote to our session to help it get selected if you think it would do good for the community. 
+
+Community OpenStack Training Wants to Come a User Group Near You! submitted by Sean Roberts ( Speakers: Sean Roberts, Stefano Maffulli, Loic Dachary, Sayali Lunkad, Pranav Salunke ) 
+
+
+    * https://www.openstack.org/vote-vancouver/Presentation/community-openstack-training-wants-to-come-a-user-group-near-you 
+
+
+
+Community voting ends Monday, February 23 at 5pm CT . After the voting concludes, the OpenStack Summit Track Chairs will review all the submissions and make final selections. 
+
+Thank you in advance! 
+
+Regards, 
+
+Sayali. 
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+

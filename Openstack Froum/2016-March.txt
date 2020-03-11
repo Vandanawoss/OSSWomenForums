@@ -1,0 +1,3707 @@
+From annegentle at justwriteclick.com  Tue Mar  1 13:56:28 2016
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Tue, 1 Mar 2016 07:56:28 -0600
+Subject: [Women-of-openstack] Internet of Things (IOT)
+Message-ID: <CAD0KtVF5p2XymmGHp+rRRV4nzN0Mw=_HRP=QCbdbbD+H0EakKw@mail.gmail.com>
+
+Hi all --
+
+Does anyone have women in their networks who would like to talk about IOT
+applications in the Cloud Apps track at the Summit? I'm one of the track
+chairs and we're all seeking diversity on panels. Get in touch with me in
+the next day or so, please! Use my annegentle at justwriteclick dot com
+email address to get in touch.
+
+Thanks!
+Anne
+
+-- 
+Anne Gentle
+Rackspace
+Principal Engineer
+www.justwriteclick.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160301/4ed4ac0d/attachment.html>
+
+From annegentle at justwriteclick.com  Wed Mar  2 03:57:00 2016
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Tue, 1 Mar 2016 21:57:00 -0600
+Subject: [Women-of-openstack] Internet of Things (IOT)
+In-Reply-To: <CAD0KtVF5p2XymmGHp+rRRV4nzN0Mw=_HRP=QCbdbbD+H0EakKw@mail.gmail.com>
+References: <CAD0KtVF5p2XymmGHp+rRRV4nzN0Mw=_HRP=QCbdbbD+H0EakKw@mail.gmail.com>
+Message-ID: <CAD0KtVEtKOe4ZHBn03oKEbgeNDWBWONP3r4JcXTjAEQ1sdB0FQ@mail.gmail.com>
+
+Love this list!
+
+Thanks everyone who responded, I'll get back with what we're doing to
+everyone who expressed interest and availability (once we figure it out!)
+
+Much appreciation, you all are a gift.
+
+Thanks,
+Anne
+
+On Tue, Mar 1, 2016 at 7:56 AM, Anne Gentle <annegentle at justwriteclick.com>
+wrote:
+
+> Hi all --
+>
+> Does anyone have women in their networks who would like to talk about IOT
+> applications in the Cloud Apps track at the Summit? I'm one of the track
+> chairs and we're all seeking diversity on panels. Get in touch with me in
+> the next day or so, please! Use my annegentle at justwriteclick dot com
+> email address to get in touch.
+>
+> Thanks!
+> Anne
+>
+> --
+> Anne Gentle
+> Rackspace
+> Principal Engineer
+> www.justwriteclick.com
+>
+
+
+
+-- 
+Anne Gentle
+Rackspace
+Principal Engineer
+www.justwriteclick.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160301/208bd716/attachment.html>
+
+From aqsamm at gmail.com  Mon Mar  7 15:57:10 2016
+From: aqsamm at gmail.com (aqsa MAlik)
+Date: Mon, 7 Mar 2016 20:57:10 +0500
+Subject: [Women-of-openstack] OpenStack Summit travel funding
+Message-ID: <CA+85TMuQR2waa0ExSmx99oHOtwNoNjyHex0==Mpv-MA9+9PY-A@mail.gmail.com>
+
+Hi
+
+I am a female OpenStack contributor from Pakistan. I recieved my OpenStack
+summit invitation with a Free Full Access Pass. Is there any grant to help
+me with the travel support ? As I won't be able to attend the Summit
+otherwise. Or is it possible to apply for any other kind of funding under
+the Women of OpenStack that might help me out.
+
+Thank you
+
+P.S I have attached the free access pass email below
+
+
+---------- Forwarded message ----------
+From: Jeremy Stanley <jeremy at openstack.org>
+Date: Fri, Mar 4, 2016 at 6:01 AM
+Subject: Your registration code for OpenStack Summit in Austin
+To: aqsamm at gmail.com
+
+
+
+Dear Aqsa,
+
+We hope you will be able to join us in Austin for the next OpenStack
+Summit, April 25-29. The main conference will run Monday through
+Thursday, the Ops Summit will run on Monday, and the Design Summit
+will run Tuesday through Friday. View this image for reference:
+
+    https://www.dropbox.com/s/pj262nrpxs07v96/schedule-chart.jpg?dl=0
+
+We're providing all ATCs who contributed to the Mitaka cycle with a
+$600-off discount code to register for a Full Access Pass to the
+Summit; this means that all ATCs will be able to register for FREE
+if you use the code to register BEFORE March 11 at midnight PST,
+when registration prices will increase. If you use the ATC code to
+register after March 11 a fee will be charged.
+
+REGISTER - Registration is now open at:
+
+    https://openstacksummit2016austin.eventbrite.com/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/eb3bf677/attachment.html>
+
+From annegentle at justwriteclick.com  Mon Mar  7 16:01:52 2016
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Mon, 7 Mar 2016 10:01:52 -0600
+Subject: [Women-of-openstack] OpenStack Summit travel funding
+In-Reply-To: <CA+85TMuQR2waa0ExSmx99oHOtwNoNjyHex0==Mpv-MA9+9PY-A@mail.gmail.com>
+References: <CA+85TMuQR2waa0ExSmx99oHOtwNoNjyHex0==Mpv-MA9+9PY-A@mail.gmail.com>
+Message-ID: <CAD0KtVE1cGo_4_E7GOPaYKvF4+TCq+hqPKM6CqwS-0sZA6=iQg@mail.gmail.com>
+
+Yes, there is a travel support program:
+https://wiki.openstack.org/wiki/Travel_Support_Program
+
+However, the deadline to apply was Feb. 29th.
+
+Please be aware and try again next time! We specifically want women to be
+aware of the program. Also, reaching out on this list is the right thing to
+do. Perhaps someone from the Foundation knows of the current status.
+
+Thanks,
+Anne
+
+On Mon, Mar 7, 2016 at 9:57 AM, aqsa MAlik <aqsamm at gmail.com> wrote:
+
+> Hi
+>
+> I am a female OpenStack contributor from Pakistan. I recieved my OpenStack
+> summit invitation with a Free Full Access Pass. Is there any grant to help
+> me with the travel support ? As I won't be able to attend the Summit
+> otherwise. Or is it possible to apply for any other kind of funding under
+> the Women of OpenStack that might help me out.
+>
+> Thank you
+>
+> P.S I have attached the free access pass email below
+>
+>
+> ---------- Forwarded message ----------
+> From: Jeremy Stanley <jeremy at openstack.org>
+> Date: Fri, Mar 4, 2016 at 6:01 AM
+> Subject: Your registration code for OpenStack Summit in Austin
+> To: aqsamm at gmail.com
+>
+>
+>
+> Dear Aqsa,
+>
+> We hope you will be able to join us in Austin for the next OpenStack
+> Summit, April 25-29. The main conference will run Monday through
+> Thursday, the Ops Summit will run on Monday, and the Design Summit
+> will run Tuesday through Friday. View this image for reference:
+>
+>     https://www.dropbox.com/s/pj262nrpxs07v96/schedule-chart.jpg?dl=0
+>
+> We're providing all ATCs who contributed to the Mitaka cycle with a
+> $600-off discount code to register for a Full Access Pass to the
+> Summit; this means that all ATCs will be able to register for FREE
+> if you use the code to register BEFORE March 11 at midnight PST,
+> when registration prices will increase. If you use the ATC code to
+> register after March 11 a fee will be charged.
+>
+> REGISTER - Registration is now open at:
+>
+>     https://openstacksummit2016austin.eventbrite.com/
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+Anne Gentle
+Rackspace
+Principal Engineer
+www.justwriteclick.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/334d19f0/attachment.html>
+
+From Amy.Marrich at rackspace.com  Mon Mar  7 16:02:20 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Mon, 7 Mar 2016 16:02:20 +0000
+Subject: [Women-of-openstack] OpenStack Summit travel funding
+In-Reply-To: <CA+85TMuQR2waa0ExSmx99oHOtwNoNjyHex0==Mpv-MA9+9PY-A@mail.gmail.com>
+References: <CA+85TMuQR2waa0ExSmx99oHOtwNoNjyHex0==Mpv-MA9+9PY-A@mail.gmail.com>
+Message-ID: <D30301A0.1982D%amy.marrich@rackspace.com>
+
+Hi Aqsa and welcome,
+
+The link for the travel support program is: https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support
+
+I did see it had a deadline of February 9th though. Someone from the Foundation on this list might have more information if anything changed.
+
+Amy
+
+From: aqsa MAlik <aqsamm at gmail.com<mailto:aqsamm at gmail.com>>
+Date: Monday, March 7, 2016 at 9:57 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] OpenStack Summit travel funding
+
+Hi
+
+I am a female OpenStack contributor from Pakistan. I recieved my OpenStack summit invitation with a Free Full Access Pass. Is there any grant to help me with the travel support ? As I won't be able to attend the Summit otherwise. Or is it possible to apply for any other kind of funding under the Women of OpenStack that might help me out.
+
+Thank you
+
+P.S I have attached the free access pass email below
+
+
+---------- Forwarded message ----------
+From: Jeremy Stanley <jeremy at openstack.org<mailto:jeremy at openstack.org>>
+Date: Fri, Mar 4, 2016 at 6:01 AM
+Subject: Your registration code for OpenStack Summit in Austin
+To: aqsamm at gmail.com<mailto:aqsamm at gmail.com>
+
+
+
+Dear Aqsa,
+
+We hope you will be able to join us in Austin for the next OpenStack
+Summit, April 25-29. The main conference will run Monday through
+Thursday, the Ops Summit will run on Monday, and the Design Summit
+will run Tuesday through Friday. View this image for reference:
+
+    https://www.dropbox.com/s/pj262nrpxs07v96/schedule-chart.jpg?dl=0
+
+We're providing all ATCs who contributed to the Mitaka cycle with a
+$600-off discount code to register for a Full Access Pass to the
+Summit; this means that all ATCs will be able to register for FREE
+if you use the code to register BEFORE March 11 at midnight PST,
+when registration prices will increase. If you use the ATC code to
+register after March 11 a fee will be charged.
+
+REGISTER - Registration is now open at:
+
+    https://openstacksummit2016austin.eventbrite.com/
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/b829fcff/attachment.html>
+
+From carol.l.barrett at intel.com  Mon Mar  7 16:25:34 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 7 Mar 2016 16:25:34 +0000
+Subject: [Women-of-openstack] [Women of OpenStack] Todays team meeting is
+	canceled
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CBB56A1@ORSMSX113.amr.corp.intel.com>
+
+Hi All - As we discussed in our last team meeting, we are canceling today's meeting due to travel and other conflicts.
+
+Talk with you all on March 21.
+
+Thanks
+Carol
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/88fbe93b/attachment-0001.html>
+
+From aqsamm at gmail.com  Mon Mar  7 17:07:40 2016
+From: aqsamm at gmail.com (Aqsa Malik)
+Date: Mon, 7 Mar 2016 22:07:40 +0500
+Subject: [Women-of-openstack] OpenStack Summit travel funding
+In-Reply-To: <D30301A0.1982D%amy.marrich@rackspace.com>
+References: <CA+85TMuQR2waa0ExSmx99oHOtwNoNjyHex0==Mpv-MA9+9PY-A@mail.gmail.com>
+ <D30301A0.1982D%amy.marrich@rackspace.com>
+Message-ID: <CA+85TMtPOeZnbHaq2_iDzqMx3OCRKbuPoPu7nwoetqjOxn468w@mail.gmail.com>
+
+I came to know of this travel support program when I got the pass, and that
+was on March 4th. So nothing could've been done by, thats why I reached out
+to WOO for any possible help.
+
+Aqsa
+
+On Mon, Mar 7, 2016 at 9:02 PM, Amy Marrich <Amy.Marrich at rackspace.com>
+wrote:
+
+> Hi Aqsa and welcome,
+>
+> The link for the travel support program is:
+> https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support
+>
+> I did see it had a deadline of February 9th though. Someone from the
+> Foundation on this list might have more information if anything changed.
+>
+> Amy
+>
+> From: aqsa MAlik <aqsamm at gmail.com>
+> Date: Monday, March 7, 2016 at 9:57 AM
+> To: "women-of-openstack at lists.openstack.org" <
+> women-of-openstack at lists.openstack.org>
+> Subject: [Women-of-openstack] OpenStack Summit travel funding
+>
+> Hi
+>
+> I am a female OpenStack contributor from Pakistan. I recieved my OpenStack
+> summit invitation with a Free Full Access Pass. Is there any grant to help
+> me with the travel support ? As I won't be able to attend the Summit
+> otherwise. Or is it possible to apply for any other kind of funding under
+> the Women of OpenStack that might help me out.
+>
+> Thank you
+>
+> P.S I have attached the free access pass email below
+>
+>
+> ---------- Forwarded message ----------
+> From: Jeremy Stanley <jeremy at openstack.org>
+> Date: Fri, Mar 4, 2016 at 6:01 AM
+> Subject: Your registration code for OpenStack Summit in Austin
+> To: aqsamm at gmail.com
+>
+>
+>
+> Dear Aqsa,
+>
+> We hope you will be able to join us in Austin for the next OpenStack
+> Summit, April 25-29. The main conference will run Monday through
+> Thursday, the Ops Summit will run on Monday, and the Design Summit
+> will run Tuesday through Friday. View this image for reference:
+>
+>     https://www.dropbox.com/s/pj262nrpxs07v96/schedule-chart.jpg?dl=0
+>
+> We're providing all ATCs who contributed to the Mitaka cycle with a
+> $600-off discount code to register for a Full Access Pass to the
+> Summit; this means that all ATCs will be able to register for FREE
+> if you use the code to register BEFORE March 11 at midnight PST,
+> when registration prices will increase. If you use the ATC code to
+> register after March 11 a fee will be charged.
+>
+> REGISTER - Registration is now open at:
+>
+>     https://openstacksummit2016austin.eventbrite.com/
+>
+>
+
+
+-- 
+Aqsa Malik
+Military College of Signals NUST
+
+visit my blog at
+http://www.techiworld4u.blogspot.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/ddb320fd/attachment.html>
+
+From carol.l.barrett at intel.com  Mon Mar  7 17:39:26 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 7 Mar 2016 17:39:26 +0000
+Subject: [Women-of-openstack] OpenStack Summit travel funding
+In-Reply-To: <CA+85TMtPOeZnbHaq2_iDzqMx3OCRKbuPoPu7nwoetqjOxn468w@mail.gmail.com>
+References: <CA+85TMuQR2waa0ExSmx99oHOtwNoNjyHex0==Mpv-MA9+9PY-A@mail.gmail.com>
+ <D30301A0.1982D%amy.marrich@rackspace.com>
+ <CA+85TMtPOeZnbHaq2_iDzqMx3OCRKbuPoPu7nwoetqjOxn468w@mail.gmail.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CBB6042@ORSMSX113.amr.corp.intel.com>
+
+Claire ? Can you advise on how Aqsa can apply for travel support?
+Thanks
+Carol
+
+From: Aqsa Malik [mailto:aqsamm at gmail.com]
+Sent: Monday, March 07, 2016 9:08 AM
+To: Amy Marrich
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] OpenStack Summit travel funding
+
+I came to know of this travel support program when I got the pass, and that was on March 4th. So nothing could've been done by, thats why I reached out to WOO for any possible help.
+
+Aqsa
+
+On Mon, Mar 7, 2016 at 9:02 PM, Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>> wrote:
+Hi Aqsa and welcome,
+
+The link for the travel support program is: https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support
+
+I did see it had a deadline of February 9th though. Someone from the Foundation on this list might have more information if anything changed.
+
+Amy
+
+From: aqsa MAlik <aqsamm at gmail.com<mailto:aqsamm at gmail.com>>
+Date: Monday, March 7, 2016 at 9:57 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] OpenStack Summit travel funding
+
+Hi
+
+I am a female OpenStack contributor from Pakistan. I recieved my OpenStack summit invitation with a Free Full Access Pass. Is there any grant to help me with the travel support ? As I won't be able to attend the Summit otherwise. Or is it possible to apply for any other kind of funding under the Women of OpenStack that might help me out.
+
+Thank you
+
+P.S I have attached the free access pass email below
+
+
+---------- Forwarded message ----------
+From: Jeremy Stanley <jeremy at openstack.org<mailto:jeremy at openstack.org>>
+Date: Fri, Mar 4, 2016 at 6:01 AM
+Subject: Your registration code for OpenStack Summit in Austin
+To: aqsamm at gmail.com<mailto:aqsamm at gmail.com>
+
+
+
+Dear Aqsa,
+
+We hope you will be able to join us in Austin for the next OpenStack
+Summit, April 25-29. The main conference will run Monday through
+Thursday, the Ops Summit will run on Monday, and the Design Summit
+will run Tuesday through Friday. View this image for reference:
+
+    https://www.dropbox.com/s/pj262nrpxs07v96/schedule-chart.jpg?dl=0
+
+We're providing all ATCs who contributed to the Mitaka cycle with a
+$600-off discount code to register for a Full Access Pass to the
+Summit; this means that all ATCs will be able to register for FREE
+if you use the code to register BEFORE March 11 at midnight PST,
+when registration prices will increase. If you use the ATC code to
+register after March 11 a fee will be charged.
+
+REGISTER - Registration is now open at:
+
+    https://openstacksummit2016austin.eventbrite.com/
+
+
+
+
+--
+Aqsa Malik
+Military College of Signals NUST
+
+visit my blog at
+http://www.techiworld4u.blogspot.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/dfe13493/attachment-0001.html>
+
+From beth.cohen at verizon.com  Mon Mar  7 16:09:54 2016
+From: beth.cohen at verizon.com (Cohen, Beth F (Beth))
+Date: Mon, 7 Mar 2016 11:09:54 -0500
+Subject: [Women-of-openstack] Canceled: Women of OpenStack Meeting
+Message-ID: <24310489C27ED447A664542AA6E308A917888FC9A1@FHDP1LUMXC7V33.us.one.verizon.com>
+
+General  Bi-Weekly Meeting
+
+Meeting in two weeks.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/fba81e89/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 5894 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/fba81e89/attachment.ics>
+
+From claire at openstack.org  Mon Mar  7 18:24:06 2016
+From: claire at openstack.org (Claire Massey)
+Date: Mon, 7 Mar 2016 12:24:06 -0600
+Subject: [Women-of-openstack] OpenStack Summit travel funding
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5CBB6042@ORSMSX113.amr.corp.intel.com>
+References: <CA+85TMuQR2waa0ExSmx99oHOtwNoNjyHex0==Mpv-MA9+9PY-A@mail.gmail.com>
+ <D30301A0.1982D%amy.marrich@rackspace.com>
+ <CA+85TMtPOeZnbHaq2_iDzqMx3OCRKbuPoPu7nwoetqjOxn468w@mail.gmail.com>
+ <2D352D0CD819F64F9715B1B89695400D5CBB6042@ORSMSX113.amr.corp.intel.com>
+Message-ID: <6437F55A-2A3C-438D-B9B2-0341FF8A100D@openstack.org>
+
+Hi there,
+
+Unfortunately it?s too late for the Austin summit. The deadline for the TSP has passed, the selection committee has finished their selections, the accepted people have been notified and all of the available hotel rooms have been filled. I?m sorry.
+
+For the Barcelona Summit the TSP will open in May and the submission deadline will be the first week of August. We will email everyone when it goes live.
+
+Best,
+Claire 
+
+
+
+> On Mar 7, 2016, at 11:39 AM, Barrett, Carol L <carol.l.barrett at intel.com> wrote:
+> 
+> Claire ? Can you advise on how Aqsa can apply for travel support?
+> Thanks
+> Carol
+>  
+>  <>From: Aqsa Malik [mailto:aqsamm at gmail.com] 
+> Sent: Monday, March 07, 2016 9:08 AM
+> To: Amy Marrich
+> Cc: women-of-openstack at lists.openstack.org
+> Subject: Re: [Women-of-openstack] OpenStack Summit travel funding
+>  
+> I came to know of this travel support program when I got the pass, and that was on March 4th. So nothing could've been done by, thats why I reached out to WOO for any possible help.
+>  
+> Aqsa
+>  
+> On Mon, Mar 7, 2016 at 9:02 PM, Amy Marrich <Amy.Marrich at rackspace.com <mailto:Amy.Marrich at rackspace.com>> wrote:
+> Hi Aqsa and welcome,
+>  
+> The link for the travel support program is: https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support <https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support>
+>  
+> I did see it had a deadline of February 9th though. Someone from the Foundation on this list might have more information if anything changed.
+>  
+> Amy
+>  
+> From: aqsa MAlik <aqsamm at gmail.com <mailto:aqsamm at gmail.com>>
+> Date: Monday, March 7, 2016 at 9:57 AM
+> To: "women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>>
+> Subject: [Women-of-openstack] OpenStack Summit travel funding
+>  
+> Hi 
+>  
+> I am a female OpenStack contributor from Pakistan. I recieved my OpenStack summit invitation with a Free Full Access Pass. Is there any grant to help me with the travel support ? As I won't be able to attend the Summit otherwise. Or is it possible to apply for any other kind of funding under the Women of OpenStack that might help me out.
+>  
+> Thank you
+>  
+> P.S I have attached the free access pass email below
+>  
+>  
+> ---------- Forwarded message ----------
+> From: Jeremy Stanley <jeremy at openstack.org <mailto:jeremy at openstack.org>>
+> Date: Fri, Mar 4, 2016 at 6:01 AM
+> Subject: Your registration code for OpenStack Summit in Austin
+> To: aqsamm at gmail.com <mailto:aqsamm at gmail.com>
+> 
+> 
+> 
+> Dear Aqsa,
+> 
+> We hope you will be able to join us in Austin for the next OpenStack
+> Summit, April 25-29. The main conference will run Monday through
+> Thursday, the Ops Summit will run on Monday, and the Design Summit
+> will run Tuesday through Friday. View this image for reference:
+> 
+>     https://www.dropbox.com/s/pj262nrpxs07v96/schedule-chart.jpg?dl=0 <https://www.dropbox.com/s/pj262nrpxs07v96/schedule-chart.jpg?dl=0>
+> 
+> We're providing all ATCs who contributed to the Mitaka cycle with a
+> $600-off discount code to register for a Full Access Pass to the
+> Summit; this means that all ATCs will be able to register for FREE
+> if you use the code to register BEFORE March 11 at midnight PST,
+> when registration prices will increase. If you use the ATC code to
+> register after March 11 a fee will be charged.
+> 
+> REGISTER - Registration is now open at:
+> 
+>     https://openstacksummit2016austin.eventbrite.com/ <https://openstacksummit2016austin.eventbrite.com/>
+>  
+> 
+> 
+>  
+> -- 
+> Aqsa Malik
+> Military College of Signals NUST
+>  
+> visit my blog at
+> http://www.techiworld4u.blogspot.com <http://www.techiworld4u.blogspot.com/>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/1a2cc9ea/attachment-0001.html>
+
+From annegentle at justwriteclick.com  Mon Mar  7 18:27:37 2016
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Mon, 7 Mar 2016 12:27:37 -0600
+Subject: [Women-of-openstack] OpenStack Summit travel funding
+In-Reply-To: <6437F55A-2A3C-438D-B9B2-0341FF8A100D@openstack.org>
+References: <CA+85TMuQR2waa0ExSmx99oHOtwNoNjyHex0==Mpv-MA9+9PY-A@mail.gmail.com>
+ <D30301A0.1982D%amy.marrich@rackspace.com>
+ <CA+85TMtPOeZnbHaq2_iDzqMx3OCRKbuPoPu7nwoetqjOxn468w@mail.gmail.com>
+ <2D352D0CD819F64F9715B1B89695400D5CBB6042@ORSMSX113.amr.corp.intel.com>
+ <6437F55A-2A3C-438D-B9B2-0341FF8A100D@openstack.org>
+Message-ID: <CAD0KtVGZ9rMubtXzu4tsQ-WDt-iGRZ5JS7h6anjt1Vbws3b+Tw@mail.gmail.com>
+
+Hi Aqsa,
+
+I'd encourage you to improve your chances in the next round for the
+Barcelona Summit by getting involved in a local user group and landing more
+patches. That way, your chances for getting travel support are increased
+and you can learn more about the OpenStack community.
+
+Anne
+
+
+
+On Mon, Mar 7, 2016 at 12:24 PM, Claire Massey <claire at openstack.org> wrote:
+
+> Hi there,
+>
+> Unfortunately it?s too late for the Austin summit. The deadline for the
+> TSP has passed, the selection committee has finished their selections, the
+> accepted people have been notified and all of the available hotel rooms
+> have been filled. I?m sorry.
+>
+> For the Barcelona Summit the TSP will open in May and the submission
+> deadline will be the first week of August. We will email everyone when it
+> goes live.
+>
+> Best,
+> Claire
+>
+>
+>
+> On Mar 7, 2016, at 11:39 AM, Barrett, Carol L <carol.l.barrett at intel.com>
+> wrote:
+>
+> Claire ? Can you advise on how Aqsa can apply for travel support?
+> Thanks
+> Carol
+>
+> *From:* Aqsa Malik [mailto:aqsamm at gmail.com <aqsamm at gmail.com>]
+> *Sent:* Monday, March 07, 2016 9:08 AM
+> *To:* Amy Marrich
+> *Cc:* women-of-openstack at lists.openstack.org
+> *Subject:* Re: [Women-of-openstack] OpenStack Summit travel funding
+>
+> I came to know of this travel support program when I got the pass, and
+> that was on March 4th. So nothing could've been done by, thats why I
+> reached out to WOO for any possible help.
+>
+> Aqsa
+>
+> On Mon, Mar 7, 2016 at 9:02 PM, Amy Marrich <Amy.Marrich at rackspace.com>
+> wrote:
+> Hi Aqsa and welcome,
+>
+> The link for the travel support program is:
+> https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support
+>
+> I did see it had a deadline of February 9th though. Someone from the
+> Foundation on this list might have more information if anything changed.
+>
+> Amy
+>
+> *From: *aqsa MAlik <aqsamm at gmail.com>
+> *Date: *Monday, March 7, 2016 at 9:57 AM
+> *To: *"women-of-openstack at lists.openstack.org" <
+> women-of-openstack at lists.openstack.org>
+> *Subject: *[Women-of-openstack] OpenStack Summit travel funding
+>
+> Hi
+>
+> I am a female OpenStack contributor from Pakistan. I recieved my OpenStack
+> summit invitation with a Free Full Access Pass. Is there any grant to help
+> me with the travel support ? As I won't be able to attend the Summit
+> otherwise. Or is it possible to apply for any other kind of funding under
+> the Women of OpenStack that might help me out.
+>
+> Thank you
+>
+> P.S I have attached the free access pass email below
+>
+>
+> ---------- Forwarded message ----------
+> From: *Jeremy Stanley* <jeremy at openstack.org>
+> Date: Fri, Mar 4, 2016 at 6:01 AM
+> Subject: Your registration code for OpenStack Summit in Austin
+> To: aqsamm at gmail.com
+>
+>
+>
+> Dear Aqsa,
+>
+> We hope you will be able to join us in Austin for the next OpenStack
+> Summit, April 25-29. The main conference will run Monday through
+> Thursday, the Ops Summit will run on Monday, and the Design Summit
+> will run Tuesday through Friday. View this image for reference:
+>
+>     https://www.dropbox.com/s/pj262nrpxs07v96/schedule-chart.jpg?dl=0
+>
+> We're providing all ATCs who contributed to the Mitaka cycle with a
+> $600-off discount code to register for a Full Access Pass to the
+> Summit; this means that all ATCs will be able to register for FREE
+> if you use the code to register BEFORE March 11 at midnight PST,
+> when registration prices will increase. If you use the ATC code to
+> register after March 11 a fee will be charged.
+>
+> REGISTER - Registration is now open at:
+>
+>     https://openstacksummit2016austin.eventbrite.com/
+>
+>
+>
+>
+> --
+> Aqsa Malik
+> Military College of Signals NUST
+>
+> visit my blog at
+> http://www.techiworld4u.blogspot.com
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+Anne Gentle
+Rackspace
+Principal Engineer
+www.justwriteclick.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/e5861ccb/attachment.html>
+
+From claire at openstack.org  Mon Mar  7 23:59:44 2016
+From: claire at openstack.org (Claire Massey)
+Date: Mon, 7 Mar 2016 17:59:44 -0600
+Subject: [Women-of-openstack] Schedule Published - OpenStack Summit Austin
+Message-ID: <32136541-E9CC-40D8-98FE-EC1BBE59A899@openstack.org>
+
+Hi everyone,
+
+The main conference schedule for the upcoming OpenStack Summit in Austin <https://www.openstack.org/summit/austin-2016/> is now available! 
+
+SCHEDULE: https://www.openstack.org/summit/austin-2016/summit-schedule/ <https://www.openstack.org/summit/austin-2016/summit-schedule/>
+
+SPEAKER NOTIFICATIONS
+If you submitted a talk - check your email. Everyone who submitted a speaking proposal for the Summit will soon receive an email notification to let them know whether or not their talk is accepted. The email sent to selected speakers was sent from speakersupport at openstack.org <mailto:speakersupport at openstack.org> and contains important next steps and their speaker registration code. Each speaker is responsible for registering themselves to attend the Summit. Please make sure your colleagues read the email and complete this step.
+
+MOBILE APP
+In mid April the schedule mobile app will also be available for download. We will notify the community at that time. 
+
+Contact summit at openstack.org with any questions.
+
+See you in Austin!
+
+Cheers,
+Claire 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160307/a818fd55/attachment-0001.html>
+
+From erin at openstack.org  Tue Mar  8 15:47:56 2016
+From: erin at openstack.org (Erin Disney)
+Date: Tue, 8 Mar 2016 09:47:56 -0600
+Subject: [Women-of-openstack] Save the Date- Austin WOO Sessions
+Message-ID: <CEEEA266-3509-451B-8D9E-3E2702B5B9DB@openstack.org>
+
+The main conference Summit schedule is now live here <https://www.openstack.org/summit/austin-2016/summit-schedule>! Wanted to flag all of the women-specific events happening throughout the week. Please note those that require RSVP?s. 
+
+Also, here is a link <https://www.openstack.org/summit/austin-2016/summit-schedule/global-search?t=women+of+openstack> to an aggregate of all the sessions with the Women of OpenStack tag for your reference. 
+
+OpenStack Summit Austin, April 24-29th
+
+SUNDAY
+Command Presence Workshop
+9:30am-12:30pm
+JW Marriott- Salon D
+The Command Presence Workshop has been recognized by the Anita Borg Institute and Harvard Business Review. It is intended to teach participants how to handle ?senior-level high pressure meetings?. The majority of the workshop is a task-force convened to address a simulated, but very realistic crisis event. In the class, each participant assumes a role, and is given about 30minutes to prepare 1-2 slides. Once the class has prepared, the simulation begins. There is a role-play simulation. It is not uncommon to hear occasional ?gasps? of disbelief from the participants. The workshop participants will experience rapid-fire questioning, interruption, and other situations that occur in senior-level meetings, but in a safe environment conducive to learning techniques for handling such situations. Facilitators: Ruchi Bhargava (Intel), Malini Bhandaru (Intel) and a panel of leaders representative of the OpenStack leadership in the community (business leaders and technical leaders).
+RSVP Required <https://commandpresenceworkshop.eventbrite.com/>
+
+Women of OpenStack Pre-Summit Social- sponsored by EMC, IBM, and Intel
+6:00-9:00pm
+The Belmont- 305 W 6th Street
+Join the Women of OpenStack for an evening of networking and celebration to kick off another OpenStack Summit. EMC, IBM, and Intel will sponsor the Women of OpenStack Pre-Summit Social, featuring food, drinks and live music from acclaimed artist Tameca Jones. Shuttles will be available from the Convention Center to the venue starting at 5:50pm. 
+RSVP Required (coming soon)
+
+MONDAY
+Speed Mentoring
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+The new mentoring program sponsored the Women of OpenStack is designed to be a lightweight mentoring initiative to provide technical or career guidance to beginners in the community. Mentees should already be part of the community; they should have gone through, or be familiar with the Upstream Training. Mentees will have five-to-10 minutes to talk to potential mentors, then cycle throughout the room for about an hour-and-a-half. At the end, people will fill out surveys with their preferences and we'll contact people about potential matches. Breakfast and coffee will be provided. More information coming soon. 
+RSVP Required <https://openstackfoundation.formstack.com/forms/mentoring>
+
+TUESDAY
+Women of OpenStack Breakfast sponsored by Comcast
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+Details and an agenda will be announced soon. Breakfast and coffee will be provided. 
+RSVP Required <https://wooworkingbreakfast.eventbrite.com/>
+
+NCWIT Male Allies Workshop
+12:05-2:40pm
+Hilton Austin, Level 6, Salon F
+The National Center for Women in Information Technology (NCWIT) will join us at the OpenStack Summit Austin to discuss why it matters and how to advocate for more inclusive environments that foster innovation in the technical environment, led by NCWIT research scientist Dr. Brad McLain <https://www.ncwit.org/profile/brad-mclain>. This session welcomes male allies who want to make a difference in the OpenStack community. Please grab a boxed lunch on Level 4 before you join us on Level 6.
+RSVP Required (coming soon)
+
+NCWIT Male Allies Panel
+4:40-5:20pm
+ACC, Level 4, Ballroom G
+An NCWIT-supported panel during the OpenStack Summit, which would focus on diversity and inclusion topics, including male advocacy, for the general OpenStack community. No RSVP required.
+
+StackCity Austin- A Community Festival for Stackers- Women of OpenStack venue sponsored by Red Hat
+7-11pm
+On Tuesday night experience the best of what Austin has to offer at this Texas-sized community evening event. Stroll a few blocks from the Austin Convention Center and you?ll find an open-air party hosted at 15 bars and restaurants lining historic Rainey Street. Expect a few surprises in an evening offering something for everyone including live music from local artists, stand-up comedy, and, of course, barbecue and tacos. The Women of OpenStack will have their own venue, Lucille <http://lucilleaustin.com/gallery.html>, sponsored by Red Hat. 
+RSVP Required (coming soon)
+
+WEDNESDAY
+Afternoon Sync
+4:10-5:00pm
+Location: TBD
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+
+Git and Gerrit- Lunch and Learn
+12:30-1:50pm
+Hilton Austin, Level 6, Salon F
+RSVP Required <https://gitandgerritlunchandlearn.eventbrite.com/>
+
+All week, head over to Expo Hall 5 on the 1st floor of the Convention Center to join your fellow Women of OpenStack for daily lunch get togethers. Per your request, we will have tables reserved with Women of OpenStack signage. 
+
+If you are interested in joining the Austin planning calls, they happen every other week on Wednesdays. Next one is on March 16th at 2pm CDT/12pm PDT. 
+Dial In: +1 631.992.3444,,,8729080#
+Etherpad: https://etherpad.openstack.org/p/WOS_Austin_Planning_02_17_16
+
+Let us know if you have any questions, looking forward to seeing you in Austin!
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160308/d0b800cf/attachment.html>
+
+From Amy.Marrich at rackspace.com  Tue Mar  8 15:56:17 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Tue, 8 Mar 2016 15:56:17 +0000
+Subject: [Women-of-openstack] Save the Date- Austin WOO Sessions
+In-Reply-To: <CEEEA266-3509-451B-8D9E-3E2702B5B9DB@openstack.org>
+References: <CEEEA266-3509-451B-8D9E-3E2702B5B9DB@openstack.org>
+Message-ID: <D30451B1.1995E%amy.marrich@rackspace.com>
+
+Erin,
+
+The Friendly Faces meet-up was combined for time/space considerations, should we make a separate blurb and RSVP for it? It?s pretty informal but it?s a good way for new people to get involved.
+
+Thanks,
+
+Amy
+
+From: Erin Disney <erin at openstack.org<mailto:erin at openstack.org>>
+Date: Tuesday, March 8, 2016 at 9:47 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Save the Date- Austin WOO Sessions
+
+The main conference Summit schedule is now live here<https://www.openstack.org/summit/austin-2016/summit-schedule>! Wanted to flag all of the women-specific events happening throughout the week. Please note those that require RSVP?s.
+
+Also, here is a link<https://www.openstack.org/summit/austin-2016/summit-schedule/global-search?t=women+of+openstack> to an aggregate of all the sessions with the Women of OpenStack tag for your reference.
+
+OpenStack Summit Austin, April 24-29th
+
+SUNDAY
+Command Presence Workshop
+9:30am-12:30pm
+JW Marriott- Salon D
+The Command Presence Workshop has been recognized by the Anita Borg Institute and Harvard Business Review. It is intended to teach participants how to handle ?senior-level high pressure meetings?. The majority of the workshop is a task-force convened to address a simulated, but very realistic crisis event. In the class, each participant assumes a role, and is given about 30minutes to prepare 1-2 slides. Once the class has prepared, the simulation begins. There is a role-play simulation. It is not uncommon to hear occasional ?gasps? of disbelief from the participants. The workshop participants will experience rapid-fire questioning, interruption, and other situations that occur in senior-level meetings, but in a safe environment conducive to learning techniques for handling such situations. Facilitators: Ruchi Bhargava (Intel), Malini Bhandaru (Intel) and a panel of leaders representative of the OpenStack leadership in the community (business leaders and technical leaders).
+RSVP Required<https://commandpresenceworkshop.eventbrite.com>
+
+Women of OpenStack Pre-Summit Social- sponsored by EMC, IBM, and Intel
+6:00-9:00pm
+The Belmont- 305 W 6th Street
+Join the Women of OpenStack for an evening of networking and celebration to kick off another OpenStack Summit. EMC, IBM, and Intel will sponsor the Women of OpenStack Pre-Summit Social, featuring food, drinks and live music from acclaimed artist Tameca Jones. Shuttles will be available from the Convention Center to the venue starting at 5:50pm.
+RSVP Required (coming soon)
+
+MONDAY
+Speed Mentoring
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+The new mentoring program sponsored the Women of OpenStack is designed to be a lightweight mentoring initiative to provide technical or career guidance to beginners in the community. Mentees should already be part of the community; they should have gone through, or be familiar with the Upstream Training. Mentees will have five-to-10 minutes to talk to potential mentors, then cycle throughout the room for about an hour-and-a-half. At the end, people will fill out surveys with their preferences and we'll contact people about potential matches. Breakfast and coffee will be provided. More information coming soon.
+RSVP Required<https://openstackfoundation.formstack.com/forms/mentoring>
+
+TUESDAY
+Women of OpenStack Breakfast sponsored by Comcast
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+Details and an agenda will be announced soon. Breakfast and coffee will be provided.
+RSVP Required<https://wooworkingbreakfast.eventbrite.com>
+
+NCWIT Male Allies Workshop
+12:05-2:40pm
+Hilton Austin, Level 6, Salon F
+The National Center for Women in Information Technology (NCWIT) will join us at the OpenStack Summit Austin to discuss why it matters and how to advocate for more inclusive environments that foster innovation in the technical environment, led by NCWIT research scientist Dr. Brad McLain<https://www.ncwit.org/profile/brad-mclain>. This session welcomes male allies who want to make a difference in the OpenStack community. Please grab a boxed lunch on Level 4 before you join us on Level 6.
+RSVP Required (coming soon)
+
+NCWIT Male Allies Panel
+4:40-5:20pm
+ACC, Level 4, Ballroom G
+An NCWIT-supported panel during the OpenStack Summit, which would focus on diversity and inclusion topics, including male advocacy, for the general OpenStack community. No RSVP required.
+
+StackCity Austin- A Community Festival for Stackers- Women of OpenStack venue sponsored by Red Hat
+7-11pm
+On Tuesday night experience the best of what Austin has to offer at this Texas-sized community evening event. Stroll a few blocks from the Austin Convention Center and you?ll find an open-air party hosted at 15 bars and restaurants lining historic Rainey Street. Expect a few surprises in an evening offering something for everyone including live music from local artists, stand-up comedy, and, of course, barbecue and tacos. The Women of OpenStack will have their own venue, Lucille<http://lucilleaustin.com/gallery.html>, sponsored by Red Hat.
+RSVP Required (coming soon)
+
+WEDNESDAY
+Afternoon Sync
+4:10-5:00pm
+Location: TBD
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+
+Git and Gerrit- Lunch and Learn
+12:30-1:50pm
+Hilton Austin, Level 6, Salon F
+RSVP Required<https://gitandgerritlunchandlearn.eventbrite.com>
+
+All week, head over to Expo Hall 5 on the 1st floor of the Convention Center to join your fellow Women of OpenStack for daily lunch get togethers. Per your request, we will have tables reserved with Women of OpenStack signage.
+
+If you are interested in joining the Austin planning calls, they happen every other week on Wednesdays. Next one is on March 16th at 2pm CDT/12pm PDT.
+Dial In: +1 631.992.3444,,,8729080#
+Etherpad: https://etherpad.openstack.org/p/WOS_Austin_Planning_02_17_16
+
+Let us know if you have any questions, looking forward to seeing you in Austin!
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org<mailto:erin at openstack.org>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160308/351dd2ba/attachment-0001.html>
+
+From kendall at openstack.org  Wed Mar  9 16:47:37 2016
+From: kendall at openstack.org (Kendall Waters)
+Date: Wed, 9 Mar 2016 10:47:37 -0600
+Subject: [Women-of-openstack] Registration Prices Increase March 11 -
+	OpenStack Summit Austin
+Message-ID: <A7AEBFBD-0215-4368-AF6D-077FDED1E49C@openstack.org>
+
+Hi everyone,
+
+The early bird registration deadline for the Austin Summit is this Thursday, March 10 at 11:59pm PST (March 11 at 7:59 UTC). Prices will increase immediately following that time.
+
+Register NOW <https://openstacksummit2016austin.eventbrite.com/> to hear from OpenStack users including Nike, Walmart, AT&T, Verizon, Ancestry.com and more! Checkout the full lineup of speakers in the Summit agenda <https://www.openstack.org/summit/austin-2016/summit-schedule>. 
+
+There will also be:
+Several training and workshops available at OpenStack Academy <http://superuser.openstack.org/articles/openstack-academy-opens-its-doors-at-the-austin-summit> 
+StackCity Austin, a community festival for Stackers
+20 tracks and more than 400 sessions in the main conference
+
+If you have any questions related to the Summit, please contact summit at openstack.org <mailto:summit at openstack.org>.
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160309/5fa066c0/attachment.html>
+
+From Courtney.Ferry at Qtsdatacenters.com  Wed Mar  9 22:17:52 2016
+From: Courtney.Ferry at Qtsdatacenters.com (Ferry, Courtney)
+Date: Wed, 9 Mar 2016 22:17:52 +0000
+Subject: [Women-of-openstack] [Ext] Re: Save the Date- Austin WOO
+	Sessions
+Message-ID: <D3060979.7292B%courtney.ferry@qtsdatacenters.com>
+
+Yes, I think it would be a good idea for it to have a it's own write up, so it doesn't get lost/forgotten.
+
+--
+COURTNEY COULSON FERRY
+Sr. Solutions Engineer
+
+O: 703.652.5959 M: 703.731.8928
+21000 Atlantic Blvd., Suite 500 Dulles, VA 20166
+courtney.ferry at qtsdatacenters.com
+cferry at carpathia.com
+
+NYSE: QTS
+qtsdatacenters.com<http://www.qtsdatacenters.com/>
+
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+Date: Tuesday, March 8, 2016 at 10:56 AM
+To: Erin Disney <erin at openstack.org<mailto:erin at openstack.org>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Ext] Re: [Women-of-openstack] Save the Date- Austin WOO Sessions
+
+Erin,
+
+The Friendly Faces meet-up was combined for time/space considerations, should we make a separate blurb and RSVP for it? It?s pretty informal but it?s a good way for new people to get involved.
+
+Thanks,
+
+Amy
+
+From: Erin Disney <erin at openstack.org<mailto:erin at openstack.org>>
+Date: Tuesday, March 8, 2016 at 9:47 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Save the Date- Austin WOO Sessions
+
+The main conference Summit schedule is now live here[openstack.org]<https://urldefense.proofpoint.com/v2/url?u=https-3A__www.openstack.org_summit_austin-2D2016_summit-2Dschedule&d=CwMF-g&c=BccdRNQESk37WwXULth_0m4LIpjCbhw7hXLJWL3EbE8&r=-BVfnZ4yonXnXvGAA4IsY8birMfNLe1JgeLiDjEluVk&m=AC9s24_2xOyhDLHWYNorMlnvDIQ1PqyaWkpE4zS0kW8&s=O46CvdShg3-sZ7G_dEEKcSzrKhcBL5oXnW8arb4qKMY&e=>! Wanted to flag all of the women-specific events happening throughout the week. Please note those that require RSVP?s.
+
+Also, here is a link[openstack.org]<https://urldefense.proofpoint.com/v2/url?u=https-3A__www.openstack.org_summit_austin-2D2016_summit-2Dschedule_global-2Dsearch-3Ft-3Dwomen-26-2343-3Bof-26-2343-3Bopenstack&d=CwMF-g&c=BccdRNQESk37WwXULth_0m4LIpjCbhw7hXLJWL3EbE8&r=-BVfnZ4yonXnXvGAA4IsY8birMfNLe1JgeLiDjEluVk&m=AC9s24_2xOyhDLHWYNorMlnvDIQ1PqyaWkpE4zS0kW8&s=t3KJ6udYwAWwXzT6d-MPWDGUiDoCx_AxSTqU2lRuwYE&e=> to an aggregate of all the sessions with the Women of OpenStack tag for your reference.
+
+OpenStack Summit Austin, April 24-29th
+
+SUNDAY
+Command Presence Workshop
+9:30am-12:30pm
+JW Marriott- Salon D
+The Command Presence Workshop has been recognized by the Anita Borg Institute and Harvard Business Review. It is intended to teach participants how to handle ?senior-level high pressure meetings?. The majority of the workshop is a task-force convened to address a simulated, but very realistic crisis event. In the class, each participant assumes a role, and is given about 30minutes to prepare 1-2 slides. Once the class has prepared, the simulation begins. There is a role-play simulation. It is not uncommon to hear occasional ?gasps? of disbelief from the participants. The workshop participants will experience rapid-fire questioning, interruption, and other situations that occur in senior-level meetings, but in a safe environment conducive to learning techniques for handling such situations. Facilitators: Ruchi Bhargava (Intel), Malini Bhandaru (Intel) and a panel of leaders representative of the OpenStack leadership in the community (business leaders and technical leaders).
+RSVP Required[commandpresenceworkshop.eventbrite.com]<https://urldefense.proofpoint.com/v2/url?u=https-3A__commandpresenceworkshop.eventbrite.com&d=CwMF-g&c=BccdRNQESk37WwXULth_0m4LIpjCbhw7hXLJWL3EbE8&r=-BVfnZ4yonXnXvGAA4IsY8birMfNLe1JgeLiDjEluVk&m=AC9s24_2xOyhDLHWYNorMlnvDIQ1PqyaWkpE4zS0kW8&s=A9PIXnwz-upH1jaeoqAaKN83AgCvy3RBTD5ZjAQ2KdU&e=>
+
+Women of OpenStack Pre-Summit Social- sponsored by EMC, IBM, and Intel
+6:00-9:00pm
+The Belmont- 305 W 6th Street
+Join the Women of OpenStack for an evening of networking and celebration to kick off another OpenStack Summit. EMC, IBM, and Intel will sponsor the Women of OpenStack Pre-Summit Social, featuring food, drinks and live music from acclaimed artist Tameca Jones. Shuttles will be available from the Convention Center to the venue starting at 5:50pm.
+RSVP Required (coming soon)
+
+MONDAY
+Speed Mentoring
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+The new mentoring program sponsored the Women of OpenStack is designed to be a lightweight mentoring initiative to provide technical or career guidance to beginners in the community. Mentees should already be part of the community; they should have gone through, or be familiar with the Upstream Training. Mentees will have five-to-10 minutes to talk to potential mentors, then cycle throughout the room for about an hour-and-a-half. At the end, people will fill out surveys with their preferences and we'll contact people about potential matches. Breakfast and coffee will be provided. More information coming soon.
+RSVP Required[openstackfoundation.formstack.com]<https://urldefense.proofpoint.com/v2/url?u=https-3A__openstackfoundation.formstack.com_forms_mentoring&d=CwMF-g&c=BccdRNQESk37WwXULth_0m4LIpjCbhw7hXLJWL3EbE8&r=-BVfnZ4yonXnXvGAA4IsY8birMfNLe1JgeLiDjEluVk&m=AC9s24_2xOyhDLHWYNorMlnvDIQ1PqyaWkpE4zS0kW8&s=w4R9yxEBsv51GBwTJca6jLWs80C_jPS7-bZx14rd-uw&e=>
+
+TUESDAY
+Women of OpenStack Breakfast sponsored by Comcast
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+Details and an agenda will be announced soon. Breakfast and coffee will be provided.
+RSVP Required[wooworkingbreakfast.eventbrite.com]<https://urldefense.proofpoint.com/v2/url?u=https-3A__wooworkingbreakfast.eventbrite.com&d=CwMF-g&c=BccdRNQESk37WwXULth_0m4LIpjCbhw7hXLJWL3EbE8&r=-BVfnZ4yonXnXvGAA4IsY8birMfNLe1JgeLiDjEluVk&m=AC9s24_2xOyhDLHWYNorMlnvDIQ1PqyaWkpE4zS0kW8&s=ERVWO-ezMFkAIzBJXVOgT6rWZH1L61twC7XBH1t8H9U&e=>
+
+NCWIT Male Allies Workshop
+12:05-2:40pm
+Hilton Austin, Level 6, Salon F
+The National Center for Women in Information Technology (NCWIT) will join us at the OpenStack Summit Austin to discuss why it matters and how to advocate for more inclusive environments that foster innovation in the technical environment, led by NCWIT research scientist Dr. Brad McLain[ncwit.org]<https://urldefense.proofpoint.com/v2/url?u=https-3A__www.ncwit.org_profile_brad-2Dmclain&d=CwMF-g&c=BccdRNQESk37WwXULth_0m4LIpjCbhw7hXLJWL3EbE8&r=-BVfnZ4yonXnXvGAA4IsY8birMfNLe1JgeLiDjEluVk&m=AC9s24_2xOyhDLHWYNorMlnvDIQ1PqyaWkpE4zS0kW8&s=0gE-S9lDrskn2HpDyZEbqmZWKmgB72Dslvy3By7-Z38&e=>. This session welcomes male allies who want to make a difference in the OpenStack community. Please grab a boxed lunch on Level 4 before you join us on Level 6.
+RSVP Required (coming soon)
+
+NCWIT Male Allies Panel
+4:40-5:20pm
+ACC, Level 4, Ballroom G
+An NCWIT-supported panel during the OpenStack Summit, which would focus on diversity and inclusion topics, including male advocacy, for the general OpenStack community. No RSVP required.
+
+StackCity Austin- A Community Festival for Stackers- Women of OpenStack venue sponsored by Red Hat
+7-11pm
+On Tuesday night experience the best of what Austin has to offer at this Texas-sized community evening event. Stroll a few blocks from the Austin Convention Center and you?ll find an open-air party hosted at 15 bars and restaurants lining historic Rainey Street. Expect a few surprises in an evening offering something for everyone including live music from local artists, stand-up comedy, and, of course, barbecue and tacos. The Women of OpenStack will have their own venue, Lucille[lucilleaustin.com]<https://urldefense.proofpoint.com/v2/url?u=http-3A__lucilleaustin.com_gallery.html&d=CwMF-g&c=BccdRNQESk37WwXULth_0m4LIpjCbhw7hXLJWL3EbE8&r=-BVfnZ4yonXnXvGAA4IsY8birMfNLe1JgeLiDjEluVk&m=AC9s24_2xOyhDLHWYNorMlnvDIQ1PqyaWkpE4zS0kW8&s=ptMXGZ3qgF2PxqiEUgfgHMkqok2Dtuw46zQetlHIfZs&e=>, sponsored by Red Hat.
+RSVP Required (coming soon)
+
+WEDNESDAY
+Afternoon Sync
+4:10-5:00pm
+Location: TBD
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+
+Git and Gerrit- Lunch and Learn
+12:30-1:50pm
+Hilton Austin, Level 6, Salon F
+RSVP Required[gitandgerritlunchandlearn.eventbrite.com]<https://urldefense.proofpoint.com/v2/url?u=https-3A__gitandgerritlunchandlearn.eventbrite.com&d=CwMF-g&c=BccdRNQESk37WwXULth_0m4LIpjCbhw7hXLJWL3EbE8&r=-BVfnZ4yonXnXvGAA4IsY8birMfNLe1JgeLiDjEluVk&m=AC9s24_2xOyhDLHWYNorMlnvDIQ1PqyaWkpE4zS0kW8&s=J1mwnnvOi-i9fRlC87bDtzs7y0dzUJljLs8TfLUb9T4&e=>
+
+All week, head over to Expo Hall 5 on the 1st floor of the Convention Center to join your fellow Women of OpenStack for daily lunch get togethers. Per your request, we will have tables reserved with Women of OpenStack signage.
+
+If you are interested in joining the Austin planning calls, they happen every other week on Wednesdays. Next one is on March 16th at 2pm CDT/12pm PDT.
+Dial In: +1 631.992.3444,,,8729080#
+Etherpad: https://etherpad.openstack.org/p/WOS_Austin_Planning_02_17_16[etherpad.openstack.org]<https://urldefense.proofpoint.com/v2/url?u=https-3A__etherpad.openstack.org_p_WOS-5FAustin-5FPlanning-5F02-5F17-5F16&d=CwMF-g&c=BccdRNQESk37WwXULth_0m4LIpjCbhw7hXLJWL3EbE8&r=-BVfnZ4yonXnXvGAA4IsY8birMfNLe1JgeLiDjEluVk&m=AC9s24_2xOyhDLHWYNorMlnvDIQ1PqyaWkpE4zS0kW8&s=uGQ4Nn-Yz8_DQshWaB2Mh1MgedszRvDLy0WYOlxygeo&e=>
+
+Let us know if you have any questions, looking forward to seeing you in Austin!
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org<mailto:erin at openstack.org>
+
+QUALITY TECHNOLOGY SERVICES CONFIDENTIALITY NOTICE:
+This e-mail message including its attachments is classified COMPANY CONFIDENTIAL. It is intended for the person or entity to which it is addressed and may contain confidential material. Quality Technology Services controls the distribution of COMPANY CONFIDENTIAL assets, as such, any unauthorized review, use, disclosure or distribution is prohibited. If you are not the intended recipient, please contact us at irt at qtsdatacenters.com or 866-239-5000 and destroy all copies of the original message. Thank you.
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160309/32faa02f/attachment-0001.html>
+
+From kendall at openstack.org  Fri Mar 11 00:44:43 2016
+From: kendall at openstack.org (Kendall Waters)
+Date: Thu, 10 Mar 2016 18:44:43 -0600
+Subject: [Women-of-openstack] TIME SENSITIVE: Registration Prices Increase
+	March 11 - OpenStack Summit Austin
+In-Reply-To: <A7AEBFBD-0215-4368-AF6D-077FDED1E49C@openstack.org>
+References: <A7AEBFBD-0215-4368-AF6D-077FDED1E49C@openstack.org>
+Message-ID: <8EA3751E-6DA1-4D6D-BB92-3631FABFCB54@openstack.org>
+
+Hi everyone,
+
+Quick reminder - registration prices for the OpenStack Summit in Austin will increases in less than 7 hours!
+
+Hurry and register now. 
+
+Cheers,
+Kendall
+
+> On Mar 9, 2016, at 10:47 AM, Kendall Waters <kendall at openstack.org> wrote:
+> 
+> Hi everyone,
+> 
+> The early bird registration deadline for the Austin Summit is this Thursday, March 10 at 11:59pm PST (March 11 at 7:59 UTC). Prices will increase immediately following that time.
+> 
+> Register NOW to hear from OpenStack users including Nike, Walmart, AT&T, Verizon, Ancestry.com and more! Checkout the full lineup of speakers in the Summit agenda. 
+> 
+> There will also be:
+> Several training and workshops available at OpenStack Academy 
+> StackCity Austin, a community festival for Stackers
+> 20 tracks and more than 400 sessions in the main conference
+> 
+> If you have any questions related to the Summit, please contact summit at openstack.org.
+> 
+> Cheers,
+> Kendall
+> 
+> Kendall Waters
+> OpenStack Marketing
+> kendall at openstack.org
+> 
+> 
+> _______________________________________________
+> Marketing mailing list
+> Marketing at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/marketing
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160310/7f17315c/attachment.html>
+
+From beth.cohen at verizon.com  Wed Mar 16 21:11:44 2016
+From: beth.cohen at verizon.com (Cohen, Beth F (Beth))
+Date: Wed, 16 Mar 2016 17:11:44 -0400
+Subject: [Women-of-openstack] Women of OpenStack Meeting
+Message-ID: <24310489C27ED447A664542AA6E308A917F2A1DEA0@FHDP1LUMXC7V33.us.one.verizon.com>
+
+General  Bi-Weekly Meeting
+
+https://etherpad.openstack.org/p/WOS_3_21_16
+
+Agenda
+?       Roll Call
+o       Beth Cohen - Leader
+
+?       Mentoring Team Update - Emily
+o
+?        Austin Planning Team Update - Courtney
+o
+o       Working Breakfast update - Jessica
+?
+?       Male Advocacy Team Update ? Nithya
+o
+?       Opens
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160316/f383b006/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: text/calendar
+Size: 6298 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160316/f383b006/attachment.ics>
+
+From carol.l.barrett at intel.com  Mon Mar 21 18:23:48 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 21 Mar 2016 18:23:48 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+
+All - This is our first team meeting since the daylight savings time change. Our team meeting is set for 2000 UTC. (1:00 Pacific). Pls check your calendar to make sure you're planning on attending at 2000 UTC.
+
+
+Beth Cohen: Can you pls send out an updated meeting invite?
+
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160321/f6679d87/attachment.html>
+
+From padma.dakoju at oracle.com  Mon Mar 21 18:50:29 2016
+From: padma.dakoju at oracle.com (Padma Dakoju)
+Date: Mon, 21 Mar 2016 11:50:29 -0700
+Subject: [Women-of-openstack] Job opportunities in OpenStack
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+Message-ID: <56F04275.4090600@oracle.com>
+
+Hi,
+Is it okay to post job opportunities to this distribution list?
+
+Thanks,
+Padma
+
+
+
+From kratna at juniper.net  Mon Mar 21 18:50:53 2016
+From: kratna at juniper.net (Kumuthini Ratnasingham)
+Date: Mon, 21 Mar 2016 18:50:53 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's
+ meeting
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+Message-ID: <BY1PR0501MB1318EB28B64FFDE3DC853CC0D78F0@BY1PR0501MB1318.namprd05.prod.outlook.com>
+
+Carol,
+
+
+I believe the invite still says 12 noon. would you mind sending out an updated invite ?
+
+
+~Thanks,
+
+Kumuthini
+
+
+________________________________
+From: Barrett, Carol L <carol.l.barrett at intel.com>
+Sent: Monday, March 21, 2016 11:23 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+All - This is our first team meeting since the daylight savings time change. Our team meeting is set for 2000 UTC. (1:00 Pacific). Pls check your calendar to make sure you're planning on attending at 2000 UTC.
+
+
+
+
+
+Beth Cohen: Can you pls send out an updated meeting invite?
+
+
+
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160321/156c76c9/attachment.html>
+
+From carol.l.barrett at intel.com  Mon Mar 21 19:21:09 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 21 Mar 2016 19:21:09 +0000
+Subject: [Women-of-openstack] Job opportunities in OpenStack
+In-Reply-To: <56F04275.4090600@oracle.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+ <56F04275.4090600@oracle.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CBE5F10@ORSMSX113.amr.corp.intel.com>
+
+No - There is an OpenStack job board mean for that... https://www.openstack.org/community/jobs/
+
+Thanks
+Carol
+
+-----Original Message-----
+From: Padma Dakoju [mailto:padma.dakoju at oracle.com] 
+Sent: Monday, March 21, 2016 11:50 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Job opportunities in OpenStack
+
+Hi,
+Is it okay to post job opportunities to this distribution list?
+
+Thanks,
+Padma
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+From padma.dakoju at oracle.com  Mon Mar 21 19:40:42 2016
+From: padma.dakoju at oracle.com (Padma Dakoju)
+Date: Mon, 21 Mar 2016 12:40:42 -0700
+Subject: [Women-of-openstack] Job opportunities in OpenStack
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D5CBE5F10@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+ <56F04275.4090600@oracle.com>
+ <2D352D0CD819F64F9715B1B89695400D5CBE5F10@ORSMSX113.amr.corp.intel.com>
+Message-ID: <56F04E3A.9030404@oracle.com>
+
+Thanks.
+
+--Padma
+
+On 3/21/2016 12:21 PM, Barrett, Carol L wrote:
+> No - There is an OpenStack job board mean for that... https://www.openstack.org/community/jobs/
+>
+> Thanks
+> Carol
+>
+> -----Original Message-----
+> From: Padma Dakoju [mailto:padma.dakoju at oracle.com]
+> Sent: Monday, March 21, 2016 11:50 AM
+> To: women-of-openstack at lists.openstack.org
+> Subject: [Women-of-openstack] Job opportunities in OpenStack
+>
+> Hi,
+> Is it okay to post job opportunities to this distribution list?
+>
+> Thanks,
+> Padma
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+From Nithya.Ruff at sandisk.com  Wed Mar 23 17:47:26 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Wed, 23 Mar 2016 17:47:26 +0000
+Subject: [Women-of-openstack] Job opportunities in OpenStack
+In-Reply-To: <56F04E3A.9030404@oracle.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+ <56F04275.4090600@oracle.com>
+ <2D352D0CD819F64F9715B1B89695400D5CBE5F10@ORSMSX113.amr.corp.intel.com>
+ <56F04E3A.9030404@oracle.com>
+Message-ID: <BL2PR02MB4207F6CAA885CEA3E6B1726F6810@BL2PR02MB420.namprd02.prod.outlook.com>
+
+All,
+
+
+
+Happy to share that Claire has now added the male allies workshop and panel to the agenda.  I have included the names of the people that Suzy Greenberg, Tamara Johnston and Shilla Saebi have provided for the panel.   I will also be on the panel to balance it out.  It will be moderated by Dr. Brad Mclain from NCWIT.    We will also have a workshop before this panel and want to make sure that the people on the panel will attend this workshop.  Suzy, Tamara and Shilla - please make sure your representatives on the panel attend the workshop.  It will prepare them for the panel. I will also work with Brad to see if there is any other prep call we want to do for the panel.
+
+1. Workshop:  TITLE: Champions for Change: Engaging Male Advocates for Diversity and Inclusion
+
+DESCRIPTION: A 2-hour lunch workshop on the research and practice of male advocacy, including why it matters and how to take action.  This spirited workshop will involve discussions, activities, resources, and key takeaways for both men and women to advocate for more inclusive environments that foster innovation in the technical environment. Led by National Center for Women and IT research scientist Dr. Brad McLain.
+
+
+
+All - please note that men and women who register for the workshop need to RSVP.  And will get an Eventbrite receipt for this.  Please encourage men and women on your teams and in influential positions in open stack to register.  We want people who want to be a champion for change and will showcase the ally and advocate behavior.   We have capacity for 100 people and I will also send an invite to the board and the diversity taskforce.  Eventbrite to capture RSVPs for the panel.
+
+* Workshop: https://www.openstack.org/summit/austin-2016/summit-schedule/events/9016
+
+
+
+2. Panel:  TITLE: The Diversity of Innovation
+
+DESCRIPTION: This 1-hour panel will focus on the links between diversity and inclusion strategies with technical innovation, talent recruiting and retention, male advocacy, and the OpenStack community. PANELISTS:  Imad Sousou - Intel, Nithya Ruff - SanDisk, Mark Muehl - Comcast, Dorian Naveh -  EMC Global Alliances.  These people were nominated by the women of open stack.
+
+  * Panel: https://www.openstack.org/summit/austin-2016/summit-schedule/events/9015
+
+
+
+Thank You,
+
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+
+WIN Board Member
+
+SanDisk Corporation
+
+951 SanDisk Drive, Milpitas, CA 95035
+
+T: + (408-801-7068)| M: + (510-378-3159)
+
+Nithya.Ruff at SanDisk.com        Twitter: @nithyaruff
+
+
+
+
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160323/c155f921/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Wed Mar 23 18:01:47 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Wed, 23 Mar 2016 18:01:47 +0000
+Subject: [Women-of-openstack] Male Allies Panel and Workshop - all set.
+	please help spread the word
+Message-ID: <BL2PR02MB420166A74B1A94E2F3D0949F6810@BL2PR02MB420.namprd02.prod.outlook.com>
+
+** with updated title.
+
+
+All,
+
+
+
+Happy to share that Claire has now added the male allies workshop and panel to the agenda.  I have included the names of the people that Suzy Greenberg, Tamara Johnston and Shilla Saebi have provided for the panel.   I will also be on the panel to balance it out.  It will be moderated by Dr. Brad Mclain from NCWIT.    We will also have a workshop before this panel and want to make sure that the people on the panel will attend this workshop.  Suzy, Tamara and Shilla - please make sure your representatives on the panel attend the workshop.  It will prepare them for the panel. I will also work with Brad to see if there is any other prep call we want to do for the panel.
+
+
+
+1. Workshop:  TITLE: Champions for Change: Engaging Male Advocates for Diversity and Inclusion
+
+DESCRIPTION: A 2-hour lunch workshop on the research and practice of male advocacy, including why it matters and how to take action.  This spirited workshop will involve discussions, activities, resources, and key takeaways for both men and women to advocate for more inclusive environments that foster innovation in the technical environment. Led by National Center for Women and IT research scientist Dr. Brad McLain.
+
+
+
+All - please note that men and women who register for the workshop need to RSVP.  And will get an Eventbrite receipt for this.  Please encourage men and women on your teams and in influential positions in open stack to register.  We want people who want to be a champion for change and will showcase the ally and advocate behavior.   We have capacity for 100 people and I will also send an invite to the board and the diversity taskforce.  Eventbrite to capture RSVPs for the panel.
+
+* Workshop: https://www.openstack.org/summit/austin-2016/summit-schedule/events/9016
+
+
+
+2. Panel:  TITLE: The Diversity of Innovation
+
+DESCRIPTION: This 1-hour panel will focus on the links between diversity and inclusion strategies with technical innovation, talent recruiting and retention, male advocacy, and the OpenStack community. PANELISTS:  Imad Sousou - Intel, Nithya Ruff - SanDisk, Mark Muehl - Comcast, Dorian Naveh -  EMC Global Alliances.  These people were nominated by the women of open stack.
+
+  * Panel: https://www.openstack.org/summit/austin-2016/summit-schedule/events/9015
+
+
+
+Thank You,
+
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+
+WIN Board Member
+
+SanDisk Corporation
+
+951 SanDisk Drive, Milpitas, CA 95035
+
+T: + (408-801-7068)| M: + (510-378-3159)
+
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff
+
+
+
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160323/9d6126c8/attachment-0001.html>
+
+From jessicak at us.ibm.com  Wed Mar 23 18:39:05 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Wed, 23 Mar 2016 12:39:05 -0600
+Subject: [Women-of-openstack] Male Allies Panel and Workshop - all
+ set.	please help spread the word
+In-Reply-To: <BL2PR02MB420166A74B1A94E2F3D0949F6810@BL2PR02MB420.namprd02.prod.outlook.com>
+References: <BL2PR02MB420166A74B1A94E2F3D0949F6810@BL2PR02MB420.namprd02.prod.outlook.com>
+Message-ID: <201603231839.u2NIdEmD016048@d03av05.boulder.ibm.com>
+
+This is great -- thanks for leading this effort, Nithya!
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Nithya Ruff <Nithya.Ruff at sandisk.com>
+To:	Nithya Ruff <Nithya.Ruff at sandisk.com>,
+            "women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	03/23/2016 01:03 PM
+Subject:	[Women-of-openstack] Male Allies Panel and Workshop - all set.
+            please help spread the word
+
+
+
+** with updated title.
+
+All,
+
+Happy to share that Claire has now added the male allies workshop and panel
+to the agenda.  I have included the names of the people that Suzy
+Greenberg, Tamara Johnston and Shilla Saebi have provided for the panel.
+I will also be on the panel to balance it out.  It will be moderated by Dr.
+Brad Mclain from NCWIT.    We will also have a workshop before this panel
+and want to make sure that the people on the panel will attend this
+workshop.  Suzy, Tamara and Shilla - please make sure your representatives
+on the panel attend the workshop.  It will prepare them for the panel. I
+will also work with Brad to see if there is any other prep call we want to
+do for the panel.
+
+1. Workshop:  TITLE: Champions for Change: Engaging Male Advocates for
+Diversity and Inclusion
+DESCRIPTION: A 2-hour lunch workshop on the research and practice of male
+advocacy, including why it matters and how to take action.  This spirited
+workshop will involve discussions, activities, resources, and key takeaways
+for both men and women to advocate for more inclusive environments that
+foster innovation in the technical environment. Led by National Center for
+Women and IT research scientist Dr. Brad McLain.
+
+All - please note that men and women who register for the workshop need to
+RSVP.  And will get an Eventbrite receipt for this.  Please encourage men
+and women on your teams and in influential positions in open stack to
+register.  We want people who want to be a champion for change and will
+showcase the ally and advocate behavior.   We have capacity for 100 people
+and I will also send an invite to the board and the diversity taskforce.
+Eventbrite to capture RSVPs for the panel.
+* Workshop:
+https://www.openstack.org/summit/austin-2016/summit-schedule/events/9016
+
+2. Panel:  TITLE: The Diversity of Innovation
+DESCRIPTION: This 1-hour panel will focus on the links between diversity
+and inclusion strategies with technical innovation, talent recruiting and
+retention, male advocacy, and the OpenStack community. PANELISTS:  Imad
+Sousou - Intel, Nithya Ruff - SanDisk, Mark Muehl ? Comcast, Dorian Naveh -
+EMC Global Alliances.  These people were nominated by the women of open
+stack.
+  * Panel:
+https://www.openstack.org/summit/austin-2016/summit-schedule/events/9015
+
+Thank You,
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com        Twitter: @nithyaruff
+
+
+PLEASE NOTE: The information contained in this electronic mail message is
+intended only for the use of the designated recipient(s) named above. If
+the reader of this message is not the intended recipient, you are hereby
+notified that you have received this message in error and that any review,
+dissemination, distribution, or copying of this message is strictly
+prohibited. If you have received this communication in error, please notify
+the sender by telephone or e-mail (as shown above) immediately and destroy
+any and all copies of this message in your possession (whether hard copies
+or electronically stored copies).
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160323/c11ca080/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160323/c11ca080/attachment.gif>
+
+From claire at openstack.org  Thu Mar 24 17:14:06 2016
+From: claire at openstack.org (Claire Massey)
+Date: Thu, 24 Mar 2016 12:14:06 -0500
+Subject: [Women-of-openstack] Save the Date- Austin WOO Sessions
+In-Reply-To: <CEEEA266-3509-451B-8D9E-3E2702B5B9DB@openstack.org>
+References: <CEEEA266-3509-451B-8D9E-3E2702B5B9DB@openstack.org>
+Message-ID: <0E73F969-5674-46BA-9AFA-1DCF09BE3013@openstack.org>
+
+Hi everyone,
+
+If you would like to attend any of the sessions that require an RSVP please go ahead and get yourselves registered now.
+
+More details and summit maps will be coming in the next week few weeks. Stay tuned!
+
+Cheers,
+Claire
+
+
+Complete list of talks with the ?Women of OpenStack? tag:
+https://www.openstack.org/summit/austin-2016/summit-schedule/global-search?t=women+of+openstack <https://www.openstack.org/summit/austin-2016/summit-schedule/global-search?t=women+of+openstack>
+
+CONVERSATION
+Diversity is a hot topic in the OpenStack community. Join the conversation and promote inclusivity with the hashtag #WeAreOpenStack. 
+
+LUNCH
+Tables will be reserved for the Women of OpenStack each day (Monday - Thursday) in the hot buffet lunch room, Expo Hall 5, over near the charging lounge. Look for the ?Reserved? signs. 
+
+LOUNGE
+The Waller Creek Lounge is informally dedicated to the Women of OpenStack. Feel free to schedule informal meet-ups there. ACC, Level 1. 
+
+SUNDAY
+Command Presence Workshop
+RSVP Required <https://commandpresenceworkshop.eventbrite.com/>
+9:30am-12:30pm
+JW Marriott, Level 3, Salon D
+In the class, each participant assumes a role, and is given about 30 minutes to prepare 1-2 slides. Once the class has prepared, the simulation begins. There is a role-play simulation. The workshop participants will experience rapid-fire questioning, interruption, and other situations that occur in senior-level meetings, but in a safe environment conducive to learning techniques for handling such situations. 
+
+Women of OpenStack Pre-Summit Social sponsored by EMC, IBM, and Intel
+RSVP Required <https://woopresummitsocial.eventbrite.com/>
+6:00-9:00pm
+The Belmont- 305 W 6th Street
+Shuttle Bus Transportation provided from the ACC
+Grab your Summit badge, hop on the bus and join us at the Belmont to jump start your week at the Summit with a fun evening where you can get to know your fellow Women of OpenStack! IBM, Intel and EMC are proud to host the Pre-Summit Social - organized by the OpenStack Foundation. RSVP Required. 
+
+MONDAY
+Women of OpenStack Speed Mentoring
+RSVP Required <https://speedmentoringwoo.eventbrite.com/>
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+This is designed to be a lightweight mentoring initiative to provide technical or career guidance to beginners in the community. It's like speed dating, where mentees will have five-to-10 minutes to talk to potential mentors, then cycle throughout the room for about an hour-and-a-half. At the end, people will fill out surveys with their preferences and we'll contact people about potential matches. Breakfast will be provided. 
+
+Women of Openstack Friendly Faces Meet-Up
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+First time at the Summit? Worried about wandering around looking like the new kid on campus or want to pass along your experiences to others? 
+The Women of OpenStack will be helping people to connect so you don?t have to wander the halls alone. This is a great opportunity to meet others and become more active in the community. Breakfast will be provided. 
+
+Want to be an OpenStack Intern
+2:50-3:30pm
+ACC, Level 4, MR 15
+This session hopes to demystify the process of contributing to OpenStack and spread awareness of the programs available to those who are looking to start their careers in OpenStack and open source. As former interns, we will share our experience and help the attendees to understand the application process and flow of any open source project.
+
+TUESDAY
+Women of OpenStack Working Breakfast Session sponsored by Comcast
+RSVP Required <https://wooworkingbreakfast.eventbrite.com/>
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+Join the Women of OpenStack on Tuesday morning before the keynote session to hear from other women working in the OpenStack community and discuss how we can help support each other. During the session we'll celebrate our accomplishments over the past year and hear lightning talks from three Women of OpenStack who have recently taken on new roles within the OpenStack community. The speakers and will share their insights on how you can accelerate your learning curve to navigate and become an influencer within the OpenStack community. We'll break into small groups to discuss the key lightening talk messages and identify actions for the Women of OpenStack to achieve over the next six months. Breakfast and coffee will be provided. 
+
+NCWIT Workshop - Champions for Change: Engaging Male Advocates for Diversity and Inclusion  
+RSVP Required <https://maleadvocatesfordiversity.eventbrite.com/>
+12:05-2:40pm
+Hilton Austin, Level 6, Salon F
+Grab lunch and join this workshop on the research and practice of male advocacy, including why it matters and how to take action. This spirited workshop will involve discussions, activities, resources, and key takeaways for both men and women to advocate for more inclusive environments that foster innovation in the technical environment. Led by National Center for Women and IT research scientist Dr. Brad McLain. 
+
+NCWIT Panel - The Diversity of Innovation
+4:40-5:20pm
+ACC, Level 4, Ballroom G
+This panel will focus on the links between diversity and inclusion strategies with technical innovation, talent recruiting and retention, male advocacy, and the OpenStack community. 
+
+StackCity Austin- A Community Festival for Stackers
+RSVP Required (coming soon)
+Lucille bar on Rainey Street
+7:00-11:00pm
+Experience the best of what Austin has to offer at this Texas-sized community evening event. Stroll a few blocks from the Austin Convention Center and you?ll find an open-air party hosted at 15 bars and restaurants lining historic Rainey Street. Expect a few surprises in an evening offering something for everyone including live music from local artists, stand-up comedy, and, of course, barbecue and tacos. The Women of OpenStack will have their own venue, Lucille <http://lucilleaustin.com/gallery.html>, sponsored by Red Hat. 
+
+WEDNESDAY
+Diversity Working Group
+11:00-12:25pm
+Hilton Austin, Level 6, Salon F
+A broad set of community members formed the Diversity Work Group that has worked over the last year to form a framework for a diverse community through the creation of a Diversity Policy, integrated Diversity expectations into our Code of Conducts and identified initial areas of focus for extending the diversity of our community. Please come join us to discuss the team?s work and shape the future direction.
+
+Git and Gerrit Lunch and Learn
+RSVP Required <https://gitandgerritlunchandlearn.eventbrite.com/>
+12:30-1:50pm
+Hilton Austin, Level 6, Salon F
+In this session we will walk-through participants to open a bug in a test system and then submit a test patch to a repository in OpenStack. The process involves learning about git along with a cheat sheet of most useful commands and review process in Gerrit. Participants will walk away with working knowledge on these tools.
+
+Women of OpenStack Afternoon Sync-Up
+4:10-5:00pm
+ACC, Level 1, Waller Creek Lounge
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+
+THURSDAY
+Fostering Full Equality
+1:30-2:10pm
+ACC, Level 4, MR 15
+Following up on the themes related to gender equality presented at the previous Summit talks sponsored by The Women of OpenStack working group, this session will focus on our vision of a world where the OpenStack community is truly and completely blind to meaningless differences in gender, color, creed and culture. What will this new world look like? How will it differ from the current one? A panel of people from all walks of life will explore what that future is and what we can do as a community as a whole to achieve it.
+
+Newcomers Need You, How to Be a Good Mentor
+2:20-3:00pm
+ACC, Level 4, MR 15
+You still remember the first time you've heard the word OpenStack, the efforts you had to make to wrap your head around it and to get your first patch merged. Now you know enough to be able to teach other people and put them up to speed. You would like to be a mentor but you are not sure about how time consuming it might be, you still have doubts and questions. In this session we will try to answer them.
+
+
+
+> On Mar 8, 2016, at 9:47 AM, Erin Disney <erin at openstack.org> wrote:
+> 
+> The main conference Summit schedule is now live here <https://www.openstack.org/summit/austin-2016/summit-schedule>! Wanted to flag all of the women-specific events happening throughout the week. Please note those that require RSVP?s. 
+> 
+> Also, here is a link <https://www.openstack.org/summit/austin-2016/summit-schedule/global-search?t=women+of+openstack> to an aggregate of all the sessions with the Women of OpenStack tag for your reference. 
+> 
+> OpenStack Summit Austin, April 24-29th
+> 
+> SUNDAY
+> Command Presence Workshop
+> 9:30am-12:30pm
+> JW Marriott- Salon D
+> The Command Presence Workshop has been recognized by the Anita Borg Institute and Harvard Business Review. It is intended to teach participants how to handle ?senior-level high pressure meetings?. The majority of the workshop is a task-force convened to address a simulated, but very realistic crisis event. In the class, each participant assumes a role, and is given about 30minutes to prepare 1-2 slides. Once the class has prepared, the simulation begins. There is a role-play simulation. It is not uncommon to hear occasional ?gasps? of disbelief from the participants. The workshop participants will experience rapid-fire questioning, interruption, and other situations that occur in senior-level meetings, but in a safe environment conducive to learning techniques for handling such situations. Facilitators: Ruchi Bhargava (Intel), Malini Bhandaru (Intel) and a panel of leaders representative of the OpenStack leadership in the community (business leaders and technical leaders).
+> RSVP Required <https://commandpresenceworkshop.eventbrite.com/>
+> 
+> Women of OpenStack Pre-Summit Social- sponsored by EMC, IBM, and Intel
+> 6:00-9:00pm
+> The Belmont- 305 W 6th Street
+> Join the Women of OpenStack for an evening of networking and celebration to kick off another OpenStack Summit. EMC, IBM, and Intel will sponsor the Women of OpenStack Pre-Summit Social, featuring food, drinks and live music from acclaimed artist Tameca Jones. Shuttles will be available from the Convention Center to the venue starting at 5:50pm. 
+> RSVP Required (coming soon)
+> 
+> MONDAY
+> Speed Mentoring
+> 7:00-8:45am
+> ACC, Level 1, Expo Hall 5
+> The new mentoring program sponsored the Women of OpenStack is designed to be a lightweight mentoring initiative to provide technical or career guidance to beginners in the community. Mentees should already be part of the community; they should have gone through, or be familiar with the Upstream Training. Mentees will have five-to-10 minutes to talk to potential mentors, then cycle throughout the room for about an hour-and-a-half. At the end, people will fill out surveys with their preferences and we'll contact people about potential matches. Breakfast and coffee will be provided. More information coming soon. 
+> RSVP Required <https://openstackfoundation.formstack.com/forms/mentoring>
+> 
+> TUESDAY
+> Women of OpenStack Breakfast sponsored by Comcast
+> 7:00-8:45am
+> ACC, Level 1, Expo Hall 5
+> Details and an agenda will be announced soon. Breakfast and coffee will be provided. 
+> RSVP Required <https://wooworkingbreakfast.eventbrite.com/>
+> 
+> NCWIT Male Allies Workshop
+> 12:05-2:40pm
+> Hilton Austin, Level 6, Salon F
+> The National Center for Women in Information Technology (NCWIT) will join us at the OpenStack Summit Austin to discuss why it matters and how to advocate for more inclusive environments that foster innovation in the technical environment, led by NCWIT research scientist Dr. Brad McLain <https://www.ncwit.org/profile/brad-mclain>. This session welcomes male allies who want to make a difference in the OpenStack community. Please grab a boxed lunch on Level 4 before you join us on Level 6.
+> RSVP Required (coming soon)
+> 
+> NCWIT Male Allies Panel
+> 4:40-5:20pm
+> ACC, Level 4, Ballroom G
+> An NCWIT-supported panel during the OpenStack Summit, which would focus on diversity and inclusion topics, including male advocacy, for the general OpenStack community. No RSVP required.
+> 
+> StackCity Austin- A Community Festival for Stackers- Women of OpenStack venue sponsored by Red Hat
+> 7-11pm
+> On Tuesday night experience the best of what Austin has to offer at this Texas-sized community evening event. Stroll a few blocks from the Austin Convention Center and you?ll find an open-air party hosted at 15 bars and restaurants lining historic Rainey Street. Expect a few surprises in an evening offering something for everyone including live music from local artists, stand-up comedy, and, of course, barbecue and tacos. The Women of OpenStack will have their own venue, Lucille <http://lucilleaustin.com/gallery.html>, sponsored by Red Hat. 
+> RSVP Required (coming soon)
+> 
+> WEDNESDAY
+> Afternoon Sync
+> 4:10-5:00pm
+> Location: TBD
+> Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+> 
+> Git and Gerrit- Lunch and Learn
+> 12:30-1:50pm
+> Hilton Austin, Level 6, Salon F
+> RSVP Required <https://gitandgerritlunchandlearn.eventbrite.com/>
+> 
+> All week, head over to Expo Hall 5 on the 1st floor of the Convention Center to join your fellow Women of OpenStack for daily lunch get togethers. Per your request, we will have tables reserved with Women of OpenStack signage. 
+> 
+> If you are interested in joining the Austin planning calls, they happen every other week on Wednesdays. Next one is on March 16th at 2pm CDT/12pm PDT. 
+> Dial In: +1 631.992.3444,,,8729080#
+> Etherpad: https://etherpad.openstack.org/p/WOS_Austin_Planning_02_17_16 <https://etherpad.openstack.org/p/WOS_Austin_Planning_02_17_16>
+> 
+> Let us know if you have any questions, looking forward to seeing you in Austin!
+> 
+> Erin Disney
+> OpenStack Marketing
+> erin at openstack.org <mailto:erin at openstack.org>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/9d29ac13/attachment-0001.html>
+
+From marcela.bonell.manjarrez at intel.com  Thu Mar 24 17:42:33 2016
+From: marcela.bonell.manjarrez at intel.com (Bonell Manjarrez, Marcela)
+Date: Thu, 24 Mar 2016 17:42:33 +0000
+Subject: [Women-of-openstack] Save the Date- Austin WOO Sessions
+In-Reply-To: <0E73F969-5674-46BA-9AFA-1DCF09BE3013@openstack.org>
+References: <CEEEA266-3509-451B-8D9E-3E2702B5B9DB@openstack.org>
+ <0E73F969-5674-46BA-9AFA-1DCF09BE3013@openstack.org>
+Message-ID: <D92F2F66-2A84-47B7-B7C7-2CF2C5295DE1@intel.com>
+
+This will be my first OpenStack Summit, thank you for all your efforts, the sessions look very interesting.
+Loving the WOO community, looking forward to meet you in Austin!
+#WeAreOpenStack
+
+Marcela Bonell
+
+From: Claire Massey
+Date: Thursday, March 24, 2016 at 11:14 AM
+To: Erin Disney, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>"
+Subject: Re: [Women-of-openstack] Save the Date- Austin WOO Sessions
+
+Hi everyone,
+
+If you would like to attend any of the sessions that require an RSVP please go ahead and get yourselves registered now.
+
+More details and summit maps will be coming in the next week few weeks. Stay tuned!
+
+Cheers,
+Claire
+
+
+Complete list of talks with the ?Women of OpenStack? tag:
+https://www.openstack.org/summit/austin-2016/summit-schedule/global-search?t=women+of+openstack
+
+CONVERSATION
+Diversity is a hot topic in the OpenStack community. Join the conversation and promote inclusivity with the hashtag #WeAreOpenStack.
+
+LUNCH
+Tables will be reserved for the Women of OpenStack each day (Monday - Thursday) in the hot buffet lunch room, Expo Hall 5, over near the charging lounge. Look for the ?Reserved? signs.
+
+LOUNGE
+The Waller Creek Lounge is informally dedicated to the Women of OpenStack. Feel free to schedule informal meet-ups there. ACC, Level 1.
+
+SUNDAY
+Command Presence Workshop
+RSVP Required<https://commandpresenceworkshop.eventbrite.com/>
+9:30am-12:30pm
+JW Marriott, Level 3, Salon D
+In the class, each participant assumes a role, and is given about 30 minutes to prepare 1-2 slides. Once the class has prepared, the simulation begins. There is a role-play simulation. The workshop participants will experience rapid-fire questioning, interruption, and other situations that occur in senior-level meetings, but in a safe environment conducive to learning techniques for handling such situations.
+
+Women of OpenStack Pre-Summit Social sponsored by EMC, IBM, and Intel
+RSVP Required<https://woopresummitsocial.eventbrite.com/>
+6:00-9:00pm
+The Belmont- 305 W 6th Street
+Shuttle Bus Transportation provided from the ACC
+Grab your Summit badge, hop on the bus and join us at the Belmont to jump start your week at the Summit with a fun evening where you can get to know your fellow Women of OpenStack! IBM, Intel and EMC are proud to host the Pre-Summit Social - organized by the OpenStack Foundation. RSVP Required.
+
+MONDAY
+Women of OpenStack Speed Mentoring
+RSVP Required<https://speedmentoringwoo.eventbrite.com/>
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+This is designed to be a lightweight mentoring initiative to provide technical or career guidance to beginners in the community. It's like speed dating, where mentees will have five-to-10 minutes to talk to potential mentors, then cycle throughout the room for about an hour-and-a-half. At the end, people will fill out surveys with their preferences and we'll contact people about potential matches. Breakfast will be provided.
+
+Women of Openstack Friendly Faces Meet-Up
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+First time at the Summit? Worried about wandering around looking like the new kid on campus or want to pass along your experiences to others?
+The Women of OpenStack will be helping people to connect so you don?t have to wander the halls alone. This is a great opportunity to meet others and become more active in the community. Breakfast will be provided.
+
+Want to be an OpenStack Intern
+2:50-3:30pm
+ACC, Level 4, MR 15
+This session hopes to demystify the process of contributing to OpenStack and spread awareness of the programs available to those who are looking to start their careers in OpenStack and open source. As former interns, we will share our experience and help the attendees to understand the application process and flow of any open source project.
+
+TUESDAY
+Women of OpenStack Working Breakfast Session sponsored by Comcast
+RSVP Required<https://wooworkingbreakfast.eventbrite.com/>
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+Join the Women of OpenStack on Tuesday morning before the keynote session to hear from other women working in the OpenStack community and discuss how we can help support each other. During the session we'll celebrate our accomplishments over the past year and hear lightning talks from three Women of OpenStack who have recently taken on new roles within the OpenStack community. The speakers and will share their insights on how you can accelerate your learning curve to navigate and become an influencer within the OpenStack community. We'll break into small groups to discuss the key lightening talk messages and identify actions for the Women of OpenStack to achieve over the next six months. Breakfast and coffee will be provided.
+
+NCWIT Workshop - Champions for Change: Engaging Male Advocates for Diversity and Inclusion
+RSVP Required<https://maleadvocatesfordiversity.eventbrite.com/>
+12:05-2:40pm
+Hilton Austin, Level 6, Salon F
+Grab lunch and join this workshop on the research and practice of male advocacy, including why it matters and how to take action. This spirited workshop will involve discussions, activities, resources, and key takeaways for both men and women to advocate for more inclusive environments that foster innovation in the technical environment. Led by National Center for Women and IT research scientist Dr. Brad McLain.
+
+NCWIT Panel - The Diversity of Innovation
+4:40-5:20pm
+ACC, Level 4, Ballroom G
+This panel will focus on the links between diversity and inclusion strategies with technical innovation, talent recruiting and retention, male advocacy, and the OpenStack community.
+
+StackCity Austin- A Community Festival for Stackers
+RSVP Required (coming soon)
+Lucille bar on Rainey Street
+7:00-11:00pm
+Experience the best of what Austin has to offer at this Texas-sized community evening event. Stroll a few blocks from the Austin Convention Center and you?ll find an open-air party hosted at 15 bars and restaurants lining historic Rainey Street. Expect a few surprises in an evening offering something for everyone including live music from local artists, stand-up comedy, and, of course, barbecue and tacos. The Women of OpenStack will have their own venue, Lucille<http://lucilleaustin.com/gallery.html>, sponsored by Red Hat.
+
+WEDNESDAY
+Diversity Working Group
+11:00-12:25pm
+Hilton Austin, Level 6, Salon F
+A broad set of community members formed the Diversity Work Group that has worked over the last year to form a framework for a diverse community through the creation of a Diversity Policy, integrated Diversity expectations into our Code of Conducts and identified initial areas of focus for extending the diversity of our community. Please come join us to discuss the team?s work and shape the future direction.
+
+Git and Gerrit Lunch and Learn
+RSVP Required<https://gitandgerritlunchandlearn.eventbrite.com/>
+12:30-1:50pm
+Hilton Austin, Level 6, Salon F
+In this session we will walk-through participants to open a bug in a test system and then submit a test patch to a repository in OpenStack. The process involves learning about git along with a cheat sheet of most useful commands and review process in Gerrit. Participants will walk away with working knowledge on these tools.
+
+Women of OpenStack Afternoon Sync-Up
+4:10-5:00pm
+ACC, Level 1, Waller Creek Lounge
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+
+THURSDAY
+Fostering Full Equality
+1:30-2:10pm
+ACC, Level 4, MR 15
+Following up on the themes related to gender equality presented at the previous Summit talks sponsored by The Women of OpenStack working group, this session will focus on our vision of a world where the OpenStack community is truly and completely blind to meaningless differences in gender, color, creed and culture. What will this new world look like? How will it differ from the current one? A panel of people from all walks of life will explore what that future is and what we can do as a community as a whole to achieve it.
+
+Newcomers Need You, How to Be a Good Mentor
+2:20-3:00pm
+ACC, Level 4, MR 15
+You still remember the first time you've heard the word OpenStack, the efforts you had to make to wrap your head around it and to get your first patch merged. Now you know enough to be able to teach other people and put them up to speed. You would like to be a mentor but you are not sure about how time consuming it might be, you still have doubts and questions. In this session we will try to answer them.
+
+
+
+On Mar 8, 2016, at 9:47 AM, Erin Disney <erin at openstack.org<mailto:erin at openstack.org>> wrote:
+
+The main conference Summit schedule is now live here<https://www.openstack.org/summit/austin-2016/summit-schedule>! Wanted to flag all of the women-specific events happening throughout the week. Please note those that require RSVP?s.
+
+Also, here is a link<https://www.openstack.org/summit/austin-2016/summit-schedule/global-search?t=women+of+openstack> to an aggregate of all the sessions with the Women of OpenStack tag for your reference.
+
+OpenStack Summit Austin, April 24-29th
+
+SUNDAY
+Command Presence Workshop
+9:30am-12:30pm
+JW Marriott- Salon D
+The Command Presence Workshop has been recognized by the Anita Borg Institute and Harvard Business Review. It is intended to teach participants how to handle ?senior-level high pressure meetings?. The majority of the workshop is a task-force convened to address a simulated, but very realistic crisis event. In the class, each participant assumes a role, and is given about 30minutes to prepare 1-2 slides. Once the class has prepared, the simulation begins. There is a role-play simulation. It is not uncommon to hear occasional ?gasps? of disbelief from the participants. The workshop participants will experience rapid-fire questioning, interruption, and other situations that occur in senior-level meetings, but in a safe environment conducive to learning techniques for handling such situations. Facilitators: Ruchi Bhargava (Intel), Malini Bhandaru (Intel) and a panel of leaders representative of the OpenStack leadership in the community (business leaders and technical leaders).
+RSVP Required<https://commandpresenceworkshop.eventbrite.com/>
+
+Women of OpenStack Pre-Summit Social- sponsored by EMC, IBM, and Intel
+6:00-9:00pm
+The Belmont- 305 W 6th Street
+Join the Women of OpenStack for an evening of networking and celebration to kick off another OpenStack Summit. EMC, IBM, and Intel will sponsor the Women of OpenStack Pre-Summit Social, featuring food, drinks and live music from acclaimed artist Tameca Jones. Shuttles will be available from the Convention Center to the venue starting at 5:50pm.
+RSVP Required (coming soon)
+
+MONDAY
+Speed Mentoring
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+The new mentoring program sponsored the Women of OpenStack is designed to be a lightweight mentoring initiative to provide technical or career guidance to beginners in the community. Mentees should already be part of the community; they should have gone through, or be familiar with the Upstream Training. Mentees will have five-to-10 minutes to talk to potential mentors, then cycle throughout the room for about an hour-and-a-half. At the end, people will fill out surveys with their preferences and we'll contact people about potential matches. Breakfast and coffee will be provided. More information coming soon.
+RSVP Required<https://openstackfoundation.formstack.com/forms/mentoring>
+
+TUESDAY
+Women of OpenStack Breakfast sponsored by Comcast
+7:00-8:45am
+ACC, Level 1, Expo Hall 5
+Details and an agenda will be announced soon. Breakfast and coffee will be provided.
+RSVP Required<https://wooworkingbreakfast.eventbrite.com/>
+
+NCWIT Male Allies Workshop
+12:05-2:40pm
+Hilton Austin, Level 6, Salon F
+The National Center for Women in Information Technology (NCWIT) will join us at the OpenStack Summit Austin to discuss why it matters and how to advocate for more inclusive environments that foster innovation in the technical environment, led by NCWIT research scientist Dr. Brad McLain<https://www.ncwit.org/profile/brad-mclain>. This session welcomes male allies who want to make a difference in the OpenStack community. Please grab a boxed lunch on Level 4 before you join us on Level 6.
+RSVP Required (coming soon)
+
+NCWIT Male Allies Panel
+4:40-5:20pm
+ACC, Level 4, Ballroom G
+An NCWIT-supported panel during the OpenStack Summit, which would focus on diversity and inclusion topics, including male advocacy, for the general OpenStack community. No RSVP required.
+
+StackCity Austin- A Community Festival for Stackers- Women of OpenStack venue sponsored by Red Hat
+7-11pm
+On Tuesday night experience the best of what Austin has to offer at this Texas-sized community evening event. Stroll a few blocks from the Austin Convention Center and you?ll find an open-air party hosted at 15 bars and restaurants lining historic Rainey Street. Expect a few surprises in an evening offering something for everyone including live music from local artists, stand-up comedy, and, of course, barbecue and tacos. The Women of OpenStack will have their own venue, Lucille<http://lucilleaustin.com/gallery.html>, sponsored by Red Hat.
+RSVP Required (coming soon)
+
+WEDNESDAY
+Afternoon Sync
+4:10-5:00pm
+Location: TBD
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+
+Git and Gerrit- Lunch and Learn
+12:30-1:50pm
+Hilton Austin, Level 6, Salon F
+RSVP Required<https://gitandgerritlunchandlearn.eventbrite.com/>
+
+All week, head over to Expo Hall 5 on the 1st floor of the Convention Center to join your fellow Women of OpenStack for daily lunch get togethers. Per your request, we will have tables reserved with Women of OpenStack signage.
+
+If you are interested in joining the Austin planning calls, they happen every other week on Wednesdays. Next one is on March 16th at 2pm CDT/12pm PDT.
+Dial In: +1 631.992.3444,,,8729080#
+Etherpad: https://etherpad.openstack.org/p/WOS_Austin_Planning_02_17_16
+
+Let us know if you have any questions, looking forward to seeing you in Austin!
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org<mailto:erin at openstack.org>
+
+
+
+From Nithya.Ruff at sandisk.com  Thu Mar 24 17:44:23 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Thu, 24 Mar 2016 17:44:23 +0000
+Subject: [Women-of-openstack] Save the Date- Austin WOO Sessions
+In-Reply-To: <D92F2F66-2A84-47B7-B7C7-2CF2C5295DE1@intel.com>
+References: <CEEEA266-3509-451B-8D9E-3E2702B5B9DB@openstack.org>
+ <0E73F969-5674-46BA-9AFA-1DCF09BE3013@openstack.org>,
+ <D92F2F66-2A84-47B7-B7C7-2CF2C5295DE1@intel.com>
+Message-ID: <A9227EDE-AAA3-41B9-9634-DB5FDDB8DD7E@sandisk.com>
+
+Welcome. This is an amazing and strong community. We look forward to your participation.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+> On Mar 24, 2016, at 10:43 AM, Bonell Manjarrez, Marcela <marcela.bonell.manjarrez at intel.com> wrote:
+>
+> This will be my first OpenStack Summit, thank you for all your efforts, the sessions look very interesting.
+> Loving the WOO community, looking forward to meet you in Austin!
+> #WeAreOpenStack
+>
+> Marcela Bonell
+>
+> From: Claire Massey
+> Date: Thursday, March 24, 2016 at 11:14 AM
+> To: Erin Disney, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>"
+> Subject: Re: [Women-of-openstack] Save the Date- Austin WOO Sessions
+>
+> Hi everyone,
+>
+> If you would like to attend any of the sessions that require an RSVP please go ahead and get yourselves registered now.
+>
+> More details and summit maps will be coming in the next week few weeks. Stay tuned!
+>
+> Cheers,
+> Claire
+>
+>
+> Complete list of talks with the ?Women of OpenStack? tag:
+> https://www.openstack.org/summit/austin-2016/summit-schedule/global-search?t=women+of+openstack
+>
+> CONVERSATION
+> Diversity is a hot topic in the OpenStack community. Join the conversation and promote inclusivity with the hashtag #WeAreOpenStack.
+>
+> LUNCH
+> Tables will be reserved for the Women of OpenStack each day (Monday - Thursday) in the hot buffet lunch room, Expo Hall 5, over near the charging lounge. Look for the ?Reserved? signs.
+>
+> LOUNGE
+> The Waller Creek Lounge is informally dedicated to the Women of OpenStack. Feel free to schedule informal meet-ups there. ACC, Level 1.
+>
+> SUNDAY
+> Command Presence Workshop
+> RSVP Required<https://commandpresenceworkshop.eventbrite.com/>
+> 9:30am-12:30pm
+> JW Marriott, Level 3, Salon D
+> In the class, each participant assumes a role, and is given about 30 minutes to prepare 1-2 slides. Once the class has prepared, the simulation begins. There is a role-play simulation. The workshop participants will experience rapid-fire questioning, interruption, and other situations that occur in senior-level meetings, but in a safe environment conducive to learning techniques for handling such situations.
+>
+> Women of OpenStack Pre-Summit Social sponsored by EMC, IBM, and Intel
+> RSVP Required<https://woopresummitsocial.eventbrite.com/>
+> 6:00-9:00pm
+> The Belmont- 305 W 6th Street
+> Shuttle Bus Transportation provided from the ACC
+> Grab your Summit badge, hop on the bus and join us at the Belmont to jump start your week at the Summit with a fun evening where you can get to know your fellow Women of OpenStack! IBM, Intel and EMC are proud to host the Pre-Summit Social - organized by the OpenStack Foundation. RSVP Required.
+>
+> MONDAY
+> Women of OpenStack Speed Mentoring
+> RSVP Required<https://speedmentoringwoo.eventbrite.com/>
+> 7:00-8:45am
+> ACC, Level 1, Expo Hall 5
+> This is designed to be a lightweight mentoring initiative to provide technical or career guidance to beginners in the community. It's like speed dating, where mentees will have five-to-10 minutes to talk to potential mentors, then cycle throughout the room for about an hour-and-a-half. At the end, people will fill out surveys with their preferences and we'll contact people about potential matches. Breakfast will be provided.
+>
+> Women of Openstack Friendly Faces Meet-Up
+> 7:00-8:45am
+> ACC, Level 1, Expo Hall 5
+> First time at the Summit? Worried about wandering around looking like the new kid on campus or want to pass along your experiences to others?
+> The Women of OpenStack will be helping people to connect so you don?t have to wander the halls alone. This is a great opportunity to meet others and become more active in the community. Breakfast will be provided.
+>
+> Want to be an OpenStack Intern
+> 2:50-3:30pm
+> ACC, Level 4, MR 15
+> This session hopes to demystify the process of contributing to OpenStack and spread awareness of the programs available to those who are looking to start their careers in OpenStack and open source. As former interns, we will share our experience and help the attendees to understand the application process and flow of any open source project.
+>
+> TUESDAY
+> Women of OpenStack Working Breakfast Session sponsored by Comcast
+> RSVP Required<https://wooworkingbreakfast.eventbrite.com/>
+> 7:00-8:45am
+> ACC, Level 1, Expo Hall 5
+> Join the Women of OpenStack on Tuesday morning before the keynote session to hear from other women working in the OpenStack community and discuss how we can help support each other. During the session we'll celebrate our accomplishments over the past year and hear lightning talks from three Women of OpenStack who have recently taken on new roles within the OpenStack community. The speakers and will share their insights on how you can accelerate your learning curve to navigate and become an influencer within the OpenStack community. We'll break into small groups to discuss the key lightening talk messages and identify actions for the Women of OpenStack to achieve over the next six months. Breakfast and coffee will be provided.
+>
+> NCWIT Workshop - Champions for Change: Engaging Male Advocates for Diversity and Inclusion
+> RSVP Required<https://maleadvocatesfordiversity.eventbrite.com/>
+> 12:05-2:40pm
+> Hilton Austin, Level 6, Salon F
+> Grab lunch and join this workshop on the research and practice of male advocacy, including why it matters and how to take action. This spirited workshop will involve discussions, activities, resources, and key takeaways for both men and women to advocate for more inclusive environments that foster innovation in the technical environment. Led by National Center for Women and IT research scientist Dr. Brad McLain.
+>
+> NCWIT Panel - The Diversity of Innovation
+> 4:40-5:20pm
+> ACC, Level 4, Ballroom G
+> This panel will focus on the links between diversity and inclusion strategies with technical innovation, talent recruiting and retention, male advocacy, and the OpenStack community.
+>
+> StackCity Austin- A Community Festival for Stackers
+> RSVP Required (coming soon)
+> Lucille bar on Rainey Street
+> 7:00-11:00pm
+> Experience the best of what Austin has to offer at this Texas-sized community evening event. Stroll a few blocks from the Austin Convention Center and you?ll find an open-air party hosted at 15 bars and restaurants lining historic Rainey Street. Expect a few surprises in an evening offering something for everyone including live music from local artists, stand-up comedy, and, of course, barbecue and tacos. The Women of OpenStack will have their own venue, Lucille<http://lucilleaustin.com/gallery.html>, sponsored by Red Hat.
+>
+> WEDNESDAY
+> Diversity Working Group
+> 11:00-12:25pm
+> Hilton Austin, Level 6, Salon F
+> A broad set of community members formed the Diversity Work Group that has worked over the last year to form a framework for a diverse community through the creation of a Diversity Policy, integrated Diversity expectations into our Code of Conducts and identified initial areas of focus for extending the diversity of our community. Please come join us to discuss the team?s work and shape the future direction.
+>
+> Git and Gerrit Lunch and Learn
+> RSVP Required<https://gitandgerritlunchandlearn.eventbrite.com/>
+> 12:30-1:50pm
+> Hilton Austin, Level 6, Salon F
+> In this session we will walk-through participants to open a bug in a test system and then submit a test patch to a repository in OpenStack. The process involves learning about git along with a cheat sheet of most useful commands and review process in Gerrit. Participants will walk away with working knowledge on these tools.
+>
+> Women of OpenStack Afternoon Sync-Up
+> 4:10-5:00pm
+> ACC, Level 1, Waller Creek Lounge
+> Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+>
+> THURSDAY
+> Fostering Full Equality
+> 1:30-2:10pm
+> ACC, Level 4, MR 15
+> Following up on the themes related to gender equality presented at the previous Summit talks sponsored by The Women of OpenStack working group, this session will focus on our vision of a world where the OpenStack community is truly and completely blind to meaningless differences in gender, color, creed and culture. What will this new world look like? How will it differ from the current one? A panel of people from all walks of life will explore what that future is and what we can do as a community as a whole to achieve it.
+>
+> Newcomers Need You, How to Be a Good Mentor
+> 2:20-3:00pm
+> ACC, Level 4, MR 15
+> You still remember the first time you've heard the word OpenStack, the efforts you had to make to wrap your head around it and to get your first patch merged. Now you know enough to be able to teach other people and put them up to speed. You would like to be a mentor but you are not sure about how time consuming it might be, you still have doubts and questions. In this session we will try to answer them.
+>
+>
+>
+> On Mar 8, 2016, at 9:47 AM, Erin Disney <erin at openstack.org<mailto:erin at openstack.org>> wrote:
+>
+> The main conference Summit schedule is now live here<https://www.openstack.org/summit/austin-2016/summit-schedule>! Wanted to flag all of the women-specific events happening throughout the week. Please note those that require RSVP?s.
+>
+> Also, here is a link<https://www.openstack.org/summit/austin-2016/summit-schedule/global-search?t=women+of+openstack> to an aggregate of all the sessions with the Women of OpenStack tag for your reference.
+>
+> OpenStack Summit Austin, April 24-29th
+>
+> SUNDAY
+> Command Presence Workshop
+> 9:30am-12:30pm
+> JW Marriott- Salon D
+> The Command Presence Workshop has been recognized by the Anita Borg Institute and Harvard Business Review. It is intended to teach participants how to handle ?senior-level high pressure meetings?. The majority of the workshop is a task-force convened to address a simulated, but very realistic crisis event. In the class, each participant assumes a role, and is given about 30minutes to prepare 1-2 slides. Once the class has prepared, the simulation begins. There is a role-play simulation. It is not uncommon to hear occasional ?gasps? of disbelief from the participants. The workshop participants will experience rapid-fire questioning, interruption, and other situations that occur in senior-level meetings, but in a safe environment conducive to learning techniques for handling such situations. Facilitators: Ruchi Bhargava (Intel), Malini Bhandaru (Intel) and a panel of leaders representative of the OpenStack leadership in the community (business leaders and technical leaders).
+> RSVP Required<https://commandpresenceworkshop.eventbrite.com/>
+>
+> Women of OpenStack Pre-Summit Social- sponsored by EMC, IBM, and Intel
+> 6:00-9:00pm
+> The Belmont- 305 W 6th Street
+> Join the Women of OpenStack for an evening of networking and celebration to kick off another OpenStack Summit. EMC, IBM, and Intel will sponsor the Women of OpenStack Pre-Summit Social, featuring food, drinks and live music from acclaimed artist Tameca Jones. Shuttles will be available from the Convention Center to the venue starting at 5:50pm.
+> RSVP Required (coming soon)
+>
+> MONDAY
+> Speed Mentoring
+> 7:00-8:45am
+> ACC, Level 1, Expo Hall 5
+> The new mentoring program sponsored the Women of OpenStack is designed to be a lightweight mentoring initiative to provide technical or career guidance to beginners in the community. Mentees should already be part of the community; they should have gone through, or be familiar with the Upstream Training. Mentees will have five-to-10 minutes to talk to potential mentors, then cycle throughout the room for about an hour-and-a-half. At the end, people will fill out surveys with their preferences and we'll contact people about potential matches. Breakfast and coffee will be provided. More information coming soon.
+> RSVP Required<https://openstackfoundation.formstack.com/forms/mentoring>
+>
+> TUESDAY
+> Women of OpenStack Breakfast sponsored by Comcast
+> 7:00-8:45am
+> ACC, Level 1, Expo Hall 5
+> Details and an agenda will be announced soon. Breakfast and coffee will be provided.
+> RSVP Required<https://wooworkingbreakfast.eventbrite.com/>
+>
+> NCWIT Male Allies Workshop
+> 12:05-2:40pm
+> Hilton Austin, Level 6, Salon F
+> The National Center for Women in Information Technology (NCWIT) will join us at the OpenStack Summit Austin to discuss why it matters and how to advocate for more inclusive environments that foster innovation in the technical environment, led by NCWIT research scientist Dr. Brad McLain<https://www.ncwit.org/profile/brad-mclain>. This session welcomes male allies who want to make a difference in the OpenStack community. Please grab a boxed lunch on Level 4 before you join us on Level 6.
+> RSVP Required (coming soon)
+>
+> NCWIT Male Allies Panel
+> 4:40-5:20pm
+> ACC, Level 4, Ballroom G
+> An NCWIT-supported panel during the OpenStack Summit, which would focus on diversity and inclusion topics, including male advocacy, for the general OpenStack community. No RSVP required.
+>
+> StackCity Austin- A Community Festival for Stackers- Women of OpenStack venue sponsored by Red Hat
+> 7-11pm
+> On Tuesday night experience the best of what Austin has to offer at this Texas-sized community evening event. Stroll a few blocks from the Austin Convention Center and you?ll find an open-air party hosted at 15 bars and restaurants lining historic Rainey Street. Expect a few surprises in an evening offering something for everyone including live music from local artists, stand-up comedy, and, of course, barbecue and tacos. The Women of OpenStack will have their own venue, Lucille<http://lucilleaustin.com/gallery.html>, sponsored by Red Hat.
+> RSVP Required (coming soon)
+>
+> WEDNESDAY
+> Afternoon Sync
+> 4:10-5:00pm
+> Location: TBD
+> Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. No RSVP required.
+>
+> Git and Gerrit- Lunch and Learn
+> 12:30-1:50pm
+> Hilton Austin, Level 6, Salon F
+> RSVP Required<https://gitandgerritlunchandlearn.eventbrite.com/>
+>
+> All week, head over to Expo Hall 5 on the 1st floor of the Convention Center to join your fellow Women of OpenStack for daily lunch get togethers. Per your request, we will have tables reserved with Women of OpenStack signage.
+>
+> If you are interested in joining the Austin planning calls, they happen every other week on Wednesdays. Next one is on March 16th at 2pm CDT/12pm PDT.
+> Dial In: +1 631.992.3444,,,8729080#
+> Etherpad: https://etherpad.openstack.org/p/WOS_Austin_Planning_02_17_16
+>
+> Let us know if you have any questions, looking forward to seeing you in Austin!
+>
+> Erin Disney
+> OpenStack Marketing
+> erin at openstack.org<mailto:erin at openstack.org>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+
+
+From Amy.Marrich at rackspace.com  Thu Mar 24 18:40:30 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Thu, 24 Mar 2016 18:40:30 +0000
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+Message-ID: <D3199EDC.1A70F%amy.marrich@rackspace.com>
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29.
+
+Just let me know by Monday.
+
+Thanks,
+
+Amy
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/a9e33938/attachment.html>
+
+From kratna at juniper.net  Thu Mar 24 18:44:45 2016
+From: kratna at juniper.net (Kumuthini Ratnasingham)
+Date: Thu, 24 Mar 2016 18:44:45 +0000
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+In-Reply-To: <D3199EDC.1A70F%amy.marrich@rackspace.com>
+References: <D3199EDC.1A70F%amy.marrich@rackspace.com>
+Message-ID: <BN3PR0501MB1316D3013B81AFE2C33DB5DCD7820@BN3PR0501MB1316.namprd05.prod.outlook.com>
+
+Amy,
+
+I like to take that reservation. I have not booked it yet.
+
+
+~Thanks,
+
+K
+
+________________________________
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+Sent: Thursday, March 24, 2016 11:40 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29.
+
+Just let me know by Monday.
+
+Thanks,
+
+Amy
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/538f0b07/attachment.html>
+
+From Amy.Marrich at rackspace.com  Thu Mar 24 18:46:06 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Thu, 24 Mar 2016 18:46:06 +0000
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+In-Reply-To: <BN3PR0501MB1316D3013B81AFE2C33DB5DCD7820@BN3PR0501MB1316.namprd05.prod.outlook.com>
+References: <D3199EDC.1A70F%amy.marrich@rackspace.com>
+ <BN3PR0501MB1316D3013B81AFE2C33DB5DCD7820@BN3PR0501MB1316.namprd05.prod.outlook.com>
+Message-ID: <D319A00E.1A71A%amy.marrich@rackspace.com>
+
+I didn't think it would go this fast:) Shree Reddy replied first so trying to transfer it over to her.
+
+Thanks,
+
+Amy
+
+From: Kumuthini Ratnasingham <kratna at juniper.net<mailto:kratna at juniper.net>>
+Date: Thursday, March 24, 2016 at 1:44 PM
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: Hotel Room at the Marriot for Summit
+
+
+Amy,
+
+I like to take that reservation. I have not booked it yet.
+
+
+~Thanks,
+
+K
+
+________________________________
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+Sent: Thursday, March 24, 2016 11:40 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29.
+
+Just let me know by Monday.
+
+Thanks,
+
+Amy
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/d69a5ebe/attachment.html>
+
+From kratna at juniper.net  Thu Mar 24 19:09:06 2016
+From: kratna at juniper.net (Kumuthini Ratnasingham)
+Date: Thu, 24 Mar 2016 19:09:06 +0000
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+In-Reply-To: <D319A00E.1A71A%amy.marrich@rackspace.com>
+References: <D3199EDC.1A70F%amy.marrich@rackspace.com>
+ <BN3PR0501MB1316D3013B81AFE2C33DB5DCD7820@BN3PR0501MB1316.namprd05.prod.outlook.com>,
+ <D319A00E.1A71A%amy.marrich@rackspace.com>
+Message-ID: <BN3PR0501MB1316FE554F895A620DAEE49CD7820@BN3PR0501MB1316.namprd05.prod.outlook.com>
+
+Sure No problem.
+
+
+~Warmly,
+
+Kumuthini
+
+
+________________________________
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+Sent: Thursday, March 24, 2016 11:46 AM
+To: Kumuthini Ratnasingham; women-of-openstack at lists.openstack.org
+Subject: Re: Hotel Room at the Marriot for Summit
+
+I didn't think it would go this fast:) Shree Reddy replied first so trying to transfer it over to her.
+
+Thanks,
+
+Amy
+
+From: Kumuthini Ratnasingham <kratna at juniper.net<mailto:kratna at juniper.net>>
+Date: Thursday, March 24, 2016 at 1:44 PM
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: Hotel Room at the Marriot for Summit
+
+
+Amy,
+
+I like to take that reservation. I have not booked it yet.
+
+
+~Thanks,
+
+K
+
+________________________________
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+Sent: Thursday, March 24, 2016 11:40 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29.
+
+Just let me know by Monday.
+
+Thanks,
+
+Amy
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/374db3a5/attachment.html>
+
+From legradiflora at gmail.com  Fri Mar 25 07:31:15 2016
+From: legradiflora at gmail.com (Flora Legradi)
+Date: Fri, 25 Mar 2016 08:31:15 +0100
+Subject: [Women-of-openstack] (no subject)
+Message-ID: <56f4e946.d4b61c0a.e9c79.ffff8e72@mx.google.com>
+
+Hi all,
+
+also my first OpenStack Summit so far, I'm totally excited to get involved in the Community! I'm a little bit worried too, because I'm not coming directly from IT but I hope we will handle that :)
+
+Looking forward to meet you!
+
+Flora Legradi
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160325/e37c0922/attachment-0001.html>
+
+From khushbuparakh at hotmail.com  Fri Mar 25 07:43:35 2016
+From: khushbuparakh at hotmail.com (khushbuparakh at hotmail.com)
+Date: Fri, 25 Mar 2016 13:13:35 +0530
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 17, Issue 15
+In-Reply-To: <mailman.5521.1458891081.7714.women-of-openstack@lists.openstack.org>
+References: <mailman.5521.1458891081.7714.women-of-openstack@lists.openstack.org>
+Message-ID: <BLU436-SMTP251EA55BAF71FA533531593B4830@phx.gbl>
+
+Hi,
+
+I am khushbu from India.
+This is my first openstack summit. I am currently a student and active technical contributor in openstack. I am arriving two days earlier than summit schedule.
+Let me know if anybody reaching to Austin on 22nd April. My stay is in hotel Radisson blur downtown. 
+Thanks 
+
+Khushbu
+http://khushbu.strikingly.com
+Twitter: @khushbuparakh
+LinkedIn: https://LinkedIn.com/in/khushbuparakh
+
+On Mar 25, 2016 1:02 PM, women-of-openstack-request at lists.openstack.org wrote:
+
+Send Women-of-openstack mailing list submissions to
+women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific
+than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. Hotel Room at the Marriot for Summit (Amy Marrich)
+   2. Re: Hotel Room at the Marriot for Summit (Kumuthini Ratnasingham)
+   3. Re: Hotel Room at the Marriot for Summit (Amy Marrich)
+   4. Re: Hotel Room at the Marriot for Summit (Kumuthini Ratnasingham)
+   5. (no subject) (Flora Legradi)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Thu, 24 Mar 2016 18:40:30 +0000
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+To: "women-of-openstack at lists.openstack.org"
+<women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+Message-ID: <D3199EDC.1A70F%amy.marrich at rackspace.com>
+Content-Type: text/plain; charset="iso-8859-1"
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29.
+
+Just let me know by Monday.
+
+Thanks,
+
+Amy
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/a9e33938/attachment-0001.html>
+
+------------------------------
+
+Message: 2
+Date: Thu, 24 Mar 2016 18:44:45 +0000
+From: Kumuthini Ratnasingham <kratna at juniper.net>
+To: Amy Marrich <Amy.Marrich at rackspace.com>,
+"women-of-openstack at lists.openstack.org"
+<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] Hotel Room at the Marriot for Summit
+Message-ID:
+<BN3PR0501MB1316D3013B81AFE2C33DB5DCD7820 at BN3PR0501MB1316.namprd05.prod.outlook.com>
+
+Content-Type: text/plain; charset="iso-8859-1"
+
+Amy,
+
+I like to take that reservation. I have not booked it yet.
+
+
+~Thanks,
+
+K
+
+________________________________
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+Sent: Thursday, March 24, 2016 11:40 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29.
+
+Just let me know by Monday.
+
+Thanks,
+
+Amy
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/538f0b07/attachment-0001.html>
+
+------------------------------
+
+Message: 3
+Date: Thu, 24 Mar 2016 18:46:06 +0000
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+To: Kumuthini Ratnasingham <kratna at juniper.net>,
+"women-of-openstack at lists.openstack.org"
+<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] Hotel Room at the Marriot for Summit
+Message-ID: <D319A00E.1A71A%amy.marrich at rackspace.com>
+Content-Type: text/plain; charset="iso-8859-1"
+
+I didn't think it would go this fast:) Shree Reddy replied first so trying to transfer it over to her.
+
+Thanks,
+
+Amy
+
+From: Kumuthini Ratnasingham <kratna at juniper.net<mailto:kratna at juniper.net>>
+Date: Thursday, March 24, 2016 at 1:44 PM
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: Hotel Room at the Marriot for Summit
+
+
+Amy,
+
+I like to take that reservation. I have not booked it yet.
+
+
+~Thanks,
+
+K
+
+________________________________
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+Sent: Thursday, March 24, 2016 11:40 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29.
+
+Just let me know by Monday.
+
+Thanks,
+
+Amy
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/d69a5ebe/attachment-0001.html>
+
+------------------------------
+
+Message: 4
+Date: Thu, 24 Mar 2016 19:09:06 +0000
+From: Kumuthini Ratnasingham <kratna at juniper.net>
+To: Amy Marrich <Amy.Marrich at rackspace.com>,
+"women-of-openstack at lists.openstack.org"
+<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] Hotel Room at the Marriot for Summit
+Message-ID:
+<BN3PR0501MB1316FE554F895A620DAEE49CD7820 at BN3PR0501MB1316.namprd05.prod.outlook.com>
+
+Content-Type: text/plain; charset="iso-8859-1"
+
+Sure No problem.
+
+
+~Warmly,
+
+Kumuthini
+
+
+________________________________
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+Sent: Thursday, March 24, 2016 11:46 AM
+To: Kumuthini Ratnasingham; women-of-openstack at lists.openstack.org
+Subject: Re: Hotel Room at the Marriot for Summit
+
+I didn't think it would go this fast:) Shree Reddy replied first so trying to transfer it over to her.
+
+Thanks,
+
+Amy
+
+From: Kumuthini Ratnasingham <kratna at juniper.net<mailto:kratna at juniper.net>>
+Date: Thursday, March 24, 2016 at 1:44 PM
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: Hotel Room at the Marriot for Summit
+
+
+Amy,
+
+I like to take that reservation. I have not booked it yet.
+
+
+~Thanks,
+
+K
+
+________________________________
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+Sent: Thursday, March 24, 2016 11:40 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29.
+
+Just let me know by Monday.
+
+Thanks,
+
+Amy
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/374db3a5/attachment-0001.html>
+
+------------------------------
+
+Message: 5
+Date: Fri, 25 Mar 2016 08:31:15 +0100
+From: Flora Legradi <legradiflora at gmail.com>
+To: <women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] (no subject)
+Message-ID: <56f4e946.d4b61c0a.e9c79.ffff8e72 at mx.google.com>
+Content-Type: text/plain; charset="windows-1252"
+
+Hi all,
+
+also my first OpenStack Summit so far, I'm totally excited to get involved in the Community! I'm a little bit worried too, because I'm not coming directly from IT but I hope we will handle that :)
+
+Looking forward to meet you!
+
+Flora Legradi
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160325/e37c0922/attachment.html>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 17, Issue 15
+**************************************************
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160325/43963bde/attachment.html>
+
+From legradiflora at gmail.com  Fri Mar 25 09:34:57 2016
+From: legradiflora at gmail.com (Flora Legradi)
+Date: Fri, 25 Mar 2016 10:34:57 +0100
+Subject: [Women-of-openstack] Early arrive to Summit
+In-Reply-To: <BLU436-SMTP251EA55BAF71FA533531593B4830@phx.gbl>
+References: <mailman.5521.1458891081.7714.women-of-openstack@lists.openstack.org>
+ <BLU436-SMTP251EA55BAF71FA533531593B4830@phx.gbl>
+Message-ID: <56f50644.09b61c0a.f753a.ffffbdab@mx.google.com>
+
+I'm arriving on the 22nd and staying in the same hotel. Are you planning to attend the Sunday events?
+
+Best,
+Flora
+
+-----Original Message-----
+From: "khushbuparakh at hotmail.com" <khushbuparakh at hotmail.com>
+Sent: ?3/?25/?2016 8:52
+To: "women-of-openstack at lists.openstack.org" <women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] Women-of-openstack Digest, Vol 17, Issue 15
+
+Hi,
+I am khushbu from India.
+This is my first openstack summit. I am currently a student and active technical contributor in openstack. I am arriving two days earlier than summit schedule.
+Let me know if anybody reaching to Austin on 22nd April. My stay is in hotel Radisson blur downtown. 
+Thanks 
+Khushbu
+http://khushbu.strikingly.com
+Twitter: @khushbuparakh
+LinkedIn: https://LinkedIn.com/in/khushbuparakh
+On Mar 25, 2016 1:02 PM, women-of-openstack-request at lists.openstack.org wrote:
+
+Send Women-of-openstack mailing list submissions to 
+women-of-openstack at lists.openstack.org 
+
+To subscribe or unsubscribe via the World Wide Web, visit 
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack 
+
+or, via email, send a message with subject or body 'help' to 
+women-of-openstack-request at lists.openstack.org 
+
+You can reach the person managing the list at 
+women-of-openstack-owner at lists.openstack.org 
+
+When replying, please edit your Subject line so it is more specific 
+than "Re: Contents of Women-of-openstack digest..." 
+
+
+Today's Topics: 
+
+   1. Hotel Room at the Marriot for Summit (Amy Marrich) 
+   2. Re: Hotel Room at the Marriot for Summit (Kumuthini Ratnasingham) 
+   3. Re: Hotel Room at the Marriot for Summit (Amy Marrich) 
+   4. Re: Hotel Room at the Marriot for Summit (Kumuthini Ratnasingham) 
+   5. (no subject) (Flora Legradi) 
+
+
+---------------------------------------------------------------------- 
+
+Message: 1 
+Date: Thu, 24 Mar 2016 18:40:30 +0000 
+From: Amy Marrich <Amy.Marrich at rackspace.com> 
+To: "women-of-openstack at lists.openstack.org" 
+<women-of-openstack at lists.openstack.org> 
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit 
+Message-ID: <D3199EDC.1A70F%amy.marrich at rackspace.com> 
+Content-Type: text/plain; charset="iso-8859-1" 
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29. 
+
+Just let me know by Monday. 
+
+Thanks, 
+
+Amy 
+
+-------------- next part -------------- 
+An HTML attachment was scrubbed... 
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/a9e33938/attachment-0001.html> 
+
+------------------------------ 
+
+Message: 2 
+Date: Thu, 24 Mar 2016 18:44:45 +0000 
+From: Kumuthini Ratnasingham <kratna at juniper.net> 
+To: Amy Marrich <Amy.Marrich at rackspace.com>, 
+"women-of-openstack at lists.openstack.org" 
+<women-of-openstack at lists.openstack.org> 
+Subject: Re: [Women-of-openstack] Hotel Room at the Marriot for Summit 
+Message-ID: 
+<BN3PR0501MB1316D3013B81AFE2C33DB5DCD7820 at BN3PR0501MB1316.namprd05.prod.outlook.com> 
+
+Content-Type: text/plain; charset="iso-8859-1" 
+
+Amy, 
+
+I like to take that reservation. I have not booked it yet. 
+
+
+~Thanks, 
+
+K 
+
+________________________________ 
+From: Amy Marrich <Amy.Marrich at rackspace.com> 
+Sent: Thursday, March 24, 2016 11:40 AM 
+To: women-of-openstack at lists.openstack.org 
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit 
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29. 
+
+Just let me know by Monday. 
+
+Thanks, 
+
+Amy 
+
+-------------- next part -------------- 
+An HTML attachment was scrubbed... 
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/538f0b07/attachment-0001.html> 
+
+------------------------------ 
+
+Message: 3 
+Date: Thu, 24 Mar 2016 18:46:06 +0000 
+From: Amy Marrich <Amy.Marrich at rackspace.com> 
+To: Kumuthini Ratnasingham <kratna at juniper.net>, 
+"women-of-openstack at lists.openstack.org" 
+<women-of-openstack at lists.openstack.org> 
+Subject: Re: [Women-of-openstack] Hotel Room at the Marriot for Summit 
+Message-ID: <D319A00E.1A71A%amy.marrich at rackspace.com> 
+Content-Type: text/plain; charset="iso-8859-1" 
+
+I didn't think it would go this fast:) Shree Reddy replied first so trying to transfer it over to her. 
+
+Thanks, 
+
+Amy 
+
+From: Kumuthini Ratnasingham <kratna at juniper.net<mailto:kratna at juniper.net>> 
+Date: Thursday, March 24, 2016 at 1:44 PM 
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>> 
+Subject: Re: Hotel Room at the Marriot for Summit 
+
+
+Amy, 
+
+I like to take that reservation. I have not booked it yet. 
+
+
+~Thanks, 
+
+K 
+
+________________________________ 
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>> 
+Sent: Thursday, March 24, 2016 11:40 AM 
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org> 
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit 
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29. 
+
+Just let me know by Monday. 
+
+Thanks, 
+
+Amy 
+
+-------------- next part -------------- 
+An HTML attachment was scrubbed... 
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/d69a5ebe/attachment-0001.html> 
+
+------------------------------ 
+
+Message: 4 
+Date: Thu, 24 Mar 2016 19:09:06 +0000 
+From: Kumuthini Ratnasingham <kratna at juniper.net> 
+To: Amy Marrich <Amy.Marrich at rackspace.com>, 
+"women-of-openstack at lists.openstack.org" 
+<women-of-openstack at lists.openstack.org> 
+Subject: Re: [Women-of-openstack] Hotel Room at the Marriot for Summit 
+Message-ID: 
+<BN3PR0501MB1316FE554F895A620DAEE49CD7820 at BN3PR0501MB1316.namprd05.prod.outlook.com> 
+
+Content-Type: text/plain; charset="iso-8859-1" 
+
+Sure No problem. 
+
+
+~Warmly, 
+
+Kumuthini 
+
+
+________________________________ 
+From: Amy Marrich <Amy.Marrich at rackspace.com> 
+Sent: Thursday, March 24, 2016 11:46 AM 
+To: Kumuthini Ratnasingham; women-of-openstack at lists.openstack.org 
+Subject: Re: Hotel Room at the Marriot for Summit 
+
+I didn't think it would go this fast:) Shree Reddy replied first so trying to transfer it over to her. 
+
+Thanks, 
+
+Amy 
+
+From: Kumuthini Ratnasingham <kratna at juniper.net<mailto:kratna at juniper.net>> 
+Date: Thursday, March 24, 2016 at 1:44 PM 
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>> 
+Subject: Re: Hotel Room at the Marriot for Summit 
+
+
+Amy, 
+
+I like to take that reservation. I have not booked it yet. 
+
+
+~Thanks, 
+
+K 
+
+________________________________ 
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>> 
+Sent: Thursday, March 24, 2016 11:40 AM 
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org> 
+Subject: [Women-of-openstack] Hotel Room at the Marriot for Summit 
+
+We ended up in another hotel so I'm going to be canceling the room I have at the Marriot Courtyard, I believe it's currently #10 on the map. I don't think the hotel is booked yet but if someone needs it I'd rather it go to someone in our group. The reservation is for 4/24-4/29. 
+
+Just let me know by Monday. 
+
+Thanks, 
+
+Amy 
+
+-------------- next part -------------- 
+An HTML attachment was scrubbed... 
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160324/374db3a5/attachment-0001.html> 
+
+------------------------------ 
+
+Message: 5 
+Date: Fri, 25 Mar 2016 08:31:15 +0100 
+From: Flora Legradi <legradiflora at gmail.com> 
+To: <women-of-openstack at lists.openstack.org> 
+Subject: [Women-of-openstack] (no subject) 
+Message-ID: <56f4e946.d4b61c0a.e9c79.ffff8e72 at mx.google.com> 
+Content-Type: text/plain; charset="windows-1252" 
+
+Hi all, 
+
+also my first OpenStack Summit so far, I'm totally excited to get involved in the Community! I'm a little bit worried too, because I'm not coming directly from IT but I hope we will handle that :) 
+
+Looking forward to meet you! 
+
+Flora Legradi 
+-------------- next part -------------- 
+An HTML attachment was scrubbed... 
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160325/e37c0922/attachment.html> 
+
+------------------------------ 
+
+_______________________________________________ 
+Women-of-openstack mailing list 
+Women-of-openstack at lists.openstack.org 
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack 
+
+
+End of Women-of-openstack Digest, Vol 17, Issue 15 
+************************************************** 
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160325/ca2870bd/attachment-0001.html>
+
+From ashlee at wildernessvoice.com  Fri Mar 25 13:53:39 2016
+From: ashlee at wildernessvoice.com (Ash)
+Date: Fri, 25 Mar 2016 06:53:39 -0700
+Subject: [Women-of-openstack] (no subject)
+In-Reply-To: <56f4e946.d4b61c0a.e9c79.ffff8e72@mx.google.com>
+References: <56f4e946.d4b61c0a.e9c79.ffff8e72@mx.google.com>
+Message-ID: <CAA14+9-2cBYBpoC9RbLWNS4upJUUGNhxHTFazsrG-eo3fuVbgA@mail.gmail.com>
+
+Get ready to meet some of the best people on the planet. The Tokyo Summit
+was my second, but this community helped me tremendously to actually feel
+like a part of things. It was a much better experience, for me, than my
+first one in Paris.
+
+Best,
+
+Ash
+
+On Fri, Mar 25, 2016 at 12:31 AM, Flora Legradi <legradiflora at gmail.com>
+wrote:
+
+> Hi all,
+>
+> also my first OpenStack Summit so far, I'm totally excited to get involved
+> in the Community! I'm a little bit worried too, because I'm not coming
+> directly from IT but I hope we will handle that :)
+>
+> Looking forward to meet you!
+>
+> Flora Legradi
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160325/767370a0/attachment.html>
+
+From sheryls at redapt.com  Fri Mar 25 14:13:38 2016
+From: sheryls at redapt.com (Sheryl Sick)
+Date: Fri, 25 Mar 2016 14:13:38 +0000
+Subject: [Women-of-openstack] (no subject)
+In-Reply-To: <CAA14+9-2cBYBpoC9RbLWNS4upJUUGNhxHTFazsrG-eo3fuVbgA@mail.gmail.com>
+References: <56f4e946.d4b61c0a.e9c79.ffff8e72@mx.google.com>,
+ <CAA14+9-2cBYBpoC9RbLWNS4upJUUGNhxHTFazsrG-eo3fuVbgA@mail.gmail.com>
+Message-ID: <B2E5F366C8C1E3E5.E94BEFAD-6CBF-4BBF-BDA7-7321E9891876@mail.outlook.com>
+
+Looking forward to meeting everyone that week in Austin and attending the "WOO" sessions! I will be arriving Monday evening:)
+
+Sheryl Sick | SAE Technology Solutions
+Redapt, Inc. 206.218.6690<tel:206.218.6690>
+
+
+
+
+On Fri, Mar 25, 2016 at 6:53 AM -0700, "Ash" <ashlee at wildernessvoice.com<mailto:ashlee at wildernessvoice.com>> wrote:
+
+Get ready to meet some of the best people on the planet. The Tokyo Summit was my second, but this community helped me tremendously to actually feel like a part of things. It was a much better experience, for me, than my first one in Paris.
+
+Best,
+
+Ash
+
+On Fri, Mar 25, 2016 at 12:31 AM, Flora Legradi <legradiflora at gmail.com<mailto:legradiflora at gmail.com>> wrote:
+Hi all,
+
+also my first OpenStack Summit so far, I'm totally excited to get involved in the Community! I'm a little bit worried too, because I'm not coming directly from IT but I hope we will handle that :)
+
+Looking forward to meet you!
+
+Flora Legradi
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160325/445376a9/attachment.html>
+
+From alice.ferrazzi at gmail.com  Fri Mar 25 14:34:28 2016
+From: alice.ferrazzi at gmail.com (Alice Ferrazzi)
+Date: Fri, 25 Mar 2016 23:34:28 +0900
+Subject: [Women-of-openstack] (no subject)
+In-Reply-To: <CAA14+9-2cBYBpoC9RbLWNS4upJUUGNhxHTFazsrG-eo3fuVbgA@mail.gmail.com>
+References: <56f4e946.d4b61c0a.e9c79.ffff8e72@mx.google.com>
+ <CAA14+9-2cBYBpoC9RbLWNS4upJUUGNhxHTFazsrG-eo3fuVbgA@mail.gmail.com>
+Message-ID: <CANWzcUp12b-fc5x_9bWPAUXfzP5uF-c+xc2O0pCBt78UWHGR_w@mail.gmail.com>
+
+Hope to meet everyone again at next Tokyo openstack summit.
+2016/03/25 22:55 "Ash" <ashlee at wildernessvoice.com>:
+
+> Get ready to meet some of the best people on the planet. The Tokyo Summit
+> was my second, but this community helped me tremendously to actually feel
+> like a part of things. It was a much better experience, for me, than my
+> first one in Paris.
+>
+> Best,
+>
+> Ash
+>
+> On Fri, Mar 25, 2016 at 12:31 AM, Flora Legradi <legradiflora at gmail.com>
+> wrote:
+>
+>> Hi all,
+>>
+>> also my first OpenStack Summit so far, I'm totally excited to get
+>> involved in the Community! I'm a little bit worried too, because I'm not
+>> coming directly from IT but I hope we will handle that :)
+>>
+>> Looking forward to meet you!
+>>
+>> Flora Legradi
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160325/fd6d7594/attachment.html>
+
+From aqsamm at gmail.com  Sat Mar 26 13:08:20 2016
+From: aqsamm at gmail.com (Aqsa Malik)
+Date: Sat, 26 Mar 2016 18:08:20 +0500
+Subject: [Women-of-openstack] OpenStack Austin Summit Pass
+Message-ID: <CA+85TMsAejn1Dc_rUfuYKONQR0A2JYjMMeVSAHtCEck4v9O-Vw@mail.gmail.com>
+
+I have a full Access Pass for Austin Summit. I am not attending the the
+summit therefore willing to give away the pass. If anyone is interested let
+me know.
+
+Thanks
+Aqsa
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160326/5e399fea/attachment.html>
+
+From kendall at openstack.org  Mon Mar 28 15:20:14 2016
+From: kendall at openstack.org (Kendall Waters)
+Date: Mon, 28 Mar 2016 10:20:14 -0500
+Subject: [Women-of-openstack] March 29 Price Increase - OpenStack Summit
+	Austin
+Message-ID: <9F26C612-BB63-4A1F-9A13-36B4443D7AC0@openstack.org>
+
+Hi everyone,
+
+Prices for the Austin Summit will be increasing on Tuesday, March 29 at 11:59pm PT (Wednesday, March 30 at 6:59 UTC).
+
+Register NOW <http://openstacksummit2016austin.eventbrite.com/?aff=summit10> before prices increase.
+
+All discount registration codes (including ATC, speaker, sponsor, etc.) must be redeemed by April 19.
+
+If you have any Summit-related questions, please contact summit at openstack.org <mailto:summit at openstack.org>.
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160328/d8ba56f5/attachment.html>
+
+From ruchi.bhargava at intel.com  Mon Mar 28 19:10:57 2016
+From: ruchi.bhargava at intel.com (Bhargava, Ruchi)
+Date: Mon, 28 Mar 2016 19:10:57 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's
+ meeting
+In-Reply-To: <BY1PR0501MB1318EB28B64FFDE3DC853CC0D78F0@BY1PR0501MB1318.namprd05.prod.outlook.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+ <BY1PR0501MB1318EB28B64FFDE3DC853CC0D78F0@BY1PR0501MB1318.namprd05.prod.outlook.com>
+Message-ID: <A7ABD22757C7EA4D9B9F00DDA880BB9B7BF43942@ORSMSX101.amr.corp.intel.com>
+
+Is there a meeting now? I am on this bridge with only one more person and no one talking.
+-ruchi
+
+
+From: Kumuthini Ratnasingham [mailto:kratna at juniper.net]
+Sent: Monday, March 21, 2016 11:51 AM
+To: Barrett, Carol L <carol.l.barrett at intel.com>; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+Carol,
+
+
+
+I believe the invite still says 12 noon. would you mind sending out an updated invite ?
+
+
+
+~Thanks,
+
+Kumuthini
+
+________________________________
+From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Sent: Monday, March 21, 2016 11:23 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+All - This is our first team meeting since the daylight savings time change. Our team meeting is set for 2000 UTC. (1:00 Pacific). Pls check your calendar to make sure you're planning on attending at 2000 UTC.
+
+
+
+
+
+Beth Cohen: Can you pls send out an updated meeting invite?
+
+
+
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160328/11527df4/attachment.html>
+
+From Amy.Marrich at rackspace.com  Mon Mar 28 19:13:09 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Mon, 28 Mar 2016 19:13:09 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's
+ meeting
+In-Reply-To: <A7ABD22757C7EA4D9B9F00DDA880BB9B7BF43942@ORSMSX101.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+ <BY1PR0501MB1318EB28B64FFDE3DC853CC0D78F0@BY1PR0501MB1318.namprd05.prod.outlook.com>
+ <A7ABD22757C7EA4D9B9F00DDA880BB9B7BF43942@ORSMSX101.amr.corp.intel.com>
+Message-ID: <D31EEC67.1A94A%amy.marrich@rackspace.com>
+
+Ruchi,
+
+There was a meeting last Monday and Wednesday there's an Austin planning meeting.
+
+Amy
+
+From: "Bhargava, Ruchi" <ruchi.bhargava at intel.com<mailto:ruchi.bhargava at intel.com>>
+Date: Monday, March 28, 2016 at 2:10 PM
+To: Kumuthini Ratnasingham <kratna at juniper.net<mailto:kratna at juniper.net>>, "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+Is there a meeting now? I am on this bridge with only one more person and no one talking.
+-ruchi
+
+
+From: Kumuthini Ratnasingham [mailto:kratna at juniper.net]
+Sent: Monday, March 21, 2016 11:51 AM
+To: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>; women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+Carol,
+
+
+
+I believe the invite still says 12 noon. would you mind sending out an updated invite ?
+
+
+
+~Thanks,
+
+Kumuthini
+
+________________________________
+From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Sent: Monday, March 21, 2016 11:23 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+All - This is our first team meeting since the daylight savings time change. Our team meeting is set for 2000 UTC. (1:00 Pacific). Pls check your calendar to make sure you're planning on attending at 2000 UTC.
+
+
+
+
+
+Beth Cohen: Can you pls send out an updated meeting invite?
+
+
+
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160328/c648b7b5/attachment-0001.html>
+
+From carol.l.barrett at intel.com  Mon Mar 28 19:13:12 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 28 Mar 2016 19:13:12 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's
+ meeting
+In-Reply-To: <A7ABD22757C7EA4D9B9F00DDA880BB9B7BF43942@ORSMSX101.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+ <BY1PR0501MB1318EB28B64FFDE3DC853CC0D78F0@BY1PR0501MB1318.namprd05.prod.outlook.com>
+ <A7ABD22757C7EA4D9B9F00DDA880BB9B7BF43942@ORSMSX101.amr.corp.intel.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CBF7D7B@ORSMSX113.amr.corp.intel.com>
+
+The meetings are every other week (every odd week) - the next one is 4/4.
+Thanks
+Carol
+
+From: Bhargava, Ruchi
+Sent: Monday, March 28, 2016 12:11 PM
+To: Kumuthini Ratnasingham <kratna at juniper.net>; Barrett, Carol L <carol.l.barrett at intel.com>; women-of-openstack at lists.openstack.org
+Subject: RE: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+Is there a meeting now? I am on this bridge with only one more person and no one talking.
+-ruchi
+
+
+From: Kumuthini Ratnasingham [mailto:kratna at juniper.net]
+Sent: Monday, March 21, 2016 11:51 AM
+To: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>; women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+Carol,
+
+
+
+I believe the invite still says 12 noon. would you mind sending out an updated invite ?
+
+
+
+~Thanks,
+
+Kumuthini
+
+________________________________
+From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Sent: Monday, March 21, 2016 11:23 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+All - This is our first team meeting since the daylight savings time change. Our team meeting is set for 2000 UTC. (1:00 Pacific). Pls check your calendar to make sure you're planning on attending at 2000 UTC.
+
+
+
+
+
+Beth Cohen: Can you pls send out an updated meeting invite?
+
+
+
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160328/21c0193c/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Mon Mar 28 19:13:20 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Mon, 28 Mar 2016 19:13:20 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's
+ meeting
+In-Reply-To: <A7ABD22757C7EA4D9B9F00DDA880BB9B7BF43942@ORSMSX101.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D5CBE36DE@ORSMSX113.amr.corp.intel.com>
+ <BY1PR0501MB1318EB28B64FFDE3DC853CC0D78F0@BY1PR0501MB1318.namprd05.prod.outlook.com>
+ <A7ABD22757C7EA4D9B9F00DDA880BB9B7BF43942@ORSMSX101.amr.corp.intel.com>
+Message-ID: <BL2PR02MB42048B0B1DD52C8EEAC5CECF6860@BL2PR02MB420.namprd02.prod.outlook.com>
+
+Ruchi - my assumption is that it is every other week. The next one is next week.
+
+
+Thank You,
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+From: Bhargava, Ruchi [mailto:ruchi.bhargava at intel.com]
+Sent: Monday, March 28, 2016 12:11 PM
+To: Kumuthini Ratnasingham; Barrett, Carol L; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+Is there a meeting now? I am on this bridge with only one more person and no one talking.
+-ruchi
+
+
+From: Kumuthini Ratnasingham [mailto:kratna at juniper.net]
+Sent: Monday, March 21, 2016 11:51 AM
+To: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>; women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+Carol,
+
+
+
+I believe the invite still says 12 noon. would you mind sending out an updated invite ?
+
+
+
+~Thanks,
+
+Kumuthini
+
+________________________________
+From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Sent: Monday, March 21, 2016 11:23 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+All - This is our first team meeting since the daylight savings time change. Our team meeting is set for 2000 UTC. (1:00 Pacific). Pls check your calendar to make sure you're planning on attending at 2000 UTC.
+
+
+
+
+
+Beth Cohen: Can you pls send out an updated meeting invite?
+
+
+
+Thanks
+Carol
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160328/6fde0497/attachment-0001.html>
+
+From beth.cohen at verizon.com  Mon Mar 28 19:14:43 2016
+From: beth.cohen at verizon.com (Cohen, Beth F (Beth))
+Date: Mon, 28 Mar 2016 15:14:43 -0400
+Subject: [Women-of-openstack] [E] Women-of-OpenStack Digest, Vol 17,
+	Issue 19
+Message-ID: <24310489C27ED447A664542AA6E308A917F2F76298@FHDP1LUMXC7V33.us.one.verizon.com>
+
+The meeting is every TWO weeks at this point.
+
+
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com
+
+????
+
+
+-----Original Message-----
+From: women-of-openstack-request at lists.openstack.org [mailto:women-of-openstack-request at lists.openstack.org] 
+Sent: Monday, March 28, 2016 3:13 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [E] Women-of-openstack Digest, Vol 17, Issue 19
+
+Send Women-of-openstack mailing list submissions to
+	women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+	women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+	women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. March 29 Price Increase - OpenStack Summit	Austin (Kendall Waters)
+   2. Re: [OpenStack][Women of OpenStack] Today's meeting
+      (Bhargava, Ruchi)
+   3. Re: [OpenStack][Women of OpenStack] Today's meeting (Amy Marrich)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Mon, 28 Mar 2016 10:20:14 -0500
+From: Kendall Waters <kendall at openstack.org>
+To: openstack at lists.openstack.org, marketing at lists.openstack.org,
+	women-of-openstack at lists.openstack.org, Community at lists.openstack.org
+Subject: [Women-of-openstack] March 29 Price Increase - OpenStack
+	Summit	Austin
+Message-ID: <9F26C612-BB63-4A1F-9A13-36B4443D7AC0 at openstack.org>
+Content-Type: text/plain; charset="us-ascii"
+
+Hi everyone,
+
+Prices for the Austin Summit will be increasing on Tuesday, March 29 at 11:59pm PT (Wednesday, March 30 at 6:59 UTC).
+
+Register NOW <http://openstacksummit2016austin.eventbrite.com/?aff=summit10> before prices increase.
+
+All discount registration codes (including ATC, speaker, sponsor, etc.) must be redeemed by April 19.
+
+If you have any Summit-related questions, please contact summit at openstack.org <mailto:summit at openstack.org>.
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160328/d8ba56f5/attachment-0001.html>
+
+------------------------------
+
+Message: 2
+Date: Mon, 28 Mar 2016 19:10:57 +0000
+From: "Bhargava, Ruchi" <ruchi.bhargava at intel.com>
+To: Kumuthini Ratnasingham <kratna at juniper.net>, "Barrett, Carol L"
+	<carol.l.barrett at intel.com>, "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack]
+	Today's meeting
+Message-ID:
+	<A7ABD22757C7EA4D9B9F00DDA880BB9B7BF43942 at ORSMSX101.amr.corp.intel.com>
+	
+Content-Type: text/plain; charset="us-ascii"
+
+Is there a meeting now? I am on this bridge with only one more person and no one talking.
+-ruchi
+
+
+From: Kumuthini Ratnasingham [mailto:kratna at juniper.net]
+Sent: Monday, March 21, 2016 11:51 AM
+To: Barrett, Carol L <carol.l.barrett at intel.com>; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+Carol,
+
+
+
+I believe the invite still says 12 noon. would you mind sending out an updated invite ?
+
+
+
+~Thanks,
+
+Kumuthini
+
+________________________________
+From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Sent: Monday, March 21, 2016 11:23 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+All - This is our first team meeting since the daylight savings time change. Our team meeting is set for 2000 UTC. (1:00 Pacific). Pls check your calendar to make sure you're planning on attending at 2000 UTC.
+
+
+
+
+
+Beth Cohen: Can you pls send out an updated meeting invite?
+
+
+
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160328/11527df4/attachment-0001.html>
+
+------------------------------
+
+Message: 3
+Date: Mon, 28 Mar 2016 19:13:09 +0000
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+To: "Bhargava, Ruchi" <ruchi.bhargava at intel.com>, Kumuthini
+	Ratnasingham <kratna at juniper.net>, "Barrett, Carol L"
+	<carol.l.barrett at intel.com>, "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack]
+	Today's meeting
+Message-ID: <D31EEC67.1A94A%amy.marrich at rackspace.com>
+Content-Type: text/plain; charset="iso-8859-1"
+
+Ruchi,
+
+There was a meeting last Monday and Wednesday there's an Austin planning meeting.
+
+Amy
+
+From: "Bhargava, Ruchi" <ruchi.bhargava at intel.com<mailto:ruchi.bhargava at intel.com>>
+Date: Monday, March 28, 2016 at 2:10 PM
+To: Kumuthini Ratnasingham <kratna at juniper.net<mailto:kratna at juniper.net>>, "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+Is there a meeting now? I am on this bridge with only one more person and no one talking.
+-ruchi
+
+
+From: Kumuthini Ratnasingham [mailto:kratna at juniper.net]
+Sent: Monday, March 21, 2016 11:51 AM
+To: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>; women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+Carol,
+
+
+
+I believe the invite still says 12 noon. would you mind sending out an updated invite ?
+
+
+
+~Thanks,
+
+Kumuthini
+
+________________________________
+From: Barrett, Carol L <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Sent: Monday, March 21, 2016 11:23 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's meeting
+
+
+All - This is our first team meeting since the daylight savings time change. Our team meeting is set for 2000 UTC. (1:00 Pacific). Pls check your calendar to make sure you're planning on attending at 2000 UTC.
+
+
+
+
+
+Beth Cohen: Can you pls send out an updated meeting invite?
+
+
+
+Thanks
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160328/c648b7b5/attachment.html>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 17, Issue 19
+**************************************************
+
+
+From Amy.Marrich at rackspace.com  Mon Mar 28 21:10:26 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Mon, 28 Mar 2016 21:10:26 +0000
+Subject: [Women-of-openstack] Things to do in and around Austin
+Message-ID: <D31F080F.1A96F%amy.marrich@rackspace.com>
+
+Hey all,
+
+This is the list I said I'd put together.
+
+Amy
+
+
+Places to see - car required or maybe a tour?
+
+Fredricksburg, TX - lots of wineries, cute Main Street and it may be peach season!
+
+Luchenbach, TX - really just a dance hall and a shop but world famous
+
+Gruene - Historic District in New Braunfels, home of the oldest Dance Hall
+
+San Antonio Riverwalk
+
+
+Events:
+
+New Braunfers Crawfish Festival - 4/29-30
+
+
+BBQ:
+
+Lockhart is the heart of TX BBQ - 4 historic places, I recommend Black's
+
+The Salt Lick - historic cash only in Driftwood, plan on a 2+ hour wait on a weekend. I like Black's better:)
+
+
+Things to do:
+
+Tours of Hill Country Wineries
+
+Lady Bird Lake - uberable
+
+Botanical Garden in Austin - uberable
+
+State House - walkable
+
+Natural Bridge Caverns - New Braunfels need car
+
+Schlitterbahn Water Park - Open on the weekends only, New Braunfels need car
+
+Tubing! - Several options here the Comal and Guadalupe are both in New Braunfels
+
+
+
+And some more official things to do
+
+http://www.buzzfeed.com/summeranne/do-or-die-austin-texas#.xkm6KWRAa
+
+http://365thingsaustin.com/2011/05/02/25-best-things-to-do-in-austin-texas/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160328/0a3e178b/attachment.html>
+
+From ekhugenbruch at us.ibm.com  Thu Mar 31 22:03:05 2016
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Thu, 31 Mar 2016 17:03:05 -0500
+Subject: [Women-of-openstack] [Mentoring] First batch of mentor/mentee
+	matches has been made
+Message-ID: <201603312203.u2VM3CC5018409@d03av05.boulder.ibm.com>
+
+
+
+Hi,
+I just wanted to send out a celebratory email because we've done our first
+set of matches for the mentoring program.  We matched 33 mentors and
+mentees (so 66 people).  Thank you so much to everyone who signed up!  We
+still have more matches to make.  We also have people signed up but waiting
+to make their match at our Speed Mentoring event at the Austin summit.
+This has been so much more successful than we ever imagined!
+
+Special thanks to:
+Danielle Lynch and Carol Barrett for their help making matches, sending
+emails and planning the program
+Mike Perez, Erin Disney, and Claire Massey from the Foundation for all
+their help and support and feedback on the program
+Marton Kiss who helped us coordinate between the mentoring program and
+Upstream University
+
+Sincerely,
+Emily Kate Hugenbruch
+Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Email: ekhugen at us.ibm.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160331/b6552041/attachment.html>
+
+From divya.hc at gmail.com  Thu Mar 31 22:21:44 2016
+From: divya.hc at gmail.com (Divya)
+Date: Thu, 31 Mar 2016 15:21:44 -0700
+Subject: [Women-of-openstack] [Mentoring] First batch of mentor/mentee
+ matches has been made
+In-Reply-To: <201603312203.u2VM3CC5018409@d03av05.boulder.ibm.com>
+References: <201603312203.u2VM3CC5018409@d03av05.boulder.ibm.com>
+Message-ID: <CACL01qUs1rpPj49jzDG_nfwi8EdARkX5nUz4GRY-Vdub7r8MXQ@mail.gmail.com>
+
+Hi Emily,
+    I am interested in the mentoring program ( as mentee).
+I registered for the speed mentoring. Where should i sign up for this
+mentoring program where mentor is assigned before hand??
+
+Thanks,
+Divya
+
+On Thu, Mar 31, 2016 at 3:03 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com
+> wrote:
+
+> Hi,
+> I just wanted to send out a celebratory email because we've done our first
+> set of matches for the mentoring program. We matched 33 mentors and mentees
+> (so 66 people). Thank you so much to everyone who signed up! We still have
+> more matches to make. We also have people signed up but waiting to make
+> their match at our Speed Mentoring event at the Austin summit. This has
+> been so much more successful than we ever imagined!
+>
+> Special thanks to:
+> Danielle Lynch and Carol Barrett for their help making matches, sending
+> emails and planning the program
+> Mike Perez, Erin Disney, and Claire Massey from the Foundation for all
+> their help and support and feedback on the program
+> Marton Kiss who helped us coordinate between the mentoring program and
+> Upstream University
+>
+> Sincerely,
+> Emily Kate Hugenbruch
+> Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Email: ekhugen at us.ibm.com
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160331/e3d3fa9b/attachment.html>
+

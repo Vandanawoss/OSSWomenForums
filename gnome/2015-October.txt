@@ -1,0 +1,147 @@
+From marinaz@redhat.com  Tue Oct  6 03:09:30 2015
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 9A95476CEA;
+	Tue,  6 Oct 2015 03:09:30 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.911
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.911 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id iZgO9cGURPix; Tue,  6 Oct 2015 03:09:29 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by restaurant.gnome.org (Postfix) with ESMTP id 8C916769F7;
+	Tue,  6 Oct 2015 03:09:29 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id t9639SBd018822;
+	Mon, 5 Oct 2015 23:09:28 -0400
+Date: Mon, 5 Oct 2015 23:09:28 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: desktop-devel-list <desktop-devel-list@gnome.org>,
+	foundation-list <foundation-list@gnome.org>,
+	gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <828373510.41054838.1444100968403.JavaMail.zimbra@redhat.com>
+In-Reply-To: <300241913.40928318.1444090162167.JavaMail.zimbra@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.3.113.104]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - FF40 (Linux)/8.0.6_GA_5922)
+Thread-Topic: mentor, apply, or spread the word for Outreachy
+Thread-Index: aUXQu379BU3FRFbG2NnLTxOFn32ukg==
+Cc: gnome-outreachy-list@gnome.org
+Subject: [gnome-women] mentor, apply, or spread the word for Outreachy
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 06 Oct 2015 03:09:30 -0000
+
+Hi all,
+
+GNOME is participating in Outreachy in the upcoming December round! For this round, the program expanded to be open to people of color underrepresented in tech in the U.S., in addition to being open to women, trans men, and genderqueer people internationally. You can learn more about the motivation for this expansion in Software Freedom Conservancy's press release [1].
+
+You can sign up to mentor! - Because GNOME only usually has a few participants in Outreachy, we are looking to offer projects that are most strategic for GNOME. These include, but are not limited to, projects in the area of privacy, developer experience, GTK+, core experience, core applications, and web infrastructure. Please add coding and non-coding ideas you are willing to mentor in Outreachy on its page this week [2].
+
+You can apply to participate! - In the next four weeks, applicants are invited to work with mentors on making relevant contributions and putting together a project proposal [3].
+
+You can help spread the word! - Please encourage people personally to apply, post on social networks, send the information to technology groups and to the university departments, and post the flyers on university campuses or hand them out at conferences. For university outreach, we are particularly interested in spreading the word to students in the Southern Hemisphere, who will have a school summer break during the internship dates. Sample e-mail, sample social network updates, and a flyer are available on the spread the word page [4].
+
+Thanks,
+Marina
+
+[1] https://sfconservancy.org/news/2015/sep/18/outreachy-expands/
+[2] https://wiki.gnome.org/Outreach/Outreachy/2015/DecemberMarch
+[3] https://wiki.gnome.org/Outreachy#Application_Process
+[4] https://wiki.gnome.org/Outreachy/2015/DecemberMarch/SpreadTheWord
+From karthigamm1995@gmail.com  Mon Oct 12 16:42:19 2015
+Return-Path: <karthigamm1995@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id B559D7690A
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 12 Oct 2015 16:42:19 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id 04V0sIDbKPgC for <gnome-women-list@mail.gnome.org>;
+	Mon, 12 Oct 2015 16:42:19 +0000 (UTC)
+Received: from mail-wi0-f177.google.com (mail-wi0-f177.google.com
+	[209.85.212.177])
+	by restaurant.gnome.org (Postfix) with ESMTP id D1EFB76904
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 12 Oct 2015 16:42:18 +0000 (UTC)
+Received: by wicge5 with SMTP id ge5so157796126wic.0
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 12 Oct 2015 09:42:17 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=IV3LhY5/xy+r5mQC4P1/XxHRolA+mFsQWD7LzMo8m3E=;
+	b=YvOrMu7nyY+I1ID9aoTz6Q/Ai0HTG21OkABFiZMNSps0iO491S9jKBcfoDV1xO3e5i
+	3iKpiiZKQUHNFSvv5P8+AMVDuWjswW+w0M+wgneY6aWbOAXB58QoJfHNcnmrrpNcSaG0
+	MIeee/MS4mdXoz6ncznyfGFem5PYAOX/FbIGu1iFme1RbkQEya9FzyMdFByw76QGcDBC
+	rergn9LeU6VFKRGpmVEX6K7uIsbKvGfw9n3da7hWWVSdhsEfUVnbP5306w6Nb09yCJh9
+	89sGiUAyd4/j7s8WscADGbsk3UzqQyEp/+7zPgX0KcHc46gti+yKgqSUvLhwqzLXhO48
+	JXQw==
+MIME-Version: 1.0
+X-Received: by 10.180.92.230 with SMTP id cp6mr14615221wib.80.1444668137067;
+	Mon, 12 Oct 2015 09:42:17 -0700 (PDT)
+Received: by 10.194.216.2 with HTTP; Mon, 12 Oct 2015 09:42:17 -0700 (PDT)
+Date: Mon, 12 Oct 2015 22:12:17 +0530
+Message-ID: <CAH4w=w_-_ydHhqKLrrW+b6XuA-znxpNE7tx8-VcJWyt0gd8Tow@mail.gmail.com>
+From: Karthiga Mm <karthigamm1995@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=f46d043892cf20de540521eb03f0
+Subject: [gnome-women] (no subject)
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 12 Oct 2015 16:42:19 -0000
+
+--f46d043892cf20de540521eb03f0
+Content-Type: text/plain; charset=UTF-8
+
+Hello,Whether i subscribed or  not
+
+--f46d043892cf20de540521eb03f0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hello,Whether i subscribed or =C2=A0not</div>
+
+--f46d043892cf20de540521eb03f0--

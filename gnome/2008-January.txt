@@ -1,0 +1,84 @@
+From g@socallinuxexpo.org  Fri Jan  4 05:59:47 2008
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7F4E1750086
+	for <gnome-women-list@mail.gnome.org>;
+	Fri,  4 Jan 2008 05:59:47 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.001
+X-Spam-Level: 
+X-Spam-Status: No, score=0.001 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 1883 hrs), (distance 15,
+	link: ethernet/modem), [208.83.98.26]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id zG4zLQ9Asm0A for <gnome-women-list@mail.gnome.org>;
+	Fri,  4 Jan 2008 05:59:41 +0000 (GMT)
+Received: from maggie.socallinuxexpo.org (www.socallinuxexpo.org
+	[208.83.98.26])
+	by menubar.gnome.org (Postfix) with ESMTP id 4D928750087
+	for <gnome-women-list@mail.gnome.org>;
+	Fri,  4 Jan 2008 05:59:41 +0000 (GMT)
+Received: from blackoil.loc.wiked.org (border.wiked.org [208.127.52.15])
+	(authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	m045xSxm025842
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <gnome-women-list@mail.gnome.org>; Thu, 3 Jan 2008 21:59:30 -0800
+Date: Thu, 3 Jan 2008 21:57:51 -0800
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+To: gnome-women-list@mail.gnome.org
+Message-Id: <20080103215751.8dbaadaa.g@socallinuxexpo.org>
+X-Mailer: Sylpheed 2.4.5 (GTK+ 2.12.0; i486-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-Virus-Scanned: ClamAV 0.91.2/5358/Thu Jan  3 21:17:44 2008 on maggie
+X-Virus-Status: Clean
+Subject: [gnome-women] Women in Open Source Event at SCALE 6x
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 04 Jan 2008 05:59:47 -0000
+
+The Southern California Linux Expo (SCALE) is hosting the 2nd annual (WIOS)=
+ mini-conference on February 8, 2008 at the Los Angeles Airport (LAX) Westi=
+n. The purpose of the conference is to=A0encourage women of all ages to be =
+a part of=A0the free and open source community.=A0Join us in sharing women'=
+s accomplishments, success stories, and advancements on being involved in F=
+ree and Open Source projects and communities.
+
+Past attendees at this event have included women in technology,=A0teachers,=
+ and parents of young girls.
+=A0
+Registration:
+https://www.socallinuxexpo.org/reg6/
+
+Location:
+Los Angeles Airport Westin
+5400 West Century Boulevard
+Los Angeles, California 90045
+Phone: (310) 216-5858
+Fax: (310) 417-4545
+
+More information is available on the web site:
+http://socallinuxexpo.org/scale6x/conference-info/women-in-open-source/
+
+--=20
+Gareth J. Greenaway <g@socallinuxexpo.org>
+Voice - 877-831-2569 x130
+Southern California Linux Expo=20
+http://www.socallinuxexpo.org

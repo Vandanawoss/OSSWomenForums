@@ -1,0 +1,74 @@
+From gvwilson at third-bit.com  Tue Jun  7 21:39:44 2011
+From: gvwilson at third-bit.com (Greg Wilson)
+Date: Tue, 07 Jun 2011 15:39:44 -0400
+Subject: [Kde-women] contributing to "The Architecture of Open Source
+	Applications"
+Message-ID: <4DEE7E80.5000600@third-bit.com>
+
+Hello,
+
+We just released a book titled "The Architecture of Open Source 
+Applications", the content of which is also available online under a 
+Creative Commons license at http://aosabook.org. The project's 
+over-arching aim is to show people how complex applications are 
+designed,  and why they are designed that way; as we say in the 
+introduction, we want people to explain what the major components of 
+their applications, how they work together (or don't), and most 
+importantly, why that design was chosen, and what has been learned along 
+the way.
+
+We are now gearing up to do a second volume, and are looking for 
+contributions that reflect and encourage diverse participation in open 
+source software development. If you might be willing to write a 
+chapter-length description of a medium-to-large open source application  
+that you have worked on, or if you know someone who might want to do so, 
+please get in touch with us at aosa at aosabook.org. Please note that all 
+royalties from sales will be donated directly to Amnesty International, 
+so you'll be helping a couple of good causes at once.
+
+Thanks for your time --- we look forward to hearing from you.
+Greg Wilson (http://third-bit.com)
+
+
+From williamfromtexas at gmail.com  Tue Jun 14 20:40:29 2011
+From: williamfromtexas at gmail.com (William from Texas)
+Date: Tue, 14 Jun 2011 20:40:29 +0200
+Subject: [Kde-women] Desktop Summit: Event accommodation rates soon running
+	out
+Message-ID: <BANLkTimbCEwz4kW+SAfG_Sc8jYLcNmrKoA@mail.gmail.com>
+
+Dear LinuxChix
+
+The Desktop Summit 2011 draws nearer, and the special Summit rates we have
+negotiated with various Berlin hotels will expire soon. Please ensure that
+you book your room within the next 3 weeks to take advantage of the
+remaining available discounts!
+
+Summit accommodation details can be found here:
+desktopsummit.org/accommodation
+
+Help us pass the news along that these special rates will expire soon: blog
+or tweet our accommodation link to your friends. :)
+
+Are you already booked and ready? Proudly display the attached "I'm going"
+badge: desktopsummit.org/sites/www.desktopsummit.org/files/DS2011banner.png
+Follow all the latest developments and announcements on at:
+twitter.com/#!/desktopsummit <http://twitter.com/#%21/desktopsummit>
+
+
+Many thanks, and see you in Berlin!
+
+William
+DS 2011 Team
+www.desktopsummit.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20110614/a1e323ed/attachment-0001.htm 
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: going_to_DS2011banner.png
+Type: image/png
+Size: 35451 bytes
+Desc: not available
+Url : http://mail.kde.org/pipermail/kde-women/attachments/20110614/a1e323ed/attachment-0001.png 
+

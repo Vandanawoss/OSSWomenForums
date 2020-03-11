@@ -1,0 +1,180 @@
+From rauch at kde.org  Wed Feb  6 16:16:50 2013
+From: rauch at kde.org (Claudia Rauch)
+Date: Wed, 6 Feb 2013 17:16:50 +0100
+Subject: [Kde-women] Long reads, but good food for thought
+Message-ID: <CAA0Jy_xz3qJLnt0Dk056gEz8boYtvfJfSRKB21d_qzDng_hufw@mail.gmail.com>
+
+Hi all,
+
+Just quickly wanted to share two articles that I found quite
+interesting. The second one is an essay/answer to the first one, so if
+you want to read them, read the article by Joseph Reagle first.
+
+1) http://www.uic.edu/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/4291/3381
+
+2) http://geekfeminism.org/2013/02/04/open-source-closed-minds-a-reflection-on-joseph-reagles-free-as-in-sexist-free-culture-and-the-gender-gap/
+
+Claudia
+
+--
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+(Charlottenburg), with number VR 31685 B. Its president is Cornelius
+Schumacher. For more information please see http://ev.kde.org, and
+http://kde.org/
+
+From groot at kde.org  Fri Feb  8 21:27:42 2013
+From: groot at kde.org (Adriaan de Groot)
+Date: Fri, 08 Feb 2013 22:27:42 +0100
+Subject: [Kde-women] Long reads, but good food for thought
+In-Reply-To: <CAA0Jy_xz3qJLnt0Dk056gEz8boYtvfJfSRKB21d_qzDng_hufw@mail.gmail.com>
+References: <CAA0Jy_xz3qJLnt0Dk056gEz8boYtvfJfSRKB21d_qzDng_hufw@mail.gmail.com>
+Message-ID: <48587770.Q0QkWg2jQj@sausage>
+
+On Wednesday, February 06, 2013 05:16:50 PM Claudia Rauch wrote:
+> Just quickly wanted to share two articles that I found quite
+> interesting. The second one is an essay/answer to the first one, so if
+> you want to read them, read the article by Joseph Reagle first.
+
+Before reading these articles:
+
+FOSDEM has a larger (perceived by me, anyway) proportion of women attending 
+than any other Free Software conference I've been at. People also bring their 
+kids.
+
+There were two talks at FOSDEM about culture and community which I didn't see 
+but I'm told were good and inspiring: Leslie Hawthorn's talk and another 
+called "Assholes are killing your project". Might be worth following up with 
+the recordings of those two.
+
+[ade]
+
+From rauch at kde.org  Mon Feb 11 11:28:43 2013
+From: rauch at kde.org (Claudia Rauch)
+Date: Mon, 11 Feb 2013 12:28:43 +0100
+Subject: [Kde-women] Long reads, but good food for thought
+In-Reply-To: <48587770.Q0QkWg2jQj@sausage>
+References: <CAA0Jy_xz3qJLnt0Dk056gEz8boYtvfJfSRKB21d_qzDng_hufw@mail.gmail.com>
+ <48587770.Q0QkWg2jQj@sausage>
+Message-ID: <CAA0Jy_xuaBxPOSjvUxkjPpqy+5vqVkCHRhDdMFT_Ez9dU9TvUw@mail.gmail.com>
+
+On 8 February 2013 22:27, Adriaan de Groot <groot at kde.org> wrote:
+> On Wednesday, February 06, 2013 05:16:50 PM Claudia Rauch wrote:
+>> Just quickly wanted to share two articles that I found quite
+>> interesting. The second one is an essay/answer to the first one, so if
+>> you want to read them, read the article by Joseph Reagle first.
+>
+> Before reading these articles:
+>
+> FOSDEM has a larger (perceived by me, anyway) proportion of women attending
+> than any other Free Software conference I've been at. People also bring their
+> kids.
+
+Yes, that was my impression, too, in previous years. FOSDEM is
+somewhat different from Akademy, though. Much larger, many, many
+different projects, not just one.  I still wonder how we can reach out
+to get more women involved with KDE.
+
+> There were two talks at FOSDEM about culture and community which I didn't see
+> but I'm told were good and inspiring: Leslie Hawthorn's talk and another
+> called "Assholes are killing your project". Might be worth following up with
+> the recordings of those two.
+
+Thanks for the tips, will take a look at those.
+
+
+
+-- 
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+(Charlottenburg), with number VR 31685 B. Its president is Cornelius
+Schumacher. For more information please see http://ev.kde.org, and
+http://kde.org/
+
+From rauch at kde.org  Thu Feb 14 15:41:40 2013
+From: rauch at kde.org (Claudia Rauch)
+Date: Thu, 14 Feb 2013 16:41:40 +0100
+Subject: [Kde-women] Akademy 2013
+Message-ID: <CAA0Jy_x0kSso=ZxAdreDg=HP7bjzoE+J3s9ojzvo=eSoRd4QUg@mail.gmail.com>
+
+Hi all,
+
+You are probably aware of Akademy 2013 [1] in July in Bilbao, Spain.
+At last year's Akademy, we had a Women's Bof. In that session, we
+discussed a few ideas about how we can make KDE more attractive to
+female contributors - see my mail to this list from 19 July 2012.
+
+One of those ideas was to organise a women's get-together during
+Akademy and/or plan a women's track/ conference day. Example was: the
+women's miniconf during linuxconf.au.
+
+Are people on this list interested in organising one or the other?
+What are your ideas for Akademy? The local team in Bilbao also has
+contacts to local female Free Software activists so we could work with
+them.
+
+Cheers,
+Claudia
+
+
+[1] http://akademy2013.kde.org/
+
+
+--
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+(Charlottenburg), with number VR 31685 B. Its president is Cornelius
+Schumacher. For more information please see http://ev.kde.org, and
+http://kde.org/
+
+From myriam at kde.org  Tue Feb 26 18:16:22 2013
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Tue, 26 Feb 2013 19:16:22 +0100
+Subject: [Kde-women] What do we organize for March 8?
+Message-ID: <CAGzoOB8Tai3Hh4wmmJxFH01UqcfiQZ-AG54MNJ_=7zHuR65DVw@mail.gmail.com>
+
+Hi all,
+
+March 8 is International Women's Day. Shall we all blog again? Or does
+somebody have a better idea?
+
+
+Regards, Myriam
+
+-- 
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+

@@ -1,0 +1,488 @@
+From duffy@redhat.com  Wed Mar  8 18:09:51 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 34E153B1CA0
+	for <gnome-women-list@gnome.org>; Wed,  8 Mar 2006 18:09:51 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 02490-06 for <gnome-women-list@gnome.org>;
+	Wed,  8 Mar 2006 18:09:46 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 81B2E3B2670
+	for <gnome-women-list@gnome.org>; Wed,  8 Mar 2006 18:09:46 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k28N9jg4031323
+	for <gnome-women-list@gnome.org>; Wed, 8 Mar 2006 18:09:45 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k28N9j130870
+	for <gnome-women-list@gnome.org>; Wed, 8 Mar 2006 18:09:45 -0500
+Received: from [192.168.1.100] (dhcp83-55.boston.redhat.com [172.16.83.55])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k28N9jts030388
+	for <gnome-women-list@gnome.org>; Wed, 8 Mar 2006 18:09:45 -0500
+Message-ID: <440F6434.9050101@redhat.com>
+Date: Wed, 08 Mar 2006 18:09:40 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.565 tagged_above=-999 required=2 tests=[AWL=0.036, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.565
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] [Fwd: Women are joining the world of Free- and Open
+	Source Software]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 08 Mar 2006 23:09:51 -0000
+
+
+
+-------- Original Message --------
+Subject: Women are joining the world of Free- and Open Source Software
+Resent-Date: Wed,  8 Mar 2006 13:15:09 -0600 (CST)
+Resent-From: debian-women@lists.debian.org
+Date: Wed, 08 Mar 2006 19:59:06 +0100
+From: Anne Østergaard <anne@oestergaard.nu>
+To: women@apache.org, debian-women@lists.debian.org, women@opensource.org
+
+
+Women are making there way into the information age and joining
+the world of Free- and Open Source Software
+
+More women in Free (and all kinds of) software will lead to
+democracy, more humanism and diversity in society.
+
+March 8th each year is an important date for making status of the
+land winnings of the past and make an action plan for the future.
+
+In 2005 a group of women decided to hold a BOF, Birds Of A Feather,
+making a presentation on how to get more women interested in joining
+the Free Software Community at FLOS software events all over the world.
+
+During EuroOSCON, the Libre Software Meeting and now at FOSDEM, an
+early and cold Sunday morning in February the room was stuffed with men
+and women. The youngest girl was 1½ years old already at FOSDEM - trying
+to make her voice heard.
+
+Hannah Wallach from the Debian Women Project explained about the
+study that the EU Commission is having made by independent
+university researchers.
+
+The independent report will be published in 1-2 months time and is
+going to show that the percentage of women in Free - and Open Source
+Software is as modest as about 1.5 %.
+
+I hope that the report initiated by the European Commission will
+give some statistics from other sectors for comparison.
+
+In many other fields the situation is as imbalanced as it is the case
+in the software business. Research, music and sports to mention a few
+areas - religion not mentioned because no kind of software is a
+religion.
+
+The good news is that we are taken action ourselves. The community is
+going to identify the reasons why we have this situation. We in the
+community have got the challenge to point to ways and means of changing
+this imbalance. It is also very clear to me that we want to do so
+because we do not want to miss a potential of more than 50% of all the
+ideas in our innovation projects!
+
+I have heard that in Malaysia the women are in majority in the
+ICT sector and that the government is worried and planning a program to
+get more men involved.
+
+This shows us that it is circumstances in society that influence
+our choices and not something that has to do with gender chromosomes.
+
+At the moment ICT decisions are made all over the globe and on
+all levels both in governments and by businesses- most often without
+females represented in the decision making bodies!
+
+It is therefore important that we make up a list by country of women
+and men that are qualified to represent our case on public and
+private boards and experts committees.
+
+In Norway there has to be at least 40% women represented in the
+local government and the municipalities. Denmark has a similar proposal
+on its way.
+
+I am sure that we do not want a virtual universe where the girls
+are groupies and just sit there. Most men in the original hacker
+culture have been living in an all male subculture for a long period of
+time. Software is no longer a subculture, it is about communication and
+big business on a global scale. ICT is changing our ways of living, and
+rapidly too.
+
+Many men have discovered that it is actually very nice to come out in
+the daylight once in a while, and meet other people that are not a
+mirror of themselves. The cultural habits of the super nerds can not
+be changed over night, and not if they are not willing to let others in.
+
+The hacker culture does not exclude women, but we have to step lightly
+and be careful. If we want to join the community a large amount of
+patience, skills and humor will be a good ballast.
+
+The reward is that one can make many new friends - and the by product
+is that one learns a lot. Enough to find out that there are in fact no
+limits to what one can learn- your own capacity sets the pace.
+
+Happy hacking
+
+Anne
+
+
+
+-- 
+To UNSUBSCRIBE, email to debian-women-request@lists.debian.org
+with a subject of "unsubscribe". Trouble? Contact listmaster@lists.debian.org
+
+
+-- 
+Máirín Duffy <duffy@redhat.com>
+Interaction Designer
+Red Hat Network :: Red Hat, Inc.
+Westford, MA  978.392.3908
+From duffy@redhat.com  Wed Mar  8 18:09:51 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 34E153B1CA0
+	for <gnome-women-list@gnome.org>; Wed,  8 Mar 2006 18:09:51 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 02490-06 for <gnome-women-list@gnome.org>;
+	Wed,  8 Mar 2006 18:09:46 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 81B2E3B2670
+	for <gnome-women-list@gnome.org>; Wed,  8 Mar 2006 18:09:46 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k28N9jg4031323
+	for <gnome-women-list@gnome.org>; Wed, 8 Mar 2006 18:09:45 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k28N9j130870
+	for <gnome-women-list@gnome.org>; Wed, 8 Mar 2006 18:09:45 -0500
+Received: from [192.168.1.100] (dhcp83-55.boston.redhat.com [172.16.83.55])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k28N9jts030388
+	for <gnome-women-list@gnome.org>; Wed, 8 Mar 2006 18:09:45 -0500
+Message-ID: <440F6434.9050101@redhat.com>
+Date: Wed, 08 Mar 2006 18:09:40 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.565 tagged_above=-999 required=2 tests=[AWL=0.036, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.565
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] [Fwd: Women are joining the world of Free- and Open
+	Source Software]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 08 Mar 2006 23:09:51 -0000
+
+
+
+-------- Original Message --------
+Subject: Women are joining the world of Free- and Open Source Software
+Resent-Date: Wed,  8 Mar 2006 13:15:09 -0600 (CST)
+Resent-From: debian-women@lists.debian.org
+Date: Wed, 08 Mar 2006 19:59:06 +0100
+From: Anne Østergaard <anne@oestergaard.nu>
+To: women@apache.org, debian-women@lists.debian.org, women@opensource.org
+
+
+Women are making there way into the information age and joining
+the world of Free- and Open Source Software
+
+More women in Free (and all kinds of) software will lead to
+democracy, more humanism and diversity in society.
+
+March 8th each year is an important date for making status of the
+land winnings of the past and make an action plan for the future.
+
+In 2005 a group of women decided to hold a BOF, Birds Of A Feather,
+making a presentation on how to get more women interested in joining
+the Free Software Community at FLOS software events all over the world.
+
+During EuroOSCON, the Libre Software Meeting and now at FOSDEM, an
+early and cold Sunday morning in February the room was stuffed with men
+and women. The youngest girl was 1½ years old already at FOSDEM - trying
+to make her voice heard.
+
+Hannah Wallach from the Debian Women Project explained about the
+study that the EU Commission is having made by independent
+university researchers.
+
+The independent report will be published in 1-2 months time and is
+going to show that the percentage of women in Free - and Open Source
+Software is as modest as about 1.5 %.
+
+I hope that the report initiated by the European Commission will
+give some statistics from other sectors for comparison.
+
+In many other fields the situation is as imbalanced as it is the case
+in the software business. Research, music and sports to mention a few
+areas - religion not mentioned because no kind of software is a
+religion.
+
+The good news is that we are taken action ourselves. The community is
+going to identify the reasons why we have this situation. We in the
+community have got the challenge to point to ways and means of changing
+this imbalance. It is also very clear to me that we want to do so
+because we do not want to miss a potential of more than 50% of all the
+ideas in our innovation projects!
+
+I have heard that in Malaysia the women are in majority in the
+ICT sector and that the government is worried and planning a program to
+get more men involved.
+
+This shows us that it is circumstances in society that influence
+our choices and not something that has to do with gender chromosomes.
+
+At the moment ICT decisions are made all over the globe and on
+all levels both in governments and by businesses- most often without
+females represented in the decision making bodies!
+
+It is therefore important that we make up a list by country of women
+and men that are qualified to represent our case on public and
+private boards and experts committees.
+
+In Norway there has to be at least 40% women represented in the
+local government and the municipalities. Denmark has a similar proposal
+on its way.
+
+I am sure that we do not want a virtual universe where the girls
+are groupies and just sit there. Most men in the original hacker
+culture have been living in an all male subculture for a long period of
+time. Software is no longer a subculture, it is about communication and
+big business on a global scale. ICT is changing our ways of living, and
+rapidly too.
+
+Many men have discovered that it is actually very nice to come out in
+the daylight once in a while, and meet other people that are not a
+mirror of themselves. The cultural habits of the super nerds can not
+be changed over night, and not if they are not willing to let others in.
+
+The hacker culture does not exclude women, but we have to step lightly
+and be careful. If we want to join the community a large amount of
+patience, skills and humor will be a good ballast.
+
+The reward is that one can make many new friends - and the by product
+is that one learns a lot. Enough to find out that there are in fact no
+limits to what one can learn- your own capacity sets the pace.
+
+Happy hacking
+
+Anne
+
+
+
+-- 
+To UNSUBSCRIBE, email to debian-women-request@lists.debian.org
+with a subject of "unsubscribe". Trouble? Contact listmaster@lists.debian.org
+
+
+-- 
+Máirín Duffy <duffy@redhat.com>
+Interaction Designer
+Red Hat Network :: Red Hat, Inc.
+Westford, MA  978.392.3908
+
+From duffy@redhat.com  Wed Mar  8 18:09:51 2006
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 34E153B1CA0
+	for <gnome-women-list@gnome.org>; Wed,  8 Mar 2006 18:09:51 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 02490-06 for <gnome-women-list@gnome.org>;
+	Wed,  8 Mar 2006 18:09:46 -0500 (EST)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 81B2E3B2670
+	for <gnome-women-list@gnome.org>; Wed,  8 Mar 2006 18:09:46 -0500 (EST)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id k28N9jg4031323
+	for <gnome-women-list@gnome.org>; Wed, 8 Mar 2006 18:09:45 -0500
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id k28N9j130870
+	for <gnome-women-list@gnome.org>; Wed, 8 Mar 2006 18:09:45 -0500
+Received: from [192.168.1.100] (dhcp83-55.boston.redhat.com [172.16.83.55])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id k28N9jts030388
+	for <gnome-women-list@gnome.org>; Wed, 8 Mar 2006 18:09:45 -0500
+Message-ID: <440F6434.9050101@redhat.com>
+Date: Wed, 08 Mar 2006 18:09:40 -0500
+From: =?UTF-8?B?TcOhaXLDrW4gRHVmZnk=?= <duffy@redhat.com>
+User-Agent: Mozilla Thunderbird 1.0.7-1.4.1 (X11/20050929)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-2.565 tagged_above=-999 required=2 tests=[AWL=0.036, 
+	BAYES_00=-2.599, SPF_HELO_PASS=-0.001, SPF_PASS=-0.001]
+X-Spam-Score: -2.565
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] [Fwd: Women are joining the world of Free- and Open
+	Source Software]
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 08 Mar 2006 23:09:51 -0000
+
+
+
+-------- Original Message --------
+Subject: Women are joining the world of Free- and Open Source Software
+Resent-Date: Wed,  8 Mar 2006 13:15:09 -0600 (CST)
+Resent-From: debian-women@lists.debian.org
+Date: Wed, 08 Mar 2006 19:59:06 +0100
+From: Anne Østergaard <anne@oestergaard.nu>
+To: women@apache.org, debian-women@lists.debian.org, women@opensource.org
+
+
+Women are making there way into the information age and joining
+the world of Free- and Open Source Software
+
+More women in Free (and all kinds of) software will lead to
+democracy, more humanism and diversity in society.
+
+March 8th each year is an important date for making status of the
+land winnings of the past and make an action plan for the future.
+
+In 2005 a group of women decided to hold a BOF, Birds Of A Feather,
+making a presentation on how to get more women interested in joining
+the Free Software Community at FLOS software events all over the world.
+
+During EuroOSCON, the Libre Software Meeting and now at FOSDEM, an
+early and cold Sunday morning in February the room was stuffed with men
+and women. The youngest girl was 1½ years old already at FOSDEM - trying
+to make her voice heard.
+
+Hannah Wallach from the Debian Women Project explained about the
+study that the EU Commission is having made by independent
+university researchers.
+
+The independent report will be published in 1-2 months time and is
+going to show that the percentage of women in Free - and Open Source
+Software is as modest as about 1.5 %.
+
+I hope that the report initiated by the European Commission will
+give some statistics from other sectors for comparison.
+
+In many other fields the situation is as imbalanced as it is the case
+in the software business. Research, music and sports to mention a few
+areas - religion not mentioned because no kind of software is a
+religion.
+
+The good news is that we are taken action ourselves. The community is
+going to identify the reasons why we have this situation. We in the
+community have got the challenge to point to ways and means of changing
+this imbalance. It is also very clear to me that we want to do so
+because we do not want to miss a potential of more than 50% of all the
+ideas in our innovation projects!
+
+I have heard that in Malaysia the women are in majority in the
+ICT sector and that the government is worried and planning a program to
+get more men involved.
+
+This shows us that it is circumstances in society that influence
+our choices and not something that has to do with gender chromosomes.
+
+At the moment ICT decisions are made all over the globe and on
+all levels both in governments and by businesses- most often without
+females represented in the decision making bodies!
+
+It is therefore important that we make up a list by country of women
+and men that are qualified to represent our case on public and
+private boards and experts committees.
+
+In Norway there has to be at least 40% women represented in the
+local government and the municipalities. Denmark has a similar proposal
+on its way.
+
+I am sure that we do not want a virtual universe where the girls
+are groupies and just sit there. Most men in the original hacker
+culture have been living in an all male subculture for a long period of
+time. Software is no longer a subculture, it is about communication and
+big business on a global scale. ICT is changing our ways of living, and
+rapidly too.
+
+Many men have discovered that it is actually very nice to come out in
+the daylight once in a while, and meet other people that are not a
+mirror of themselves. The cultural habits of the super nerds can not
+be changed over night, and not if they are not willing to let others in.
+
+The hacker culture does not exclude women, but we have to step lightly
+and be careful. If we want to join the community a large amount of
+patience, skills and humor will be a good ballast.
+
+The reward is that one can make many new friends - and the by product
+is that one learns a lot. Enough to find out that there are in fact no
+limits to what one can learn- your own capacity sets the pace.
+
+Happy hacking
+
+Anne
+
+
+
+-- 
+To UNSUBSCRIBE, email to debian-women-request@lists.debian.org
+with a subject of "unsubscribe". Trouble? Contact listmaster@lists.debian.org
+
+
+-- 
+Máirín Duffy <duffy@redhat.com>
+Interaction Designer
+Red Hat Network :: Red Hat, Inc.
+Westford, MA  978.392.3908
+

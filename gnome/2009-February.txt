@@ -1,0 +1,152 @@
+From g@socallinuxexpo.org  Fri Feb  6 16:28:42 2009
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9F9A67500BB;
+	Fri,  6 Feb 2009 16:28:42 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 2) (up: 1922 hrs), (distance 19,
+	link: ethernet/modem), [208.83.101.234]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FU191nFcozHC; Fri,  6 Feb 2009 16:28:35 +0000 (GMT)
+Received: from maggie.socallinuxexpo.org (scale-3.actusa.net [208.83.101.234])
+	by menubar.gnome.org (Postfix) with ESMTP id CDD8575000A;
+	Fri,  6 Feb 2009 16:28:34 +0000 (GMT)
+Received: from [208.127.52.172] (netblock-208-127-52-172.dslextreme.com
+	[208.127.52.172]) (authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	n16GSCp9011665
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Fri, 6 Feb 2009 08:28:13 -0800
+Message-ID: <498C6530.3090402@socallinuxexpo.org>
+Date: Fri, 06 Feb 2009 08:28:32 -0800
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+User-Agent: Thunderbird 2.0.0.19 (X11/20090105)
+MIME-Version: 1.0
+To: gnome-devel-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: ClamAV 0.94.2/8961/Fri Feb  6 05:29:06 2009 on maggie
+X-Virus-Status: Clean
+Cc: gnome-women-list@mail.gnome.org
+Subject: [gnome-women] Discount Code for Southern California Linux Expo 7x
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.10
+Precedence: list
+Reply-To: gareth@socallinuxexpo.org
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 06 Feb 2009 16:28:42 -0000
+
+Greetings!
+
+The Southern California Linux Expo is fast approaching and will be
+taking place in Los Angeles, California in just over two weeks.  We have
+lined up many really great speakers and exhibitors, as well as many
+other exciting things for the weekend.  If there are any GNOME Users
+and/or Developers who might be interested in attending the show, we have
+created a special GNOME promotional code.  Using this code (GNOME) will
+get you a 50% discount off a full access pass to the show.
+
+To purchase tickets or for more information about the show, please visit
+our web site at http://www.socallinuxexpo.org
+
+Thanks!
+Gareth J. Greenaway
+
+-- 
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+From gareth@socallinuxexpo.org  Fri Feb  6 16:28:03 2009
+Return-Path: <gareth@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 4043675010A;
+	Fri,  6 Feb 2009 16:28:03 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 2) (up: 1922 hrs), (distance 19,
+	link: ethernet/modem), [208.83.101.234]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Kqzo45CCD3ea; Fri,  6 Feb 2009 16:27:55 +0000 (GMT)
+Received: from maggie.socallinuxexpo.org (scale-3.actusa.net [208.83.101.234])
+	by menubar.gnome.org (Postfix) with ESMTP id 828F875000A;
+	Fri,  6 Feb 2009 16:27:54 +0000 (GMT)
+Received: from [208.127.52.172] (netblock-208-127-52-172.dslextreme.com
+	[208.127.52.172]) (authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	n16GRVDs011609
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT);
+	Fri, 6 Feb 2009 08:27:32 -0800
+Message-ID: <498C6507.3050403@socallinuxexpo.org>
+From: "Gareth J. Greenaway" <gareth@socallinuxexpo.org>
+User-Agent: Thunderbird 2.0.0.19 (X11/20090105)
+MIME-Version: 1.0
+To: gnome-devel-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: ClamAV 0.94.2/8961/Fri Feb  6 05:29:06 2009 on maggie
+X-Virus-Status: Clean
+X-Mailman-Approved-At: Tue, 15 Sep 2009 15:38:39 +0000
+Cc: gnome-women-list@mail.gnome.org
+Subject: [gnome-women] Discount Code for Southern California Linux Expo 7x
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+Date: Fri, 06 Feb 2009 16:28:03 -0000
+X-Original-Date: Fri, 06 Feb 2009 08:27:51 -0800
+X-List-Received-Date: Fri, 06 Feb 2009 16:28:03 -0000
+
+Greetings!
+
+The Southern California Linux Expo is fast approaching and will be 
+taking place in Los Angeles, California in just over two weeks.  We have 
+lined up many really great speakers and exhibitors, as well as many 
+other exciting things for the weekend.  If there are any GNOME Users 
+and/or Developers who might be interested in attending the show, we have 
+created a special GNOME promotional code.  Using this code (GNOME) will 
+get you a 50% discount off a full access pass to the show.
+
+To purchase tickets or for more information about the show, please visit 
+our web site at http://www.socallinuxexpo.org
+
+Thanks!
+Gareth J. Greenaway
+
+-- 
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+

@@ -1,0 +1,352 @@
+From kde-women@mail.kde.org  Mon Apr  8 19:53:02 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Mon, 8 Apr 2002 20:53:02 +0200
+Subject: [Kde-women]Join the discussion :-)
+Message-ID: <200204082053.02342.eva@kde.org>
+
+Hi dear kde-women,
+
+in the new chill-out room kde-cafe a discussion started which gets rather=
+=20
+heated. Since it's about us, you maybe want to join :-) The headline is=20
+"Locker-room mentality in KDE?"...
+
+You can read the archive at=20
+http://mail.kde.org/pipermail/kde-cafe/2002-April/thread.html#1702
+
+You don't have to subscribe to the mailinglist in order to post and you c=
+an=20
+also follow the discussion in the news at the server news.uslinuxtraining=
+=2Ecom=20
+(readonly).
+
+Please keep in mind, that the people who are in the discussion are not at=
+ all=20
+representatives for KDE. Fortunately the community and also the range of=20
+opinions is much larger :-)
+
+See you there or let's discuss it here,
+eva
+
+PS: I really don't know why I always get so angry about stupid guys... ;-=
+)
+
+From kde-women@mail.kde.org  Mon Apr  8 21:44:51 2002
+From: kde-women@mail.kde.org (Heike Jurzik)
+Date: Mon, 8 Apr 2002 22:44:51 +0200
+Subject: [Kde-women]Join the discussion :-)
+In-Reply-To: <200204082053.02342.eva@kde.org>
+References: <200204082053.02342.eva@kde.org>
+Message-ID: <20020408204451.GA31421@guug.de>
+
+On Mon, Apr 08, 2002 at 08:53:02PM +0200, Eva Brucherseifer wrote:
+
+Hi Eva, hi all :)
+
+> PS: I really don't know why I always get so angry about stupid guys... ;-)
+
+Don't get angry :) We all (and a lot of men) know, that there is no such
+locker-room mentality. I think we should be happy about the positive
+statements on that list and ignore the stupid comments :)
+
+KDE-women is a great project -- I'm glad I met so many women all over
+the world who share the same interest ;)
+
+Good night, Heike
+
+-- 
+jurzik@kde.org                       (°>  (°-   _o)   -°)          
+kde-women: http://women.kde.org/     //\  //\    /\\  /\\
+kde-edu:   http://edu.kde.org/       V_/_ V_/_  _\_V _\_V
+
+From kde-women@mail.kde.org  Thu Apr 11 18:10:07 2002
+From: kde-women@mail.kde.org (Maria Pinjanainen)
+Date: Thu, 11 Apr 2002 20:10:07 +0300
+Subject: [Kde-women]Kandy and Eriksson's gsm
+Message-ID: <200204111710.MAA13129@dragonwind.net>
+
+I think that some of you might know if Eriksson t65/t68 gsm works with Kandy. 
+I tried it, but only message is "cannot open device /dev/ttyS0" (same message 
+for me nd root.)
+I'm usually online with gprs with my laptop using another software (Mikko 
+Rapelli's) and it works. I'd like to use Kandy to sync phonenumbers etc... If 
+it is possible. 
+
+-Greetings from fun-Finland :-)
+
+-maRia
+
+From kde-women@mail.kde.org  Thu Apr 11 18:24:31 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Thu, 11 Apr 2002 19:24:31 +0200
+Subject: [Kde-women]Pauline Leet?
+Message-ID: <200204111924.31491.eva@kde.org>
+
+Hi all and esp. Tink,
+
+in the heated discussion on KDE-Cafe the name of Pauline Leet was mention=
+ed. I=20
+never heard about her. Can anyone tell me more?=20
+
+Greetings,
+eva
+
+
+From kde-women@mail.kde.org  Fri Apr 12 07:50:39 2002
+From: kde-women@mail.kde.org (Amelie Zapf)
+Date: Fri, 12 Apr 2002 08:50:39 +0200
+Subject: [Kde-women]Pauline Leet?
+In-Reply-To: <200204111924.31491.eva@kde.org>
+References: <200204111924.31491.eva@kde.org>
+Message-ID: <02041208503900.00903@amy>
+
+Hi Eva, KDE-women,
+
+> in the heated discussion on KDE-Cafe the name of Pauline Leet was
+> mentioned. I never heard about her. Can anyone tell me more?
+
+not really, google looks very unpromising. There's 3 hits, a pastor's 
+guestbook, an announcement of a speech her husband's gonna deliver & an 
+incredibly large PDF about interfaith ministries. Not so helpful, huh?
+
+Kind regards,
+
+Amy
+
+-- 
+Louey & Amy
+Soul, Jazz & Gospel from Berlin
+
+www.louey-amy.de
+
+From kde-women@mail.kde.org  Fri Apr 12 11:02:21 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Fri, 12 Apr 2002 12:02:21 +0200
+Subject: [Kde-women]Pauline Leet?
+In-Reply-To: <02041208503900.00903@amy>
+References: <200204111924.31491.eva@kde.org> <02041208503900.00903@amy>
+Message-ID: <200204121202.21453.eva@kde.org>
+
+On Friday 12 April 2002 08:50, Amelie Zapf wrote:
+> Hi Eva, KDE-women,
+>
+> > in the heated discussion on KDE-Cafe the name of Pauline Leet was
+> > mentioned. I never heard about her. Can anyone tell me more?
+>
+> not really, google looks very unpromising. There's 3 hits, a pastor's
+> guestbook, an announcement of a speech her husband's gonna deliver & an
+> incredibly large PDF about interfaith ministries. Not so helpful, huh?
+
+Not really...
+
+It was actually Bob Rea who mentioned Pauline Leet not Tink. Here is what he 
+said that made me curious:
+
+"And thanks for this discussion. I consider myself a male 
+feminist for two reasons. The first is that I was 
+introduced to primal modern feminism by one of the original 
+people. In college i was involved in the civil rights 
+movement in the USA. When I returned to visit two years 
+after graduation, one of the older people I knew, a faculty 
+wife, sat me down and told me what she had discovered. She 
+had seen that women were oppressed much as black folk were 
+in US society. She coined a word for it based on the term 
+'racism.' namely, 'sexism.' Yes, she was the one who first 
+named and described it, Pauline Leet, in 1967. So i learned 
+it from the source."
+
+Basically I know only a few famous feminists (apart from many the not so 
+famous, but still hard working feminists ;-). The one I know most about is 
+the german Alice Schwarzer who's is running a german feminist magazine.
+
+Cheers,
+eva
+
+>
+> Kind regards,
+>
+> Amy
+
+
+From kde-women@mail.kde.org  Fri Apr 12 18:09:46 2002
+From: kde-women@mail.kde.org (Amelie Zapf)
+Date: Fri, 12 Apr 2002 19:09:46 +0200
+Subject: [Kde-women]Pauline Leet?
+In-Reply-To: <200204121202.21453.eva@kde.org>
+References: <200204111924.31491.eva@kde.org> <02041208503900.00903@amy> <200204121202.21453.eva@kde.org>
+Message-ID: <02041219094601.01841@amy>
+
+Hi Eva, KDE-women,
+
+> When I returned to visit two years
+> after graduation, one of the older people I knew, a faculty
+> wife, sat me down and told me what she had discovered. She
+> had seen that women were oppressed much as black folk were
+> in US society. She coined a word for it based on the term
+> 'racism.' namely, 'sexism.'
+
+http://www.lib.washington.edu/Ougl/fun/qboard/sexi.html mentions:
+
+> When, how, and by whom did the words 'sexist' and 'sexism' come into being? 
+> 
+> "Sexist" appeared first, according to the Oxford English Dictionary. It was 
+> coined by PM Leet in a 1965 speech: "When you argue...that since fewer 
+> women write good
+> poetry this justifies their total exclusion, you are taking a position 
+> analogous to that of the racist--I might call you in this case a 
+> 'sexist'--who says that since so few
+> Negroes have held positions of importance...their exclusion from history 
+> books is a matter of good judgement rather than discrimination." 
+> 
+> "Sexism" appeared three years later, in a 1968 speech by C. Bird: "Sexism 
+> is judging people by their sex where sex doesn't matter."
+> 
+> Both quotations are cited in the OED (OUGL Reference, PE 1625 O87 1989).
+
+
+> Basically I know only a few famous feminists (apart from many the not so
+> famous, but still hard working feminists ;-). The one I know most about is
+> the german Alice Schwarzer who's is running a german feminist magazine.
+
+I could recommend a couple books to you to remedy that situation ;-)
+
+
+Cheers, Amy
+
+-- 
+Louey & Amy
+Soul, Jazz & Gospel from Berlin
+
+www.louey-amy.de
+
+From kde-women@mail.kde.org  Tue Apr 16 17:32:36 2002
+From: kde-women@mail.kde.org (Tods)
+Date: Tue, 16 Apr 2002 18:32:36 +0200
+Subject: [Kde-women]Translations Spanish
+Message-ID: <B8E21EC4.197%exea@mundofree.com>
+
+>Este mensaje tiene formato MIME. Al no reconocer su lector de
+correo este formato, puede que todo o parte del mensaje resulte ilegible.
+
+--MS_Mac_OE_3101826756_285538_MIME_Part
+Content-type: text/plain; charset="ISO-8859-1"
+Content-transfer-encoding: quoted-printable
+
+
+For the time when it=B4s KDE-Women  un spanish.
+
+
+
+Thank you
+
+Susana G.B. 
+
+--MS_Mac_OE_3101826756_285538_MIME_Part
+Content-type: text/html; charset="ISO-8859-1"
+Content-transfer-encoding: quoted-printable
+
+<HTML>
+<HEAD>
+<TITLE>Translations Spanish</TITLE>
+</HEAD>
+<BODY>
+<BR>
+For the time when it=B4s <FONT COLOR=3D"#FFB60C"><FONT SIZE=3D"2"><FONT FACE=3D"76 =
+Helvetica BoldItalic">KDE-Women &nbsp;</FONT></FONT></FONT>un spanish.<BR>
+<BR>
+<BR>
+<BR>
+Thank you<BR>
+<BR>
+Susana G.B.
+</BODY>
+</HTML>
+
+
+--MS_Mac_OE_3101826756_285538_MIME_Part--
+
+
+From kde-women@mail.kde.org  Wed Apr 17 09:59:44 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Wed, 17 Apr 2002 10:59:44 +0200
+Subject: [Kde-women]Pauline Leet?
+In-Reply-To: <02041219094601.01841@amy>
+References: <200204111924.31491.eva@kde.org> <200204121202.21453.eva@kde.org> <02041219094601.01841@amy>
+Message-ID: <200204171059.44038.eva@kde.org>
+
+Hi Amelie, 
+
+was kind of busy lately....
+
+On Friday 12 April 2002 19:09, Amelie Zapf wrote:
+> Hi Eva, KDE-women,
+>
+> > When I returned to visit two years
+> > after graduation, one of the older people I knew, a faculty
+> > wife, sat me down and told me what she had discovered. She
+> > had seen that women were oppressed much as black folk were
+> > in US society. She coined a word for it based on the term
+> > 'racism.' namely, 'sexism.'
+>
+> http://www.lib.washington.edu/Ougl/fun/qboard/sexi.html mentions:
+> > When, how, and by whom did the words 'sexist' and 'sexism' come into
+> > being?
+> >
+> > "Sexist" appeared first, according to the Oxford English Dictionary. It
+> > was coined by PM Leet in a 1965 speech: "When you argue...that since
+> > fewer women write good
+> > poetry this justifies their total exclusion, you are taking a position
+> > analogous to that of the racist--I might call you in this case a
+> > 'sexist'--who says that since so few
+> > Negroes have held positions of importance...their exclusion from history
+> > books is a matter of good judgement rather than discrimination."
+> >
+> > "Sexism" appeared three years later, in a 1968 speech by C. Bird: "Sexism
+> > is judging people by their sex where sex doesn't matter."
+> >
+> > Both quotations are cited in the OED (OUGL Reference, PE 1625 O87 1989).
+> >
+> >
+> > Basically I know only a few famous feminists (apart from many the not so
+> > famous, but still hard working feminists ;-). The one I know most about
+> > is the german Alice Schwarzer who's is running a german feminist
+> > magazine.
+>
+> I could recommend a couple books to you to remedy that situation ;-)
+
+Yes, that would be great :-) The best would be some kind of novel, since I 
+already have to read many "Sachbücher" (specialized books) at work ;-)
+
+BTW, I saw that your band is often on tour - do you also plan to come to 
+Darmstadt or close to Darmstadt soon? Would be great to visit a concert :-)
+
+Cheers, 
+eva
+
+>
+>
+> Cheers, Amy
+
+
+From kde-women@mail.kde.org  Wed Apr 17 18:08:29 2002
+From: kde-women@mail.kde.org (Anne-Marie MAHFOUF)
+Date: Wed, 17 Apr 2002 18:08:29 +0100
+Subject: [Kde-women]Pauline Leet?
+In-Reply-To: <200204171059.44038.eva@kde.org>
+References: <200204111924.31491.eva@kde.org> <02041219094601.01841@amy> <200204171059.44038.eva@kde.org>
+Message-ID: <E16xsm7-0002SB-00@mk-smarthost-3.mail.uk.tiscali.com>
+
+Hi all,
+
+> BTW, I saw that your band is often on tour - do you also plan to come to
+> Darmstadt or close to Darmstadt soon? Would be great to visit a concert :-)
+
+band? concert? tour? :))))
+did I miss something?
+Please do tell us more, I'm dying of curiosity and I love music (just started 
+learning to play the drums)
+
+Cheers,
+
+annma
+

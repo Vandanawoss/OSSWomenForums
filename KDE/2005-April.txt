@@ -1,0 +1,1105 @@
+From cmlotion at wanadoo.nl  Sun Apr  3 21:10:38 2005
+From: cmlotion at wanadoo.nl (C.M.Lotion)
+Date: Sun Apr  3 21:10:16 2005
+Subject: [Kde-women] Job database
+Message-ID: <200504031510.42299.cmlotion@wanadoo.nl>
+
+Hi,
+
+My name is Claire and I'm part of the Dutch KDE team. I was wondering about 
+the job database that you mention on http://women.kde.org/projects/ . Will it 
+be a framework that is available for translation teams as well? I just picked 
+up writing a static page with tasks again, and am actually looking for a 
+better maintainable solution. Could you provide me with some more 
+information? Thanks in advance.
+
+Regards,
+
+Claire 
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+Url : http://mail.kde.org/pipermail/kde-women/attachments/20050403/698c4a69/attachment.pgp
+From esme at nocturnal.clara.co.uk  Sun Apr  3 23:48:19 2005
+From: esme at nocturnal.clara.co.uk (Esme)
+Date: Mon Apr  4 00:06:26 2005
+Subject: [Kde-women] quick query
+In-Reply-To: <200504031510.42299.cmlotion@wanadoo.nl>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+Message-ID: <200504032248.19265.esme@nocturnal.clara.co.uk>
+
+For various reasons, I haven't been able to start looking into modern 
+programming yet (and I'm now rying to work my way through LPI certification), 
+but if anyone here could use some help in either translating into English or 
+proofreading (British)  English docfiles or localisation stuff, just give me 
+a yell, I'd be happy to help if I can.
+
+Esme
+From annemarie.mahfouf at free.fr  Tue Apr  5 23:06:44 2005
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Tue Apr  5 23:06:53 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <200504031510.42299.cmlotion@wanadoo.nl>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+Message-ID: <200504051706.44598.annemarie.mahfouf@free.fr>
+
+On April 3, 2005 03:10 pm, C.M.Lotion wrote:
+> Hi,
+>
+> My name is Claire and I'm part of the Dutch KDE team. I was wondering about
+> the job database that you mention on http://women.kde.org/projects/ . Will
+> it be a framework that is available for translation teams as well? I just
+> picked up writing a static page with tasks again, and am actually looking
+> for a better maintainable solution. Could you provide me with some more
+> information? Thanks in advance.
+>
+> Regards,
+>
+> Claire
+Hi Claire,
+
+Sorry for answering late! The job database was meant to be with SQL and php 
+which was difficult to set up anyway. The database was never set up as the 
+Quality Team had the same sort of idea at the same time.
+In fact we should have carried our idea because the Quality Team 'deflated' 
+after a big start...
+So I'm afraid I cannot help you here.
+
+Regards,
+
+Anne-Marie
+From ines at drury.edu  Tue Apr  5 23:17:26 2005
+From: ines at drury.edu (Ines Sombra)
+Date: Tue Apr  5 23:11:33 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <200504051706.44598.annemarie.mahfouf@free.fr>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504051706.44598.annemarie.mahfouf@free.fr>
+Message-ID: <42530066.6070705@drury.edu>
+
+Hello Anne,
+
+I was the one supposed to build it but never got any answers and then 
+Frauke left. Is the project db still needed?
+I am still willing to help.
+
+Ines
+
+Anne-Marie Mahfouf wrote:
+> On April 3, 2005 03:10 pm, C.M.Lotion wrote:
+> 
+>>Hi,
+>>
+>>My name is Claire and I'm part of the Dutch KDE team. I was wondering about
+>>the job database that you mention on http://women.kde.org/projects/ . Will
+>>it be a framework that is available for translation teams as well? I just
+>>picked up writing a static page with tasks again, and am actually looking
+>>for a better maintainable solution. Could you provide me with some more
+>>information? Thanks in advance.
+>>
+>>Regards,
+>>
+>>Claire
+> 
+> Hi Claire,
+> 
+> Sorry for answering late! The job database was meant to be with SQL and php 
+> which was difficult to set up anyway. The database was never set up as the 
+> Quality Team had the same sort of idea at the same time.
+> In fact we should have carried our idea because the Quality Team 'deflated' 
+> after a big start...
+> So I'm afraid I cannot help you here.
+> 
+> Regards,
+> 
+> Anne-Marie
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+From annemarie.mahfouf at free.fr  Tue Apr  5 23:32:04 2005
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Tue Apr  5 23:32:13 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <42530066.6070705@drury.edu>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504051706.44598.annemarie.mahfouf@free.fr>
+	<42530066.6070705@drury.edu>
+Message-ID: <200504051732.04536.annemarie.mahfouf@free.fr>
+
+On April 5, 2005 05:17 pm, Ines Sombra wrote:
+> Hello Anne,
+>
+> I was the one supposed to build it but never got any answers and then
+> Frauke left. Is the project db still needed?
+> I am still willing to help.
+>
+> Ines
+
+As for me, unfortunately I have little time for that at the moment. I don't 
+remember the details for it. If you're willing to help, maybe we can rebuild 
+a team to work on it. First mails about that should be looked at in the 
+archives. Roughly I think we wanted to record all tasks that have to be done 
+and try to get somebody for them. Like 'review this handbook to check 
+English', 'this app needs help' and so on.
+
+Regards,
+
+Anne-Marie
+From blk20 at cam.ac.uk  Wed Apr  6 09:50:27 2005
+From: blk20 at cam.ac.uk (B. L. Krieger)
+Date: Wed Apr  6 09:50:51 2005
+Subject: [Kde-women] flosspols survey
+In-Reply-To: <200504051732.04536.annemarie.mahfouf@free.fr>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504051732.04536.annemarie.mahfouf@free.fr>
+Message-ID: <Prayer.1.0.13.0504060850270.4105@hermes-1.csi.cam.ac.uk>
+
+Dear all,
+
+In the framework of the flosspols project we currently run a survey which 
+focuses on the aspect of learning as well as the role/situation of women 
+within the free/libre/open source software community (see announcment 
+below). We are interested in the opinion of all kinds of contributors 
+(developers, translators, documentors, promotor, etc.).
+
+http://flosspols.org/survey/survey_part.php?groupid=blkkdw
+
+It would be great if you could help us by (a) filling in the survey and (b) 
+by forwarding it to people you know in the community. Up until now our 
+sample contains around 3.5% women (which is about twice as much as female 
+participants in floss). It would be great if we could include even more 
+women, also to be able to carry out more reliable statistical analysis.
+
+Thanks for your attention and for considering your support.
+
+Best,
+Bernhard
+
+
+--------------------------------------------------------------------------------
+
+Dear FLOSS (Free / Libre / Open Source Software) participant:
+
+In 2002, MERIT/Infonomics at the University of Maastricht, the Netherlands, 
+carried out the FLOSS developer survey supported by the European Union. 
+This was the first survey that provided deep insights in the international 
+FLOSS community, its divisions, its diversity of beliefs, and its 
+functioning. Although this study has been pathbreaking for many research 
+activities in the following years, some very important questions regarding 
+this phenomenon remained unanswered so far.
+
+The original FLOSS survey sponsored by the European Union, and follow up 
+FLOSS-US (Stanford) and FLOSS-Japan/FLOSS-Asia (Mitsubishi Research) showed 
+that "Learning new skills" was the most common reason provided by 
+participants for their FLOSS activities. Another significant finding of 
+surveys is that there are far fewer women in FLOSS development than in 
+software development as a whole. In this two-part survey, once again 
+supported by the European Union, we would like to find out, first, how 
+learning is organised and perceived within the FLOSS community - by which 
+we mean the universe of all those who participate in FLOSS-related 
+activities, regardless of their beliefs or degree of activity. We also want 
+to understand better the role/situation of women within this broad 
+community.
+
+For this purpose we rely heavily on your support, because you and your 
+colleagues are the only ones who have the experience and expertise to help 
+us revealing a realistic and appropriate picture of the community. 
+Therefore we would like to ask you to fill in the following 
+questionnaire.The more FLOSS participants - not only developers - respond, 
+the better and more accurate the survey results.
+
+FLOSSPOLS is a scientific project that is financed by the European 
+Commission. It serves exclusively purposes in the public interest, 
+especially the provision of support for European policies towards Open 
+Source and Free Software. The information you provide will be kept strictly 
+confidential, and nobody outside the FLOSSPOLS research team will have 
+access to personalised data. Moreover, all results we publish will ensure 
+that the identification of persons who have replied to the questionnaires 
+will be impossible. The FLOSSPOLS Team is cooperating with the Stanford 
+NSF-funded project that conducted the FLOSS-US survey on questionnaire 
+design, to minimise the number of questionnaires sent to participants.
+
+If you are younger than 18 years, we would like to draw attention to the 
+fact that surveying of underage persons is a sensitive ethical issue in the 
+EU framework. However, we acknowledge that many members of the FLOSS 
+community are quite young. If you are underage, we would like to recommend 
+that you carefully consider the purpose of our survey, as stated in this 
+letter, before filling it out.
+
+If you have further questions or comments on this topic do not hesitate to 
+contact us (email: dev_survey@flosspols.org).
+
+Thank you for your support.
+
+The FLOSSPOLS Research Team 
+From lauri at kde.org  Wed Apr  6 10:11:19 2005
+From: lauri at kde.org (Lauri Watts)
+Date: Wed Apr  6 12:47:42 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <200504051732.04536.annemarie.mahfouf@free.fr>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<42530066.6070705@drury.edu>
+	<200504051732.04536.annemarie.mahfouf@free.fr>
+Message-ID: <200504061011.23357.lauri@kde.org>
+
+On Tuesday 05 April 2005 23.32, Anne-Marie Mahfouf wrote:
+> On April 5, 2005 05:17 pm, Ines Sombra wrote:
+> > Hello Anne,
+> >
+> > I was the one supposed to build it but never got any answers and then
+> > Frauke left. Is the project db still needed?
+> > I am still willing to help.
+> >
+> > Ines
+>
+> As for me, unfortunately I have little time for that at the moment. I don't
+> remember the details for it. If you're willing to help, maybe we can
+> rebuild a team to work on it. First mails about that should be looked at in
+> the archives. Roughly I think we wanted to record all tasks that have to be
+> done and try to get somebody for them. Like 'review this handbook to check
+> English', 'this app needs help' and so on.
+
+I didn't like this idea then, and I hate it now.  Duplicating an insufficient  
+resource with an unmaintained one, instead of working on improving the 
+existing one, seems like a complete waste of time to me.
+
+There is a jobs page on www.kde.org for open jobs - this page sees a lot of 
+traffic.  There is the quality team, which I beg to differ, hasn't actually 
+deflated as much as you might think, although the attempts to manage this 
+exact information mentioned above didn't come to much.  Why might that be? 
+Because it's a MASSIVE job to maintain, and nobody has time to do it.  In a 
+wiki, in a text file, or in a DB, it doesn't matter, unless you grow everyone 
+another 24 hours in a day.   
+
+The logical thing to do is to put recurring/ongoing jobs on the jobs page, and 
+leverage bugs.kde.org the way the docs team (and others, notably the PIM team 
+and the Quality team) have. We use the junior jobs, and generally filing lots 
+of small bitesize tasks as bugs and marking them so, feels like a much more 
+practical way forward.  It's been easily the most productive decision we 
+made: Open jobs are either bugs or wishlist items, and should be filed 
+*anyway*, bugzilla is already set up to deal with exactly this.
+
+[See http://i18n.kde.org/doc/current.php for links to pre-rolled queries to 
+pull out the beginner docs jobs from bugzilla, for instance, or the PIM team 
+doing exactly the same thing: http://pim.kde.org/development/bugs.php )
+
+Regards,
+-- 
+Lauri Watts
+KDE Documentation: http://docs.kde.org
+KDE on FreeBSD: http://freebsd.kde.org
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 187 bytes
+Desc: not available
+Url : http://mail.kde.org/pipermail/kde-women/attachments/20050406/5210cfa9/attachment.pgp
+From annemarie.mahfouf at free.fr  Wed Apr  6 13:40:30 2005
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Wed Apr  6 13:40:54 2005
+Subject: [Kde-women] flosspols survey
+In-Reply-To: <Prayer.1.0.13.0504060850270.4105@hermes-1.csi.cam.ac.uk>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504051732.04536.annemarie.mahfouf@free.fr>
+	<Prayer.1.0.13.0504060850270.4105@hermes-1.csi.cam.ac.uk>
+Message-ID: <200504060740.30496.annemarie.mahfouf@free.fr>
+
+On April 6, 2005 03:50 am, B. L. Krieger wrote:
+Hi,
+
+I don't see where it is said that the results of this survey will be 
+published.
+I personally am sick of surveys and I don't see what's their aim anyway.
+
+Please stop using this list for advertising for them.
+Thanks,
+
+Anne-Marie
+
+Eva: is there any mean to filter that please?
+From annemarie.mahfouf at free.fr  Wed Apr  6 13:51:48 2005
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Wed Apr  6 13:52:09 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <200504061011.23357.lauri@kde.org>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504051732.04536.annemarie.mahfouf@free.fr>
+	<200504061011.23357.lauri@kde.org>
+Message-ID: <200504060751.48482.annemarie.mahfouf@free.fr>
+
+Hi Lauri,
+
+I see your point. However the Quality Team failed to turn with any productive 
+idea and last time I looked at the Junior Jobs bugs (I thought I could work 
+on some) I was appealed. One was to port KMail to KConfig XT (89446). How 
+Junior is that, I am not sure ;-)
+
+Anyway it's all too complicated ad of course a database needs huge work.
+
+For those who want to be involved in doing something, I suggest that the first 
+task would be to update women.kde.org and to think of new ideas to keep it 
+going.
+
+Regards,
+
+Anne-Marie
+From blk20 at cam.ac.uk  Wed Apr  6 15:39:49 2005
+From: blk20 at cam.ac.uk (B. L. Krieger)
+Date: Wed Apr  6 15:40:01 2005
+Subject: [Kde-women] flosspols survey
+In-Reply-To: <200504060740.30496.annemarie.mahfouf@free.fr>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504060740.30496.annemarie.mahfouf@free.fr>
+Message-ID: <Prayer.1.0.13.0504061439490.5692@hermes-1.csi.cam.ac.uk>
+
+Hi Anne-Marie, 
+
+Sorry about that. I did not make this point clear enough. Obviously the 
+results of the survey will be published. All results and policy 
+recommendation coming out of the flosspols project will be made public. We 
+will even provide the anonymised raw data of the survey after the project 
+is over. Additionally at the end of the questionnaire the survey 
+participants have the possibility to enter their email address so that they 
+will be informed individually about the survey results.
+
+It is one aim of the flosspols project to provide an understanding of why 
+there are so few women involved in free/libre/open source software (less 
+than 2%) and to reccmmend measures to counteract this trend. So it would be 
+of real help if you could support this survey.
+
+Hopefully this clears your concerns. 
+
+Thanks,
+Bernhard
+
+On Apr 6 2005, Anne-Marie Mahfouf wrote:
+
+> On April 6, 2005 03:50 am, B. L. Krieger wrote:
+> Hi,
+> 
+> I don't see where it is said that the results of this survey will be 
+> published.
+> I personally am sick of surveys and I don't see what's their aim anyway.
+> 
+> Please stop using this list for advertising for them.
+> Thanks,
+> 
+> Anne-Marie
+> 
+> Eva: is there any mean to filter that please?
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+> 
+From cmiramon at kde-france.org  Thu Apr  7 12:36:15 2005
+From: cmiramon at kde-france.org (Charles de Miramon)
+Date: Thu Apr  7 13:03:35 2005
+Subject: [Kde-women] Re: flosspols survey
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504060740.30496.annemarie.mahfouf@free.fr>
+	<Prayer.1.0.13.0504061439490.5692@hermes-1.csi.cam.ac.uk>
+Message-ID: <d331u2$9a8$1@sea.gmane.org>
+
+B. L. Krieger wrote:
+
+> 
+> It is one aim of the flosspols project to provide an understanding of why
+> there are so few women involved in free/libre/open source software (less
+> than 2%) and to reccmmend measures to counteract this trend. So it would
+> be of real help if you could support this survey.
+> 
+
+I still don't see how the study of the extraordinary women who are already
+participating can give information why the majority are not participating.
+Studying Margaret Thatcher won't give you much clue about the common
+British woman.
+
+My opinion after having a very minor role in the project for some 5 years,
+is that the number of women will naturally increase as KDE becomes more
+mainstream. What is hindering is the present volunteer pattern in Free
+Software Project. Generally, you have a young man who will one day convert
+to KDE, spend all his time and energy coding and sending zillions of
+e-mails, then burn-out and leave. KDE (and other projects) have a very good
+structure to capture the energy of generations of shooting stars. I think
+that most women would be more interested in participation without full
+conversion where they can volunteer time and work but keep other interests
+and hobbies.
+
+My point of comparison is roller-skating. When I was young in France,
+roller-skating was a pure male activity. As a young teenager, you would
+convert to roller skating, change your clothes, gather in small groups on
+the specific spots in the city and practice for hours difficult figures
+like a rat in a cage. There were some girls in the skater community but
+they were a tiny minority. Today, roller-skating is mainstream, people do
+it every Sundays with your friends or family and the sex ratio has become
+standard. I believe this kind of mutation will happen also for Free
+Software projects.
+
+That is why it is maybe interesting to have a page describing jobs that you
+can do in the KDE project that will fit your free time. Recruiting
+volunteers is a very frustrating job. A lot of people will send an e-mail
+and ask for information and then leave without going further. But, you have
+to do it. By the way, I'm looking for somebody to help (and quickly take
+the responsability) of doing promotional work for KDE in France. No need of
+any technical expertise. It is a 2 hours / week job.   
+
+Cheers,
+Charles
+-- 
+http://www.kde-france.org
+
+From annemarie.mahfouf at free.fr  Thu Apr  7 15:06:32 2005
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Thu Apr  7 15:07:10 2005
+Subject: [Kde-women] Re: flosspols survey
+In-Reply-To: <d331u2$9a8$1@sea.gmane.org>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<Prayer.1.0.13.0504061439490.5692@hermes-1.csi.cam.ac.uk>
+	<d331u2$9a8$1@sea.gmane.org>
+Message-ID: <200504070906.32168.annemarie.mahfouf@free.fr>
+
+On April 7, 2005 06:36 am, Charles de Miramon wrote:
+> B. L. Krieger wrote:
+> > It is one aim of the flosspols project to provide an understanding of why
+> > there are so few women involved in free/libre/open source software (less
+> > than 2%) and to reccmmend measures to counteract this trend. So it would
+> > be of real help if you could support this survey.
+>
+> I still don't see how the study of the extraordinary women who are already
+> participating can give information why the majority are not participating.
+> Studying Margaret Thatcher won't give you much clue about the common
+> British woman.
+>
+> My opinion after having a very minor role in the project for some 5 years,
+> is that the number of women will naturally increase as KDE becomes more
+> mainstream. What is hindering is the present volunteer pattern in Free
+> Software Project. Generally, you have a young man who will one day convert
+> to KDE, spend all his time and energy coding and sending zillions of
+> e-mails, then burn-out and leave. KDE (and other projects) have a very good
+> structure to capture the energy of generations of shooting stars. I think
+> that most women would be more interested in participation without full
+> conversion where they can volunteer time and work but keep other interests
+> and hobbies.
+>
+> My point of comparison is roller-skating. When I was young in France,
+> roller-skating was a pure male activity. As a young teenager, you would
+> convert to roller skating, change your clothes, gather in small groups on
+> the specific spots in the city and practice for hours difficult figures
+> like a rat in a cage. There were some girls in the skater community but
+> they were a tiny minority. Today, roller-skating is mainstream, people do
+> it every Sundays with your friends or family and the sex ratio has become
+> standard. I believe this kind of mutation will happen also for Free
+> Software projects.
+>
+> That is why it is maybe interesting to have a page describing jobs that you
+> can do in the KDE project that will fit your free time. Recruiting
+> volunteers is a very frustrating job. A lot of people will send an e-mail
+> and ask for information and then leave without going further. But, you have
+> to do it. By the way, I'm looking for somebody to help (and quickly take
+> the responsability) of doing promotional work for KDE in France. No need of
+> any technical expertise. It is a 2 hours / week job.
+>
+> Cheers,
+> Charles
+
+Excellent analysis! Yes, more and more women join the project and become KDE 
+users. I meet some on IRC.
+
+And yes, I'm not Margaret Thatcher and I roller skate!
+
+Regards,
+
+Anne-Marie
+From blk20 at cam.ac.uk  Thu Apr  7 15:50:34 2005
+From: blk20 at cam.ac.uk (B. L. Krieger)
+Date: Thu Apr  7 15:50:43 2005
+Subject: [Kde-women] Re: flosspols survey
+In-Reply-To: <200504070906.32168.annemarie.mahfouf@free.fr>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504070906.32168.annemarie.mahfouf@free.fr>
+Message-ID: <Prayer.1.0.13.0504071450340.13823@hermes-1.csi.cam.ac.uk>
+
+Hi Anne-Marie, Charles,
+
+Thanks for your feedback. 
+
+> On April 7, 2005 06:36 am, Charles de Miramon wrote:
+> > B. L. Krieger wrote:
+> > > It is one aim of the flosspols project to provide an understanding 
+> > > of why there are so few women involved in free/libre/open source 
+> > > software (less than 2%) and to reccmmend measures to counteract this 
+> > > trend. So it would be of real help if you could support this survey.
+> >
+> > I still don't see how the study of the extraordinary women who are 
+> > already participating can give information why the majority are not 
+> > participating. Studying Margaret Thatcher won't give you much clue 
+> > about the common British woman.
+
+To stay in line with your analogy, it would make sense to look into 
+biographies of female politicians in the UK in the 1970s/1980s to find out 
+which kind of women get into politics in the first place. It is further 
+interesting to talk to politicians (female and male) to see whether they 
+have different perceptions of what is actually happening in parliament, in 
+the lobbies, in the clubs, etc. Looking at the kind of politcs they stand 
+for, the kind of parties they join and the ways how they persue their goals 
+may reveal a lot of what is happening in politics as well as in the society 
+in general that keeps women out of politics.
+
+Having said that I would rather not compare female free software 
+participants with Maggie Thatcher ;)
+
+> > My point of comparison is roller-skating. When I was young in France, 
+> > roller-skating was a pure male activity. As a young teenager, you would 
+> > convert to roller skating, change your clothes, gather in small groups 
+> > on the specific spots in the city and practice for hours difficult 
+> > figures like a rat in a cage. There were some girls in the skater 
+> > community but they were a tiny minority. Today, roller-skating is 
+> > mainstream, people do it every Sundays with your friends or family and 
+> > the sex ratio has become standard. I believe this kind of mutation will 
+> > happen also for Free Software projects.
+
+Actually I would hope that the ratio of the female skaters which perform 
+difficult figures would increase as well. Isn?t it important for free 
+software that more women get in before the mainstream? Why do they wait 
+that long?
+
+> > That is why it is maybe interesting to have a page describing jobs 
+> > that you can do in the KDE project that will fit your free time. 
+> > Recruiting volunteers is a very frustrating job. A lot of people will 
+> > send an e-mail and ask for information and then leave without going 
+> > further. But, you have to do it. By the way, I'm looking for somebody 
+> > to help (and quickly take the responsability) of doing promotional work 
+> > for KDE in France. No need of any technical expertise. It is a 2 hours 
+> > / week job.
+
+Unfortunately I am no longer in France (which also means that I cannot join 
+in Paris skater afternoons on Sunday afternoons ;(
+
+> Excellent analysis! Yes, more and more women join the project and become 
+> KDE users. I meet some on IRC.
+
+Is there more activity on IRC for KDE women?
+
+> And yes, I'm not Margaret Thatcher and I roller skate!
+
+I hope so, at least for your first claim.
+
+Best,
+Bernhard 
+From eva.brucherseifer at basyskom.de  Thu Apr  7 16:57:05 2005
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Thu Apr  7 16:57:14 2005
+Subject: [Kde-women] Re: flosspols survey
+In-Reply-To: <d331u2$9a8$1@sea.gmane.org>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<Prayer.1.0.13.0504061439490.5692@hermes-1.csi.cam.ac.uk>
+	<d331u2$9a8$1@sea.gmane.org>
+Message-ID: <200504071657.05982.eva.brucherseifer@basyskom.de>
+
+Am Donnerstag, 7. April 2005 12:36 schrieb Charles de Miramon:
+> B. L. Krieger wrote:
+> > It is one aim of the flosspols project to provide an understanding of why
+> > there are so few women involved in free/libre/open source software (less
+> > than 2%) and to reccmmend measures to counteract this trend. So it would
+> > be of real help if you could support this survey.
+>
+> I still don't see how the study of the extraordinary women who are already
+> participating can give information why the majority are not participating.
+> Studying Margaret Thatcher won't give you much clue about the common
+> British woman.
+
+And if you start penetrating those few with study over study, you scare away 
+more women. I was interested when the first study started, but now I am 
+really tired of being a study object. 
+
+Greetings,
+eva
+
+-- 
+-----------------------------------------
+basysKom GmbH
+The Software Development Company
+-----------------------------------------
+Dipl.-Ing. Eva Brucherseifer
+Karlstr. 45
+64283 Darmstadt
+Germany
+Fon: 06151-3969961   Fax: 06151-3969736
+Mobil: 0170-5533642
+eva.brucherseifer@basyskom.de
+www.basyskom.de
+-----------------------------------------
+From annemarie.mahfouf at free.fr  Thu Apr  7 17:04:43 2005
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Thu Apr  7 17:05:20 2005
+Subject: [Kde-women] Re: flosspols survey
+In-Reply-To: <Prayer.1.0.13.0504071450340.13823@hermes-1.csi.cam.ac.uk>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504070906.32168.annemarie.mahfouf@free.fr>
+	<Prayer.1.0.13.0504071450340.13823@hermes-1.csi.cam.ac.uk>
+Message-ID: <200504071104.44102.annemarie.mahfouf@free.fr>
+
+hi,
+
+> Is there more activity on IRC for KDE women?
+
+you'll see women activity in KDE in all KDE channels on IRC.  that was the 
+point Charles actually wanted to stress: women interaction in KDE is within 
+KDE not within kde-women. it does not take long to see kde-women itself is 
+quite dead. And this is good. Take Lauri or me, we are involved in kde and 
+have no time left to be involved in kde-women specifically. 
+i know women are difficult to spot in a project like kde but several got 
+involved recently at key points. studying that would need from you to be 
+inside the project.
+in fact if you would sponsor me i could analyze that for you :-)
+
+cheers!
+
+Anne-Marie
+
+From cmlotion at wanadoo.nl  Sun Apr 10 00:29:18 2005
+From: cmlotion at wanadoo.nl (C.M.Lotion)
+Date: Sun Apr 10 00:28:40 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <200504060751.48482.annemarie.mahfouf@free.fr>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504061011.23357.lauri@kde.org>
+	<200504060751.48482.annemarie.mahfouf@free.fr>
+Message-ID: <200504091829.22638.cmlotion@wanadoo.nl>
+
+Hi Anne-Marie, Ines and Lauri,
+
+Thanks a lot for your answers. Sorry for me answering late!
+
+On Wednesday 06 April 2005 07:51, Anne-Marie Mahfouf wrote:
+> Hi Lauri,
+>
+> I see your point. However the Quality Team failed to turn with any
+> productive idea and last time I looked at the Junior Jobs bugs (I thought I
+> could work on some) I was appealed. One was to port KMail to KConfig XT
+> (89446). How Junior is that, I am not sure ;-)
+>
+:) so it's not just me
+
+> Anyway it's all too complicated ad of course a database needs huge work.
+>
+Yeah, that's why I was wondering about the kde-woman db. There were some 
+suggestions for alternatives on the kde-www list, but what I like about 
+bugs.kde.org is that it is a KDE-wide system, used and maintained. 
+
+- divide et impera ? -
+I was thinking of providing custom "views" of the kde bug database to directly 
+provide a configurable subset of the database content based on the product, 
+something like when you select a product or run the wizard. Such a view can 
+be embedded in the product's website, and be maintained by the product's 
+active community with relevant extra information(kde-women, kde-webteam, 
+kde-quality (check JJs) etc). Of course, bugs.kde.org should still be 
+available and it would be the place were everything is put together.
+
+Benefits: easy access to file bugs, manage and maintain "bugs" database for 
+kde teams and provide more meaningful representation/extra information.
+Drawbacks: view system needs to be developed and has to be easy to maintain so 
+they will actually be maintained
+
+Actually, tasks/jobs database would be a better name than bugs database, since 
+not only bugs are managed and it's more positive ;) . 
+
+> For those who want to be involved in doing something, I suggest that the
+> first task would be to update women.kde.org and to think of new ideas to
+> keep it going.
+>
+:) I would like to get involved with kde-women, although the upcoming week(s) 
+I will not be available that much. Thanks again.
+
+Regards,
+
+Claire
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: not available
+Url : http://mail.kde.org/pipermail/kde-women/attachments/20050410/23da4137/attachment.pgp
+From eva.brucherseifer at basyskom.de  Sun Apr 10 19:48:24 2005
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Sun Apr 10 17:17:11 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <200504091829.22638.cmlotion@wanadoo.nl>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504060751.48482.annemarie.mahfouf@free.fr>
+	<200504091829.22638.cmlotion@wanadoo.nl>
+Message-ID: <200504101948.25545.eva.brucherseifer@basyskom.de>
+
+On Sunday 10 April 2005 00:29, C.M.Lotion wrote:
+> Hi Anne-Marie, Ines and Lauri,
+>
+> Thanks a lot for your answers. Sorry for me answering late!
+>
+> On Wednesday 06 April 2005 07:51, Anne-Marie Mahfouf wrote:
+> > Hi Lauri,
+> >
+> > I see your point. However the Quality Team failed to turn with any
+> > productive idea and last time I looked at the Junior Jobs bugs (I thought
+> > I could work on some) I was appealed. One was to port KMail to KConfig XT
+> > (89446). How Junior is that, I am not sure ;-)
+> >
+> :) so it's not just me
+> :
+> > Anyway it's all too complicated ad of course a database needs huge work.
+>
+> Yeah, that's why I was wondering about the kde-woman db. There were some
+> suggestions for alternatives on the kde-www list, but what I like about
+> bugs.kde.org is that it is a KDE-wide system, used and maintained.
+>
+> - divide et impera ? -
+> I was thinking of providing custom "views" of the kde bug database to
+> directly provide a configurable subset of the database content based on the
+> product, something like when you select a product or run the wizard. Such a
+> view can be embedded in the product's website, and be maintained by the
+> product's active community with relevant extra information(kde-women,
+> kde-webteam, kde-quality (check JJs) etc). Of course, bugs.kde.org should
+> still be available and it would be the place were everything is put
+> together.
+
+
+I really like that idea!! bugs.kde.org has proven to work very well. Still 
+it's size grows and grows and it's difficult to find things. 
+Adding views and maybe special tags to it would be a great thing imho. To 
+assign a tag to an already existing entry is easy to do. 
+
+Greetings,
+eva
+
+>
+> Benefits: easy access to file bugs, manage and maintain "bugs" database for
+> kde teams and provide more meaningful representation/extra information.
+> Drawbacks: view system needs to be developed and has to be easy to maintain
+> so they will actually be maintained
+>
+> Actually, tasks/jobs database would be a better name than bugs database,
+> since not only bugs are managed and it's more positive ;) .
+>
+> > For those who want to be involved in doing something, I suggest that the
+> > first task would be to update women.kde.org and to think of new ideas to
+> > keep it going.
+> >
+> :) I would like to get involved with kde-women, although the upcoming
+> : week(s)
+>
+> I will not be available that much. Thanks again.
+>
+> Regards,
+>
+> Claire
+From ines at drury.edu  Mon Apr 11 15:23:05 2005
+From: ines at drury.edu (Ines Sombra)
+Date: Mon Apr 11 15:16:41 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <200504101948.25545.eva.brucherseifer@basyskom.de>
+References: <200504031510.42299.cmlotion@wanadoo.nl>	<200504060751.48482.annemarie.mahfouf@free.fr>	<200504091829.22638.cmlotion@wanadoo.nl>
+	<200504101948.25545.eva.brucherseifer@basyskom.de>
+Message-ID: <425A7A39.9000906@drury.edu>
+
+Hello everyone,
+
+This sounds like a very sensible idea, anybody knows the bugs.kde.org 
+internals? is it db-based?
+
+Anyway it would be nice to have a more lively kde-women. Guess we need 
+to start thinking about ways to revive it. Who is in charge of website 
+update? Do we have any IRC regulars? Maybe we should think about a 
+"meeting" to discuss ideas and get to know each other.
+
+Ines
+
+Eva Brucherseifer wrote:
+> On Sunday 10 April 2005 00:29, C.M.Lotion wrote:
+> 
+>>Hi Anne-Marie, Ines and Lauri,
+>>
+>>Thanks a lot for your answers. Sorry for me answering late!
+>>
+>>On Wednesday 06 April 2005 07:51, Anne-Marie Mahfouf wrote:
+>>
+>>>Hi Lauri,
+>>>
+>>>I see your point. However the Quality Team failed to turn with any
+>>>productive idea and last time I looked at the Junior Jobs bugs (I thought
+>>>I could work on some) I was appealed. One was to port KMail to KConfig XT
+>>>(89446). How Junior is that, I am not sure ;-)
+>>>
+>>
+>>:) so it's not just me
+>>:
+>>
+>>>Anyway it's all too complicated ad of course a database needs huge work.
+>>
+>>Yeah, that's why I was wondering about the kde-woman db. There were some
+>>suggestions for alternatives on the kde-www list, but what I like about
+>>bugs.kde.org is that it is a KDE-wide system, used and maintained.
+>>
+>>- divide et impera ? -
+>>I was thinking of providing custom "views" of the kde bug database to
+>>directly provide a configurable subset of the database content based on the
+>>product, something like when you select a product or run the wizard. Such a
+>>view can be embedded in the product's website, and be maintained by the
+>>product's active community with relevant extra information(kde-women,
+>>kde-webteam, kde-quality (check JJs) etc). Of course, bugs.kde.org should
+>>still be available and it would be the place were everything is put
+>>together.
+> 
+> 
+> 
+> I really like that idea!! bugs.kde.org has proven to work very well. Still 
+> it's size grows and grows and it's difficult to find things. 
+> Adding views and maybe special tags to it would be a great thing imho. To 
+> assign a tag to an already existing entry is easy to do. 
+> 
+> Greetings,
+> eva
+> 
+> 
+>>Benefits: easy access to file bugs, manage and maintain "bugs" database for
+>>kde teams and provide more meaningful representation/extra information.
+>>Drawbacks: view system needs to be developed and has to be easy to maintain
+>>so they will actually be maintained
+>>
+>>Actually, tasks/jobs database would be a better name than bugs database,
+>>since not only bugs are managed and it's more positive ;) .
+>>
+>>
+>>>For those who want to be involved in doing something, I suggest that the
+>>>first task would be to update women.kde.org and to think of new ideas to
+>>>keep it going.
+>>>
+>>
+>>:) I would like to get involved with kde-women, although the upcoming
+>>: week(s)
+>>
+>>I will not be available that much. Thanks again.
+>>
+>>Regards,
+>>
+>>Claire
+> 
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+From f.oster at frsv.de  Mon Apr 11 16:37:53 2005
+From: f.oster at frsv.de (Frauke Oster)
+Date: Mon Apr 11 16:37:56 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <425A7A39.9000906@drury.edu>
+References: <200504031510.42299.cmlotion@wanadoo.nl>	<200504060751.48482.annemarie.mahfouf@free.fr>	<200504091829.22638.cmlotion@wanadoo.nl>	<200504101948.25545.eva.brucherseifer@basyskom.de>
+	<425A7A39.9000906@drury.edu>
+Message-ID: <425A8BC1.10900@frsv.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi!
+
+Ines Sombra schrieb:
+| Hello everyone,
+|
+| This sounds like a very sensible idea, anybody knows the bugs.kde.org
+| internals? is it db-based?
+
+I think it is. But maybe you can get more information from Coolo. I
+think he knows the system quite well :)
+
+|
+| Anyway it would be nice to have a more lively kde-women. Guess we need
+| to start thinking about ways to revive it. Who is in charge of website
+| update?
+
+Together with Annma I ported it last time. I haven't any time to update
+it at the moment. But maybe someone else could be found. If someone
+wants to try, but needs help, post a message here or mail me directly.
+
+Cheers,
+Frauke
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.5 (MingW32)
+
+iD8DBQFCWovBPN8Rl7LiymIRAjd1AKCZ1iZTwsDcIw8GAtnHbL//K9JXUACcDywt
+mOTvDYjCZXmAcKyhBOtDmw0=
+=vA9H
+-----END PGP SIGNATURE-----
+From eva.brucherseifer at basyskom.de  Mon Apr 11 16:56:51 2005
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Mon Apr 11 16:57:01 2005
+Subject: [Kde-women] Job database
+In-Reply-To: <425A7A39.9000906@drury.edu>
+References: <200504031510.42299.cmlotion@wanadoo.nl>
+	<200504101948.25545.eva.brucherseifer@basyskom.de>
+	<425A7A39.9000906@drury.edu>
+Message-ID: <200504111656.51931.eva.brucherseifer@basyskom.de>
+
+Am Montag, 11. April 2005 15:23 schrieb Ines Sombra:
+> Hello everyone,
+>
+> This sounds like a very sensible idea, anybody knows the bugs.kde.org
+> internals? is it db-based?
+
+It is based on bugzilla: http://www.bugzilla.org/
+
+
+-- 
+-----------------------------------------
+basysKom GmbH
+The Software Development Company
+-----------------------------------------
+Dipl.-Ing. Eva Brucherseifer
+Karlstr. 45
+64283 Darmstadt
+Germany
+Fon: 06151-3969961   Fax: 06151-3969736
+Mobil: 0170-5533642
+eva.brucherseifer@basyskom.de
+www.basyskom.de
+-----------------------------------------
+From lisiane at kdemail.net  Thu Apr 14 19:01:22 2005
+From: lisiane at kdemail.net (Lisiane Sztoltz Teixeira)
+Date: Thu Apr 14 18:58:57 2005
+Subject: [Kde-women] Inclusion in the site - new event
+Message-ID: <200504141401.22342.lisiane@kdemail.net>
+
+Hello!
+
+Could somebody put a note in http://women.kde.org/events/ about Linuxchix-br 
+meeting?
+
+http://www.linuxchix.org.br/node.php?id=154
+
+More informations here:
+http://toskinha.multiply.com/journal/item/88
+
+Thanks a lot!
+
+Lisiane
+
+-- 
+Lisiane Sztoltz Teixeira	
+lisiane@kdemail.net
+Brazilian Portuguese Translations
+From pdparo at yahoo.com  Wed Apr 20 12:24:49 2005
+From: pdparo at yahoo.com (Paula Paro)
+Date: Wed Apr 20 12:25:32 2005
+Subject: [Kde-women] Introducing myself
+Message-ID: <20050420102450.10550.qmail@web51008.mail.yahoo.com>
+
+Hi All,
+
+My name is Paula Costa and I'm joining today to this
+mailing list.
+I'm from Brazil but now I'm living in Italy since  I'm
+an electrical
+engineer and I'm currently doing a master course in
+wireless technologies at
+the Politecnico di Torino.
+
+I found this KDE women initiative just great and it
+will be a pleasure for
+me to help.
+I just don't know how I could help...
+I consider myself just a beginner user of Linux and I
+have light programming
+experience in standard C and Java.
+
+Maybe I could help translating documents or
+applications to Portuguese that
+is my mother tongue, but I also could challenge
+myself programming something (I'll try to give a look
+at the tutorials at
+the KDE homepage...)
+I could also test technical applications if needed
+because I'm really good
+to find problems :-))
+
+So, congratulations for this initiative!!!
+
+Best Regards,
+
+Paula
+
+
+
+
+
+
+		
+__________________________________ 
+Do you Yahoo!? 
+Yahoo! Small Business - Try our new resources site!
+http://smallbusiness.yahoo.com/resources/ 
+From seven at sevendust.co.uk  Thu Apr 21 17:17:16 2005
+From: seven at sevendust.co.uk (Jenecai Corvina)
+Date: Thu Apr 21 18:04:27 2005
+Subject: [Kde-women] Hi All (Introducing Myself)
+Message-ID: <200504210917.17676.seven@sevendust.co.uk>
+
+Hiya,
+
+My name is Jenecai Corvina and I've been on the list for about 3 weeks. I'm 
+from America (New Mexico) and work as a systems administrator and web 
+designer for a few companies. I'll  be a mother in 3 weeks and start my 
+masters degree coming next fall. I'm not entirely sure how I can help, but i 
+have a lot of skills and can probably help more than I know. I'm decently 
+proficient in C... I mostly just like to help out.
+
+Smiles,
+Jenecai
+From annemarie.mahfouf at free.fr  Fri Apr 22 03:44:43 2005
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Fri Apr 22 03:44:50 2005
+Subject: [Kde-women] Hi All + Website update
+In-Reply-To: <200504210917.17676.seven@sevendust.co.uk>
+References: <200504210917.17676.seven@sevendust.co.uk>
+Message-ID: <200504212144.44005.annemarie.mahfouf@free.fr>
+
+Hi,
+
+Pleased to meet you,  Jenecai and congratulation for the soon coming birth. I 
+guess you'll be quite busy the next months! Please keep in touch and send us 
+some news when the baby is there, OK?
+
+I put a new doc online on the KDE-Women website.
+http://women.kde.org/articles/tutorials/kdevelop_templates/index.php
+I am testing KDevelop templates in order to fix the ones that are broken and I 
+take the opportunity of making a doc about them so it'll be easier for 
+newbies to choose a project to start with.
+Please have a look and feel free to send your comments.
+
+If any of you has a KDE related article, howto, interview, tips,... please 
+feel free to ask for cvs access and add it.
+
+If any of you wants to update the website, feel free to ask as well. It would 
+be great to have a cleaning and some new ideas.
+
+Cheers,
+
+Anne-Marie
+

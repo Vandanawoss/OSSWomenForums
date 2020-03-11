@@ -1,0 +1,655 @@
+From stormy.peters@gmail.com  Mon Aug  6 21:16:59 2012
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0C952750727;
+	Mon,  6 Aug 2012 21:16:59 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id JFtZ3FTp-KKX; Mon,  6 Aug 2012 21:16:44 +0000 (UTC)
+Received: from mail-gh0-f182.google.com (mail-gh0-f182.google.com
+	[209.85.160.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 3B004750775;
+	Mon,  6 Aug 2012 21:16:35 +0000 (UTC)
+Received: by ghrr13 with SMTP id r13so1779496ghr.27
+	for <multiple recipients>; Mon, 06 Aug 2012 14:16:34 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:sender:in-reply-to:references:from:date
+	:x-google-sender-auth:message-id:subject:to:cc:content-type;
+	bh=drHVfAmzbeF7ALZ1XGkvcsFdLBPMIoouFOwNRIBDtgc=;
+	b=KMNNx/+6wsE/Hok9svapfCkGEJvVGydw8n2Ej6C8XqLyLRwYWHm0cRLcfOD9DzgEKK
+	PwD3KTj+oOTw9ysZvm5ARkaBCnRgMM9gJxosrvGlIvZ1YscCHYqFA4NxcSAGYzhnjC/h
+	EhqD3HDXXNV4cGnCXVY9egIHSHQnRCuTnPWgR+A+gHKAxS4uErP/6fRwLPXke8mfqbkT
+	M/+KnxbL5xshIhSHja/yllkeMf+GW0+gwT6Jzu9iTLiL8gHcS2DXaVqqV448SOMMgSH8
+	gkRlKcwd7oTleJre9J5/BmvbP8AWVutOILB8wx+2G3yLa3U7Jku/kkPHUuLiQy4TJXQ7
+	kmQw==
+Received: by 10.236.138.138 with SMTP id a10mr11055534yhj.39.1344287794034;
+	Mon, 06 Aug 2012 14:16:34 -0700 (PDT)
+MIME-Version: 1.0
+Sender: stormy.peters@gmail.com
+Received: by 10.101.33.11 with HTTP; Mon, 6 Aug 2012 14:15:53 -0700 (PDT)
+In-Reply-To: <CALBK6KTNQ63eYV1Le2m3mYY+p5dKx9_M6eR1NcOmZPzmBfLoKQ@mail.gmail.com>
+References: <CALBK6KQm1gpL33bpjkq=taW250T65F+1-TLKJWp5V86x2RHKpQ@mail.gmail.com>
+	<CALBK6KTNQ63eYV1Le2m3mYY+p5dKx9_M6eR1NcOmZPzmBfLoKQ@mail.gmail.com>
+From: Stormy Peters <stormy@gnome.org>
+Date: Mon, 6 Aug 2012 15:15:53 -0600
+X-Google-Sender-Auth: LTrfgV2yCrFOclDaQCt9vCzqi-U
+Message-ID: <CAJHV1TCfAfGhZh6eyEHudNjb=hr+d=6TpyxA0C8wivDSRjwG7g@mail.gmail.com>
+To: Anna Zacchi <azzurroverde@gmail.com>
+Content-Type: multipart/alternative; boundary=20cf303bfae070787204c69f644f
+X-Mailman-Approved-At: Mon, 06 Aug 2012 21:34:21 +0000
+Cc: =?ISO-8859-1?Q?Fabiana_Sim=F5es?= <fabianapsimoes@gmail.com>,
+	Karen Sandler <karen@gnome.org>, Beth Hadley <bethmhadley@gmail.com>,
+	Susanna Huhtanen <ihmis.suski@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>,
+	lucianafujii@gmail.com, Emily Gonyer <emilyyrose@gmail.com>,
+	Jovanka Gulicoska <jovanka.gulicoska@gmail.com>,
+	Julita Inca Chiroque <jinca@pucp.pe>, Ana Risteska <a.risteska@gmail.com>,
+	Matilda Bernard <serah4291@gmail.com>
+Subject: Re: [gnome-women] mailing list for women in computing
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 06 Aug 2012 21:16:59 -0000
+
+--20cf303bfae070787204c69f644f
+Content-Type: text/plain; charset=ISO-8859-1
+
+I will be running the Open Source booth again and anyone willing to
+represent GNOME (or other open source projects) is welcome to hang out with
+us!
+
+Stormy
+
+On Tue, Jul 31, 2012 at 7:07 AM, Anna Zacchi <azzurroverde@gmail.com> wrote:
+
+>
+> Hello again, :)
+>
+> I realized talking with some women today that many still do not know about
+> Grace Hopper celebration.
+> Here is a link:
+> http://gracehopper.org/2012/
+>
+> This year it will be in Baltimore, in October.
+>
+>   Anna
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--20cf303bfae070787204c69f644f
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+I will be running the Open Source booth again and anyone willing to represe=
+nt GNOME (or other open source projects) is welcome to hang out with us!<br=
+><br>Stormy<br><br><div class=3D"gmail_quote">On Tue, Jul 31, 2012 at 7:07 =
+AM, Anna Zacchi <span dir=3D"ltr">&lt;<a href=3D"mailto:azzurroverde@gmail.=
+com" target=3D"_blank">azzurroverde@gmail.com</a>&gt;</span> wrote:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><br><div class=3D"gmail_quote"><blockquote c=
+lass=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;=
+padding-left:1ex">
+
+<span>Hello again, :)</span></blockquote><div>I realized talking with some =
+women today that many still do not know about Grace Hopper celebration.</di=
+v>
+<div>Here is a link:</div><div><a href=3D"http://gracehopper.org/2012/" tar=
+get=3D"_blank">http://gracehopper.org/2012/</a></div><div><br></div><div>Th=
+is year it will be in Baltimore, in October.</div><span class=3D"HOEnZb"><f=
+ont color=3D"#888888"><div>
+
+<br></div><div>=A0 Anna</div></font></span></div>
+<br>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+></blockquote></div><br>
+
+--20cf303bfae070787204c69f644f--
+From jinca@pucp.pe  Thu Aug  9 04:03:46 2012
+Return-Path: <jinca@pucp.pe>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 2F61D7501A8
+	for <gnome-women-list@gnome.org>; Thu,  9 Aug 2012 04:03:46 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.6
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.6 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id lrd9Bg8k4r5O for <gnome-women-list@gnome.org>;
+	Thu,  9 Aug 2012 04:03:44 +0000 (UTC)
+Received: from mail-vb0-f42.google.com (mail-vb0-f42.google.com
+	[209.85.212.42])
+	by menubar.gnome.org (Postfix) with ESMTP id EA45F75012B
+	for <gnome-women-list@gnome.org>; Thu,  9 Aug 2012 04:03:34 +0000 (UTC)
+Received: by vbbfs19 with SMTP id fs19so31941vbb.29
+	for <gnome-women-list@gnome.org>; Wed, 08 Aug 2012 21:03:33 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=google.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type
+	:x-gm-message-state;
+	bh=sJnMmsigXQEf02VbUVMm4wVfeEd7EsIfzBI9YELY+HM=;
+	b=j59tv/8X+aWBMYufNgwqK65s4pLiobpa5XnE22mU0WMj17B9kt6mXK4AWyxIFaBaXK
+	hTXSL115jU12XeYzhvUvK0kH+TXCBGO3owOgHExA+C2j2jWeVa2Qw+CsToUkC+h49uyY
+	THl7IjHd5Yf9GyfwvQwMf6ISpHuZvhTu2iApoJfISYA/yA6XLgVzMjupnIoD0CuNPPre
+	RV0/h5zv83erBh7kny0Ne0iM0Na/jc4m84ebHN/AC4dqtTK1cdvqsWQFs074E5glZVOr
+	LDJGNqEsFCvmyTjbpY4LCvPK4q6isA43/eICER8Wxy+OVVb06Ga2qiWGh09rSqDrcSsT
+	GF8w==
+MIME-Version: 1.0
+Received: by 10.220.107.198 with SMTP id c6mr15919939vcp.54.1344485013515;
+	Wed, 08 Aug 2012 21:03:33 -0700 (PDT)
+Received: by 10.58.117.103 with HTTP; Wed, 8 Aug 2012 21:03:33 -0700 (PDT)
+Date: Wed, 8 Aug 2012 23:03:33 -0500
+Message-ID: <CAFP92txns-7O6hrUvnUMaymAtUf6FoPNM9rSWMnVuVJU55MkdQ@mail.gmail.com>
+From: Julita Inca Chiroque <jinca@pucp.pe>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Content-Type: multipart/alternative; boundary=f46d0438ee5ba2ed7804c6cd4fd9
+X-Gm-Message-State: ALoCoQk3ci1E+HIlk4I7WFGnKO0UHPJrR8yTRnov+GKtU4wiQhNA+Ydt5P4hkvUGWw6+3oDa1bMA
+Subject: [gnome-women] Free RAR over Red Hat 5.5
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 09 Aug 2012 04:03:46 -0000
+
+--f46d0438ee5ba2ed7804c6cd4fd9
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi girls!
+
+I was looking for the free version of RAR that can be installed over the
+Release version of Red Hat 5.5.
+
+I was "googling", but there are some trials versions or crackers things. I
+will appreciate any help.
+
+A big hug,
+Julita
+
+--f46d0438ee5ba2ed7804c6cd4fd9
+Content-Type: text/html; charset=ISO-8859-1
+
+Hi girls!<br><br>I was looking for the free version of RAR that can be installed over the Release version of Red Hat 5.5.<br><br>I was &quot;googling&quot;, but there are some trials versions or crackers things. I will appreciate any help.<br>
+<br>A big hug,<br>Julita<br>
+
+--f46d0438ee5ba2ed7804c6cd4fd9--
+From marinaz@redhat.com  Thu Aug  9 14:05:35 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7D02D75036F
+	for <gnome-women-list@gnome.org>; Thu,  9 Aug 2012 14:05:35 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VzfKxaPNyAm1 for <gnome-women-list@gnome.org>;
+	Thu,  9 Aug 2012 14:05:22 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id 8ACE8750152
+	for <gnome-women-list@gnome.org>; Thu,  9 Aug 2012 14:05:14 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id q79E5CuR015832;
+	Thu, 9 Aug 2012 10:05:12 -0400
+Date: Thu, 9 Aug 2012 10:05:12 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Julita Inca Chiroque <jinca@pucp.pe>
+Message-ID: <1816313373.4541005.1344521112266.JavaMail.root@redhat.com>
+In-Reply-To: <CAFP92txns-7O6hrUvnUMaymAtUf6FoPNM9rSWMnVuVJU55MkdQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.11.10.133]
+X-Mailer: Zimbra 7.2.0_GA_2669 (ZimbraWebClient - FF3.0 (Linux)/7.2.0_GA_2669)
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] Free RAR over Red Hat 5.5
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 09 Aug 2012 14:05:35 -0000
+
+Hi Julita,
+
+RAR is a proprietary archive file format, and Red Hat Enterprise Linux or Fedora can not include software for generating rar files or even unrar software that is used for unpackaging them. You can learn more here:
+http://en.wikipedia.org/wiki/RAR
+http://fedoraproject.org/wiki/Licensing:Unrar
+https://bugzilla.redhat.com/show_bug.cgi?id=334371
+
+http://www.rarlab.com has the trial/paid version of rar software - I don't think there exists a free of cost version of that.
+
+http://rpmfusion.org has a repository that includes a free of cost unrar software.
+
+If possible, it's better to use zip or tar archive file formats instead.
+
+Thanks,
+Marina
+
+----- Original Message -----
+From: "Julita Inca Chiroque" <jinca@pucp.pe>
+To: "gnome-women-list" <gnome-women-list@gnome.org>
+Sent: Thursday, August 9, 2012 12:03:33 AM
+Subject: [gnome-women] Free RAR over Red Hat 5.5
+
+
+Hi girls! 
+
+I was looking for the free version of RAR that can be installed over the Release version of Red Hat 5.5. 
+
+I was "googling", but there are some trials versions or crackers things. I will appreciate any help. 
+
+A big hug, 
+Julita 
+
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+https://mail.gnome.org/mailman/listinfo/gnome-women-list
+From tiffany.antopolski@gmail.com  Thu Aug  9 15:00:10 2012
+Return-Path: <tiffany.antopolski@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 04B5875040D
+	for <gnome-women-list@gnome.org>; Thu,  9 Aug 2012 15:00:10 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.697
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.697 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, FSL_FREEMAIL_1=0.001,
+	FSL_FREEMAIL_2=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NKweicq3jSdA for <gnome-women-list@gnome.org>;
+	Thu,  9 Aug 2012 15:00:03 +0000 (UTC)
+Received: from mail-qa0-f47.google.com (mail-qa0-f47.google.com
+	[209.85.216.47])
+	by menubar.gnome.org (Postfix) with ESMTP id BF0A57503EA
+	for <gnome-women-list@gnome.org>; Thu,  9 Aug 2012 14:59:54 +0000 (UTC)
+Received: by qaat11 with SMTP id t11so348888qaa.6
+	for <gnome-women-list@gnome.org>; Thu, 09 Aug 2012 07:59:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:reply-to:in-reply-to:references:date:message-id
+	:subject:from:to:cc:content-type;
+	bh=0HPtLtrb75MduTuivaWZz9XQS4JC9KUDp8X96meVCyU=;
+	b=pGs4R/E3zPul4acsN9S4gt4NJsX8pG/jEtrCGSAsyeKuUEEp0CbPAxg91/aV+Wpf8d
+	HQ0hnr+c/CqlZnH7bwJmGxSph+oT5GoivPWKspNk2fTk70gOIMrnQchV/tf7n9xW8qzC
+	q/NCrquGgWVxHFSXvsI7OpFVO8nbzzvg95fDYLcVZ7g4jzw9nnvH8nxATH64L1nDmZGu
+	7vWqRTUae9B46vlJir/DAQVlfZLRqCdQ3qEelxiCUvJbxefKj4tTtEi/fAJXBGMK8ZGc
+	wdMGxNQ9mjPZx+bKNOU/AGCBrrlxfkBbYGEYcl5tI3ABwIJ+ZTLUzMsKZ8O4yzxPPLCz
+	Jn+Q==
+MIME-Version: 1.0
+Received: by 10.58.203.3 with SMTP id km3mr19658379vec.13.1344524392450; Thu,
+	09 Aug 2012 07:59:52 -0700 (PDT)
+Received: by 10.58.70.175 with HTTP; Thu, 9 Aug 2012 07:59:52 -0700 (PDT)
+In-Reply-To: <1816313373.4541005.1344521112266.JavaMail.root@redhat.com>
+References: <CAFP92txns-7O6hrUvnUMaymAtUf6FoPNM9rSWMnVuVJU55MkdQ@mail.gmail.com>
+	<1816313373.4541005.1344521112266.JavaMail.root@redhat.com>
+Date: Thu, 9 Aug 2012 10:59:52 -0400
+Message-ID: <CAKefwec6KL5_gwsQ01B9k=5NJ+beTMmsg6jyHu+MRPyvFCxXBA@mail.gmail.com>
+From: Tiffany Antopolski <tiffany.antopolski@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=047d7bdc8004cdc92204c6d67a2a
+Cc: gnome-women-list <gnome-women-list@gnome.org>,
+	Julita Inca Chiroque <jinca@pucp.pe>
+Subject: Re: [gnome-women] Free RAR over Red Hat 5.5
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+Reply-To: tiffany.antopolski@gmail.com
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 09 Aug 2012 15:00:10 -0000
+
+--047d7bdc8004cdc92204c6d67a2a
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Julita,
+
+If you need to generate a rar file, I think you can do so from a zip file
+using this website: http://www.convertfiles.com/
+
+I have used this to convert rar to zip, but not the other way around.  Let
+me know if this helps,
+
+Tiffany
+
+On 9 August 2012 10:05, Marina Zhurakhinskaya <marinaz@redhat.com> wrote:
+
+> Hi Julita,
+>
+> RAR is a proprietary archive file format, and Red Hat Enterprise Linux or
+> Fedora can not include software for generating rar files or even unrar
+> software that is used for unpackaging them. You can learn more here:
+> http://en.wikipedia.org/wiki/RAR
+> http://fedoraproject.org/wiki/Licensing:Unrar
+> https://bugzilla.redhat.com/show_bug.cgi?id=334371
+>
+> http://www.rarlab.com has the trial/paid version of rar software - I
+> don't think there exists a free of cost version of that.
+>
+> http://rpmfusion.org has a repository that includes a free of cost unrar
+> software.
+>
+> If possible, it's better to use zip or tar archive file formats instead.
+>
+> Thanks,
+> Marina
+>
+> ----- Original Message -----
+> From: "Julita Inca Chiroque" <jinca@pucp.pe>
+> To: "gnome-women-list" <gnome-women-list@gnome.org>
+> Sent: Thursday, August 9, 2012 12:03:33 AM
+> Subject: [gnome-women] Free RAR over Red Hat 5.5
+>
+>
+> Hi girls!
+>
+> I was looking for the free version of RAR that can be installed over the
+> Release version of Red Hat 5.5.
+>
+> I was "googling", but there are some trials versions or crackers things. I
+> will appreciate any help.
+>
+> A big hug,
+> Julita
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+
+
+-- 
+Tiffany Antopolski
+
+--047d7bdc8004cdc92204c6d67a2a
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Julita,<br><br>If you need to generate a rar file, I think you can do so=
+ from a zip file using this website: <a href=3D"http://www.convertfiles.com=
+/">http://www.convertfiles.com/</a><br><br>I have used this to convert rar =
+to zip, but not the other way around.=A0 Let me know if this helps,<br>
+<br>Tiffany<br><br><div class=3D"gmail_quote">On 9 August 2012 10:05, Marin=
+a Zhurakhinskaya <span dir=3D"ltr">&lt;<a href=3D"mailto:marinaz@redhat.com=
+" target=3D"_blank">marinaz@redhat.com</a>&gt;</span> wrote:<br><blockquote=
+ class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc soli=
+d;padding-left:1ex">
+Hi Julita,<br>
+<br>
+RAR is a proprietary archive file format, and Red Hat Enterprise Linux or F=
+edora can not include software for generating rar files or even unrar softw=
+are that is used for unpackaging them. You can learn more here:<br>
+<a href=3D"http://en.wikipedia.org/wiki/RAR" target=3D"_blank">http://en.wi=
+kipedia.org/wiki/RAR</a><br>
+<a href=3D"http://fedoraproject.org/wiki/Licensing:Unrar" target=3D"_blank"=
+>http://fedoraproject.org/wiki/Licensing:Unrar</a><br>
+<a href=3D"https://bugzilla.redhat.com/show_bug.cgi?id=3D334371" target=3D"=
+_blank">https://bugzilla.redhat.com/show_bug.cgi?id=3D334371</a><br>
+<br>
+<a href=3D"http://www.rarlab.com" target=3D"_blank">http://www.rarlab.com</=
+a> has the trial/paid version of rar software - I don&#39;t think there exi=
+sts a free of cost version of that.<br>
+<br>
+<a href=3D"http://rpmfusion.org" target=3D"_blank">http://rpmfusion.org</a>=
+ has a repository that includes a free of cost unrar software.<br>
+<br>
+If possible, it&#39;s better to use zip or tar archive file formats instead=
+.<br>
+<br>
+Thanks,<br>
+Marina<br>
+<div><div class=3D"h5"><br>
+----- Original Message -----<br>
+From: &quot;Julita Inca Chiroque&quot; &lt;<a href=3D"mailto:jinca@pucp.pe"=
+>jinca@pucp.pe</a>&gt;<br>
+To: &quot;gnome-women-list&quot; &lt;<a href=3D"mailto:gnome-women-list@gno=
+me.org">gnome-women-list@gnome.org</a>&gt;<br>
+Sent: Thursday, August 9, 2012 12:03:33 AM<br>
+Subject: [gnome-women] Free RAR over Red Hat 5.5<br>
+<br>
+<br>
+Hi girls!<br>
+<br>
+I was looking for the free version of RAR that can be installed over the Re=
+lease version of Red Hat 5.5.<br>
+<br>
+I was &quot;googling&quot;, but there are some trials versions or crackers =
+things. I will appreciate any help.<br>
+<br>
+A big hug,<br>
+Julita<br>
+<br>
+</div></div>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+>
+</blockquote></div><br><br clear=3D"all"><br>-- <br>Tiffany Antopolski<br><=
+br>
+
+--047d7bdc8004cdc92204c6d67a2a--
+From stormy.peters@gmail.com  Wed Aug 15 19:57:26 2012
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A64B87502C5
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Aug 2012 19:57:26 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=unavailable
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29nMJ2J5PL2q for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Aug 2012 19:57:13 +0000 (UTC)
+Received: from mail-yw0-f46.google.com (mail-yw0-f46.google.com
+	[209.85.213.46])
+	by menubar.gnome.org (Postfix) with ESMTP id 6DEB375045F
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Aug 2012 19:57:12 +0000 (UTC)
+Received: by yhmm54 with SMTP id m54so2415414yhm.33
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Aug 2012 12:57:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:from:date:message-id:subject:to:content-type;
+	bh=d0DAisZc0LuxnxKiBSvIXwclUXmN2NW9kqjVUqwLL+I=;
+	b=bSTeOCABU1Js93sv4kCqoc5kf6nELiacuIO16pbUcfwAcY6+DtZFxt7rl1As71tJOm
+	Ird3AUG0fTWeYxx8eg8+fShH13Te4TjW+7YVleBUz0JdBOvt/VHaQ+WWKpVcXN4dQbUM
+	fYn14YlqJmf6rWibTFXXo7Skfbq+PAZDiI65iyJEAfavH7dQI2Gqyi92N8kRwnwSULVD
+	kniWTbAg+e26xnghJNcMXV8eIDObAydSuyFfvnkO7oGMvU3HLUQRfFBVLWf15Ucm3C9e
+	14rQXDnKM4Dyox6kcwN0smBzlfxe2NxOovblEd+8WQM44WEhnwNYI8Z6kjDfKpDoKGtD
+	p6Fw==
+Received: by 10.236.181.196 with SMTP id l44mr20696180yhm.97.1345060631480;
+	Wed, 15 Aug 2012 12:57:11 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.101.33.11 with HTTP; Wed, 15 Aug 2012 12:56:31 -0700 (PDT)
+From: Stormy Peters <stormy.peters@gmail.com>
+Date: Wed, 15 Aug 2012 13:56:31 -0600
+Message-ID: <CAJHV1TBaht+XT0B93_xGYtAcvo3BXCfo8vfF4JvPS3D=g+RGhw@mail.gmail.com>
+To: Stormy Peters <stormy.peters@gmail.com>
+Content-Type: multipart/alternative; boundary=20cf3056396524080b04c75355cb
+X-Mailman-Approved-At: Wed, 15 Aug 2012 21:57:58 +0000
+Subject: [gnome-women] Free & Open Source Software Booth at Grace Hopper
+	Conference
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 15 Aug 2012 19:57:26 -0000
+
+--20cf3056396524080b04c75355cb
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Women in Free & Open Source Software!
+
+We have a booth to represent free software at Grace Hopper[1] this year!
+
+If you will be there and are willing to help out, even if only for a few
+hours, please let me know! You don't have to be an expert, just willing to
+talk about free software, your experience, and point people in the right
+direction.
+
+If you won't be there, but have some stickers or handouts about your
+project that you'd be willing to send, we'd love to have them!
+
+For more info on signing up or sending swag, please see the wiki page:
+ http://systers.org/systers-dev/doku.php/ghc12fossbooth.
+
+A bit of history: I noticed a few years that there were lots of company
+booths at Grace Hopper but no booths where women could go ask about free
+and open source software and while some of the companies that work with
+open source software were represented, none of the free software projects
+had a booth. So I asked, and Grace Hopper generously gave us a free booth.
+It went well and they've generously continued o work with us. This is the
+third year they've given us a booth. They've also added an Open Source Day
+on Saturday.
+
+Thanks in advance for your help!
+
+Stormy
+
+[1] http://gracehopper.org/2012/
+[2] http://systers.org/systers-dev/doku.php/ghc12fossbooth
+
+--20cf3056396524080b04c75355cb
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi Women in Free &amp; Open Source Software!<div><br></div><div>We have a <=
+span>booth</span> to represent free software at <span>Grace</span> <span>Ho=
+pper</span>[1] this year!</div><div><br>
+</div><div>If
+ you will be there and are willing to help out, even if only for a few=20
+hours, please let me know! You don&#39;t have to be an expert, just willing=
+=20
+to talk about free software, your experience, and point people in the=20
+right direction.</div>
+<div><br></div><div>If you won&#39;t be there, but have some stickers or=20
+handouts about your project that you&#39;d be willing to send, we&#39;d lov=
+e to=20
+have them!<br><br>For more info on signing up or sending swag, please see t=
+he wiki page:<br>=A0<a href=3D"http://systers.org/systers-dev/doku.php/ghc1=
+2fossbooth" target=3D"_blank">http://systers.org/systers-dev/doku.php/ghc12=
+fossbooth</a>.</div>
+
+
+<div><br></div><div>A bit of history: I noticed a few years that there were=
+ lots of company booths at <span>Grace</span> <span>Hopper</span>
+ but no booths where women could go ask about free and open source software=
+ and while=20
+some of the companies that work with open source software were represented,=
+=20
+none of the free software projects had a <span>booth</span>. So I asked, an=
+d <span>Grace</span> <span>Hopper</span> generously gave us a free <span>bo=
+oth</span>. It went well and they&#39;ve generously continued o work with u=
+s. This is the third year they&#39;ve given us a booth. They&#39;ve also ad=
+ded an Open Source Day on Saturday.<br>
+
+
+</div>
+<div><br></div><div>Thanks in advance for your help!</div><div><br></div><d=
+iv>Stormy<br><br>[1] <a href=3D"http://gracehopper.org/2012/" target=3D"_bl=
+ank">http://gracehopper.org/2012/</a><br>[2] <a href=3D"http://systers.org/=
+systers-dev/doku.php/ghc12fossbooth" target=3D"_blank">http://systers.org/s=
+ysters-dev/doku.php/ghc12fossbooth</a><br>
+
+
+</div>
+
+--20cf3056396524080b04c75355cb--

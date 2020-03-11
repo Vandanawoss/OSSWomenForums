@@ -1,0 +1,195 @@
+From macoafi@gmail.com  Mon Apr 18 03:37:03 2011
+Return-Path: <macoafi@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 492EF7501DD
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Apr 2011 03:37:03 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	RFC_ABUSE_POST=0.001, SPF_PASS=-0.001] autolearn=unavailable
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id j4inGAyXWCou for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Apr 2011 03:36:59 +0000 (UTC)
+Received: from mail-vw0-f46.google.com (mail-vw0-f46.google.com
+	[209.85.212.46])
+	by menubar.gnome.org (Postfix) with ESMTP id 6395B7501D1
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 18 Apr 2011 03:36:50 +0000 (UTC)
+Received: by vws1 with SMTP id 1so5087377vws.33
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 17 Apr 2011 20:36:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:date:message-id:subject:from:to
+	:content-type; bh=9aq+sjN2DC8GAcpT+PaVUqQjLyg5Y8jKAYaehFiX4Ds=;
+	b=veeTKtP9SEgF1ftFaadlbskTyrSXtpygTFRd2X1CsnTJhvQyDFIozu8+6f9zzTBRxi
+	7TBp5ozLIA245rhkjgQSCklX5fQogn06s0WehKq0qxRsgQoqnPlWwhlS2k+3j1iVtXcR
+	zrXWQHnV7n0Rb4ybzZW9xYVtsN+Kq9kFKSk9M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	b=h2FB/3bVETnCTI7n5oAHGE1gpRkThai9eTMLtgwMekaugX2esixi5WnlvdiO23DOwO
+	ZEIgwNj/j67TEocw60ZcEVBGhhD740biem5dhranecj2w29sssf0t3L7N0d/bd1F/YRB
+	J40kTJIpEmd3O79rZGFO7GQFITXPZtyljZhxg=
+MIME-Version: 1.0
+Received: by 10.220.123.69 with SMTP id o5mr1212869vcr.275.1303097808602; Sun,
+	17 Apr 2011 20:36:48 -0700 (PDT)
+Received: by 10.220.95.11 with HTTP; Sun, 17 Apr 2011 20:36:48 -0700 (PDT)
+Date: Sun, 17 Apr 2011 23:36:48 -0400
+Message-ID: <BANLkTimV9pV0ynaJK-gP982DLm2xJ2619w@mail.gmail.com>
+From: Mackenzie Morgan <macoafi@gmail.com>
+To: Ubuntu-Women <ubuntu-women@lists.ubuntu.com>, 
+	debian-women <debian-women@lists.debian.org>, devchix@googlegroups.com, 
+	announce@linuxchix.org, kde-women@kde.org, 
+	ubuntu-accessibility@lists.ubuntu.com, womeninfreesoftware@gnu.org, 
+	gnome-women-list@mail.gnome.org, ubuntu-lgbt@lists.launchpad.net, 
+	gnome-accessibility-list@gnome.org, debian-accessibility@lists.debian.org, 
+	opensuse-women@lists.opensuse.com, women@lists.fedoraproject.org, 
+	kde-accessibility@kde.org
+Content-Type: text/plain; charset=UTF-8
+X-Mailman-Approved-At: Mon, 18 Apr 2011 13:26:11 +0000
+Subject: [gnome-women] Ohio LinuxFest Call for Presentations
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 18 Apr 2011 03:37:03 -0000
+
+Ohio LinuxFest is hoping to receive more proposals from a more diverse
+range of participants in the FOSS arena than ever before.  Last year I
+sent out an email blast like this to a handful of women's groups, and
+the result was that even after turning down over half the women's
+submissions, over 35% of accepted presentations were from women.
+Despite lack of outreach to accessibility groups (sorry!), 5% of
+speakers identified as disabled.   Recognising there is more to
+diversity than gender (and that there are more distros than
+Debian/Ubuntu), the email blast has gotten bigger this year.  Please
+pass this along to any other mailing lists you are aware of for
+minority groups within the community (and let me know about them).
+
+There is also a Diversity in Open Source workshop scheduled for
+Sunday.  The cost is $20 including a brunch.  Information about that
+can be found here:  http://ohiolinux.org/dios
+
+The conferences does have a Diversity Statement:
+"The Ohio LinuxFest is dedicated for making Open Source truly open to
+everyone. We do not discriminate based on ethnic background, religion,
+gender, sexuality, body shape, disability, or even what operating
+system you use. We also do not tolerate harassment based on
+discrimination.
+
+We understand that some people need special assistance to fully enjoy
+our conference. If we can help you find a wheelchair, arrange for an
+ASL translator or a guide for the sight impaired, or any other special
+need, please let us know at assist@ohiolinux.org."
+
+It's a great conference for first-time presenters, so don't be shy!
+
+=========
+
+The CFP deadline grows near for the Ohio LinuxFest's 9th Conference,
+to be held September 9-11, 2011, in Columbus, Ohio. The CFP deadline
+is May 1.
+
+The biggest Free & Open Source conference in the Eastern part of the
+US is looking for proposals to talk about a variety of topics, all
+relating to the free and open use of computers. Talks in the past have
+been for the experienced, the professionals, the hobbyists and those
+just looking to learn.
+
+Talks in the past have covered topics from embedded systems, Linux
+kernels and authentication to documentation, video games, politics,
+project management and so much more.
+
+We encourage people who are new to speaking but are experienced in
+their field or hobby to submit a proposal.
+
+Go here to submit your proposal today:  http://www.ohiolinux.org/talksubmit
+
+The Ohio LinuxFest Institute seeks experienced instructors for our
+professional quality training. In the past classes have been geared
+towards system administrators but we are willing to look in other
+directions as well.
+
+Classes may be half day or full day and will take place on Friday, September 9.
+
+Go here for further information, including requirements and pay scale,
+and to submit your proposal:
+http://www.ohiolinux.org/tutsubmit
+
+-- 
+Mackenzie Morgan
+From marinaz@redhat.com  Tue Apr 26 19:23:19 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CE612750279;
+	Tue, 26 Apr 2011 19:23:19 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id OyftNQTkD7Ux; Tue, 26 Apr 2011 19:23:17 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id B2A01750217;
+	Tue, 26 Apr 2011 19:23:04 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p3QJN3Gn008213;
+	Tue, 26 Apr 2011 15:23:03 -0400
+Date: Tue, 26 Apr 2011 15:23:03 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-announce-list@gnome.org,
+	gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <790457742.236111.1303845783728.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <299647162.236073.1303845639163.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.5.41]
+X-Mailer: Zimbra 6.0.9_GA_2686 (ZimbraWebClient - FF3.0 (Linux)/6.0.9_GA_2686)
+Subject: [gnome-women] Outreach Program for Women internships press release
+	posted
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 26 Apr 2011 19:23:20 -0000
+
+Hi!
+
+The GNOME 3.0 release has far more contributions by women than any previous release in GNOME history. This is largely thanks to the hard work of the first round of the Outreach Program for Women interns, who participated in the program from December 15, 2010 to March 15, 2011. All eight participants had their work included in the main branches of their projects and therefore included in GNOME 3.0. Following on the heels of the successful first round, the GNOME Project is delighted to announce the participants of a new round of the Outreach Program for Women internships.
+
+Read more at:
+http://www.gnome.org/press/2011/04/after-a-successful-first-round-gnome-project-announces-new-outreach-program-for-women-interns
+
+Thanks,
+Marina

@@ -1,0 +1,266 @@
+From elise.scher01@gmail.com  Mon Feb  1 09:46:41 2016
+Return-Path: <elise.scher01@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 0328776A86
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  1 Feb 2016 09:46:41 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id 3T-tmJSl4fJz for <gnome-women-list@mail.gnome.org>;
+	Mon,  1 Feb 2016 09:46:39 +0000 (UTC)
+Received: from mail-lf0-f49.google.com (mail-lf0-f49.google.com
+	[209.85.215.49])
+	by restaurant.gnome.org (Postfix) with ESMTP id 22DA376A59
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  1 Feb 2016 09:46:38 +0000 (UTC)
+Received: by mail-lf0-f49.google.com with SMTP id m1so17155970lfg.0
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 01 Feb 2016 01:46:42 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=K3hm652/yqMl0LENZFcc43XB1OSzoV3udwj8H7Z8HnQ=;
+	b=vbBHISjonmkhU+wbNO/BK03Y0qVaoLOUpb8qrrzfRHXoH4sTllp6Rt6enDvQ2IpjpT
+	SejptnH5MhqAZdS/XzN6R+lQ6BBYFMjc3qZqesKCRIKDLfyeJMVHH2XicJd607qvJ4D/
+	+KYkOkak/m8mFW9lxi8lrNxat4qk5Of5Mmof39gadMnW8Qu3j1pCzST2xxAfmZB34eQJ
+	zC9VZbGpiALTIDrZz3vDosFkrmuDPJu07Fi/K6iAY0wnTnfu9qAl9Q75HM+l4C2sihcc
+	JralsM5VGVB16HE9NyFbVLe57/rVjkWiB1fMFfP6YTQwm8iOUqdxkQ8WcElQmsRjvXb6
+	Ew0Q==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=1e100.net; s=20130820;
+	h=x-gm-message-state:mime-version:date:message-id:subject:from:to
+	:content-type;
+	bh=K3hm652/yqMl0LENZFcc43XB1OSzoV3udwj8H7Z8HnQ=;
+	b=DOAQE6uRhk0NssWd0ANXffMGvWPYWek8jIKSguh/nyDYWbp56B1oeCAopO3E2TRPLk
+	GeUSWayZHGXDPBC4vYWh3OXxQnHcKsFmDghrOfJ6uAG7rOaiu18ert2w6rjaIyRQDYrN
+	VlxxCU6rYVkXD9B4Fl8uhx14acyuMfFDOQ0CchkrcUoX/FIua+5SA+RyhYgWke2YD/3o
+	uaexMjIslkpea8a/oLoxrcu3wd58YXOLMZ2LI2O/eGCzEFUiCob8VSkenpumDP6pBaXl
+	55+Id0N0Ro8PlMkYH8ta7lyKtKhRPaJq1KOvECiSPGV6AuhTX2UvQjTzgnGVuEIGC6x2
+	RogQ==
+X-Gm-Message-State: AG10YOQyuc8TTX6OR9QRTUL8d7ZS/BPDpCyrgaESbALSJdNi5MCihzwiDfU86ZsW2+/KV6AZwpwnLYlHk1dC0w==
+MIME-Version: 1.0
+X-Received: by 10.25.211.70 with SMTP id k67mr8160868lfg.119.1454320000485;
+	Mon, 01 Feb 2016 01:46:40 -0800 (PST)
+Received: by 10.114.182.230 with HTTP; Mon, 1 Feb 2016 01:46:40 -0800 (PST)
+Received: by 10.114.182.230 with HTTP; Mon, 1 Feb 2016 01:46:40 -0800 (PST)
+Date: Mon, 1 Feb 2016 01:46:40 -0800
+Message-ID: <CADacJ4-FhJxtPQ3h5Ln-587w8k35C4rhg31gSA2L+7w1OJoXqg@mail.gmail.com>
+From: Elise Scher <elise.scher01@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=001a114205ba04d06c052ab243c2
+Subject: [gnome-women] My helping
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 01 Feb 2016 09:46:41 -0000
+
+--001a114205ba04d06c052ab243c2
+Content-Type: text/plain; charset=UTF-8
+
+Hi People,
+I would like to help and learn. Please contact me.
+
+Thanks,
+Elisr
+
+--001a114205ba04d06c052ab243c2
+Content-Type: text/html; charset=UTF-8
+
+<p dir="ltr">Hi People,<br>
+I would like to help and learn. Please contact me.</p>
+<p dir="ltr">Thanks,<br>
+Elisr</p>
+
+--001a114205ba04d06c052ab243c2--
+From hnasarat@gmail.com  Wed Feb  3 00:32:21 2016
+Return-Path: <hnasarat@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 6BD2976A9E
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  3 Feb 2016 00:32:21 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.7
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.7 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id qaBJi5S1Y3A5 for <gnome-women-list@mail.gnome.org>;
+	Wed,  3 Feb 2016 00:32:20 +0000 (UTC)
+Received: from mail-qk0-f174.google.com (mail-qk0-f174.google.com
+	[209.85.220.174])
+	by restaurant.gnome.org (Postfix) with ESMTP id 2AFE0762A7
+	for <gnome-women-list@mail.gnome.org>;
+	Wed,  3 Feb 2016 00:32:14 +0000 (UTC)
+Received: by mail-qk0-f174.google.com with SMTP id s68so2414034qkh.3
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 02 Feb 2016 16:32:18 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=subject:to:references:from:message-id:date:user-agent:mime-version
+	:in-reply-to:content-type:content-transfer-encoding;
+	bh=lYblQ0nrG3WTKcu3xsMveK/cb36So02mt+rfH8Yhv30=;
+	b=U8udti3Kbz++DHEIFapIVyXbp+JFFnojcTGhk3Gk0FvoSa/gkSAWNl6rskkn7RIlsr
+	qEc8cl9qMxOxmK5Sl5LMZPJOdlZDIdD1n64GpCU4nmNa6CKeX9xJ/MRI1VzLjSeimdU+
+	TtE3pG0r+6phayNYHAczNa138QIw4N2R/Zs2g7FR4pbT9YIMWiPhMQQ0L/OXgJCSQT4q
+	4fjIt96H0YSVHKiq4pyzN5jSabn4JEvLae1DnM7XiOg4OlxYL+tTnip8MNkyGohzcL3t
+	utgaYNbSENZFs5pnw40YgUhXdHyFPyMt27LsfToek76rZNEHHBMt7wyZpHgCJFUfKjO9
+	rQLA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=1e100.net; s=20130820;
+	h=x-gm-message-state:subject:to:references:from:message-id:date
+	:user-agent:mime-version:in-reply-to:content-type
+	:content-transfer-encoding;
+	bh=lYblQ0nrG3WTKcu3xsMveK/cb36So02mt+rfH8Yhv30=;
+	b=LtWktFPXyJuHfz6AbifngBnzTEijO3ULULe6VvM7fcztEr/EeAC4R5IDuYbOKArg+G
+	flMCe4V3+moz8L/uCLKI5jelwmEecfAb9TfKZR3BTLWp96TRjdQ7KXw5uIUE4rhsTw+F
+	q0zzOfnqSp+u44iRym3QIV/mxDtFw7f8ETiYOFopNG5RQuLdxZaefTTNQfizLMnJIX6D
+	Okt1AZs+XRpH3kJVG8WoEAxb90J1ahFuJvQqMuskO89fCPmkWCG1s1oWK+EfPH58cUPH
+	uRtcXlMYGK770zUZBY67EAMzOHgH3OQoZjcora5DnRRDLzWklZ2f/l4EvtsSoQsaJ0kH
+	UWQQ==
+X-Gm-Message-State: AG10YOQOjQrbt5Ypp/3Zu/GqLYnpsMqOYdwE3N/ApLCwIQ+m+EoO5GxDUToBCNlmR37tow==
+X-Received: by 10.55.25.169 with SMTP id 41mr39247707qkz.15.1454459536619;
+	Tue, 02 Feb 2016 16:32:16 -0800 (PST)
+Received: from ?IPv6:2601:184:4100:1e86::c9c? ([2601:184:4100:1e86::c9c])
+	by smtp.googlemail.com with ESMTPSA id
+	l31sm1496989qge.20.2016.02.02.16.32.15
+	(version=TLSv1/SSLv3 cipher=OTHER);
+	Tue, 02 Feb 2016 16:32:15 -0800 (PST)
+To: Elise Scher <elise.scher01@gmail.com>, gnome-women-list@mail.gnome.org
+References: <CADacJ4-FhJxtPQ3h5Ln-587w8k35C4rhg31gSA2L+7w1OJoXqg@mail.gmail.com>
+From: Hashem Nasarat <hnasarat@gmail.com>
+Message-ID: <56B14A8D.8080103@gmail.com>
+Date: Tue, 2 Feb 2016 19:32:13 -0500
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+	Icedove/38.5.0
+MIME-Version: 1.0
+In-Reply-To: <CADacJ4-FhJxtPQ3h5Ln-587w8k35C4rhg31gSA2L+7w1OJoXqg@mail.gmail.com>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+Subject: Re: [gnome-women] My helping
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 03 Feb 2016 00:32:21 -0000
+
+Hi Elise,
+
+Thanks for reaching out! What are you interested in working on?
+Have you taken a look at https://www.gnome.org/get-involved/ ?
+
+Cheers,
+Hashem
+
+On 02/01/2016 04:46 AM, Elise Scher wrote:
+> Hi People,
+> I would like to help and learn. Please contact me.
+>
+> Thanks,
+> Elisr
+>
+>
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+From marinaz@redhat.com  Fri Feb 19 02:20:17 2016
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 6F40E76AB2;
+	Fri, 19 Feb 2016 02:20:17 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -4.207
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.207 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, RP_MATCHES_RCVD=-0.006,
+	SPF_HELO_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id FcKd4Z5XplgN; Fri, 19 Feb 2016 02:20:17 +0000 (UTC)
+Received: from mx5-phx2.redhat.com (mx5-phx2.redhat.com [209.132.183.37])
+	by restaurant.gnome.org (Postfix) with ESMTP id ED34776A04;
+	Fri, 19 Feb 2016 02:20:15 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx5-phx2.redhat.com (8.14.4/8.14.4) with ESMTP id u1J2KIvc034223;
+	Thu, 18 Feb 2016 21:20:18 -0500
+Date: Thu, 18 Feb 2016 21:20:18 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: desktop-devel-list <desktop-devel-list@gnome.org>,
+	foundation-list <foundation-list@gnome.org>,
+	gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <983352375.25490602.1455848418177.JavaMail.zimbra@redhat.com>
+In-Reply-To: <1384809831.25484779.1455846861784.JavaMail.zimbra@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.3.113.95]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - FF40 (Linux)/8.0.6_GA_5922)
+Thread-Topic: mentor for Outreachy!
+Thread-Index: qIHU688Wv5jLAMgl6+BjleECsU4JVg==
+Cc: gnome-outreachy-list@gnome.org
+Subject: [gnome-women] mentor for Outreachy!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 19 Feb 2016 02:20:17 -0000
+
+Hi all,
+
+Thanks to a confirmed sponsorship from the GNOME Foundation, GNOME is participating in Outreachy in the upcoming May round! Please consider adding your project idea and yourself as a mentor at https://wiki.gnome.org/Outreach/Outreachy/2016/MayAugust to help someone from an underrepresented background become a part of our community.
+
+Because GNOME only usually has a few participants in Outreachy, we are looking to offer projects that are most strategic for GNOME. These include, but are not limited to, projects in the area of privacy, developer experience, GTK+, core experience, core applications, and web infrastructure. If you have already listed your project idea for Google Summer of Code, and are willing to mentor it through either program, please list it for review on Outreachy's page.
+
+Please add your ideas as soon as possible. The application period for Outreachy opened on Tuesday and the application deadline is March 22.
+
+Thanks,
+Marina

@@ -1,0 +1,88 @@
+From vid at svaksha.com  Wed Apr 28 14:10:22 2010
+From: vid at svaksha.com (=?UTF-8?B?IOCkuOCljeCkteCkleCljeCktyA=?=)
+Date: Wed, 28 Apr 2010 17:40:22 +0530
+Subject: [Kde-women] New list admins required
+Message-ID: <k2r12470af01004280510r739243f3ud2c2f62a5acbf860@mail.gmail.com>
+
+Hello All,
+
+This mail has been on my to-do list for a long time so here goes.
+Since I will be busy with gsoc and other floss development work, I
+would like to reduce the lists I manage, and hand over admin privs of
+this list to any individual(s) interested in taking over the work of
+discarding spam messages --not a very hard task to learn so its a nice
+place to get started if you have a few minutes per day/week. Please
+introduce yourself to the list and/or mail "kde-women-owner at kde.org".
+I will keep this open till this weekend and announce my replacements
+early next week. Its been nice meeting so many of you (virtually) in
+the years that I have been on this list. Thanks:-)
+
+-- 
+thanks and regards,
+vid || http://svaksha.com
+
+From lydia at kde.org  Wed Apr 28 14:12:29 2010
+From: lydia at kde.org (Lydia Pintscher)
+Date: Wed, 28 Apr 2010 14:12:29 +0200
+Subject: [Kde-women] New list admins required
+In-Reply-To: <k2r12470af01004280510r739243f3ud2c2f62a5acbf860@mail.gmail.com>
+References: <k2r12470af01004280510r739243f3ud2c2f62a5acbf860@mail.gmail.com>
+Message-ID: <h2r938b46781004280512o361a0821k79c02dba4325054f@mail.gmail.com>
+
+Hey :)
+
+thanks for your work.
+I can take over moderation.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+Amarok community manager
+kde.org - amarok.kde.org - kubuntu.org
+claimid.com/nightrose
+
+From lydia at kde.org  Thu Apr 29 08:08:47 2010
+From: lydia at kde.org (Lydia Pintscher)
+Date: Thu, 29 Apr 2010 08:08:47 +0200
+Subject: [Kde-women] New list admins required
+In-Reply-To: <20100429010623.9ZZIX.183231.imail@fed1rmwml31>
+References: <h2r938b46781004280512o361a0821k79c02dba4325054f@mail.gmail.com> 
+	<20100429010623.9ZZIX.183231.imail@fed1rmwml31>
+Message-ID: <r2j938b46781004282308xfb24db31p729f0212504c7d0a@mail.gmail.com>
+
+On Thu, Apr 29, 2010 at 07:06,  <wschifano at cox.net> wrote:
+>
+> Hey :)
+>
+> I am not a big musik person but I was hoping that Amarok would be able to do the following:
+> - convert musik/sounds to mp3
+> - convert musik/sounds to ogg
+> - ogg/mp3 portable player sync with Amarok
+
+Hopefully solved after this GSoC.
+
+> - play audible books.
+
+Can do that already.
+
+> Is there another application that would integrate with Amarok?
+
+Not sure what you mean by that.
+
+
+Those questions are better answered on the Amarok mailing list
+amarok at kde.org though :)
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher
+Amarok community manager
+kde.org - amarok.kde.org - kubuntu.org
+claimid.com/nightrose
+

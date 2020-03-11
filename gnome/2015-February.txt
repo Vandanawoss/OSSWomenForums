@@ -1,0 +1,152 @@
+From stormy.peters@gmail.com  Thu Feb 12 19:27:37 2015
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id BE8FB762AE
+	for <gnome-women-list@gnome.org>; Thu, 12 Feb 2015 19:27:37 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id eqj7cDjlN_Ys for <gnome-women-list@gnome.org>;
+	Thu, 12 Feb 2015 19:27:35 +0000 (UTC)
+Received: from mail-yk0-f178.google.com (mail-yk0-f178.google.com
+	[209.85.160.178])
+	by restaurant.gnome.org (Postfix) with ESMTP id 4D89B762A6
+	for <gnome-women-list@gnome.org>; Thu, 12 Feb 2015 19:27:24 +0000 (UTC)
+Received: by mail-yk0-f178.google.com with SMTP id 19so5475798ykq.9
+	for <gnome-women-list@gnome.org>; Thu, 12 Feb 2015 11:27:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:from:date:message-id:subject:to:cc:content-type;
+	bh=n39gm64J4u2JPvXoy810gmaiR006vHOU5hU1tbQwYZM=;
+	b=s1OXAC17dI38pKoMcv14GHsHjNT307ro8982uXhtlKOpKUFFPMFCh55ueJmieWufoK
+	vzddGhct9KyR5gaWusPB088SRgfOk9bgVPomYp2VIIsjHYoGcGXwyacubOBSMb1sgXGv
+	itbtPhF/5Fc+5p3zo4tv++hwl3fbkkwHTNEQ+mgQvs1KPpea+QYsaaprxgHRTQ10urqW
+	2dseKo1F/OpLhlpkbaffwMVmy8Fxx9HyeahStRN7GqYU+hfAFIBWSY3f/YGKeU3mlFg6
+	WaLzbg4nfzjRwwHDtDo41x4w0fDAZFKGnjIvW6ffskrFUtQjm1XbcUmUcyL4oHKwjHSM
+	u6mw==
+X-Received: by 10.236.110.10 with SMTP id t10mr5199166yhg.35.1423769243193;
+	Thu, 12 Feb 2015 11:27:23 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.170.233.66 with HTTP; Thu, 12 Feb 2015 11:26:43 -0800 (PST)
+From: Stormy Peters <stormy.peters@gmail.com>
+Date: Thu, 12 Feb 2015 12:26:43 -0700
+Message-ID: <CAJHV1TA_ZjXZBqyb_SxdbJj=eiyXwvyg-Nj5_0Li0C_MPZtu3Q@mail.gmail.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Content-Type: multipart/alternative; boundary=001a1132e98efb9656050ee91b56
+Cc: Heidi Ellis <ellis@wne.edu>
+Subject: [gnome-women] Grace Hopper Women in Computing Conference Call for
+	Papers is open now!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 12 Feb 2015 19:27:37 -0000
+
+--001a1132e98efb9656050ee91b56
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi FLOSS Women,
+
+Want to meet awesome women in technology? Submit your talk proposal now. It
+would be great to see GNOME represented.
+
+The Grace Hopper Celebration of Women in Computing Conference will be held
+October 14-16, 2015 in Houston, TX (http://gracehopper.org/2015/).  Founded
+in 1996, the Grace Hopper Celebration of Women in Computing is an annual
+conference that provides attendees with technical sessions covering a wide
+range of subjects as well  as a rich offering of professional development
+sessions for attendees at all career levels.
+
+Heidi Ellis and I are co-chairing the new Open Source Software Track.
+
+We would like to invite presentations, lightening talks, panels, workshops,
+and birds of a feather to the Open Source Track.  Submissions that discuss
+Free and Open Source Software (FOSS) development are welcomed and we are
+looking for submissions that enable more interactions between presenters
+and the audience. We'd like to see successful stories that encourage and
+teach participants how to use and deploy the best about FOSS. Possible
+topics include:
+
+
+   - FOSS intellectual property, copyrights and licensing
+   - Non-Governmental Organizations and FOSS
+   - Incorporating FOSS within organization's development lifecycle
+   - Lessons from FOSS for conventional development
+   - Successful stories about encouraging diversity in FOSS projects
+   - FOSS and social & humanitarian issues
+   - FOSS technologies, in particular how to use them or how to get started.
+   - Adoption/ use / acceptance of FOSS
+   - Dissemination / redistribution / crowdsourcing of FOSS systems
+   - Expanding scientific research and technology development methods
+   through openness
+   - Adopting innovation in FOSS projects
+   - Role of FOSS in ICT and sustainable development
+   - Learning, knowledge sharing, collaboration, control or conflict in
+   FOSS projects
+   - FOSS usability, scalability, maintainability and other quality issues
+   - Talk or workshop on specific FOSS technologies, such as version control
+
+
+To submit:  http://gracehopper.org/call-for-participation/open-source/
+
+Let me know if you have any questions.
+
+
+Stormy
+
+--001a1132e98efb9656050ee91b56
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Hi FLOSS Women,<br><br>Want to meet awesome women in =
+technology? Submit your talk proposal now. It would be great to see GNOME r=
+epresented.<br><br>The Grace Hopper Celebration of Women in Computing Confe=
+rence will be held October 14-16, 2015 in Houston, TX (<a href=3D"http://gr=
+acehopper.org/2015/">http://gracehopper.org/2015/</a>).&nbsp; Founded in 19=
+96, the Grace Hopper Celebration of Women in Computing is an annual confere=
+nce that provides attendees with technical sessions covering a wide range o=
+f subjects as well &nbsp;as a rich offering of professional development ses=
+sions for attendees at all career levels.&nbsp;<br><br></div>Heidi Ellis an=
+d I are co-chairing the new Open Source Software Track.<br><div><br>We woul=
+d like to invite presentations, lightening talks, panels, workshops, and bi=
+rds of a feather to the Open Source Track.&nbsp; Submissions that discuss F=
+ree and Open Source Software (FOSS) development are welcomed and we are loo=
+king for submissions that enable more interactions between presenters and t=
+he audience. We&rsquo;d like to see successful stories that encourage and t=
+each participants how to use and deploy the best about FOSS. Possible topic=
+s include:<br><br><ul><li>FOSS intellectual property, copyrights and licens=
+ing</li><li>Non-Governmental Organizations and FOSS</li><li>Incorporating F=
+OSS within organization&rsquo;s development lifecycle</li><li>Lessons from =
+FOSS for conventional development</li><li>Successful stories about encourag=
+ing diversity in FOSS projects</li><li>FOSS and social &amp; humanitarian i=
+ssues</li><li>FOSS technologies, in particular how to use them or how to ge=
+t started.</li><li>Adoption/ use / acceptance of FOSS</li><li>Dissemination=
+ / redistribution / crowdsourcing of FOSS systems</li><li>Expanding scienti=
+fic research and technology development methods through openness</li><li>Ad=
+opting innovation in FOSS projects</li><li>Role of FOSS in ICT and sustaina=
+ble development</li><li>Learning, knowledge sharing, collaboration, control=
+ or conflict in FOSS projects</li><li>FOSS usability, scalability, maintain=
+ability and other quality issues</li><li>Talk or workshop on specific FOSS =
+technologies, such as version control</li></ul><br>To submit: &nbsp;<a href=
+=3D"http://gracehopper.org/call-for-participation/open-source/">http://grac=
+ehopper.org/call-for-participation/open-source/</a><br><br>Let me know if y=
+ou have any questions.<br><br><br>Stormy</div></div>
+
+--001a1132e98efb9656050ee91b56--

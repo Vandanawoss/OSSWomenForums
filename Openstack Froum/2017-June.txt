@@ -1,0 +1,1224 @@
+From stefano.cucchiella at dektech.com.au  Mon Jun  5 12:47:28 2017
+From: stefano.cucchiella at dektech.com.au (Stefano Cucchiella)
+Date: Mon, 5 Jun 2017 14:47:28 +0200
+Subject: [Women-of-openstack] 4 ways to get involved in OpenStack Days
+	Nordic - Copenhagen 2017
+Message-ID: <002c01d2ddf9$e669bc10$b33d3430$@dektech.com.au>
+
+Good Monday from Stockholm, Sweden!
+
+ 
+
+Tech has always been a predominantly male industry but today women are
+playing a huge part too and more and more are entering both regular and
+key-role positions in tech companies.
+
+ 
+
+ILDIKO VANCSA and ALLISON RANDAL are two bright examples of the women power
+in the OpenStack community and this year we are happy to have them onboard
+the OpenStack Days Nordic event taking place in Copenhagen, Denmark on Oct
+17-19.
+
+Read more about Ildiko, Allison and all other keynote speakers here.
+<http://openstacknordic.org/copenhagen2017/content/> 
+
+The #OSDN Community mission is to increase awareness, utilization and
+competence surrounding OpenStack.  
+
+This year event will consists of presentations and educational opportunities
+over two days, and the topics span everything from cloud strategy and
+business case development to operational best practices and technical deep
+dives.
+
+Are you interested in getting involved in the event? Here are 4 ways to
+consider!
+<http://openstacknordic.org/4-ways-to-get-involved-in-openstack-days-nordic-
+copenhagen-2017/> 
+
+ 
+
+For more information do not hesitate to contact us at
+crew at openstacknordic.org <mailto:crew at openstacknordic.org> .
+
+ 
+
+We will be more than happy to answer your questions.
+
+ 
+
+Welcome to the Nordics!
+
+ 
+
+--
+
+Stefano Cucchiella | Head of Program Committee
+
+stefano.cucchiella at dektech.com.au
+
++46 (0)73 5144517
+
+openstacknordic.org <http://openstacknordic.org/> 
+
+ 
+
+
+
+ 
+
+ 
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170605/e51d790b/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 16490 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170605/e51d790b/attachment-0001.png>
+
+From Sanjana at hitachi.co.in  Tue Jun  6 06:17:41 2017
+From: Sanjana at hitachi.co.in (Sanjana Pai Nagarmat)
+Date: Tue, 6 Jun 2017 06:17:41 +0000
+Subject: [Women-of-openstack] Help with configuring OIDC keystone
+Message-ID: <AC9A0BADCD41484B8FC78E63F77473A8045A1B78@GSJPTKYDCEMBX14.service.hitachi.net>
+
+Hello Everyone,
+
+
+My name is Sanjana.
+I have some issues in configuring keystone with OpenID connect, but I am not sure if I can be discussing this issue here.
+I have tried seeking help on the IRC Channel as well as ask.openstack.org but in vain. I really hope someone in this community can guide me and help me resolve my issues in configuring Keystone along with OpenID connect. If I can get in touch with someone who is familiar with this, I could share the configuration details and seek help.
+
+
+
+
+Thanks and Regards,
+Sanjana
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170606/445cfe29/attachment.html>
+
+From amy at demarco.com  Tue Jun  6 10:59:43 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Tue, 6 Jun 2017 05:59:43 -0500
+Subject: [Women-of-openstack] Help with configuring OIDC keystone
+In-Reply-To: <AC9A0BADCD41484B8FC78E63F77473A8045A1B78@GSJPTKYDCEMBX14.service.hitachi.net>
+References: <AC9A0BADCD41484B8FC78E63F77473A8045A1B78@GSJPTKYDCEMBX14.service.hitachi.net>
+Message-ID: <CAFs83QqOYfFcP8uao_PWgzSVGVGYfte8kgj-CoxB45nQcfQGOg@mail.gmail.com>
+
+Sanjana,
+
+The best place to ask is probably the Ops list, openstack-operators@
+lists.openstack.org though I do see Ops related questions on the Openstack
+list as well, openstack at lists.openstack.org. Keystone channel is usually
+helpful but you might have hit them when no one was on or no Ops people.
+
+Thanks,
+
+Amy
+
+On Tue, Jun 6, 2017 at 1:17 AM, Sanjana Pai Nagarmat <Sanjana at hitachi.co.in>
+wrote:
+
+> Hello Everyone,
+>
+>
+>
+>
+>
+> My name is Sanjana.
+>
+> I have some issues in configuring keystone with OpenID connect, but I am
+> not sure if I can be discussing this issue here.
+>
+> I have tried seeking help on the IRC Channel as well as ask.openstack.org
+> but in vain. I really hope someone in this community can guide me and help
+> me resolve my issues in configuring Keystone along with OpenID connect. If
+> I can get in touch with someone who is familiar with this, I could share
+> the configuration details and seek help.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> Thanks and Regards,
+>
+> Sanjana
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170606/e31c9971/attachment.html>
+
+From Sanjana at hitachi.co.in  Wed Jun  7 03:24:56 2017
+From: Sanjana at hitachi.co.in (Sanjana Pai Nagarmat)
+Date: Wed, 7 Jun 2017 03:24:56 +0000
+Subject: [Women-of-openstack] Help with configuring OIDC keystone
+In-Reply-To: <CAFs83QqOYfFcP8uao_PWgzSVGVGYfte8kgj-CoxB45nQcfQGOg@mail.gmail.com>
+References: <AC9A0BADCD41484B8FC78E63F77473A8045A1B78@GSJPTKYDCEMBX14.service.hitachi.net>
+ <CAFs83QqOYfFcP8uao_PWgzSVGVGYfte8kgj-CoxB45nQcfQGOg@mail.gmail.com>
+Message-ID: <AC9A0BADCD41484B8FC78E63F77473A8045A4CFE@GSJPTKYDCEMBX14.service.hitachi.net>
+
+Thanks for the information Amy.
+I will post my query there.:)
+
+
+
+Thanks and Regards,
+Sanjana
+
+From: Amy Marrich [mailto:amy at demarco.com]
+Sent: 06 June 2017 16:30
+To: Sanjana Pai Nagarmat <Sanjana at hitachi.co.in>
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Help with configuring OIDC keystone
+
+Sanjana,
+
+The best place to ask is probably the Ops list, openstack-operators at lists.openstack.org<mailto:openstack-operators at lists.openstack.org> though I do see Ops related questions on the Openstack list as well, openstack at lists.openstack.org<mailto:openstack at lists.openstack.org>. Keystone channel is usually helpful but you might have hit them when no one was on or no Ops people.
+
+Thanks,
+
+Amy
+
+On Tue, Jun 6, 2017 at 1:17 AM, Sanjana Pai Nagarmat <Sanjana at hitachi.co.in<mailto:Sanjana at hitachi.co.in>> wrote:
+Hello Everyone,
+
+
+My name is Sanjana.
+I have some issues in configuring keystone with OpenID connect, but I am not sure if I can be discussing this issue here.
+I have tried seeking help on the IRC Channel as well as ask.openstack.org<http://ask.openstack.org> but in vain. I really hope someone in this community can guide me and help me resolve my issues in configuring Keystone along with OpenID connect. If I can get in touch with someone who is familiar with this, I could share the configuration details and seek help.
+
+
+
+
+Thanks and Regards,
+Sanjana
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170607/c803216b/attachment.html>
+
+From kendall at openstack.org  Wed Jun  7 21:03:02 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Wed, 7 Jun 2017 16:03:02 -0500
+Subject: [Women-of-openstack] Call For Presentations OPEN NOW - OpenStack
+	Summit Sydney
+Message-ID: <E8642E54-EA84-4568-8252-E06D0D9CA6D5@openstack.org>
+
+Hi Everyone-
+ 
+The Call for Presentations is NOW OPEN for the upcoming OpenStack Summit in Sydney, November 6-8th! 
+ 
+Important Dates:
+Submission deadline is July 14, 2017 at 11:59PM Pacific Time (July 15, 2017 at 6:59 UTC)
+Selected speakers will be notified and the initial Summit schedule will be published in late August
+ 
+New for this Summit: With a more focused conference, we have consolidated a few tracks and also focused on the industries where OpenStack adoption is strong in APAC and specifically Australia. View the Summit tracks <https://www.openstack.org/summit/sydney-2017/summit-categories/>.
+ 
+If you are interested in becoming a track chair or nominating a colleague, the details on the selection process and track chair information can be found here <https://www.openstack.org/summit/sydney-2017/call-for-presentations/selection-process>. June 27 is the deadline to submit your application for track chair nominations <https://openstackfoundation.formstack.com/forms/sydney2017_track_chair_nominations>. 
+ 
+Reminders:
+Proposed sessions must indicate a format: panel or presentation. Each format has a maximum number of speakers associated. Panels are allowed a total of four speakers plus one moderator, whereas presentations are limited to two speakers. 
+Speakers are limited to submit a maximum of three submissions. 
+ 
+Contact speakersupport at openstack.org <mailto:speakersupport at openstack.org> with any submission questions. 
+ 
+SYDNEY REGISTRATION 
+Attendee registration is now open <https://openstacksummit2017sydney.eventbrite.com/>. Purchase your discounted early bird passes for USD $600 now. Prices will increase in early September.
+ 
+SPONSORSHIP SALES
+Interested in sponsoring the Summit? Full details of the sponsorship signing process are outlined here <https://www.openstack.org/summit/sydney-2017/sponsors/>. Make sure to check out page 18 of the sponsorship prospectus <https://www.openstack.org/assets/sydney-summit/sponsorship/Sydney-Sponsor-Prospectus-FINAL.pdf> for a new add-on opportunity that is unique for the Sydney Summit and StackCity Community Party sponsorships.
+ 
+If you have any general Summit questions, contact us at summit at openstack.org <mailto:summit at openstack.org>. 
+
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170607/3532d8f5/attachment.html>
+
+From amy at demarco.com  Thu Jun  8 15:50:49 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 8 Jun 2017 10:50:49 -0500
+Subject: [Women-of-openstack] CFP Diversity Summit at Open Source Summit
+Message-ID: <CAFs83Qo0fUsVDYy7kmaFY+k6-xeM9TdX3zpPKSsuHRhga-hz8Q@mail.gmail.com>
+
+Just wanted to send this to the list in case anyone is interested. The CFP
+ends tomorrow.
+
+http://events.linuxfoundation.org/events/open-source-summit-north-america/program/diversity-empowerment-summit
+
+It is the same week as the PTG.
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170608/8580c20e/attachment.html>
+
+From amy at demarco.com  Thu Jun  8 15:54:35 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 8 Jun 2017 10:54:35 -0500
+Subject: [Women-of-openstack] Meeting Reminder - 6/12
+Message-ID: <CAFs83Qonr6d1DnbzNTdZSCCVgep2dqnRGQEgqFR2Bbo=RWUZBg@mail.gmail.com>
+
+Hey everyone,
+
+Just wanted to remind everyone the next meeting will be today 6/12/17 at
+1pm PST, 3pm CST and 4pm EST.
+
+Dial-in info is: 1-203-277-8157 <(203)%20277-8157> or 866-619-0383
+<(866)%20619-0383>  Participant: 7217256# Leader 4018#
+webex - URL: https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e
+7ba518a2d4487bc0a78d00055f62e2
+
+Etherpad is at https://etherpad.openstack.org/p/WOS_06_12_17
+<https://etherpad.openstack.org/p/WOS_06_12_17> and if you would like to
+add something to the agenda please do so. I've thrown a few topics on that
+I think we'd like to at least touch base on, including the Boston Summit as
+we haven't met since and Sydney.
+
+The next couple of meetings are at https://etherpad.openstack.org/p/WOS_
+Agenda_Tracker so please sign up if you'd like to lead a meeting. It's a
+great way to get some experience leading and talking to a group in a very
+low key environment (we don't bite).
+
+Hope everyone had a good break!
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170608/d3003691/attachment.html>
+
+From jessicak at us.ibm.com  Thu Jun 15 03:49:13 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Wed, 14 Jun 2017 22:49:13 -0500
+Subject: [Women-of-openstack] WOO Speaker Series: June 26 discussion on
+	Imposter Syndrome
+Message-ID: <OF8613C58F.4D324064-ON00258140.0013F172-86258140.0014FC6A@notes.na.collabserv.com>
+
+
+
+Mark your calendars to join us as we continue our Women of OpenStack
+speaker series on June 26, 2017. We will be joined by Major Hayden,
+principal architect at Rackspace, who will lead  a discussion on impostor
+syndrome including how to identify it and how to overcome it.
+
+The OpenStack community is highly collaborative, fast-paced, and helpful.
+However, some new community members are overwhelmed with new terminology
+and detailed processes, especially those with impostor syndrome.  They
+struggle with an internal battle where their confidence and competence are
+not aligned. Impostor syndrome is a psychological phenomenon that affects
+people from all backgrounds and all skill levels. They feel like their
+competence level is much lower than it really is and they feel this way on
+a regular basis. This can cause community members to become detached or
+feel incapable of providing meaningful contributions.
+
+Women of OpenStack
+26 June 2017
+2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+
+Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+webex URL:
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+
+If you are not able to join the discussion live, we will be posting a
+recording of it afterwards. For more information, see the meeting etherpad:
+https://etherpad.openstack.org/p/WOS_06_26_17
+
+
+Major's bio:
+Major Hayden builds OpenStack clouds as a Principal Architect at Rackspace.
+Major is a core developer in the OpenStack-Ansible project with a focus on
+improving information security in OpenStack deployments.  He holds multiple
+Red Hat and Global Information Assurance Certification (GIAC)
+certifications and has written extensively about securing virtualized Linux
+environments. Outside of OpenStack, Major has contributed to several open
+source projects including dracut, systemd, and Ansible. Within the Fedora
+Linux community, Major serves on the Fedora Security Team and Fedora Server
+Working Group. Major enjoys writing on his personal blog, major.io, and he
+talks about technical topics on Twitter as @majorhayden.
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170614/7ddf5402/attachment.html>
+
+From kendall at openstack.org  Wed Jun 21 20:07:43 2017
+From: kendall at openstack.org (Kendall Waters)
+Date: Wed, 21 Jun 2017 15:07:43 -0500
+Subject: [Women-of-openstack] Sydney Summit Call For Presentations open
+	until July 14
+Message-ID: <84667B53-797E-4EAD-881E-10A83A388E09@openstack.org>
+
+Hi everyone,
+ 
+You have less than a month to submit your speaking proposals for the OpenStack Summit Sydney <http://www.openstack.org/summit/sydney-2017/>, November 6-8, 2017. Submit your proposals here <https://www.openstack.org/summit-login/login?BackURL=%2Fsummit%2Fsydney-2017%2Fcall-for-presentations%2F> by July 14, 11:59PM Pacific Time (July 15, 2017 at 6:59 UTC)!
+ 
+There is only ONE week left to nominate yourself or a colleague to be a track chair. Learn more about the selection process here, <https://www.openstack.org/summit/sydney-2017/call-for-presentations/selection-process> and submit your nomination <https://openstackfoundation.formstack.com/forms/sydney2017_track_chair_nominations> by June 27.
+ 
+Important Links:
+Registration <https://openstacksummit2017sydney.eventbrite.com/> - make sure to register now before the prices increase in early September
+Hotels <https://www.openstack.org/summit/sydney-2017/travel/#hotels>
+Travel Support Program <https://www.openstack.org/summit/sydney-2017/travel/#travel-support>
+Visa Information <https://www.openstack.org/summit/sydney-2017/travel/#visa>
+Please note that all non-Australian residents will need a visa to enter Australia. This includes United States citizens.
+Sponsorship <https://www.openstack.org/summit/sydney-2017/sponsors/> - deadline to sign the sponsor contract is September 27
+ 
+If you have any general Summit questions, contact us at summit at openstack.org.
+ 
+Cheers,
+Kendall
+
+Kendall Waters
+OpenStack Marketing
+kendall at openstack.org
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170621/db985c2f/attachment.html>
+
+From jessicak at us.ibm.com  Sun Jun 25 14:48:37 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Sun, 25 Jun 2017 09:48:37 -0500
+Subject: [Women-of-openstack] WOO Speaker Series: June 26 discussion on
+	Imposter Syndrome
+Message-ID: <OF34505EB7.EE4F95E2-ON0025814A.00514B77-8625814A.00515AF8@notes.na.collabserv.com>
+
+
+
+Please join us as we continue our Women of OpenStack speaker series on June
+26, 2017. We will be joined by Major Hayden, principal architect at
+Rackspace, who will lead  a discussion on impostor syndrome including how
+to identify it and how to overcome it.
+
+The OpenStack community is highly collaborative, fast-paced, and helpful.
+However, some new community members are overwhelmed with new terminology
+and detailed processes, especially those with impostor syndrome.  They
+struggle with an internal battle where their confidence and competence are
+not aligned. Impostor syndrome is a psychological phenomenon that affects
+people from all backgrounds and all skill levels. They feel like their
+competence level is much lower than it really is and they feel this way on
+a regular basis. This can cause community members to become detached or
+feel incapable of providing meaningful contributions.
+
+Women of OpenStack
+26 June 2017
+2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+
+Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+webex URL:
+https://verizon2.webex.com/verizon2-en/e.php?MTID=m0e7ba518a2d4487bc0a78d00055f62e2
+
+
+If you are not able to join the discussion live, we will be posting a
+recording of it afterwards. For more information, see the meeting etherpad:
+https://etherpad.openstack.org/p/WOS_06_26_17
+
+
+Major's bio:
+Major Hayden builds OpenStack clouds as a Principal Architect at Rackspace.
+Major is a core developer in the OpenStack-Ansible project with a focus on
+improving information security in OpenStack deployments.  He holds multiple
+Red Hat and Global Information Assurance Certification (GIAC)
+certifications and has written extensively about securing virtualized Linux
+environments. Outside of OpenStack, Major has contributed to several open
+source projects including dracut, systemd, and Ansible. Within the Fedora
+Linux community, Major serves on the Fedora Security Team and Fedora Server
+Working Group. Major enjoys writing on his personal blog, major.io, and he
+talks about technical topics on Twitter as @majorhayden.
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170625/1664bb64/attachment.html>
+
+From thingee at gmail.com  Tue Jun 27 20:48:36 2017
+From: thingee at gmail.com (Mike Perez)
+Date: Tue, 27 Jun 2017 13:48:36 -0700
+Subject: [Women-of-openstack] [docs][all][ptl] Contributor Portal and Better
+	New Contributor On-boarding
+Message-ID: <CAHcn5b3Ob=1Y07R5k_C4LnH81iV6yNe_+Lpb+rna498GAQMgKw@mail.gmail.com>
+
+Hello all,
+
+Every month we have people asking on IRC or the dev mailing list
+having interest in working on OpenStack, and sometimes they're given
+different answers from people, or worse, no answer at all.
+
+Suggestion: lets work our efforts together to create some common
+documentation so that all teams in OpenStack can benefit.
+
+First it’s important to note that we’re not just talking about code
+projects here. OpenStack contributions come in many forms such as
+running meet ups, identifying use cases (product working group),
+documentation, testing, etc. We want to make sure those potential
+contributors feel welcomed too!
+
+What is common documentation? Things like setting up Git, the many
+accounts you need to setup to contribute (gerrit, launchpad, OpenStack
+foundation account). Not all teams will use some common documentation,
+but the point is one or more projects will use them. Having the common
+documentation worked on by various projects will better help prevent
+duplicated efforts, inconsistent documentation, and hopefully just
+more accurate information.
+
+A team might use special tools to do their work. These can also be
+integrated in this idea as well.
+
+Once we have common documentation we can have something like:
+    1. Choose your own adventure: I want to contribute by code
+    2. What service type are you interested in? (Database, Block
+storage, compute)
+    3. Here’s step-by-step common documentation to setting up Git,
+IRC, Mailing Lists, Accounts, etc.
+    4. A service type project might choose to also include additional
+documentation in that flow for special tools, etc.
+
+Important things to note in this flow:
+    * How do you want to contribute?
+    * Here are **clear** names that identify the team. Not code names
+like Cloud Kitty, Cinder, etc.
+    * The documentation should really aim to not be daunting:
+    * Someone should be able to glance at it and feel like they can
+finish things in five minutes. Not be yet another tab left in their
+browser that they’ll eventually forget about
+    * No wall of text!
+    * Use screen shots
+    * Avoid covering every issue you could hit along the way.
+
+## Examples of More Simple Documentation
+I worked on some documentation for the Upstream University preparation
+that has received excellent feedback meet close to these suggestions:
+    * IRC [1]
+    * Git [2]
+    * Account Setup [3]
+
+## 500 Feet Birds Eye view
+There will be a Contributor landing page on the openstack.org website.
+Existing contributors will find reference links to quickly jump to
+things. New contributors will find a banner at the top of the page to
+direct them to the choose your own adventure to contributing to
+OpenStack, with ordered documentation flow that reuses existing
+documentation when necessary. Picture also a progress bar somewhere to
+show how close you are to being ready to contribute to whatever team.
+Of course there are a lot of other fancy things we can come up with,
+but I think getting something up as an initial pass would be better
+than what we have today.
+
+Here's an example of what the sections/chapters could look like:
+
+- Code
+        * Volumes (Cinder)
+             * IRC
+             * Git
+             * Account Setup
+             * Generating Configs
+        * Compute (Nova)
+             * IRC
+             * Git
+             * Account Setup
+        * Something about hypervisors (matrix?)
+-  Use Cases
+* Products (Product working group)
+* IRC
+    * Git
+* Use Case format
+
+There are some rough mock up ideas [4]. Probably Sphinx will be fine
+for this. Potentially we could use this content for conference lunch
+and learns, upstream university, and the on-boarding events at the
+Forum. What do you all think?
+
+[1] - http://docs.openstack.org/upstream-training/irc.html
+[2] - http://docs.openstack.org/upstream-training/git.html
+[3] - http://docs.openstack.org/upstream-training/accounts.html
+[4] - https://www.dropbox.com/s/o46xh1cp0sv0045/OpenStack%20contributor%20portal.pdf?dl=0
+
+
+From thingee at gmail.com  Thu Jun 29 19:03:11 2017
+From: thingee at gmail.com (Mike Perez)
+Date: Thu, 29 Jun 2017 12:03:11 -0700
+Subject: [Women-of-openstack] [docs][all][ptl] Contributor Portal and
+	Better New Contributor On-boarding
+In-Reply-To: <CAHcn5b3Ob=1Y07R5k_C4LnH81iV6yNe_+Lpb+rna498GAQMgKw@mail.gmail.com>
+References: <CAHcn5b3Ob=1Y07R5k_C4LnH81iV6yNe_+Lpb+rna498GAQMgKw@mail.gmail.com>
+Message-ID: <CAHcn5b13LhpKMCJ2JhiDsrJf7bcdViTS6djiRY_mpXZeFLifdA@mail.gmail.com>
+
+Hello all,
+
+Wes has just took my ugly mock up of the contributor portal idea and
+came up with this [1].
+
+Here’s what he said:
+
+"The idea is to help get potential contributors to the right place,
+using the outline Mike put together. Rather than sending people to a
+different page for each contribution type, users would be able to see
+what options are available all on this page. We’d send them to any
+necessary page(s) once they’ve gone through this quasi-wizard. Is this
+along the lines of what you were thinking? page 2 shows the view once
+you’ve clicked “Code” on page 1 (just in case that wasn’t super
+obvious) Thanks!”
+
+What do you all think? This does change things a bit of instead of the
+landing page being more obvious of a resource of links, it’s both for
+new and current contributors. Current contributors would hopefully be
+able to see the resource links below.
+
+Keep in mind that we will be working in the “Top 5 requested help” and
+as suggested by Clark, an option of “I don’t know where I want to
+start, but I want to help” kind of option. This would direct people to
+resources such as Upstream University, mentor program, low hanging
+fruit, that release priority idea I talked about earlier, etc.
+
+Personally I like it!
+
+
+[1] - https://www.dropbox.com/s/3q172qwfkik1ysd/contributor-portal.pdf?dl=0
+
+—
+Mike Perez
+
+On June 27, 2017 at 13:48:36, Mike Perez (thingee at gmail.com) wrote:
+> Hello all,
+>
+> Every month we have people asking on IRC or the dev mailing list having interest in working
+> on OpenStack, and sometimes they're given different answers from people, or worse,
+> no answer at all.
+>
+> Suggestion: lets work our efforts together to create some common documentation so that
+> all teams in OpenStack can benefit.
+>
+> First it’s important to note that we’re not just talking about code projects here. OpenStack
+> contributions come in many forms such as running meet ups, identifying use cases (product
+> working group), documentation, testing, etc. We want to make sure those potential contributors
+> feel welcomed too!
+>
+> What is common documentation? Things like setting up Git, the many accounts you need
+> to setup to contribute (gerrit, launchpad, OpenStack foundation account). Not all
+> teams will use some common documentation, but the point is one or more projects will use
+> them. Having the common documentation worked on by various projects will better help
+> prevent duplicated efforts, inconsistent documentation, and hopefully just more
+> accurate information.
+>
+> A team might use special tools to do their work. These can also be integrated in this idea
+> as well.
+>
+> Once we have common documentation we can have something like:
+> 1. Choose your own adventure: I want to contribute by code
+> 2. What service type are you interested in? (Database, Block storage, compute)
+> 3. Here’s step-by-step common documentation to setting up Git, IRC, Mailing Lists,
+> Accounts, etc.
+> 4. A service type project might choose to also include additional documentation in that
+> flow for special tools, etc.
+>
+> Important things to note in this flow:
+> * How do you want to contribute?
+> * Here are **clear** names that identify the team. Not code names like Cloud Kitty, Cinder,
+> etc.
+> * The documentation should really aim to not be daunting:
+> * Someone should be able to glance at it and feel like they can finish things in five minutes.
+> Not be yet another tab left in their browser that they’ll eventually forget about
+> * No wall of text!
+> * Use screen shots
+> * Avoid covering every issue you could hit along the way.
+>
+> ## Examples of More Simple Documentation
+> I worked on some documentation for the Upstream University preparation that has received
+> excellent feedback meet close to these suggestions:
+> * IRC [1]
+> * Git [2]
+> * Account Setup [3]
+>
+> ## 500 Feet Birds Eye view
+> There will be a Contributor landing page on the openstack.org website. Existing contributors
+> will find reference links to quickly jump to things. New contributors will find a banner
+> at the top of the page to direct them to the choose your own adventure to contributing to
+> OpenStack, with ordered documentation flow that reuses existing documentation when
+> necessary. Picture also a progress bar somewhere to show how close you are to being ready
+> to contribute to whatever team. Of course there are a lot of other fancy things we can come
+> up with, but I think getting something up as an initial pass would be better than what we
+> have today.
+>
+> Here's an example of what the sections/chapters could look like:
+>
+> - Code
+> * Volumes (Cinder)
+> * IRC
+> * Git
+> * Account Setup
+> * Generating Configs
+> * Compute (Nova)
+> * IRC
+> * Git
+> * Account Setup
+> * Something about hypervisors (matrix?)
+> - Use Cases
+> * Products (Product working group)
+> * IRC
+> * Git
+> * Use Case format
+>
+> There are some rough mock up ideas [4]. Probably Sphinx will be fine for this. Potentially
+> we could use this content for conference lunch and learns, upstream university, and
+> the on-boarding events at the Forum. What do you all think?
+>
+> [1] - http://docs.openstack.org/upstream-training/irc.html
+> [2] - http://docs.openstack.org/upstream-training/git.html
+> [3] - http://docs.openstack.org/upstream-training/accounts.html
+> [4] - https://www.dropbox.com/s/o46xh1cp0sv0045/OpenStack%20contributor%20portal.pdf?dl=0
+
+
+From amy at demarco.com  Thu Jun 29 20:01:03 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 29 Jun 2017 15:01:03 -0500
+Subject: [Women-of-openstack] [User-committee] [docs][all][ptl]
+ Contributor Portal and Better New Contributor On-boarding
+In-Reply-To: <CAHcn5b13LhpKMCJ2JhiDsrJf7bcdViTS6djiRY_mpXZeFLifdA@mail.gmail.com>
+References: <CAHcn5b3Ob=1Y07R5k_C4LnH81iV6yNe_+Lpb+rna498GAQMgKw@mail.gmail.com>
+ <CAHcn5b13LhpKMCJ2JhiDsrJf7bcdViTS6djiRY_mpXZeFLifdA@mail.gmail.com>
+Message-ID: <CAFs83QpPVFsgnoo3rpiV4FGxxWT=RSt69OAXinjiwKjqMW9ing@mail.gmail.com>
+
+First off it looks really sleek and I love the look! A few thoughts though
+and I do realize it's just a mock up:
+
+1) We have Sponsor just to pick one but don't have Operators/Administrators
+and their feedback is a major contribution so please don't leave them out.
+2) I would list the contributor types in alphabetical order that way no
+group feels slighted, you can't help it if Use Cases are last it's just
+that they start with a U vs Code which is a C.
+3) What if you would like to contribute in multiple ways?
+
+Resources are definitely still underdevelopment there but are they meant to
+be broad applicable to all resources with more specialized one's visible
+when you click on how you'd like to contribute?
+
+Amy (spotz)
+
+On Thu, Jun 29, 2017 at 2:03 PM, Mike Perez <thingee at gmail.com> wrote:
+
+> Hello all,
+>
+> Wes has just took my ugly mock up of the contributor portal idea and
+> came up with this [1].
+>
+> Here’s what he said:
+>
+> "The idea is to help get potential contributors to the right place,
+> using the outline Mike put together. Rather than sending people to a
+> different page for each contribution type, users would be able to see
+> what options are available all on this page. We’d send them to any
+> necessary page(s) once they’ve gone through this quasi-wizard. Is this
+> along the lines of what you were thinking? page 2 shows the view once
+> you’ve clicked “Code” on page 1 (just in case that wasn’t super
+> obvious) Thanks!”
+>
+> What do you all think? This does change things a bit of instead of the
+> landing page being more obvious of a resource of links, it’s both for
+> new and current contributors. Current contributors would hopefully be
+> able to see the resource links below.
+>
+> Keep in mind that we will be working in the “Top 5 requested help” and
+> as suggested by Clark, an option of “I don’t know where I want to
+> start, but I want to help” kind of option. This would direct people to
+> resources such as Upstream University, mentor program, low hanging
+> fruit, that release priority idea I talked about earlier, etc.
+>
+> Personally I like it!
+>
+>
+> [1] - https://www.dropbox.com/s/3q172qwfkik1ysd/contributor-
+> portal.pdf?dl=0
+>
+> —
+> Mike Perez
+>
+> On June 27, 2017 at 13:48:36, Mike Perez (thingee at gmail.com) wrote:
+> > Hello all,
+> >
+> > Every month we have people asking on IRC or the dev mailing list having
+> interest in working
+> > on OpenStack, and sometimes they're given different answers from people,
+> or worse,
+> > no answer at all.
+> >
+> > Suggestion: lets work our efforts together to create some common
+> documentation so that
+> > all teams in OpenStack can benefit.
+> >
+> > First it’s important to note that we’re not just talking about code
+> projects here. OpenStack
+> > contributions come in many forms such as running meet ups, identifying
+> use cases (product
+> > working group), documentation, testing, etc. We want to make sure those
+> potential contributors
+> > feel welcomed too!
+> >
+> > What is common documentation? Things like setting up Git, the many
+> accounts you need
+> > to setup to contribute (gerrit, launchpad, OpenStack foundation
+> account). Not all
+> > teams will use some common documentation, but the point is one or more
+> projects will use
+> > them. Having the common documentation worked on by various projects will
+> better help
+> > prevent duplicated efforts, inconsistent documentation, and hopefully
+> just more
+> > accurate information.
+> >
+> > A team might use special tools to do their work. These can also be
+> integrated in this idea
+> > as well.
+> >
+> > Once we have common documentation we can have something like:
+> > 1. Choose your own adventure: I want to contribute by code
+> > 2. What service type are you interested in? (Database, Block storage,
+> compute)
+> > 3. Here’s step-by-step common documentation to setting up Git, IRC,
+> Mailing Lists,
+> > Accounts, etc.
+> > 4. A service type project might choose to also include additional
+> documentation in that
+> > flow for special tools, etc.
+> >
+> > Important things to note in this flow:
+> > * How do you want to contribute?
+> > * Here are **clear** names that identify the team. Not code names like
+> Cloud Kitty, Cinder,
+> > etc.
+> > * The documentation should really aim to not be daunting:
+> > * Someone should be able to glance at it and feel like they can finish
+> things in five minutes.
+> > Not be yet another tab left in their browser that they’ll eventually
+> forget about
+> > * No wall of text!
+> > * Use screen shots
+> > * Avoid covering every issue you could hit along the way.
+> >
+> > ## Examples of More Simple Documentation
+> > I worked on some documentation for the Upstream University preparation
+> that has received
+> > excellent feedback meet close to these suggestions:
+> > * IRC [1]
+> > * Git [2]
+> > * Account Setup [3]
+> >
+> > ## 500 Feet Birds Eye view
+> > There will be a Contributor landing page on the openstack.org website.
+> Existing contributors
+> > will find reference links to quickly jump to things. New contributors
+> will find a banner
+> > at the top of the page to direct them to the choose your own adventure
+> to contributing to
+> > OpenStack, with ordered documentation flow that reuses existing
+> documentation when
+> > necessary. Picture also a progress bar somewhere to show how close you
+> are to being ready
+> > to contribute to whatever team. Of course there are a lot of other fancy
+> things we can come
+> > up with, but I think getting something up as an initial pass would be
+> better than what we
+> > have today.
+> >
+> > Here's an example of what the sections/chapters could look like:
+> >
+> > - Code
+> > * Volumes (Cinder)
+> > * IRC
+> > * Git
+> > * Account Setup
+> > * Generating Configs
+> > * Compute (Nova)
+> > * IRC
+> > * Git
+> > * Account Setup
+> > * Something about hypervisors (matrix?)
+> > - Use Cases
+> > * Products (Product working group)
+> > * IRC
+> > * Git
+> > * Use Case format
+> >
+> > There are some rough mock up ideas [4]. Probably Sphinx will be fine for
+> this. Potentially
+> > we could use this content for conference lunch and learns, upstream
+> university, and
+> > the on-boarding events at the Forum. What do you all think?
+> >
+> > [1] - http://docs.openstack.org/upstream-training/irc.html
+> > [2] - http://docs.openstack.org/upstream-training/git.html
+> > [3] - http://docs.openstack.org/upstream-training/accounts.html
+> > [4] - https://www.dropbox.com/s/o46xh1cp0sv0045/OpenStack%
+> 20contributor%20portal.pdf?dl=0
+>
+> _______________________________________________
+> User-committee mailing list
+> User-committee at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/user-committee
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170629/4dd45d79/attachment.html>
+
+From thingee at gmail.com  Thu Jun 29 20:12:54 2017
+From: thingee at gmail.com (Mike Perez)
+Date: Thu, 29 Jun 2017 13:12:54 -0700
+Subject: [Women-of-openstack] [User-committee] [docs][all][ptl]
+ Contributor Portal and Better New Contributor On-boarding
+In-Reply-To: <CAFs83QpPVFsgnoo3rpiV4FGxxWT=RSt69OAXinjiwKjqMW9ing@mail.gmail.com>
+References: <CAHcn5b3Ob=1Y07R5k_C4LnH81iV6yNe_+Lpb+rna498GAQMgKw@mail.gmail.com>
+ <CAHcn5b13LhpKMCJ2JhiDsrJf7bcdViTS6djiRY_mpXZeFLifdA@mail.gmail.com>
+ <CAFs83QpPVFsgnoo3rpiV4FGxxWT=RSt69OAXinjiwKjqMW9ing@mail.gmail.com>
+Message-ID: <CAHcn5b28SmMDmsLrf6HeBvW4akTUP2+Ehw_DSRtyo_x=PxTQeA@mail.gmail.com>
+
+On June 29, 2017 at 13:01:09, Amy Marrich (amy at demarco.com) wrote:
+> First off it looks really sleek and I love the look! A few thoughts though
+> and I do realize it's just a mock up:
+>
+> 1) We have Sponsor just to pick one but don't have Operators/Administrators
+> and their feedback is a major contribution so please don't leave them out.
+
+Ah yes, I should’ve mentioned earlier that this is totally a POC.
+There are lots missing, don’t worry! :)
+
+> 2) I would list the contributor types in alphabetical order that way no
+> group feels slighted, you can't help it if Use Cases are last it's just
+> that they start with a U vs Code which is a C.
+
+Sure!
+
+> 3) What if you would like to contribute in multiple ways?
+
+You would come back to the main contributor portal and click on a
+different contribution. How about at the end of each lesson it gives
+them the option to go back to main contributor portal to pick another
+way to contribute?
+
+>
+> Resources are definitely still underdevelopment there but are they meant to
+> be broad applicable to all resources with more specialized one's visible
+> when you click on how you'd like to contribute?
+
+That’s a good question. I think it should probably on top contain the
+more general stuff, then in alphabetical order we can list resources
+for all contribution types? It can be like the “I want to contribute
+to OpenStack by…” top piece, but instead lists resource links to pick
+through based on your contribution type(s). Maybe we keep them as
+separate pages as originally given in the mock up so it’s not overly
+crowded?
+
+Thanks for the help Amy!
+
+—
+Mike Perez
+
+
+From thingee at gmail.com  Thu Jun 29 20:15:26 2017
+From: thingee at gmail.com (Mike Perez)
+Date: Thu, 29 Jun 2017 13:15:26 -0700
+Subject: [Women-of-openstack] [docs][all][ptl] Contributor Portal and
+	Better New Contributor On-boarding
+In-Reply-To: <CAHcn5b13LhpKMCJ2JhiDsrJf7bcdViTS6djiRY_mpXZeFLifdA@mail.gmail.com>
+References: <CAHcn5b3Ob=1Y07R5k_C4LnH81iV6yNe_+Lpb+rna498GAQMgKw@mail.gmail.com>
+ <CAHcn5b13LhpKMCJ2JhiDsrJf7bcdViTS6djiRY_mpXZeFLifdA@mail.gmail.com>
+Message-ID: <CAHcn5b1K6KsPRtu0PZduB+x5vxN6RtBsGt8fyMvWwrxkMd2QoA@mail.gmail.com>
+
++ OpenStack dev list
+
+Hello all,
+
+Wes has just took my ugly mock up of the contributor portal idea and
+came up with this [1].
+
+Here’s what he said:
+
+"The idea is to help get potential contributors to the right place,
+using the outline Mike put together. Rather than sending people to a
+different page for each contribution type, users would be able to see
+what options are available all on this page. We’d send them to any
+necessary page(s) once they’ve gone through this quasi-wizard. Is this
+along the lines of what you were thinking? page 2 shows the view once
+you’ve clicked “Code” on page 1 (just in case that wasn’t super
+obvious) Thanks!”
+
+What do you all think? This does change things a bit of instead of the
+landing page being more obvious of a resource of links, it’s both for
+new and current contributors. Current contributors would hopefully be
+able to see the resource links below.
+
+Keep in mind that we will be working in the “Top 5 requested help” and
+as suggested by Clark, an option of “I don’t know where I want to
+start, but I want to help” kind of option. This would direct people to
+resources such as Upstream University, mentor program, low hanging
+fruit, that release priority idea I talked about earlier, etc.
+
+Personally I like it!
+
+
+[1] - https://www.dropbox.com/s/3q172qwfkik1ysd/contributor-portal.pdf?dl=0
+
+—
+Mike Perez
+
+> On June 27, 2017 at 13:48:36, Mike Perez (thingee at gmail.com) wrote:
+> > Hello all,
+> >
+> > Every month we have people asking on IRC or the dev mailing list having interest in working
+> > on OpenStack, and sometimes they're given different answers from people, or worse,
+> > no answer at all.
+> >
+> > Suggestion: lets work our efforts together to create some common documentation so
+> that
+> > all teams in OpenStack can benefit.
+> >
+> > First it’s important to note that we’re not just talking about code projects here. OpenStack
+> > contributions come in many forms such as running meet ups, identifying use cases (product
+> > working group), documentation, testing, etc. We want to make sure those potential
+> contributors
+> > feel welcomed too!
+> >
+> > What is common documentation? Things like setting up Git, the many accounts you need
+> > to setup to contribute (gerrit, launchpad, OpenStack foundation account). Not all
+> > teams will use some common documentation, but the point is one or more projects will
+> use
+> > them. Having the common documentation worked on by various projects will better help
+> > prevent duplicated efforts, inconsistent documentation, and hopefully just more
+> > accurate information.
+> >
+> > A team might use special tools to do their work. These can also be integrated in this idea
+> > as well.
+> >
+> > Once we have common documentation we can have something like:
+> > 1. Choose your own adventure: I want to contribute by code
+> > 2. What service type are you interested in? (Database, Block storage, compute)
+> > 3. Here’s step-by-step common documentation to setting up Git, IRC, Mailing Lists,
+> > Accounts, etc.
+> > 4. A service type project might choose to also include additional documentation in
+> that
+> > flow for special tools, etc.
+> >
+> > Important things to note in this flow:
+> > * How do you want to contribute?
+> > * Here are **clear** names that identify the team. Not code names like Cloud Kitty, Cinder,
+> > etc.
+> > * The documentation should really aim to not be daunting:
+> > * Someone should be able to glance at it and feel like they can finish things in five minutes.
+> > Not be yet another tab left in their browser that they’ll eventually forget about
+> > * No wall of text!
+> > * Use screen shots
+> > * Avoid covering every issue you could hit along the way.
+> >
+> > ## Examples of More Simple Documentation
+> > I worked on some documentation for the Upstream University preparation that has received
+> > excellent feedback meet close to these suggestions:
+> > * IRC [1]
+> > * Git [2]
+> > * Account Setup [3]
+> >
+> > ## 500 Feet Birds Eye view
+> > There will be a Contributor landing page on the openstack.org website. Existing contributors
+> > will find reference links to quickly jump to things. New contributors will find a banner
+> > at the top of the page to direct them to the choose your own adventure to contributing
+> to
+> > OpenStack, with ordered documentation flow that reuses existing documentation when
+> > necessary. Picture also a progress bar somewhere to show how close you are to being ready
+> > to contribute to whatever team. Of course there are a lot of other fancy things we can
+> come
+> > up with, but I think getting something up as an initial pass would be better than what
+> we
+> > have today.
+> >
+> > Here's an example of what the sections/chapters could look like:
+> >
+> > - Code
+> > * Volumes (Cinder)
+> > * IRC
+> > * Git
+> > * Account Setup
+> > * Generating Configs
+> > * Compute (Nova)
+> > * IRC
+> > * Git
+> > * Account Setup
+> > * Something about hypervisors (matrix?)
+> > - Use Cases
+> > * Products (Product working group)
+> > * IRC
+> > * Git
+> > * Use Case format
+> >
+> > There are some rough mock up ideas [4]. Probably Sphinx will be fine for this. Potentially
+> > we could use this content for conference lunch and learns, upstream university, and
+> > the on-boarding events at the Forum. What do you all think?
+> >
+> > [1] - http://docs.openstack.org/upstream-training/irc.html
+> > [2] - http://docs.openstack.org/upstream-training/git.html
+> > [3] - http://docs.openstack.org/upstream-training/accounts.html
+> > [4] - https://www.dropbox.com/s/o46xh1cp0sv0045/OpenStack%20contributor%20portal.pdf?dl=0
+>
+
+
+From thingee at gmail.com  Thu Jun 29 20:18:12 2017
+From: thingee at gmail.com (Mike Perez)
+Date: Thu, 29 Jun 2017 13:18:12 -0700
+Subject: [Women-of-openstack] [docs][all][ptl] Contributor Portal and
+	Better New Contributor On-boarding
+In-Reply-To: <CAFs83QpPVFsgnoo3rpiV4FGxxWT=RSt69OAXinjiwKjqMW9ing@mail.gmail.com>
+References: <CAHcn5b3Ob=1Y07R5k_C4LnH81iV6yNe_+Lpb+rna498GAQMgKw@mail.gmail.com>
+ <CAHcn5b13LhpKMCJ2JhiDsrJf7bcdViTS6djiRY_mpXZeFLifdA@mail.gmail.com>
+ <CAFs83QpPVFsgnoo3rpiV4FGxxWT=RSt69OAXinjiwKjqMW9ing@mail.gmail.com>
+ <CAFs83QpPVFsgnoo3rpiV4FGxxWT=RSt69OAXinjiwKjqMW9ing@mail.gmail.com>
+Message-ID: <CAHcn5b2FaUmwtF1saOHNAXvfLeuK0KFuZxeGN11MKUQ9+n8n-g@mail.gmail.com>
+
++ OpenStack dev list
+
+On June 29, 2017 at 13:01:09, Amy Marrich (amy at demarco.com) wrote:
+> First off it looks really sleek and I love the look! A few thoughts though
+> and I do realize it's just a mock up:
+>
+> 1) We have Sponsor just to pick one but don't have Operators/Administrators
+> and their feedback is a major contribution so please don't leave them out.
+
+Ah yes, I should’ve mentioned earlier that this is totally a POC.
+There are lots missing, don’t worry! :)
+
+> 2) I would list the contributor types in alphabetical order that way no
+> group feels slighted, you can't help it if Use Cases are last it's just
+> that they start with a U vs Code which is a C.
+
+Sure!
+
+> 3) What if you would like to contribute in multiple ways?
+
+You would come back to the main contributor portal and click on a
+different contribution. How about at the end of each lesson it gives
+them the option to go back to main contributor portal to pick another
+way to contribute?
+
+>
+> Resources are definitely still underdevelopment there but are they meant to
+> be broad applicable to all resources with more specialized one's visible
+> when you click on how you'd like to contribute?
+
+That’s a good question. I think it should probably on top contain the
+more general stuff, then in alphabetical order we can list resources
+for all contribution types? It can be like the “I want to contribute
+to OpenStack by…” top piece, but instead lists resource links to pick
+through based on your contribution type(s). Maybe we keep them as
+separate pages as originally given in the mock up so it’s not overly
+crowded?
+
+Thanks for the help Amy!
+
+—
+Mike Perez
+
+
+From amy at demarco.com  Thu Jun 29 20:19:55 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 29 Jun 2017 15:19:55 -0500
+Subject: [Women-of-openstack] [User-committee] [docs][all][ptl]
+ Contributor Portal and Better New Contributor On-boarding
+In-Reply-To: <CAHcn5b28SmMDmsLrf6HeBvW4akTUP2+Ehw_DSRtyo_x=PxTQeA@mail.gmail.com>
+References: <CAHcn5b3Ob=1Y07R5k_C4LnH81iV6yNe_+Lpb+rna498GAQMgKw@mail.gmail.com>
+ <CAHcn5b13LhpKMCJ2JhiDsrJf7bcdViTS6djiRY_mpXZeFLifdA@mail.gmail.com>
+ <CAFs83QpPVFsgnoo3rpiV4FGxxWT=RSt69OAXinjiwKjqMW9ing@mail.gmail.com>
+ <CAHcn5b28SmMDmsLrf6HeBvW4akTUP2+Ehw_DSRtyo_x=PxTQeA@mail.gmail.com>
+Message-ID: <CAFs83Qo2r8yRwCCL6r+JLLPg3e1Bh5WSKKrn8thz-Piftchx8A@mail.gmail.com>
+
+On Thu, Jun 29, 2017 at 3:12 PM, Mike Perez <thingee at gmail.com> wrote:
+
+> On June 29, 2017 at 13:01:09, Amy Marrich (amy at demarco.com) wrote:
+> > First off it looks really sleek and I love the look! A few thoughts
+> though
+> > and I do realize it's just a mock up:
+> >
+> > 1) We have Sponsor just to pick one but don't have
+> Operators/Administrators
+> > and their feedback is a major contribution so please don't leave them
+> out.
+>
+> Ah yes, I should’ve mentioned earlier that this is totally a POC.
+> There are lots missing, don’t worry! :)
+>
+> > 2) I would list the contributor types in alphabetical order that way no
+> > group feels slighted, you can't help it if Use Cases are last it's just
+> > that they start with a U vs Code which is a C.
+>
+> Sure!
+>
+> > 3) What if you would like to contribute in multiple ways?
+>
+> You would come back to the main contributor portal and click on a
+> different contribution. How about at the end of each lesson it gives
+> them the option to go back to main contributor portal to pick another
+> way to contribute?
+>
+> What if on the bottom it could list out the other ways and they could just
+proceed from there?
+
+
+> >
+> > Resources are definitely still underdevelopment there but are they meant
+> to
+> > be broad applicable to all resources with more specialized one's visible
+> > when you click on how you'd like to contribute?
+>
+> That’s a good question. I think it should probably on top contain the
+> more general stuff, then in alphabetical order we can list resources
+> for all contribution types? It can be like the “I want to contribute
+> to OpenStack by…” top piece, but instead lists resource links to pick
+> through based on your contribution type(s). Maybe we keep them as
+> separate pages as originally given in the mock up so it’s not overly
+> crowded?
+>
+> Thanks for the help Amy!
+>
+> —
+> Mike Perez
+>
+
+Amy (spotz)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170629/efc81f8f/attachment.html>
+

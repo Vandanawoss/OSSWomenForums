@@ -1,0 +1,164 @@
+From gardiner@ics.mq.edu.au  Mon Oct 13 05:14:45 2008
+Return-Path: <gardiner@ics.mq.edu.au>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 940CB750073
+	for <gnome-women-list@gnome.org>; Mon, 13 Oct 2008 05:14:45 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.001
+X-Spam-Level: 
+X-Spam-Status: No, score=0.001 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001]
+X-Amavis-OS-Fingerprint: Linux 2.4-2.6 (up: 4754 hrs), (distance 16, link:
+	ethernet/modem), [137.111.216.103]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id xMVUMF0HLcnA for <gnome-women-list@gnome.org>;
+	Mon, 13 Oct 2008 05:14:35 +0000 (GMT)
+Received: from vacuum1.ics.mq.edu.au (vacuum1.ics.mq.edu.au [137.111.216.103])
+	by menubar.gnome.org (Postfix) with ESMTP id 9554C750050
+	for <gnome-women-list@gnome.org>; Mon, 13 Oct 2008 05:14:32 +0000 (GMT)
+Received: from comp-pc019.ics.mq.edu.au (comp-pc019.ics.mq.edu.au
+	[137.111.238.29])
+	by vacuum1.ics.mq.edu.au (8.13.8+Sun/8.13.8) with ESMTP id
+	m9D5E8o4028822
+	for <gnome-women-list@gnome.org>; Mon, 13 Oct 2008 16:14:25 +1100 (EST)
+Received: by comp-pc019.ics.mq.edu.au (Postfix, from userid 1000)
+	id 2CE7B64084; Mon, 13 Oct 2008 16:14:09 +1100 (EST)
+Date: Mon, 13 Oct 2008 16:14:09 +1100
+From: Mary Gardiner <mary@puzzling.org>
+To: Gnome Women <gnome-women-list@gnome.org>
+Message-ID: <20081013051409.GF8547@comp-pc019.ics.mq.edu.au>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+X-Nihilism: Immortality is all I seek... Give us this day our daily week...
+User-Agent: Mutt/1.5.18 (2008-05-17)
+Subject: [gnome-women] Linuxchix Miniconf @linux.conf.au 2009: Call for
+	Presentations
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.10
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Oct 2008 05:14:45 -0000
+
+LinuxChix mini-conf 2009: Call for Presentations
+
+LinuxChix is pleased to announce that they'll be hosting the LinuxChix
+mini-conf at Linux.conf.au in January, 2009 in Hobart, Tasmania. This
+mini-conf exists to encourage women with an interest in free and open
+source technology to share their ideas, network and improve their
+presentation skills.
+
+We are now calling for presentations by women on both free and open
+source software (FOSS) technical topics and other topics of general
+interest to women involved in open source software or working in IT.
+
+The presentations will likely cover a spectrum ranging from technical
+talks to professional development and community topics. For example, a
+talk on productivity strategies or how to negotiate successfully in
+business might fit in the professional development stream, while a
+community-focused talk might look at how to get involved with mentoring
+groups which go out to schools and evangelise the benefits of getting
+girls into IT, or what kind of steps an open source project can take to
+increase female participation.
+
+(If you'd like an idea of the kind of presentations given at the Chix
+miniconf last year, you can look at the program here:
+http://conf.linux.org.au/programme/tuesday#linuxchix)
+
+We strongly encourage you to submit a paper which falls under the
+following general categories:
+technical
+professional development and productivity
+community
+
+Please stipulate in your proposal the format you're proposing (ie
+presentation, tutorial or workshop). We will look very
+favourably upon proposals which encourage participation and action.
+
+While LCA is a technical conference and clearly Chix attendees as much
+as anyone else will want to talk tech, we're also keen to devise ways to
+involve younger or less experienced LCAers to attend and get involved
+with the the Miniconf. Perhaps this could be a 'how to' session such as
+how to set up an open source blog or how to set up a web server. Or it
+could be a guide to getting involved in an open source project, or how
+to start hacking on something simple.
+
+Our goal for the day is to ensure a good mix of listening and
+speaking/networking time (question time is important! as is
+networking!).
+
+*About the mini-conf*
+
+LCA 2009 will be the third anniversary of the LinuxChix mini-conf. It
+will be held on either Monday the 19th or Tuesday the 20th of January,
+2008 (We don't know which) at the University of Tasmania in Hobart, as
+part of the annual linux.conf.au conference. All attendees of
+linux.conf.au are welcome to attend the women's mini-conf, but are
+reminded that the focus of the miniconf is encouraging female
+participation in open source.
+
+There is no need to be an active member of LinuxChix, as attendees and
+speakers from other women's advocacy and development groups including
+project-specific women's groups and others, are encouraged to
+participate.
+
+The mini-conf has both 50 minute and 25 minute talks slots available. We
+recommend that inexperienced Speakers opt for the shorter slots and plan
+to present for around 15 minutes; the remaining time will be devoted to
+discussion. Experienced speakers may choose to opt for a full 50 minute
+slot, and prepare to talk for 35-40 minutes. We reserve the right to
+request that 35 minute presentations be shortened to 15 minutes to
+enable best use of the time we have. Abstracts for talk proposals should
+be submitted
+
+to: Linuxchix Miniconf Organisers
+at: miniconf-submission@au.linuxchix.org
+by: Monday 20th October 2008 12:00 GMT
+
+All talks should be on Free and Open Source Software related topics.
+
+Please see http://conf.au.linuxchix.org for more information about the
+women's mini-conference and http://conf.au.linuxchix.org/2009-cfp for
+full details of the call for presentations.
+
+We are very keen to include women who may not have attended LCA or given
+a presentation to a tech conference before, so please help us get the
+message out by forwarding this announcement to any women or groups you
+think would be interested. Students, professional IT geeks or hobbyists
+are all equally welcome. :)
+
+About LinuxChix
+
+LinuxChix is a community for women who like Linux and Free Software, and
+for women and men who want to support women in computing. The membership
+ranges from novices to experienced users, and includes professional and
+amateur programmers, system administrators and technical writers.
+
+About linux.conf.au
+
+linux.conf.au (http://linux.conf.au/) is Australia's annual technical
+conference on Free Software. Fun, informal and seriously technical,
+linux.conf.au draws together Free and Open Source Software developers
+from across the world.
+
+About Linux Australia
+
+Linux Australia (http://www.linux.org.au/) is the peak body for Linux
+User Groups (LUGs) around Australia, and as such represents
+approximately 5000 Australian Linux users and developers. Linux
+Australia facilitates the organisation of this international Free
+Software conference in a different Australasian city each year.

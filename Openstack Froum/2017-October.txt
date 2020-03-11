@@ -1,0 +1,1656 @@
+From amy at demarco.com  Sun Oct  1 01:03:45 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Sat, 30 Sep 2017 20:03:45 -0500
+Subject: [Women-of-openstack] Meeting Reminder - 10/2
+Message-ID: <CAFs83QqYQ-Oi9+8z4PMHTeEV3eKXLkeVP8FjctrfJVdOdJse4g@mail.gmail.com>
+
+Sorry for the late notice. We will be meeting tomorrow at our normal time.
+We'll be doing some summit planning.
+
+2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+
+Dial In: 1-203-277-8157 <(203)%20277-8157> or *866-619-0383
+<(866)%20619-0383>  Participant: 7217256**#* Leader 4018#
+
+
+Etherpad: https://etherpad.openstack.org/p/WOS_10_02_17
+
+Hope to see everyone Monday!
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170930/f40b28c3/attachment.html>
+
+From kennelson11 at gmail.com  Mon Oct  2 14:54:10 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Mon, 02 Oct 2017 14:54:10 +0000
+Subject: [Women-of-openstack] Sydney Community Contributor Awards!
+Message-ID: <CAJ6yrQh1rJnAXmbt6iQtvV_Vj6CO3wOzvW7+4kA==2c73cCsrw@mail.gmail.com>
+
+Hello Everyone :)
+
+With about a month left till the Sydney Summit, I'd like to kickoff another
+round of Community Contributor Awards!
+
+If you know someone that is awesome at replying to emails 24 hours a day-
+nominate them! [1]
+
+If you know someone that always puts the new contributors first and
+dedicates time to getting them up to speed- nominate them! [1]
+
+If you know someone that somehow is always able to fix the problem no
+matter how ugly- nominate them! [1]
+
+Basically nominate anyone you think deserves an award :) [1] There are a
+lot of people out there that could use an extra pat on the back and this is
+a good opportunity to get them a little extra recognition.
+
+Please submit your candidates by
+*October 27th. *
+
+Winners will be announced at the feedback session in Sydney.
+
+-Kendall Nelson (diablo_rojo)
+
+[1] https://openstackfoundation.formstack.com/forms/cca_nominations_syd
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171002/ffa1ab03/attachment.html>
+
+From lnamphy at gmail.com  Mon Oct  2 19:05:59 2017
+From: lnamphy at gmail.com (Lisa-Marie Namphy)
+Date: Mon, 2 Oct 2017 12:05:59 -0700
+Subject: [Women-of-openstack] Thanks Amy! & Pike Update overview - more
+	details in today's meeting!
+In-Reply-To: <mailman.1.1506859202.20887.women-of-openstack@lists.openstack.org>
+References: <mailman.1.1506859202.20887.women-of-openstack@lists.openstack.org>
+Message-ID: <72334764-C3F5-4D6E-AD12-5258389C4C7D@gmail.com>
+
+Thanks Amy.
+
+Also, as I mentioned during our last call (I think), as our next meetup I will be giving a brief update of the Pike release and some of the cool technology highlights. So in case you missed the awesome overview that Lauren and Jonathan gave last August, I will be presenting a subset of those slides tomorrow. Unlike our usual meetups, this meeting is ONLINE tomorrow morning (8am PDT) so you can all attend from whatever geo you reside in. The meetup is sponsored by Trilio and later on in the hour they will show a demo of how to properly protect and recover an OpenStack workload, which also may be of interest to you. Specifically what I will talk about during the first 15 minutes of the call is Cinder and Ironic, and the new features enhancing user experience, lifecycle management, scalability, and modularity. Cinder had a TON of cool updates, as I’m sure you know, like moving volumes back and forth within snapshots and taking VMs back to good known states, and increasing the size of cinder volumes without shutting down VMs. And Ironic with rolling upgrade support. Etc. Etc. I think I will also talk about the Python 3.5 update, since that will be interesting to operators (and effect EVERYBODY)!
+
+So - if any of this sounds interesting to you, and you want to take 15 minutes out of your day tomorrow for a brief OpenStack Pike update, you can check out our agenda and info here: https://www.meetup.com/openstack/events/243811056/ <https://www.meetup.com/openstack/events/243811056/>
+
+OR... if you want to hear the longer version of the presentation (30 mins) DIRECTLY from Lauren and Jonathan, you can revisit the OpenStack Marketing Pike Release Call here: https://www.openstack.org/marketing#tab=software <https://www.openstack.org/marketing#tab=software> and click on “Watch” for the Pike presentation. :) (And by the way, great job Jonathan and Lauren! LOTS of good info! :)
+
+I’m happy to also answer questions about this on the WOO call today, if you have any.
+
+Cheers,
+Lisa
+
+
+
+> On Oct 1, 2017, at 5:00 AM, women-of-openstack-request at lists.openstack.org wrote:
+> 
+> Send Women-of-openstack mailing list submissions to
+> 	women-of-openstack at lists.openstack.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> or, via email, send a message with subject or body 'help' to
+> 	women-of-openstack-request at lists.openstack.org
+> 
+> You can reach the person managing the list at
+> 	women-of-openstack-owner at lists.openstack.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of Women-of-openstack digest..."
+> 
+> 
+> Today's Topics:
+> 
+>   1. Meeting Reminder - 10/2 (Amy Marrich)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Sat, 30 Sep 2017 20:03:45 -0500
+> From: Amy Marrich <amy at demarco.com>
+> To: women-of-openstack at lists.openstack.org
+> Subject: [Women-of-openstack] Meeting Reminder - 10/2
+> Message-ID:
+> 	<CAFs83QqYQ-Oi9+8z4PMHTeEV3eKXLkeVP8FjctrfJVdOdJse4g at mail.gmail.com>
+> Content-Type: text/plain; charset="utf-8"
+> 
+> Sorry for the late notice. We will be meeting tomorrow at our normal time.
+> We'll be doing some summit planning.
+> 
+> 2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+> 
+> Dial In: 1-203-277-8157 <(203)%20277-8157> or *866-619-0383
+> <(866)%20619-0383>  Participant: 7217256**#* Leader 4018#
+> 
+> 
+> Etherpad: https://etherpad.openstack.org/p/WOS_10_02_17
+> 
+> Hope to see everyone Monday!
+> 
+> Amy
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170930/f40b28c3/attachment-0001.html>
+> 
+> ------------------------------
+> 
+> Subject: Digest Footer
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> 
+> ------------------------------
+> 
+> End of Women-of-openstack Digest, Vol 36, Issue 1
+> *************************************************
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171002/dc48db28/attachment.html>
+
+From ee550x at att.com  Mon Oct  2 23:05:31 2017
+From: ee550x at att.com (EIDEN, ELISE A)
+Date: Mon, 2 Oct 2017 23:05:31 +0000
+Subject: [Women-of-openstack] Please Respond: Self-Funded Outing Options
+Message-ID: <FC41E5CFBD918B41B1D3C290E1EC98392AE9636A@MOSTLS1MSGUSRFH.ITServices.sbc.com>
+
+Hi all!
+
+If you're interested in attending the WOO Outing in Sydney, please fill out the following Doodle Poll: https://doodle.com/poll/6pehr3k2bdapfak8 so we can pick the date that works best for everyone!
+
+Barring any major development, I think we will be going with the Sydney Observatory Night Tour. Other options are attached, so just let me know if you would prefer something else.
+
+I'll book immediately after our next WOO meeting on 10/16, so please respond ASAP.
+
+Thank you!
+
+Elise Eiden
+Professional System Engineer
+AT&T Integrated Cloud | Call<tel:+12062897389> | Q<qto://talk/ee550x> | Skype<sip:ee550x at att.com> | ee550x at att.com<mailto:ee550x at att.com> | St. Louis, MO
+
+AT&T Proprietary (Internal Use Only) -- Not for use or disclosure outside the AT&T companies except under written agreement
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171002/4d593d0e/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: WOO_Activities.xlsx
+Type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+Size: 13180 bytes
+Desc: WOO_Activities.xlsx
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171002/4d593d0e/attachment-0001.xlsx>
+
+From jessicak at us.ibm.com  Tue Oct  3 02:37:37 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 2 Oct 2017 21:37:37 -0500
+Subject: [Women-of-openstack] Share your ideas for our Sydney WOO Networking
+	lunch table talks
+Message-ID: <OFFBE461CF.075AC7AB-ON002581AE.000DF3FA-862581AE.000E6E6E@notes.na.collabserv.com>
+
+
+
+
+
+
+Please share your idea for suggested table talks at our Women of OpenStack
+Networking lunch on Tuesday, November 7, from 12:20-1:50pm. We'd love to
+hear what YOU want to talk about. I've created this etherpad to track
+ideas: https://etherpad.openstack.org/p/WOS_Syndey_Networking_Lunch
+
+Looking forward to hearing from you!
+
+Jessica Murillo
+Vice President, Open Systems Development
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171002/301f25d7/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 18099767.jpg
+Type: image/jpeg
+Size: 31643 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171002/301f25d7/attachment-0001.jpg>
+
+From aamagasu at cisco.com  Mon Oct  9 18:36:52 2017
+From: aamagasu at cisco.com (Ali Amagasu (aamagasu))
+Date: Mon, 9 Oct 2017 18:36:52 +0000
+Subject: [Women-of-openstack] Anne McCormick on Cloud Unfiltered
+Message-ID: <83044241-921A-4C73-85EE-8FE29581272A@cisco.com>
+
+Hey Women of OpenStack!
+
+I hope it’s OK to share this information in this forum…
+
+One of our own—Anne McCormick of Cisco Systems—appeared on the Cloud Unfiltered podcast about ten days ago. Initially we planned to interview her about her work on Metacloud (an OpenStack-based private cloud solution), but instead wound up talking with her about women in tech.
+
+It was a terrific discussion, where Anne touched on things like the Google Letter, Us vs. Them tribalism, and the microindiginities women deal with daily in the male-dominated tech world.
+
+I really enjoyed it, and I thought some of you might as well. If you’d like to check it out, here are the links:
+
+YouTube: https://youtu.be/RkabqNKUAlE
+iTunes: https://itunes.apple.com/us/podcast/ep22-women-in-tech-with-anne-mccormick/id1215105578?i=1000392888905&mt=2
+
+Happy Monday!
+
+Ali
+[http://www.cisco.com/c/dam/m/en_us/signaturetool/images/banners/standard/08_standard_graphic.png]
+
+
+
+
+Ali Amagasu
+Marketing Manager, Cloud Solutions
+aamagasu at cisco.com<mailto:aamagasu at cisco.com>
+Tel: +650 207 6169
+
+
+
+
+
+
+Cisco Systems, Inc.
+United States
+Cisco.com<http://www.cisco.com/>
+
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif]
+
+Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+Please click here<http://www.cisco.com/c/en/us/about/legal/terms-sale-software-license-agreement/company-registration-information.html> for Company Registration Information.
+
+
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171009/84a203d4/attachment.html>
+
+From amy at demarco.com  Mon Oct  9 22:50:03 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 9 Oct 2017 17:50:03 -0500
+Subject: [Women-of-openstack] Meetings - IRC?
+Message-ID: <CAFs83QrGjr4zGspbRCozmEFU3bvXFLAi8jA+gGwbLAHuadsHRw@mail.gmail.com>
+
+Hi everyone,
+
+At the last meeting we discussed moving the meetings to IRC to be more in
+line with all the other OpenStack groups and keeping with the 4 opens which
+having logs of the meetings available is a part of. We also discussed still
+holding the phone/webex meetings when we had presenters for the visual
+aspects.
+
+I wanted to see what the group's thoughts were on this change. I know we
+had some challenges a few years ago and that's why we went to the phone
+calls. We're willing to help folks get up and running on IRC if that's all
+that's stopping someone from participating.
+
+We hope this change would increase participation and depending on feedback
+we might also look at changing the day or time of the meeting. There was
+some feedback from those on the West Coast that with the next time change
+the meetings would be during lunch.
+
+Thanks,
+
+Amy (spotz)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171009/5a0316da/attachment.html>
+
+From kennelson11 at gmail.com  Mon Oct  9 23:17:15 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Mon, 09 Oct 2017 23:17:15 +0000
+Subject: [Women-of-openstack] Meetings - IRC?
+In-Reply-To: <CAFs83QrGjr4zGspbRCozmEFU3bvXFLAi8jA+gGwbLAHuadsHRw@mail.gmail.com>
+References: <CAFs83QrGjr4zGspbRCozmEFU3bvXFLAi8jA+gGwbLAHuadsHRw@mail.gmail.com>
+Message-ID: <CAJ6yrQjm35bonrAsnLqZmtSgmdcX9wJOCbZ4wFNuRc0D8Q0o9g@mail.gmail.com>
+
+I fully support this move for several reasons:
+
+1. The reasons Amy mentioned- in particular the Four Opens [1]. Currently,
+our meetings aren't logged and there isn't any way to refer back except
+with the etherpads- assuming someone was taking notes which isn't
+guaranteed. Logs would help with planning events and knowing who took what
+action item.
+
+2. Phoneccall conversations are much more difficult for people who's first
+language isn't English. Phone calls are also much more difficult for people
+in timezones other than +/- 5 hours of the timezone the call is being held
+in. More to that point- we should alternate IRC meeting times one more for
+APAC and one more for US/Europe.
+
+3. IRC meetings make it easier for multitasking. Personally, I find myself
+in loud busy places quite often and don't want to join in/ go off mute for
+fear of the loud background noise. I am however always on IRC and its easy
+to respond in a meeting while in a loud airport or on public transit.
+
+4. I don't know about you all, but speaking up on the phone can be hard
+because I always feel like I am talking over someone or interrupting
+someone. It's much easier to send a message in a meeting and not feel like
+I am railroading over someone.
+
+5. In talking to people at the Women of OpenStack Happy Hour at the PTG but
+don't join in the meetings, the most common reason I heard was that they
+hated that the meetings were on the phone and then started to list reasons
+1-4 in various orders. This was in the range of a half a dozen to a dozen
+women that would be involved more if they didn't have to call in.
+
+
+For people that don't know how to get started with IRC there are two
+options:
+1. Webrowser like IRC cloud
+2. IRC Client [2]
+
+If you have any issues, please reply to this thread and I would be happy to
+help- as I am sure many others would be as well :)
+
+If you need some words of encouragement getting started, I wrote this
+SuperUser Article about IRC a while back[3].
+
+Thanks Amy for getting this thread going, you have my +2 :)
+
+-Kendall Nelson (diablo_rojo)
+
+[1] https://governance.openstack.org/tc/reference/opens.html
+[2] https://docs.openstack.org/upstream-training/irc.html
+[3] http://superuser.openstack.org/articles/irc-mishaps/
+
+
+
+On Mon, Oct 9, 2017 at 3:50 PM Amy Marrich <amy at demarco.com> wrote:
+
+> Hi everyone,
+>
+> At the last meeting we discussed moving the meetings to IRC to be more in
+> line with all the other OpenStack groups and keeping with the 4 opens which
+> having logs of the meetings available is a part of. We also discussed still
+> holding the phone/webex meetings when we had presenters for the visual
+> aspects.
+>
+> I wanted to see what the group's thoughts were on this change. I know we
+> had some challenges a few years ago and that's why we went to the phone
+> calls. We're willing to help folks get up and running on IRC if that's all
+> that's stopping someone from participating.
+>
+> We hope this change would increase participation and depending on feedback
+> we might also look at changing the day or time of the meeting. There was
+> some feedback from those on the West Coast that with the next time change
+> the meetings would be during lunch.
+>
+> Thanks,
+>
+> Amy (spotz)
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171009/a40d60fc/attachment-0001.html>
+
+From ekhugenbruch at us.ibm.com  Tue Oct 10 00:43:45 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Mon, 9 Oct 2017 20:43:45 -0400
+Subject: [Women-of-openstack] Meetings - IRC?
+In-Reply-To: <CAJ6yrQjm35bonrAsnLqZmtSgmdcX9wJOCbZ4wFNuRc0D8Q0o9g@mail.gmail.com>
+References: <CAFs83QrGjr4zGspbRCozmEFU3bvXFLAi8jA+gGwbLAHuadsHRw@mail.gmail.com>
+ <CAJ6yrQjm35bonrAsnLqZmtSgmdcX9wJOCbZ4wFNuRc0D8Q0o9g@mail.gmail.com>
+Message-ID: <OF309571D6.CA77F77D-ON002581B5.00031360-852581B5.00040190@notes.na.collabserv.com>
+
+
+I agree!  I like IRC much better than phone meetings.  Thanks!
+Sincerely,
+Emily Kate Hugenbruch
+Memory Management Software Engineer - z/VM
+Dame Emily, Plenipotentiary for Open Source
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	Kendall Nelson <kennelson11 at gmail.com>
+To:	Amy Marrich <amy at demarco.com>,
+            women-of-openstack at lists.openstack.org
+Date:	10/09/2017 07:17 PM
+Subject:	Re: [Women-of-openstack] Meetings - IRC?
+
+
+
+I fully support this move for several reasons:
+
+1. The reasons Amy mentioned- in particular the Four Opens [1]. Currently,
+our meetings aren't logged and there isn't any way to refer back except
+with the etherpads- assuming someone was taking notes which isn't
+guaranteed. Logs would help with planning events and knowing who took what
+action item.
+
+2. Phoneccall conversations are much more difficult for people who's first
+language isn't English. Phone calls are also much more difficult for people
+in timezones other than +/- 5 hours of the timezone the call is being held
+in. More to that point- we should alternate IRC meeting times one more for
+APAC and one more for US/Europe.
+
+3. IRC meetings make it easier for multitasking. Personally, I find myself
+in loud busy places quite often and don't want to join in/ go off mute for
+fear of the loud background noise. I am however always on IRC and its easy
+to respond in a meeting while in a loud airport or on public transit.
+
+4. I don't know about you all, but speaking up on the phone can be hard
+because I always feel like I am talking over someone or interrupting
+someone. It's much easier to send a message in a meeting and not feel like
+I am railroading over someone.
+
+5. In talking to people at the Women of OpenStack Happy Hour at the PTG but
+don't join in the meetings, the most common reason I heard was that they
+hated that the meetings were on the phone and then started to list reasons
+1-4 in various orders. This was in the range of a half a dozen to a dozen
+women that would be involved more if they didn't have to call in.
+
+
+For people that don't know how to get started with IRC there are two
+options:
+1. Webrowser like IRC cloud
+2. IRC Client [2]
+
+If you have any issues, please reply to this thread and I would be happy to
+help- as I am sure many others would be as well :)
+
+If you need some words of encouragement getting started, I wrote this
+SuperUser Article about IRC a while back[3].
+
+Thanks Amy for getting this thread going, you have my +2 :)
+
+-Kendall Nelson (diablo_rojo)
+
+[1] https://governance.openstack.org/tc/reference/opens.html
+[2] https://docs.openstack.org/upstream-training/irc.html
+[3] http://superuser.openstack.org/articles/irc-mishaps/
+
+
+
+On Mon, Oct 9, 2017 at 3:50 PM Amy Marrich <amy at demarco.com> wrote:
+  Hi everyone,
+
+  At the last meeting we discussed moving the meetings to IRC to be more in
+  line with all the other OpenStack groups and keeping with the 4 opens
+  which having logs of the meetings available is a part of. We also
+  discussed still holding the phone/webex meetings when we had presenters
+  for the visual aspects.
+
+  I wanted to see what the group's thoughts were on this change. I know we
+  had some challenges a few years ago and that's why we went to the phone
+  calls. We're willing to help folks get up and running on IRC if that's
+  all that's stopping someone from participating.
+
+  We hope this change would increase participation and depending on
+  feedback we might also look at changing the day or time of the meeting.
+  There was some feedback from those on the West Coast that with the next
+  time change the meetings would be during lunch.
+
+  Thanks,
+
+  Amy (spotz)
+  _______________________________________________
+  Women-of-openstack mailing list
+  Women-of-openstack at lists.openstack.org
+  http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+  _______________________________________________
+  Women-of-openstack mailing list
+  Women-of-openstack at lists.openstack.org
+  https://urldefense.proofpoint.com/v2/url?u=http-3A__lists.openstack.org_cgi-2Dbin_mailman_listinfo_women-2Dof-2Dopenstack&d=DwIGaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Lc0ljvY7G9YHKKp0KXj2oZ0N_ceIHqWPQilorrrjr60&m=v3npcvXpWkJnaMyPTYMz-dPNZC5vnD6vMVZqK6fffNE&s=oP6MQSBEWFosSn1hu9utH6wK2uO5ewpCYTGWIRJYYDQ&e=
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171009/f40a7443/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171009/f40a7443/attachment.gif>
+
+From anne at openstack.org  Tue Oct 10 16:28:25 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Tue, 10 Oct 2017 09:28:25 -0700
+Subject: [Women-of-openstack] Meetings - IRC?
+In-Reply-To: <OF309571D6.CA77F77D-ON002581B5.00031360-852581B5.00040190@notes.na.collabserv.com>
+References: <CAFs83QrGjr4zGspbRCozmEFU3bvXFLAi8jA+gGwbLAHuadsHRw@mail.gmail.com>
+ <CAJ6yrQjm35bonrAsnLqZmtSgmdcX9wJOCbZ4wFNuRc0D8Q0o9g@mail.gmail.com>
+ <OF309571D6.CA77F77D-ON002581B5.00031360-852581B5.00040190@notes.na.collabserv.com>
+Message-ID: <014E3B2C-0329-4B20-B18B-3803034A0ACE@openstack.org>
+
+Completely agree with these notions. For special presentations with slides or video, we can always pop back into WebEx. 
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Oct 9, 2017, at 5:43 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com> wrote:
+> 
+> I agree! I like IRC much better than phone meetings. Thanks!
+> Sincerely,
+> Emily Kate Hugenbruch
+> Memory Management Software Engineer - z/VM
+> Dame Emily, Plenipotentiary for Open Source
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+> 
+> <graycol.gif>Kendall Nelson ---10/09/2017 07:17:46 PM---I fully support this move for several reasons: 1. The reasons Amy mentioned- in particular the Four
+> 
+> From:  Kendall Nelson <kennelson11 at gmail.com <mailto:kennelson11 at gmail.com>>
+> To:  Amy Marrich <amy at demarco.com <mailto:amy at demarco.com>>, women-of-openstack at lists.openstack.org <mailto:women-of-openstack at lists.openstack.org>
+> Date:  10/09/2017 07:17 PM
+> Subject:  Re: [Women-of-openstack] Meetings - IRC?
+> 
+> 
+> 
+> 
+> I fully support this move for several reasons: 
+> 
+> 1. The reasons Amy mentioned- in particular the Four Opens [1]. Currently, our meetings aren't logged and there isn't any way to refer back except with the etherpads- assuming someone was taking notes which isn't guaranteed. Logs would help with planning events and knowing who took what action item. 
+> 
+> 2. Phoneccall conversations are much more difficult for people who's first language isn't English. Phone calls are also much more difficult for people in timezones other than +/- 5 hours of the timezone the call is being held in. More to that point- we should alternate IRC meeting times one more for APAC and one more for US/Europe.
+> 
+> 3. IRC meetings make it easier for multitasking. Personally, I find myself in loud busy places quite often and don't want to join in/ go off mute for fear of the loud background noise. I am however always on IRC and its easy to respond in a meeting while in a loud airport or on public transit.
+> 
+> 4. I don't know about you all, but speaking up on the phone can be hard because I always feel like I am talking over someone or interrupting someone. It's much easier to send a message in a meeting and not feel like I am railroading over someone. 
+> 
+> 5. In talking to people at the Women of OpenStack Happy Hour at the PTG but don't join in the meetings, the most common reason I heard was that they hated that the meetings were on the phone and then started to list reasons 1-4 in various orders. This was in the range of a half a dozen to a dozen women that would be involved more if they didn't have to call in. 
+> 
+> 
+> For people that don't know how to get started with IRC there are two options: 
+> 1. Webrowser like IRC cloud
+> 2. IRC Client [2]
+> 
+> If you have any issues, please reply to this thread and I would be happy to help- as I am sure many others would be as well :)
+> 
+> If you need some words of encouragement getting started, I wrote this SuperUser Article about IRC a while back[3].
+> 
+> Thanks Amy for getting this thread going, you have my +2 :) 
+> 
+> -Kendall Nelson (diablo_rojo)
+> 
+> [1] https://governance.openstack.org/tc/reference/opens.html <https://urldefense.proofpoint.com/v2/url?u=https-3A__governance.openstack.org_tc_reference_opens.html&d=DwMFaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Lc0ljvY7G9YHKKp0KXj2oZ0N_ceIHqWPQilorrrjr60&m=v3npcvXpWkJnaMyPTYMz-dPNZC5vnD6vMVZqK6fffNE&s=SbEMFMP1hBMrRihF4Zc7K3o9bE2ADIi6SIYqIkp0JBg&e=> 
+> [2] https://docs.openstack.org/upstream-training/irc.html <https://urldefense.proofpoint.com/v2/url?u=https-3A__docs.openstack.org_upstream-2Dtraining_irc.html&d=DwMFaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Lc0ljvY7G9YHKKp0KXj2oZ0N_ceIHqWPQilorrrjr60&m=v3npcvXpWkJnaMyPTYMz-dPNZC5vnD6vMVZqK6fffNE&s=I0vcOghyJOkJRiNfm20ywFQWZZi7MoPisEjFXrcwYBs&e=> 
+> [3] http://superuser.openstack.org/articles/irc-mishaps/ <https://urldefense.proofpoint.com/v2/url?u=http-3A__superuser.openstack.org_articles_irc-2Dmishaps_&d=DwMFaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Lc0ljvY7G9YHKKp0KXj2oZ0N_ceIHqWPQilorrrjr60&m=v3npcvXpWkJnaMyPTYMz-dPNZC5vnD6vMVZqK6fffNE&s=wxlVOh-hnbCPSedDrJjZFilFAZ8U4l4VmdLNT8K4-_A&e=> 
+> 
+> 
+> 
+> On Mon, Oct 9, 2017 at 3:50 PM Amy Marrich <amy at demarco.com <mailto:amy at demarco.com>> wrote:
+> Hi everyone,
+> 
+> At the last meeting we discussed moving the meetings to IRC to be more in line with all the other OpenStack groups and keeping with the 4 opens which having logs of the meetings available is a part of. We also discussed still holding the phone/webex meetings when we had presenters for the visual aspects.
+> 
+> I wanted to see what the group's thoughts were on this change. I know we had some challenges a few years ago and that's why we went to the phone calls. We're willing to help folks get up and running on IRC if that's all that's stopping someone from participating.
+> 
+> We hope this change would increase participation and depending on feedback we might also look at changing the day or time of the meeting. There was some feedback from those on the West Coast that with the next time change the meetings would be during lunch.
+> 
+> Thanks,
+> 
+> Amy (spotz)
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <https://urldefense.proofpoint.com/v2/url?u=http-3A__lists.openstack.org_cgi-2Dbin_mailman_listinfo_women-2Dof-2Dopenstack&d=DwMFaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Lc0ljvY7G9YHKKp0KXj2oZ0N_ceIHqWPQilorrrjr60&m=v3npcvXpWkJnaMyPTYMz-dPNZC5vnD6vMVZqK6fffNE&s=oP6MQSBEWFosSn1hu9utH6wK2uO5ewpCYTGWIRJYYDQ&e=>_______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> https://urldefense.proofpoint.com/v2/url?u=http-3A__lists.openstack.org_cgi-2Dbin_mailman_listinfo_women-2Dof-2Dopenstack&d=DwIGaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Lc0ljvY7G9YHKKp0KXj2oZ0N_ceIHqWPQilorrrjr60&m=v3npcvXpWkJnaMyPTYMz-dPNZC5vnD6vMVZqK6fffNE&s=oP6MQSBEWFosSn1hu9utH6wK2uO5ewpCYTGWIRJYYDQ&e= <https://urldefense.proofpoint.com/v2/url?u=http-3A__lists.openstack.org_cgi-2Dbin_mailman_listinfo_women-2Dof-2Dopenstack&d=DwIGaQ&c=jf_iaSHvJObTbx-siA1ZOg&r=Lc0ljvY7G9YHKKp0KXj2oZ0N_ceIHqWPQilorrrjr60&m=v3npcvXpWkJnaMyPTYMz-dPNZC5vnD6vMVZqK6fffNE&s=oP6MQSBEWFosSn1hu9utH6wK2uO5ewpCYTGWIRJYYDQ&e=>
+> 
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171010/81ab7091/attachment-0001.html>
+
+From ekhugenbruch at us.ibm.com  Thu Oct 12 02:31:55 2017
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Wed, 11 Oct 2017 22:31:55 -0400
+Subject: [Women-of-openstack] [summit] Call for mentors (and mentees) for
+	Speed Mentoring in Sydney
+Message-ID: <OF1DDDD7AD.F07436BD-ON002581B6.00735BB8-852581B7.000DE8BA@notes.na.collabserv.com>
+
+
+Hello,
+We are so pleased to again offer Speed Mentoring on the first day of the
+Sydney summit. We're looking for mentors of all types who can join us for
+lunch. Please consider taking a few hours to help out and give advice to
+people new and not so new to the community.
+
+
+            Speed Mentoring Lunch - Monday November 8, 12:15-1:30PM
+            We're looking for 10-20 mentors, women and men alike, who are
+            interested in offering either technical, career, or (new for
+            this summit!!) community advice.
+
+
+
+
+
+            What’s Required?
+
+
+            You'll meet with small groups of mentees in 10-minute intervals
+            and answer their questions about how to grow in the community.
+            It's a fast-paced event and a great way to meet new people,
+            introduce them to the summit, and welcome them into the
+            OpenStack community. Mentors will be provided with mentee
+            questions in advance and should plan to arrive at noon.  Lunch
+            will be provided!
+
+
+            We will contact mentors ahead of time and hold a short call to
+            go over logistics of the event shortly before the summit.
+
+
+            Sign up here -
+            https://www.openstack.org/summit/sydney-2017/summit-schedule/events/20369/speed-mentoring-lunch-hosted-by-the-women-of-openstack
+
+
+
+
+
+
+            We also have room for plenty of mentees, so please encourage
+            anyone new (or not so new) to the community to sign up!
+
+
+
+            Thanks in advance!
+Sincerely,
+Emily Kate Hugenbruch
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171011/815936a6/attachment.html>
+
+From amy at demarco.com  Thu Oct 12 23:17:42 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 12 Oct 2017 18:17:42 -0500
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn
+Message-ID: <CAFs83QpdyiXyiKZqndVtMC69CdS4W_h+MyYXN=yDgf2np7C52A@mail.gmail.com>
+
+Hey all!
+
+The Git and Gerrit Lunch and Learn is back on the schedule for Wednesday
+during the lunch break. If you will be in Sydney and are available to come
+help it would be much appreciated. All room helpers (and their companies)
+will get some credit on one of the slides if you need a little proof for
+your bosses.
+
+Let me know if you can help!
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171012/796c875e/attachment.html>
+
+From sean.mcginnis at gmx.com  Fri Oct 13 14:39:34 2017
+From: sean.mcginnis at gmx.com (Sean McGinnis)
+Date: Fri, 13 Oct 2017 09:39:34 -0500
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn
+In-Reply-To: <CAFs83QpdyiXyiKZqndVtMC69CdS4W_h+MyYXN=yDgf2np7C52A@mail.gmail.com>
+References: <CAFs83QpdyiXyiKZqndVtMC69CdS4W_h+MyYXN=yDgf2np7C52A@mail.gmail.com>
+Message-ID: <20171013143933.GA12646@sm-xps>
+
+On Thu, Oct 12, 2017 at 06:17:42PM -0500, Amy Marrich wrote:
+> Hey all!
+> 
+> The Git and Gerrit Lunch and Learn is back on the schedule for Wednesday
+> during the lunch break. If you will be in Sydney and are available to come
+> help it would be much appreciated. All room helpers (and their companies)
+> will get some credit on one of the slides if you need a little proof for
+> your bosses.
+> 
+> Let me know if you can help!
+> 
+> Thanks,
+> 
+> Amy
+
+Hey Amy, I'm hoping to be able to help out if I can.
+
+Sean
+
+
+From lnamphy at gmail.com  Sat Oct 14 01:02:36 2017
+From: lnamphy at gmail.com (Lisa-Marie Namphy)
+Date: Fri, 13 Oct 2017 18:02:36 -0700
+Subject: [Women-of-openstack] Meeting Reminder 10/16
+Message-ID: <B3440464-A725-4096-9E92-9C13E033AFA4@gmail.com>
+
+Hello Stackers!
+
+Sorry for the late notice. We will be meeting Monday at our normal time. We'll be doing some summit planning, and recap some of the open action items like moving the meeting to IRC, OpenStack Days, Mentoring, etc.
+
+Meeting time: 
+2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+
+Dial In: 1-203-277-8157 <(203)%20277-8157> or *866-619-0383
+<(866)%20619-0383>  Participant: 7217256**#* Leader 4018#
+
+
+See full agenda (and add to it) here:
+Etherpad: https://etherpad.openstack.org/p/WOS_10_16_17 <https://etherpad.openstack.org/p/WOS_10_16_17>
+
+Unfortunately I have a time conflict so I’ve added my input on the Etherpad already and will continue to follow along after the meeting. 
+
+Amy M. will step (back) in to run the meeting during the hour. Hope everyone can make it on Monday for our second-to-last meeting before Summit! :)
+
+Cheers,
+-Lisa
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171013/ffc2a82c/attachment.html>
+
+From amy at demarco.com  Sun Oct 15 19:50:29 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Sun, 15 Oct 2017 14:50:29 -0500
+Subject: [Women-of-openstack] Meeting Move to IRC
+Message-ID: <CAFs83QpZAhxnu6CdFE7gxFbvo5-0ovQLMv0RW9e=V70X=FJeOA@mail.gmail.com>
+
+Hey All,
+
+I've added moving the meetings to IRC to the agenda. As of today the only
+feedback from this list has been positive towards moving. Please respond to
+this list or attend tomorrows meeting if you would like to further the
+discussion.
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171015/de2b03c9/attachment.html>
+
+From jessicak at us.ibm.com  Sat Oct 14 19:41:39 2017
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Sat, 14 Oct 2017 14:41:39 -0500
+Subject: [Women-of-openstack] Fw: Share your ideas for our Sydney WOO
+	Networking lunch table talks
+Message-ID: <OF39D92081.1CA47191-ON002581B9.006C14D6-862581B9.006C2EF7@notes.na.collabserv.com>
+
+
+
+Please continue to share your ideas for our WOO Sydney networking lunch
+table talks here:
+https://etherpad.openstack.org/p/WOS_Syndey_Networking_Lunch
+
+Jessica Murillo
+Vice President, Open Systems Development
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+----- Forwarded by Jessica Murillo/Austin/IBM on 10/14/2017 02:40 PM -----
+
+From:	Jessica Murillo/Austin/IBM
+To:	women-of-openstack at lists.openstack.org
+Cc:	Jessica Murillo/Austin/IBM at IBMUS
+Date:	10/02/2017 09:37 PM
+Subject:	Share your ideas for our Sydney WOO Networking lunch table
+            talks
+
+
+
+
+
+Please share your idea for suggested table talks at our Women of OpenStack
+Networking lunch on Tuesday, November 7, from 12:20-1:50pm. We'd love to
+hear what YOU want to talk about. I've created this etherpad to track
+ideas: https://etherpad.openstack.org/p/WOS_Syndey_Networking_Lunch
+
+Looking forward to hearing from you!
+
+Jessica Murillo
+Vice President, Open Systems Development
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171014/cc014243/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 19782538.jpg
+Type: image/jpeg
+Size: 31643 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171014/cc014243/attachment-0001.jpg>
+
+From anne at openstack.org  Mon Oct 16 17:55:40 2017
+From: anne at openstack.org (Anne Bertucio)
+Date: Mon, 16 Oct 2017 10:55:40 -0700
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn
+In-Reply-To: <20171013143933.GA12646@sm-xps>
+References: <CAFs83QpdyiXyiKZqndVtMC69CdS4W_h+MyYXN=yDgf2np7C52A@mail.gmail.com>
+ <20171013143933.GA12646@sm-xps>
+Message-ID: <C0F56A06-7DD5-415E-B3B1-97DB9D7364A1@openstack.org>
+
+Hey Amy,
+
+Is there a place helpers can contact you? We could put the call out on social media, just don’t want to blast your email :) 
+
+
+Anne Bertucio
+Marketing and Certification, OpenStack Foundation
+anne at openstack.org | 206-992-7961
+
+
+
+
+> On Oct 13, 2017, at 7:39 AM, Sean McGinnis <sean.mcginnis at gmx.com> wrote:
+> 
+> On Thu, Oct 12, 2017 at 06:17:42PM -0500, Amy Marrich wrote:
+>> Hey all!
+>> 
+>> The Git and Gerrit Lunch and Learn is back on the schedule for Wednesday
+>> during the lunch break. If you will be in Sydney and are available to come
+>> help it would be much appreciated. All room helpers (and their companies)
+>> will get some credit on one of the slides if you need a little proof for
+>> your bosses.
+>> 
+>> Let me know if you can help!
+>> 
+>> Thanks,
+>> 
+>> Amy
+> 
+> Hey Amy, I'm hoping to be able to help out if I can.
+> 
+> Sean
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171016/7c751ba1/attachment.html>
+
+From amy at demarco.com  Mon Oct 16 17:57:57 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 16 Oct 2017 12:57:57 -0500
+Subject: [Women-of-openstack] Git and Gerrit Lunch and Learn
+In-Reply-To: <C0F56A06-7DD5-415E-B3B1-97DB9D7364A1@openstack.org>
+References: <CAFs83QpdyiXyiKZqndVtMC69CdS4W_h+MyYXN=yDgf2np7C52A@mail.gmail.com>
+ <20171013143933.GA12646@sm-xps>
+ <C0F56A06-7DD5-415E-B3B1-97DB9D7364A1@openstack.org>
+Message-ID: <CAFs83QrP=atWRm4+g_wOcfS9n=qjh6dvfVGHU0bAnYBa4Wp+kA@mail.gmail.com>
+
+If you're tweeting you can just put @spotzz_
+
+On Mon, Oct 16, 2017 at 12:55 PM, Anne Bertucio <anne at openstack.org> wrote:
+
+> Hey Amy,
+>
+> Is there a place helpers can contact you? We could put the call out on
+> social media, just don’t want to blast your email :)
+>
+>
+> Anne Bertucio
+> Marketing and Certification, OpenStack Foundation
+> anne at openstack.org | 206-992-7961 <(206)%20992-7961>
+>
+>
+>
+>
+> On Oct 13, 2017, at 7:39 AM, Sean McGinnis <sean.mcginnis at gmx.com> wrote:
+>
+> On Thu, Oct 12, 2017 at 06:17:42PM -0500, Amy Marrich wrote:
+>
+> Hey all!
+>
+> The Git and Gerrit Lunch and Learn is back on the schedule for Wednesday
+> during the lunch break. If you will be in Sydney and are available to come
+> help it would be much appreciated. All room helpers (and their companies)
+> will get some credit on one of the slides if you need a little proof for
+> your bosses.
+>
+> Let me know if you can help!
+>
+> Thanks,
+>
+> Amy
+>
+>
+> Hey Amy, I'm hoping to be able to help out if I can.
+>
+> Sean
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171016/341e08de/attachment.html>
+
+From ee550x at att.com  Thu Oct 19 14:44:50 2017
+From: ee550x at att.com (EIDEN, ELISE A)
+Date: Thu, 19 Oct 2017 14:44:50 +0000
+Subject: [Women-of-openstack] Sydney: Monday Night Ghost Tour
+Message-ID: <FC41E5CFBD918B41B1D3C290E1EC98393D3BEF29@MOSTLS1MSGUSRFH.ITServices.sbc.com>
+
+Hi all!
+
+I'll be booking our self-funded Ghost Tour<http://www.ghosttours.com.au/> in Sydney this weekend, which will be taking place the Monday of the Summit (11/6).
+
+If you would like to attend, please send $38 USD to paypal.me/EEiden by COB Friday.
+
+Thanks! If you require another form of payment, please reach out and it can be arranged.
+
+Elise Eiden
+Professional System Engineer
+AT&T Integrated Cloud | Call<tel:+12062897389> | Q<qto://talk/ee550x> | Skype<sip:ee550x at att.com> | ee550x at att.com<mailto:ee550x at att.com> | St. Louis, MO
+
+AT&T Proprietary (Internal Use Only) -- Not for use or disclosure outside the AT&T companies except under written agreement
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171019/391083c0/attachment.html>
+
+From amy at demarco.com  Thu Oct 19 14:49:45 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 19 Oct 2017 09:49:45 -0500
+Subject: [Women-of-openstack] WoO Related talks/events in Sydney
+Message-ID: <CAFs83QqKHQBh2hEuC7YxW6oQPKFVhguXXdhoS2f5o1f8ZbS6Ug@mail.gmail.com>
+
+Hey everyone,
+
+Started an etherpad at https://etherpad.openstack.org/p/WOO_sydney_events
+for WoO related talks and events, please add your talks or others you know
+of. I'm thinking talks but not forum or on-boarding rooms but if the group
+feels we should spread the word on those too they can definitely be
+included.
+
+Thanks,
+
+Amy (spotz)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171019/7c4bb640/attachment.html>
+
+From amy at demarco.com  Thu Oct 19 14:52:14 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 19 Oct 2017 09:52:14 -0500
+Subject: [Women-of-openstack] Sydney: Monday Night Ghost Tour
+In-Reply-To: <FC41E5CFBD918B41B1D3C290E1EC98393D3BEF29@MOSTLS1MSGUSRFH.ITServices.sbc.com>
+References: <FC41E5CFBD918B41B1D3C290E1EC98393D3BEF29@MOSTLS1MSGUSRFH.ITServices.sbc.com>
+Message-ID: <CAFs83QrOe=EpbX20c4Npq0PSz3Qp4asBcxLijdvUyAYwo6WQKQ@mail.gmail.com>
+
+Elise,
+
+Do we want to share with the Upstream group and do a joint outing again? I
+know we kind of discussed doing that in the meeting.
+
+Amy (spotz)
+
+On Thu, Oct 19, 2017 at 9:44 AM, EIDEN, ELISE A <ee550x at att.com> wrote:
+
+> Hi all!
+>
+>
+>
+> I’ll be booking our self-funded Ghost Tour <http://www.ghosttours.com.au/>
+> in Sydney this weekend, which will be taking place the Monday of the Summit
+> (11/6).
+>
+>
+>
+> If you would like to attend, please send $38 USD to paypal.me/EEiden by
+> COB Friday.
+>
+>
+>
+> Thanks! If you require another form of payment, please reach out and it
+> can be arranged.
+>
+>
+>
+> *Elise Eiden *
+>
+> Professional System Engineer
+> AT&T Integrated Cloud | *Call <+12062897389>* | *Q* | *Skype* |
+> ee550x at att.com | St. Louis, MO
+>
+>
+>
+> *AT&T Proprietary (Internal Use Only) -- **Not for use or disclosure
+> outside the AT&T companies except under written agreement*
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171019/cce88590/attachment.html>
+
+From ee550x at att.com  Thu Oct 19 14:53:17 2017
+From: ee550x at att.com (EIDEN, ELISE A)
+Date: Thu, 19 Oct 2017 14:53:17 +0000
+Subject: [Women-of-openstack] Sydney: Monday Night Ghost Tour
+In-Reply-To: <CAFs83QrOe=EpbX20c4Npq0PSz3Qp4asBcxLijdvUyAYwo6WQKQ@mail.gmail.com>
+References: <FC41E5CFBD918B41B1D3C290E1EC98393D3BEF29@MOSTLS1MSGUSRFH.ITServices.sbc.com>
+ <CAFs83QrOe=EpbX20c4Npq0PSz3Qp4asBcxLijdvUyAYwo6WQKQ@mail.gmail.com>
+Message-ID: <FC41E5CFBD918B41B1D3C290E1EC98393D3BEF65@MOSTLS1MSGUSRFH.ITServices.sbc.com>
+
+Yes, that would be wonderful! What’s the best way to reach out to them?
+
+Elise
+
+From: Amy Marrich [mailto:amy at demarco.com]
+Sent: Thursday, October 19, 2017 9:52 AM
+To: EIDEN, ELISE A <ee550x at att.com>
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Sydney: Monday Night Ghost Tour
+
+Elise,
+
+Do we want to share with the Upstream group and do a joint outing again? I know we kind of discussed doing that in the meeting.
+
+Amy (spotz)
+
+On Thu, Oct 19, 2017 at 9:44 AM, EIDEN, ELISE A <ee550x at att.com<mailto:ee550x at att.com>> wrote:
+Hi all!
+
+I’ll be booking our self-funded Ghost Tour<https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ghosttours.com.au_&d=DwMFaQ&c=LFYZ-o9_HUMeMTSQicvjIg&r=bhOvl0zLU7OHjt_LLXl8MA&m=7mP3vXmuKgXZwo2-k5sY8MjPCtZSbEuzhkb0NpSb1Gw&s=pNZtqBJn9VO7f43eA4o1A9jTue19oT8hj2DlNCIm_d0&e=> in Sydney this weekend, which will be taking place the Monday of the Summit (11/6).
+
+If you would like to attend, please send $38 USD to paypal.me/EEiden<https://urldefense.proofpoint.com/v2/url?u=http-3A__paypal.me_EEiden&d=DwMFaQ&c=LFYZ-o9_HUMeMTSQicvjIg&r=bhOvl0zLU7OHjt_LLXl8MA&m=7mP3vXmuKgXZwo2-k5sY8MjPCtZSbEuzhkb0NpSb1Gw&s=Bqx2P4zWQuh2rJ-sA2-KLjNfnchN2HX2vHv8suTqJvs&e=> by COB Friday.
+
+Thanks! If you require another form of payment, please reach out and it can be arranged.
+
+Elise Eiden
+Professional System Engineer
+AT&T Integrated Cloud | Call<tel:+12062897389> | Q | Skype | ee550x at att.com<mailto:ee550x at att.com> | St. Louis, MO
+
+AT&T Proprietary (Internal Use Only) -- Not for use or disclosure outside the AT&T companies except under written agreement
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack<https://urldefense.proofpoint.com/v2/url?u=http-3A__lists.openstack.org_cgi-2Dbin_mailman_listinfo_women-2Dof-2Dopenstack&d=DwMFaQ&c=LFYZ-o9_HUMeMTSQicvjIg&r=bhOvl0zLU7OHjt_LLXl8MA&m=7mP3vXmuKgXZwo2-k5sY8MjPCtZSbEuzhkb0NpSb1Gw&s=oLyJts_3r-5ZKG7Fn-f9p3pnx7lB-kUKu-brX79oeBg&e=>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171019/739d23cf/attachment-0001.html>
+
+From amy at demarco.com  Thu Oct 19 15:02:28 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Thu, 19 Oct 2017 10:02:28 -0500
+Subject: [Women-of-openstack] Sydney: Monday Night Ghost Tour
+In-Reply-To: <FC41E5CFBD918B41B1D3C290E1EC98393D3BEF65@MOSTLS1MSGUSRFH.ITServices.sbc.com>
+References: <FC41E5CFBD918B41B1D3C290E1EC98393D3BEF29@MOSTLS1MSGUSRFH.ITServices.sbc.com>
+ <CAFs83QrOe=EpbX20c4Npq0PSz3Qp4asBcxLijdvUyAYwo6WQKQ@mail.gmail.com>
+ <FC41E5CFBD918B41B1D3C290E1EC98393D3BEF65@MOSTLS1MSGUSRFH.ITServices.sbc.com>
+Message-ID: <CAFs83QpTbgB3k+3kH85dWnNW5EsNNo2RVPyQgwrsjnLde_r6Eg@mail.gmail.com>
+
+I'll forward to the users list, that's our shared mailing list.
+
+Amy (spotz)
+
+On Thu, Oct 19, 2017 at 9:53 AM, EIDEN, ELISE A <ee550x at att.com> wrote:
+
+> Yes, that would be wonderful! What’s the best way to reach out to them?
+>
+> Elise
+>
+>
+>
+> *From:* Amy Marrich [mailto:amy at demarco.com]
+> *Sent:* Thursday, October 19, 2017 9:52 AM
+> *To:* EIDEN, ELISE A <ee550x at att.com>
+> *Cc:* women-of-openstack at lists.openstack.org
+> *Subject:* Re: [Women-of-openstack] Sydney: Monday Night Ghost Tour
+>
+>
+>
+> Elise,
+>
+>
+>
+> Do we want to share with the Upstream group and do a joint outing again? I
+> know we kind of discussed doing that in the meeting.
+>
+>
+>
+> Amy (spotz)
+>
+>
+>
+> On Thu, Oct 19, 2017 at 9:44 AM, EIDEN, ELISE A <ee550x at att.com> wrote:
+>
+> Hi all!
+>
+>
+>
+> I’ll be booking our self-funded Ghost Tour
+> <https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ghosttours.com.au_&d=DwMFaQ&c=LFYZ-o9_HUMeMTSQicvjIg&r=bhOvl0zLU7OHjt_LLXl8MA&m=7mP3vXmuKgXZwo2-k5sY8MjPCtZSbEuzhkb0NpSb1Gw&s=pNZtqBJn9VO7f43eA4o1A9jTue19oT8hj2DlNCIm_d0&e=>
+> in Sydney this weekend, which will be taking place the Monday of the Summit
+> (11/6).
+>
+>
+>
+> If you would like to attend, please send $38 USD to paypal.me/EEiden
+> <https://urldefense.proofpoint.com/v2/url?u=http-3A__paypal.me_EEiden&d=DwMFaQ&c=LFYZ-o9_HUMeMTSQicvjIg&r=bhOvl0zLU7OHjt_LLXl8MA&m=7mP3vXmuKgXZwo2-k5sY8MjPCtZSbEuzhkb0NpSb1Gw&s=Bqx2P4zWQuh2rJ-sA2-KLjNfnchN2HX2vHv8suTqJvs&e=> by
+> COB Friday.
+>
+>
+>
+> Thanks! If you require another form of payment, please reach out and it
+> can be arranged.
+>
+>
+>
+> *Elise Eiden *
+>
+> Professional System Engineer
+> AT&T Integrated Cloud | *Call <+12062897389>* | *Q* | *Skype* |
+> ee550x at att.com | St. Louis, MO
+>
+>
+>
+> *AT&T Proprietary (Internal Use Only) -- **Not for use or disclosure
+> outside the AT&T companies except under written agreement*
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> <https://urldefense.proofpoint.com/v2/url?u=http-3A__lists.openstack.org_cgi-2Dbin_mailman_listinfo_women-2Dof-2Dopenstack&d=DwMFaQ&c=LFYZ-o9_HUMeMTSQicvjIg&r=bhOvl0zLU7OHjt_LLXl8MA&m=7mP3vXmuKgXZwo2-k5sY8MjPCtZSbEuzhkb0NpSb1Gw&s=oLyJts_3r-5ZKG7Fn-f9p3pnx7lB-kUKu-brX79oeBg&e=>
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171019/27afdd96/attachment.html>
+
+From amy at demarco.com  Fri Oct 20 20:48:36 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Fri, 20 Oct 2017 15:48:36 -0500
+Subject: [Women-of-openstack] Group Me for Summit
+Message-ID: <CAFs83Qpg9RHt-egCuA=p-q=L7Nm_YHGzAH3uDB-0=3OVk3nXDw@mail.gmail.com>
+
+Hey all,
+
+I went ahead and created a group me for the Sydney Summit and added a few
+people who I knew were going to be there and had in my list. Please use the
+following link to add yourself and if you know someone going who may not be
+on this list please share the link with them.
+
+https://app.groupme.com/join_group/35490497/36IFPL
+
+Thanks and looking forward to seeing everyone,
+
+Amy (spotz)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171020/945b27d5/attachment.html>
+
+From kennelson11 at gmail.com  Wed Oct 25 20:32:37 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Wed, 25 Oct 2017 20:32:37 +0000
+Subject: [Women-of-openstack] Fw: Share your ideas for our Sydney WOO
+ Networking lunch table talks
+In-Reply-To: <OF39D92081.1CA47191-ON002581B9.006C14D6-862581B9.006C2EF7@notes.na.collabserv.com>
+References: <OF39D92081.1CA47191-ON002581B9.006C14D6-862581B9.006C2EF7@notes.na.collabserv.com>
+Message-ID: <CAJ6yrQjuygANO6DnYx4HXcw-m8eLa3S1kv1fjPsU-M=iSR+K5g@mail.gmail.com>
+
+I signed up for one of the moderator spots.
+
+Looks like we need more volunteers to sign up to be moderators and could
+also use a few more ideas for discussion at the tables.
+
+Looking forward to it!
+
+-Kendall (diablo_rojo)
+
+On Mon, Oct 16, 2017 at 8:46 AM Jessica Murillo <jessicak at us.ibm.com> wrote:
+
+> Please continue to share your ideas for our WOO Sydney networking lunch
+> table talks here:
+> https://etherpad.openstack.org/p/WOS_Syndey_Networking_Lunch
+>
+> Jessica Murillo
+> Vice President, Open Systems Development
+> IBM Systems
+> jessicak at us.ibm.com
+> Mobile Phone: 512-970-8466 <(512)%20970-8466>
+> ----- Forwarded by Jessica Murillo/Austin/IBM on 10/14/2017 02:40 PM -----
+>
+> From: Jessica Murillo/Austin/IBM
+> To: women-of-openstack at lists.openstack.org
+> Cc: Jessica Murillo/Austin/IBM at IBMUS
+> Date: 10/02/2017 09:37 PM
+> Subject: Share your ideas for our Sydney WOO Networking lunch table talks
+> ------------------------------
+>
+>
+>
+>
+> Please share your idea for suggested table talks at our Women of OpenStack
+> Networking lunch on Tuesday, November 7, from 12:20-1:50pm. We'd love to
+> hear what YOU want to talk about. I've created this etherpad to track
+> ideas: https://etherpad.openstack.org/p/WOS_Syndey_Networking_Lunch
+>
+> Looking forward to hearing from you!
+>
+> Jessica Murillo
+> Vice President, Open Systems Development
+> IBM Systems
+> jessicak at us.ibm.com
+> Mobile Phone: 512-970-8466 <(512)%20970-8466>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171025/504bbfb8/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 19782538.jpg
+Type: image/jpeg
+Size: 31643 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171025/504bbfb8/attachment-0002.jpg>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 19782538.jpg
+Type: image/jpeg
+Size: 31643 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171025/504bbfb8/attachment-0003.jpg>
+
+From lnamphy at gmail.com  Wed Oct 25 22:37:01 2017
+From: lnamphy at gmail.com (Lisa-Marie Namphy)
+Date: Wed, 25 Oct 2017 15:37:01 -0700
+Subject: [Women-of-openstack] WOO Networking Lunch
+In-Reply-To: <mailman.186749.1508966788.28252.women-of-openstack@lists.openstack.org>
+References: <mailman.186749.1508966788.28252.women-of-openstack@lists.openstack.org>
+Message-ID: <1BC734E1-810C-43AC-A46F-7A21153C1C78@gmail.com>
+
+Thanks Kendall and Jessica.  I’m happy to help. I’ll sign up for one of the moderator spots too. Let me know what else you need. (We can discuss on the call Monday also. I’ll put it on the agenda! :)
+
+Cheers,
+L
+
+> On Oct 25, 2017, at 2:26 PM, women-of-openstack-request at lists.openstack.org wrote:
+> 
+> Send Women-of-openstack mailing list submissions to
+> 	women-of-openstack at lists.openstack.org
+> 
+> To subscribe or unsubscribe via the World Wide Web, visit
+> 	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> or, via email, send a message with subject or body 'help' to
+> 	women-of-openstack-request at lists.openstack.org
+> 
+> You can reach the person managing the list at
+> 	women-of-openstack-owner at lists.openstack.org
+> 
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of Women-of-openstack digest..."
+> 
+> 
+> Today's Topics:
+> 
+>   1. Re: Fw: Share your ideas for our Sydney WOO Networking lunch
+>      table talks (Kendall Nelson)
+> 
+> 
+> ----------------------------------------------------------------------
+> 
+> Message: 1
+> Date: Wed, 25 Oct 2017 20:32:37 +0000
+> From: Kendall Nelson <kennelson11 at gmail.com>
+> To: Jessica Murillo <jessicak at us.ibm.com>
+> Cc: women-of-openstack at lists.openstack.org
+> Subject: Re: [Women-of-openstack] Fw: Share your ideas for our Sydney
+> 	WOO Networking lunch table talks
+> Message-ID:
+> 	<CAJ6yrQjuygANO6DnYx4HXcw-m8eLa3S1kv1fjPsU-M=iSR+K5g at mail.gmail.com>
+> Content-Type: text/plain; charset="utf-8"
+> 
+> I signed up for one of the moderator spots.
+> 
+> Looks like we need more volunteers to sign up to be moderators and could
+> also use a few more ideas for discussion at the tables.
+> 
+> Looking forward to it!
+> 
+> -Kendall (diablo_rojo)
+> 
+> On Mon, Oct 16, 2017 at 8:46 AM Jessica Murillo <jessicak at us.ibm.com> wrote:
+> 
+>> Please continue to share your ideas for our WOO Sydney networking lunch
+>> table talks here:
+>> https://etherpad.openstack.org/p/WOS_Syndey_Networking_Lunch
+>> 
+>> Jessica Murillo
+>> Vice President, Open Systems Development
+>> IBM Systems
+>> jessicak at us.ibm.com
+>> Mobile Phone: 512-970-8466 <(512)%20970-8466>
+>> ----- Forwarded by Jessica Murillo/Austin/IBM on 10/14/2017 02:40 PM -----
+>> 
+>> From: Jessica Murillo/Austin/IBM
+>> To: women-of-openstack at lists.openstack.org
+>> Cc: Jessica Murillo/Austin/IBM at IBMUS
+>> Date: 10/02/2017 09:37 PM
+>> Subject: Share your ideas for our Sydney WOO Networking lunch table talks
+>> ------------------------------
+>> 
+>> 
+>> 
+>> 
+>> Please share your idea for suggested table talks at our Women of OpenStack
+>> Networking lunch on Tuesday, November 7, from 12:20-1:50pm. We'd love to
+>> hear what YOU want to talk about. I've created this etherpad to track
+>> ideas: https://etherpad.openstack.org/p/WOS_Syndey_Networking_Lunch
+>> 
+>> Looking forward to hearing from you!
+>> 
+>> Jessica Murillo
+>> Vice President, Open Systems Development
+>> IBM Systems
+>> jessicak at us.ibm.com
+>> Mobile Phone: 512-970-8466 <(512)%20970-8466>
+>> 
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> 
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171025/504bbfb8/attachment.html>
+> -------------- next part --------------
+> A non-text attachment was scrubbed...
+> Name: 19782538.jpg
+> Type: image/jpeg
+> Size: 31643 bytes
+> Desc: not available
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171025/504bbfb8/attachment.jpg>
+> -------------- next part --------------
+> A non-text attachment was scrubbed...
+> Name: 19782538.jpg
+> Type: image/jpeg
+> Size: 31643 bytes
+> Desc: not available
+> URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171025/504bbfb8/attachment-0001.jpg>
+> 
+> ------------------------------
+> 
+> Subject: Digest Footer
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+> 
+> ------------------------------
+> 
+> End of Women-of-openstack Digest, Vol 36, Issue 16
+> **************************************************
+
+
+
+From apotvin at redhat.com  Thu Oct 26 00:06:52 2017
+From: apotvin at redhat.com (Annie Potvin)
+Date: Thu, 26 Oct 2017 00:06:52 +0000
+Subject: [Women-of-openstack] Fw: Share your ideas for our Sydney WOO
+ Networking lunch table talks
+In-Reply-To: <CAJ6yrQjuygANO6DnYx4HXcw-m8eLa3S1kv1fjPsU-M=iSR+K5g@mail.gmail.com>
+References: <OF39D92081.1CA47191-ON002581B9.006C14D6-862581B9.006C2EF7@notes.na.collabserv.com>
+ <CAJ6yrQjuygANO6DnYx4HXcw-m8eLa3S1kv1fjPsU-M=iSR+K5g@mail.gmail.com>
+Message-ID: <CADyS_EOXiX6B6kJjb9L9yNsj9OC6JfdzXmYvEEeEc0JGP6-Kbw@mail.gmail.com>
+
+I added my name as well- happy to help
+
+On Wed, Oct 25, 2017 at 5:26 PM Kendall Nelson <kennelson11 at gmail.com>
+wrote:
+
+> I signed up for one of the moderator spots.
+>
+> Looks like we need more volunteers to sign up to be moderators and could
+> also use a few more ideas for discussion at the tables.
+>
+> Looking forward to it!
+>
+> -Kendall (diablo_rojo)
+>
+> On Mon, Oct 16, 2017 at 8:46 AM Jessica Murillo <jessicak at us.ibm.com>
+> wrote:
+>
+>> Please continue to share your ideas for our WOO Sydney networking lunch
+>> table talks here:
+>> https://etherpad.openstack.org/p/WOS_Syndey_Networking_Lunch
+>>
+>> Jessica Murillo
+>> Vice President, Open Systems Development
+>> IBM Systems
+>> jessicak at us.ibm.com
+>> Mobile Phone: 512-970-8466 <(512)%20970-8466>
+>> ----- Forwarded by Jessica Murillo/Austin/IBM on 10/14/2017 02:40 PM
+>> -----
+>>
+>> From: Jessica Murillo/Austin/IBM
+>> To: women-of-openstack at lists.openstack.org
+>> Cc: Jessica Murillo/Austin/IBM at IBMUS
+>> Date: 10/02/2017 09:37 PM
+>> Subject: Share your ideas for our Sydney WOO Networking lunch table talks
+>> ------------------------------
+>>
+>>
+>>
+>>
+>> Please share your idea for suggested table talks at our Women of
+>> OpenStack Networking lunch on Tuesday, November 7, from 12:20-1:50pm. We'd
+>> love to hear what YOU want to talk about. I've created this etherpad to
+>> track ideas: https://etherpad.openstack.org/p/WOS_Syndey_Networking_Lunch
+>>
+>> Looking forward to hearing from you!
+>>
+>> Jessica Murillo
+>> Vice President, Open Systems Development
+>> IBM Systems
+>> jessicak at us.ibm.com
+>> Mobile Phone: 512-970-8466 <(512)%20970-8466>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-- 
+Annie Potvin
+Global Portfolio Product Marketing, Hybrid Cloud
+Red Hat
+Office: 438-796-0261
+Cell: 514-781-6849
+Twitter: anniep0206
+eMail: apotvin at redhat.com
+www.redhat.com
+
+I am typing this on my smart phone. Please forgive poor spelling and auto
+correct.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171026/7e30a70e/attachment.html>
+
+From lnamphy at gmail.com  Sun Oct 29 20:10:29 2017
+From: lnamphy at gmail.com (Lisa-Marie Namphy)
+Date: Sun, 29 Oct 2017 13:10:29 -0700
+Subject: [Women-of-openstack] Meeting Reminder - 10/30/17
+In-Reply-To: <mailman.1.1506859202.20887.women-of-openstack@lists.openstack.org>
+References: <mailman.1.1506859202.20887.women-of-openstack@lists.openstack.org>
+Message-ID: <FF96A03C-4C90-4829-8072-5DF2D8C00D18@gmail.com>
+
+Hi All,
+
+
+Here’s your reminder about our regular Women of OpenStack meeting.
+
+We will be meeting tomorrow at our normal time.
+
+This is the LAST meeting before the Summit, so please try and attend so we can make sure we are all in sync.
+
+This may also be our LAST meeting before moving to IRC on Nov 13. So for tomorrow (Monday), please dial in the usual way at the usual time:
+
+(2000 UTC???), 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+I believe some of the world has already turned their clocks, like in England, so please note that we have NOT changed our clocks yet in the US. The call tomorrow is at 1pm PDT.
+
+Dial In: 1-203-277-8157 <(203)%20277-8157> or *866-619-0383
+<(866)%20619-0383>  Participant: 7217256**#* Leader 4018#
+
+
+Etherpad: https://etherpad.openstack.org/p/WOS_10_30_17 <https://etherpad.openstack.org/p/WOS_10_30_17>
+
+See you tomorrow (Monday)!
+
+Cheers,
+Lisa
+
+
+
+
+
+
+> On Oct 1, 2017, at 5:00 AM, women-of-openstack-request at lists.openstack.org wrote:
+> 
+> Sorry for the late notice. We will be meeting tomorrow at our normal time.
+> We'll be doing some summit planning.
+> 
+> 2000 UTC, 4 PM EDT, 3 PM CDT, 2 PM MDT, 1 PM PDT
+> 
+> Dial In: 1-203-277-8157 <(203)%20277-8157> or *866-619-0383
+> <(866)%20619-0383>  Participant: 7217256**#* Leader 4018#
+> 
+> 
+> Etherpad: https://etherpad.openstack.org/p/WOS_10_02_17 <https://etherpad.openstack.org/p/WOS_10_02_17>
+> 
+> Hope to see everyone Monday!
+> 
+> Amy
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171029/21c45b8a/attachment.html>
+
+From amy at demarco.com  Mon Oct 30 20:51:34 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Mon, 30 Oct 2017 15:51:34 -0500
+Subject: [Women-of-openstack] Move to IRC for meetings
+Message-ID: <CAFs83Qqo+Yuc15JtErS9G+Ud8uK7Mui_+Nku_iGeh7xNws=s-g@mail.gmail.com>
+
+Hi everyone,
+
+Starting on November 13 at 20:00 UTC we will have our first meeting held in
+the #openstack-women channel on Freenode. If you'd like to get a ping on
+the channel for the meeting please add your IRC nick to
+
+https://wiki.openstack.org/wiki/Women_of_OpenStack#Work_Group_Meeting_information
+
+Looking forward to seeing everyone there. And don't forget you can hang on
+the channel even when there's NOT a meeting!:)
+
+Amy (spotz)
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171030/ee184118/attachment.html>
+
+From kennelson11 at gmail.com  Tue Oct 31 00:12:38 2017
+From: kennelson11 at gmail.com (Kendall Nelson)
+Date: Tue, 31 Oct 2017 00:12:38 +0000
+Subject: [Women-of-openstack] Move to IRC for meetings
+In-Reply-To: <CAFs83Qqo+Yuc15JtErS9G+Ud8uK7Mui_+Nku_iGeh7xNws=s-g@mail.gmail.com>
+References: <CAFs83Qqo+Yuc15JtErS9G+Ud8uK7Mui_+Nku_iGeh7xNws=s-g@mail.gmail.com>
+Message-ID: <CAJ6yrQjuuaqLnTqtC86zmKFrUANCedjm9gJYK1=cBtu45QeRoQ@mail.gmail.com>
+
+Thanks Amy!
+
+I added my nics :)
+
+To everyone else, if you need help getting set up in IRC I added some links
+to last weeks agenda[1] towards the bottom in the notes. If you need more
+help, send me an email and I will help get you set up.
+
+See you all on IRC!
+
+-Kendall Nelson (diablo_rojo)
+
+[1] https://etherpad.openstack.org/p/WOS_10_30_17
+
+On Mon, Oct 30, 2017 at 1:51 PM Amy Marrich <amy at demarco.com> wrote:
+
+> Hi everyone,
+>
+> Starting on November 13 at 20:00 UTC we will have our first meeting held
+> in the #openstack-women channel on Freenode. If you'd like to get a ping on
+> the channel for the meeting please add your IRC nick to
+>
+>
+> https://wiki.openstack.org/wiki/Women_of_OpenStack#Work_Group_Meeting_information
+>
+> Looking forward to seeing everyone there. And don't forget you can hang on
+> the channel even when there's NOT a meeting!:)
+>
+> Amy (spotz)
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20171031/54997bc6/attachment.html>
+

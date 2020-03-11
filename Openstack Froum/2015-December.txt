@@ -1,0 +1,382 @@
+From carol.l.barrett at intel.com  Tue Dec  1 00:42:51 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Tue, 1 Dec 2015 00:42:51 +0000
+Subject: [Women-of-openstack] Mentoring sub-workgroup meeting time
+In-Reply-To: <201511302139.tAULdVcO030632@d01av02.pok.ibm.com>
+References: <201511302139.tAULdVcO030632@d01av02.pok.ibm.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CAD31B6@ORSMSX113.amr.corp.intel.com>
+
+Thanks Emily. Talk to you on Wednesday!
+Carol
+
+From: Emily K Hugenbruch [mailto:ekhugenbruch at us.ibm.com]
+Sent: Monday, November 30, 2015 1:39 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Mentoring sub-workgroup meeting time
+
+Hi,
+The group working on the mentoring plans for Women of OpenStack has decided on Wednesdays at 3PM Eastern (20:00UTC) for our weekly meetings.  We invite anyone who is interested in helping to join us.  Please send me an email and I'll include you on the meeting invite.  Thanks!
+
+Call-in:
+USA/Canada Toll-Free:        888-426-6840 (Other call-ins available on request)
+Participant Code:        37804636
+
+Sincerely,
+Emily Kate Hugenbruch
+Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Email: ekhugen at us.ibm.com<mailto:ekhugen at us.ibm.com>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151201/e7182a49/attachment.html>
+
+From hosnieh.rafiee at huawei.com  Thu Dec  3 09:26:58 2015
+From: hosnieh.rafiee at huawei.com (Hosnieh Rafiee)
+Date: Thu, 3 Dec 2015 09:26:58 +0000
+Subject: [Women-of-openstack] CFP about SDN/NFV
+Message-ID: <814D0BFB77D95844A01CA29B44CBF8A715AFA6B2@lhreml504-mbs>
+
+Dear All,
+
+I'm involved in the following CFP.  This might be of your interest (hopefully an interest of many of you).
+
+Best,
+Hosnieh
+
+-------------------------------------
+
+
+Special issue about standardization in SDN and NFV
+
+The Journal of Computer Standards & Interfaces invites submissions to a special issue about standardization in SDN and NFV. Submission are due by March 31st, 2016.
+URL: http://www.journals.elsevier.com/computer-standards-and-interfaces/call-for-papers/special-issue-on-standardization-in-sdn-and-nfv/
+Impact Factor: 2014: 0.879 (c) Thomson Reuters Journal Citation Reports 2015
+
+Software Defined Networks (SDN) is a new approach to manage network services by decoupling the data and control planes and providing an open interface between them able to support programmability. In parallel, Network Functions Virtualization (NFV) is a network architecture concept based on the application of technologies inspired in current cloud infrastructures to virtualize traditional network functions (mobile services, CDNs, Firewalls, etc.) and build network services by interconnecting these virtualized functions.
+
+SDN and NFV are complementary and they have become two key paradigms in today's networking. Due to its impressive growth and fast adoption, many standardization bodies such as IETF, IEEE, ETSI, ITU-T, ONF, TM Forum and 3GPP, and open source projects such as OpenStack and OpenDayLight among others, are taking positions to define frameworks, protocols, data models and reference implementations that pave the way for interoperable, extensible and standard SDN and NFV solutions.
+
+This special issue wants to bring the attention of the community to the current state in the standardization area of SDN and NFV by inviting industry, practitioners and researchers to contribute with original works that allow identifying and proposing solutions to important gaps, still under development in SDN and NFV standardization organizations, and to show the synergies and mismatches between open source solutions and standardization processes. Moreover, review articles will be welcome to help the readership to understand the effort carried out in the different standardization bodies and their future directions.
+
+Potential topics include, but are not limited to, aspects related with standardization in:
+            * SDN and NFV frameworks and architectures.
+            * SDN and NFV challenges.
+            * SDN northbound, southbound and east-west interfaces.
+            * Integration of SDN and NFV, problems and challenges.
+            * SDN programming languages and data models.
+            * Data plane components (switch, routers, etc.) design.
+            * NFV and SDN alignment and standardization processes.
+            * Security, trust and privacy for SDN and NFV infrastructures, interfaces and protocols.
+            * Big data analytics in SDN enabled network and privacy issues.
+            * Authentication, Authorization and Accounting in SDN and NFV.
+            * SDN and NFV in wireless and mobile networks.
+            * Applying SDN and NFV to 5G networks.
+            * Applying SDN and NFV to IoT.
+            * Applying SDN and NFV to cellular 3GPP-based networks.
+            * Standards-based NFV and SDN testbeds, open source implementations and platforms.
+            * Testing and performance evaluation of existing proposals in NFV and SDN.
+            * Reliability, Availability and Load Balancing in NFV and SDN.
+            * Orchestration and Management in SDN and NFV.
+            * Multi-domain considerations in SDN and NFV.
+            * SDN and NFV in multi-tenancy environment.
+
+Submission guidelines
+
+Papers will be evaluated based on their originality, presentation, relevance and contribution to the topic associated with the special issue, as well as their overall quality. The submitted papers have to describe original work which has not been published nor currently under review by other journals or conferences
+
+Guest editors will make an initial determination of the suitability and scope of all submissions. Papers that either lack originality, clarity in presentation or fall outside the scope of the special issue will not be sent for review and authors will be promptly informed in such cases.
+
+Author guidelines for preparation of manuscript are available in:
+
+http://www.elsevier.com/journals/computer-standards-and-interfaces/0920-5489/guide-for-authors
+
+Papers should be submitted via the EES application in the following link:
+
+http://ees.elsevier.com/csi/
+
+To ensure that all manuscripts are correctly identified for their inclusion into the special issue, it is important that authors select SI-Standardization SDN&NFV in the "Article Type" step during the submission process.
+
+Schedule
+            * Paper submission: March 31st, 2016
+            * Reviewing process and revision submission:
+                        * First round of reviews:  June 30th, 2016
+                        * Second round of reviews: September 15th, 2016
+                        * Acceptance of Final papers:  October 30th, 2016
+                        * Final Manuscript Due: December 31st, 2016
+Production process (online publication): March 31st, 2017
+
+
+
+Thank you,
+Best Regards,
+Hosnieh
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151203/e1a5e2dd/attachment.html>
+
+From mariel at redhat.com  Thu Dec  3 13:23:45 2015
+From: mariel at redhat.com (Mikey Ariel)
+Date: Thu, 3 Dec 2015 14:23:45 +0100
+Subject: [Women-of-openstack] CFP ends soon: Virt & IaaS devroom @ FOSDEM
+	2016
+Message-ID: <56604261.2@redhat.com>
+
+Hi there!
+
+My name is Mikey and I'm the main organizer for the Virtualization & 
+IaaS devroom at the upcoming FOSDEM 2016[1].
+
+You may have seen the CFP announcement floating around other OpenStack 
+mailing lists, but in case you missed it, I'm including the link to the 
+original CFP announcement[2] as well as the deadline extension and 
+information about our speaker mentoring program and FOSDEM CoC[3].
+
+The CFP ends on Tuesday, but if you have some ideas and would like to 
+ask questions or request a short extension to submit a proposal, feel 
+free to contact me off-list and I'll be happy to help.
+
+Cheers,
+Mikey
+
+[1] https://fosdem.org/2016/
+[2]http://community.redhat.com/blog/2015/10/call-for-proposals-fosdem16-virtualization-iaas-devroom/
+[3]http://lists.ovirt.org/pipermail/announce/2015-November/000208.html
+
+-- 
+Mikey Ariel
+Community Lead, oVirt
+www.ovirt.org
+
+"To be is to do" (Socrates)
+"To do is to be" (Jean-Paul Sartre)
+"Do be do be do" (Frank Sinatra)
+
+Mobile: +420-702-131-141
+IRC: mariel / thatdocslady
+Twitter: @ThatDocsLady
+
+
+From carol.l.barrett at intel.com  Wed Dec  9 17:34:11 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Wed, 9 Dec 2015 17:34:11 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] December 14th
+	team meeting
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CAEBD66@ORSMSX113.amr.corp.intel.com>
+
+Hi Team - We're on for our regular team meeting on 12/14. This will be our last meeting of the year. Next team meeting will be 1/11/16. As we enter into the New Year, we'll start rotating the leadership of these meetings across the team. The agendas and Leader information is located here: https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Pls look it over and signup to lead a future meeting.
+Thanks
+Carol
+
+Logistics
+*       Monday, December 14, 2015 2000 UTC
+*       Voice Access: 1-203-277-8157 or 866-619-0383 Participant: 7217256#
+*       Etherpad: https://etherpad.openstack.org/p/WOS_12_14_15
+
+Agenda
+*       Roll Call
+*       Mentoring Team Update - Emily
+o       Speed Mentoring Plan Overview & Austin Proposal
+o       Mentoring Proposal Discussion
+o       Web Tool needs
+*       Austin Planning Team Update - Courtney
+*       Male Allies Team Update - Nithya
+*       Opens & AR Review - All
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151209/3c02190d/attachment.html>
+
+From carol.l.barrett at intel.com  Mon Dec 14 16:05:45 2015
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 14 Dec 2015 16:05:45 +0000
+Subject: [Women-of-openstack] [OpenStack][Women of OpenStack] Today's Team
+	Meeting Details
+Message-ID: <2D352D0CD819F64F9715B1B89695400D5CAF7B94@ORSMSX113.amr.corp.intel.com>
+
+Hi Team - We're on for our regular team meeting today, details below.
+
+This will be our last team meeting of 2015, so pls try to attend.
+
+Our next team meeting will be on 1/11 and Nithya will be lead this one.
+Thanks
+Carol
+
+Logistics
+Monday December 14, 2015
+2000 UTC
+Access: 1-203-277-8157 or 866-619-0383  Participant Code: 7217256#
+
+Agenda
+*       Roll Call
+*       Mentoring Team Update - Emily, Danielle
+o       Speed Mentoring Plan Overview & Austin Proposal
+o       Mentoring Proposal Discussion
+o       Web Tool needs
+o       Could someone from the foundation please help review our plans and let us know the procedure to get a webpage started?  Thanks!
+*       Austin Planning Team Update - Courtney
+*       Male Allies Team Update - Nithya
+*       Opens - All
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151214/6908e6f8/attachment.html>
+
+From kendall at openstack.org  Tue Dec 22 17:03:05 2015
+From: kendall at openstack.org (Kendall Waters)
+Date: Tue, 22 Dec 2015 11:03:05 -0600
+Subject: [Women-of-openstack] Call for Speakers NOW OPEN - OpenStack Summit
+	Austin April 2016
+Message-ID: <0E7A967D-FE9B-450C-8521-B616110ACEBE@openstack.org>
+
+Hi everyone,
+
+The Call for Speakers <https://www.openstack.org/summit-login/login?BackURL=/summit/austin-2016/call-for-speakers/> is now OPEN for the April OpenStack Summit in Austin! Hurry - the deadline to submit a talk is February 1 at 11:59pm PST. 
+NEW: Speakers are limited to a maximum of THREE submissions. 
+
+Other Summit items now available: 
+Attendee Registration <https://www.openstack.org/summit/austin-2016/austin-and-travel/> - Price increase in early March
+Call for Sponsors <https://www.openstack.org/summit/austin-2016/sponsors/#how-to-sponsor> - March 8 deadline
+Hotel Discount Room Blocks <https://www.openstack.org/summit/austin-2016/austin-and-travel/#hotels> 
+*The Design Summit will be held at the Hilton Austin. Workshops and the Certified OpenStack Administrator exams will be held at the JW Marriott.
+Visa Invitation Request <https://www.openstack.org/summit/austin-2016/austin-and-travel/#visa>
+Travel Support Program Application <https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support> - February 9 deadline
+
+If you have any Summit related questions please email summit at openstack.org <mailto:summit at openstack.org>.
+
+Cheers,
+Kendall
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151222/81824bd2/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Tue Dec 22 17:41:59 2015
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Tue, 22 Dec 2015 17:41:59 +0000
+Subject: [Women-of-openstack] Notes from Allies Discussion
+Message-ID: <BL2PR02MB420AE1F3E0E595888EFEC38F6E50@BL2PR02MB420.namprd02.prod.outlook.com>
+
+All,
+
+I had an action to set up a meeting with Valerie Aurora and anyone from the Women of OpenStack who wanted to attend.  Jessica Murillo and I had this meeting last week. Here is her advice and feedback on creating a male allies program.  Lots of generally good advice on the women's programs as well.  I will be using this to structure the male allies program for Austin. Your feedback and comments welcome.
+
+Happy Holidays and See you Jan 11th.
+
+Nithya Ruff
+SanDisk
+
+Jessica Murillo from IBM and Nithya Ruff from SanDisk met with Valerie Aurora of Frameshift Consulting on how to best implement our objectives for the women of OpenStack.  We shared our objectives as:
+
+Women of OpenStack Objectives:
+
+*         Engage broad support for the women of OpenStack and diversity among the majority group at OpenStack which are men.   This could include a Male Allies program for 2016.
+
+*         Investigate and work with diversity experts like Valarie Aurora to structure the program.
+Valerie's Recommendations on Best Practices:
+
+*         Creating a women's support group and engaging broad support are 2 different objectives and both need to be done with different tactics.  Treat these 2 objectives as separate but complimentary.
+
+*         To support the Women of OpenStack, best to continue to provide their own space, own events and it is not necessarily good to invite men to the event to engage them. Women's perspectives do not get enough space and so having a women's only panel is a good thing. There are other ways to engage men in the dialogue.
+
+*         Have separate events to create male allies. The audience should be the general attendee population which is 90% + male.  This is the audience we are trying to reach.  Not a majority women audience.  Have mixed panels with men and women.  The panel can role model and demonstrate inclusion, listening, respect for each other.   Best to have a man who has knowledge and expertise in inclusion issues and not just someone who is interested but not educated on the topic.  Same goes for female panelists.
+
+o   Recruiting men - demonstrate women showing expertise and men who know what they are doing on the allies panel - back and forth - men display listening
+
+o   Explore doing another workshop on "How to be an ally and take action". Many men want to be an ally but do not know how to do it.
+
+*         We also discussed that in general it is good to have training for all speakers at OpenStack especially on mixed panels on how best to show inclusion and good listening skills. Valerie indicated that it would be good to have moderators for panels who are experienced and seasoned in the topic of inclusion.
+
+*         The bottom-line advice was that to advance inclusion what is needed is consistency and persistence in raising awareness every year.  People should get used to not ignoring it.
+
+o   Explore other channels to reach the community, blogs, articles, etc. goals on articles in every newsletter etc.
+
+o   Group  fundraisers for various things, outreachy intern, and having individuals to get involved and donating and not just organizations
+
+o   She also liked the fireside chat format. Someone who is local to the community and asks question scripted in advance and uses the index card method to pick up the questions from the audience
+Thank You,
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151222/e6ba2801/attachment-0001.html>
+
+From rain at redhat.com  Wed Dec 23 14:38:06 2015
+From: rain at redhat.com (K Rain Leander)
+Date: Wed, 23 Dec 2015 15:38:06 +0100
+Subject: [Women-of-openstack] Call for Speakers NOW OPEN - OpenStack
+ Summit Austin April 2016
+In-Reply-To: <0E7A967D-FE9B-450C-8521-B616110ACEBE@openstack.org>
+References: <0E7A967D-FE9B-450C-8521-B616110ACEBE@openstack.org>
+Message-ID: <567AB1CE.2070806@redhat.com>
+
+I am submitting a talk, but also available to speak on panels addressing 
+openstack newbs, speakers, diversity, or quirky retired magician's 
+assistants who like to eat icing with a spoon.  Or anything else related.
+
+Rain
+
+On 12/22/2015 06:03 PM, Kendall Waters wrote:
+> Hi everyone,
+> *
+> *
+> *The Call for Speakers 
+> <https://www.openstack.org/summit-login/login?BackURL=/summit/austin-2016/call-for-speakers/> is 
+> now OPEN for the April OpenStack Summit in Austin*!**Hurry - the 
+> deadline to submit a talk is* February 1 at 11:59pm PST. *
+> /NEW: Speakers are limited to a maximum of *THREE* submissions. /
+> *
+> *
+> Other Summit items now available:
+>
+>  *
+>     Attendee Registration
+>     <https://www.openstack.org/summit/austin-2016/austin-and-travel/>
+>     - Price increase in early March
+>  *
+>     Call for Sponsors
+>     <https://www.openstack.org/summit/austin-2016/sponsors/#how-to-sponsor>-
+>     March 8 deadline
+>  *
+>     Hotel Discount Room Blocks
+>     <https://www.openstack.org/summit/austin-2016/austin-and-travel/#hotels>
+>     *The Design Summit will be held at the Hilton Austin. Workshops
+>     and the Certified OpenStack Administrator exams will be held at
+>     the JW Marriott.
+>  *
+>     Visa Invitation Request
+>     <https://www.openstack.org/summit/austin-2016/austin-and-travel/#visa>
+>  *
+>     Travel Support Program Application
+>     <https://www.openstack.org/summit/austin-2016/austin-and-travel/#travel-support>-
+>     February 9 deadline
+>
+>
+> If you have any Summit related questions please email 
+> summit at openstack.org <mailto:summit at openstack.org>.
+>
+> Cheers,
+> Kendall
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20151223/711907c7/attachment.html>
+

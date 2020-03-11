@@ -1,0 +1,454 @@
+From ahufiliztas@gmail.com  Thu Apr  5 09:27:17 2012
+Return-Path: <ahufiliztas@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 9E9AD75011D
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 09:27:17 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.299
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.299 tagged_above=-999 required=2
+	tests=[BAYES_05=-0.5, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id EQRJv6f1vFkf for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 09:27:13 +0000 (UTC)
+Received: from mail-ee0-f46.google.com (mail-ee0-f46.google.com [74.125.83.46])
+	by menubar.gnome.org (Postfix) with ESMTP id E373A7500ED
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 09:27:04 +0000 (UTC)
+Received: by eekc41 with SMTP id c41so422426eek.33
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 05 Apr 2012 02:27:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:from:date:message-id:subject:to:content-type;
+	bh=IlTDRlm1l8x8T9ECfRH5YcVu2BPSz85s3XT2VmEn400=;
+	b=LPD44WrWikfsFBca5Kn6nYb9jkBwDgCYcDqENc7iubQQWx9bcJwcCnwYf42O3Nb+40
+	6NPgsdWSqDk8oeaeiTwhBW1RW7k2E/J5gJIPYzXeH6ocE6HMDV/GV7VEsJTmP+qe9D+d
+	CGQN/xG0t9IGSspgT/Pem6n19I4BF+YEsy0dc7tTG+621xJDOKYn0HgUpeWOxnyam4l4
+	pyrqHIJ0fgT/OhO6/DCwdlXNfKvGPsYiFXhbKtdFfJfj/Tr/cqfo+CkfqHkg15/s+D9Y
+	jp7F7i+Iny/J1UMwKtw0gh8pCtQI2CFvyzYz2gN7MvZEDRe7A0T9NCfqLv68XRZRIR1e
+	Hhpg==
+Received: by 10.213.108.138 with SMTP id f10mr332039ebp.19.1333618022678; Thu,
+	05 Apr 2012 02:27:02 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.213.113.11 with HTTP; Thu, 5 Apr 2012 02:26:20 -0700 (PDT)
+From: =?UTF-8?Q?Ahu_Filiz_Ta=C5=9F?= <ahufiliztas@gmail.com>
+Date: Thu, 5 Apr 2012 12:26:20 +0300
+Message-ID: <CAE7bL6nOJcjvThNYXj6XL49Qmg0iDC0nPY9VeFTBJS=nHM5ELw@mail.gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=0015174c432c82014d04bceb24e9
+Subject: [gnome-women] (no subject)
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 05 Apr 2012 09:27:17 -0000
+
+--0015174c432c82014d04bceb24e9
+Content-Type: text/plain; charset=UTF-8
+
+Hi everyone.
+
+I'm a physicist and I'm using Gnome for years. It's the last day before
+application deadline but I want to join Gnome Women project. Is there still
+a chance for me to contribute?
+
+--0015174c432c82014d04bceb24e9
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi everyone. <div><br></div><div>I&#39;m a physicist and I&#39;m using Gnom=
+e for years.=C2=A0It&#39;s the last day before application deadline but I w=
+ant to join Gnome Women project. Is there still a chance for me to contribu=
+te?=C2=A0</div>
+
+
+--0015174c432c82014d04bceb24e9--
+From marinaz@redhat.com  Thu Apr  5 17:21:40 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 80883750201
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 17:21:40 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.231
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.231 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SARE_MONEYTERMS=0.681,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01]
+	autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GkvVGz0Zv1LI for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 17:21:26 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id C415F750099
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 17:21:18 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id q35HLGua025343;
+	Thu, 5 Apr 2012 13:21:16 -0400
+Date: Thu, 05 Apr 2012 13:21:16 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Ahu Filiz =?utf-8?B?VGHFnw==?= <ahufiliztas@gmail.com>
+Message-ID: <dc1b9af7-7ab4-4c29-81d6-13450ac7168f@zmail12.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <CAE7bL6nOJcjvThNYXj6XL49Qmg0iDC0nPY9VeFTBJS=nHM5ELw@mail.gmail.com>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-Originating-IP: [10.16.189.132]
+X-Mailer: Zimbra 7.1.2_GA_3268 (ZimbraWebClient - FF3.0 (Linux)/7.1.2_GA_3268)
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] (no subject)
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 05 Apr 2012 17:21:40 -0000
+
+Hi Ahu!
+
+Sure, you can still get your application in! I would recommend focusing on =
+connecting to a mentor of a project that doesn't have applicants (or can me=
+ntor multiple participants) and putting in your application first. Then, yo=
+u can work on your contribution in the few days past the application deadli=
+ne. If you are a student, you should also apply for Google Summer of Code f=
+or the same project, which also has a deadline tomorrow, but earlier in the=
+ day.
+
+What type of project and module are you interested in? If you are looking f=
+or a coding project, as of recently "Automated WAI-ARIA testing using Accer=
+ciser", "Epiphany A service to prevent phishing attacks", "Evolution: Add o=
+ffline contact editing support to EDS=E2=80=99 Google Contacts backend", an=
+d "Profile and optimize libfolks to accelerate Shell/Contacts/Empathy" from=
+ https://live.gnome.org/SummerOfCode2012/Ideas did not have any applicants.=
+ You can propose these ideas for the outreach internships too. Just get in =
+touch with mentors for them to see which ones are unclaimed and start worki=
+ng on the application. You can also select any project from https://live.gn=
+ome.org/GnomeLove/Mentors and contact its mentor to see if there is anythin=
+g you can propose to work on.
+
+In addition to e-mailing people, you should join the relevant channels on I=
+RC because that will speed up your communication with mentors. https://live=
+.gnome.org/GnomeIrcChannels
+
+Please feel free to let me know if you have any questions!
+
+Thanks,
+Marina
+
+----- Original Message -----
+From: "Ahu Filiz Ta=C5=9F" <ahufiliztas@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Sent: Thursday, April 5, 2012 5:26:20 AM
+Subject: [gnome-women] (no subject)
+
+
+Hi everyone. 
+
+
+I'm a physicist and I'm using Gnome for years. It's the last day before app=
+lication deadline but I want to join Gnome Women project. Is there still a =
+chance for me to contribute? 
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-women-list
+From azzurroverde@gmail.com  Thu Apr  5 18:23:45 2012
+Return-Path: <azzurroverde@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 084BC750201
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 18:23:45 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id VsD73U71mhK6 for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 18:23:43 +0000 (UTC)
+Received: from mail-ob0-f174.google.com (mail-ob0-f174.google.com
+	[209.85.214.174])
+	by menubar.gnome.org (Postfix) with ESMTP id 5DA75750099
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 18:23:34 +0000 (UTC)
+Received: by obbtb18 with SMTP id tb18so2866955obb.33
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 05 Apr 2012 11:23:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=d1dNZjMoRvo7cyRjA2oMDTmo60acGTrIKEXL+yw5kHY=;
+	b=Tzt+oJRaZHvzPkKPAD2fKyUZegLWGEG0VOvFnmmtTk0sFWQgQ35VOqi5pKVVgfUNKu
+	+ps71lvzMKGn7WyI/PkUHlOxjakl15IcrUv5A9WrxH0zzP4gqlvoKgA85rfTBEEsyuW+
+	qHuLig8iaKtZ0Nf1VQhIdiVZ0Sq2AsGsO3KxJBBlf+NllXikx6jaSvzKOrIb/Bbpji7W
+	DGTRZLmHSVNYni9Nd7lfScA76vt4394iDlxQkUHmUtYjdaIJneT7ldMBv8Vp8iioQ9/M
+	7aI3rH/zPUmVGSg9YqO/3btfE/Zur/m06jnmzkdzN+Xb+oSeA23Fu/brzC8PVD3z1PDg
+	2xJw==
+MIME-Version: 1.0
+Received: by 10.182.139.42 with SMTP id qv10mr5299446obb.71.1333650213258;
+	Thu, 05 Apr 2012 11:23:33 -0700 (PDT)
+Received: by 10.182.8.200 with HTTP; Thu, 5 Apr 2012 11:23:33 -0700 (PDT)
+Date: Thu, 5 Apr 2012 20:23:33 +0200
+Message-ID: <CALBK6KSKqdtRfg+y0+kSqK+VtP87+oAbdAFa6+HTJ1rXZPU93Q@mail.gmail.com>
+From: Anna Zacchi <azzurroverde@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=e89a8f839ee337440204bcf2a338
+Subject: [gnome-women] Timeline for Gnome Women Outreach 2012
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 05 Apr 2012 18:23:45 -0000
+
+--e89a8f839ee337440204bcf2a338
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello,
+in the proposal, how should a timeline be?
+Does every project need to have final testing?
+
+How are they usually done?
+
+Thanks,
+   Anna
+
+--e89a8f839ee337440204bcf2a338
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hello,<div>in the proposal, how should a timeline be?</div><div>Does every =
+project need to have final testing?</div><div><br></div><div>How are they u=
+sually done?</div><div><br></div><div>Thanks,</div><div>=A0 =A0Anna</div>
+
+--e89a8f839ee337440204bcf2a338--
+From marinaz@redhat.com  Thu Apr  5 19:12:08 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DCAF0750201
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 19:12:08 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id De+1GP6mAZ8S for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 19:11:54 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 97B467500D3
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  5 Apr 2012 19:11:46 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id q35JBimY018919;
+	Thu, 5 Apr 2012 15:11:44 -0400
+Date: Thu, 05 Apr 2012 15:11:44 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: Anna Zacchi <azzurroverde@gmail.com>
+Message-ID: <9cc7e859-bbb8-436f-a9cc-9cc213a48cf8@zmail12.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <CALBK6KSKqdtRfg+y0+kSqK+VtP87+oAbdAFa6+HTJ1rXZPU93Q@mail.gmail.com>
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+MIME-Version: 1.0
+X-Originating-IP: [10.16.189.132]
+X-Mailer: Zimbra 7.1.2_GA_3268 (ZimbraWebClient - FF3.0 (Linux)/7.1.2_GA_3268)
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Timeline for Gnome Women Outreach 2012
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 05 Apr 2012 19:12:09 -0000
+
+Hi Anna,
+
+The timeline doesn't need to be very detailed for the Outreach Program for Women applications, because while we want the participants to have an idea about what they'll work on, we also want them to decide with the mentor about which tasks to take on as they go along, taking into account the priorities of the team and what tasks seem suitable. For Google Summer of Code, the timeline needs to be more detailed.
+
+It is expected that a lot of testing will take place as you are working on the code and as your patch is being reviewed. You can mention that next to each task or as a general comment, if you like. You can also leave some time in the end of the summer to address any bugs related to the tasks you worked on.
+
+Thanks,
+Marina
+
+----- Original Message -----
+From: "Anna Zacchi" <azzurroverde@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Sent: Thursday, April 5, 2012 2:23:33 PM
+Subject: [gnome-women] Timeline for Gnome Women Outreach 2012
+
+
+Hello, 
+in the proposal, how should a timeline be? 
+Does every project need to have final testing? 
+
+
+How are they usually done? 
+
+
+Thanks, 
+Anna 
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-women-list
+From mary@adainitiative.org  Sat Apr 28 00:11:05 2012
+Return-Path: <mary@adainitiative.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 05C4F7500DC
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 28 Apr 2012 00:11:05 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.6
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.6 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_LOW=-0.7] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id sjhdjBMl-EwA for <gnome-women-list@mail.gnome.org>;
+	Sat, 28 Apr 2012 00:11:03 +0000 (UTC)
+Received: from mail-vb0-f46.google.com (mail-vb0-f46.google.com
+	[209.85.212.46])
+	by menubar.gnome.org (Postfix) with ESMTP id F281C75006F
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 28 Apr 2012 00:10:54 +0000 (UTC)
+Received: by vbbff1 with SMTP id ff1so1463971vbb.33
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 27 Apr 2012 17:10:53 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=google.com; s=20120113;
+	h=mime-version:x-originating-ip:in-reply-to:references:from:date
+	:message-id:subject:to:content-type:content-transfer-encoding
+	:x-gm-message-state;
+	bh=SIE4JQQcRId958V0FINQBxCVouKtCT+uD/67aGLr118=;
+	b=dL8kUumSJDPIi6/AR3Pe60xdmhKQTk2U1Dp8yStXI0PSufKzcBO0nIAwiRx212JUTB
+	odRdAQnedJsBF3qkF8rMPBijWdHlIkdyTKuAru4VWYkcMSvgfwTpjeqcClq3PHcIh6jq
+	xpJAEhgnez9PUQapfPzkqw7Sj/nQ/hd5xp7K6fMTGUDLM5paMZfEo+FXZqSQTBa8/c1M
+	RSJBi+BOQS4UdtJ7axr/VBbmMshHim18oNmAtnVNDtBYFkBci3ElnNJiX0ZPQGfhfFLI
+	bCM6SHeFh2HQjmN1xd77pR9Z3vUtX3PRfmnz6QqUZnd6IrTbe9Twid/WkzjUqJGS/rXf
+	QpAg==
+Received: by 10.52.69.193 with SMTP id g1mr6961621vdu.126.1335571853297; Fri,
+	27 Apr 2012 17:10:53 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.220.48.83 with HTTP; Fri, 27 Apr 2012 17:10:32 -0700 (PDT)
+X-Originating-IP: [2001:44b8:31b3:9600:1e65:9dff:fe2e:2afe]
+In-Reply-To: <CACSXjHT1NhRZu_5Yp6ydn3g4YUR6KE+OntqJzvdx3nSZz488Hw@mail.gmail.com>
+References: <CACSXjHT1NhRZu_5Yp6ydn3g4YUR6KE+OntqJzvdx3nSZz488Hw@mail.gmail.com>
+From: Mary Gardiner <mary@adainitiative.org>
+Date: Sat, 28 Apr 2012 10:10:32 +1000
+Message-ID: <CACSXjHRSgLqAVTMR1phdKFDA492V3OA_5dRGPO1fiyvkM_YRdg@mail.gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+X-Gm-Message-State: ALoCoQm++nqak+sKx1nfYKRSoMF8cr9ve5WCtpwhROQ9psQwAZTmdmMZn/9K6N9v8bNQQ6Ns9Y9e
+Subject: [gnome-women] =?windows-1252?q?Applications_now_open_for_AdaCamp_?=
+	=?windows-1252?q?DC=2C_July_10=9611?=
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 28 Apr 2012 00:11:05 -0000
+
+Applications for AdaCamp DC are now open - apply now!
+
+http://dc.adacamp.org/apply/
+
+AdaCamp DC will be July 10=9611, 2012, in Washington DC, co-located
+with Wikimania 2012. We are likely to have more applications than
+available slots, so apply now to have the best chance of attending.
+Applications close June 15 (May 11 for those requesting travel
+assistance).
+
+Who should apply
+
+AdaCamp DC will bring together a wide variety of people from open
+technology and culture, all of whom are working to support women in
+open tech/culture. We're looking for people who:
+
+* Participate in open technology and culture: any field involving
+open/grassroots/community participation and sharing the results of
+your work for free: open data, open source software, wikis, open
+government, open libraries, remix/fan culture, open video, and more
+* Can share information about women's experiences in that field,
+including talking about women's achievements and the challenges they
+face
+* Want to work together and share strategies to support and promote
+women in the field
+* Share the Ada Initiative's feminist approach to supporting and
+promoting women in open technology and culture
+* Are young and old; students, professionals and hobbyists; from a
+diverse range of backgrounds; and reflect the breadth of the open
+technology and culture field
+
+AdaCamp is open to people of all genders. However, since AdaCamp and
+the Ada Initiative exist to support and promote women in open
+technology and culture, prospective attendees who are not themselves
+women will need to demonstrate a high level of prior engagement and
+experience with the issues faced by women in those fields in order to
+be invited.
+
+Find out more about AdaCamp DC at the event webpage: http://dc.adacamp.org/

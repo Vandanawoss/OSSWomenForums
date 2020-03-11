@@ -1,0 +1,124 @@
+From cmiramon at kde-france.org  Tue Dec  4 00:37:49 2007
+From: cmiramon at kde-france.org (cmiramon at kde-france.org)
+Date: Tue, 04 Dec 2007 00:37:49 +0100
+Subject: [Kde-women] I'm glad to find that this list exists
+References: <3081c4410711231441i185d6601lf14603604d0499ea@mail.gmail.com>
+Message-ID: <fj240e$98h$1@ger.gmane.org>
+
+Valorie Zimmerman wrote:
+
+> Hi everyone,
+> 
+> I just found out that this list exists from Vid Ayer's pages on the
+> web, and signed right up. I'm generally a happy user of KDE, first in
+> Mandrake, then Gentoo, and now Kubuntu. But a number of small issues
+> have arisen, and I don't know who to ask for advice.
+
+The list is more or less dead...
+
+> 
+> I'll start with the little annoyances first -- I've installed Kmoon
+> and Kweather in both Dapper Drake and now in Gutsy, but neither runs.
+> They don't show up in the menus, and when I attempt to start from
+> Konsole, I get "command not found". I used to love both these lil
+> applets.
+
+Right click on the systray (right of the panel) and choose "add an applet".
+
+Cheers,
+Charles
+
+
+From valorie.zimmerman at gmail.com  Thu Dec  6 03:09:56 2007
+From: valorie.zimmerman at gmail.com (Valorie Zimmerman)
+Date: Wed, 5 Dec 2007 18:09:56 -0800
+Subject: [Kde-women] I'm glad to find that this list exists
+In-Reply-To: <fj240e$98h$1@ger.gmane.org>
+References: <3081c4410711231441i185d6601lf14603604d0499ea@mail.gmail.com>
+	<fj240e$98h$1@ger.gmane.org>
+Message-ID: <3081c4410712051809q349c2c94pd5f7db9b7165350e@mail.gmail.com>
+
+On Dec 3, 2007 3:37 PM,  <cmiramon at kde-france.org> wrote:
+> Valorie Zimmerman wrote:
+>
+> > Hi everyone,
+> >
+> > I just found out that this list exists from Vid Ayer's pages on the
+> > web, and signed right up. I'm generally a happy user of KDE, first in
+> > Mandrake, then Gentoo, and now Kubuntu. But a number of small issues
+> > have arisen, and I don't know who to ask for advice.
+>
+> The list is more or less dead...
+
+I'm sorry to hear that. Any particular reason for that?
+
+> > I'll start with the little annoyances first -- I've installed Kmoon
+> > and Kweather in both Dapper Drake and now in Gutsy, but neither runs.
+> > They don't show up in the menus, and when I attempt to start from
+> > Konsole, I get "command not found". I used to love both these lil
+> > applets.
+>
+> Right click on the systray (right of the panel) and choose "add an applet".
+>
+> Cheers,
+> Charles
+
+Thanks Charles -- that did the trick.
+
+Valorie
+-- 
+All my pages: http://valorie.zimmerman.googlepages.com
+
+From svaksha at gmail.com  Thu Dec  6 18:24:52 2007
+From: svaksha at gmail.com (Vid Ayer)
+Date: Thu, 6 Dec 2007 22:54:52 +0530
+Subject: [Kde-women] I'm glad to find that this list exists
+In-Reply-To: <3081c4410712051809q349c2c94pd5f7db9b7165350e@mail.gmail.com>
+References: <3081c4410711231441i185d6601lf14603604d0499ea@mail.gmail.com>
+	<fj240e$98h$1@ger.gmane.org>
+	<3081c4410712051809q349c2c94pd5f7db9b7165350e@mail.gmail.com>
+Message-ID: <12470af00712060924k5e79b2eam69f7fb1f8e201132@mail.gmail.com>
+
+On Dec 6, 2007 7:39 AM, Valorie Zimmerman <valorie.zimmerman at gmail.com> wrote:
+>
+> I'm sorry to hear that. Any particular reason for that?
+
+... probably due to the low number of posts (just guessing)
+
+-- 
+Wishes,
+
+Vid
+http://wiki.ubuntu-women.org/VidAyer || To lead people, walk behind
+them ~LaoTzu ||
+
+From chanika at gmail.com  Fri Dec  7 05:14:22 2007
+From: chanika at gmail.com (Chani)
+Date: Fri, 7 Dec 2007 12:14:22 +0800
+Subject: [Kde-women] I'm glad to find that this list exists
+In-Reply-To: <3081c4410712051809q349c2c94pd5f7db9b7165350e@mail.gmail.com>
+References: <3081c4410711231441i185d6601lf14603604d0499ea@mail.gmail.com>
+	<fj240e$98h$1@ger.gmane.org>
+	<3081c4410712051809q349c2c94pd5f7db9b7165350e@mail.gmail.com>
+Message-ID: <200712071214.49395.chanika@gmail.com>
+
+
+> > The list is more or less dead...
+>
+> I'm sorry to hear that. Any particular reason for that?
+
+seems to me that kde women are comfortable enough in the community that 
+there's no need for a separate mailing list :) at least in my experience 
+people are quite friendly and mature.
+
+-- 
+This message brought to you by evyl bananas, and the number 3.
+www.chani3.com
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: This is a digitally signed message part.
+Url : http://mail.kde.org/pipermail/kde-women/attachments/20071207/9c53410b/attachment.pgp 
+

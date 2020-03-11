@@ -1,0 +1,2100 @@
+From erin at openstack.org  Mon Jun  6 08:56:54 2016
+From: erin at openstack.org (Erin Disney)
+Date: Mon, 6 Jun 2016 10:56:54 +0200
+Subject: [Women-of-openstack] Call for Presentations NOW OPEN- OpenStack
+	Summit Barcelona October 2016
+Message-ID: <C1CCC879-D838-4153-9004-2A6A01FD26A4@openstack.org>
+
+Hi Everyone-
+
+The Call for Presentations is NOW OPEN <https://www.openstack.org/summit/barcelona-2016/call-for-speakers/> for the upcoming OpenStack Summit in Barcelona, October 25-28! 
+
+Hurry - the submission deadline is July 13th at 11:59pm PST (July 14th at 6:59 UTC). 
+
+Details on the selection process and track chair information can be found here <https://www.openstack.org/summit/barcelona-2016/call-for-speakers/selection-process>. June 17th is the deadline for track chair nominations. 
+
+New:
+Proposed sessions must indicate a format: Panel or Presentation. Each format has a maximum number of speakers associated. Panels are allowed a total of four speakers plus one moderator, whereas Presentations are limited to two speakers. 
+
+As a reminder, speakers are limited to a maximum of three presentation submissions total. 
+
+Contact  <mailto:speakersupport at openstack.org>speakersupport at openstack.org <mailto:speakersupport at openstack.org> with any submission questions. 
+
+REGISTRATION 
+Registration is now open <https://openstacksummit2016barcelona.eventbrite.com/>. Purchase your discounted early bird passes now. Prices will increase in early September.
+ 
+
+SPONSORSHIP SALES
+Sponsorship sales will open Wednesday, June 15, at 8:00am PST (15:00 UTC). At that time the executable electronic contract will be made available for signature HERE <https://www.openstack.org/summit/barcelona-2016/sponsors/#how-to-sponsor>. All sponsorships will be sold on a first-come basis determined by the time stamp on completed electronic agreements. The top level sponsorships and limited quantity add-ons always sell out quickly so please be mindful of that. 
+
+Full details of the sponsorship signing process are outlined here <https://www.openstack.org/summit/barcelona-2016/sponsors/#how-to-sponsor> and on page 4 of the Prospectus <https://www.openstack.org/assets/barcelona-summit/Barcelona-Sponsorship-Prospectus.pdf>. Once you execute the Barcelona Summit contract you will receive a confirmation email from Echosign, you must click the link in that email to complete the signing process. Don?t forget that last step! If you have any overdue balances owed to the Foundation then these must be paid in full before you sign the Summit contract.
+
+AUSTIN SESSION FEEDBACK
+During the OpenStack Summit in Austin we did not receive as many sessions ratings as we'd have liked via the mobile app. Here?s another chance to provide feedback to speakers. You'll find that the session list is based on your personal schedule. If you didn't attend one of the sessions listed, just skip it. We will also be improving the in-app feedback mechanism for future Summits. Please note that all feedback will be publicly viewable including your name. Click here <https://www.openstack.org/summit/austin-2016/review> to rate the Summit sessions that you attended in Austin.
+
+If you have any general Summit questions, contact us at summit at openstack.org <mailto:summit at openstack.org>.
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160606/c4042ef3/attachment.html>
+
+From carol.l.barrett at intel.com  Mon Jun 13 18:28:12 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 13 Jun 2016 18:28:12 +0000
+Subject: [Women-of-openstack] [OpenStack] Women of OpenStack - Team meeting
+	reminder
+Message-ID: <2D352D0CD819F64F9715B1B89695400D600E4476@ORSMSX113.amr.corp.intel.com>
+
+Hi All - We're on for our team meeting today. Here are the details:
+
+Logistics:
+Monday June 13, 2016 at 2000 UTC
+1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+
+Agenda: https://etherpad.openstack.org/p/WOS_6_13_16
+
+Talk to you then.
+Carol
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160613/10dd9313/attachment.html>
+
+From jessicak at us.ibm.com  Mon Jun 13 18:57:56 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 13 Jun 2016 13:57:56 -0500
+Subject: [Women-of-openstack] [OpenStack] Women of OpenStack - Team
+	meeting	reminder
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D600E4476@ORSMSX113.amr.corp.intel.com>
+References: <2D352D0CD819F64F9715B1B89695400D600E4476@ORSMSX113.amr.corp.intel.com>
+Message-ID: <OFDD3D118D.5CC64A21-ON00257FD1.0067913A-86257FD1.00682E8F@notes.na.collabserv.com>
+
+These are the top focus areas we discussed focusing on for the Mitaka
+cycle. Please join us either on the teleconference today or check back in
+later on the etherpad(https://etherpad.openstack.org/p/WOS_6_13_16) to join
+in the discussion.
+
+Create WOO mission statement with clear bullet points and definition of
+scope
+   'Lowering/removing the barriers of entry for everybody.' With a targeted
+   mission that benefits the broader group.
+   Publicize the WOO mission statement (2-3 sentences)
+   Owner: Courtney Ferry
+
+Define how WOO interacts with the OpenStack Diversity Council
+   Ideas discussed: Keep name the same and make sure the activities are
+   open for everyone. Expand our wiki section and make sure the
+   non-inclusiveness of the group is more clear
+   Owner: Carol Barrett / Jessica Murillo
+
+Need a resource page that is easy to navigate, and contains useful
+information for new members
+   Implementing regional WOO meet-ups and publish on WIKI
+   Owner: TBD
+
+Recruit and enable more women speakers in Barcelona
+   Discussion/Ideas: Learn from a public speaking coach or sponsor a
+   worksop? ex. Margaret Dawson from RedHat is a public speaking coach
+   (Maria Bracho knows Margaret and will discuss our reqeust; invite
+   Margaret to a future meeting to discuss how she might be able to help)
+   Owner: Maria Bracho
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	"Barrett, Carol L" <carol.l.barrett at intel.com>
+To:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	06/13/2016 01:29 PM
+Subject:	[Women-of-openstack] [OpenStack] Women of OpenStack - Team
+            meeting	reminder
+
+
+
+Hi All ? We?re on for our team meeting today. Here are the details:
+
+Logistics:
+Monday June 13, 2016 at 2000 UTC
+1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+
+Agenda: https://etherpad.openstack.org/p/WOS_6_13_16
+
+Talk to you then.
+Carol_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160613/6108a7da/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160613/6108a7da/attachment.gif>
+
+From jessicak at us.ibm.com  Tue Jun 14 04:47:14 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 13 Jun 2016 23:47:14 -0500
+Subject: [Women-of-openstack] [OpenStack] Women of OpenStack - Team
+ meeting etherpad
+In-Reply-To: <OFDD3D118D.5CC64A21-ON00257FD1.0067913A-86257FD1.00682E8F@notes.na.collabserv.com>
+References: <2D352D0CD819F64F9715B1B89695400D600E4476@ORSMSX113.amr.corp.intel.com>
+ <OFDD3D118D.5CC64A21-ON00257FD1.0067913A-86257FD1.00682E8F@notes.na.collabserv.com>
+Message-ID: <OFEE7D9B5B.40E67233-ON00257FD2.00177EFF-86257FD2.001A4C61@notes.na.collabserv.com>
+
+Please review today's WOO meeting etherpad and add your comments to
+https://etherpad.openstack.org/p/WOS_6_13_16 to join in the discussion. We
+will dedicate time during each meeting to discuss our plans for Barcelona
+and progress against these focus areas. Our next WOO meeting is scheduled
+June 27. You can sign up to lead this meeting or another upcoming meeting
+at: https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+I have included our focus areas for the Newton cycle below including an
+updated list of action item owners.
+
+WOO Focus areas for Newton cycle
+1. Create WOO mission statement with clear bullet points and definition of
+scope
+Ideas discussed: Lowering/removing the barriers of entry for everybody with
+a targeted mission that benefits the broader group.?Ask for feedback from
+the WOO mailing list and publicize the WOO mission statement (2-3
+sentences)
+Owner: Courtney Ferry
+
+2. Define how WOO interacts with the OpenStack Diversity Council
+Ideas discussed: Encourage WOO to engage and join in the diversity working
+group discussions. The work group has decided to utilize a combination of
+ML and etherpad discussion instead of regular meetings. The current agenda
+and discussion is located at:
+https://etherpad.openstack.org/p/5_19_16_Diversity_Mtg_Log
+The group will conclude discussion on this etherpad on 6/3/16. They will
+publish the next agenda and etherpad on 6/6/16 via the OpenStack Foundation
+ML and the Women of OpenStack ML.? Follow this link to sign-up for the
+Foundation mailing list to follow discussions about the diversity work
+group? http://lists.openstack.org/cgi-bin/mailman/listinfo/foundation
+Owner: Carol Barrett / Jessica Murillo
+
+3. Need a resource page that is easy to navigate, and contains useful
+information for new members
+Ideas discussed: Mike Perez is leading work to ease on-boarding new members
+to the community through online documentation. This is a year long project
+to revamp how the underlying infrastructure works today and how groups can
+easily add and curate their content (text, videos, etc.) We will develop a
+plan for the WOO information to incorporated into the new infrastructure
+foundation.
+Owner: Amy Marrich and Aimee Ukasick
+
+4. Recruit and enable more women speakers in Barcelona
+Ideas discussed: Learn from a public speaking coach through a webinar or
+workshop. One idea was to ask Margaret Dawson (RedHat) is a public speaking
+coach to record a webinar sponsored by the WOO.
+Owner: Maria Bracho
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Jessica Murillo/Austin/IBM at IBMUS
+To:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	06/13/2016 01:59 PM
+Subject:	Re: [Women-of-openstack] [OpenStack] Women of OpenStack - Team
+            meeting	reminder
+
+
+
+These are the top focus areas we discussed focusing on for the Newton
+cycle. Please join us either on the teleconference today or check back in
+later on the etherpad(https://etherpad.openstack.org/p/WOS_6_13_16) to join
+in the discussion.
+
+Create WOO mission statement with clear bullet points and definition of
+scope
+      'Lowering/removing the barriers of entry for everybody.' With a
+      targeted mission that benefits the broader group.
+      Publicize the WOO mission statement (2-3 sentences)
+      Owner: Courtney Ferry
+
+Define how WOO interacts with the OpenStack Diversity Council
+      Ideas discussed: Keep name the same and make sure the activities are
+      open for everyone. Expand our wiki section and make sure the
+      non-inclusiveness of the group is more clear
+      Owner: Carol Barrett / Jessica Murillo
+
+Need a resource page that is easy to navigate, and contains useful
+information for new members
+      Implementing regional WOO meet-ups and publish on WIKI
+      Owner: TBD
+
+Recruit and enable more women speakers in Barcelona
+      Discussion/Ideas: Learn from a public speaking coach or sponsor a
+      worksop? ex. Margaret Dawson from RedHat is a public speaking coach
+      (Maria Bracho knows Margaret and will discuss our reqeust; invite
+      Margaret to a future meeting to discuss how she might be able to
+      help)
+      Owner: Maria Bracho
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+Inactive hide details for "Barrett, Carol L" ---06/13/2016 01:29:26 PM---Hi
+All - We're on for our team meeting today. Here are"Barrett, Carol L"
+---06/13/2016 01:29:26 PM---Hi All - We're on for our team meeting today.
+Here are the details: Logistics:
+
+From: "Barrett, Carol L" <carol.l.barrett at intel.com>
+To: "women-of-openstack at lists.openstack.org"
+<women-of-openstack at lists.openstack.org>
+Date: 06/13/2016 01:29 PM
+Subject: [Women-of-openstack] [OpenStack] Women of OpenStack - Team meeting
+reminder
+
+
+
+Hi All ? We?re on for our team meeting today. Here are the details:
+
+Logistics:
+Monday June 13, 2016 at 2000 UTC
+1-203-277-8157 or 866-619-0383 Participant: 7217256# Leader 4018#
+
+
+Agenda: https://etherpad.openstack.org/p/WOS_6_13_16
+
+Talk to you then.
+Carol_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160613/79444fd3/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160613/79444fd3/attachment-0001.gif>
+
+From jamesd at catalyst.net.nz  Fri Jun 17 00:13:16 2016
+From: jamesd at catalyst.net.nz (James Dempsey)
+Date: Fri, 17 Jun 2016 12:13:16 +1200
+Subject: [Women-of-openstack] Writing better Job Descriptions
+Message-ID: <5763409C.4020508@catalyst.net.nz>
+
+Hello, Women of OpenStack!
+
+I could use some help.  We will be looking to hire one or two OpenStack
+Operations Engineers soon, and I want to make sure that our postings are
+inclusive and attractive to current and future women of OpenStack.  Does
+anyone have any tips or reference job descriptions that might help me
+ensure that we are attracting great female candidates?
+
+Cheers,
+James
+
+-- 
+James Dempsey
+Senior Cloud Engineer
+Catalyst IT Limited
++64 4 803 2264
+--
+
+
+From rochelle.grober at huawei.com  Fri Jun 17 01:12:26 2016
+From: rochelle.grober at huawei.com (Rochelle Grober)
+Date: Fri, 17 Jun 2016 01:12:26 +0000
+Subject: [Women-of-openstack] Writing better Job Descriptions
+In-Reply-To: <5763409C.4020508@catalyst.net.nz>
+References: <5763409C.4020508@catalyst.net.nz>
+Message-ID: <DA7681A6D234954992BD2FB907F96662091B46D2@SJCEML701-CHM.china.huawei.com>
+
+Well, (and only if it's true),  letting the job seekers know you have 
+ *  an open, collaborative environment
+ *  Open door policy with regards to work, questions, issues, etc
+ *  Family friendly (meaning the company/team/management works with employees to deal with all family related emergencies such as sick family members, school demands, etc)
+ *  Diverse, friendly, open, supportive team
+ *  looking for problem solvers
+
+That's some of the stuff *I* look for.  But I also look for honesty, so if you don't have all those things yet, say "looking to build" that collaborative, open, diverse work environment
+
+
+HTH
+--Rocky
+
+
+-----Original Message-----
+From: James Dempsey [mailto:jamesd at catalyst.net.nz] 
+Sent: Thursday, June 16, 2016 5:13 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Writing better Job Descriptions
+
+Hello, Women of OpenStack!
+
+I could use some help.  We will be looking to hire one or two OpenStack
+Operations Engineers soon, and I want to make sure that our postings are
+inclusive and attractive to current and future women of OpenStack.  Does
+anyone have any tips or reference job descriptions that might help me
+ensure that we are attracting great female candidates?
+
+Cheers,
+James
+
+-- 
+James Dempsey
+Senior Cloud Engineer
+Catalyst IT Limited
++64 4 803 2264
+--
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+From val.wanjura at RACKSPACE.COM  Fri Jun 17 03:10:56 2016
+From: val.wanjura at RACKSPACE.COM (Val Wanjura)
+Date: Fri, 17 Jun 2016 03:10:56 +0000
+Subject: [Women-of-openstack] Writing better Job Descriptions
+In-Reply-To: <DA7681A6D234954992BD2FB907F96662091B46D2@SJCEML701-CHM.china.huawei.com>
+References: <5763409C.4020508@catalyst.net.nz>
+ <DA7681A6D234954992BD2FB907F96662091B46D2@SJCEML701-CHM.china.huawei.com>
+Message-ID: <D388D442.282EF%val.wanjura@RACKSPACE.COM>
+
+Hi James,
+
+Thank you for being a change leader!
+
+I volunteer as a Co-Chair on the Research Team at NCWIT (National Center
+for Women & Information Technology). NCWIT has a lot of wonderful
+resources on their website.
+
+On the resources page (link below), you can filter by Goals:Recruiting and
+Audience:-Industry/Government/Other to find tips for writing better job
+ads, recruiting a diverse technical workforce, reducing unconscious bias,
+and many more resources.
+https://www.ncwit.org/resources
+
+Hope this helps!
+
+Val Wanjura
+Manager, Technical Operations
+Private Cloud | Rackspace
+
+
+
+
+On 6/16/16, 8:12 PM, "Rochelle Grober" <rochelle.grober at huawei.com> wrote:
+
+>Well, (and only if it's true),  letting the job seekers know you have
+> *  an open, collaborative environment
+> *  Open door policy with regards to work, questions, issues, etc
+> *  Family friendly (meaning the company/team/management works with
+>employees to deal with all family related emergencies such as sick family
+>members, school demands, etc)
+> *  Diverse, friendly, open, supportive team
+> *  looking for problem solvers
+>
+>That's some of the stuff *I* look for.  But I also look for honesty, so
+>if you don't have all those things yet, say "looking to build" that
+>collaborative, open, diverse work environment
+>
+>
+>HTH
+>--Rocky
+>
+>
+>-----Original Message-----
+>From: James Dempsey [mailto:jamesd at catalyst.net.nz]
+>Sent: Thursday, June 16, 2016 5:13 PM
+>To: women-of-openstack at lists.openstack.org
+>Subject: [Women-of-openstack] Writing better Job Descriptions
+>
+>Hello, Women of OpenStack!
+>
+>I could use some help.  We will be looking to hire one or two OpenStack
+>Operations Engineers soon, and I want to make sure that our postings are
+>inclusive and attractive to current and future women of OpenStack.  Does
+>anyone have any tips or reference job descriptions that might help me
+>ensure that we are attracting great female candidates?
+>
+>Cheers,
+>James
+>
+>-- 
+>James Dempsey
+>Senior Cloud Engineer
+>Catalyst IT Limited
+>+64 4 803 2264
+>--
+>
+>_______________________________________________
+>Women-of-openstack mailing list
+>Women-of-openstack at lists.openstack.org
+>http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>_______________________________________________
+>Women-of-openstack mailing list
+>Women-of-openstack at lists.openstack.org
+>http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+From Nithya.Ruff at sandisk.com  Fri Jun 17 01:47:11 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Fri, 17 Jun 2016 01:47:11 +0000
+Subject: [Women-of-openstack] Writing better Job Descriptions
+In-Reply-To: <DA7681A6D234954992BD2FB907F96662091B46D2@SJCEML701-CHM.china.huawei.com>
+References: <5763409C.4020508@catalyst.net.nz>
+ <DA7681A6D234954992BD2FB907F96662091B46D2@SJCEML701-CHM.china.huawei.com>
+Message-ID: <DM2PR0201MB097525A6202A0371B9E4A671F6570@DM2PR0201MB0975.namprd02.prod.outlook.com>
+
+James
+
+Thank you for asking this question. Rocky's input is very good.  Here is additional information from NCWIT.org which works on checklists and best practices for creating gender parity in technology.  This will add to what Rocky provides below.
+
+
+
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, CTO Office
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com        Twitter: @nithyaruff
+
+-----Original Message-----
+From: Rochelle Grober [mailto:rochelle.grober at huawei.com]
+Sent: Thursday, June 16, 2016 6:12 PM
+To: James Dempsey <jamesd at catalyst.net.nz>; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Writing better Job Descriptions
+
+Well, (and only if it's true),  letting the job seekers know you have
+ *  an open, collaborative environment
+ *  Open door policy with regards to work, questions, issues, etc
+ *  Family friendly (meaning the company/team/management works with employees to deal with all family related emergencies such as sick family members, school demands, etc)
+ *  Diverse, friendly, open, supportive team
+ *  looking for problem solvers
+
+That's some of the stuff *I* look for.  But I also look for honesty, so if you don't have all those things yet, say "looking to build" that collaborative, open, diverse work environment
+
+
+HTH
+--Rocky
+
+
+-----Original Message-----
+From: James Dempsey [mailto:jamesd at catalyst.net.nz]
+Sent: Thursday, June 16, 2016 5:13 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Writing better Job Descriptions
+
+Hello, Women of OpenStack!
+
+I could use some help.  We will be looking to hire one or two OpenStack Operations Engineers soon, and I want to make sure that our postings are inclusive and attractive to current and future women of OpenStack.  Does anyone have any tips or reference job descriptions that might help me ensure that we are attracting great female candidates?
+
+Cheers,
+James
+
+--
+James Dempsey
+Senior Cloud Engineer
+Catalyst IT Limited
++64 4 803 2264
+--
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: ncwitchecklist_reducingunconsciousbiasjobdescriptions.pdf
+Type: application/pdf
+Size: 101768 bytes
+Desc: ncwitchecklist_reducingunconsciousbiasjobdescriptions.pdf
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160617/df4515d1/attachment-0001.pdf>
+
+From Nithya.Ruff at sandisk.com  Fri Jun 17 02:05:40 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Fri, 17 Jun 2016 02:05:40 +0000
+Subject: [Women-of-openstack] Writing better Job Descriptions
+In-Reply-To: <DA7681A6D234954992BD2FB907F96662091B46D2@SJCEML701-CHM.china.huawei.com>
+References: <5763409C.4020508@catalyst.net.nz>
+ <DA7681A6D234954992BD2FB907F96662091B46D2@SJCEML701-CHM.china.huawei.com>
+Message-ID: <DM2PR0201MB097512EA440D7224EE5A194CF6570@DM2PR0201MB0975.namprd02.prod.outlook.com>
+
+James
+
+
+
+Thanks for the question.  I think Rocky gave you some great answers. Here is additional information from NCWIT on best practices for writing a job description.
+
+[cid:image001.jpg at 01D1C802.115AFB00]
+
+
+
+
+
+Thank You,
+
+Nithya A. Ruff
+
+Director, SanDisk Open Source Strategy, CTO Office
+
+WIN Board Member
+
+SanDisk |a Western Digital brand
+
+951 SanDisk Drive, Milpitas, CA 95035
+
+T: + (408-801-7068)| M: + (510-378-3159)
+
+Nithya.Ruff at SanDisk.com        Twitter: @nithyaruff
+
+
+
+
+
+-----Original Message-----
+From: Rochelle Grober [mailto:rochelle.grober at huawei.com]
+Sent: Thursday, June 16, 2016 6:12 PM
+To: James Dempsey <jamesd at catalyst.net.nz>; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Writing better Job Descriptions
+
+
+
+Well, (and only if it's true),  letting the job seekers know you have
+
+*  an open, collaborative environment
+
+*  Open door policy with regards to work, questions, issues, etc
+
+*  Family friendly (meaning the company/team/management works with employees to deal with all family related emergencies such as sick family members, school demands, etc)
+
+*  Diverse, friendly, open, supportive team
+
+*  looking for problem solvers
+
+
+
+That's some of the stuff *I* look for.  But I also look for honesty, so if you don't have all those things yet, say "looking to build" that collaborative, open, diverse work environment
+
+
+
+
+
+HTH
+
+--Rocky
+
+
+
+
+
+-----Original Message-----
+
+From: James Dempsey [mailto:jamesd at catalyst.net.nz]
+
+Sent: Thursday, June 16, 2016 5:13 PM
+
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+
+Subject: [Women-of-openstack] Writing better Job Descriptions
+
+
+
+Hello, Women of OpenStack!
+
+
+
+I could use some help.  We will be looking to hire one or two OpenStack Operations Engineers soon, and I want to make sure that our postings are inclusive and attractive to current and future women of OpenStack.  Does anyone have any tips or reference job descriptions that might help me ensure that we are attracting great female candidates?
+
+
+
+Cheers,
+
+James
+
+
+
+--
+
+James Dempsey
+
+Senior Cloud Engineer
+
+Catalyst IT Limited
+
++64 4 803 2264
+
+--
+
+
+
+_______________________________________________
+
+Women-of-openstack mailing list
+
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+_______________________________________________
+
+Women-of-openstack mailing list
+
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160617/c55a5c3e/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.jpg
+Type: image/jpeg
+Size: 44505 bytes
+Desc: image001.jpg
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160617/c55a5c3e/attachment-0001.jpg>
+
+From jessicak at us.ibm.com  Tue Jun 21 22:44:57 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Tue, 21 Jun 2016 17:44:57 -0500
+Subject: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+Message-ID: <OF319F520B.57982C5A-ON00257FD9.007BF8E9-86257FD9.007CF731@notes.na.collabserv.com>
+
+
+
+Please join us for the next Women of OpenStack meeting next Monday, June
+27. Please access the meeting etherpad to add your proposed agenda items.
+
+Women of OpenStack
+June 27, 2016
+2000 UTC, 1pm PT,  3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383? Participant: 7217256# Leader 4018#
+
+Meeting Leader: Jessica Murillo
+
+Meeting Agenda Etherpad: https://etherpad.openstack.org/p/WOS_6_27_16
+
+
+We are also looking for volunteers to lead our upcoming WOO meetings
+   Next two meetings: July 11 & July 25
+   https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160621/f0ab304a/attachment.html>
+
+From Amy.Marrich at rackspace.com  Wed Jun 22 14:12:24 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Wed, 22 Jun 2016 14:12:24 +0000
+Subject: [Women-of-openstack] Next WOO meeting - Monday,
+ June 27 @ 2000 UTC
+In-Reply-To: <OF319F520B.57982C5A-ON00257FD9.007BF8E9-86257FD9.007CF731@notes.na.collabserv.com>
+References: <OF319F520B.57982C5A-ON00257FD9.007BF8E9-86257FD9.007CF731@notes.na.collabserv.com>
+Message-ID: <D39006BB.1DCC6%amy.marrich@rackspace.com>
+
+>From the meeting notes for Monday there is an entry for metrics. I will be doing the OpenStack section on Open Source Day at the Grace Hopper conference in October a few weeks before summit and would love to have these numbers for the presentation.
+
+Thanks,
+
+Amy
+
+From: Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>>
+Date: Tuesday, June 21, 2016 at 5:44 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+
+
+Please join us for the next Women of OpenStack meeting next Monday, June 27. Please access the meeting etherpad to add your proposed agenda items.
+
+Women of OpenStack
+June 27, 2016
+2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+Meeting Leader: Jessica Murillo
+
+Meeting Agenda Etherpad: https://etherpad.openstack.org/p/WOS_6_27_16
+
+
+We are also looking for volunteers to lead our upcoming WOO meetings
+
+  *   Next two meetings: July 11 & July 25
+  *   https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160622/100fa2be/attachment.html>
+
+From jessicak at us.ibm.com  Wed Jun 22 16:57:50 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Wed, 22 Jun 2016 11:57:50 -0500
+Subject: [Women-of-openstack] Next WOO meeting - Monday,
+	June 27 @ 2000 UTC
+In-Reply-To: <D39006BB.1DCC6%amy.marrich@rackspace.com>
+References: <OF319F520B.57982C5A-ON00257FD9.007BF8E9-86257FD9.007CF731@notes.na.collabserv.com>
+ <D39006BB.1DCC6%amy.marrich@rackspace.com>
+Message-ID: <OFEE91CB23.97FFF7C3-ON00257FDA.005CC9BB-86257FDA.005D2FAD@notes.na.collabserv.com>
+
+
+That would be great --- using metrics to drive our WOO actions has been
+brought up several times. The last time we surveyed the WOO was prior to
+the Paris summit. I'd like to propose another WOO survey focused on
+demographics and key focus areas.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Amy Marrich <Amy.Marrich at rackspace.com>
+To:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	06/22/2016 09:13 AM
+Subject:	Re: [Women-of-openstack] Next WOO meeting - Monday, June 27 @
+            2000 UTC
+
+
+
+>From the meeting notes for Monday there is an entry for metrics. I will be
+doing the OpenStack section on Open Source Day at the Grace Hopper
+conference in October a few weeks before summit and would love to have
+these numbers for the presentation.
+
+Thanks,
+
+Amy
+
+From: Jessica Murillo <jessicak at us.ibm.com>
+Date: Tuesday, June 21, 2016 at 5:44 PM
+To: "women-of-openstack at lists.openstack.org" <
+women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+
+
+
+Please join us for the next Women of OpenStack meeting next Monday, June
+27. Please access the meeting etherpad to add your proposed agenda items.
+
+Women of OpenStack
+June 27, 2016
+2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+Meeting Leader: Jessica Murillo
+
+Meeting Agenda Etherpad: https://etherpad.openstack.org/p/WOS_6_27_16
+
+
+We are also looking for volunteers to lead our upcoming WOO meetings
+      Next two meetings: July 11 & July 25
+      https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160622/04b78387/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160622/04b78387/attachment.gif>
+
+From Nithya.Ruff at sandisk.com  Wed Jun 22 17:03:39 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Wed, 22 Jun 2016 17:03:39 +0000
+Subject: [Women-of-openstack] Next WOO meeting - Monday,
+ June 27 @ 2000 UTC
+In-Reply-To: <OFEE91CB23.97FFF7C3-ON00257FDA.005CC9BB-86257FDA.005D2FAD@notes.na.collabserv.com>
+References: <OF319F520B.57982C5A-ON00257FD9.007BF8E9-86257FD9.007CF731@notes.na.collabserv.com>
+ <D39006BB.1DCC6%amy.marrich@rackspace.com>
+ <OFEE91CB23.97FFF7C3-ON00257FDA.005CC9BB-86257FDA.005D2FAD@notes.na.collabserv.com>
+Message-ID: <DM2PR0201MB09755FB692E301004C227D1EF62C0@DM2PR0201MB0975.namprd02.prod.outlook.com>
+
+I fully support this.  Also, it would be good to proactively partner with companies like Bitergia who did a great job of showcasing women in openstack and their contributions at the Austin summit. They would love to partner with us, but someone would need to sponsor the cost of doing the analytics work.
+I will be speaking at GHC as well on diversity in open source and Amy, good to talk on how we can complement each other.
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, CTO Office
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+From: Jessica Murillo [mailto:jessicak at us.ibm.com]
+Sent: Wednesday, June 22, 2016 9:58 AM
+To: Amy Marrich <Amy.Marrich at rackspace.com>
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+
+
+That would be great --- using metrics to drive our WOO actions has been brought up several times. The last time we surveyed the WOO was prior to the Paris summit. I'd like to propose another WOO survey focused on demographics and key focus areas.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+Mobile Phone: 512-970-8466
+
+[Inactive hide details for Amy Marrich ---06/22/2016 09:13:41 AM---From the meeting notes for Monday there is an entry for metri]Amy Marrich ---06/22/2016 09:13:41 AM---From the meeting notes for Monday there is an entry for metrics. I will be doing the OpenStack secti
+
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Date: 06/22/2016 09:13 AM
+Subject: Re: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+
+________________________________
+
+
+
+>From the meeting notes for Monday there is an entry for metrics. I will be doing the OpenStack section on Open Source Day at the Grace Hopper conference in October a few weeks before summit and would love to have these numbers for the presentation.
+
+Thanks,
+
+Amy
+
+From: Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>>
+Date: Tuesday, June 21, 2016 at 5:44 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+
+Please join us for the next Women of OpenStack meeting next Monday, June 27. Please access the meeting etherpad to add your proposed agenda items.
+
+Women of OpenStack
+June 27, 2016
+2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383 Participant: 7217256# Leader 4018#
+
+Meeting Leader: Jessica Murillo
+
+Meeting Agenda Etherpad: https://etherpad.openstack.org/p/WOS_6_27_16
+
+
+We are also looking for volunteers to lead our upcoming WOO meetings
+
+     *   Next two meetings: July 11 & July 25
+     *   https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+Mobile Phone: 512-970-8466_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160622/55259b3e/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.gif
+Type: image/gif
+Size: 105 bytes
+Desc: image001.gif
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160622/55259b3e/attachment-0001.gif>
+
+From mbracho at redhat.com  Fri Jun 24 22:34:54 2016
+From: mbracho at redhat.com (Maria Bracho)
+Date: Fri, 24 Jun 2016 18:34:54 -0400
+Subject: [Women-of-openstack] Writing better Job Descriptions
+In-Reply-To: <DM2PR0201MB097525A6202A0371B9E4A671F6570@DM2PR0201MB0975.namprd02.prod.outlook.com>
+References: <5763409C.4020508@catalyst.net.nz>
+ <DA7681A6D234954992BD2FB907F96662091B46D2@SJCEML701-CHM.china.huawei.com>
+ <DM2PR0201MB097525A6202A0371B9E4A671F6570@DM2PR0201MB0975.namprd02.prod.outlook.com>
+Message-ID: <CAM6SK=CPfX4=w0P2nXAGpkYV0C+fy9Y31cAa7SN47MLHZKu87w@mail.gmail.com>
+
+James,
+
+Thanks for asking that question and your interest in growing a team that
+includes women. You've received great feedback so far. I wanted to mention
+that you probably already have access to the best way to hire women in tech
+and, also important, keeping your current women employees happy. Ask your
+female coworkers for a referral to a particular position and make sure you
+interview every single one. Having another woman friend in the organization
+is key. Women supporting women and contributing to the team is a win-win.
+
+Best of luck!
+
+Maria Bracho
+Senior Product Manager
+Red Hat OpenStack
+301.775.4015
+
+
+On Thu, Jun 16, 2016 at 9:47 PM, Nithya Ruff <Nithya.Ruff at sandisk.com>
+wrote:
+
+> James
+>
+> Thank you for asking this question. Rocky's input is very good.  Here is
+> additional information from NCWIT.org which works on checklists and best
+> practices for creating gender parity in technology.  This will add to what
+> Rocky provides below.
+>
+>
+>
+>
+> Thank You,
+> Nithya A. Ruff
+> Director, SanDisk Open Source Strategy, CTO Office
+> WIN Board Member
+> SanDisk |a Western Digital brand
+> 951 SanDisk Drive, Milpitas, CA 95035
+> T: + (408-801-7068)| M: + (510-378-3159)
+> Nithya.Ruff at SanDisk.com        Twitter: @nithyaruff
+>
+> -----Original Message-----
+> From: Rochelle Grober [mailto:rochelle.grober at huawei.com]
+> Sent: Thursday, June 16, 2016 6:12 PM
+> To: James Dempsey <jamesd at catalyst.net.nz>;
+> women-of-openstack at lists.openstack.org
+> Subject: Re: [Women-of-openstack] Writing better Job Descriptions
+>
+> Well, (and only if it's true),  letting the job seekers know you have
+>  *  an open, collaborative environment
+>  *  Open door policy with regards to work, questions, issues, etc
+>  *  Family friendly (meaning the company/team/management works with
+> employees to deal with all family related emergencies such as sick family
+> members, school demands, etc)
+>  *  Diverse, friendly, open, supportive team
+>  *  looking for problem solvers
+>
+> That's some of the stuff *I* look for.  But I also look for honesty, so if
+> you don't have all those things yet, say "looking to build" that
+> collaborative, open, diverse work environment
+>
+>
+> HTH
+> --Rocky
+>
+>
+> -----Original Message-----
+> From: James Dempsey [mailto:jamesd at catalyst.net.nz]
+> Sent: Thursday, June 16, 2016 5:13 PM
+> To: women-of-openstack at lists.openstack.org
+> Subject: [Women-of-openstack] Writing better Job Descriptions
+>
+> Hello, Women of OpenStack!
+>
+> I could use some help.  We will be looking to hire one or two OpenStack
+> Operations Engineers soon, and I want to make sure that our postings are
+> inclusive and attractive to current and future women of OpenStack.  Does
+> anyone have any tips or reference job descriptions that might help me
+> ensure that we are attracting great female candidates?
+>
+> Cheers,
+> James
+>
+> --
+> James Dempsey
+> Senior Cloud Engineer
+> Catalyst IT Limited
+> +64 4 803 2264
+> --
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> PLEASE NOTE: The information contained in this electronic mail message is
+> intended only for the use of the designated recipient(s) named above. If
+> the reader of this message is not the intended recipient, you are hereby
+> notified that you have received this message in error and that any review,
+> dissemination, distribution, or copying of this message is strictly
+> prohibited. If you have received this communication in error, please notify
+> the sender by telephone or e-mail (as shown above) immediately and destroy
+> any and all copies of this message in your possession (whether hard copies
+> or electronically stored copies).
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160624/85160b79/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Mon Jun 27 16:38:09 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Mon, 27 Jun 2016 16:38:09 +0000
+Subject: [Women-of-openstack] Invitation: [OpenStack]Women of Openstack
+ Team Meeting Invite @ Every 4 weeks from 12pm to 1pm on Monday
+ (clbpdx09@gmail.com)
+In-Reply-To: <43020B3F5A5DD045B003E375A7459E08292E9835@SACMBXIP02.sdcorp.global.sandisk.com>
+References: <43020B3F5A5DD045B003E375A7459E08292E9835@SACMBXIP02.sdcorp.global.sandisk.com>
+Message-ID: <SN1PR02MB217366D214344FC9A47AF7EAF6210@SN1PR02MB2173.namprd02.prod.outlook.com>
+
+Sorry I am not able to attend today.
+
+One suggestion for a panel discussion-
+
+Creating a big tent in OpenStack - What does creating a big tent in OpenStack mean and what are the benefits of having an inclusive community.  This panel will consist of people from all parts of the OpenStack community - established PTL, WOO member, Newbie and other underrepresented group.  We will discuss, why we believe in and support creation of an inclusive OpenStack and give examples of benefits.
+Panel - 4-5 people mixed panel of people
+
+Can others add to this and share more proposals on the etherpad please?  I have post this to the etherpad as well. https://etherpad.openstack.org/p/WOS_6_27_16
+
+
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, CTO Office
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+
+-----Original Appointment-----
+From: Carol Barrett [mailto:clbpdx09 at gmail.com]
+Sent: Monday, September 14, 2015 4:14 PM
+To: Carol Barrett; women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Invitation: [OpenStack]Women of Openstack Team Meeting Invite @ Every 4 weeks from 12pm to 1pm on Monday (clbpdx09 at gmail.com)
+When: Monday, June 27, 2016 12:00 PM-1:00 PM (UTC-08:00) Pacific Time (US & Canada).
+Where: #openstack-meeting
+
+
+more details ><https://www.google.com/calendar/event?action=VIEW&eid=ZDUydTdiNHJuYmtuZGNwMXAzMzE5MzQyNHMgd29tZW4tb2Ytb3BlbnN0YWNrQGxpc3RzLm9wZW5zdGFjay5vcmc&tok=MTgjY2xicGR4MDlAZ21haWwuY29tODkxM2YwNmE3NjY2YmU4MzYzNzYwNGU1NTAyZGViYTNkMWRmNDRiZg&ctz=America/Los_Angeles&hl=en>
+
+[OpenStack]Women of Openstack Team Meeting Invite
+This is invitation is for the bi-weekly US-friendly meeting time for the Women of OpenStack. This meeting will occur every 4 weeks. The alternating meeting time is at 0200 UT on Tuesdays.
+When
+        Every 4 weeks from 12pm to 1pm on Monday Pacific Time
+
+Where
+        #openstack-meeting (map<https://maps.google.com/maps?q=%23openstack-meeting&hl=en>)
+
+Calendar
+        clbpdx09 at gmail.com
+
+Who
+        *
+        Carol Barrett - organizer
+
+*
+        women-of-openstack at lists.openstack.org
+
+
+
+Going?   All events in this series:   Yes<https://www.google.com/calendar/event?action=RESPOND&eid=ZDUydTdiNHJuYmtuZGNwMXAzMzE5MzQyNHMgd29tZW4tb2Ytb3BlbnN0YWNrQGxpc3RzLm9wZW5zdGFjay5vcmc&rst=1&tok=MTgjY2xicGR4MDlAZ21haWwuY29tODkxM2YwNmE3NjY2YmU4MzYzNzYwNGU1NTAyZGViYTNkMWRmNDRiZg&ctz=America/Los_Angeles&hl=en> - Maybe<https://www.google.com/calendar/event?action=RESPOND&eid=ZDUydTdiNHJuYmtuZGNwMXAzMzE5MzQyNHMgd29tZW4tb2Ytb3BlbnN0YWNrQGxpc3RzLm9wZW5zdGFjay5vcmc&rst=3&tok=MTgjY2xicGR4MDlAZ21haWwuY29tODkxM2YwNmE3NjY2YmU4MzYzNzYwNGU1NTAyZGViYTNkMWRmNDRiZg&ctz=America/Los_Angeles&hl=en> - No<https://www.google.com/calendar/event?action=RESPOND&eid=ZDUydTdiNHJuYmtuZGNwMXAzMzE5MzQyNHMgd29tZW4tb2Ytb3BlbnN0YWNrQGxpc3RzLm9wZW5zdGFjay5vcmc&rst=2&tok=MTgjY2xicGR4MDlAZ21haWwuY29tODkxM2YwNmE3NjY2YmU4MzYzNzYwNGU1NTAyZGViYTNkMWRmNDRiZg&ctz=America/Los_Angeles&hl=en>    more options ><https://www.google.com/calendar/event?action=VIEW&eid=ZDUydTdiNHJuYmtuZGNwMXAzMzE5MzQyNHMgd29tZW4tb2Ytb3BlbnN0YWNrQGxpc3RzLm9wZW5zdGFjay5vcmc&tok=MTgjY2xicGR4MDlAZ21haWwuY29tODkxM2YwNmE3NjY2YmU4MzYzNzYwNGU1NTAyZGViYTNkMWRmNDRiZg&ctz=America/Los_Angeles&hl=en>
+Invitation from Google Calendar<https://www.google.com/calendar/>
+
+You are receiving this courtesy email at the account women-of-openstack at lists.openstack.org because you are an attendee of this event.
+To stop receiving future updates for this event, decline this event. Alternatively you can sign up for a Google account at https://www.google.com/calendar/ and control your notification settings for your entire calendar.
+Forwarding this invitation could allow any recipient to modify your RSVP response. Learn More<https://support.google.com/calendar/answer/37135#forwarding>.
+ << File: invite.ics >>  << File: ATT00002.txt >>
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160627/b39f7b3f/attachment.html>
+
+From carol.l.barrett at intel.com  Mon Jun 27 20:15:26 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Mon, 27 Jun 2016 20:15:26 +0000
+Subject: [Women-of-openstack] Next WOO meeting - Monday,
+ June 27 @ 2000 UTC
+In-Reply-To: <OFEE91CB23.97FFF7C3-ON00257FDA.005CC9BB-86257FDA.005D2FAD@notes.na.collabserv.com>
+References: <OF319F520B.57982C5A-ON00257FD9.007BF8E9-86257FD9.007CF731@notes.na.collabserv.com>
+ <D39006BB.1DCC6%amy.marrich@rackspace.com>
+ <OFEE91CB23.97FFF7C3-ON00257FDA.005CC9BB-86257FDA.005D2FAD@notes.na.collabserv.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D60109FAE@ORSMSX116.amr.corp.intel.com>
+
+I'm traveling on the 27th and won't be able to attend. Will follow-up by checking the etherpad.
+Thanks
+Carol
+
+From: Jessica Murillo [mailto:jessicak at us.ibm.com]
+Sent: Wednesday, June 22, 2016 9:58 AM
+To: Amy Marrich <Amy.Marrich at rackspace.com>
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+
+
+That would be great --- using metrics to drive our WOO actions has been brought up several times. The last time we surveyed the WOO was prior to the Paris summit. I'd like to propose another WOO survey focused on demographics and key focus areas.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+Mobile Phone: 512-970-8466
+
+[Inactive hide details for Amy Marrich ---06/22/2016 09:13:41 AM---From the meeting notes for Monday there is an entry for metri]Amy Marrich ---06/22/2016 09:13:41 AM---From the meeting notes for Monday there is an entry for metrics. I will be doing the OpenStack secti
+
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Date: 06/22/2016 09:13 AM
+Subject: Re: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+
+________________________________
+
+
+
+>From the meeting notes for Monday there is an entry for metrics. I will be doing the OpenStack section on Open Source Day at the Grace Hopper conference in October a few weeks before summit and would love to have these numbers for the presentation.
+
+Thanks,
+
+Amy
+
+From: Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>>
+Date: Tuesday, June 21, 2016 at 5:44 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+
+Please join us for the next Women of OpenStack meeting next Monday, June 27. Please access the meeting etherpad to add your proposed agenda items.
+
+Women of OpenStack
+June 27, 2016
+2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383 Participant: 7217256# Leader 4018#
+
+Meeting Leader: Jessica Murillo
+
+Meeting Agenda Etherpad: https://etherpad.openstack.org/p/WOS_6_27_16
+
+
+We are also looking for volunteers to lead our upcoming WOO meetings
+
+     *   Next two meetings: July 11 & July 25
+     *   https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+Mobile Phone: 512-970-8466_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160627/5a256e06/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.gif
+Type: image/gif
+Size: 105 bytes
+Desc: image001.gif
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160627/5a256e06/attachment-0001.gif>
+
+From jessicak at us.ibm.com  Mon Jun 27 23:35:19 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 27 Jun 2016 18:35:19 -0500
+Subject: [Women-of-openstack] Review etherpad minutes: WOO meeting - Monday,
+	June 27
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D60109FAE@ORSMSX116.amr.corp.intel.com>
+References: <OF319F520B.57982C5A-ON00257FD9.007BF8E9-86257FD9.007CF731@notes.na.collabserv.com>
+ <D39006BB.1DCC6%amy.marrich@rackspace.com>
+ <OFEE91CB23.97FFF7C3-ON00257FDA.005CC9BB-86257FDA.005D2FAD@notes.na.collabserv.com>
+ <2D352D0CD819F64F9715B1B89695400D60109FAE@ORSMSX116.amr.corp.intel.com>
+Message-ID: <OFFBA21749.CC6EFF1C-ON00257FDF.007FED5C-86257FDF.0081937E@notes.na.collabserv.com>
+
+Thanks to all who were able to join today's Women of OpenStack meeting. If
+you were not able to attend, please visit today's etherpad to join in the
+discussion and add your input: https://etherpad.openstack.org/p/WOS_6_27_16
+
+Our next Women of OpenStack teleconference will be July 11, 2016 @2000 UTC,
+1pm PT, 3pm CT, 4pm ET
+
+Thank you, Nithaya for volunteering to lead the July 11 discussion.
+   https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	"Barrett, Carol L" <carol.l.barrett at intel.com>
+To:	Jessica Murillo/Austin/IBM at IBMUS, Amy Marrich
+            <Amy.Marrich at rackspace.com>
+Cc:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	06/27/2016 03:15 PM
+Subject:	RE: [Women-of-openstack] Next WOO meeting - Monday,	June 27 @
+            2000 UTC
+
+
+
+I?m traveling on the 27th and won?t be able to attend. Will follow-up by
+checking the etherpad.
+Thanks
+Carol
+
+From: Jessica Murillo [mailto:jessicak at us.ibm.com]
+Sent: Wednesday, June 22, 2016 9:58 AM
+To: Amy Marrich <Amy.Marrich at rackspace.com>
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000
+UTC
+
+
+
+That would be great --- using metrics to drive our WOO actions has been
+brought up several times. The last time we surveyed the WOO was prior to
+the Paris summit. I'd like to propose another WOO survey focused on
+demographics and key focus areas.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+Inactive hide details for Amy Marrich ---06/22/2016 09:13:41 AM---From the
+meeting notes for Monday there is an entry for metriAmy Marrich
+---06/22/2016 09:13:41 AM---From the meeting notes for Monday there is an
+entry for metrics. I will be doing the OpenStack secti
+
+From: Amy Marrich <Amy.Marrich at rackspace.com>
+To: "women-of-openstack at lists.openstack.org" <
+women-of-openstack at lists.openstack.org>
+Date: 06/22/2016 09:13 AM
+Subject: Re: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000
+UTC
+
+
+
+
+From the meeting notes for Monday there is an entry for metrics. I will be
+doing the OpenStack section on Open Source Day at the Grace Hopper
+conference in October a few weeks before summit and would love to have
+these numbers for the presentation.
+
+Thanks,
+
+Amy
+
+From: Jessica Murillo <jessicak at us.ibm.com>
+Date: Tuesday, June 21, 2016 at 5:44 PM
+To: "women-of-openstack at lists.openstack.org" <
+women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Next WOO meeting - Monday, June 27 @ 2000 UTC
+
+
+Please join us for the next Women of OpenStack meeting next Monday, June
+27. Please access the meeting etherpad to add your proposed agenda items.
+
+Women of OpenStack
+June 27, 2016
+2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383 Participant: 7217256# Leader 4018#
+
+Meeting Leader: Jessica Murillo
+
+Meeting Agenda Etherpad: https://etherpad.openstack.org/p/WOS_6_27_16
+
+
+We are also looking for volunteers to lead our upcoming WOO meetings
+            Next two meetings: July 11 & July 25
+            https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160627/acce3fa5/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160627/acce3fa5/attachment.gif>
+
+From bfcohen at luthcomputer.com  Wed Jun 29 01:11:55 2016
+From: bfcohen at luthcomputer.com (Beth Cohen)
+Date: Tue, 28 Jun 2016 21:11:55 -0400
+Subject: [Women-of-openstack] Request for ideas for WOO Sessions for
+	Barcelona
+Message-ID: <8e275679-813c-6db8-d031-1294d1e314c7@luthcomputer.com>
+
+Folks -
+
+Rather than being catch as catch can about the WOO sponsored 
+presentations -- besides I need to get some more input for the topics.  
+I have created an Ether Pad for us to share ideas.  I would like to 
+identify 2 or so panel topics and people who will volunteer to be on 
+them. Don't forget that presentation submissions close Mid July so we 
+want to get going!
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+-- 
+_____________________________________________________________________
+
+Beth Cohen	
+Luth Computer Specialists, Inc.
+www.luthcomputer.com
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160628/67d83202/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Wed Jun 29 01:27:58 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Wed, 29 Jun 2016 01:27:58 +0000
+Subject: [Women-of-openstack] Request for ideas for WOO Sessions
+	for	Barcelona
+In-Reply-To: <8e275679-813c-6db8-d031-1294d1e314c7@luthcomputer.com>
+References: <8e275679-813c-6db8-d031-1294d1e314c7@luthcomputer.com>
+Message-ID: <789EBACD-C244-4F59-9CB3-4C82E4AA41AC@sandisk.com>
+
+Beth
+
+Excellent idea and thanks for leading the charge here.
+I will take the idea I had submitted and add it to the ether pad.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+On Jun 28, 2016, at 6:12 PM, Beth Cohen <bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>> wrote:
+
+
+Folks -
+
+Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.  I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them.  Don't forget that presentation submissions close Mid July so we want to get going!
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+--
+_____________________________________________________________________
+
+Beth Cohen
+Luth Computer Specialists, Inc.
+www.luthcomputer.com<http://www.luthcomputer.com>
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160629/7483de46/attachment.html>
+
+From rochelle.grober at huawei.com  Wed Jun 29 01:30:42 2016
+From: rochelle.grober at huawei.com (Rochelle Grober)
+Date: Wed, 29 Jun 2016 01:30:42 +0000
+Subject: [Women-of-openstack] Request for ideas for WOO
+	Sessions	for	Barcelona
+In-Reply-To: <789EBACD-C244-4F59-9CB3-4C82E4AA41AC@sandisk.com>
+References: <8e275679-813c-6db8-d031-1294d1e314c7@luthcomputer.com>
+ <789EBACD-C244-4F59-9CB3-4C82E4AA41AC@sandisk.com>
+Message-ID: <DA7681A6D234954992BD2FB907F96662091E6B6E@SJCEML701-CHM.china.huawei.com>
+
+Nithya, Beth already added it....but you can expand on it if you want ;-)
+
+From: Nithya Ruff [mailto:Nithya.Ruff at sandisk.com]
+Sent: Tuesday, June 28, 2016 6:28 PM
+To: Beth Cohen
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Request for ideas for WOO Sessions for Barcelona
+
+Beth
+
+Excellent idea and thanks for leading the charge here.
+I will take the idea I had submitted and add it to the ether pad.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+On Jun 28, 2016, at 6:12 PM, Beth Cohen <bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>> wrote:
+
+Folks -
+
+Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.  I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them.  Don't forget that presentation submissions close Mid July so we want to get going!
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+
+--
+
+_____________________________________________________________________
+
+
+
+Beth Cohen
+
+Luth Computer Specialists, Inc.
+
+www.luthcomputer.com<http://www.luthcomputer.com>
+
+15 Wellington Street
+
+Arlington, MA 02476
+
+
+
+bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>
+
+Cell 617-721-7256
+
+781-646-4018
+
+Twitter: @bfcohen
+
+Skype: bfcohen100
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160629/1c37ac6d/attachment.html>
+
+From jessicak at us.ibm.com  Wed Jun 29 03:43:39 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Tue, 28 Jun 2016 22:43:39 -0500
+Subject: [Women-of-openstack] Request for ideas for
+	WOOSessionsforBarcelona
+In-Reply-To: <DA7681A6D234954992BD2FB907F96662091E6B6E@SJCEML701-CHM.china.huawei.com>
+References: <8e275679-813c-6db8-d031-1294d1e314c7@luthcomputer.com>
+ <789EBACD-C244-4F59-9CB3-4C82E4AA41AC@sandisk.com>
+ <DA7681A6D234954992BD2FB907F96662091E6B6E@SJCEML701-CHM.china.huawei.com>
+Message-ID: <OF1D79DDB4.8A5B821F-ON00257FE1.001450CE-86257FE1.001479E8@notes.na.collabserv.com>
+
+
+Thanks for getting the discussion started, Beth and Nithaya -- I have added
+the suggested panel from the Austin WOO working breakfast. I am looking
+forward to seeing what others have to add as well!
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Rochelle Grober <rochelle.grober at huawei.com>
+To:	Nithya Ruff <Nithya.Ruff at sandisk.com>, Beth Cohen
+            <bfcohen at luthcomputer.com>
+Cc:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	06/28/2016 08:31 PM
+Subject:	Re: [Women-of-openstack] Request for ideas for WOO	Sessions
+            for	Barcelona
+
+
+
+Nithya, Beth already added it....but you can expand on it if you want ;-)
+
+      From: Nithya Ruff [mailto:Nithya.Ruff at sandisk.com]
+      Sent: Tuesday, June 28, 2016 6:28 PM
+      To: Beth Cohen
+      Cc: women-of-openstack at lists.openstack.org
+      Subject: Re: [Women-of-openstack] Request for ideas for WOO Sessions
+      for Barcelona
+
+      Beth
+
+      Excellent idea and thanks for leading the charge here.
+      I will take the idea I had submitted and add it to the ether pad.
+
+      Thank You,
+      Nithya
+
+      Sent from my IPhone
+
+      On Jun 28, 2016, at 6:12 PM, Beth Cohen <bfcohen at luthcomputer.com>
+      wrote:
+            Folks -
+
+
+            Rather than being catch as catch can about the WOO sponsored
+            presentations -- besides I need to get some more input for the
+            topics.  I have created an Ether Pad for us to share ideas.  I
+            would like to identify 2 or so panel topics and people who will
+            volunteer to be on them.  Don't forget that presentation
+            submissions close Mid July so we want to get going!
+            https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+            --
+            _____________________________________________________________________
+
+            Beth Cohen
+            Luth Computer Specialists, Inc.
+            www.luthcomputer.com
+            15 Wellington Street
+            Arlington, MA 02476
+
+            bfcohen at luthcomputer.com
+            Cell 617-721-7256
+            781-646-4018
+            Twitter: @bfcohen
+            Skype: bfcohen100
+            _______________________________________________
+            Women-of-openstack mailing list
+            Women-of-openstack at lists.openstack.org
+            http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+      PLEASE NOTE: The information contained in this electronic mail
+      message is intended only for the use of the designated recipient(s)
+      named above. If the reader of this message is not the intended
+      recipient, you are hereby notified that you have received this
+      message in error and that any review, dissemination, distribution, or
+      copying of this message is strictly prohibited. If you have received
+      this communication in error, please notify the sender by telephone or
+      e-mail (as shown above) immediately and destroy any and all copies of
+      this message in your possession (whether hard copies or
+      electronically stored copies).
+      _______________________________________________
+      Women-of-openstack mailing list
+      Women-of-openstack at lists.openstack.org
+      http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160628/106986c0/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160628/106986c0/attachment-0001.gif>
+
+From nicole.k.rutherford at intel.com  Wed Jun 29 14:43:57 2016
+From: nicole.k.rutherford at intel.com (Rutherford, Nicole K)
+Date: Wed, 29 Jun 2016 14:43:57 +0000
+Subject: [Women-of-openstack] Request for ideas for WOO Sessions
+	for	Barcelona
+Message-ID: <7BDB8AF77E41744CAF5C8D115B01DDDB76E4C351@ORSMSX103.amr.corp.intel.com>
+
+Team,
+
+I'll add this idea to the etherpad: a session focused on the importance of diversity in innovation, using a string of TED-style talks from those across our community.  I'm working on this concept with Amy Marrich, and have reached out to some of you about participation--a big thank you for your interest!
+
+In addition, we did some filming in Austin for a video focused on diversity--many of you participated, thank you.  Here are a few initial rough cuts--we're considering a series of short clips leading up to the next summit, and then showing the clips at the summit.  If you're interested in using them in your own activities as well, please let me know!
+
+https://www.dropbox.com/s/cqvskz7tzbwpr6u/052716_Diversity.mp4?dl=0 
+https://www.dropbox.com/s/t6tvfmklxsc60rz/052716_WeBring.mp4?dl=0 
+
+Cheers,
+
+Nicole K. Huesman
+Open Source Technology Center
+OSS Data Center Marketing
+Software and Services Group | Intel Corporation
+503.807.5599
+
+
+
+
+-----Original Message-----
+From: women-of-openstack-request at lists.openstack.org [mailto:women-of-openstack-request at lists.openstack.org] 
+Sent: Tuesday, June 28, 2016 8:44 PM
+To: women-of-openstack at lists.openstack.org
+Subject: Women-of-openstack Digest, Vol 20, Issue 12
+
+Send Women-of-openstack mailing list submissions to
+	women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+	women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+	women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. Request for ideas for WOO Sessions for	Barcelona (Beth Cohen)
+   2. Re: Request for ideas for WOO Sessions	for	Barcelona (Nithya Ruff)
+   3. Re: Request for ideas for WOO	Sessions	for	Barcelona
+      (Rochelle Grober)
+   4. Re: Request for ideas for	WOOSessionsforBarcelona
+      (Jessica Murillo)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Tue, 28 Jun 2016 21:11:55 -0400
+From: Beth Cohen <bfcohen at luthcomputer.com>
+To: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Request for ideas for WOO Sessions for
+	Barcelona
+Message-ID: <8e275679-813c-6db8-d031-1294d1e314c7 at luthcomputer.com>
+Content-Type: text/plain; charset="utf-8"; Format="flowed"
+
+Folks -
+
+Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.  
+I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them. Don't forget that presentation submissions close Mid July so we want to get going!
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+--
+_____________________________________________________________________
+
+Beth Cohen	
+Luth Computer Specialists, Inc.
+www.luthcomputer.com
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160628/67d83202/attachment-0001.html>
+
+------------------------------
+
+Message: 2
+Date: Wed, 29 Jun 2016 01:27:58 +0000
+From: Nithya Ruff <Nithya.Ruff at sandisk.com>
+To: Beth Cohen <bfcohen at luthcomputer.com>
+Cc: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] Request for ideas for WOO Sessions
+	for	Barcelona
+Message-ID: <789EBACD-C244-4F59-9CB3-4C82E4AA41AC at sandisk.com>
+Content-Type: text/plain; charset="us-ascii"
+
+Beth
+
+Excellent idea and thanks for leading the charge here.
+I will take the idea I had submitted and add it to the ether pad.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+On Jun 28, 2016, at 6:12 PM, Beth Cohen <bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>> wrote:
+
+
+Folks -
+
+Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.  I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them.  Don't forget that presentation submissions close Mid July so we want to get going!
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+--
+_____________________________________________________________________
+
+Beth Cohen
+Luth Computer Specialists, Inc.
+www.luthcomputer.com<http://www.luthcomputer.com>
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160629/7483de46/attachment-0001.html>
+
+------------------------------
+
+Message: 3
+Date: Wed, 29 Jun 2016 01:30:42 +0000
+From: Rochelle Grober <rochelle.grober at huawei.com>
+To: Nithya Ruff <Nithya.Ruff at sandisk.com>, Beth Cohen
+	<bfcohen at luthcomputer.com>
+Cc: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] Request for ideas for WOO	Sessions
+	for	Barcelona
+Message-ID:
+	<DA7681A6D234954992BD2FB907F96662091E6B6E at SJCEML701-CHM.china.huawei.com>
+	
+Content-Type: text/plain; charset="us-ascii"
+
+Nithya, Beth already added it....but you can expand on it if you want ;-)
+
+From: Nithya Ruff [mailto:Nithya.Ruff at sandisk.com]
+Sent: Tuesday, June 28, 2016 6:28 PM
+To: Beth Cohen
+Cc: women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Request for ideas for WOO Sessions for Barcelona
+
+Beth
+
+Excellent idea and thanks for leading the charge here.
+I will take the idea I had submitted and add it to the ether pad.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+On Jun 28, 2016, at 6:12 PM, Beth Cohen <bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>> wrote:
+
+Folks -
+
+Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.  I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them.  Don't forget that presentation submissions close Mid July so we want to get going!
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+
+--
+
+_____________________________________________________________________
+
+
+
+Beth Cohen
+
+Luth Computer Specialists, Inc.
+
+www.luthcomputer.com<http://www.luthcomputer.com>
+
+15 Wellington Street
+
+Arlington, MA 02476
+
+
+
+bfcohen at luthcomputer.com<mailto:bfcohen at luthcomputer.com>
+
+Cell 617-721-7256
+
+781-646-4018
+
+Twitter: @bfcohen
+
+Skype: bfcohen100
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160629/1c37ac6d/attachment-0001.html>
+
+------------------------------
+
+Message: 4
+Date: Tue, 28 Jun 2016 22:43:39 -0500
+From: "Jessica Murillo" <jessicak at us.ibm.com>
+To: Rochelle Grober <rochelle.grober at huawei.com>, "Beth A Taylor"
+	<bataylor at us.ibm.com>, Nithya Ruff <Nithya.Ruff at sandisk.com>
+Cc: "women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] Request for ideas for
+	WOOSessionsforBarcelona
+Message-ID:
+	<OF1D79DDB4.8A5B821F-ON00257FE1.001450CE-86257FE1.001479E8 at notes.na.collabserv.com>
+	
+Content-Type: text/plain; charset="us-ascii"
+
+
+Thanks for getting the discussion started, Beth and Nithaya -- I have added the suggested panel from the Austin WOO working breakfast. I am looking forward to seeing what others have to add as well!
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+
+
+
+From:	Rochelle Grober <rochelle.grober at huawei.com>
+To:	Nithya Ruff <Nithya.Ruff at sandisk.com>, Beth Cohen
+            <bfcohen at luthcomputer.com>
+Cc:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>
+Date:	06/28/2016 08:31 PM
+Subject:	Re: [Women-of-openstack] Request for ideas for WOO	Sessions
+            for	Barcelona
+
+
+
+Nithya, Beth already added it....but you can expand on it if you want ;-)
+
+      From: Nithya Ruff [mailto:Nithya.Ruff at sandisk.com]
+      Sent: Tuesday, June 28, 2016 6:28 PM
+      To: Beth Cohen
+      Cc: women-of-openstack at lists.openstack.org
+      Subject: Re: [Women-of-openstack] Request for ideas for WOO Sessions
+      for Barcelona
+
+      Beth
+
+      Excellent idea and thanks for leading the charge here.
+      I will take the idea I had submitted and add it to the ether pad.
+
+      Thank You,
+      Nithya
+
+      Sent from my IPhone
+
+      On Jun 28, 2016, at 6:12 PM, Beth Cohen <bfcohen at luthcomputer.com>
+      wrote:
+            Folks -
+
+
+            Rather than being catch as catch can about the WOO sponsored
+            presentations -- besides I need to get some more input for the
+            topics.  I have created an Ether Pad for us to share ideas.  I
+            would like to identify 2 or so panel topics and people who will
+            volunteer to be on them.  Don't forget that presentation
+            submissions close Mid July so we want to get going!
+            https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+            --
+            _____________________________________________________________________
+
+            Beth Cohen
+            Luth Computer Specialists, Inc.
+            www.luthcomputer.com
+            15 Wellington Street
+            Arlington, MA 02476
+
+            bfcohen at luthcomputer.com
+            Cell 617-721-7256
+            781-646-4018
+            Twitter: @bfcohen
+            Skype: bfcohen100
+            _______________________________________________
+            Women-of-openstack mailing list
+            Women-of-openstack at lists.openstack.org
+            http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+      PLEASE NOTE: The information contained in this electronic mail
+      message is intended only for the use of the designated recipient(s)
+      named above. If the reader of this message is not the intended
+      recipient, you are hereby notified that you have received this
+      message in error and that any review, dissemination, distribution, or
+      copying of this message is strictly prohibited. If you have received
+      this communication in error, please notify the sender by telephone or
+      e-mail (as shown above) immediately and destroy any and all copies of
+      this message in your possession (whether hard copies or
+      electronically stored copies).
+      _______________________________________________
+      Women-of-openstack mailing list
+      Women-of-openstack at lists.openstack.org
+      http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160628/106986c0/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160628/106986c0/attachment.gif>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 20, Issue 12
+**************************************************
+
+
+From erin at openstack.org  Wed Jun 29 15:49:54 2016
+From: erin at openstack.org (Erin Disney)
+Date: Wed, 29 Jun 2016 10:49:54 -0500
+Subject: [Women-of-openstack] Upcoming Deadline: OpenStack Summit Barcelona
+	CFP
+In-Reply-To: <C1CCC879-D838-4153-9004-2A6A01FD26A4@openstack.org>
+References: <C1CCC879-D838-4153-9004-2A6A01FD26A4@openstack.org>
+Message-ID: <12FF2FFE-774C-4F81-BCF2-841FA6E14646@openstack.org>
+
+Just a friendly reminder that we are two weeks out from the deadline for the OpenStack Summit Barcelona Call for Presentations <https://www.openstack.org/summit/barcelona-2016/call-for-presentations/>. 
+
+Deadline: July 13th at 11:59pm PST (July 14th at 6:59am UTC)
+
+Submit here <https://www.openstack.org/summit/barcelona-2016/call-for-presentations/>. 
+
+Please contact speakersupport at openstack.org with any submission questions. 
+
+Thanks! 
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+
+
+> On Jun 6, 2016, at 3:56 AM, Erin Disney <erin at openstack.org> wrote:
+> 
+> Hi Everyone-
+> 
+> The Call for Presentations is NOW OPEN <https://www.openstack.org/summit/barcelona-2016/call-for-speakers/> for the upcoming OpenStack Summit in Barcelona, October 25-28! 
+> 
+> Hurry - the submission deadline is July 13th at 11:59pm PST (July 14th at 6:59 UTC). 
+> 
+> Details on the selection process and track chair information can be found here <https://www.openstack.org/summit/barcelona-2016/call-for-speakers/selection-process>. June 17th is the deadline for track chair nominations. 
+> 
+> New:
+> Proposed sessions must indicate a format: Panel or Presentation. Each format has a maximum number of speakers associated. Panels are allowed a total of four speakers plus one moderator, whereas Presentations are limited to two speakers. 
+> 
+> As a reminder, speakers are limited to a maximum of three presentation submissions total. 
+> 
+> Contact  <mailto:speakersupport at openstack.org>speakersupport at openstack.org <mailto:speakersupport at openstack.org> with any submission questions. 
+> 
+> REGISTRATION 
+> Registration is now open <https://openstacksummit2016barcelona.eventbrite.com/>. Purchase your discounted early bird passes now. Prices will increase in early September.
+> 
+> SPONSORSHIP SALES
+> Sponsorship sales will open Wednesday, June 15, at 8:00am PST (15:00 UTC). At that time the executable electronic contract will be made available for signature HERE <https://www.openstack.org/summit/barcelona-2016/sponsors/#how-to-sponsor>. All sponsorships will be sold on a first-come basis determined by the time stamp on completed electronic agreements. The top level sponsorships and limited quantity add-ons always sell out quickly so please be mindful of that. 
+> 
+> Full details of the sponsorship signing process are outlined here <https://www.openstack.org/summit/barcelona-2016/sponsors/#how-to-sponsor> and on page 4 of the Prospectus <https://www.openstack.org/assets/barcelona-summit/Barcelona-Sponsorship-Prospectus.pdf>. Once you execute the Barcelona Summit contract you will receive a confirmation email from Echosign, you must click the link in that email to complete the signing process. Don?t forget that last step! If you have any overdue balances owed to the Foundation then these must be paid in full before you sign the Summit contract.
+> 
+> AUSTIN SESSION FEEDBACK
+> During the OpenStack Summit in Austin we did not receive as many sessions ratings as we'd have liked via the mobile app. Here?s another chance to provide feedback to speakers. You'll find that the session list is based on your personal schedule. If you didn't attend one of the sessions listed, just skip it. We will also be improving the in-app feedback mechanism for future Summits. Please note that all feedback will be publicly viewable including your name. Click here <https://www.openstack.org/summit/austin-2016/review> to rate the Summit sessions that you attended in Austin.
+> 
+> If you have any general Summit questions, contact us at summit at openstack.org <mailto:summit at openstack.org>.
+> 
+> Erin Disney
+> OpenStack Marketing
+> erin at openstack.org <mailto:erin at openstack.org>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160629/26dc2adf/attachment-0001.html>
+

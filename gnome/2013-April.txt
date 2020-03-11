@@ -1,0 +1,514 @@
+From marinaz@redhat.com  Mon Apr  1 01:09:59 2013
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 8AF5E76C63
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  1 Apr 2013 01:09:59 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.458
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.458 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.556,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id UYGGxBqTq_tW for <gnome-women-list@mail.gnome.org>;
+	Mon,  1 Apr 2013 01:09:58 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by restaurant.gnome.org (Postfix) with ESMTP id A436976C33
+	for <gnome-women-list@mail.gnome.org>;
+	Mon,  1 Apr 2013 01:09:58 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id r3119uaD022643;
+	Sun, 31 Mar 2013 21:09:56 -0400
+Date: Sun, 31 Mar 2013 21:09:56 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: meg ford <meg387@gmail.com>
+Message-ID: <1304648521.211558.1364778596484.JavaMail.root@redhat.com>
+In-Reply-To: <CAC4QDKhsM8Nw2q-VggqM+DRT2Z_bNmmS2_KCHo2ZmT82wDD71w@mail.gmail.com>
+References: <CAE2uU+tr2-n9ajC5EjGr3OXviaZuY4YE4DLQ530bMRLMgU11ZA@mail.gmail.com>
+	<CAC4QDKhsM8Nw2q-VggqM+DRT2Z_bNmmS2_KCHo2ZmT82wDD71w@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.82.11]
+X-Mailer: Zimbra 8.0.3_GA_5664 (ZimbraWebClient - FF19 (Linux)/8.0.3_GA_5664)
+Thread-Topic: Question about GSoC 2013
+Thread-Index: bfJycftl4mpt9683HZgUJcGZfUvP5A==
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Question about GSoC 2013
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 01 Apr 2013 01:09:59 -0000
+
+Hi Nicole,
+
+I responded to your question on the gnome-love mailing list - https://mail.gnome.org/archives/gnome-love/2013-April/msg00000.html
+
+Thanks for saying hi here too :).
+
+Marina
+
+----- Original Message -----
+From: "meg ford" <meg387@gmail.com>
+To: "Nicole Francisco" <nicole.francisco@gmail.com>
+Cc: gnome-women-list@mail.gnome.org
+Sent: Wednesday, March 27, 2013 11:58:51 PM
+Subject: Re: [gnome-women] Question about GSoC 2013
+
+Hi Nicole, 
+
+I was accepted and completed a GSoC project last summer with GNOME and I only knew Java when I applied. I have a friend who worked on Wine (working on code in C) with Google as his mentoring organization last summer, and he didn't know any C when he started. So it can be done! 
+
+I would suggest that you contact the mentor for any project that interests you so you can start working on a patch. That will give you a sense of how to contribute. 
+
+Meg Ford 
+
+On Wed, Mar 27, 2013 at 10:25 PM, Nicole Francisco < nicole.francisco@gmail.com > wrote: 
+
+
+Hi all, 
+
+I'm currently a third year studying computer science student and am interested in working on a project for GSoC 2013 this summer. 
+I mainly work in Java and know some C#, but I'm looking through the GNOME projects page and it seems like the primary language used is C. 
+Would I still be able to contribute to a GNOME project with my current coding expertise? 
+
+I posted a similar thread in the gnome-love mailing list, but I also wanted to introduce myself to this community. :) 
+
+Thank you for all your help! 
+
+_______________________________________________ 
+gnome-women-list mailing list 
+gnome-women-list@mail.gnome.org 
+https://mail.gnome.org/mailman/listinfo/gnome-women-list 
+
+
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+https://mail.gnome.org/mailman/listinfo/gnome-women-list
+From marinaz@redhat.com  Thu Apr 11 19:01:41 2013
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id DA6C476967
+	for <gnome-women-list@gnome.org>; Thu, 11 Apr 2013 19:01:41 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -7.458
+X-Spam-Level: 
+X-Spam-Status: No, score=-7.458 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.556,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id 5-mIkCh5rpZ3 for <gnome-women-list@gnome.org>;
+	Thu, 11 Apr 2013 19:01:41 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by restaurant.gnome.org (Postfix) with ESMTP id 1F03C765C9
+	for <gnome-women-list@gnome.org>; Thu, 11 Apr 2013 19:01:40 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id r3BJ1d4R021042
+	for <gnome-women-list@gnome.org>; Thu, 11 Apr 2013 15:01:39 -0400
+Date: Thu, 11 Apr 2013 15:01:39 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <257024572.16890461.1365706899498.JavaMail.root@redhat.com>
+In-Reply-To: <1956010119.16889822.1365706838716.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.82.12]
+X-Mailer: Zimbra 8.0.3_GA_5664 (ZimbraWebClient - FF19 (Linux)/8.0.3_GA_5664)
+Thread-Topic: Google Summer of Code and FOSS Outreach Program for Women
+	internships
+Thread-Index: 31lRFLbURL4AKm45sodL9QmPEhxRLw==
+Subject: [gnome-women] Google Summer of Code and FOSS Outreach Program for
+ Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 11 Apr 2013 19:01:41 -0000
+
+Hi!
+
+Google Summer of Code is a global program that offers students stipends to =
+write code for Free and Open Source Software (FOSS) projects. Participants =
+work remotely from home, while getting guidance from an assigned mentor and=
+ collaborating within their project=E2=80=99s community. The application de=
+adline for Google Summer of Code is May 3 and the program dates are June 17=
+ to September 23. The stipend for the program is $5,000 (USD). The organiza=
+tions that will participate in Google Summer of Code this year were announc=
+ed on April 8. Starting to work with an organization as early as possible a=
+nd making a few code contributions to the project you want to work on is es=
+sential for a successful proposal.
+
+http://code.google.com/soc
+
+In an effort to get more women involved in FOSS, a number of organizations =
+are offering Outreach Program for Women internships through a program organ=
+ized by the GNOME Foundation. The internships have the same structure, the =
+same stipend and similar program dates. The application deadline for the Ou=
+treach Program for Women is May 1 and the program dates are June 17 to Sept=
+ember 23. Unlike in Google Summer of Code, participants do not need to be s=
+tudents and non-coding projects are available. In addition to coding, proje=
+cts include such tasks as graphic design, documentation, bug triage and mar=
+keting. To apply, you need to connect with an organization early and make a=
+ few contributions relevant to the project you want to work on.
+
+https://live.gnome.org/OutreachProgramForWomen
+
+The mentorship opportunities are also available throughout the year for any=
+one interested in getting started contributing to FOSS outside of the forma=
+l internship program. In addition to the organizations participating in the=
+ Outreach Program for Women, more organizations that offer informal mentors=
+hip to all newcomers are listed here:
+
+http://code.google.com/p/google-summer-of-code/wiki/Mentors
+
+Please consider applying for Google Summer of Code or FOSS Outreach Program=
+ for Women, encourage someone else to apply, or help spread the word by for=
+warding this message to any interested university and community groups.
+
+Thanks,
+Marina
+From jinca@pucp.pe  Sat Apr 13 06:31:05 2013
+Return-Path: <jinca@pucp.pe>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 53E6B762E9
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 13 Apr 2013 06:31:05 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.6
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.6 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id 4iRPjApX9F9P for <gnome-women-list@mail.gnome.org>;
+	Sat, 13 Apr 2013 06:30:53 +0000 (UTC)
+Received: from mail-ob0-f170.google.com (mail-ob0-f170.google.com
+	[209.85.214.170])
+	by restaurant.gnome.org (Postfix) with ESMTP id CA8A6762D1
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 13 Apr 2013 06:30:53 +0000 (UTC)
+Received: by mail-ob0-f170.google.com with SMTP id x4so706838obh.15
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 12 Apr 2013 23:30:51 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+	d=google.com; s=20120113;
+	h=mime-version:x-received:in-reply-to:references:date:message-id
+	:subject:from:to:content-type:x-gm-message-state;
+	bh=GW2gFuiszT4Uv8ADtrFY4Lkv88ArQQFVEUNuf2ipJNo=;
+	b=NwBhkTJVTdkXb7gwnP3T5AxEHamvZWUuaWSUkxY99rDqEu7I7N2XsFWZzvS796brcG
+	janMj+sUQdhR3K8H9kse+U1JaIgmR6xwM/j+I6yv47g4Xog37lUbI0z5KCw7INDXq2I3
+	mSGzz6NLRROMeVPiFZq/UJj95mOgWBtChrnht2F2w6LRAq+8tFoHO79nFexSjaiZBfOc
+	GBPF+neIM5DdffTEAvnQPY2LJqzBCEpmvJ4AUCWCFQkmDrtx55i5Edrvd5dpIWX7lBtS
+	/v1n1xDsPa3PESfSJSd3c4ZixL0sSd0YVzlI2WeBjhdmS++BGkngldP0YC6X0G7Av+e0
+	Dx7w==
+MIME-Version: 1.0
+X-Received: by 10.60.19.3 with SMTP id a3mr4880119oee.11.1365834651438; Fri,
+	12 Apr 2013 23:30:51 -0700 (PDT)
+Received: by 10.76.133.194 with HTTP; Fri, 12 Apr 2013 23:30:51 -0700 (PDT)
+In-Reply-To: <mailman.35.1365768003.3743.gnome-women-list@mail.gnome.org>
+References: <mailman.35.1365768003.3743.gnome-women-list@mail.gnome.org>
+Date: Sat, 13 Apr 2013 01:30:51 -0500
+Message-ID: <CAFP92twaenTnENuQ2gyvAj6qT9p=JrVSvC3V5+0d5nQLprd6vQ@mail.gmail.com>
+From: Julita Inca Chiroque <jinca@pucp.pe>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=e89a8ff1c4aa38a47f04da382920
+X-Gm-Message-State: ALoCoQkdLjXME3Eq9GDyxeiJNYfz6/dj2tTgnLqV0ncwoENh7zG3EP9hg8AlKuiJfOZZ3BWfpadj
+Subject: Re: [gnome-women] gnome-women-list Digest, Vol 59, Issue 2
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 13 Apr 2013 06:31:05 -0000
+
+--e89a8ff1c4aa38a47f04da382920
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hi ladies:
+
+I will talk about the programs of GNOME in my talk in the event I am
+organizing in Per=FA: GNOME FEST PERU 2013
+
+http://prezi.com/g_dqxff5mquz/edit/#0
+
+Bests,
+Julita
+
+
+2013/4/12 <gnome-women-list-request@mail.gnome.org>
+
+> Send gnome-women-list mailing list submissions to
+>         gnome-women-list@mail.gnome.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>         https://mail.gnome.org/mailman/listinfo/gnome-women-list
+> or, via email, send a message with subject or body 'help' to
+>         gnome-women-list-request@mail.gnome.org
+>
+> You can reach the person managing the list at
+>         gnome-women-list-owner@mail.gnome.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of gnome-women-list digest..."
+>
+>
+> Today's Topics:
+>
+>    1.  Google Summer of Code and FOSS Outreach Program for Women
+>       internships (Marina Zhurakhinskaya)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Thu, 11 Apr 2013 15:01:39 -0400 (EDT)
+> From: Marina Zhurakhinskaya <marinaz@redhat.com>
+> To: gnome-women-list <gnome-women-list@gnome.org>
+> Subject: [gnome-women] Google Summer of Code and FOSS Outreach Program
+>         for Women internships
+> Message-ID:
+>         <257024572.16890461.1365706899498.JavaMail.root@redhat.com>
+> Content-Type: text/plain; charset=3Dutf-8
+>
+> Hi!
+>
+> Google Summer of Code is a global program that offers students stipends t=
+o
+> write code for Free and Open Source Software (FOSS) projects. Participant=
+s
+> work remotely from home, while getting guidance from an assigned mentor a=
+nd
+> collaborating within their project?s community. The application deadline
+> for Google Summer of Code is May 3 and the program dates are June 17 to
+> September 23. The stipend for the program is $5,000 (USD). The
+> organizations that will participate in Google Summer of Code this year we=
+re
+> announced on April 8. Starting to work with an organization as early as
+> possible and making a few code contributions to the project you want to
+> work on is essential for a successful proposal.
+>
+> http://code.google.com/soc
+>
+> In an effort to get more women involved in FOSS, a number of organization=
+s
+> are offering Outreach Program for Women internships through a program
+> organized by the GNOME Foundation. The internships have the same structur=
+e,
+> the same stipend and similar program dates. The application deadline for
+> the Outreach Program for Women is May 1 and the program dates are June 17
+> to September 23. Unlike in Google Summer of Code, participants do not nee=
+d
+> to be students and non-coding projects are available. In addition to
+> coding, projects include such tasks as graphic design, documentation, bug
+> triage and marketing. To apply, you need to connect with an organization
+> early and make a few contributions relevant to the project you want to wo=
+rk
+> on.
+>
+> https://live.gnome.org/OutreachProgramForWomen
+>
+> The mentorship opportunities are also available throughout the year for
+> anyone interested in getting started contributing to FOSS outside of the
+> formal internship program. In addition to the organizations participating
+> in the Outreach Program for Women, more organizations that offer informal
+> mentorship to all newcomers are listed here:
+>
+> http://code.google.com/p/google-summer-of-code/wiki/Mentors
+>
+> Please consider applying for Google Summer of Code or FOSS Outreach
+> Program for Women, encourage someone else to apply, or help spread the wo=
+rd
+> by forwarding this message to any interested university and community
+> groups.
+>
+> Thanks,
+> Marina
+>
+>
+> ------------------------------
+>
+> Subject: Digest Footer
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+> ------------------------------
+>
+> End of gnome-women-list Digest, Vol 59, Issue 2
+> ***********************************************
+>
+
+--e89a8ff1c4aa38a47f04da382920
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div>Hi ladies:<br><br></div>I will talk about t=
+he programs of GNOME in my talk in the event I am organizing in Per=FA: GNO=
+ME FEST PERU 2013<br><br><a href=3D"http://prezi.com/g_dqxff5mquz/edit/#0">=
+http://prezi.com/g_dqxff5mquz/edit/#0</a><br>
+<br></div>Bests,<br></div>Julita<br><div><div><div><div><div class=3D"gmail=
+_extra"><br><br><div class=3D"gmail_quote">2013/4/12  <span dir=3D"ltr">&lt=
+;<a href=3D"mailto:gnome-women-list-request@mail.gnome.org" target=3D"_blan=
+k">gnome-women-list-request@mail.gnome.org</a>&gt;</span><br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0px 0px 0px 0.8ex;border-=
+left:1px solid rgb(204,204,204);padding-left:1ex">Send gnome-women-list mai=
+ling list submissions to<br>
+=A0 =A0 =A0 =A0 <a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-wo=
+men-list@mail.gnome.org</a><br>
+<br>
+To subscribe or unsubscribe via the World Wide Web, visit<br>
+=A0 =A0 =A0 =A0 <a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-wo=
+men-list" target=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-w=
+omen-list</a><br>
+or, via email, send a message with subject or body &#39;help&#39; to<br>
+=A0 =A0 =A0 =A0 <a href=3D"mailto:gnome-women-list-request@mail.gnome.org">=
+gnome-women-list-request@mail.gnome.org</a><br>
+<br>
+You can reach the person managing the list at<br>
+=A0 =A0 =A0 =A0 <a href=3D"mailto:gnome-women-list-owner@mail.gnome.org">gn=
+ome-women-list-owner@mail.gnome.org</a><br>
+<br>
+When replying, please edit your Subject line so it is more specific<br>
+than &quot;Re: Contents of gnome-women-list digest...&quot;<br>
+<br>
+<br>
+Today&#39;s Topics:<br>
+<br>
+=A0 =A01. =A0Google Summer of Code and FOSS Outreach Program for Women<br>
+=A0 =A0 =A0 internships (Marina Zhurakhinskaya)<br>
+<br>
+<br>
+----------------------------------------------------------------------<br>
+<br>
+Message: 1<br>
+Date: Thu, 11 Apr 2013 15:01:39 -0400 (EDT)<br>
+From: Marina Zhurakhinskaya &lt;<a href=3D"mailto:marinaz@redhat.com">marin=
+az@redhat.com</a>&gt;<br>
+To: gnome-women-list &lt;<a href=3D"mailto:gnome-women-list@gnome.org">gnom=
+e-women-list@gnome.org</a>&gt;<br>
+Subject: [gnome-women] Google Summer of Code and FOSS Outreach Program<br>
+=A0 =A0 =A0 =A0 for Women internships<br>
+Message-ID:<br>
+=A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:257024572.16890461.1365706899498.Java=
+Mail.root@redhat.com">257024572.16890461.1365706899498.JavaMail.root@redhat=
+.com</a>&gt;<br>
+Content-Type: text/plain; charset=3Dutf-8<br>
+<br>
+Hi!<br>
+<br>
+Google Summer of Code is a global program that offers students stipends to =
+write code for Free and Open Source Software (FOSS) projects. Participants =
+work remotely from home, while getting guidance from an assigned mentor and=
+ collaborating within their project?s community. The application deadline f=
+or Google Summer of Code is May 3 and the program dates are June 17 to Sept=
+ember 23. The stipend for the program is $5,000 (USD). The organizations th=
+at will participate in Google Summer of Code this year were announced on Ap=
+ril 8. Starting to work with an organization as early as possible and makin=
+g a few code contributions to the project you want to work on is essential =
+for a successful proposal.<br>
+
+<br>
+<a href=3D"http://code.google.com/soc" target=3D"_blank">http://code.google=
+.com/soc</a><br>
+<br>
+In an effort to get more women involved in FOSS, a number of organizations =
+are offering Outreach Program for Women internships through a program organ=
+ized by the GNOME Foundation. The internships have the same structure, the =
+same stipend and similar program dates. The application deadline for the Ou=
+treach Program for Women is May 1 and the program dates are June 17 to Sept=
+ember 23. Unlike in Google Summer of Code, participants do not need to be s=
+tudents and non-coding projects are available. In addition to coding, proje=
+cts include such tasks as graphic design, documentation, bug triage and mar=
+keting. To apply, you need to connect with an organization early and make a=
+ few contributions relevant to the project you want to work on.<br>
+
+<br>
+<a href=3D"https://live.gnome.org/OutreachProgramForWomen" target=3D"_blank=
+">https://live.gnome.org/OutreachProgramForWomen</a><br>
+<br>
+The mentorship opportunities are also available throughout the year for any=
+one interested in getting started contributing to FOSS outside of the forma=
+l internship program. In addition to the organizations participating in the=
+ Outreach Program for Women, more organizations that offer informal mentors=
+hip to all newcomers are listed here:<br>
+
+<br>
+<a href=3D"http://code.google.com/p/google-summer-of-code/wiki/Mentors" tar=
+get=3D"_blank">http://code.google.com/p/google-summer-of-code/wiki/Mentors<=
+/a><br>
+<br>
+Please consider applying for Google Summer of Code or FOSS Outreach Program=
+ for Women, encourage someone else to apply, or help spread the word by for=
+warding this message to any interested university and community groups.<br>
+
+<br>
+Thanks,<br>
+Marina<br>
+<br>
+<br>
+------------------------------<br>
+<br>
+Subject: Digest Footer<br>
+<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+>
+<br>
+------------------------------<br>
+<br>
+End of gnome-women-list Digest, Vol 59, Issue 2<br>
+***********************************************<br>
+</blockquote></div><br></div></div></div></div></div></div>
+
+--e89a8ff1c4aa38a47f04da382920--

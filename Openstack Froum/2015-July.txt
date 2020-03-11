@@ -1,0 +1,5095 @@
+From malini.k.bhandaru at intel.com  Thu Jul  2 12:41:54 2015
+From: malini.k.bhandaru at intel.com (Bhandaru, Malini K)
+Date: Thu, 2 Jul 2015 12:41:54 +0000
+Subject: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.) for
+ Women at Tokyo, first come first served
+Message-ID: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+
+Hello Ladies!
+A while back Jessica (IBM) had written to brainstorm on what we could offer the Women-of-OpenStack at Tokyo.
+Intel has been running for some years a  "Command and Presence" Workshop internally and graduates leave with some winning learnings.
+
+
+*         Designed to improve confidence while presenting at technical review meetings (think:  design summits, technical committees, internal justifying work and resources meetings)
+
+It simulates challenging dynamics (think: cross-industry, cross-project priorities, and responses that seem dismissive/my-way or no way.
+
+Helps them gain visibility and respect
+
+*         Developed by some brilliant women,  tested and tuned over 4 years, with help from male allies in role playing and post-analysis
+
+With great pleasure Intel would like to bring this to the Women of OpenStack.
+First come first served basis, Maximum: 24 people. 2.5 hours long. Monday before the summit kicks off.  Free.
+Please respond if interested with:
+Name: First Last
+Email:
+Company:
+Openstack Projects of interest:                (helps to gauge who to invite for challenge environment)
+Current Role:
+Goal:   (what you would like to take away)
+Preference: Monday morning or afternoon
+
+Please reply to Ruchi Bhargava (ruchi.bhargava at intel.com<mailto:ruchi.bhargava at intel.com>) and
+                            Malini Bhandaru (malini.k.bhandaru at intel.com<mailto:malini.k.bhandaru at intel.com>)
+
+Before I graduated from Command-and-Presence, still relatively new at Intel, I would try to go to a meeting SUPER PREPARED, to anticipate every question and be able to answer it.
+There is no such thing when you are working at the edge and innovating. Walked away with a tool -"Action Required(s) items", tasks, ones that you will follow up post meeting and update/circle back.
+Regards
+Ruchi and Malini
+
+===============================================
+From: Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>>
+Date: June 1, 2015 at 11:24:19 PM PDT
+To: <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Cc: <madhura at platform9.com<mailto:madhura at platform9.com>>
+Subject: [Women-of-openstack] Women of OpenStack working session summary and next steps
+
+Thanks for everyone who was able to join us at the Women of OpenStack working session on May 19. A special thanks to our lightening talk speakers: Valerie Aurora<https://www.linkedin.com/profile/view?id=5574129&authType=NAME_SEARCH&authToken=5PuI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1432849164634%2Ctas%3Avalerie%20aur>, Nina Goradia, and Madhura Maskasky<https://twitter.com/madhuramaskasky> for sharing their experiences and inspiring our group discussions. If you have not already seen the article, Allison Price from the OpenStack Foundation has written a great summary of working session on Superuser: http://superuser.openstack.org/articles/how-to-get-more-women-involved-in-tech-communication-leadership-and-mentors
+
+After summarizing the group break out sessions there are very similar themes to what we discussed during our Paris Summit working session. Key areas of focus include:
+1. Developing women leaders
+2. Increasing the visibility of women in the OpenStack community
+3. Mentorship
+4. Building a strong communications channel for the Women of OpenStack
+
+Several of you have asked, "What's next?" That is really up to us. We've heard from many of you that you want the Women of OpenStack to continue to work together between summits to address these key issues. To help facilitate follow-on discussions I've included several volunteer sign up sheets in addition to a full group summary in this google drive doc: https://docs.google.com/spreadsheets/d/1nu_0EperGdXIQifmjHiNVuB2RJb-5bVJkB9oRT-ExVw/edit#gid=0
+
+The goal is for each volunteer group to come together as a team to develop 1-2 key actions they want to accomplish leading up to the Tokyo Summit. There has already been some great progress and discussion on creating an IRC channel which was one of our communication follow-up actions. I'm looking forward to what this group can accomplish in the other areas as well.
+
+Let me know if you have any questions, I am definitely looking forward to continuing the conversation ...
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Office Phone: 512-286-7691, T/L: 363-7691
+Mobile Phone: 512-970-8466
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150702/7640a2cf/attachment.html>
+
+From nalee999 at gmail.com  Thu Jul  2 13:01:42 2015
+From: nalee999 at gmail.com (Nalee Jang)
+Date: Thu, 2 Jul 2015 22:01:42 +0900
+Subject: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.)
+ for Women at Tokyo, first come first served
+In-Reply-To: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+References: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+Message-ID: <CADkXDhN3LoGjKODmGxvhJJDQ6RExsgH_QbrnMh5nZbJoRAoFAg@mail.gmail.com>
+
+Hello. Ruchi and Malini
+
+I am Nalee Jang from OpenStack Korea User Group.
+
+I just read this mail.
+I think this event is great. so If I can help OpenStack Women members, I
+want to attend this event.
+Now My English skill is not good but I feel my English skill is improving
+everyday.
+so I want to try attend this event.
+
+Can I attend this event? Can I help other openstack women members?
+
+I am waiting your reply.
+
+Thank you.
+
+
+2015-07-02 21:41 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com>:
+
+>  Hello Ladies!
+>
+> A while back Jessica (IBM) had written to brainstorm on what we could
+> offer the Women-of-OpenStack at Tokyo.
+>
+> *Intel has been running for some years a  ?Command and Presence? Workshop
+> internally and graduates leave with some winning learnings.*
+>
+>
+>
+> ?         *Designed to improve confidence while presenting at technical
+> review meetings (think:  design summits, technical committees, internal
+> justifying work and resources meetings)*
+>
+> *It simulates challenging dynamics (think: cross-industry, cross-project
+> priorities, and responses that seem dismissive/my-way or no way.*
+>
+> *Helps them gain visibility and respect*
+>
+> ?         *Developed by some brilliant women,  tested and tuned over 4
+> years, with help from male allies in role playing and post-analysis*
+>
+>
+>
+> With great pleasure Intel would like to bring this to the Women of
+> OpenStack.
+>
+> First come first served basis, Maximum: 24 people. 2.5 hours long. Monday
+> before the summit kicks off.  Free.
+>
+> Please respond if interested with:
+>
+> *Name: First Last*
+>
+> *Email:*
+>
+> *Company:*
+>
+> *Openstack Projects of interest:                (helps to gauge who to
+> invite for challenge environment)*
+>
+> *Current Role:*
+>
+> *Goal:   (what you would like to take away)*
+>
+> *Preference: Monday morning or afternoon*
+>
+>
+>
+> Please reply to Ruchi Bhargava (ruchi.bhargava at intel.com) and
+>
+>                             Malini Bhandaru (malini.k.bhandaru at intel.com)
+>
+>
+>
+> Before I graduated from Command-and-Presence, still relatively new at
+> Intel, I would try to go to a meeting SUPER PREPARED, to anticipate every
+> question and be able to answer it.
+>
+> There is no such thing when you are working at the edge and innovating.
+> Walked away with a tool ??Action Required(s) items?, tasks, ones that you
+> will follow up post meeting and update/circle back.
+>
+> Regards
+>
+> Ruchi and Malini
+>
+>
+>
+> *===============================================*
+>
+> *From:* Jessica Murillo <jessicak at us.ibm.com>
+> *Date:* June 1, 2015 at 11:24:19 PM PDT
+> *To:* <women-of-openstack at lists.openstack.org>
+> *Cc:* <madhura at platform9.com>
+> *Subject:* *[Women-of-openstack] Women of OpenStack working session
+> summary and next steps*
+>
+> Thanks for everyone who was able to join us at the Women of OpenStack
+> working session on May 19. A special thanks to our lightening talk
+> speakers: Valerie Aurora
+> <https://www.linkedin.com/profile/view?id=5574129&authType=NAME_SEARCH&authToken=5PuI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1432849164634%2Ctas%3Avalerie%20aur>,
+> Nina Goradia, and Madhura Maskasky <https://twitter.com/madhuramaskasky> for
+> sharing their experiences and inspiring our group discussions. If you have
+> not already seen the article, Allison Price from the OpenStack Foundation
+> has written a great summary of working session on Superuser:
+> http://superuser.openstack.org/articles/how-to-get-more-women-involved-in-tech-communication-leadership-and-mentors
+>
+> After summarizing the group break out sessions there are very similar
+> themes to what we discussed during our Paris Summit working session. Key
+> areas of focus include:
+> 1. Developing women leaders
+> 2. Increasing the visibility of women in the OpenStack community
+> 3. Mentorship
+> 4. Building a strong communications channel for the Women of OpenStack
+>
+> Several of you have asked, "What's next?" That is really up to us. We've
+> heard from many of you that you want the Women of OpenStack to continue to
+> work together between summits to address these key issues. To help
+> facilitate follow-on discussions I've included several volunteer sign up
+> sheets in addition to a full group summary in this google drive doc:
+> https://docs.google.com/spreadsheets/d/1nu_0EperGdXIQifmjHiNVuB2RJb-5bVJkB9oRT-ExVw/edit#gid=0
+>
+> The goal is for each volunteer group to come together as a team to develop
+> 1-2 key actions they want to accomplish leading up to the Tokyo Summit.
+> There has already been some great progress and discussion on creating an
+> IRC channel which was one of our communication follow-up actions. I'm
+> looking forward to what this group can accomplish in the other areas as
+> well.
+>
+> Let me know if you have any questions, I am definitely looking forward to
+> continuing the conversation ...
+>
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> Office Phone: 512-286-7691, T/L: 363-7691
+> Mobile Phone: 512-970-8466
+> jessicak at us.ibm.com
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+==================================================
+ - Community : *Openstack Korea Community*
+ - Name          : Nalee Jang (???)
+ - Company    : ASD Korea Cloudike System Engineer.
+ - Contact       : +82-10-3454-4260 / nalee999 at gmail.com
+ - Blog            : http://naleejang.tistory.com
+ - HomePage  : http://www.openstack.or.kr
+ - Facebook   : https://www.facebook.com/groups/openstack.kr/
+==================================================
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150702/fe1a151c/attachment-0001.html>
+
+From anne at openstack.org  Thu Jul  2 13:20:10 2015
+From: anne at openstack.org (Anne Gentle)
+Date: Thu, 2 Jul 2015 08:20:10 -0500
+Subject: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.)
+ for Women at Tokyo, first come first served
+In-Reply-To: <CADkXDhN3LoGjKODmGxvhJJDQ6RExsgH_QbrnMh5nZbJoRAoFAg@mail.gmail.com>
+References: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+ <CADkXDhN3LoGjKODmGxvhJJDQ6RExsgH_QbrnMh5nZbJoRAoFAg@mail.gmail.com>
+Message-ID: <CAD0KtVEc1zCBmNtXyVuwfpRrWLeCL8gfUqWGxWpkUwsjPV_u9w@mail.gmail.com>
+
+On Thu, Jul 2, 2015 at 8:01 AM, Nalee Jang <nalee999 at gmail.com> wrote:
+
+> Hello. Ruchi and Malini
+>
+> I am Nalee Jang from OpenStack Korea User Group.
+>
+> I just read this mail.
+> I think this event is great. so If I can help OpenStack Women members, I
+> want to attend this event.
+> Now My English skill is not good but I feel my English skill is improving
+> everyday.
+> so I want to try attend this event.
+>
+> Can I attend this event? Can I help other openstack women members?
+>
+>
+I think this is a great idea for the Tokyo summit, thanks Ruchi and Malini!
+
+All, please be aware of the Travel Support Program and apply by the August
+10 deadline -- see https://wiki.openstack.org/wiki/Travel_Support_Program
+for details. I can answer questions you have about the process, or refer
+you to someone who knows.
+
+Thanks,
+Anne
+
+P.S. Is anyone else struggling to type Tokyo correctly? Sheesh I'm a
+terrible speller, there I said it. :)
+
+
+> I am waiting your reply.
+>
+> Thank you.
+>
+>
+> 2015-07-02 21:41 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com
+> >:
+>
+>>  Hello Ladies!
+>>
+>> A while back Jessica (IBM) had written to brainstorm on what we could
+>> offer the Women-of-OpenStack at Tokyo.
+>>
+>> *Intel has been running for some years a  ?Command and Presence? Workshop
+>> internally and graduates leave with some winning learnings.*
+>>
+>>
+>>
+>> ?         *Designed to improve confidence while presenting at technical
+>> review meetings (think:  design summits, technical committees, internal
+>> justifying work and resources meetings)*
+>>
+>> *It simulates challenging dynamics (think: cross-industry, cross-project
+>> priorities, and responses that seem dismissive/my-way or no way.*
+>>
+>> *Helps them gain visibility and respect*
+>>
+>> ?         *Developed by some brilliant women,  tested and tuned over 4
+>> years, with help from male allies in role playing and post-analysis*
+>>
+>>
+>>
+>> With great pleasure Intel would like to bring this to the Women of
+>> OpenStack.
+>>
+>> First come first served basis, Maximum: 24 people. 2.5 hours long. Monday
+>> before the summit kicks off.  Free.
+>>
+>> Please respond if interested with:
+>>
+>> *Name: First Last*
+>>
+>> *Email:*
+>>
+>> *Company:*
+>>
+>> *Openstack Projects of interest:                (helps to gauge who to
+>> invite for challenge environment)*
+>>
+>> *Current Role:*
+>>
+>> *Goal:   (what you would like to take away)*
+>>
+>> *Preference: Monday morning or afternoon*
+>>
+>>
+>>
+>> Please reply to Ruchi Bhargava (ruchi.bhargava at intel.com) and
+>>
+>>                             Malini Bhandaru (malini.k.bhandaru at intel.com)
+>>
+>>
+>>
+>> Before I graduated from Command-and-Presence, still relatively new at
+>> Intel, I would try to go to a meeting SUPER PREPARED, to anticipate every
+>> question and be able to answer it.
+>>
+>> There is no such thing when you are working at the edge and innovating.
+>> Walked away with a tool ??Action Required(s) items?, tasks, ones that you
+>> will follow up post meeting and update/circle back.
+>>
+>> Regards
+>>
+>> Ruchi and Malini
+>>
+>>
+>>
+>> *===============================================*
+>>
+>> *From:* Jessica Murillo <jessicak at us.ibm.com>
+>> *Date:* June 1, 2015 at 11:24:19 PM PDT
+>> *To:* <women-of-openstack at lists.openstack.org>
+>> *Cc:* <madhura at platform9.com>
+>> *Subject:* *[Women-of-openstack] Women of OpenStack working session
+>> summary and next steps*
+>>
+>> Thanks for everyone who was able to join us at the Women of OpenStack
+>> working session on May 19. A special thanks to our lightening talk
+>> speakers: Valerie Aurora
+>> <https://www.linkedin.com/profile/view?id=5574129&authType=NAME_SEARCH&authToken=5PuI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1432849164634%2Ctas%3Avalerie%20aur>,
+>> Nina Goradia, and Madhura Maskasky <https://twitter.com/madhuramaskasky> for
+>> sharing their experiences and inspiring our group discussions. If you have
+>> not already seen the article, Allison Price from the OpenStack Foundation
+>> has written a great summary of working session on Superuser:
+>> http://superuser.openstack.org/articles/how-to-get-more-women-involved-in-tech-communication-leadership-and-mentors
+>>
+>> After summarizing the group break out sessions there are very similar
+>> themes to what we discussed during our Paris Summit working session. Key
+>> areas of focus include:
+>> 1. Developing women leaders
+>> 2. Increasing the visibility of women in the OpenStack community
+>> 3. Mentorship
+>> 4. Building a strong communications channel for the Women of OpenStack
+>>
+>> Several of you have asked, "What's next?" That is really up to us. We've
+>> heard from many of you that you want the Women of OpenStack to continue to
+>> work together between summits to address these key issues. To help
+>> facilitate follow-on discussions I've included several volunteer sign up
+>> sheets in addition to a full group summary in this google drive doc:
+>> https://docs.google.com/spreadsheets/d/1nu_0EperGdXIQifmjHiNVuB2RJb-5bVJkB9oRT-ExVw/edit#gid=0
+>>
+>> The goal is for each volunteer group to come together as a team to
+>> develop 1-2 key actions they want to accomplish leading up to the Tokyo
+>> Summit. There has already been some great progress and discussion on
+>> creating an IRC channel which was one of our communication follow-up
+>> actions. I'm looking forward to what this group can accomplish in the other
+>> areas as well.
+>>
+>> Let me know if you have any questions, I am definitely looking forward to
+>> continuing the conversation ...
+>>
+>> Jessica Murillo
+>> Vice President, Strategy
+>> IBM Systems
+>> Office Phone: 512-286-7691, T/L: 363-7691
+>> Mobile Phone: 512-970-8466
+>> jessicak at us.ibm.com
+>>
+>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>
+>
+> --
+> ==================================================
+>  - Community : *Openstack Korea Community*
+>  - Name          : Nalee Jang (???)
+>  - Company    : ASD Korea Cloudike System Engineer.
+>  - Contact       : +82-10-3454-4260 / nalee999 at gmail.com
+>  - Blog            : http://naleejang.tistory.com
+>  - HomePage  : http://www.openstack.or.kr
+>  - Facebook   : https://www.facebook.com/groups/openstack.kr/
+> ==================================================
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150702/ea65859b/attachment.html>
+
+From malini.k.bhandaru at intel.com  Thu Jul  2 13:25:55 2015
+From: malini.k.bhandaru at intel.com (Bhandaru, Malini K)
+Date: Thu, 2 Jul 2015 13:25:55 +0000
+Subject: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.)
+ for Women at Tokyo, first come first served
+In-Reply-To: <CAD0KtVEc1zCBmNtXyVuwfpRrWLeCL8gfUqWGxWpkUwsjPV_u9w@mail.gmail.com>
+References: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+ <CADkXDhN3LoGjKODmGxvhJJDQ6RExsgH_QbrnMh5nZbJoRAoFAg@mail.gmail.com>
+ <CAD0KtVEc1zCBmNtXyVuwfpRrWLeCL8gfUqWGxWpkUwsjPV_u9w@mail.gmail.com>
+Message-ID: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B02E0@fmsmsx117.amr.corp.intel.com>
+
+Thank you Anne! And thank you too for the travel support link. ?
+Nalee +1 ? you are our first official registrant!
+
+                   Would you help us out by filling the information requested and replying just to Ruchi and self.
+                   We really do not want to cause a little storm on the mailing list.
+                   Will maintain a waitlist in case there are any cancelations.
+Regards
+Malini
+
+
+From: annegentle at justwriteclick.com [mailto:annegentle at justwriteclick.com] On Behalf Of Anne Gentle
+Sent: Thursday, July 02, 2015 6:20 AM
+To: Nalee Jang
+Cc: Bhandaru, Malini K; women-of-openstack at lists.openstack.org; Stefano Maffulli; Spence, Catherine
+Subject: Re: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.) for Women at Tokyo, first come first served
+
+
+
+On Thu, Jul 2, 2015 at 8:01 AM, Nalee Jang <nalee999 at gmail.com<mailto:nalee999 at gmail.com>> wrote:
+Hello. Ruchi and Malini
+
+I am Nalee Jang from OpenStack Korea User Group.
+
+I just read this mail.
+I think this event is great. so If I can help OpenStack Women members, I want to attend this event.
+Now My English skill is not good but I feel my English skill is improving everyday.
+so I want to try attend this event.
+
+Can I attend this event? Can I help other openstack women members?
+
+
+I think this is a great idea for the Tokyo summit, thanks Ruchi and Malini!
+
+All, please be aware of the Travel Support Program and apply by the August 10 deadline -- see https://wiki.openstack.org/wiki/Travel_Support_Program for details. I can answer questions you have about the process, or refer you to someone who knows.
+
+Thanks,
+Anne
+
+P.S. Is anyone else struggling to type Tokyo correctly? Sheesh I'm a terrible speller, there I said it. :)
+
+I am waiting your reply.
+
+Thank you.
+
+
+2015-07-02 21:41 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com<mailto:malini.k.bhandaru at intel.com>>:
+Hello Ladies!
+A while back Jessica (IBM) had written to brainstorm on what we could offer the Women-of-OpenStack at Tokyo.
+Intel has been running for some years a  ?Command and Presence? Workshop internally and graduates leave with some winning learnings.
+
+
+?         Designed to improve confidence while presenting at technical review meetings (think:  design summits, technical committees, internal justifying work and resources meetings)
+
+It simulates challenging dynamics (think: cross-industry, cross-project priorities, and responses that seem dismissive/my-way or no way.
+
+Helps them gain visibility and respect
+
+?         Developed by some brilliant women,  tested and tuned over 4 years, with help from male allies in role playing and post-analysis
+
+With great pleasure Intel would like to bring this to the Women of OpenStack.
+First come first served basis, Maximum: 24 people. 2.5 hours long. Monday before the summit kicks off.  Free.
+Please respond if interested with:
+Name: First Last
+Email:
+Company:
+Openstack Projects of interest:                (helps to gauge who to invite for challenge environment)
+Current Role:
+Goal:   (what you would like to take away)
+Preference: Monday morning or afternoon
+
+Please reply to Ruchi Bhargava (ruchi.bhargava at intel.com<mailto:ruchi.bhargava at intel.com>) and
+                            Malini Bhandaru (malini.k.bhandaru at intel.com<mailto:malini.k.bhandaru at intel.com>)
+
+Before I graduated from Command-and-Presence, still relatively new at Intel, I would try to go to a meeting SUPER PREPARED, to anticipate every question and be able to answer it.
+There is no such thing when you are working at the edge and innovating. Walked away with a tool ??Action Required(s) items?, tasks, ones that you will follow up post meeting and update/circle back.
+Regards
+Ruchi and Malini
+
+===============================================
+From: Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>>
+Date: June 1, 2015 at 11:24:19 PM PDT
+To: <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Cc: <madhura at platform9.com<mailto:madhura at platform9.com>>
+Subject: [Women-of-openstack] Women of OpenStack working session summary and next steps
+
+Thanks for everyone who was able to join us at the Women of OpenStack working session on May 19. A special thanks to our lightening talk speakers: Valerie Aurora<https://www.linkedin.com/profile/view?id=5574129&authType=NAME_SEARCH&authToken=5PuI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1432849164634%2Ctas%3Avalerie%20aur>, Nina Goradia, and Madhura Maskasky<https://twitter.com/madhuramaskasky> for sharing their experiences and inspiring our group discussions. If you have not already seen the article, Allison Price from the OpenStack Foundation has written a great summary of working session on Superuser: http://superuser.openstack.org/articles/how-to-get-more-women-involved-in-tech-communication-leadership-and-mentors
+
+After summarizing the group break out sessions there are very similar themes to what we discussed during our Paris Summit working session. Key areas of focus include:
+1. Developing women leaders
+2. Increasing the visibility of women in the OpenStack community
+3. Mentorship
+4. Building a strong communications channel for the Women of OpenStack
+
+Several of you have asked, "What's next?" That is really up to us. We've heard from many of you that you want the Women of OpenStack to continue to work together between summits to address these key issues. To help facilitate follow-on discussions I've included several volunteer sign up sheets in addition to a full group summary in this google drive doc: https://docs.google.com/spreadsheets/d/1nu_0EperGdXIQifmjHiNVuB2RJb-5bVJkB9oRT-ExVw/edit#gid=0
+
+The goal is for each volunteer group to come together as a team to develop 1-2 key actions they want to accomplish leading up to the Tokyo Summit. There has already been some great progress and discussion on creating an IRC channel which was one of our communication follow-up actions. I'm looking forward to what this group can accomplish in the other areas as well.
+
+Let me know if you have any questions, I am definitely looking forward to continuing the conversation ...
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Office Phone: 512-286-7691<tel:512-286-7691>, T/L: 363-7691
+Mobile Phone: 512-970-8466<tel:512-970-8466>
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+--
+==================================================
+ - Community : Openstack Korea Community
+ - Name          : Nalee Jang (???)
+ - Company    : ASD Korea Cloudike System Engineer.
+ - Contact       : +82-10-3454-4260<tel:%2B82-10-3454-4260> / nalee999 at gmail.com<mailto:nalee999 at gmail.com>
+ - Blog            : http://naleejang.tistory.com
+ - HomePage  : http://www.openstack.or.kr
+ - Facebook   : https://www.facebook.com/groups/openstack.kr/
+==================================================
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150702/09d40190/attachment-0001.html>
+
+From jessicak at us.ibm.com  Thu Jul  2 13:27:47 2015
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Thu, 2 Jul 2015 08:27:47 -0500
+Subject: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.)
+ for Women at Tokyo, first come first served
+In-Reply-To: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+References: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+Message-ID: <201507021328.t62DSshv003982@d01av04.pok.ibm.com>
+
+Thanks, Ruchi and Malini -- this sounds like a great workshop.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Mobile Phone: 512-970-8466
+Office Phone: 512-286-7691
+jessicak at us.ibm.com
+
+
+
+
+
+From:	"Bhandaru, Malini K" <malini.k.bhandaru at intel.com>
+To:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>, Stefano Maffulli
+            <stefano at openstack.org>, "Anne Gentle (anne at openstack.org)"
+            <anne at openstack.org>
+Cc:	"Bhargava, Ruchi" <ruchi.bhargava at intel.com>, "Whalen, Mauri"
+            <mauri.whalen at intel.com>, Jessica Murillo/Austin/IBM at IBMUS,
+            "Spence, Catherine" <catherine.spence at intel.com>, "Anne Gentle
+            <annegentle at justwriteclick.com>
+            (annegentle at justwriteclick.com)"
+            <annegentle at justwriteclick.com>
+Date:	07/02/2015 07:42 AM
+Subject:	Command and Presence Workshop (2.5 hrs.) for Women at Tokyo,
+            first come first served
+
+
+
+Hello Ladies!
+A while back Jessica (IBM) had written to brainstorm on what we could offer
+the Women-of-OpenStack at Tokyo.
+Intel has been running for some years a  ?Command and Presence? Workshop
+internally and graduates leave with some winning learnings.
+
+      ?         Designed to improve confidence while presenting at
+      technical review meetings (think:  design summits, technical
+      committees, internal justifying work and resources meetings)
+      It simulates challenging dynamics (think: cross-industry,
+      cross-project priorities, and responses that seem dismissive/my-way
+      or no way.
+      Helps them gain visibility and respect
+      ?         Developed by some brilliant women,  tested and tuned over 4
+      years, with help from male allies in role playing and post-analysis
+
+With great pleasure Intel would like to bring this to the Women of
+OpenStack.
+First come first served basis, Maximum: 24 people. 2.5 hours long. Monday
+before the summit kicks off.  Free.
+Please respond if interested with:
+Name: First Last
+Email:
+Company:
+Openstack Projects of interest:                (helps to gauge who to
+invite for challenge environment)
+Current Role:
+Goal:   (what you would like to take away)
+Preference: Monday morning or afternoon
+
+Please reply to Ruchi Bhargava (ruchi.bhargava at intel.com) and
+                            Malini Bhandaru (malini.k.bhandaru at intel.com)
+
+Before I graduated from Command-and-Presence, still relatively new at
+Intel, I would try to go to a meeting SUPER PREPARED, to anticipate every
+question and be able to answer it.
+There is no such thing when you are working at the edge and innovating.
+Walked away with a tool ??Action Required(s) items?, tasks, ones that you
+will follow up post meeting and update/circle back.
+Regards
+Ruchi and Malini
+
+===============================================
+From: Jessica Murillo <jessicak at us.ibm.com>
+Date: June 1, 2015 at 11:24:19 PM PDT
+To: <women-of-openstack at lists.openstack.org>
+Cc: <madhura at platform9.com>
+Subject: [Women-of-openstack] Women of OpenStack working session summary
+and next steps
+
+
+Thanks for everyone who was able to join us at the Women of OpenStack
+working session on May 19. A special thanks to our lightening talk
+speakers: Valerie Aurora, Nina Goradia, and Madhura Maskasky for sharing
+their experiences and inspiring our group discussions. If you have not
+already seen the article, Allison Price from the OpenStack Foundation has
+written a great summary of working session on Superuser:
+http://superuser.openstack.org/articles/how-to-get-more-women-involved-in-tech-communication-leadership-and-mentors
+
+
+After summarizing the group break out sessions there are very similar
+themes to what we discussed during our Paris Summit working session. Key
+areas of focus include:
+1. Developing women leaders
+2. Increasing the visibility of women in the OpenStack community
+3. Mentorship
+4. Building a strong communications channel for the Women of OpenStack
+
+Several of you have asked, "What's next?" That is really up to us. We've
+heard from many of you that you want the Women of OpenStack to continue to
+work together between summits to address these key issues. To help
+facilitate follow-on discussions I've included several volunteer sign up
+sheets in addition to a full group summary in this google drive doc:
+https://docs.google.com/spreadsheets/d/1nu_0EperGdXIQifmjHiNVuB2RJb-5bVJkB9oRT-ExVw/edit#gid=0
+
+
+The goal is for each volunteer group to come together as a team to develop
+1-2 key actions they want to accomplish leading up to the Tokyo Summit.
+There has already been some great progress and discussion on creating an
+IRC channel which was one of our communication follow-up actions. I'm
+looking forward to what this group can accomplish in the other areas as
+well.
+
+Let me know if you have any questions, I am definitely looking forward to
+continuing the conversation ...
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Office Phone: 512-286-7691, T/L: 363-7691
+Mobile Phone: 512-970-8466
+jessicak at us.ibm.com
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150702/f12011b7/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150702/f12011b7/attachment.gif>
+
+From binanalhalabi at yahoo.com  Thu Jul  2 13:55:17 2015
+From: binanalhalabi at yahoo.com (Binan AL Halabi)
+Date: Thu, 2 Jul 2015 13:55:17 +0000 (UTC)
+Subject: [Women-of-openstack] activities/events
+Message-ID: <215752578.980430.1435845317630.JavaMail.yahoo@mail.yahoo.com>
+
+Hi wonderful ladies,
+I live in Stockholm, Sweden. Is there any activities/events or even plans in Stockholm -Sweden ?
+Thanks
+/ Binan
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150702/6e6e0b0d/attachment-0001.html>
+
+From kendall at openstack.org  Mon Jul  6 17:07:58 2015
+From: kendall at openstack.org (Kendall Waters)
+Date: Mon, 6 Jul 2015 12:07:58 -0500
+Subject: [Women-of-openstack] July 15 Deadline Call for Speakers - OpenStack
+	Summit Tokyo
+Message-ID: <1DA15A1A-546E-42CF-9120-31BBEE18CBB8@openstack.org>
+
+Hi everyone,
+
+Next Wednesday, July 15 at 11:59pm PDT is the deadline to submit a talk for the upcoming OpenStack Summit taking place in Tokyo, October 27-30. Hurry and submit a talk now!
+
+Submit your speaking session proposals HERE <https://www.openstack.org/summit/tokyo-2015/call-for-speakers/>! 
+
+Get advice and tips on creating a successful talk for the Tokyo Summit in this? <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal>webinar <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal> held by the Women of OpenStack. 
+
+The visa application process for the OpenStack Summit Tokyo is different than previous Summits. Please review this information <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#visa> to see if you require a visa, the documents you need, as well as upcoming deadlines.
+
+All Tokyo Summit details including hotel room blocks, will soon be made available at OpenStack.org/summit <http://openstack.org/summit>. Please continue to check back for updates! If you are a contributor to OpenStack and need financial assistance in order to travel to Tokyo to attend the Summit - you can apply for a grant through the Travel Support Program <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#travel-support>. 
+
+If you have any questions, email summit at openstack.org <mailto:summit at openstack.org>. 
+
+We look forward to seeing you in Tokyo!
+
+Cheers,
+The OpenStack Summit team
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150706/1a69159a/attachment.html>
+
+From nalee999 at gmail.com  Mon Jul  6 19:19:40 2015
+From: nalee999 at gmail.com (Nalee Jang)
+Date: Tue, 7 Jul 2015 04:19:40 +0900
+Subject: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.)
+ for Women at Tokyo, first come first served
+In-Reply-To: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B02E0@fmsmsx117.amr.corp.intel.com>
+References: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+ <CADkXDhN3LoGjKODmGxvhJJDQ6RExsgH_QbrnMh5nZbJoRAoFAg@mail.gmail.com>
+ <CAD0KtVEc1zCBmNtXyVuwfpRrWLeCL8gfUqWGxWpkUwsjPV_u9w@mail.gmail.com>
+ <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B02E0@fmsmsx117.amr.corp.intel.com>
+Message-ID: <CADkXDhP5OsD80apEA2JmqfFbGVN06p_BNW6hCgDgtWVdsOA1KQ@mail.gmail.com>
+
+Hello. Ruchi and Malini
+
+I have forgotten to reply for your answering.
+so I included my information below. and I am happy to help this event.
+
+Thank you.
+Nalee Jang
+
+===============
+
+*Name: Nalee Jang*
+
+*Email: nalee999 at gmail.com <nalee999 at gmail.com>*
+
+*Company: Cloudike*
+
+*Openstack Projects of interest: Swift, Nova, Neutron (helps to gauge who
+to invite for challenge environment)*
+
+*Current Role: System Engineer*
+
+*Goal: Understating SDN for Neutron  (what you would like to take away)*
+
+*Preference: Monday afternoon*
+
+
+2015-07-02 22:25 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com>:
+
+>  Thank you Anne! And thank you too for the travel support link. J
+>
+> Nalee +1 ? you are our first official registrant!
+>
+>
+>
+>                    Would you help us out by filling the information
+> requested and replying just to Ruchi and self.
+>
+>                    We really do not want to cause a little storm on the
+> mailing list.
+>
+>                    Will maintain a waitlist in case there are any
+> cancelations.
+>
+> Regards
+>
+> Malini
+>
+>
+>
+>
+>
+> *From:* annegentle at justwriteclick.com [mailto:
+> annegentle at justwriteclick.com] *On Behalf Of *Anne Gentle
+> *Sent:* Thursday, July 02, 2015 6:20 AM
+> *To:* Nalee Jang
+> *Cc:* Bhandaru, Malini K; women-of-openstack at lists.openstack.org; Stefano
+> Maffulli; Spence, Catherine
+> *Subject:* Re: [Women-of-openstack] Command and Presence Workshop (2.5
+> hrs.) for Women at Tokyo, first come first served
+>
+>
+>
+>
+>
+>
+>
+> On Thu, Jul 2, 2015 at 8:01 AM, Nalee Jang <nalee999 at gmail.com> wrote:
+>
+> Hello. Ruchi and Malini
+>
+>
+>
+> I am Nalee Jang from OpenStack Korea User Group.
+>
+>
+>
+> I just read this mail.
+>
+> I think this event is great. so If I can help OpenStack Women members, I
+> want to attend this event.
+>
+> Now My English skill is not good but I feel my English skill is improving
+> everyday.
+>
+> so I want to try attend this event.
+>
+>
+>
+> Can I attend this event? Can I help other openstack women members?
+>
+>
+>
+>
+>
+> I think this is a great idea for the Tokyo summit, thanks Ruchi and Malini!
+>
+>
+>
+> All, please be aware of the Travel Support Program and apply by the August
+> 10 deadline -- see https://wiki.openstack.org/wiki/Travel_Support_Program
+> for details. I can answer questions you have about the process, or refer
+> you to someone who knows.
+>
+>
+>
+> Thanks,
+>
+> Anne
+>
+>
+>
+> P.S. Is anyone else struggling to type Tokyo correctly? Sheesh I'm a
+> terrible speller, there I said it. :)
+>
+>
+>
+>  I am waiting your reply.
+>
+>
+>
+> Thank you.
+>
+>
+>
+>
+>
+> 2015-07-02 21:41 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com
+> >:
+>
+>   Hello Ladies!
+>
+> A while back Jessica (IBM) had written to brainstorm on what we could
+> offer the Women-of-OpenStack at Tokyo.
+>
+> *Intel has been running for some years a  ?Command and Presence? Workshop
+> internally and graduates leave with some winning learnings.*
+>
+>
+>
+> ?         *Designed to improve confidence while presenting at technical
+> review meetings (think:  design summits, technical committees, internal
+> justifying work and resources meetings)*
+>
+> *It simulates challenging dynamics (think: cross-industry, cross-project
+> priorities, and responses that seem dismissive/my-way or no way.*
+>
+> *Helps them gain visibility and respect*
+>
+> ?         *Developed by some brilliant women,  tested and tuned over 4
+> years, with help from male allies in role playing and post-analysis*
+>
+>
+>
+> With great pleasure Intel would like to bring this to the Women of
+> OpenStack.
+>
+> First come first served basis, Maximum: 24 people. 2.5 hours long. Monday
+> before the summit kicks off.  Free.
+>
+> Please respond if interested with:
+>
+> *Name: First Last*
+>
+> *Email:*
+>
+> *Company:*
+>
+> *Openstack Projects of interest:                (helps to gauge who to
+> invite for challenge environment)*
+>
+> *Current Role:*
+>
+> *Goal:   (what you would like to take away)*
+>
+> *Preference: Monday morning or afternoon*
+>
+>
+>
+> Please reply to Ruchi Bhargava (ruchi.bhargava at intel.com) and
+>
+>                             Malini Bhandaru (malini.k.bhandaru at intel.com)
+>
+>
+>
+> Before I graduated from Command-and-Presence, still relatively new at
+> Intel, I would try to go to a meeting SUPER PREPARED, to anticipate every
+> question and be able to answer it.
+>
+> There is no such thing when you are working at the edge and innovating.
+> Walked away with a tool ??Action Required(s) items?, tasks, ones that you
+> will follow up post meeting and update/circle back.
+>
+> Regards
+>
+> Ruchi and Malini
+>
+>
+>
+> *===============================================*
+>
+> *From:* Jessica Murillo <jessicak at us.ibm.com>
+> *Date:* June 1, 2015 at 11:24:19 PM PDT
+> *To:* <women-of-openstack at lists.openstack.org>
+> *Cc:* <madhura at platform9.com>
+> *Subject:* *[Women-of-openstack] Women of OpenStack working session
+> summary and next steps*
+>
+> Thanks for everyone who was able to join us at the Women of OpenStack
+> working session on May 19. A special thanks to our lightening talk
+> speakers: Valerie Aurora
+> <https://www.linkedin.com/profile/view?id=5574129&authType=NAME_SEARCH&authToken=5PuI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1432849164634%2Ctas%3Avalerie%20aur>,
+> Nina Goradia, and Madhura Maskasky <https://twitter.com/madhuramaskasky> for
+> sharing their experiences and inspiring our group discussions. If you have
+> not already seen the article, Allison Price from the OpenStack Foundation
+> has written a great summary of working session on Superuser:
+> http://superuser.openstack.org/articles/how-to-get-more-women-involved-in-tech-communication-leadership-and-mentors
+>
+> After summarizing the group break out sessions there are very similar
+> themes to what we discussed during our Paris Summit working session. Key
+> areas of focus include:
+> 1. Developing women leaders
+> 2. Increasing the visibility of women in the OpenStack community
+> 3. Mentorship
+> 4. Building a strong communications channel for the Women of OpenStack
+>
+> Several of you have asked, "What's next?" That is really up to us. We've
+> heard from many of you that you want the Women of OpenStack to continue to
+> work together between summits to address these key issues. To help
+> facilitate follow-on discussions I've included several volunteer sign up
+> sheets in addition to a full group summary in this google drive doc:
+> https://docs.google.com/spreadsheets/d/1nu_0EperGdXIQifmjHiNVuB2RJb-5bVJkB9oRT-ExVw/edit#gid=0
+>
+> The goal is for each volunteer group to come together as a team to develop
+> 1-2 key actions they want to accomplish leading up to the Tokyo Summit.
+> There has already been some great progress and discussion on creating an
+> IRC channel which was one of our communication follow-up actions. I'm
+> looking forward to what this group can accomplish in the other areas as
+> well.
+>
+> Let me know if you have any questions, I am definitely looking forward to
+> continuing the conversation ...
+>
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> Office Phone: 512-286-7691, T/L: 363-7691
+> Mobile Phone: 512-970-8466
+> jessicak at us.ibm.com
+>
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>
+>
+> --
+>
+> ==================================================
+>
+>  - Community : *Openstack Korea Community*
+>
+>  - Name          : Nalee Jang (???)
+>
+>  - Company    : ASD Korea Cloudike System Engineer.
+>
+>  - Contact       : +82-10-3454-4260 / nalee999 at gmail.com
+>
+>  - Blog            : http://naleejang.tistory.com
+>
+>  - HomePage  : http://www.openstack.or.kr
+>
+>  - Facebook   : https://www.facebook.com/groups/openstack.kr/
+>
+> ==================================================
+>
+>
+>
+
+
+
+-- 
+==================================================
+ - Community : *Openstack Korea Community*
+ - Name          : Nalee Jang (???)
+ - Company    : ASD Korea Cloudike System Engineer.
+ - Contact       : +82-10-3454-4260 / nalee999 at gmail.com
+ - Blog            : http://naleejang.tistory.com
+ - HomePage  : http://www.openstack.or.kr
+ - Facebook   : https://www.facebook.com/groups/openstack.kr/
+==================================================
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150707/8614e3c4/attachment-0001.html>
+
+From Nithya.Ruff at sandisk.com  Thu Jul  2 14:46:26 2015
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Thu, 2 Jul 2015 14:46:26 +0000
+Subject: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.)
+ for Women at Tokyo, first come first served
+In-Reply-To: <201507021328.t62DSshv003982@d01av04.pok.ibm.com>
+References: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+ <201507021328.t62DSshv003982@d01av04.pok.ibm.com>
+Message-ID: <43020B3F5A5DD045B003E375A7459E0829248B30@SACMBXIP02.sdcorp.global.sandisk.com>
+
+Thank you ladies for this. I assume it is ok to share with the women of SanDisk in Tokyo.
+
+Also, super impressed with the write-up on Nalee in Korea and will share that with our women as well especially in APAC.
+
+Attached are 3 things we did to celebrate National Women Engineer day last week. I was honored to be able to share the SanDisk STEM and my story. Hope this is useful to you.
+
+http://www.fiercecio.com/story/women-stem-celebration-successes/2015-06-25?utm_medium=twitter&utm_source=dlvr.it&utm_campaign=rss
+
+Silicon Valley Business Journal:
+http://www.bizjournals.com/sanjose/news/2015/06/23/female-sandisk-engineer-who-made-it-in-silicon.html
+
+Radio Interview ? 3 mins into recording:
+It stream it here: http://media.bloomberg.com/bb/avfile/Markets/Analyst_Calls/vu6ixnsP18pY.mp3. (NOTE: the upfront portion of the clip is just a live Bloomberg market update).
+
+
+Thank You,
+Nithya A. Ruff,  Director, SanDisk Open Source Strategy Office
+WIN Board Member
+SanDisk Corporation
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+
+From: Jessica Murillo [mailto:jessicak at us.ibm.com]
+Sent: Thursday, July 02, 2015 6:28 AM
+To: Bhandaru, Malini K
+Cc: women-of-openstack at lists.openstack.org; Anne Gentle (anne at openstack.org); Spence, Catherine; Stefano Maffulli
+Subject: Re: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.) for Women at Tokyo, first come first served
+
+
+Thanks, Ruchi and Malini -- this sounds like a great workshop.
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Mobile Phone: 512-970-8466
+Office Phone: 512-286-7691
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+
+[Inactive hide details for "Bhandaru, Malini K" ---07/02/2015 07:42:03 AM---Hello Ladies! A while back Jessica (IBM) had written]"Bhandaru, Malini K" ---07/02/2015 07:42:03 AM---Hello Ladies! A while back Jessica (IBM) had written to brainstorm on what we could offer the Women-
+
+From: "Bhandaru, Malini K" <malini.k.bhandaru at intel.com<mailto:malini.k.bhandaru at intel.com>>
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>, Stefano Maffulli <stefano at openstack.org<mailto:stefano at openstack.org>>, "Anne Gentle (anne at openstack.org<mailto:anne at openstack.org>)" <anne at openstack.org<mailto:anne at openstack.org>>
+Cc: "Bhargava, Ruchi" <ruchi.bhargava at intel.com<mailto:ruchi.bhargava at intel.com>>, "Whalen, Mauri" <mauri.whalen at intel.com<mailto:mauri.whalen at intel.com>>, Jessica Murillo/Austin/IBM at IBMUS, "Spence, Catherine" <catherine.spence at intel.com<mailto:catherine.spence at intel.com>>, "Anne Gentle <annegentle at justwriteclick.com<mailto:annegentle at justwriteclick.com>> (annegentle at justwriteclick.com<mailto:annegentle at justwriteclick.com>)" <annegentle at justwriteclick.com<mailto:annegentle at justwriteclick.com>>
+Date: 07/02/2015 07:42 AM
+Subject: Command and Presence Workshop (2.5 hrs.) for Women at Tokyo, first come first served
+
+________________________________
+
+
+
+Hello Ladies!
+A while back Jessica (IBM) had written to brainstorm on what we could offer the Women-of-OpenStack at Tokyo.
+Intel has been running for some years a ?Command and Presence? Workshop internally and graduates leave with some winning learnings.
+? Designed to improve confidence while presenting at technical review meetings (think: design summits, technical committees, internal justifying work and resources meetings)
+It simulates challenging dynamics (think: cross-industry, cross-project priorities, and responses that seem dismissive/my-way or no way.
+Helps them gain visibility and respect
+? Developed by some brilliant women, tested and tuned over 4 years, with help from male allies in role playing and post-analysis
+
+With great pleasure Intel would like to bring this to the Women of OpenStack.
+First come first served basis, Maximum: 24 people. 2.5 hours long. Monday before the summit kicks off. Free.
+Please respond if interested with:
+Name: First Last
+Email:
+Company:
+Openstack Projects of interest: (helps to gauge who to invite for challenge environment)
+Current Role:
+Goal: (what you would like to take away)
+Preference: Monday morning or afternoon
+
+Please reply to Ruchi Bhargava (ruchi.bhargava at intel.com<mailto:ruchi.bhargava at intel.com>) and
+Malini Bhandaru (malini.k.bhandaru at intel.com<mailto:malini.k.bhandaru at intel.com>)
+
+Before I graduated from Command-and-Presence, still relatively new at Intel, I would try to go to a meeting SUPER PREPARED, to anticipate every question and be able to answer it.
+There is no such thing when you are working at the edge and innovating. Walked away with a tool ??Action Required(s) items?, tasks, ones that you will follow up post meeting and update/circle back.
+Regards
+Ruchi and Malini
+
+===============================================
+From: Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>>
+Date: June 1, 2015 at 11:24:19 PM PDT
+To: <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Cc: <madhura at platform9.com<mailto:madhura at platform9.com>>
+Subject: [Women-of-openstack] Women of OpenStack working session summary and next steps
+
+Thanks for everyone who was able to join us at the Women of OpenStack working session on May 19. A special thanks to our lightening talk speakers: Valerie Aurora<https://www.linkedin.com/profile/view?id=5574129&authType=NAME_SEARCH&authToken=5PuI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1432849164634%2Ctas%3Avalerie%20aur>, Nina Goradia, and Madhura Maskasky<https://twitter.com/madhuramaskasky> for sharing their experiences and inspiring our group discussions. If you have not already seen the article, Allison Price from the OpenStack Foundation has written a great summary of working session on Superuser: http://superuser.openstack.org/articles/how-to-get-more-women-involved-in-tech-communication-leadership-and-mentors
+
+After summarizing the group break out sessions there are very similar themes to what we discussed during our Paris Summit working session. Key areas of focus include:
+1. Developing women leaders
+2. Increasing the visibility of women in the OpenStack community
+3. Mentorship
+4. Building a strong communications channel for the Women of OpenStack
+
+Several of you have asked, "What's next?" That is really up to us. We've heard from many of you that you want the Women of OpenStack to continue to work together between summits to address these key issues. To help facilitate follow-on discussions I've included several volunteer sign up sheets in addition to a full group summary in this google drive doc: https://docs.google.com/spreadsheets/d/1nu_0EperGdXIQifmjHiNVuB2RJb-5bVJkB9oRT-ExVw/edit#gid=0
+
+The goal is for each volunteer group to come together as a team to develop 1-2 key actions they want to accomplish leading up to the Tokyo Summit. There has already been some great progress and discussion on creating an IRC channel which was one of our communication follow-up actions. I'm looking forward to what this group can accomplish in the other areas as well.
+
+Let me know if you have any questions, I am definitely looking forward to continuing the conversation ...
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Office Phone: 512-286-7691, T/L: 363-7691
+Mobile Phone: 512-970-8466
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+
+
+________________________________
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150702/b6aed796/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.gif
+Type: image/gif
+Size: 105 bytes
+Desc: image001.gif
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150702/b6aed796/attachment-0001.gif>
+
+From malini.k.bhandaru at intel.com  Mon Jul  6 22:59:33 2015
+From: malini.k.bhandaru at intel.com (Bhandaru, Malini K)
+Date: Mon, 6 Jul 2015 22:59:33 +0000
+Subject: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.)
+ for Women at Tokyo, first come first served
+In-Reply-To: <CADkXDhP5OsD80apEA2JmqfFbGVN06p_BNW6hCgDgtWVdsOA1KQ@mail.gmail.com>
+References: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+ <CADkXDhN3LoGjKODmGxvhJJDQ6RExsgH_QbrnMh5nZbJoRAoFAg@mail.gmail.com>
+ <CAD0KtVEc1zCBmNtXyVuwfpRrWLeCL8gfUqWGxWpkUwsjPV_u9w@mail.gmail.com>
+ <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B02E0@fmsmsx117.amr.corp.intel.com>
+ <CADkXDhP5OsD80apEA2JmqfFbGVN06p_BNW6hCgDgtWVdsOA1KQ@mail.gmail.com>
+Message-ID: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B36AC@fmsmsx117.amr.corp.intel.com>
+
+Nalee, sorry to disappoint, but this offering is not aligned with your goal of  ?Understating SDN for Neutron  (what you would like to take away)?.
+We seek to equip people with techniques to help them succeed in presentations and meetings.
+It will not be subject matter specific.
+
+Regards
+Malini
+
+
+From: Nalee Jang [mailto:nalee999 at gmail.com]
+Sent: Monday, July 06, 2015 12:20 PM
+To: Bhandaru, Malini K
+Cc: Anne Gentle; women-of-openstack at lists.openstack.org; Stefano Maffulli; Spence, Catherine
+Subject: Re: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.) for Women at Tokyo, first come first served
+
+Hello. Ruchi and Malini
+
+I have forgotten to reply for your answering.
+so I included my information below. and I am happy to help this event.
+
+Thank you.
+Nalee Jang
+
+===============
+
+Name: Nalee Jang
+Email: nalee999 at gmail.com<mailto:nalee999 at gmail.com>
+Company: Cloudike
+Openstack Projects of interest: Swift, Nova, Neutron (helps to gauge who to invite for challenge environment)
+Current Role: System Engineer
+Goal: Understating SDN for Neutron  (what you would like to take away)
+Preference: Monday afternoon
+
+
+2015-07-02 22:25 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com<mailto:malini.k.bhandaru at intel.com>>:
+Thank you Anne! And thank you too for the travel support link. ?
+Nalee +1 ? you are our first official registrant!
+
+                   Would you help us out by filling the information requested and replying just to Ruchi and self.
+                   We really do not want to cause a little storm on the mailing list.
+                   Will maintain a waitlist in case there are any cancelations.
+Regards
+Malini
+
+
+From: annegentle at justwriteclick.com<mailto:annegentle at justwriteclick.com> [mailto:annegentle at justwriteclick.com<mailto:annegentle at justwriteclick.com>] On Behalf Of Anne Gentle
+Sent: Thursday, July 02, 2015 6:20 AM
+To: Nalee Jang
+Cc: Bhandaru, Malini K; women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>; Stefano Maffulli; Spence, Catherine
+Subject: Re: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.) for Women at Tokyo, first come first served
+
+
+
+On Thu, Jul 2, 2015 at 8:01 AM, Nalee Jang <nalee999 at gmail.com<mailto:nalee999 at gmail.com>> wrote:
+Hello. Ruchi and Malini
+
+I am Nalee Jang from OpenStack Korea User Group.
+
+I just read this mail.
+I think this event is great. so If I can help OpenStack Women members, I want to attend this event.
+Now My English skill is not good but I feel my English skill is improving everyday.
+so I want to try attend this event.
+
+Can I attend this event? Can I help other openstack women members?
+
+
+I think this is a great idea for the Tokyo summit, thanks Ruchi and Malini!
+
+All, please be aware of the Travel Support Program and apply by the August 10 deadline -- see https://wiki.openstack.org/wiki/Travel_Support_Program for details. I can answer questions you have about the process, or refer you to someone who knows.
+
+Thanks,
+Anne
+
+P.S. Is anyone else struggling to type Tokyo correctly? Sheesh I'm a terrible speller, there I said it. :)
+
+I am waiting your reply.
+
+Thank you.
+
+
+2015-07-02 21:41 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com<mailto:malini.k.bhandaru at intel.com>>:
+Hello Ladies!
+A while back Jessica (IBM) had written to brainstorm on what we could offer the Women-of-OpenStack at Tokyo.
+Intel has been running for some years a  ?Command and Presence? Workshop internally and graduates leave with some winning learnings.
+
+
+?         Designed to improve confidence while presenting at technical review meetings (think:  design summits, technical committees, internal justifying work and resources meetings)
+
+It simulates challenging dynamics (think: cross-industry, cross-project priorities, and responses that seem dismissive/my-way or no way.
+
+Helps them gain visibility and respect
+
+?         Developed by some brilliant women,  tested and tuned over 4 years, with help from male allies in role playing and post-analysis
+
+With great pleasure Intel would like to bring this to the Women of OpenStack.
+First come first served basis, Maximum: 24 people. 2.5 hours long. Monday before the summit kicks off.  Free.
+Please respond if interested with:
+Name: First Last
+Email:
+Company:
+Openstack Projects of interest:                (helps to gauge who to invite for challenge environment)
+Current Role:
+Goal:   (what you would like to take away)
+Preference: Monday morning or afternoon
+
+Please reply to Ruchi Bhargava (ruchi.bhargava at intel.com<mailto:ruchi.bhargava at intel.com>) and
+                            Malini Bhandaru (malini.k.bhandaru at intel.com<mailto:malini.k.bhandaru at intel.com>)
+
+Before I graduated from Command-and-Presence, still relatively new at Intel, I would try to go to a meeting SUPER PREPARED, to anticipate every question and be able to answer it.
+There is no such thing when you are working at the edge and innovating. Walked away with a tool ??Action Required(s) items?, tasks, ones that you will follow up post meeting and update/circle back.
+Regards
+Ruchi and Malini
+
+===============================================
+From: Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>>
+Date: June 1, 2015 at 11:24:19 PM PDT
+To: <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Cc: <madhura at platform9.com<mailto:madhura at platform9.com>>
+Subject: [Women-of-openstack] Women of OpenStack working session summary and next steps
+
+Thanks for everyone who was able to join us at the Women of OpenStack working session on May 19. A special thanks to our lightening talk speakers: Valerie Aurora<https://www.linkedin.com/profile/view?id=5574129&authType=NAME_SEARCH&authToken=5PuI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1432849164634%2Ctas%3Avalerie%20aur>, Nina Goradia, and Madhura Maskasky<https://twitter.com/madhuramaskasky> for sharing their experiences and inspiring our group discussions. If you have not already seen the article, Allison Price from the OpenStack Foundation has written a great summary of working session on Superuser: http://superuser.openstack.org/articles/how-to-get-more-women-involved-in-tech-communication-leadership-and-mentors
+
+After summarizing the group break out sessions there are very similar themes to what we discussed during our Paris Summit working session. Key areas of focus include:
+1. Developing women leaders
+2. Increasing the visibility of women in the OpenStack community
+3. Mentorship
+4. Building a strong communications channel for the Women of OpenStack
+
+Several of you have asked, "What's next?" That is really up to us. We've heard from many of you that you want the Women of OpenStack to continue to work together between summits to address these key issues. To help facilitate follow-on discussions I've included several volunteer sign up sheets in addition to a full group summary in this google drive doc: https://docs.google.com/spreadsheets/d/1nu_0EperGdXIQifmjHiNVuB2RJb-5bVJkB9oRT-ExVw/edit#gid=0
+
+The goal is for each volunteer group to come together as a team to develop 1-2 key actions they want to accomplish leading up to the Tokyo Summit. There has already been some great progress and discussion on creating an IRC channel which was one of our communication follow-up actions. I'm looking forward to what this group can accomplish in the other areas as well.
+
+Let me know if you have any questions, I am definitely looking forward to continuing the conversation ...
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+Office Phone: 512-286-7691<tel:512-286-7691>, T/L: 363-7691
+Mobile Phone: 512-970-8466<tel:512-970-8466>
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+--
+==================================================
+ - Community : Openstack Korea Community
+ - Name          : Nalee Jang (???)
+ - Company    : ASD Korea Cloudike System Engineer.
+ - Contact       : +82-10-3454-4260<tel:%2B82-10-3454-4260> / nalee999 at gmail.com<mailto:nalee999 at gmail.com>
+ - Blog            : http://naleejang.tistory.com
+ - HomePage  : http://www.openstack.or.kr
+ - Facebook   : https://www.facebook.com/groups/openstack.kr/
+==================================================
+
+
+
+
+--
+==================================================
+ - Community : Openstack Korea Community
+ - Name          : Nalee Jang (???)
+ - Company    : ASD Korea Cloudike System Engineer.
+ - Contact       : +82-10-3454-4260 / nalee999 at gmail.com<mailto:nalee999 at gmail.com>
+ - Blog            : http://naleejang.tistory.com
+ - HomePage  : http://www.openstack.or.kr
+ - Facebook   : https://www.facebook.com/groups/openstack.kr/
+==================================================
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150706/2d63abbd/attachment-0001.html>
+
+From nalee999 at gmail.com  Tue Jul  7 17:44:34 2015
+From: nalee999 at gmail.com (Nalee Jang)
+Date: Wed, 8 Jul 2015 02:44:34 +0900
+Subject: [Women-of-openstack] Command and Presence Workshop (2.5 hrs.)
+ for Women at Tokyo, first come first served
+In-Reply-To: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B36AC@fmsmsx117.amr.corp.intel.com>
+References: <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B0240@fmsmsx117.amr.corp.intel.com>
+ <CADkXDhN3LoGjKODmGxvhJJDQ6RExsgH_QbrnMh5nZbJoRAoFAg@mail.gmail.com>
+ <CAD0KtVEc1zCBmNtXyVuwfpRrWLeCL8gfUqWGxWpkUwsjPV_u9w@mail.gmail.com>
+ <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B02E0@fmsmsx117.amr.corp.intel.com>
+ <CADkXDhP5OsD80apEA2JmqfFbGVN06p_BNW6hCgDgtWVdsOA1KQ@mail.gmail.com>
+ <EE6FFF4F6C34C84C8C98DD2414EEA47E7B2B36AC@fmsmsx117.amr.corp.intel.com>
+Message-ID: <CADkXDhN7+Nv1KXME-x0_snaGPQz_58Hd-Gtf1boV3GBv6x9DMA@mail.gmail.com>
+
+Hi. Malini
+
+Actually I didn't know what goal.
+so I want to change my goal below.
+*Need women leaders to be more visible in the OpenStack main tent sessions*
+How do you think it?
+
+2015-07-07 7:59 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com>:
+
+>  Nalee, sorry to disappoint, but this offering is not aligned with your
+> goal of  ?*Understating SDN for Neutron  (what you would like to take
+> away)*?.
+>
+> We seek to equip people with techniques to help them succeed in
+> presentations and meetings.
+>
+> It will not be subject matter specific.
+>
+>
+>
+> Regards
+>
+> Malini
+>
+>
+>
+>
+>
+> *From:* Nalee Jang [mailto:nalee999 at gmail.com]
+> *Sent:* Monday, July 06, 2015 12:20 PM
+> *To:* Bhandaru, Malini K
+> *Cc:* Anne Gentle; women-of-openstack at lists.openstack.org; Stefano
+> Maffulli; Spence, Catherine
+>
+> *Subject:* Re: [Women-of-openstack] Command and Presence Workshop (2.5
+> hrs.) for Women at Tokyo, first come first served
+>
+>
+>
+> Hello. Ruchi and Malini
+>
+>
+>
+> I have forgotten to reply for your answering.
+>
+> so I included my information below. and I am happy to help this event.
+>
+>
+>
+> Thank you.
+>
+> Nalee Jang
+>
+>
+>
+> ===============
+>
+>
+>
+> *Name: Nalee Jang*
+>
+> *Email: nalee999 at gmail.com <nalee999 at gmail.com>*
+>
+> *Company: Cloudike*
+>
+> *Openstack Projects of interest: Swift, Nova, Neutron (helps to gauge who
+> to invite for challenge environment)*
+>
+> *Current Role: System Engineer*
+>
+> *Goal: Understating SDN for Neutron  (what you would like to take away)*
+>
+> *Preference: Monday afternoon*
+>
+>
+>
+>
+>
+> 2015-07-02 22:25 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com
+> >:
+>
+> Thank you Anne! And thank you too for the travel support link. J
+>
+> Nalee +1 ? you are our first official registrant!
+>
+>
+>
+>                    Would you help us out by filling the information
+> requested and replying just to Ruchi and self.
+>
+>                    We really do not want to cause a little storm on the
+> mailing list.
+>
+>                    Will maintain a waitlist in case there are any
+> cancelations.
+>
+> Regards
+>
+> Malini
+>
+>
+>
+>
+>
+> *From:* annegentle at justwriteclick.com [mailto:
+> annegentle at justwriteclick.com] *On Behalf Of *Anne Gentle
+> *Sent:* Thursday, July 02, 2015 6:20 AM
+> *To:* Nalee Jang
+> *Cc:* Bhandaru, Malini K; women-of-openstack at lists.openstack.org; Stefano
+> Maffulli; Spence, Catherine
+> *Subject:* Re: [Women-of-openstack] Command and Presence Workshop (2.5
+> hrs.) for Women at Tokyo, first come first served
+>
+>
+>
+>
+>
+>
+>
+> On Thu, Jul 2, 2015 at 8:01 AM, Nalee Jang <nalee999 at gmail.com> wrote:
+>
+> Hello. Ruchi and Malini
+>
+>
+>
+> I am Nalee Jang from OpenStack Korea User Group.
+>
+>
+>
+> I just read this mail.
+>
+> I think this event is great. so If I can help OpenStack Women members, I
+> want to attend this event.
+>
+> Now My English skill is not good but I feel my English skill is improving
+> everyday.
+>
+> so I want to try attend this event.
+>
+>
+>
+> Can I attend this event? Can I help other openstack women members?
+>
+>
+>
+>
+>
+> I think this is a great idea for the Tokyo summit, thanks Ruchi and Malini!
+>
+>
+>
+> All, please be aware of the Travel Support Program and apply by the August
+> 10 deadline -- see https://wiki.openstack.org/wiki/Travel_Support_Program
+> for details. I can answer questions you have about the process, or refer
+> you to someone who knows.
+>
+>
+>
+> Thanks,
+>
+> Anne
+>
+>
+>
+> P.S. Is anyone else struggling to type Tokyo correctly? Sheesh I'm a
+> terrible speller, there I said it. :)
+>
+>
+>
+>  I am waiting your reply.
+>
+>
+>
+> Thank you.
+>
+>
+>
+>
+>
+> 2015-07-02 21:41 GMT+09:00 Bhandaru, Malini K <malini.k.bhandaru at intel.com
+> >:
+>
+>   Hello Ladies!
+>
+> A while back Jessica (IBM) had written to brainstorm on what we could
+> offer the Women-of-OpenStack at Tokyo.
+>
+> *Intel has been running for some years a  ?Command and Presence? Workshop
+> internally and graduates leave with some winning learnings.*
+>
+>
+>
+> ?         *Designed to improve confidence while presenting at technical
+> review meetings (think:  design summits, technical committees, internal
+> justifying work and resources meetings)*
+>
+> *It simulates challenging dynamics (think: cross-industry, cross-project
+> priorities, and responses that seem dismissive/my-way or no way.*
+>
+> *Helps them gain visibility and respect*
+>
+> ?         *Developed by some brilliant women,  tested and tuned over 4
+> years, with help from male allies in role playing and post-analysis*
+>
+>
+>
+> With great pleasure Intel would like to bring this to the Women of
+> OpenStack.
+>
+> First come first served basis, Maximum: 24 people. 2.5 hours long. Monday
+> before the summit kicks off.  Free.
+>
+> Please respond if interested with:
+>
+> *Name: First Last*
+>
+> *Email:*
+>
+> *Company:*
+>
+> *Openstack Projects of interest:                (helps to gauge who to
+> invite for challenge environment)*
+>
+> *Current Role:*
+>
+> *Goal:   (what you would like to take away)*
+>
+> *Preference: Monday morning or afternoon*
+>
+>
+>
+> Please reply to Ruchi Bhargava (ruchi.bhargava at intel.com) and
+>
+>                             Malini Bhandaru (malini.k.bhandaru at intel.com)
+>
+>
+>
+> Before I graduated from Command-and-Presence, still relatively new at
+> Intel, I would try to go to a meeting SUPER PREPARED, to anticipate every
+> question and be able to answer it.
+>
+> There is no such thing when you are working at the edge and innovating.
+> Walked away with a tool ??Action Required(s) items?, tasks, ones that you
+> will follow up post meeting and update/circle back.
+>
+> Regards
+>
+> Ruchi and Malini
+>
+>
+>
+> *===============================================*
+>
+> *From:* Jessica Murillo <jessicak at us.ibm.com>
+> *Date:* June 1, 2015 at 11:24:19 PM PDT
+> *To:* <women-of-openstack at lists.openstack.org>
+> *Cc:* <madhura at platform9.com>
+> *Subject:* *[Women-of-openstack] Women of OpenStack working session
+> summary and next steps*
+>
+> Thanks for everyone who was able to join us at the Women of OpenStack
+> working session on May 19. A special thanks to our lightening talk
+> speakers: Valerie Aurora
+> <https://www.linkedin.com/profile/view?id=5574129&authType=NAME_SEARCH&authToken=5PuI&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2Cidx%3A1-1-1%2CtarId%3A1432849164634%2Ctas%3Avalerie%20aur>,
+> Nina Goradia, and Madhura Maskasky <https://twitter.com/madhuramaskasky> for
+> sharing their experiences and inspiring our group discussions. If you have
+> not already seen the article, Allison Price from the OpenStack Foundation
+> has written a great summary of working session on Superuser:
+> http://superuser.openstack.org/articles/how-to-get-more-women-involved-in-tech-communication-leadership-and-mentors
+>
+> After summarizing the group break out sessions there are very similar
+> themes to what we discussed during our Paris Summit working session. Key
+> areas of focus include:
+> 1. Developing women leaders
+> 2. Increasing the visibility of women in the OpenStack community
+> 3. Mentorship
+> 4. Building a strong communications channel for the Women of OpenStack
+>
+> Several of you have asked, "What's next?" That is really up to us. We've
+> heard from many of you that you want the Women of OpenStack to continue to
+> work together between summits to address these key issues. To help
+> facilitate follow-on discussions I've included several volunteer sign up
+> sheets in addition to a full group summary in this google drive doc:
+> https://docs.google.com/spreadsheets/d/1nu_0EperGdXIQifmjHiNVuB2RJb-5bVJkB9oRT-ExVw/edit#gid=0
+>
+> The goal is for each volunteer group to come together as a team to develop
+> 1-2 key actions they want to accomplish leading up to the Tokyo Summit.
+> There has already been some great progress and discussion on creating an
+> IRC channel which was one of our communication follow-up actions. I'm
+> looking forward to what this group can accomplish in the other areas as
+> well.
+>
+> Let me know if you have any questions, I am definitely looking forward to
+> continuing the conversation ...
+>
+> Jessica Murillo
+> Vice President, Strategy
+> IBM Systems
+> Office Phone: 512-286-7691, T/L: 363-7691
+> Mobile Phone: 512-970-8466
+> jessicak at us.ibm.com
+>
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>
+>
+> --
+>
+> ==================================================
+>
+>  - Community : *Openstack Korea Community*
+>
+>  - Name          : Nalee Jang (???)
+>
+>  - Company    : ASD Korea Cloudike System Engineer.
+>
+>  - Contact       : +82-10-3454-4260 / nalee999 at gmail.com
+>
+>  - Blog            : http://naleejang.tistory.com
+>
+>  - HomePage  : http://www.openstack.or.kr
+>
+>  - Facebook   : https://www.facebook.com/groups/openstack.kr/
+>
+> ==================================================
+>
+>
+>
+>
+>
+>
+>
+> --
+>
+> ==================================================
+>
+>  - Community : *Openstack Korea Community*
+>
+>  - Name          : Nalee Jang (???)
+>
+>  - Company    : ASD Korea Cloudike System Engineer.
+>
+>  - Contact       : +82-10-3454-4260 / nalee999 at gmail.com
+>
+>  - Blog            : http://naleejang.tistory.com
+>
+>  - HomePage  : http://www.openstack.or.kr
+>
+>  - Facebook   : https://www.facebook.com/groups/openstack.kr/
+>
+> ==================================================
+>
+
+
+
+-- 
+==================================================
+ - Community : *Openstack Korea Community*
+ - Name          : Nalee Jang (???)
+ - Company    : ASD Korea Cloudike System Engineer.
+ - Contact       : +82-10-3454-4260 / nalee999 at gmail.com
+ - Blog            : http://naleejang.tistory.com
+ - HomePage  : http://www.openstack.or.kr
+ - Facebook   : https://www.facebook.com/groups/openstack.kr/
+==================================================
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150708/4937f14e/attachment-0001.html>
+
+From edailey at fireflyeducate.com  Fri Jul 10 17:56:30 2015
+From: edailey at fireflyeducate.com (Ellie Dailey)
+Date: Fri, 10 Jul 2015 17:56:30 +0000
+Subject: [Women-of-openstack] Essentials for OpenStack training - July 23rd
+	2015
+Message-ID: <D1C5569A.39316%edailey@fireflyeducate.com>
+
+Hi Ladies,
+We would like to invite you, your colleagues, friends and any interested parties to register for some wonderful OpenStack training that Firefly is offering:
+
+http://fireflyeducate.com/ffeec/_m.asp?m=2437&a=51619&k=%7BBCAF35AD-02B7-4CD4-B583-7AC396F461A4%7D
+There will be more sessions if you can't make the 23rd, and more in depth modules to follow.
+For more information please email info at fireflyeducate.com or visit our website www.fireflyeducate.com
+Many thanks,
+Ellie
+
+
+
+[cid:7FEC7F19-12CD-4163-9255-C690BFBBD207]<http://www.fireflyeducate.com>
+ELLIE DAILEY<mailto:edailey at fireflyeducate.com>
+(408) 550 7458
+Director of Global Talent Acquisition
+[cid:44A5F14D-B6A6-4D3D-8158-0EAF62307135]<http://www.fireflyeducate.com/?cmd=careers>
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150710/4a27f662/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: 544342BE-D92C-4E55-8E79-B7A7ED3DD893[332].png
+Type: image/png
+Size: 4638 bytes
+Desc: 544342BE-D92C-4E55-8E79-B7A7ED3DD893[332].png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150710/4a27f662/attachment.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: FED16FD3-9166-4936-AF18-47DB23429E84[332].png
+Type: image/png
+Size: 4274 bytes
+Desc: FED16FD3-9166-4936-AF18-47DB23429E84[332].png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150710/4a27f662/attachment-0001.png>
+
+From kendall at openstack.org  Mon Jul 13 16:17:02 2015
+From: kendall at openstack.org (Kendall Waters)
+Date: Mon, 13 Jul 2015 11:17:02 -0500
+Subject: [Women-of-openstack] REMINDER: July 15 Deadline for OpenStack
+	Summit Tokyo Speaker Submissions
+Message-ID: <98B7FD71-5189-4E51-BB37-B66B7E05D4ED@openstack.org>
+
+Hi everyone,
+
+REMINDER: This Wednesday, July 15 at 11:59pm PDT is the deadline to submit a talk for the upcoming OpenStack Summit taking place in Tokyo, October 27-30. Hurry, and submit a talk now!
+
+Submit your speaking session proposals HERE <https://www.openstack.org/summit/tokyo-2015/call-for-speakers/>! 
+
+You can find more details, including registration, at openstack.org/summit <http://openstack.org/summit>.
+
+If you have any questions, email summit at openstack.org <mailto:summit at openstack.org>. 
+
+We look forward to seeing you in Tokyo!
+
+Cheers,
+The OpenStack Summit team
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150713/70219d54/attachment.html>
+
+From claire at nuagenetworks.net  Wed Jul 15 21:06:07 2015
+From: claire at nuagenetworks.net (Claire Delcourt)
+Date: Wed, 15 Jul 2015 14:06:07 -0700
+Subject: [Women-of-openstack] July 15 Deadline Call for Speakers -
+ OpenStack Summit Tokyo
+In-Reply-To: <1DA15A1A-546E-42CF-9120-31BBEE18CBB8@openstack.org>
+References: <1DA15A1A-546E-42CF-9120-31BBEE18CBB8@openstack.org>
+Message-ID: <CAB=Wp9d_24xhCPoLHBNr5PY1SVGb6Pa18ZJF4OJogcW9o94wyA@mail.gmail.com>
+
+Just wanted to thank everyone for encouraging women to summit a talk. It
+worked at least for me ;). The webinar was a great help. I have submitted
+my first talk and will be sharing the stage with one of my colleague
+("Don?t fly solo"! ).
+
+Cheers,
+Claire
+
+On Mon, Jul 6, 2015 at 10:07 AM, Kendall Waters <kendall at openstack.org>
+wrote:
+
+> Hi everyone,
+>
+> *Next Wednesday, July 15 at 11:59pm PDT *is the deadline to submit a talk
+> for the upcoming OpenStack Summit taking place in Tokyo, October 27-30.
+> Hurry and submit a talk now!
+>
+> *Submit your speaking session proposals **HERE*
+> <https://www.openstack.org/summit/tokyo-2015/call-for-speakers/>*!*
+>
+> Get advice and tips on creating a successful talk for the Tokyo Summit in
+> this
+> <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal>
+> webinar
+> <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal> held
+> by the Women of OpenStack.
+>
+> The visa application process for the OpenStack Summit Tokyo is different
+> than previous Summits. Please review this information
+> <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#visa> to
+> see if you require a visa, the documents you need, as well as upcoming
+> deadlines.
+>
+> All Tokyo Summit details including hotel room blocks, will soon be made
+> available at OpenStack.org/summit. Please continue to check back for
+> updates! If you are a contributor to OpenStack and need financial
+> assistance in order to travel to Tokyo to attend the Summit - you can apply
+> for a grant through the Travel Support Program
+> <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#travel-support>
+> .
+>
+> If you have any questions, email summit at openstack.org.
+>
+> We look forward to seeing you in Tokyo!
+>
+> Cheers,
+> The OpenStack Summit team
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150715/38237e6a/attachment.html>
+
+From claire at nuagenetworks.net  Wed Jul 15 21:10:11 2015
+From: claire at nuagenetworks.net (Claire Delcourt)
+Date: Wed, 15 Jul 2015 14:10:11 -0700
+Subject: [Women-of-openstack] July 15 Deadline Call for Speakers -
+ OpenStack Summit Tokyo
+In-Reply-To: <CAB=Wp9d_24xhCPoLHBNr5PY1SVGb6Pa18ZJF4OJogcW9o94wyA@mail.gmail.com>
+References: <1DA15A1A-546E-42CF-9120-31BBEE18CBB8@openstack.org>
+ <CAB=Wp9d_24xhCPoLHBNr5PY1SVGb6Pa18ZJF4OJogcW9o94wyA@mail.gmail.com>
+Message-ID: <CAB=Wp9eFC33EkySKeby4yta4+FpFbOnn2zhe30og6Vr_7hUOBA@mail.gmail.com>
+
+I may want to rephrase "will be sharing the stage with a colleague" with
+"am sharing the presentation with a colleague", as we are not there yet :)
+
+On Wed, Jul 15, 2015 at 2:06 PM, Claire Delcourt <claire at nuagenetworks.net>
+wrote:
+
+> Just wanted to thank everyone for encouraging women to summit a talk. It
+> worked at least for me ;). The webinar was a great help. I have submitted
+> my first talk and will be sharing the stage with one of my colleague
+> ("Don?t fly solo"! ).
+>
+> Cheers,
+> Claire
+>
+> On Mon, Jul 6, 2015 at 10:07 AM, Kendall Waters <kendall at openstack.org>
+> wrote:
+>
+>> Hi everyone,
+>>
+>> *Next Wednesday, July 15 at 11:59pm PDT *is the deadline to submit a
+>> talk for the upcoming OpenStack Summit taking place in Tokyo, October
+>> 27-30. Hurry and submit a talk now!
+>>
+>> *Submit your speaking session proposals **HERE*
+>> <https://www.openstack.org/summit/tokyo-2015/call-for-speakers/>*!*
+>>
+>> Get advice and tips on creating a successful talk for the Tokyo Summit in
+>> this
+>> <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal>
+>> webinar
+>> <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal> held
+>> by the Women of OpenStack.
+>>
+>> The visa application process for the OpenStack Summit Tokyo is different
+>> than previous Summits. Please review this information
+>> <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#visa> to
+>> see if you require a visa, the documents you need, as well as upcoming
+>> deadlines.
+>>
+>> All Tokyo Summit details including hotel room blocks, will soon be made
+>> available at OpenStack.org/summit. Please continue to check back for
+>> updates! If you are a contributor to OpenStack and need financial
+>> assistance in order to travel to Tokyo to attend the Summit - you can apply
+>> for a grant through the Travel Support Program
+>> <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#travel-support>
+>> .
+>>
+>> If you have any questions, email summit at openstack.org.
+>>
+>> We look forward to seeing you in Tokyo!
+>>
+>> Cheers,
+>> The OpenStack Summit team
+>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150715/0b546e30/attachment.html>
+
+From annegentle at justwriteclick.com  Wed Jul 15 21:32:58 2015
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Wed, 15 Jul 2015 16:32:58 -0500
+Subject: [Women-of-openstack] July 15 Deadline Call for Speakers -
+ OpenStack Summit Tokyo
+In-Reply-To: <CAB=Wp9eFC33EkySKeby4yta4+FpFbOnn2zhe30og6Vr_7hUOBA@mail.gmail.com>
+References: <1DA15A1A-546E-42CF-9120-31BBEE18CBB8@openstack.org>
+ <CAB=Wp9d_24xhCPoLHBNr5PY1SVGb6Pa18ZJF4OJogcW9o94wyA@mail.gmail.com>
+ <CAB=Wp9eFC33EkySKeby4yta4+FpFbOnn2zhe30og6Vr_7hUOBA@mail.gmail.com>
+Message-ID: <CAD0KtVGP7npV6xvoTmGHz4P7_2Da57z1W8GTqnqoLwe1y_zD7w@mail.gmail.com>
+
+On Wed, Jul 15, 2015 at 4:10 PM, Claire Delcourt <claire at nuagenetworks.net>
+wrote:
+
+> I may want to rephrase "will be sharing the stage with a colleague" with
+> "am sharing the presentation with a colleague", as we are not there yet :)
+>
+> On Wed, Jul 15, 2015 at 2:06 PM, Claire Delcourt <claire at nuagenetworks.net
+> > wrote:
+>
+>> Just wanted to thank everyone for encouraging women to summit a talk. It
+>> worked at least for me ;). The webinar was a great help. I have submitted
+>> my first talk and will be sharing the stage with one of my colleague
+>> ("Don?t fly solo"! ).
+>>
+>
+That's awesome! I'm so glad that webinar is still relevant. I even sent out
+the superuser summary a couple of times this week:
+
+http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal
+
+It's open until a minute before midnight PDT! :)
+
+Go go go.
+https://www.openstack.org/summit/tokyo-2015/call-for-speakers/
+
+Anne
+
+
+
+>
+>> Cheers,
+>> Claire
+>>
+>> On Mon, Jul 6, 2015 at 10:07 AM, Kendall Waters <kendall at openstack.org>
+>> wrote:
+>>
+>>> Hi everyone,
+>>>
+>>> *Next Wednesday, July 15 at 11:59pm PDT *is the deadline to submit a
+>>> talk for the upcoming OpenStack Summit taking place in Tokyo, October
+>>> 27-30. Hurry and submit a talk now!
+>>>
+>>> *Submit your speaking session proposals **HERE*
+>>> <https://www.openstack.org/summit/tokyo-2015/call-for-speakers/>*!*
+>>>
+>>> Get advice and tips on creating a successful talk for the Tokyo Summit
+>>> in this
+>>> <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal>
+>>> webinar
+>>> <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal> held
+>>> by the Women of OpenStack.
+>>>
+>>> The visa application process for the OpenStack Summit Tokyo is different
+>>> than previous Summits. Please review this information
+>>> <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#visa> to
+>>> see if you require a visa, the documents you need, as well as upcoming
+>>> deadlines.
+>>>
+>>> All Tokyo Summit details including hotel room blocks, will soon be made
+>>> available at OpenStack.org/summit. Please continue to check back for
+>>> updates! If you are a contributor to OpenStack and need financial
+>>> assistance in order to travel to Tokyo to attend the Summit - you can apply
+>>> for a grant through the Travel Support Program
+>>> <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#travel-support>
+>>> .
+>>>
+>>> If you have any questions, email summit at openstack.org.
+>>>
+>>> We look forward to seeing you in Tokyo!
+>>>
+>>> Cheers,
+>>> The OpenStack Summit team
+>>>
+>>>
+>>> _______________________________________________
+>>> Women-of-openstack mailing list
+>>> Women-of-openstack at lists.openstack.org
+>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>
+>>>
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+Anne Gentle
+Rackspace
+Principal Engineer
+www.justwriteclick.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150715/d477d2dd/attachment-0001.html>
+
+From deepti.darpan at gmail.com  Wed Jul 15 21:52:48 2015
+From: deepti.darpan at gmail.com (Deepti Ramakrishna)
+Date: Wed, 15 Jul 2015 14:52:48 -0700
+Subject: [Women-of-openstack] July 15 Deadline Call for Speakers -
+ OpenStack Summit Tokyo
+In-Reply-To: <CAD0KtVGP7npV6xvoTmGHz4P7_2Da57z1W8GTqnqoLwe1y_zD7w@mail.gmail.com>
+References: <1DA15A1A-546E-42CF-9120-31BBEE18CBB8@openstack.org>
+ <CAB=Wp9d_24xhCPoLHBNr5PY1SVGb6Pa18ZJF4OJogcW9o94wyA@mail.gmail.com>
+ <CAB=Wp9eFC33EkySKeby4yta4+FpFbOnn2zhe30og6Vr_7hUOBA@mail.gmail.com>
+ <CAD0KtVGP7npV6xvoTmGHz4P7_2Da57z1W8GTqnqoLwe1y_zD7w@mail.gmail.com>
+Message-ID: <CABa3ks2gRyG6HFiQEvdtiFxSB2V9rNArDGMA-QKgUo4fPLqpgQ@mail.gmail.com>
+
+I would also echo Claire's words. The superuser summary
+<http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal>
+and webinar <https://www.youtube.com/watch?v=CxFYNZ4jqik>motivated me to
+submit my first talk ("Youngest OpenStackers?! +2 for the community!") with
+few of my colleagues at Intel!
+Thanks everyone!
+
+Cheers,
+Deepti
+
+On Wed, Jul 15, 2015 at 2:32 PM, Anne Gentle <annegentle at justwriteclick.com>
+wrote:
+
+>
+>
+> On Wed, Jul 15, 2015 at 4:10 PM, Claire Delcourt <claire at nuagenetworks.net
+> > wrote:
+>
+>> I may want to rephrase "will be sharing the stage with a colleague" with
+>> "am sharing the presentation with a colleague", as we are not there yet :)
+>>
+>> On Wed, Jul 15, 2015 at 2:06 PM, Claire Delcourt <
+>> claire at nuagenetworks.net> wrote:
+>>
+>>> Just wanted to thank everyone for encouraging women to summit a talk. It
+>>> worked at least for me ;). The webinar was a great help. I have submitted
+>>> my first talk and will be sharing the stage with one of my colleague
+>>> ("Don?t fly solo"! ).
+>>>
+>>
+> That's awesome! I'm so glad that webinar is still relevant. I even sent
+> out the superuser summary a couple of times this week:
+>
+>
+> http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal
+>
+> It's open until a minute before midnight PDT! :)
+>
+> Go go go.
+> https://www.openstack.org/summit/tokyo-2015/call-for-speakers/
+>
+> Anne
+>
+>
+>
+>>
+>>> Cheers,
+>>> Claire
+>>>
+>>> On Mon, Jul 6, 2015 at 10:07 AM, Kendall Waters <kendall at openstack.org>
+>>> wrote:
+>>>
+>>>> Hi everyone,
+>>>>
+>>>> *Next Wednesday, July 15 at 11:59pm PDT *is the deadline to submit a
+>>>> talk for the upcoming OpenStack Summit taking place in Tokyo, October
+>>>> 27-30. Hurry and submit a talk now!
+>>>>
+>>>> *Submit your speaking session proposals **HERE*
+>>>> <https://www.openstack.org/summit/tokyo-2015/call-for-speakers/>*!*
+>>>>
+>>>> Get advice and tips on creating a successful talk for the Tokyo Summit
+>>>> in this
+>>>> <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal>
+>>>> webinar
+>>>> <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal> held
+>>>> by the Women of OpenStack.
+>>>>
+>>>> The visa application process for the OpenStack Summit Tokyo is
+>>>> different than previous Summits. Please review this information
+>>>> <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#visa> to
+>>>> see if you require a visa, the documents you need, as well as upcoming
+>>>> deadlines.
+>>>>
+>>>> All Tokyo Summit details including hotel room blocks, will soon be made
+>>>> available at OpenStack.org/summit. Please continue to check back for
+>>>> updates! If you are a contributor to OpenStack and need financial
+>>>> assistance in order to travel to Tokyo to attend the Summit - you can apply
+>>>> for a grant through the Travel Support Program
+>>>> <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#travel-support>
+>>>> .
+>>>>
+>>>> If you have any questions, email summit at openstack.org.
+>>>>
+>>>> We look forward to seeing you in Tokyo!
+>>>>
+>>>> Cheers,
+>>>> The OpenStack Summit team
+>>>>
+>>>>
+>>>> _______________________________________________
+>>>> Women-of-openstack mailing list
+>>>> Women-of-openstack at lists.openstack.org
+>>>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>>>
+>>>>
+>>>
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>
+>
+> --
+> Anne Gentle
+> Rackspace
+> Principal Engineer
+> www.justwriteclick.com
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150715/1431d010/attachment.html>
+
+From claire at openstack.org  Wed Jul 15 23:13:45 2015
+From: claire at openstack.org (Claire Massey)
+Date: Wed, 15 Jul 2015 18:13:45 -0500
+Subject: [Women-of-openstack] Tokyo WOO Events - Oct 26 - Save the Date!
+Message-ID: <A4F01F6B-F03D-46C4-8064-2E22C6A804A1@openstack.org>
+
+HI everyone,
+
+If you?re planning to attend the next OpenStack Summit in Tokyo then please plan to arrive in town early - either on Sunday, October 25 or first thing in the morning on Monday, October 26.
+
+The Women of OpenStack Networking Event that?s proudly sponsored by IBM & Intel will take place on the afternoon of Monday, October 26.  Also, the Command and Presence Workshop (that Maliini and Ruchi previously emailed about on a separate string) will be scheduled on the morning of Monday, October 26. 
+
+Both of these events are hosted by and created for YOU - the Women of OpenStack. Both of these events are scheduled at the beginning of the week to avoid conflicting with other important Summit sessions and also to allow you the opportunity to get to know each other in person before the Summit officially kicks-off on Tuesday.
+
+For reference - the main conference, keynotes, design summit, marketplace expo hall and other Summit content all opens / begins on Tuesday, October 27. 
+
+If any of you require an invitation letter from OpenStack Foundation that invites you to attend the Monday events in order to justify an additional day of travel expenses then please let us know! We are more than happy to help you make the case to your employer as to why you should be able to attend the Monday, October 26 WOO events. :)
+
+We?ll be sharing many more details in the coming months. Stay tuned! 
+
+In the meantime you can find general summit info here: https://www.openstack.org/summit/tokyo-2015/ <https://www.openstack.org/summit/tokyo-2015/>
+
+Cheers,
+Claire
+
+
+Claire Massey
+OpenStack Marketing
+claire at openstack.org
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150715/acf641dc/attachment.html>
+
+From fatoumata.caba at numergy.com  Thu Jul 16 09:17:13 2015
+From: fatoumata.caba at numergy.com (Fatoumata Caba)
+Date: Thu, 16 Jul 2015 09:17:13 +0000
+Subject: [Women-of-openstack] July 15 Deadline Call for Speakers -
+ OpenStack Summit Tokyo
+In-Reply-To: <CABa3ks2gRyG6HFiQEvdtiFxSB2V9rNArDGMA-QKgUo4fPLqpgQ@mail.gmail.com>
+References: <1DA15A1A-546E-42CF-9120-31BBEE18CBB8@openstack.org>
+ <CAB=Wp9d_24xhCPoLHBNr5PY1SVGb6Pa18ZJF4OJogcW9o94wyA@mail.gmail.com>
+ <CAB=Wp9eFC33EkySKeby4yta4+FpFbOnn2zhe30og6Vr_7hUOBA@mail.gmail.com>
+ <CAD0KtVGP7npV6xvoTmGHz4P7_2Da57z1W8GTqnqoLwe1y_zD7w@mail.gmail.com>
+ <CABa3ks2gRyG6HFiQEvdtiFxSB2V9rNArDGMA-QKgUo4fPLqpgQ@mail.gmail.com>
+Message-ID: <8f5c1006d66b4c54b2ee959d920498af@abv-excmb-0003p.NUMERGY.PRIV>
+
+This is great ladies, can?t wait for voting !
+Cheers
+
+Fatoumata
+
+De : Deepti Ramakrishna [mailto:deepti.darpan at gmail.com]
+Envoy? : mercredi 15 juillet 2015 23:53
+? : Anne Gentle
+Cc : women-of-openstack at lists.openstack.org
+Objet : Re: [Women-of-openstack] July 15 Deadline Call for Speakers - OpenStack Summit Tokyo
+
+I would also echo Claire's words. The superuser summary<http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal> and webinar <https://www.youtube.com/watch?v=CxFYNZ4jqik> motivated me to submit my first talk ("Youngest OpenStackers?! +2 for the community!") with few of my colleagues at Intel!
+Thanks everyone!
+
+Cheers,
+Deepti
+
+On Wed, Jul 15, 2015 at 2:32 PM, Anne Gentle <annegentle at justwriteclick.com<mailto:annegentle at justwriteclick.com>> wrote:
+
+
+On Wed, Jul 15, 2015 at 4:10 PM, Claire Delcourt <claire at nuagenetworks.net<mailto:claire at nuagenetworks.net>> wrote:
+I may want to rephrase "will be sharing the stage with a colleague" with "am sharing the presentation with a colleague", as we are not there yet :)
+
+On Wed, Jul 15, 2015 at 2:06 PM, Claire Delcourt <claire at nuagenetworks.net<mailto:claire at nuagenetworks.net>> wrote:
+Just wanted to thank everyone for encouraging women to summit a talk. It worked at least for me ;). The webinar was a great help. I have submitted my first talk and will be sharing the stage with one of my colleague ("Don?t fly solo"! ).
+
+That's awesome! I'm so glad that webinar is still relevant. I even sent out the superuser summary a couple of times this week:
+
+http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal
+
+It's open until a minute before midnight PDT! :)
+
+Go go go.
+https://www.openstack.org/summit/tokyo-2015/call-for-speakers/
+
+Anne
+
+
+
+Cheers,
+Claire
+
+On Mon, Jul 6, 2015 at 10:07 AM, Kendall Waters <kendall at openstack.org<mailto:kendall at openstack.org>> wrote:
+Hi everyone,
+
+Next Wednesday, July 15 at 11:59pm PDT is the deadline to submit a talk for the upcoming OpenStack Summit taking place in Tokyo, October 27-30. Hurry and submit a talk now!
+
+Submit your speaking session proposals HERE<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/>!
+
+Get advice and tips on creating a successful talk for the Tokyo Summit in this <http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal> webinar<http://superuser.openstack.org/articles/how-to-craft-a-successful-openstack-summit-proposal> held by the Women of OpenStack.
+
+The visa application process for the OpenStack Summit Tokyo is different than previous Summits. Please review this information<https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#visa> to see if you require a visa, the documents you need, as well as upcoming deadlines.
+
+All Tokyo Summit details including hotel room blocks, will soon be made available at OpenStack.org/summit<http://OpenStack.org/summit>. Please continue to check back for updates! If you are a contributor to OpenStack and need financial assistance in order to travel to Tokyo to attend the Summit - you can apply for a grant through the Travel Support Program<https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#travel-support>.
+
+If you have any questions, email summit at openstack.org<mailto:summit at openstack.org>.
+
+We look forward to seeing you in Tokyo!
+
+Cheers,
+The OpenStack Summit team
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+--
+Anne Gentle
+Rackspace
+Principal Engineer
+www.justwriteclick.com<http://www.justwriteclick.com>
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150716/7f0f6037/attachment-0001.html>
+
+From kendall at openstack.org  Thu Jul 23 22:05:31 2015
+From: kendall at openstack.org (Kendall Waters)
+Date: Thu, 23 Jul 2015 17:05:31 -0500
+Subject: [Women-of-openstack] OpenStack Summit Tokyo Session Voting OPEN
+Message-ID: <B0F47CEF-0BC3-4335-A41D-222EB1A28429@openstack.org>
+
+Hi everyone, 
+
+Session voting is now open for the October 2015 OpenStack Tokyo Summit. 
+
+VOTE HERE. <https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/> 
+
+Hurry, voting closes next Thursday, July 30 at 11:59pm PDT.
+
+Continue to visit openstack.org/summit <http://openstack.org/summit> for all Summit-related information.
+
+Cheers,
+Kendall
+
+BECOME A SPONSOR
+If you are interested in sponsoring the summit as well, it's not too late. Please email summit at openstack.org <mailto:summit at openstack.org> no later than September 1, 2015. Continue to check openstack.org/summit <http://openstack.org/summit> for updates.
+
+REGISTER
+Register here <https://www.eventbrite.com/e/openstack-summit-october-2015-tokyo-tickets-17356780598> before prices increase on August 31, 2015.
+
+VISA APPLICATION PROCESS
+If you require a visa to travel to Japan, please carefully read the instructions?here <https://www.openstack.org/summit/tokyo-2015/tokyo-and-travel/#visa>. The visa application process is much lengthier and more complex than at the last Summits and you will need to have booked your flights and hotel accommodation before applying for a visa. 
+
+TRAVEL SUPPORT PROGRAM
+If you are unable to attend the Tokyo Summit due to financial barriers, please considering applying for the OpenStack Travel Support Program. The goal of the program is to ensure contributors whose presence is specifically relevant for topics discussed at the Summit are able to attend. Applications will be accepted through August 10, 2015.  Learn more about the program and how to apply here <https://wiki.openstack.org/wiki/Travel_Support_Program>.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150723/977231e4/attachment.html>
+
+From kendall at openstack.org  Tue Jul 28 16:12:08 2015
+From: kendall at openstack.org (Kendall Waters)
+Date: Tue, 28 Jul 2015 11:12:08 -0500
+Subject: [Women-of-openstack] REMINDER: OpenStack Summit Tokyo Session
+	Voting Closes Thursday, July 30
+Message-ID: <6DA38A2B-0A36-4B0F-A0BF-50F61E5ED6C8@openstack.org>
+
+Hi everyone, 
+
+Hurry, session voting for the Tokyo Summit closes this Thursday, July 30 at 11:59pm PDT.
+
+VOTE HERE <https://www.openstack.org/summit/tokyo-2015/vote-for-speakers>
+
+Continue to visit openstack.org/summit <http://openstack.org/summit> for all Summit-related information.
+
+Cheers,
+Kendall
+
+BECOME A SPONSOR
+If you are interested in sponsoring the summit as well, it's not too late. Please email summit at openstack.org <mailto:summit at openstack.org> no later than September 1, 2015. Continue to check openstack.org/summit <http://openstack.org/summit> for updates.
+
+REGISTER
+Register here <https://www.eventbrite.com/e/openstack-summit-october-2015-tokyo-tickets-17356780598> before prices increase on August 31, 2015.
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/d07e526f/attachment.html>
+
+From aplimpton at gmail.com  Tue Jul 28 17:53:41 2015
+From: aplimpton at gmail.com (APlimpton)
+Date: Tue, 28 Jul 2015 10:53:41 -0700
+Subject: [Women-of-openstack] Vote for your summit presentation?
+Message-ID: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+
+Alright, voting is open. I know I have one, but which of you wonderful
+women have presentations in the running? Links please!
+
+Maybe we could put them on an Etherpad?
+
+Thanks,
+Amanda
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/47feb1af/attachment.html>
+
+From Tamara.Johnston at emc.com  Tue Jul 28 18:02:32 2015
+From: Tamara.Johnston at emc.com (Johnston, Tamara)
+Date: Tue, 28 Jul 2015 18:02:32 +0000
+Subject: [Women-of-openstack] Vote for your summit presentation?
+Message-ID: <D1DD10CD.3A8C%tamara.johnston@emc.com>
+
+Amanda ? I just voted for your talk!
+
+I would appreciate everyones vote for the talk that Beth Cohen, Alexandra Settle, Sean Winn and I submitted - https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3822.
+
+Good luck!
+
+Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C) 1-510-398-9114  |  (E) tamara.johnston at emc.com<mailto:tamara.johnston at emc.com>
+
+
+From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+Date: Tuesday, July 28, 2015 at 10:53 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Vote for your summit presentation?
+
+Alright, voting is open. I know I have one, but which of you wonderful women have presentations in the running? Links please!
+
+Maybe we could put them on an Etherpad?
+
+Thanks,
+Amanda
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/e536b735/attachment.html>
+
+From nikacost at cisco.com  Tue Jul 28 18:14:07 2015
+From: nikacost at cisco.com (Niki Acosta (nikacost))
+Date: Tue, 28 Jul 2015 18:14:07 +0000
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+Message-ID: <D1DD306A.39BC8%nikacost@cisco.com>
+
+OpenStack Consumption Models: Three User Perspectives (DT, PayPal, Workday)
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5550
+
+
+The Stack and Beyond: Analysis Paralysis (Panel)
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4825
+
+
+Panel Discussion ? War Stories
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4635
+
+
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+
+From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+Date: Tuesday, July 28, 2015 at 12:53 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Vote for your summit presentation?
+
+Alright, voting is open. I know I have one, but which of you wonderful women have presentations in the running? Links please!
+
+Maybe we could put them on an Etherpad?
+
+Thanks,
+Amanda
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/5af2ce70/attachment-0001.html>
+
+From xing.yang at emc.com  Tue Jul 28 18:17:02 2015
+From: xing.yang at emc.com (yang, xing)
+Date: Tue, 28 Jul 2015 18:17:02 +0000
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+Message-ID: <F9260FECD2960A4D83AA5C9F995F7816400BD63B@MX103CL01.corp.emc.com>
+
+Hi Amanda,
+
+I am in the following submitted sessions with other Cinder developers.  Appreciate everyone?s help voting for them.
+How to Protect your Data in the Cloud:
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5276
+A Conversation with Cinder Developers:
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5476
+Getting Involved with Cinder Development:
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5258
+Thanks!
+Xing
+
+
+
+
+From: APlimpton [mailto:aplimpton at gmail.com]
+Sent: Tuesday, July 28, 2015 1:54 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Vote for your summit presentation?
+
+Alright, voting is open. I know I have one, but which of you wonderful women have presentations in the running? Links please!
+
+Maybe we could put them on an Etherpad?
+
+Thanks,
+Amanda
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/a4245844/attachment.html>
+
+From val.wanjura at RACKSPACE.COM  Tue Jul 28 18:25:20 2015
+From: val.wanjura at RACKSPACE.COM (Val Wanjura)
+Date: Tue, 28 Jul 2015 18:25:20 +0000
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <D1DD10CD.3A8C%tamara.johnston@emc.com>
+References: <D1DD10CD.3A8C%tamara.johnston@emc.com>
+Message-ID: <f5f1dcf5e17d41389a29230237ec61f5@616646-IEXCH03.ror-uc.rackspace.com>
+
+One more...
+
+Leverage the Hidden Power of Diversity:
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/6354
+
+Thanks for your votes!! Good luck everyone!!
+
+Val
+
+From: Johnston, Tamara [mailto:Tamara.Johnston at emc.com]
+Sent: Tuesday, July 28, 2015 1:03 PM
+To: APlimpton; women-of-openstack at lists.openstack.org
+Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+
+Amanda - I just voted for your talk!
+
+I would appreciate everyones vote for the talk that Beth Cohen, Alexandra Settle, Sean Winn and I submitted - https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3822.
+
+Good luck!
+
+Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C) 1-510-398-9114  |  (E) tamara.johnston at emc.com<mailto:tamara.johnston at emc.com>
+
+
+From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+Date: Tuesday, July 28, 2015 at 10:53 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Vote for your summit presentation?
+
+Alright, voting is open. I know I have one, but which of you wonderful women have presentations in the running? Links please!
+
+Maybe we could put them on an Etherpad?
+
+Thanks,
+Amanda
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/2fc0fd51/attachment.html>
+
+From julim at redhat.com  Tue Jul 28 18:32:11 2015
+From: julim at redhat.com (Ju Lim)
+Date: Tue, 28 Jul 2015 14:32:11 -0400
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 9, Issue 13
+In-Reply-To: <mailman.15392.1438107249.14112.women-of-openstack@lists.openstack.org>
+References: <mailman.15392.1438107249.14112.women-of-openstack@lists.openstack.org>
+Message-ID: <CAKcuoAmtqAq4gx+J1votx9YRKcXxWJ2DsfC5HLpukw5b2=baEA@mail.gmail.com>
+
+I've created an Etherpad with all the sessions listed so far include a
+session that I've proposed:
+
+https://etherpad.openstack.org/p/openstack-summit-tokyo-talks-to-vote-for
+
+Please consider voting and supporting our fellow community team members.
+
+Kind regards,
+Ju Lim
+Red Hat
+Email: julim at redhat.com
+IRC: julim on #openstack-ux
+
+
+On Tue, Jul 28, 2015 at 2:14 PM, <
+women-of-openstack-request at lists.openstack.org> wrote:
+
+> Send Women-of-openstack mailing list submissions to
+>         women-of-openstack at lists.openstack.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+> or, via email, send a message with subject or body 'help' to
+>         women-of-openstack-request at lists.openstack.org
+>
+> You can reach the person managing the list at
+>         women-of-openstack-owner at lists.openstack.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of Women-of-openstack digest..."
+>
+>
+> Today's Topics:
+>
+>    1. REMINDER: OpenStack Summit Tokyo Session  Voting Closes
+>       Thursday, July 30 (Kendall Waters)
+>    2. Vote for your summit presentation? (APlimpton)
+>    3. Re: Vote for your summit presentation? (Johnston, Tamara)
+>    4. Re: Vote for your summit presentation? (Niki Acosta (nikacost))
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Tue, 28 Jul 2015 11:12:08 -0500
+> From: Kendall Waters <kendall at openstack.org>
+> To: Community at lists.openstack.org,
+>         women-of-openstack at lists.openstack.org,
+> marketing at lists.openstack.org,
+>         summitsponsors at lists.openstack.org, foundation at lists.openstack.org
+> Subject: [Women-of-openstack] REMINDER: OpenStack Summit Tokyo Session
+>         Voting Closes Thursday, July 30
+> Message-ID: <6DA38A2B-0A36-4B0F-A0BF-50F61E5ED6C8 at openstack.org>
+> Content-Type: text/plain; charset="us-ascii"
+>
+> Hi everyone,
+>
+> Hurry, session voting for the Tokyo Summit closes this Thursday, July 30
+> at 11:59pm PDT.
+>
+> VOTE HERE <https://www.openstack.org/summit/tokyo-2015/vote-for-speakers>
+>
+> Continue to visit openstack.org/summit <http://openstack.org/summit> for
+> all Summit-related information.
+>
+> Cheers,
+> Kendall
+>
+> BECOME A SPONSOR
+> If you are interested in sponsoring the summit as well, it's not too late.
+> Please email summit at openstack.org <mailto:summit at openstack.org> no later
+> than September 1, 2015. Continue to check openstack.org/summit <
+> http://openstack.org/summit> for updates.
+>
+> REGISTER
+> Register here <
+> https://www.eventbrite.com/e/openstack-summit-october-2015-tokyo-tickets-17356780598>
+> before prices increase on August 31, 2015.
+>
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <
+> http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/d07e526f/attachment-0001.html
+> >
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Tue, 28 Jul 2015 10:53:41 -0700
+> From: APlimpton <aplimpton at gmail.com>
+> To: women-of-openstack at lists.openstack.org
+> Subject: [Women-of-openstack] Vote for your summit presentation?
+> Message-ID:
+>         <CA+8x=aoF2VhuG=-HNv9=
+> cvJaBi7YRrJ99pVeeuZMdpH8To3mOw at mail.gmail.com>
+> Content-Type: text/plain; charset="utf-8"
+>
+> Alright, voting is open. I know I have one, but which of you wonderful
+> women have presentations in the running? Links please!
+>
+> Maybe we could put them on an Etherpad?
+>
+> Thanks,
+> Amanda
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <
+> http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/47feb1af/attachment-0001.html
+> >
+>
+> ------------------------------
+>
+> Message: 3
+> Date: Tue, 28 Jul 2015 18:02:32 +0000
+> From: "Johnston, Tamara" <Tamara.Johnston at emc.com>
+> To: APlimpton <aplimpton at gmail.com>,
+>         "women-of-openstack at lists.openstack.org"
+>         <women-of-openstack at lists.openstack.org>
+> Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+> Message-ID: <D1DD10CD.3A8C%tamara.johnston at emc.com>
+> Content-Type: text/plain; charset="windows-1252"
+>
+> Amanda ? I just voted for your talk!
+>
+> I would appreciate everyones vote for the talk that Beth Cohen, Alexandra
+> Settle, Sean Winn and I submitted -
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3822
+> .
+>
+> Good luck!
+>
+> Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C)
+> 1-510-398-9114  |  (E) tamara.johnston at emc.com<mailto:
+> tamara.johnston at emc.com>
+>
+>
+> From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+> Date: Tuesday, July 28, 2015 at 10:53 AM
+> To: "women-of-openstack at lists.openstack.org<mailto:
+> women-of-openstack at lists.openstack.org>" <
+> women-of-openstack at lists.openstack.org<mailto:
+> women-of-openstack at lists.openstack.org>>
+> Subject: [Women-of-openstack] Vote for your summit presentation?
+>
+> Alright, voting is open. I know I have one, but which of you wonderful
+> women have presentations in the running? Links please!
+>
+> Maybe we could put them on an Etherpad?
+>
+> Thanks,
+> Amanda
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <
+> http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/e536b735/attachment-0001.html
+> >
+>
+> ------------------------------
+>
+> Message: 4
+> Date: Tue, 28 Jul 2015 18:14:07 +0000
+> From: "Niki Acosta (nikacost)" <nikacost at cisco.com>
+> To: APlimpton <aplimpton at gmail.com>,
+>         "women-of-openstack at lists.openstack.org"
+>         <women-of-openstack at lists.openstack.org>
+> Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+> Message-ID: <D1DD306A.39BC8%nikacost at cisco.com>
+> Content-Type: text/plain; charset="windows-1252"
+>
+> OpenStack Consumption Models: Three User Perspectives (DT, PayPal, Workday)
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5550
+>
+>
+> The Stack and Beyond: Analysis Paralysis (Panel)
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4825
+>
+>
+> Panel Discussion ? War Stories
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4635
+>
+>
+> [
+> http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374
+> ]
+>
+> Niki Acosta
+> Cloud Evangelist
+> Cisco.com<http://www.cisco.com/>
+> nikacost at cisco.com<mailto:nikacost at cisco.com>
+> Phone: +1 512-912-6716
+>
+>
+>
+>
+> [http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<
+> http://www.twitter.com/nikiacosta>
+>
+>
+> [http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think
+> before you print.
+>
+> This email may contain confidential and privileged material for the sole
+> use of the intended recipient. Any review, use, distribution or disclosure
+> by others is strictly prohibited. If you are not the intended recipient (or
+> authorized to receive for the recipient), please contact the sender by
+> reply email and delete all copies of this message.
+>
+> Please click here<
+> http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for
+> Company Registration Information.
+>
+>
+> From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+> Date: Tuesday, July 28, 2015 at 12:53 PM
+> To: "women-of-openstack at lists.openstack.org<mailto:
+> women-of-openstack at lists.openstack.org>" <
+> women-of-openstack at lists.openstack.org<mailto:
+> women-of-openstack at lists.openstack.org>>
+> Subject: [Women-of-openstack] Vote for your summit presentation?
+>
+> Alright, voting is open. I know I have one, but which of you wonderful
+> women have presentations in the running? Links please!
+>
+> Maybe we could put them on an Etherpad?
+>
+> Thanks,
+> Amanda
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <
+> http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/5af2ce70/attachment.html
+> >
+>
+> ------------------------------
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+> End of Women-of-openstack Digest, Vol 9, Issue 13
+> *************************************************
+>
+
+
+
+-- 
+Ju Lim
+Red Hat
+Office: 978-399-0422
+Mobile: 781-507-1323
+Email: julim at redhat.com
+IRC: julim
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/269c9d4a/attachment-0001.html>
+
+From aplimpton at gmail.com  Tue Jul 28 18:46:19 2015
+From: aplimpton at gmail.com (APlimpton)
+Date: Tue, 28 Jul 2015 11:46:19 -0700
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <f5f1dcf5e17d41389a29230237ec61f5@616646-IEXCH03.ror-uc.rackspace.com>
+References: <D1DD10CD.3A8C%tamara.johnston@emc.com>
+ <f5f1dcf5e17d41389a29230237ec61f5@616646-IEXCH03.ror-uc.rackspace.com>
+Message-ID: <CA+8x=apx_n2XUQ84QusU-6F5U1_qUiXsHrdB+yTmwAmiSF0BwA@mail.gmail.com>
+
+For the record mine is:
+
+The Write Stuff: How to Become an OpenStack Contributor
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3679
+
+On Tue, Jul 28, 2015 at 11:25 AM, Val Wanjura <val.wanjura at rackspace.com>
+wrote:
+
+>  One more?
+>
+>
+>
+> Leverage the Hidden Power of Diversity:
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/6354
+>
+>
+>
+> Thanks for your votes!! Good luck everyone!!
+>
+>
+>
+> Val
+>
+>
+>
+> *From:* Johnston, Tamara [mailto:Tamara.Johnston at emc.com]
+> *Sent:* Tuesday, July 28, 2015 1:03 PM
+> *To:* APlimpton; women-of-openstack at lists.openstack.org
+> *Subject:* Re: [Women-of-openstack] Vote for your summit presentation?
+>
+>
+>
+> Amanda ? I just voted for your talk!
+>
+>
+>
+> I would appreciate everyones vote for the talk that Beth Cohen, Alexandra
+> Settle, Sean Winn and I submitted -
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3822
+> .
+>
+>
+>
+> Good luck!
+>
+>
+>
+> *Tamara Johnston*  |  Cloud Portfolio  |  EMC Global Services  |  (C)
+> 1-510-398-9114  |  (E) tamara.johnston at emc.com
+>
+>
+>
+>
+>
+> *From: *APlimpton <aplimpton at gmail.com>
+> *Date: *Tuesday, July 28, 2015 at 10:53 AM
+> *To: *"women-of-openstack at lists.openstack.org" <
+> women-of-openstack at lists.openstack.org>
+> *Subject: *[Women-of-openstack] Vote for your summit presentation?
+>
+>
+>
+> Alright, voting is open. I know I have one, but which of you wonderful
+> women have presentations in the running? Links please!
+>
+>
+>
+> Maybe we could put them on an Etherpad?
+>
+>
+>
+> Thanks,
+> Amanda
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/0aa3646e/attachment.html>
+
+From claire at nuagenetworks.net  Tue Jul 28 18:51:47 2015
+From: claire at nuagenetworks.net (Claire Delcourt)
+Date: Tue, 28 Jul 2015 11:51:47 -0700
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <CA+8x=apx_n2XUQ84QusU-6F5U1_qUiXsHrdB+yTmwAmiSF0BwA@mail.gmail.com>
+References: <D1DD10CD.3A8C%tamara.johnston@emc.com>
+ <f5f1dcf5e17d41389a29230237ec61f5@616646-IEXCH03.ror-uc.rackspace.com>
+ <CA+8x=apx_n2XUQ84QusU-6F5U1_qUiXsHrdB+yTmwAmiSF0BwA@mail.gmail.com>
+Message-ID: <CAB=Wp9c4DkNMZ6ayeWCCuUX+emtpjPUC2187Du-1d_vMuLu=Gw@mail.gmail.com>
+
+Good luck All!
+
+My session is here:
+
+Enhancing your OpenStack experience: automatic provisioning of Security
+Groups.
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5596
+
+On Tue, Jul 28, 2015 at 11:46 AM, APlimpton <aplimpton at gmail.com> wrote:
+
+> For the record mine is:
+>
+> The Write Stuff: How to Become an OpenStack Contributor
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3679
+>
+> On Tue, Jul 28, 2015 at 11:25 AM, Val Wanjura <val.wanjura at rackspace.com>
+> wrote:
+>
+>>  One more?
+>>
+>>
+>>
+>> Leverage the Hidden Power of Diversity:
+>>
+>>
+>> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/6354
+>>
+>>
+>>
+>> Thanks for your votes!! Good luck everyone!!
+>>
+>>
+>>
+>> Val
+>>
+>>
+>>
+>> *From:* Johnston, Tamara [mailto:Tamara.Johnston at emc.com]
+>> *Sent:* Tuesday, July 28, 2015 1:03 PM
+>> *To:* APlimpton; women-of-openstack at lists.openstack.org
+>> *Subject:* Re: [Women-of-openstack] Vote for your summit presentation?
+>>
+>>
+>>
+>> Amanda ? I just voted for your talk!
+>>
+>>
+>>
+>> I would appreciate everyones vote for the talk that Beth Cohen, Alexandra
+>> Settle, Sean Winn and I submitted -
+>> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3822
+>> .
+>>
+>>
+>>
+>> Good luck!
+>>
+>>
+>>
+>> *Tamara Johnston*  |  Cloud Portfolio  |  EMC Global Services  |  (C)
+>> 1-510-398-9114  |  (E) tamara.johnston at emc.com
+>>
+>>
+>>
+>>
+>>
+>> *From: *APlimpton <aplimpton at gmail.com>
+>> *Date: *Tuesday, July 28, 2015 at 10:53 AM
+>> *To: *"women-of-openstack at lists.openstack.org" <
+>> women-of-openstack at lists.openstack.org>
+>> *Subject: *[Women-of-openstack] Vote for your summit presentation?
+>>
+>>
+>>
+>> Alright, voting is open. I know I have one, but which of you wonderful
+>> women have presentations in the running? Links please!
+>>
+>>
+>>
+>> Maybe we could put them on an Etherpad?
+>>
+>>
+>>
+>> Thanks,
+>> Amanda
+>>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/2f788885/attachment.html>
+
+From assarava at cisco.com  Tue Jul 28 19:10:12 2015
+From: assarava at cisco.com (Asha Saravanamohan (assarava))
+Date: Tue, 28 Jul 2015 19:10:12 +0000
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 9, Issue 14
+In-Reply-To: <mailman.15395.1438108333.14112.women-of-openstack@lists.openstack.org>
+References: <mailman.15395.1438108333.14112.women-of-openstack@lists.openstack.org>
+Message-ID: <D1DD45C6.4882%assarava@cisco.com>
+
+Hello Openstack ladies,
+
+Voted for all of you who sent their links!:)
+
+Here is the link for my talk on Manila!
+
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/
+5583
+
+
+I also started an etherpad. Please add your talks on it and circulate!
+
+https://beta.etherpad.org/p/openstack_women_talks
+
+
+Thanks for your votes!
+
+Asha Saravanamohan
+ENGINEER.SOFTWARE ENGINEERING
+
+assarava at cisco.com
+WebEx Social profile <http://iwe.cisco.com/web/assarava>
+Phone: +1 919 392 3417
+
+Cisco Systems, Inc.
+7200-10 Kit Creek Road
+PO Box 14987
+Research Triangle Park
+North Carolina
+27709-4987
+United States
+Cisco.com <http://www.cisco.com/>
+
+ Think before you print.This email may contain confidential and privileged
+material for the sole use of the intended recipient. Any review, use,
+distribution or disclosure by others is strictly prohibited. If you are
+not the intended recipient (or authorized to receive for the recipient),
+please contact the sender by reply email and delete all copies of this
+message.
+Please click here 
+<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for
+Company Registration Information.
+
+
+
+
+
+
+
+On 7/28/15, 2:32 PM, "women-of-openstack-request at lists.openstack.org"
+<women-of-openstack-request at lists.openstack.org> wrote:
+
+>Send Women-of-openstack mailing list submissions to
+>	women-of-openstack at lists.openstack.org
+>
+>To subscribe or unsubscribe via the World Wide Web, visit
+>	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>or, via email, send a message with subject or body 'help' to
+>	women-of-openstack-request at lists.openstack.org
+>
+>You can reach the person managing the list at
+>	women-of-openstack-owner at lists.openstack.org
+>
+>When replying, please edit your Subject line so it is more specific
+>than "Re: Contents of Women-of-openstack digest..."
+>
+>
+>Today's Topics:
+>
+>   1. Re: Vote for your summit presentation? (yang, xing)
+>   2. Re: Vote for your summit presentation? (Val Wanjura)
+>   3. Re: Women-of-openstack Digest, Vol 9, Issue 13 (Ju Lim)
+>
+>
+>----------------------------------------------------------------------
+>
+>Message: 1
+>Date: Tue, 28 Jul 2015 18:17:02 +0000
+>From: "yang, xing" <xing.yang at emc.com>
+>To: APlimpton <aplimpton at gmail.com>,
+>	"women-of-openstack at lists.openstack.org"
+>	<women-of-openstack at lists.openstack.org>
+>Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+>Message-ID:
+>	<F9260FECD2960A4D83AA5C9F995F7816400BD63B at MX103CL01.corp.emc.com>
+>Content-Type: text/plain; charset="utf-8"
+>
+>Hi Amanda,
+>
+>I am in the following submitted sessions with other Cinder developers.
+>Appreciate everyone?s help voting for them.
+>How to Protect your Data in the Cloud:
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/5276
+>A Conversation with Cinder Developers:
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/5476
+>Getting Involved with Cinder Development:
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/5258
+>Thanks!
+>Xing
+>
+>
+>
+>
+>From: APlimpton [mailto:aplimpton at gmail.com]
+>Sent: Tuesday, July 28, 2015 1:54 PM
+>To: women-of-openstack at lists.openstack.org
+>Subject: [Women-of-openstack] Vote for your summit presentation?
+>
+>Alright, voting is open. I know I have one, but which of you wonderful
+>women have presentations in the running? Links please!
+>
+>Maybe we could put them on an Etherpad?
+>
+>Thanks,
+>Amanda
+>-------------- next part --------------
+>An HTML attachment was scrubbed...
+>URL: 
+><http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+>728/a4245844/attachment-0001.html>
+>
+>------------------------------
+>
+>Message: 2
+>Date: Tue, 28 Jul 2015 18:25:20 +0000
+>From: Val Wanjura <val.wanjura at RACKSPACE.COM>
+>To: "Johnston, Tamara" <Tamara.Johnston at emc.com>, APlimpton
+>	<aplimpton at gmail.com>, "women-of-openstack at lists.openstack.org"
+>	<women-of-openstack at lists.openstack.org>
+>Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+>Message-ID:
+>	<f5f1dcf5e17d41389a29230237ec61f5 at 616646-IEXCH03.ror-uc.rackspace.com>
+>Content-Type: text/plain; charset="us-ascii"
+>
+>One more...
+>
+>Leverage the Hidden Power of Diversity:
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/6354
+>
+>Thanks for your votes!! Good luck everyone!!
+>
+>Val
+>
+>From: Johnston, Tamara [mailto:Tamara.Johnston at emc.com]
+>Sent: Tuesday, July 28, 2015 1:03 PM
+>To: APlimpton; women-of-openstack at lists.openstack.org
+>Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+>
+>Amanda - I just voted for your talk!
+>
+>I would appreciate everyones vote for the talk that Beth Cohen, Alexandra
+>Settle, Sean Winn and I submitted -
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/3822.
+>
+>Good luck!
+>
+>Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C)
+>1-510-398-9114  |  (E)
+>tamara.johnston at emc.com<mailto:tamara.johnston at emc.com>
+>
+>
+>From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+>Date: Tuesday, July 28, 2015 at 10:53 AM
+>To: 
+>"women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.op
+>enstack.org>" 
+><women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.op
+>enstack.org>>
+>Subject: [Women-of-openstack] Vote for your summit presentation?
+>
+>Alright, voting is open. I know I have one, but which of you wonderful
+>women have presentations in the running? Links please!
+>
+>Maybe we could put them on an Etherpad?
+>
+>Thanks,
+>Amanda
+>-------------- next part --------------
+>An HTML attachment was scrubbed...
+>URL: 
+><http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+>728/2fc0fd51/attachment-0001.html>
+>
+>------------------------------
+>
+>Message: 3
+>Date: Tue, 28 Jul 2015 14:32:11 -0400
+>From: Ju Lim <julim at redhat.com>
+>To: women-of-openstack at lists.openstack.org
+>Subject: Re: [Women-of-openstack] Women-of-openstack Digest, Vol 9,
+>	Issue 13
+>Message-ID:
+>	<CAKcuoAmtqAq4gx+J1votx9YRKcXxWJ2DsfC5HLpukw5b2=baEA at mail.gmail.com>
+>Content-Type: text/plain; charset="utf-8"
+>
+>I've created an Etherpad with all the sessions listed so far include a
+>session that I've proposed:
+>
+>https://etherpad.openstack.org/p/openstack-summit-tokyo-talks-to-vote-for
+>
+>Please consider voting and supporting our fellow community team members.
+>
+>Kind regards,
+>Ju Lim
+>Red Hat
+>Email: julim at redhat.com
+>IRC: julim on #openstack-ux
+>
+>
+>On Tue, Jul 28, 2015 at 2:14 PM, <
+>women-of-openstack-request at lists.openstack.org> wrote:
+>
+>> Send Women-of-openstack mailing list submissions to
+>>         women-of-openstack at lists.openstack.org
+>>
+>> To subscribe or unsubscribe via the World Wide Web, visit
+>>
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>> or, via email, send a message with subject or body 'help' to
+>>         women-of-openstack-request at lists.openstack.org
+>>
+>> You can reach the person managing the list at
+>>         women-of-openstack-owner at lists.openstack.org
+>>
+>> When replying, please edit your Subject line so it is more specific
+>> than "Re: Contents of Women-of-openstack digest..."
+>>
+>>
+>> Today's Topics:
+>>
+>>    1. REMINDER: OpenStack Summit Tokyo Session  Voting Closes
+>>       Thursday, July 30 (Kendall Waters)
+>>    2. Vote for your summit presentation? (APlimpton)
+>>    3. Re: Vote for your summit presentation? (Johnston, Tamara)
+>>    4. Re: Vote for your summit presentation? (Niki Acosta (nikacost))
+>>
+>>
+>> ----------------------------------------------------------------------
+>>
+>> Message: 1
+>> Date: Tue, 28 Jul 2015 11:12:08 -0500
+>> From: Kendall Waters <kendall at openstack.org>
+>> To: Community at lists.openstack.org,
+>>         women-of-openstack at lists.openstack.org,
+>> marketing at lists.openstack.org,
+>>         summitsponsors at lists.openstack.org,
+>>foundation at lists.openstack.org
+>> Subject: [Women-of-openstack] REMINDER: OpenStack Summit Tokyo Session
+>>         Voting Closes Thursday, July 30
+>> Message-ID: <6DA38A2B-0A36-4B0F-A0BF-50F61E5ED6C8 at openstack.org>
+>> Content-Type: text/plain; charset="us-ascii"
+>>
+>> Hi everyone,
+>>
+>> Hurry, session voting for the Tokyo Summit closes this Thursday, July 30
+>> at 11:59pm PDT.
+>>
+>> VOTE HERE 
+>><https://www.openstack.org/summit/tokyo-2015/vote-for-speakers>
+>>
+>> Continue to visit openstack.org/summit <http://openstack.org/summit> for
+>> all Summit-related information.
+>>
+>> Cheers,
+>> Kendall
+>>
+>> BECOME A SPONSOR
+>> If you are interested in sponsoring the summit as well, it's not too
+>>late.
+>> Please email summit at openstack.org <mailto:summit at openstack.org> no later
+>> than September 1, 2015. Continue to check openstack.org/summit <
+>> http://openstack.org/summit> for updates.
+>>
+>> REGISTER
+>> Register here <
+>> 
+>>https://www.eventbrite.com/e/openstack-summit-october-2015-tokyo-tickets-
+>>17356780598>
+>> before prices increase on August 31, 2015.
+>>
+>> -------------- next part --------------
+>> An HTML attachment was scrubbed...
+>> URL: <
+>> 
+>>http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+>>728/d07e526f/attachment-0001.html
+>> >
+>>
+>> ------------------------------
+>>
+>> Message: 2
+>> Date: Tue, 28 Jul 2015 10:53:41 -0700
+>> From: APlimpton <aplimpton at gmail.com>
+>> To: women-of-openstack at lists.openstack.org
+>> Subject: [Women-of-openstack] Vote for your summit presentation?
+>> Message-ID:
+>>         <CA+8x=aoF2VhuG=-HNv9=
+>> cvJaBi7YRrJ99pVeeuZMdpH8To3mOw at mail.gmail.com>
+>> Content-Type: text/plain; charset="utf-8"
+>>
+>> Alright, voting is open. I know I have one, but which of you wonderful
+>> women have presentations in the running? Links please!
+>>
+>> Maybe we could put them on an Etherpad?
+>>
+>> Thanks,
+>> Amanda
+>> -------------- next part --------------
+>> An HTML attachment was scrubbed...
+>> URL: <
+>> 
+>>http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+>>728/47feb1af/attachment-0001.html
+>> >
+>>
+>> ------------------------------
+>>
+>> Message: 3
+>> Date: Tue, 28 Jul 2015 18:02:32 +0000
+>> From: "Johnston, Tamara" <Tamara.Johnston at emc.com>
+>> To: APlimpton <aplimpton at gmail.com>,
+>>         "women-of-openstack at lists.openstack.org"
+>>         <women-of-openstack at lists.openstack.org>
+>> Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+>> Message-ID: <D1DD10CD.3A8C%tamara.johnston at emc.com>
+>> Content-Type: text/plain; charset="windows-1252"
+>>
+>> Amanda ? I just voted for your talk!
+>>
+>> I would appreciate everyones vote for the talk that Beth Cohen,
+>>Alexandra
+>> Settle, Sean Winn and I submitted -
+>> 
+>>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentatio
+>>n/3822
+>> .
+>>
+>> Good luck!
+>>
+>> Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C)
+>> 1-510-398-9114  |  (E) tamara.johnston at emc.com<mailto:
+>> tamara.johnston at emc.com>
+>>
+>>
+>> From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+>> Date: Tuesday, July 28, 2015 at 10:53 AM
+>> To: "women-of-openstack at lists.openstack.org<mailto:
+>> women-of-openstack at lists.openstack.org>" <
+>> women-of-openstack at lists.openstack.org<mailto:
+>> women-of-openstack at lists.openstack.org>>
+>> Subject: [Women-of-openstack] Vote for your summit presentation?
+>>
+>> Alright, voting is open. I know I have one, but which of you wonderful
+>> women have presentations in the running? Links please!
+>>
+>> Maybe we could put them on an Etherpad?
+>>
+>> Thanks,
+>> Amanda
+>> -------------- next part --------------
+>> An HTML attachment was scrubbed...
+>> URL: <
+>> 
+>>http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+>>728/e536b735/attachment-0001.html
+>> >
+>>
+>> ------------------------------
+>>
+>> Message: 4
+>> Date: Tue, 28 Jul 2015 18:14:07 +0000
+>> From: "Niki Acosta (nikacost)" <nikacost at cisco.com>
+>> To: APlimpton <aplimpton at gmail.com>,
+>>         "women-of-openstack at lists.openstack.org"
+>>         <women-of-openstack at lists.openstack.org>
+>> Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+>> Message-ID: <D1DD306A.39BC8%nikacost at cisco.com>
+>> Content-Type: text/plain; charset="windows-1252"
+>>
+>> OpenStack Consumption Models: Three User Perspectives (DT, PayPal,
+>>Workday)
+>>
+>> 
+>>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentatio
+>>n/5550
+>>
+>>
+>> The Stack and Beyond: Analysis Paralysis (Panel)
+>>
+>> 
+>>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentatio
+>>n/4825
+>>
+>>
+>> Panel Discussion ? War Stories
+>>
+>> 
+>>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentatio
+>>n/4635
+>>
+>>
+>> [
+>> 
+>>http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=141
+>>6252642374
+>> ]
+>>
+>> Niki Acosta
+>> Cloud Evangelist
+>> Cisco.com<http://www.cisco.com/>
+>> nikacost at cisco.com<mailto:nikacost at cisco.com>
+>> Phone: +1 512-912-6716
+>>
+>>
+>>
+>>
+>> [http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<
+>> http://www.twitter.com/nikiacosta>
+>>
+>>
+>> [http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think
+>> before you print.
+>>
+>> This email may contain confidential and privileged material for the sole
+>> use of the intended recipient. Any review, use, distribution or
+>>disclosure
+>> by others is strictly prohibited. If you are not the intended recipient
+>>(or
+>> authorized to receive for the recipient), please contact the sender by
+>> reply email and delete all copies of this message.
+>>
+>> Please click here<
+>> http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for
+>> Company Registration Information.
+>>
+>>
+>> From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+>> Date: Tuesday, July 28, 2015 at 12:53 PM
+>> To: "women-of-openstack at lists.openstack.org<mailto:
+>> women-of-openstack at lists.openstack.org>" <
+>> women-of-openstack at lists.openstack.org<mailto:
+>> women-of-openstack at lists.openstack.org>>
+>> Subject: [Women-of-openstack] Vote for your summit presentation?
+>>
+>> Alright, voting is open. I know I have one, but which of you wonderful
+>> women have presentations in the running? Links please!
+>>
+>> Maybe we could put them on an Etherpad?
+>>
+>> Thanks,
+>> Amanda
+>> -------------- next part --------------
+>> An HTML attachment was scrubbed...
+>> URL: <
+>> 
+>>http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+>>728/5af2ce70/attachment.html
+>> >
+>>
+>> ------------------------------
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>> End of Women-of-openstack Digest, Vol 9, Issue 13
+>> *************************************************
+>>
+>
+>
+>
+>-- 
+>Ju Lim
+>Red Hat
+>Office: 978-399-0422
+>Mobile: 781-507-1323
+>Email: julim at redhat.com
+>IRC: julim
+>-------------- next part --------------
+>An HTML attachment was scrubbed...
+>URL: 
+><http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+>728/269c9d4a/attachment.html>
+>
+>------------------------------
+>
+>_______________________________________________
+>Women-of-openstack mailing list
+>Women-of-openstack at lists.openstack.org
+>http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>End of Women-of-openstack Digest, Vol 9, Issue 14
+>*************************************************
+
+
+
+From aplimpton at gmail.com  Tue Jul 28 19:31:03 2015
+From: aplimpton at gmail.com (APlimpton)
+Date: Tue, 28 Jul 2015 12:31:03 -0700
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 9, Issue 14
+In-Reply-To: <D1DD45C6.4882%assarava@cisco.com>
+References: <mailman.15395.1438108333.14112.women-of-openstack@lists.openstack.org>
+ <D1DD45C6.4882%assarava@cisco.com>
+Message-ID: <CA+8x=ao1cWVYR-R3FA2pOPCjKvebHFXv-nkZx7CxS_PYHn3c4g@mail.gmail.com>
+
+Hi Asha,
+
+Thanks for sharing your link! For Etherpad, we had another one was created
+just prior to yours, so I moved your session over to the main list and
+added a note to see that page:
+https://etherpad.openstack.org/p/openstack-summit-tokyo-talks-to-vote-for
+
+Thanks,
+Amanda
+
+On Tue, Jul 28, 2015 at 12:10 PM, Asha Saravanamohan (assarava) <
+assarava at cisco.com> wrote:
+
+> Hello Openstack ladies,
+>
+> Voted for all of you who sent their links!:)
+>
+> Here is the link for my talk on Manila!
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/
+> 5583
+>
+>
+> I also started an etherpad. Please add your talks on it and circulate!
+>
+> https://beta.etherpad.org/p/openstack_women_talks
+>
+>
+> Thanks for your votes!
+>
+> Asha Saravanamohan
+> ENGINEER.SOFTWARE ENGINEERING
+>
+> assarava at cisco.com
+> WebEx Social profile <http://iwe.cisco.com/web/assarava>
+> Phone: +1 919 392 3417
+>
+> Cisco Systems, Inc.
+> 7200-10 Kit Creek Road
+> PO Box 14987
+> Research Triangle Park
+> North Carolina
+> 27709-4987
+> United States
+> Cisco.com <http://www.cisco.com/>
+>
+>  Think before you print.This email may contain confidential and privileged
+> material for the sole use of the intended recipient. Any review, use,
+> distribution or disclosure by others is strictly prohibited. If you are
+> not the intended recipient (or authorized to receive for the recipient),
+> please contact the sender by reply email and delete all copies of this
+> message.
+> Please click here
+> <http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for
+> Company Registration Information.
+>
+>
+>
+>
+>
+>
+>
+> On 7/28/15, 2:32 PM, "women-of-openstack-request at lists.openstack.org"
+> <women-of-openstack-request at lists.openstack.org> wrote:
+>
+> >Send Women-of-openstack mailing list submissions to
+> >       women-of-openstack at lists.openstack.org
+> >
+> >To subscribe or unsubscribe via the World Wide Web, visit
+> >
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> >
+> >or, via email, send a message with subject or body 'help' to
+> >       women-of-openstack-request at lists.openstack.org
+> >
+> >You can reach the person managing the list at
+> >       women-of-openstack-owner at lists.openstack.org
+> >
+> >When replying, please edit your Subject line so it is more specific
+> >than "Re: Contents of Women-of-openstack digest..."
+> >
+> >
+> >Today's Topics:
+> >
+> >   1. Re: Vote for your summit presentation? (yang, xing)
+> >   2. Re: Vote for your summit presentation? (Val Wanjura)
+> >   3. Re: Women-of-openstack Digest, Vol 9, Issue 13 (Ju Lim)
+> >
+> >
+> >----------------------------------------------------------------------
+> >
+> >Message: 1
+> >Date: Tue, 28 Jul 2015 18:17:02 +0000
+> >From: "yang, xing" <xing.yang at emc.com>
+> >To: APlimpton <aplimpton at gmail.com>,
+> >       "women-of-openstack at lists.openstack.org"
+> >       <women-of-openstack at lists.openstack.org>
+> >Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+> >Message-ID:
+> >       <F9260FECD2960A4D83AA5C9F995F7816400BD63B at MX103CL01.corp.emc.com>
+> >Content-Type: text/plain; charset="utf-8"
+> >
+> >Hi Amanda,
+> >
+> >I am in the following submitted sessions with other Cinder developers.
+> >Appreciate everyone?s help voting for them.
+> >How to Protect your Data in the Cloud:
+> >
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+> >/5276
+> >A Conversation with Cinder Developers:
+> >
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+> >/5476
+> >Getting Involved with Cinder Development:
+> >
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+> >/5258
+> >Thanks!
+> >Xing
+> >
+> >
+> >
+> >
+> >From: APlimpton [mailto:aplimpton at gmail.com]
+> >Sent: Tuesday, July 28, 2015 1:54 PM
+> >To: women-of-openstack at lists.openstack.org
+> >Subject: [Women-of-openstack] Vote for your summit presentation?
+> >
+> >Alright, voting is open. I know I have one, but which of you wonderful
+> >women have presentations in the running? Links please!
+> >
+> >Maybe we could put them on an Etherpad?
+> >
+> >Thanks,
+> >Amanda
+> >-------------- next part --------------
+> >An HTML attachment was scrubbed...
+> >URL:
+> ><
+> http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+> >728/a4245844/attachment-0001.html>
+> >
+> >------------------------------
+> >
+> >Message: 2
+> >Date: Tue, 28 Jul 2015 18:25:20 +0000
+> >From: Val Wanjura <val.wanjura at RACKSPACE.COM>
+> >To: "Johnston, Tamara" <Tamara.Johnston at emc.com>, APlimpton
+> >       <aplimpton at gmail.com>, "women-of-openstack at lists.openstack.org"
+> >       <women-of-openstack at lists.openstack.org>
+> >Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+> >Message-ID:
+> >       <
+> f5f1dcf5e17d41389a29230237ec61f5 at 616646-IEXCH03.ror-uc.rackspace.com>
+> >Content-Type: text/plain; charset="us-ascii"
+> >
+> >One more...
+> >
+> >Leverage the Hidden Power of Diversity:
+> >
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+> >/6354
+> >
+> >Thanks for your votes!! Good luck everyone!!
+> >
+> >Val
+> >
+> >From: Johnston, Tamara [mailto:Tamara.Johnston at emc.com]
+> >Sent: Tuesday, July 28, 2015 1:03 PM
+> >To: APlimpton; women-of-openstack at lists.openstack.org
+> >Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+> >
+> >Amanda - I just voted for your talk!
+> >
+> >I would appreciate everyones vote for the talk that Beth Cohen, Alexandra
+> >Settle, Sean Winn and I submitted -
+> >
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+> >/3822.
+> >
+> >Good luck!
+> >
+> >Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C)
+> >1-510-398-9114  |  (E)
+> >tamara.johnston at emc.com<mailto:tamara.johnston at emc.com>
+> >
+> >
+> >From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+> >Date: Tuesday, July 28, 2015 at 10:53 AM
+> >To:
+> >"women-of-openstack at lists.openstack.org<mailto:
+> women-of-openstack at lists.op
+> >enstack.org>"
+> ><women-of-openstack at lists.openstack.org<mailto:
+> women-of-openstack at lists.op
+> >enstack.org>>
+> >Subject: [Women-of-openstack] Vote for your summit presentation?
+> >
+> >Alright, voting is open. I know I have one, but which of you wonderful
+> >women have presentations in the running? Links please!
+> >
+> >Maybe we could put them on an Etherpad?
+> >
+> >Thanks,
+> >Amanda
+> >-------------- next part --------------
+> >An HTML attachment was scrubbed...
+> >URL:
+> ><
+> http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+> >728/2fc0fd51/attachment-0001.html>
+> >
+> >------------------------------
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/d4f4a969/attachment.html>
+
+From assarava at cisco.com  Tue Jul 28 19:51:02 2015
+From: assarava at cisco.com (Asha Saravanamohan (assarava))
+Date: Tue, 28 Jul 2015 19:51:02 +0000
+Subject: [Women-of-openstack] Women-of-openstack Digest, Vol 9, Issue 14
+In-Reply-To: <CA+8x=ao1cWVYR-R3FA2pOPCjKvebHFXv-nkZx7CxS_PYHn3c4g@mail.gmail.com>
+References: <mailman.15395.1438108333.14112.women-of-openstack@lists.openstack.org>
+ <D1DD45C6.4882%assarava@cisco.com>
+ <CA+8x=ao1cWVYR-R3FA2pOPCjKvebHFXv-nkZx7CxS_PYHn3c4g@mail.gmail.com>
+Message-ID: <D1DD553B.48CA%assarava@cisco.com>
+
+Sounds good !
+Thank you Amanda :)
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_08.png?ct=1425606981138]
+
+Asha Saravanamohan
+ENGINEER.SOFTWARE ENGINEERING
+
+assarava at cisco.com<mailto:assarava at cisco.com>
+WebEx Social profile<http://iwe.cisco.com/web/assarava>
+Phone: +1 919 392 3417
+
+
+Cisco Systems, Inc.
+7200-10 Kit Creek Road
+PO Box 14987
+Research Triangle Park
+North Carolina
+27709-4987
+United States
+Cisco.com<http://www.cisco.com/>
+
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+
+
+
+
+From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>
+Date: Tuesday, July 28, 2015 at 3:31 PM
+To: Microsoft Office User <assarava at cisco.com<mailto:assarava at cisco.com>>
+Cc: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Women-of-openstack Digest, Vol 9, Issue 14
+
+Hi Asha,
+
+Thanks for sharing your link! For Etherpad, we had another one was created just prior to yours, so I moved your session over to the main list and added a note to see that page: https://etherpad.openstack.org/p/openstack-summit-tokyo-talks-to-vote-for
+
+Thanks,
+Amanda
+
+On Tue, Jul 28, 2015 at 12:10 PM, Asha Saravanamohan (assarava) <assarava at cisco.com<mailto:assarava at cisco.com>> wrote:
+Hello Openstack ladies,
+
+Voted for all of you who sent their links!:)
+
+Here is the link for my talk on Manila!
+
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/
+5583
+
+
+I also started an etherpad. Please add your talks on it and circulate!
+
+https://beta.etherpad.org/p/openstack_women_talks
+
+
+Thanks for your votes!
+
+Asha Saravanamohan
+ENGINEER.SOFTWARE ENGINEERING
+
+assarava at cisco.com<mailto:assarava at cisco.com>
+WebEx Social profile <http://iwe.cisco.com/web/assarava>
+Phone: +1 919 392 3417<tel:%2B1%20919%20392%203417>
+
+Cisco Systems, Inc.
+7200-10 Kit Creek Road
+PO Box 14987
+Research Triangle Park
+North Carolina
+27709-4987
+United States
+Cisco.com <http://www.cisco.com/>
+
+ Think before you print.This email may contain confidential and privileged
+material for the sole use of the intended recipient. Any review, use,
+distribution or disclosure by others is strictly prohibited. If you are
+not the intended recipient (or authorized to receive for the recipient),
+please contact the sender by reply email and delete all copies of this
+message.
+Please click here
+<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for
+Company Registration Information.
+
+
+
+
+
+
+
+On 7/28/15, 2:32 PM, "women-of-openstack-request at lists.openstack.org<mailto:women-of-openstack-request at lists.openstack.org>"
+<women-of-openstack-request at lists.openstack.org<mailto:women-of-openstack-request at lists.openstack.org>> wrote:
+
+>Send Women-of-openstack mailing list submissions to
+>       women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+>
+>To subscribe or unsubscribe via the World Wide Web, visit
+>       http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>or, via email, send a message with subject or body 'help' to
+>       women-of-openstack-request at lists.openstack.org<mailto:women-of-openstack-request at lists.openstack.org>
+>
+>You can reach the person managing the list at
+>       women-of-openstack-owner at lists.openstack.org<mailto:women-of-openstack-owner at lists.openstack.org>
+>
+>When replying, please edit your Subject line so it is more specific
+>than "Re: Contents of Women-of-openstack digest..."
+>
+>
+>Today's Topics:
+>
+>   1. Re: Vote for your summit presentation? (yang, xing)
+>   2. Re: Vote for your summit presentation? (Val Wanjura)
+>   3. Re: Women-of-openstack Digest, Vol 9, Issue 13 (Ju Lim)
+>
+>
+>----------------------------------------------------------------------
+>
+>Message: 1
+>Date: Tue, 28 Jul 2015 18:17:02 +0000
+>From: "yang, xing" <xing.yang at emc.com<mailto:xing.yang at emc.com>>
+>To: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>,
+>       "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>"
+>       <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+>Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+>Message-ID:
+>       <F9260FECD2960A4D83AA5C9F995F7816400BD63B at MX103CL01.corp.emc.com<mailto:F9260FECD2960A4D83AA5C9F995F7816400BD63B at MX103CL01.corp.emc.com>>
+>Content-Type: text/plain; charset="utf-8"
+>
+>Hi Amanda,
+>
+>I am in the following submitted sessions with other Cinder developers.
+>Appreciate everyone?s help voting for them.
+>How to Protect your Data in the Cloud:
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/5276
+>A Conversation with Cinder Developers:
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/5476
+>Getting Involved with Cinder Development:
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/5258
+>Thanks!
+>Xing
+>
+>
+>
+>
+>From: APlimpton [mailto:aplimpton at gmail.com<mailto:aplimpton at gmail.com>]
+>Sent: Tuesday, July 28, 2015 1:54 PM
+>To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+>Subject: [Women-of-openstack] Vote for your summit presentation?
+>
+>Alright, voting is open. I know I have one, but which of you wonderful
+>women have presentations in the running? Links please!
+>
+>Maybe we could put them on an Etherpad?
+>
+>Thanks,
+>Amanda
+>-------------- next part --------------
+>An HTML attachment was scrubbed...
+>URL:
+><http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+>728/a4245844/attachment-0001.html>
+>
+>------------------------------
+>
+>Message: 2
+>Date: Tue, 28 Jul 2015 18:25:20 +0000
+>From: Val Wanjura <val.wanjura at RACKSPACE.COM<mailto:val.wanjura at RACKSPACE.COM>>
+>To: "Johnston, Tamara" <Tamara.Johnston at emc.com<mailto:Tamara.Johnston at emc.com>>, APlimpton
+>       <aplimpton at gmail.com<mailto:aplimpton at gmail.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>"
+>       <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+>Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+>Message-ID:
+>       <f5f1dcf5e17d41389a29230237ec61f5 at 616646-IEXCH03.ror-uc.rackspace.com<mailto:f5f1dcf5e17d41389a29230237ec61f5 at 616646-IEXCH03.ror-uc.rackspace.com>>
+>Content-Type: text/plain; charset="us-ascii"
+>
+>One more...
+>
+>Leverage the Hidden Power of Diversity:
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/6354
+>
+>Thanks for your votes!! Good luck everyone!!
+>
+>Val
+>
+>From: Johnston, Tamara [mailto:Tamara.Johnston at emc.com<mailto:Tamara.Johnston at emc.com>]
+>Sent: Tuesday, July 28, 2015 1:03 PM
+>To: APlimpton; women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+>Subject: Re: [Women-of-openstack] Vote for your summit presentation?
+>
+>Amanda - I just voted for your talk!
+>
+>I would appreciate everyones vote for the talk that Beth Cohen, Alexandra
+>Settle, Sean Winn and I submitted -
+>https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation
+>/3822.
+>
+>Good luck!
+>
+>Tamara Johnston  |  Cloud Portfolio  |  EMC Global Services  |  (C)
+>1-510-398-9114<tel:1-510-398-9114>  |  (E)
+>tamara.johnston at emc.com<mailto:tamara.johnston at emc.com><mailto:tamara.johnston at emc.com<mailto:tamara.johnston at emc.com>>
+>
+>
+>From: APlimpton <aplimpton at gmail.com<mailto:aplimpton at gmail.com><mailto:aplimpton at gmail.com<mailto:aplimpton at gmail.com>>>
+>Date: Tuesday, July 28, 2015 at 10:53 AM
+>To:
+>"women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org><mailto:women-of-openstack at lists.op<mailto:women-of-openstack at lists.op>
+>enstack.org<http://enstack.org>>"
+><women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org><mailto:women-of-openstack at lists.op<mailto:women-of-openstack at lists.op>
+>enstack.org<http://enstack.org>>>
+>Subject: [Women-of-openstack] Vote for your summit presentation?
+>
+>Alright, voting is open. I know I have one, but which of you wonderful
+>women have presentations in the running? Links please!
+>
+>Maybe we could put them on an Etherpad?
+>
+>Thanks,
+>Amanda
+>-------------- next part --------------
+>An HTML attachment was scrubbed...
+>URL:
+><http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150
+>728/2fc0fd51/attachment-0001.html>
+>
+>------------------------------
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/7a74d278/attachment-0001.html>
+
+From dmueller2001 at gmail.com  Tue Jul 28 20:42:32 2015
+From: dmueller2001 at gmail.com (Diane Mueller)
+Date: Tue, 28 Jul 2015 13:42:32 -0700
+Subject: [Women-of-openstack] Public Gist file for OpenStack Summit
+	Presentation Voting purposes
+Message-ID: <CAEJV2JLXYjRpt_4E8FD6nb1MPf50U6ssViTFRpwRqjHO+O8wXg@mail.gmail.com>
+
+ I started a gist file here:
+https://gist.github.com/dmueller2001/6f0bb36e9611a31fa228
+
+These are the 4 talks I submitted for the Summit, if you are interested in
+these topics I would appreciate your vote! See you in Tokyo!
+
+OpenShift on OpenStack:
+
+Securing your Application Stacks on OpenStack
+Presenters: Diane Mueller & Jonathan Gershater (Red Hat)
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5305
+
+Deploying and Integrating OpenShift on Dell?s OpenStack Cloud Reference
+Architecture
+Diane Mueller (Red Hat), Grant Shipley (Red Hat) & Judd Matlin (Dell)
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5486
+
+Deploying and Managing OpenShift on OpenStack with Ansible and Heat
+Presenters: Diane Mueller (Red Hat), Veer Muchandi (Red Hat), Ken
+Thompson(Red Hat), Tomas Sedovic(Red Hat), Greg DeKoenigsberg (Ansible)
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5892
+
+Scale or Fail ? Scaling applications with Docker, Kubernetes, OpenShift,
+and OpenStack
+Presenters: Diane Mueller(Red Hat) & Grant Shipley (Red Hat)
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/6141
+
+Kind Regards,
+
+Diane Mueller
+Director, Community Development
+Red Hat OpenShift
+dmueller at redhat.com
+@pythondj
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/63ce5c00/attachment.html>
+
+From cindy.pallaresq at gmail.com  Tue Jul 28 20:43:04 2015
+From: cindy.pallaresq at gmail.com (Cindy Pallares)
+Date: Tue, 28 Jul 2015 15:43:04 -0500
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <D1DD306A.39BC8%nikacost@cisco.com>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+ <D1DD306A.39BC8%nikacost@cisco.com>
+Message-ID: <55b7e95a.e61d8c0a.a3d8.062d@mx.google.com>
+
+Hello!
+
+Victoria Martinez de la Cruz (vkmc) and I submitted two talks!
+
+Becoming an OpenStack Contributor: Tips and tricks from unconventional 
+contributors
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4627
+
+An overview on Zaqar's persistent transport implementation
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4588
+
+Cheers,
+
+Cindy Pallares
+
+
+On 07/28/2015 01:14 PM, Niki Acosta (nikacost) wrote:
+>
+> OpenStack Consumption Models: Three User Perspectives (DT, PayPal, 
+> Workday)
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5550
+>
+>
+>
+> The Stack and Beyond: Analysis Paralysis (Panel)
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4825
+>
+>
+>
+> Panel Discussion ? War Stories
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4635
+>
+>
+>
+> *Niki Acosta*
+> Cloud Evangelist
+> Cisco.com <http://www.cisco.com/>
+> nikacost at cisco.com <mailto:nikacost at cisco.com>
+> Phone: *+1 512-912-6716*
+>
+> 	
+>
+> **
+>
+> <http://www.twitter.com/nikiacosta>
+>
+>  Think before you print.
+>
+> This email may contain confidential and privileged material for the 
+> sole use of the intended recipient. Any review, use, distribution or 
+> disclosure by others is strictly prohibited. If you are not the 
+> intended recipient (or authorized to receive for the recipient), 
+> please contact the sender by reply email and delete all copies of this 
+> message.
+>
+> Please click here 
+> <http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for 
+> Company Registration Information.
+>
+>
+> From: APlimpton <aplimpton at gmail.com <mailto:aplimpton at gmail.com>>
+> Date: Tuesday, July 28, 2015 at 12:53 PM
+> To: "women-of-openstack at lists.openstack.org 
+> <mailto:women-of-openstack at lists.openstack.org>" 
+> <women-of-openstack at lists.openstack.org 
+> <mailto:women-of-openstack at lists.openstack.org>>
+> Subject: [Women-of-openstack] Vote for your summit presentation?
+>
+> Alright, voting is open. I know I have one, but which of you wonderful 
+> women have presentations in the running? Links please!
+>
+> Maybe we could put them on an Etherpad?
+>
+> Thanks,
+> Amanda
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/1af372f4/attachment.html>
+
+From aplimpton at gmail.com  Tue Jul 28 21:02:03 2015
+From: aplimpton at gmail.com (APlimpton)
+Date: Tue, 28 Jul 2015 14:02:03 -0700
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <55b7e95a.e61d8c0a.a3d8.062d@mx.google.com>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+ <D1DD306A.39BC8%nikacost@cisco.com>
+ <55b7e95a.e61d8c0a.a3d8.062d@mx.google.com>
+Message-ID: <CA+8x=apefQihf42GskYd7ozbUrXMbBUZjQyD3kV90s9fa+-aqA@mail.gmail.com>
+
+Nice! It looks like your group, Tamara's group and my group should have
+pooled resources to do a whole series for contributing to OpenStack. :D
+
+On Tue, Jul 28, 2015 at 1:43 PM, Cindy Pallares <cindy.pallaresq at gmail.com>
+wrote:
+
+>  Hello!
+>
+> Victoria Martinez de la Cruz (vkmc) and I submitted two talks!
+>
+> Becoming an OpenStack Contributor: Tips and tricks from unconventional
+> contributors
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4627
+>
+> An overview on Zaqar's persistent transport implementation
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4588
+>
+> Cheers,
+>
+> Cindy Pallares
+>
+>
+>
+> On 07/28/2015 01:14 PM, Niki Acosta (nikacost) wrote:
+>
+>   OpenStack Consumption Models: Three User Perspectives (DT, PayPal,
+> Workday)
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5550
+>
+>
+>
+>  The Stack and Beyond: Analysis Paralysis (Panel)
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4825
+>
+>
+>
+>  Panel Discussion ? War Stories
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4635
+>
+>
+>
+>       *Niki Acosta*
+> Cloud Evangelist
+> Cisco.com <http://www.cisco.com/>
+> nikacost at cisco.com
+> Phone: *+1 512-912-6716 <%2B1%20512-912-6716>*
+>
+>
+>      <http://www.twitter.com/nikiacosta>
+>        Think before you print.
+>
+> This email may contain confidential and privileged material for the sole
+> use of the intended recipient. Any review, use, distribution or disclosure
+> by others is strictly prohibited. If you are not the intended recipient (or
+> authorized to receive for the recipient), please contact the sender by
+> reply email and delete all copies of this message.
+>
+> Please click here
+> <http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for
+> Company Registration Information.
+>
+>   From: APlimpton <aplimpton at gmail.com>
+> Date: Tuesday, July 28, 2015 at 12:53 PM
+> To: "women-of-openstack at lists.openstack.org" <
+> women-of-openstack at lists.openstack.org>
+> Subject: [Women-of-openstack] Vote for your summit presentation?
+>
+>   Alright, voting is open. I know I have one, but which of you wonderful
+> women have presentations in the running? Links please!
+>
+>  Maybe we could put them on an Etherpad?
+>
+>  Thanks,
+> Amanda
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing listWomen-of-openstack at lists.openstack.orghttp://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/ddc4f317/attachment-0001.html>
+
+From bfcohen at luthcomputer.com  Wed Jul 29 01:19:16 2015
+From: bfcohen at luthcomputer.com (Beth Cohen)
+Date: Tue, 28 Jul 2015 21:19:16 -0400
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+Message-ID: <55B82A14.5050905@luthcomputer.com>
+
+Folks -
+I have two --
+https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3822/summary 
+
+OpenStack Docs Done Right ? Tips and tricks for contributing with
+
+
+Beth Cohen 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3822/speaker/421/edit> 
+	
+Tamara Johnston 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3822/speaker/422/edit> 
+	
+Sean Winn 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3822/speaker/423/edit> 
+	
+Alexandra Settle 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3822/speaker/742/edit> 
+
+
+https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3826/summary
+Overcoming Subtle Bias ? Sponsored by Women of OpenStack with a bunch of 
+us lovely ladies
+
+Beth Cohen 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3826/speaker/421/edit> 
+	
+Nithya Ruff 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3826/speaker/151/edit> 
+	
+Jessica Murillo 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3826/speaker/533/edit> 
+	
+Karin Levenstein 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3826/speaker/534/edit> 
+	
+Courtney Ferry 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3826/speaker/536/edit> 
+	
+Nitin Agarwal 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3826/speaker/637/edit> 
+	
+Scott Adkins 
+<https://www.openstack.org/summit/tokyo-2015/call-for-speakers/manage/3826/speaker/155/edit> 
+
+
+
+On 7/28/2015 1:53 PM, APlimpton wrote:
+> Alright, voting is open. I know I have one, but which of you wonderful 
+> women have presentations in the running? Links please!
+>
+> Maybe we could put them on an Etherpad?
+>
+> Thanks,
+> Amanda
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-- 
+_____________________________________________________________________
+
+Beth Cohen	
+Luth Computer Specialists, Inc.
+www.luthcomputer.com
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150728/4fae56af/attachment.html>
+
+From gema at ggomez.me  Wed Jul 29 10:08:30 2015
+From: gema at ggomez.me (Gema Gomez)
+Date: Wed, 29 Jul 2015 11:08:30 +0100
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+Message-ID: <55B8A61E.3040508@ggomez.me>
+
+Here are ours! Thanks in advance for any votes :D
+
+*Testing Beyond the Gate - Openstack Tailgate*
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4470
+
+*Testing Beyond the Gate - Validating Production Clouds*
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4463
+
+
+
+Thanks,
+Gema
+
+
+On 28/07/15 18:53, APlimpton wrote:
+> Alright, voting is open. I know I have one, but which of you wonderful
+> women have presentations in the running? Links please! 
+> 
+> Maybe we could put them on an Etherpad?
+> 
+> Thanks,
+> Amanda
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> 
+
+
+From shilla.saebi at gmail.com  Wed Jul 29 19:06:39 2015
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Wed, 29 Jul 2015 15:06:39 -0400
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <55B8A61E.3040508@ggomez.me>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+ <55B8A61E.3040508@ggomez.me>
+Message-ID: <CAPrU3jGuNm04NL0wu=i36Zxh6QhFTUUVPSx8T84WK7xfwDKkjg@mail.gmail.com>
+
+Thanks for all the support, here are a few more talks that include women
+from our group:
+
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3659
+
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3792
+
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5539
+
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5544
+
+Thank you!
+
+Shilla
+
+
+
+
+On Wed, Jul 29, 2015 at 6:08 AM, Gema Gomez <gema at ggomez.me> wrote:
+
+> Here are ours! Thanks in advance for any votes :D
+>
+> *Testing Beyond the Gate - Openstack Tailgate*
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4470
+>
+> *Testing Beyond the Gate - Validating Production Clouds*
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4463
+>
+>
+>
+> Thanks,
+> Gema
+>
+>
+> On 28/07/15 18:53, APlimpton wrote:
+> > Alright, voting is open. I know I have one, but which of you wonderful
+> > women have presentations in the running? Links please!
+> >
+> > Maybe we could put them on an Etherpad?
+> >
+> > Thanks,
+> > Amanda
+> >
+> >
+> > _______________________________________________
+> > Women-of-openstack mailing list
+> > Women-of-openstack at lists.openstack.org
+> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> >
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150729/fe8466c5/attachment.html>
+
+From claire at nuagenetworks.net  Wed Jul 29 20:53:37 2015
+From: claire at nuagenetworks.net (Claire Delcourt)
+Date: Wed, 29 Jul 2015 13:53:37 -0700
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <CAPrU3jGuNm04NL0wu=i36Zxh6QhFTUUVPSx8T84WK7xfwDKkjg@mail.gmail.com>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+ <55B8A61E.3040508@ggomez.me>
+ <CAPrU3jGuNm04NL0wu=i36Zxh6QhFTUUVPSx8T84WK7xfwDKkjg@mail.gmail.com>
+Message-ID: <CAB=Wp9e2zJjJb4-JW6chi+W0ffK9jyjqa1cmLXcYiZmFKcGV3A@mail.gmail.com>
+
+Is it me or there is no way to see if the vote has been applied? When I
+click on the button, there is no confirmation it was done. And I can click
+as many times as I want.
+I have the feeling I am doing something wrong...
+
+On Wed, Jul 29, 2015 at 12:06 PM, Shilla Saebi <shilla.saebi at gmail.com>
+wrote:
+
+> Thanks for all the support, here are a few more talks that include women
+> from our group:
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3659
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3792
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5539
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5544
+>
+> Thank you!
+>
+> Shilla
+>
+>
+>
+>
+> On Wed, Jul 29, 2015 at 6:08 AM, Gema Gomez <gema at ggomez.me> wrote:
+>
+>> Here are ours! Thanks in advance for any votes :D
+>>
+>> *Testing Beyond the Gate - Openstack Tailgate*
+>>
+>> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4470
+>>
+>> *Testing Beyond the Gate - Validating Production Clouds*
+>>
+>> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4463
+>>
+>>
+>>
+>> Thanks,
+>> Gema
+>>
+>>
+>> On 28/07/15 18:53, APlimpton wrote:
+>> > Alright, voting is open. I know I have one, but which of you wonderful
+>> > women have presentations in the running? Links please!
+>> >
+>> > Maybe we could put them on an Etherpad?
+>> >
+>> > Thanks,
+>> > Amanda
+>> >
+>> >
+>> > _______________________________________________
+>> > Women-of-openstack mailing list
+>> > Women-of-openstack at lists.openstack.org
+>> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>> >
+>>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150729/636cd3bc/attachment.html>
+
+From allison at openstack.org  Wed Jul 29 21:59:48 2015
+From: allison at openstack.org (Allison Price)
+Date: Wed, 29 Jul 2015 16:59:48 -0500
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <CAB=Wp9e2zJjJb4-JW6chi+W0ffK9jyjqa1cmLXcYiZmFKcGV3A@mail.gmail.com>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+ <55B8A61E.3040508@ggomez.me>
+ <CAPrU3jGuNm04NL0wu=i36Zxh6QhFTUUVPSx8T84WK7xfwDKkjg@mail.gmail.com>
+ <CAB=Wp9e2zJjJb4-JW6chi+W0ffK9jyjqa1cmLXcYiZmFKcGV3A@mail.gmail.com>
+Message-ID: <32983284-C3C0-4A77-A93C-B6CC0121F086@openstack.org>
+
+Hi Claire, 
+
+When you click a particular option to vote, the button should turn blue to indicate your selection. Is this not happening? 
+
+Thanks,
+Allison
+
+Allison Price
+OpenStack Marketing
+allison at openstack.org
+
+
+> On Jul 29, 2015, at 3:53 PM, Claire Delcourt <claire at nuagenetworks.net> wrote:
+> 
+> Is it me or there is no way to see if the vote has been applied? When I click on the button, there is no confirmation it was done. And I can click as many times as I want.
+> I have the feeling I am doing something wrong...
+> 
+> On Wed, Jul 29, 2015 at 12:06 PM, Shilla Saebi <shilla.saebi at gmail.com <mailto:shilla.saebi at gmail.com>> wrote:
+> Thanks for all the support, here are a few more talks that include women from our group:
+> 
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3659 <https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3659>
+> 
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3792 <https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3792>
+> 
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5539 <https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5539>
+> 
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5544 <https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5544>
+> 
+> Thank you!
+> 
+> Shilla
+> 
+> 
+> 
+> 
+> On Wed, Jul 29, 2015 at 6:08 AM, Gema Gomez <gema at ggomez.me <mailto:gema at ggomez.me>> wrote:
+> Here are ours! Thanks in advance for any votes :D
+> 
+> *Testing Beyond the Gate - Openstack Tailgate*
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4470 <https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4470>
+> 
+> *Testing Beyond the Gate - Validating Production Clouds*
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4463 <https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4463>
+> 
+> 
+> 
+> Thanks,
+> Gema
+> 
+> 
+> On 28/07/15 18:53, APlimpton wrote:
+> > Alright, voting is open. I know I have one, but which of you wonderful
+> > women have presentations in the running? Links please!
+> >
+> > Maybe we could put them on an Etherpad?
+> >
+> > Thanks,
+> > Amanda
+> >
+> >
+> > _______________________________________________
+> > Women-of-openstack mailing list
+> > Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> >
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org <mailto:Women-of-openstack at lists.openstack.org>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack <http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack>
+> 
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150729/3e7028f9/attachment.html>
+
+From neela at us.ibm.com  Wed Jul 29 22:10:10 2015
+From: neela at us.ibm.com (Neela Shah)
+Date: Wed, 29 Jul 2015 17:10:10 -0500
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <32983284-C3C0-4A77-A93C-B6CC0121F086@openstack.org>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+ <55B8A61E.3040508@ggomez.me>
+ <CAPrU3jGuNm04NL0wu=i36Zxh6QhFTUUVPSx8T84WK7xfwDKkjg@mail.gmail.com>
+ <CAB=Wp9e2zJjJb4-JW6chi+W0ffK9jyjqa1cmLXcYiZmFKcGV3A@mail.gmail.com>
+ <32983284-C3C0-4A77-A93C-B6CC0121F086@openstack.org>
+Message-ID: <OFB234FD0C.93A94987-ON85257E91.0079BC68-86257E91.0079C858@us.ibm.com>
+
+Yes, its turning blue. I am able to record my votes just fine.
+
+Thanks,
+Neela
+
+
+
+
+From:	Allison Price <allison at openstack.org>
+To:	Claire Delcourt <claire at nuagenetworks.net>
+Cc:	"women-of-openstack at lists.openstack.org"
+            <women-of-openstack at lists.openstack.org>, Jimmy McArthur
+            <jimmy at tipit.net>
+Date:	07/29/2015 05:00 PM
+Subject:	Re: [Women-of-openstack] Vote for your summit presentation?
+
+
+
+Hi Claire,
+
+When you click a particular option to vote, the button should turn blue to
+indicate your selection. Is this not happening?
+
+Thanks,
+Allison
+
+Allison Price
+OpenStack Marketing
+allison at openstack.org
+
+
+      On Jul 29, 2015, at 3:53 PM, Claire Delcourt <
+      claire at nuagenetworks.net> wrote:
+
+      Is it me or there is no way to see if the vote has been applied? When
+      I click on the button, there is no confirmation it was done. And I
+      can click as many times as I want.
+      I have the feeling I am doing something wrong...
+
+      On Wed, Jul 29, 2015 at 12:06 PM, Shilla Saebi <
+      shilla.saebi at gmail.com> wrote:
+        Thanks for all the support, here are a few more talks that include
+        women from our group:
+
+        https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3659
+
+
+        https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3792
+
+
+        https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5539
+
+
+        https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5544
+
+
+        Thank you!
+
+        Shilla
+
+
+
+
+        On Wed, Jul 29, 2015 at 6:08 AM, Gema Gomez <gema at ggomez.me> wrote:
+         Here are ours! Thanks in advance for any votes :D
+
+         *Testing Beyond the Gate - Openstack Tailgate*
+         https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4470
+
+
+         *Testing Beyond the Gate - Validating Production Clouds*
+         https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4463
+
+
+
+
+         Thanks,
+         Gema
+
+
+         On 28/07/15 18:53, APlimpton wrote:
+         > Alright, voting is open. I know I have one, but which of you
+         wonderful
+         > women have presentations in the running? Links please!
+         >
+         > Maybe we could put them on an Etherpad?
+         >
+         > Thanks,
+         > Amanda
+         >
+         >
+         > _______________________________________________
+         > Women-of-openstack mailing list
+         > Women-of-openstack at lists.openstack.org
+         >
+         http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+         >
+
+         _______________________________________________
+         Women-of-openstack mailing list
+         Women-of-openstack at lists.openstack.org
+         http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+        _______________________________________________
+        Women-of-openstack mailing list
+        Women-of-openstack at lists.openstack.org
+        http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+      _______________________________________________
+      Women-of-openstack mailing list
+      Women-of-openstack at lists.openstack.org
+      http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+
+
+From claire at nuagenetworks.net  Wed Jul 29 22:29:41 2015
+From: claire at nuagenetworks.net (Claire Delcourt)
+Date: Wed, 29 Jul 2015 15:29:41 -0700
+Subject: [Women-of-openstack] Vote for your summit presentation?
+In-Reply-To: <OFB234FD0C.93A94987-ON85257E91.0079BC68-86257E91.0079C858@us.ibm.com>
+References: <CA+8x=aoF2VhuG=-HNv9=cvJaBi7YRrJ99pVeeuZMdpH8To3mOw@mail.gmail.com>
+ <55B8A61E.3040508@ggomez.me>
+ <CAPrU3jGuNm04NL0wu=i36Zxh6QhFTUUVPSx8T84WK7xfwDKkjg@mail.gmail.com>
+ <CAB=Wp9e2zJjJb4-JW6chi+W0ffK9jyjqa1cmLXcYiZmFKcGV3A@mail.gmail.com>
+ <32983284-C3C0-4A77-A93C-B6CC0121F086@openstack.org>
+ <OFB234FD0C.93A94987-ON85257E91.0079BC68-86257E91.0079C858@us.ibm.com>
+Message-ID: <CAB=Wp9d3Vgopszhe6Kc6BGyOD6yBxOd+KN-MaV3Duz3EHmOz4Q@mail.gmail.com>
+
+Ho wow, now that you say it seems very obvious, I really did not notice
+before and I am not color blind ><
+Thank you Shilla and Gema!
+
+On Wed, Jul 29, 2015 at 3:10 PM, Neela Shah <neela at us.ibm.com> wrote:
+
+> Yes, its turning blue. I am able to record my votes just fine.
+>
+> Thanks,
+> Neela
+>
+>
+>
+>
+> From:   Allison Price <allison at openstack.org>
+> To:     Claire Delcourt <claire at nuagenetworks.net>
+> Cc:     "women-of-openstack at lists.openstack.org"
+>             <women-of-openstack at lists.openstack.org>, Jimmy McArthur
+>             <jimmy at tipit.net>
+> Date:   07/29/2015 05:00 PM
+> Subject:        Re: [Women-of-openstack] Vote for your summit presentation?
+>
+>
+>
+> Hi Claire,
+>
+> When you click a particular option to vote, the button should turn blue to
+> indicate your selection. Is this not happening?
+>
+> Thanks,
+> Allison
+>
+> Allison Price
+> OpenStack Marketing
+> allison at openstack.org
+>
+>
+>       On Jul 29, 2015, at 3:53 PM, Claire Delcourt <
+>       claire at nuagenetworks.net> wrote:
+>
+>       Is it me or there is no way to see if the vote has been applied? When
+>       I click on the button, there is no confirmation it was done. And I
+>       can click as many times as I want.
+>       I have the feeling I am doing something wrong...
+>
+>       On Wed, Jul 29, 2015 at 12:06 PM, Shilla Saebi <
+>       shilla.saebi at gmail.com> wrote:
+>         Thanks for all the support, here are a few more talks that include
+>         women from our group:
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3659
+>
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/3792
+>
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5539
+>
+>
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5544
+>
+>
+>         Thank you!
+>
+>         Shilla
+>
+>
+>
+>
+>         On Wed, Jul 29, 2015 at 6:08 AM, Gema Gomez <gema at ggomez.me>
+> wrote:
+>          Here are ours! Thanks in advance for any votes :D
+>
+>          *Testing Beyond the Gate - Openstack Tailgate*
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4470
+>
+>
+>          *Testing Beyond the Gate - Validating Production Clouds*
+>
+> https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/4463
+>
+>
+>
+>
+>          Thanks,
+>          Gema
+>
+>
+>          On 28/07/15 18:53, APlimpton wrote:
+>          > Alright, voting is open. I know I have one, but which of you
+>          wonderful
+>          > women have presentations in the running? Links please!
+>          >
+>          > Maybe we could put them on an Etherpad?
+>          >
+>          > Thanks,
+>          > Amanda
+>          >
+>          >
+>          > _______________________________________________
+>          > Women-of-openstack mailing list
+>          > Women-of-openstack at lists.openstack.org
+>          >
+>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>          >
+>
+>          _______________________________________________
+>          Women-of-openstack mailing list
+>          Women-of-openstack at lists.openstack.org
+>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>         _______________________________________________
+>         Women-of-openstack mailing list
+>         Women-of-openstack at lists.openstack.org
+>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>       _______________________________________________
+>       Women-of-openstack mailing list
+>       Women-of-openstack at lists.openstack.org
+>
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150729/69f6676b/attachment.html>
+
+From emma.l.foley at intel.com  Thu Jul 30 08:48:48 2015
+From: emma.l.foley at intel.com (Foley, Emma L)
+Date: Thu, 30 Jul 2015 08:48:48 +0000
+Subject: [Women-of-openstack]  Vote for your summit presentation?
+Message-ID: <0078AE486081F642B4747581212AD05F011F2754@IRSMSX109.ger.corp.intel.com>
+
+Hi ladies, 
+
+I'm new around here, but I'd be very happy if you could vote for this talk. (I didn't waste time, did I?)
+
+Telemetry for NFV in OpenStack
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/presentation/5749 
+
+Hopefully, I'll get to present at my first summit.
+Thanks in advance :)
+
+Regards,
+Emma
+--------------------------------------------------------------
+Intel Shannon Limited
+Registered in Ireland
+Registered Office: Collinstown Industrial Park, Leixlip, County Kildare
+Registered Number: 308263
+Business address: Dromore House, East Park, Shannon, Co. Clare
+
+This e-mail and any attachments may contain confidential material for the sole use of the intended recipient(s). Any review or distribution by others is strictly prohibited. If you are not the intended recipient, please contact the sender and delete all copies.
+
+
+
+
+From jeanne.colon-bonet at hp.com  Thu Jul 30 20:21:34 2015
+From: jeanne.colon-bonet at hp.com (Colon-Bonet, Jeanne)
+Date: Thu, 30 Jul 2015 20:21:34 +0000
+Subject: [Women-of-openstack] Vote for your summit presentation?
+Message-ID: <40C0F0AB86AB6545A465ABE578B8D83A15300739@G1W3653.americas.hpqcorp.net>
+
+Come one, come all, come sponsors of the OpenStack Summit to a session that it the first of its kind to rally to provide unique, amazing experiences for all attendees.
+
+If you are interested in Community: "Community Party Sponsorship - more than a concept"
+Please vote!  Thanks, Jeanne.
+
+https://www.openstack.org/summit/tokyo-2015/vote-for-speakers/Presentation/6219
+
+Jeanne Colon-Bonet
+Program Manager, Messaging & Outreach
+
+jeanne.colon-bonet at hp.com<mailto:jeanne.colon-bonet at hp.com>
+T +1 970 898-1646
+Hewlett-Packard Company
+3400 E Harmony Road
+Fort Collins, CO 80528
+USA
+
+[HP]<http://www.hp.com/>
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150730/19d73391/attachment.html>
+

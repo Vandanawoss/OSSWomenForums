@@ -1,0 +1,1318 @@
+From clytie@riverland.net.au  Tue Sep  6 23:53:45 2005
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0DA553B0E1D
+	for <gnome-women-list@mail.gnome.org>;
+	Tue,  6 Sep 2005 23:53:45 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 23967-02 for <gnome-women-list@mail.gnome.org>;
+	Tue,  6 Sep 2005 23:53:43 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id A6A1B3B0672
+	for <gnome-women-list@mail.gnome.org>;
+	Tue,  6 Sep 2005 23:53:42 -0400 (EDT)
+Received: from [10.1.1.91] (ppp201-1.lns1.adl4.internode.on.net
+	[203.122.201.1])
+	by ash25e.internode.on.net (8.12.9/8.12.6) with ESMTP id j873rep8094090
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 7 Sep 2005 13:23:41 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v734)
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+To: gnome-women-list@mail.gnome.org
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Wed, 7 Sep 2005 13:23:39 +0930
+X-Mailer: Apple Mail (2.734)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, hits=-4.8 tagged_above=-999.0 required=5.0 tests=BAYES_00, 
+	RCVD_IN_SORBS
+X-Spam-Level: 
+Subject: [gnome-women] The Gnome Foundation: representative?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 07 Sep 2005 03:53:45 -0000
+
+Hi everybody :)
+
+Sorry I haven't been active here: once Gnome finishes this release, =20
+life will calm down to something approaching normality, and I can do =20
+some of the things I have on my ToDo list, where G-W features =20
+prominently. :)
+
+I was just having a very quick look at the minutes of the Gnome =20
+Foundation board meeting ... and noticed there isn't a single woman =20
+on the board. :(
+
+I wonder if, firstly, we can get some stats on how many women there =20
+are in the Gnome Foundation to start with, and secondly, if we can =20
+start encouraging more women to join, and thus build up some =20
+probability that we might get a woman on the board.
+
+What do you think?
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+From sankarshan.mukhopadhyay@gmail.com  Thu Sep  8 01:38:39 2005
+Return-Path: <sankarshan.mukhopadhyay@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CA1153B1C07
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  8 Sep 2005 01:38:39 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 12738-10 for <gnome-women-list@mail.gnome.org>;
+	Thu,  8 Sep 2005 01:38:38 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id CECC63B0792
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  8 Sep 2005 01:38:37 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j885cXhN022468;
+	Thu, 8 Sep 2005 01:38:33 -0400
+Received: from lacrosse.corp.redhat.com (lacrosse.corp.redhat.com
+	[172.16.52.154])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j885cXV18801; 
+	Thu, 8 Sep 2005 01:38:33 -0400
+Received: from [172.16.37.65] (dhcp37-65.pnq.redhat.com [172.16.37.65])
+	by lacrosse.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j885cU107661; 
+	Thu, 8 Sep 2005 01:38:31 -0400
+Message-ID: <431FCDF2.8010600@gmail.com>
+Date: Thu, 08 Sep 2005 11:06:50 +0530
+From: Sankarshan Mukhopadhyay <sankarshan.mukhopadhyay@gmail.com>
+User-Agent: Mozilla Thunderbird 1.0.6-1.4.1 (X11/20050719)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] The Gnome Foundation: representative?
+References: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+In-Reply-To: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, hits=-4.9 tagged_above=-999.0 required=5.0 tests=BAYES_00
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 08 Sep 2005 05:38:40 -0000
+
+Clytie Siddall wrote:
+> I was just having a very quick look at the minutes of the Gnome 
+> Foundation board meeting ... and noticed there isn't a single woman  on
+> the board. :(
+
+Even though there are those who are GNOME members...
+
+> I wonder if, firstly, we can get some stats on how many women there  are
+> in the Gnome Foundation to start with, and secondly, if we can  start
+> encouraging more women to join, and thus build up some  probability that
+> we might get a woman on the board.
+
+It would be nice to see GNOME Women taking the lead in getting the
+developers to apply for membership to the GNOME Foundation. Getting a
+woman on board is not directly related to having women as members, but I
+would sure love to see that happen this time around.
+
+Rgds
+SM
+
+
+-- 
+
+You see things; and you say 'Why?';
+But I dream things that never were;
+and I say 'Why not?' - George Bernard Shaw
+From clytie@riverland.net.au  Tue Sep 13 04:51:57 2005
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EB3983B0A5F
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 04:51:56 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 31253-02 for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 04:51:54 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 321073B140B
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 04:51:51 -0400 (EDT)
+Received: from [10.1.1.91] (ppp206-124.lns1.adl2.internode.on.net
+	[203.122.206.124])
+	by ash25e.internode.on.net (8.12.9/8.12.6) with ESMTP id j8D8pkq7049970
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 18:21:47 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v734)
+In-Reply-To: <431FCDF2.8010600@gmail.com>
+References: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+	<431FCDF2.8010600@gmail.com>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <6CD51559-42A3-4AD5-932B-E96A517C63CF@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] The Gnome Foundation: representative?
+Date: Tue, 13 Sep 2005 18:21:45 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.734)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, hits=-4.8 tagged_above=-999.0 required=5.0 tests=BAYES_00, 
+	RCVD_IN_SORBS
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 13 Sep 2005 08:51:57 -0000
+
+
+On 08/09/2005, at 3:06 PM, Sankarshan Mukhopadhyay wrote:
+
+>> I wonder if, firstly, we can get some stats on how many women =20
+>> there  are
+>> in the Gnome Foundation to start with, and secondly, if we can  start
+>> encouraging more women to join, and thus build up some  =20
+>> probability that
+>> we might get a woman on the board.
+>
+> It would be nice to see GNOME Women taking the lead in getting the
+> developers to apply for membership to the GNOME Foundation. Getting a
+> woman on board is not directly related to having women as members, =20
+> but I
+> would sure love to see that happen this time around.
+
+It would be great, wouldn't it, Sankarshan? I wonder how we can help =20
+make this happen ... I know the constraint is always available time, =20
+but maybe we can get together some names of Gnome Women, and each =20
+approach a few and encourage them, firstly to apply for membership of =20=
+
+the foundation, and secondly, ask if they'd be interested in running =20
+for a place on the board, or know of anyone who would be interested.
+
+The difficult thing about a large online community like this, with =20
+everyone working hard at their own aspects of it, is that we don't =20
+really have a whole-community view of who's involved. I have some =20
+picture of the translation area, where I spend most of my time in =20
+Gnome, but I don't really know anyone outside that, apart from =20
+here :), and people who appear briefly on the translation list for =20
+individual purposes.
+
+I don't know how we create a central identity in the first place, let =20=
+
+alone get a view of it for all of us which shows us what we, women, =20
+are doing in Gnome, who we all are and what we want to do. Although =20
+we talk of being a community, we're really an assembly of lots of =20
+smaller communities, so it's hard to gain interest in any issue which =20=
+
+concerns the umbrella structure. How would we encourage people to =20
+vote for a specific candidate, in this case, a Gnome-Woman?
+
+We need a way to reach women in Gnome, get this Gnome-Women network =20
+working for us. It's a terrific idea, and we're creating some =20
+excellent resources. (I don't mean, get it working only for this =20
+issue, but in general, make it not only a part of life for women in =20
+Gnome, but an identity, a central strength that is all of us working =20
+together.)
+
+How, is another matter. :S
+
+This is just a general ramble, not a policy of any kind. ;)  I'm =20
+trying to get my head around the situation. Anyone who finds pieces =20
+of my head, please superglue them on the appropriate mount point. ;) =20
+Thankyou.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+From duffy@redhat.com  Tue Sep 20 15:12:05 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 160363B29C1
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:12:05 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 02377-07 for <gnome-women-list@gnome.org>;
+	Tue, 20 Sep 2005 15:12:03 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 2BED83B4D6C
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:58 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j8KJBv1x030339
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:57 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j8KJBqV31389
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:52 -0400
+Received: from dhcp83-19.boston.redhat.com
+	(IDENT:U2FsdGVkX1/N2OSN+MhmxkxA95guV4vIGL+eQawVAyQ@dhcp83-19.boston.redhat.com
+	[172.16.83.19])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j8KJBq48000782
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:52 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain
+Organization: Red Hat, Inc.
+Date: Tue, 20 Sep 2005 15:11:51 -0400
+Message-Id: <1127243511.3785.20.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-16) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] GNOME Women at the GNOME Summit Boston Oct. 8-10
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Sep 2005 19:12:05 -0000
+
+Hi guys,
+
+Just wanted to shout out that Diana and I are going to be at the GNOME
+Summit at MIT. I heard in the channel that ChipX86, spooklight, and jdub
+are going to be there too.
+
+If you're in the Boston area (or can get there easily) that weekend,
+here are some details:
+
+http://live.gnome.org/Boston2005  is the main page;
+
+http://live.gnome.org/Boston2005_2fTheSchedule current schedule of
+events;
+
+http://live.gnome.org/Boston2005_2fBreakoutSessions list of breakout
+session suggestions, if there's enough interest maybe we could hold one
+for GNOME Women?
+
+~m
+
+From johnp@redhat.com  Tue Sep 20 16:32:53 2005
+Return-Path: <johnp@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 16A6E3B4DE0
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 16:32:53 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 06869-02 for <gnome-women-list@gnome.org>;
+	Tue, 20 Sep 2005 16:32:50 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 45C763B2BD3
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 16:32:50 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j8KKWnIp028359
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 16:32:49 -0400
+Received: from devserv.devel.redhat.com (devserv.devel.redhat.com
+	[172.16.58.1])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j8KKWnV26778; 
+	Tue, 20 Sep 2005 16:32:49 -0400
+Received: from localhost.localdomain (sebastian-int.corp.redhat.com
+	[172.16.52.221])
+	by devserv.devel.redhat.com (8.12.11/8.12.11) with ESMTP id
+	j8KKWnPG015356; Tue, 20 Sep 2005 16:32:49 -0400
+Subject: Re: [gnome-women] GNOME Women at the GNOME Summit Boston Oct. 8-10
+From: "John (J5) Palmieri" <johnp@redhat.com>
+To: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+In-Reply-To: <1127243511.3785.20.camel@localhost.localdomain>
+References: <1127243511.3785.20.camel@localhost.localdomain>
+Content-Type: text/plain; charset=utf-8
+Date: Tue, 20 Sep 2005 16:31:40 -0400
+Message-Id: <1127248300.18434.12.camel@dhcp83-37.boston.redhat.com>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.4.0 (2.4.0-1) 
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: gnome-women-list@gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Sep 2005 20:32:53 -0000
+
+On Tue, 2005-09-20 at 15:11 -0400, Máirín Duffy wrote:
+> Hi guys,
+> 
+> Just wanted to shout out that Diana and I are going to be at the GNOME
+> Summit at MIT. I heard in the channel that ChipX86, spooklight, and jdub
+> are going to be there too.
+> 
+> If you're in the Boston area (or can get there easily) that weekend,
+> here are some details:
+> 
+> http://live.gnome.org/Boston2005  is the main page;
+> 
+> http://live.gnome.org/Boston2005_2fTheSchedule current schedule of
+> events;
+> 
+> http://live.gnome.org/Boston2005_2fBreakoutSessions list of breakout
+> session suggestions, if there's enough interest maybe we could hold one
+> for GNOME Women?
+
+Better suggestion - why don't one of you give a talk?  I for one would
+like to hear about initiatives in-place (not just in Gnome-Women but all
+other Open Source and technology groups) and the reasons for needing
+such initiatives.  A brief overview of the history of woman in
+technology and their contributions to Gnome (direct or indirect) and why
+it is so important that we keep encouraging these contributions would be
+very informative.
+
+If anything I encourage you do the 5 minute speed talk but a full length
+talk would be even better.
+
+-- 
+John (J5) Palmieri <johnp@redhat.com>
+
+From clytie@riverland.net.au  Tue Sep  6 23:53:45 2005
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0DA553B0E1D
+	for <gnome-women-list@mail.gnome.org>;
+	Tue,  6 Sep 2005 23:53:45 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 23967-02 for <gnome-women-list@mail.gnome.org>;
+	Tue,  6 Sep 2005 23:53:43 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id A6A1B3B0672
+	for <gnome-women-list@mail.gnome.org>;
+	Tue,  6 Sep 2005 23:53:42 -0400 (EDT)
+Received: from [10.1.1.91] (ppp201-1.lns1.adl4.internode.on.net
+	[203.122.201.1])
+	by ash25e.internode.on.net (8.12.9/8.12.6) with ESMTP id j873rep8094090
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 7 Sep 2005 13:23:41 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v734)
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+To: gnome-women-list@mail.gnome.org
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Wed, 7 Sep 2005 13:23:39 +0930
+X-Mailer: Apple Mail (2.734)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, hits=-4.8 tagged_above=-999.0 required=5.0 tests=BAYES_00, 
+	RCVD_IN_SORBS
+X-Spam-Level: 
+Subject: [gnome-women] The Gnome Foundation: representative?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 07 Sep 2005 03:53:45 -0000
+
+Hi everybody :)
+
+Sorry I haven't been active here: once Gnome finishes this release, =20
+life will calm down to something approaching normality, and I can do =20
+some of the things I have on my ToDo list, where G-W features =20
+prominently. :)
+
+I was just having a very quick look at the minutes of the Gnome =20
+Foundation board meeting ... and noticed there isn't a single woman =20
+on the board. :(
+
+I wonder if, firstly, we can get some stats on how many women there =20
+are in the Gnome Foundation to start with, and secondly, if we can =20
+start encouraging more women to join, and thus build up some =20
+probability that we might get a woman on the board.
+
+What do you think?
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From sankarshan.mukhopadhyay@gmail.com  Thu Sep  8 01:38:39 2005
+Return-Path: <sankarshan.mukhopadhyay@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CA1153B1C07
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  8 Sep 2005 01:38:39 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 12738-10 for <gnome-women-list@mail.gnome.org>;
+	Thu,  8 Sep 2005 01:38:38 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id CECC63B0792
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  8 Sep 2005 01:38:37 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j885cXhN022468;
+	Thu, 8 Sep 2005 01:38:33 -0400
+Received: from lacrosse.corp.redhat.com (lacrosse.corp.redhat.com
+	[172.16.52.154])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j885cXV18801; 
+	Thu, 8 Sep 2005 01:38:33 -0400
+Received: from [172.16.37.65] (dhcp37-65.pnq.redhat.com [172.16.37.65])
+	by lacrosse.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j885cU107661; 
+	Thu, 8 Sep 2005 01:38:31 -0400
+Message-ID: <431FCDF2.8010600@gmail.com>
+Date: Thu, 08 Sep 2005 11:06:50 +0530
+From: Sankarshan Mukhopadhyay <sankarshan.mukhopadhyay@gmail.com>
+User-Agent: Mozilla Thunderbird 1.0.6-1.4.1 (X11/20050719)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] The Gnome Foundation: representative?
+References: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+In-Reply-To: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, hits=-4.9 tagged_above=-999.0 required=5.0 tests=BAYES_00
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 08 Sep 2005 05:38:40 -0000
+
+Clytie Siddall wrote:
+> I was just having a very quick look at the minutes of the Gnome 
+> Foundation board meeting ... and noticed there isn't a single woman  on
+> the board. :(
+
+Even though there are those who are GNOME members...
+
+> I wonder if, firstly, we can get some stats on how many women there  are
+> in the Gnome Foundation to start with, and secondly, if we can  start
+> encouraging more women to join, and thus build up some  probability that
+> we might get a woman on the board.
+
+It would be nice to see GNOME Women taking the lead in getting the
+developers to apply for membership to the GNOME Foundation. Getting a
+woman on board is not directly related to having women as members, but I
+would sure love to see that happen this time around.
+
+Rgds
+SM
+
+
+-- 
+
+You see things; and you say 'Why?';
+But I dream things that never were;
+and I say 'Why not?' - George Bernard Shaw
+
+From clytie@riverland.net.au  Tue Sep 13 04:51:57 2005
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EB3983B0A5F
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 04:51:56 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 31253-02 for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 04:51:54 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 321073B140B
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 04:51:51 -0400 (EDT)
+Received: from [10.1.1.91] (ppp206-124.lns1.adl2.internode.on.net
+	[203.122.206.124])
+	by ash25e.internode.on.net (8.12.9/8.12.6) with ESMTP id j8D8pkq7049970
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 18:21:47 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v734)
+In-Reply-To: <431FCDF2.8010600@gmail.com>
+References: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+	<431FCDF2.8010600@gmail.com>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <6CD51559-42A3-4AD5-932B-E96A517C63CF@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] The Gnome Foundation: representative?
+Date: Tue, 13 Sep 2005 18:21:45 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.734)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, hits=-4.8 tagged_above=-999.0 required=5.0 tests=BAYES_00, 
+	RCVD_IN_SORBS
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 13 Sep 2005 08:51:57 -0000
+
+
+On 08/09/2005, at 3:06 PM, Sankarshan Mukhopadhyay wrote:
+
+>> I wonder if, firstly, we can get some stats on how many women =20
+>> there  are
+>> in the Gnome Foundation to start with, and secondly, if we can  start
+>> encouraging more women to join, and thus build up some  =20
+>> probability that
+>> we might get a woman on the board.
+>
+> It would be nice to see GNOME Women taking the lead in getting the
+> developers to apply for membership to the GNOME Foundation. Getting a
+> woman on board is not directly related to having women as members, =20
+> but I
+> would sure love to see that happen this time around.
+
+It would be great, wouldn't it, Sankarshan? I wonder how we can help =20
+make this happen ... I know the constraint is always available time, =20
+but maybe we can get together some names of Gnome Women, and each =20
+approach a few and encourage them, firstly to apply for membership of =20=
+
+the foundation, and secondly, ask if they'd be interested in running =20
+for a place on the board, or know of anyone who would be interested.
+
+The difficult thing about a large online community like this, with =20
+everyone working hard at their own aspects of it, is that we don't =20
+really have a whole-community view of who's involved. I have some =20
+picture of the translation area, where I spend most of my time in =20
+Gnome, but I don't really know anyone outside that, apart from =20
+here :), and people who appear briefly on the translation list for =20
+individual purposes.
+
+I don't know how we create a central identity in the first place, let =20=
+
+alone get a view of it for all of us which shows us what we, women, =20
+are doing in Gnome, who we all are and what we want to do. Although =20
+we talk of being a community, we're really an assembly of lots of =20
+smaller communities, so it's hard to gain interest in any issue which =20=
+
+concerns the umbrella structure. How would we encourage people to =20
+vote for a specific candidate, in this case, a Gnome-Woman?
+
+We need a way to reach women in Gnome, get this Gnome-Women network =20
+working for us. It's a terrific idea, and we're creating some =20
+excellent resources. (I don't mean, get it working only for this =20
+issue, but in general, make it not only a part of life for women in =20
+Gnome, but an identity, a central strength that is all of us working =20
+together.)
+
+How, is another matter. :S
+
+This is just a general ramble, not a policy of any kind. ;)  I'm =20
+trying to get my head around the situation. Anyone who finds pieces =20
+of my head, please superglue them on the appropriate mount point. ;) =20
+Thankyou.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From duffy@redhat.com  Tue Sep 20 15:12:05 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 160363B29C1
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:12:05 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 02377-07 for <gnome-women-list@gnome.org>;
+	Tue, 20 Sep 2005 15:12:03 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 2BED83B4D6C
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:58 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j8KJBv1x030339
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:57 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j8KJBqV31389
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:52 -0400
+Received: from dhcp83-19.boston.redhat.com
+	(IDENT:U2FsdGVkX1/N2OSN+MhmxkxA95guV4vIGL+eQawVAyQ@dhcp83-19.boston.redhat.com
+	[172.16.83.19])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j8KJBq48000782
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:52 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain
+Organization: Red Hat, Inc.
+Date: Tue, 20 Sep 2005 15:11:51 -0400
+Message-Id: <1127243511.3785.20.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-16) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] GNOME Women at the GNOME Summit Boston Oct. 8-10
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Sep 2005 19:12:05 -0000
+
+Hi guys,
+
+Just wanted to shout out that Diana and I are going to be at the GNOME
+Summit at MIT. I heard in the channel that ChipX86, spooklight, and jdub
+are going to be there too.
+
+If you're in the Boston area (or can get there easily) that weekend,
+here are some details:
+
+http://live.gnome.org/Boston2005  is the main page;
+
+http://live.gnome.org/Boston2005_2fTheSchedule current schedule of
+events;
+
+http://live.gnome.org/Boston2005_2fBreakoutSessions list of breakout
+session suggestions, if there's enough interest maybe we could hold one
+for GNOME Women?
+
+~m
+
+
+From johnp@redhat.com  Tue Sep 20 16:32:53 2005
+Return-Path: <johnp@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 16A6E3B4DE0
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 16:32:53 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 06869-02 for <gnome-women-list@gnome.org>;
+	Tue, 20 Sep 2005 16:32:50 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 45C763B2BD3
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 16:32:50 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j8KKWnIp028359
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 16:32:49 -0400
+Received: from devserv.devel.redhat.com (devserv.devel.redhat.com
+	[172.16.58.1])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j8KKWnV26778; 
+	Tue, 20 Sep 2005 16:32:49 -0400
+Received: from localhost.localdomain (sebastian-int.corp.redhat.com
+	[172.16.52.221])
+	by devserv.devel.redhat.com (8.12.11/8.12.11) with ESMTP id
+	j8KKWnPG015356; Tue, 20 Sep 2005 16:32:49 -0400
+Subject: Re: [gnome-women] GNOME Women at the GNOME Summit Boston Oct. 8-10
+From: "John (J5) Palmieri" <johnp@redhat.com>
+To: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+In-Reply-To: <1127243511.3785.20.camel@localhost.localdomain>
+References: <1127243511.3785.20.camel@localhost.localdomain>
+Content-Type: text/plain; charset=utf-8
+Date: Tue, 20 Sep 2005 16:31:40 -0400
+Message-Id: <1127248300.18434.12.camel@dhcp83-37.boston.redhat.com>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.4.0 (2.4.0-1) 
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: gnome-women-list@gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Sep 2005 20:32:53 -0000
+
+On Tue, 2005-09-20 at 15:11 -0400, Máirín Duffy wrote:
+> Hi guys,
+> 
+> Just wanted to shout out that Diana and I are going to be at the GNOME
+> Summit at MIT. I heard in the channel that ChipX86, spooklight, and jdub
+> are going to be there too.
+> 
+> If you're in the Boston area (or can get there easily) that weekend,
+> here are some details:
+> 
+> http://live.gnome.org/Boston2005  is the main page;
+> 
+> http://live.gnome.org/Boston2005_2fTheSchedule current schedule of
+> events;
+> 
+> http://live.gnome.org/Boston2005_2fBreakoutSessions list of breakout
+> session suggestions, if there's enough interest maybe we could hold one
+> for GNOME Women?
+
+Better suggestion - why don't one of you give a talk?  I for one would
+like to hear about initiatives in-place (not just in Gnome-Women but all
+other Open Source and technology groups) and the reasons for needing
+such initiatives.  A brief overview of the history of woman in
+technology and their contributions to Gnome (direct or indirect) and why
+it is so important that we keep encouraging these contributions would be
+very informative.
+
+If anything I encourage you do the 5 minute speed talk but a full length
+talk would be even better.
+
+-- 
+John (J5) Palmieri <johnp@redhat.com>
+
+
+From clytie@riverland.net.au  Tue Sep  6 23:53:45 2005
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0DA553B0E1D
+	for <gnome-women-list@mail.gnome.org>;
+	Tue,  6 Sep 2005 23:53:45 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 23967-02 for <gnome-women-list@mail.gnome.org>;
+	Tue,  6 Sep 2005 23:53:43 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id A6A1B3B0672
+	for <gnome-women-list@mail.gnome.org>;
+	Tue,  6 Sep 2005 23:53:42 -0400 (EDT)
+Received: from [10.1.1.91] (ppp201-1.lns1.adl4.internode.on.net
+	[203.122.201.1])
+	by ash25e.internode.on.net (8.12.9/8.12.6) with ESMTP id j873rep8094090
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 7 Sep 2005 13:23:41 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v734)
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+To: gnome-women-list@mail.gnome.org
+From: Clytie Siddall <clytie@riverland.net.au>
+Date: Wed, 7 Sep 2005 13:23:39 +0930
+X-Mailer: Apple Mail (2.734)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, hits=-4.8 tagged_above=-999.0 required=5.0 tests=BAYES_00, 
+	RCVD_IN_SORBS
+X-Spam-Level: 
+Subject: [gnome-women] The Gnome Foundation: representative?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 07 Sep 2005 03:53:45 -0000
+
+Hi everybody :)
+
+Sorry I haven't been active here: once Gnome finishes this release, =20
+life will calm down to something approaching normality, and I can do =20
+some of the things I have on my ToDo list, where G-W features =20
+prominently. :)
+
+I was just having a very quick look at the minutes of the Gnome =20
+Foundation board meeting ... and noticed there isn't a single woman =20
+on the board. :(
+
+I wonder if, firstly, we can get some stats on how many women there =20
+are in the Gnome Foundation to start with, and secondly, if we can =20
+start encouraging more women to join, and thus build up some =20
+probability that we might get a woman on the board.
+
+What do you think?
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From sankarshan.mukhopadhyay@gmail.com  Thu Sep  8 01:38:39 2005
+Return-Path: <sankarshan.mukhopadhyay@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CA1153B1C07
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  8 Sep 2005 01:38:39 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 12738-10 for <gnome-women-list@mail.gnome.org>;
+	Thu,  8 Sep 2005 01:38:38 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id CECC63B0792
+	for <gnome-women-list@mail.gnome.org>;
+	Thu,  8 Sep 2005 01:38:37 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j885cXhN022468;
+	Thu, 8 Sep 2005 01:38:33 -0400
+Received: from lacrosse.corp.redhat.com (lacrosse.corp.redhat.com
+	[172.16.52.154])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j885cXV18801; 
+	Thu, 8 Sep 2005 01:38:33 -0400
+Received: from [172.16.37.65] (dhcp37-65.pnq.redhat.com [172.16.37.65])
+	by lacrosse.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j885cU107661; 
+	Thu, 8 Sep 2005 01:38:31 -0400
+Message-ID: <431FCDF2.8010600@gmail.com>
+Date: Thu, 08 Sep 2005 11:06:50 +0530
+From: Sankarshan Mukhopadhyay <sankarshan.mukhopadhyay@gmail.com>
+User-Agent: Mozilla Thunderbird 1.0.6-1.4.1 (X11/20050719)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] The Gnome Foundation: representative?
+References: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+In-Reply-To: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, hits=-4.9 tagged_above=-999.0 required=5.0 tests=BAYES_00
+X-Spam-Level: 
+Cc: gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 08 Sep 2005 05:38:40 -0000
+
+Clytie Siddall wrote:
+> I was just having a very quick look at the minutes of the Gnome 
+> Foundation board meeting ... and noticed there isn't a single woman  on
+> the board. :(
+
+Even though there are those who are GNOME members...
+
+> I wonder if, firstly, we can get some stats on how many women there  are
+> in the Gnome Foundation to start with, and secondly, if we can  start
+> encouraging more women to join, and thus build up some  probability that
+> we might get a woman on the board.
+
+It would be nice to see GNOME Women taking the lead in getting the
+developers to apply for membership to the GNOME Foundation. Getting a
+woman on board is not directly related to having women as members, but I
+would sure love to see that happen this time around.
+
+Rgds
+SM
+
+
+-- 
+
+You see things; and you say 'Why?';
+But I dream things that never were;
+and I say 'Why not?' - George Bernard Shaw
+
+From clytie@riverland.net.au  Tue Sep 13 04:51:57 2005
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EB3983B0A5F
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 04:51:56 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 31253-02 for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 04:51:54 -0400 (EDT)
+Received: from ash25e.internode.on.net (ash25e.internode.on.net
+	[203.16.214.182])
+	by menubar.gnome.org (Postfix) with ESMTP id 321073B140B
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 04:51:51 -0400 (EDT)
+Received: from [10.1.1.91] (ppp206-124.lns1.adl2.internode.on.net
+	[203.122.206.124])
+	by ash25e.internode.on.net (8.12.9/8.12.6) with ESMTP id j8D8pkq7049970
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 13 Sep 2005 18:21:47 +0930 (CST)
+	(envelope-from clytie@riverland.net.au)
+Mime-Version: 1.0 (Apple Message framework v734)
+In-Reply-To: <431FCDF2.8010600@gmail.com>
+References: <713A337E-DF69-4ED6-93FC-7AA02C9AD8DE@riverland.net.au>
+	<431FCDF2.8010600@gmail.com>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <6CD51559-42A3-4AD5-932B-E96A517C63CF@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] The Gnome Foundation: representative?
+Date: Tue, 13 Sep 2005 18:21:45 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.734)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, hits=-4.8 tagged_above=-999.0 required=5.0 tests=BAYES_00, 
+	RCVD_IN_SORBS
+X-Spam-Level: 
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 13 Sep 2005 08:51:57 -0000
+
+
+On 08/09/2005, at 3:06 PM, Sankarshan Mukhopadhyay wrote:
+
+>> I wonder if, firstly, we can get some stats on how many women =20
+>> there  are
+>> in the Gnome Foundation to start with, and secondly, if we can  start
+>> encouraging more women to join, and thus build up some  =20
+>> probability that
+>> we might get a woman on the board.
+>
+> It would be nice to see GNOME Women taking the lead in getting the
+> developers to apply for membership to the GNOME Foundation. Getting a
+> woman on board is not directly related to having women as members, =20
+> but I
+> would sure love to see that happen this time around.
+
+It would be great, wouldn't it, Sankarshan? I wonder how we can help =20
+make this happen ... I know the constraint is always available time, =20
+but maybe we can get together some names of Gnome Women, and each =20
+approach a few and encourage them, firstly to apply for membership of =20=
+
+the foundation, and secondly, ask if they'd be interested in running =20
+for a place on the board, or know of anyone who would be interested.
+
+The difficult thing about a large online community like this, with =20
+everyone working hard at their own aspects of it, is that we don't =20
+really have a whole-community view of who's involved. I have some =20
+picture of the translation area, where I spend most of my time in =20
+Gnome, but I don't really know anyone outside that, apart from =20
+here :), and people who appear briefly on the translation list for =20
+individual purposes.
+
+I don't know how we create a central identity in the first place, let =20=
+
+alone get a view of it for all of us which shows us what we, women, =20
+are doing in Gnome, who we all are and what we want to do. Although =20
+we talk of being a community, we're really an assembly of lots of =20
+smaller communities, so it's hard to gain interest in any issue which =20=
+
+concerns the umbrella structure. How would we encourage people to =20
+vote for a specific candidate, in this case, a Gnome-Woman?
+
+We need a way to reach women in Gnome, get this Gnome-Women network =20
+working for us. It's a terrific idea, and we're creating some =20
+excellent resources. (I don't mean, get it working only for this =20
+issue, but in general, make it not only a part of life for women in =20
+Gnome, but an identity, a central strength that is all of us working =20
+together.)
+
+How, is another matter. :S
+
+This is just a general ramble, not a policy of any kind. ;)  I'm =20
+trying to get my head around the situation. Anyone who finds pieces =20
+of my head, please superglue them on the appropriate mount point. ;) =20
+Thankyou.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+http://groups-beta.google.com/group/vi-VN
+
+
+
+From duffy@redhat.com  Tue Sep 20 15:12:05 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 160363B29C1
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:12:05 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 02377-07 for <gnome-women-list@gnome.org>;
+	Tue, 20 Sep 2005 15:12:03 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 2BED83B4D6C
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:58 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j8KJBv1x030339
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:57 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j8KJBqV31389
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:52 -0400
+Received: from dhcp83-19.boston.redhat.com
+	(IDENT:U2FsdGVkX1/N2OSN+MhmxkxA95guV4vIGL+eQawVAyQ@dhcp83-19.boston.redhat.com
+	[172.16.83.19])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j8KJBq48000782
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 15:11:52 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain
+Organization: Red Hat, Inc.
+Date: Tue, 20 Sep 2005 15:11:51 -0400
+Message-Id: <1127243511.3785.20.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-16) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: 
+Subject: [gnome-women] GNOME Women at the GNOME Summit Boston Oct. 8-10
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Sep 2005 19:12:05 -0000
+
+Hi guys,
+
+Just wanted to shout out that Diana and I are going to be at the GNOME
+Summit at MIT. I heard in the channel that ChipX86, spooklight, and jdub
+are going to be there too.
+
+If you're in the Boston area (or can get there easily) that weekend,
+here are some details:
+
+http://live.gnome.org/Boston2005  is the main page;
+
+http://live.gnome.org/Boston2005_2fTheSchedule current schedule of
+events;
+
+http://live.gnome.org/Boston2005_2fBreakoutSessions list of breakout
+session suggestions, if there's enough interest maybe we could hold one
+for GNOME Women?
+
+~m
+
+
+From johnp@redhat.com  Tue Sep 20 16:32:53 2005
+Return-Path: <johnp@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 16A6E3B4DE0
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 16:32:53 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 06869-02 for <gnome-women-list@gnome.org>;
+	Tue, 20 Sep 2005 16:32:50 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 45C763B2BD3
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 16:32:50 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j8KKWnIp028359
+	for <gnome-women-list@gnome.org>; Tue, 20 Sep 2005 16:32:49 -0400
+Received: from devserv.devel.redhat.com (devserv.devel.redhat.com
+	[172.16.58.1])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j8KKWnV26778; 
+	Tue, 20 Sep 2005 16:32:49 -0400
+Received: from localhost.localdomain (sebastian-int.corp.redhat.com
+	[172.16.52.221])
+	by devserv.devel.redhat.com (8.12.11/8.12.11) with ESMTP id
+	j8KKWnPG015356; Tue, 20 Sep 2005 16:32:49 -0400
+Subject: Re: [gnome-women] GNOME Women at the GNOME Summit Boston Oct. 8-10
+From: "John (J5) Palmieri" <johnp@redhat.com>
+To: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+In-Reply-To: <1127243511.3785.20.camel@localhost.localdomain>
+References: <1127243511.3785.20.camel@localhost.localdomain>
+Content-Type: text/plain; charset=utf-8
+Date: Tue, 20 Sep 2005 16:31:40 -0400
+Message-Id: <1127248300.18434.12.camel@dhcp83-37.boston.redhat.com>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.4.0 (2.4.0-1) 
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-4.9 tagged_above=-999 required=2 tests=[BAYES_00]
+X-Spam-Score: -4.9
+X-Spam-Level: 
+Cc: gnome-women-list@gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 20 Sep 2005 20:32:53 -0000
+
+On Tue, 2005-09-20 at 15:11 -0400, Máirín Duffy wrote:
+> Hi guys,
+> 
+> Just wanted to shout out that Diana and I are going to be at the GNOME
+> Summit at MIT. I heard in the channel that ChipX86, spooklight, and jdub
+> are going to be there too.
+> 
+> If you're in the Boston area (or can get there easily) that weekend,
+> here are some details:
+> 
+> http://live.gnome.org/Boston2005  is the main page;
+> 
+> http://live.gnome.org/Boston2005_2fTheSchedule current schedule of
+> events;
+> 
+> http://live.gnome.org/Boston2005_2fBreakoutSessions list of breakout
+> session suggestions, if there's enough interest maybe we could hold one
+> for GNOME Women?
+
+Better suggestion - why don't one of you give a talk?  I for one would
+like to hear about initiatives in-place (not just in Gnome-Women but all
+other Open Source and technology groups) and the reasons for needing
+such initiatives.  A brief overview of the history of woman in
+technology and their contributions to Gnome (direct or indirect) and why
+it is so important that we keep encouraging these contributions would be
+very informative.
+
+If anything I encourage you do the 5 minute speed talk but a full length
+talk would be even better.
+
+-- 
+John (J5) Palmieri <johnp@redhat.com>
+
+

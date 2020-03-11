@@ -1,0 +1,21 @@
+From vid at svaksha.com  Mon Aug  3 06:00:35 2009
+From: vid at svaksha.com (vid)
+Date: Mon, 3 Aug 2009 09:30:35 +0530
+Subject: [Kde-women] Call for diversity
+In-Reply-To: <12470af00908022059o42b94b42sb40968ed6f5f2875@mail.gmail.com>
+References: <12470af00908022059o42b94b42sb40968ed6f5f2875@mail.gmail.com>
+Message-ID: <12470af00908022100k2e71ec3aic57d8e260513d8a2@mail.gmail.com>
+
+Hi,
+
+Aahz from the Python programming language community had sent a call
+for diversity[0]. If you are from the Python community, you might be
+interested in joining the discussions on the diversity list[1].
+
+[0] http://mail.python.org/pipermail/python-announce-list/2009-July/007673.html
+[1] http://mail.python.org/mailman/listinfo/diversity
+
+-- 
+thanks
+|| vid || http://www.svaksha.com ||
+

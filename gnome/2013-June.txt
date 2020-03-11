@@ -1,0 +1,394 @@
+From danny.piccirillo@gmail.com  Sun Jun 30 01:38:32 2013
+Return-Path: <danny.piccirillo@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id A9A0E76A7E
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 30 Jun 2013 01:38:32 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.588
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.588 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, NORMAL_HTTP_TO_IP=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001, T_REMOTE_IMAGE=0.01]
+	autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id GpzoRtFG4B9k for <gnome-women-list@mail.gnome.org>;
+	Sun, 30 Jun 2013 01:38:29 +0000 (UTC)
+Received: from mail-oa0-f54.google.com (mail-oa0-f54.google.com
+	[209.85.219.54])
+	by restaurant.gnome.org (Postfix) with ESMTP id 0D5C5760A8
+	for <gnome-women-list@mail.gnome.org>;
+	Sun, 30 Jun 2013 01:38:20 +0000 (UTC)
+Received: by mail-oa0-f54.google.com with SMTP id o6so3657452oag.13
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 29 Jun 2013 18:38:19 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:sender:from:date:x-google-sender-auth:message-id
+	:subject:to:content-type;
+	bh=DUfqqGguuiaH3yHWMZECVzv/44/mQmvQJcMszHurV6o=;
+	b=cM1rXdm8u4lwkcsqzbcU6N87zHbWWFYjt2HH+Le6TVVNCok8cpoLr5DwSnN03/jXMT
+	jjSU4mdLiUVkLHYM9xT0mpZ0uU4pxiIF6KLL5Jq1i232s544z2BHAxoMZkgIMmZUQQbe
+	CWH+oC4hZr/HEjBsvFOJDbxEhyytr6HTYaK5W0MJHV2S2aEgc2LaPlTHon6NgDOI8AYS
+	tFigvLYbNuNWSwf2NSunLLf5StrbR4H3VvFmI6teSJuFnDG4LD/JH0BHVC12L5SiLyyC
+	OCCi30BuslpL0ubXwMI4J8+529coKJLv113JtNTOQDUwDojykSwDNmlq5FQM7hr9pNyl
+	ex9g==
+X-Received: by 10.182.165.232 with SMTP id zb8mr8835039obb.101.1372556298925; 
+	Sat, 29 Jun 2013 18:38:18 -0700 (PDT)
+MIME-Version: 1.0
+Sender: danny.piccirillo@gmail.com
+Received: by 10.76.94.36 with HTTP; Sat, 29 Jun 2013 18:37:58 -0700 (PDT)
+From: =?UTF-8?B?S+G6j3Jh?= <kxra@riseup.net>
+Date: Sat, 29 Jun 2013 21:37:58 -0400
+X-Google-Sender-Auth: EXIzRUjXfZxFcu-_T2S8DNi78O8
+Message-ID: <CABhyRUiVm-Z4c4iTA1C2jL+sXAzi=Xgg_BfAvJEoVD2O+y7SVQ@mail.gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=001a11c2ea2ca1befe04e0552a51
+Subject: [gnome-women] Please signal boost the Empowermentors Collective!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 30 Jun 2013 01:38:32 -0000
+
+--001a11c2ea2ca1befe04e0552a51
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+  I'm working really hard on reaching out to other intersectionally
+marginalized POC to join the Empowermentors Collective! Here's a post and
+some pretty graphics I spent hours making to help spread the word:
+
+
+[image: Please signal boost the Empowermentors Collective! Use these
+posters to share and spread the word. On liberalism, assimilation, and
+multiculturalism: We are not just another diversifySTEM=E2=84=A2 organizati=
+on
+aiming to integrate &#8220;minority" groups into the so-called &#8220;open
+source" community. We are creating our own space. We combine a critical
+passion for technology and digital media arts with our work towards POC
+empowerment, disability justice, decolonization, queer liberation, prison
+abolition, the destabilization of patriarchy, and other struggles we share.
+Learn more and join us: This is not a space for white allies. We do not
+(yet) have plans for such a space, but appreciate any support and help
+spreading the word! Wiki page http://freeculture.org/empowermentors Mailing
+list http://lists.libreplanet.org/mailman/listinfo/empowermentors Chat room
+(#empowermentors on Freenode)
+http://webchat.freenode.net/?channels=3Dempowermentors [[MORE]] About us: T=
+he
+Empowermentors Collective is a skillshare, activism, and discussion network
+for intersectionally marginalized people of color in the free culture and
+free software movement. We see radical potential in free culture and free
+software (often marketed as &#8220;open source software") to work against
+ableism, racism, cissexism, heterosexism, sexism, and classism. We say
+&#8220;intersectionally marginalized" to refer to people of color who
+experience intersectionality, that is, the interactions of multiple systems
+of oppression. This means we are open to all people of color with
+disabilities, trans* people of color, queer people of color, women of
+color, class oppressed people of color, etc. We are called Empowermentors
+because we focus on sharing knowledge and technical skills, producing free
+software and free media, and learning about and from each other. In this
+way we are being mentors for one another to empower ourselves. Driving
+questions: What dangers lie in private ownership over media and software as
+it concentrates power over technology &amp; telecommunications? How are
+race, gender, sexuality, class, and other cultural meanings coded into
+technology? Does free culture necessarily topple or reproduce those in
+power? Can we reconcile opposing both permission culture &amp; cultural
+appropriation? Why do movements aiming to represent everyone often leave
+out already marginalized groups? Why does openness and meritocracy
+frequently lead to exclusion? When does equal treatment ignore preexisting
+differences in power, privilege, &amp; access? Where do wefit into the free
+sotware &amp; free culture community as queer people of color, women of
+color, POC with disabilities, etc.&#160;? Who does the free software &amp;
+free culture movement fight for&#8230;and who is leading it? View in flyer
+form as a png or
+pdf]<http://25.media.tumblr.com/49172d339ba66736da6015c0c3e992cc/tumblr_mp2=
+nz9fOhp1qakddfo1_r1_1280.png>
+ *Please signal boost the Empowermentors
+Collective!<http://kxra.info/page/view-page-slug/2/please-signal-boost-the-=
+empowermentors-collective>
+*
+
+*Use these posters<http://libreplanet.org/wiki/Group:Empowermentors/Materia=
+ls#Empowermentors_Call_to_Arms>to
+share and spread the word.
+*
+*On liberalism, assimilation, and multiculturalism:*
+
+We are not just another diversifySTEM=E2=84=A2 organization aiming to integ=
+rate
+=E2=80=9Cminority" groups into the so-called =E2=80=9Copen source" communit=
+y. We are
+creating our own space. We combine a critical passion for technology and
+digital media arts with our work towards POC empowerment, disability
+justice, decolonization, queer liberation, prison abolition, the
+destabilization of patriarchy, and other struggles we share.
+*Learn more and join us:*
+
+This is not a space for white allies. We do not (yet) have plans for such a
+space, but appreciate any support and help spreading the word!
+
+Wiki page
+
+   - http://freeculture.org/empowermentors
+
+Mailing list
+
+   - http://lists.libreplanet.org/mailman/listinfo/empowermentors
+
+Chat room (#empowermentors on Freenode)
+
+   - http://webchat.freenode.net/?channels=3Dempowermentors
+
+Read More<http://kxra.tumblr.com/post/54139122042/please-signal-boost-the-e=
+mpowermentors>
+
+
+--=20
+Board of Directors, Free Culture Foundation: www.freeculture.org
+
+Web: kxra.info  -  StatusNet Microblog: http://identi.ca/kxra
+Email: kxra@freeculture.org  -  SMS: +1.617.340.3661
+Jabber/XMPP: kxra@riseup.net  -  IRC: kxra @freenode @oftc @indymedia
+
+--001a11c2ea2ca1befe04e0552a51
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+                                <div class=3D"content">
+                                    <div class=3D"overlay hasHiRes">
+                                        <span style=3D"color:rgb(0,0,0);fon=
+t-family:Cantarell;font-size:15px;font-style:normal;font-variant:normal;fon=
+t-weight:normal;letter-spacing:normal;line-height:normal;text-align:start;t=
+ext-indent:0px;text-transform:none;white-space:normal;word-spacing:0px;disp=
+lay:inline!important;float:none">I&#39;m working really hard on reaching ou=
+t to other intersectionally marginalized POC to join the Empowermentors Col=
+lective! Here&#39;s a post and some pretty graphics I spent hours making to=
+ help spread the word:</span><br style=3D"color:rgb(0,0,0);font-family:Cant=
+arell;font-size:15px;font-style:normal;font-variant:normal;font-weight:norm=
+al;letter-spacing:normal;line-height:normal;text-align:start;text-indent:0p=
+x;text-transform:none;white-space:normal;word-spacing:0px">
+
+<br><br><a title=3D"" rel=3D"prettyPhoto" class=3D"prettyPhoto" href=3D"htt=
+p://25.media.tumblr.com/49172d339ba66736da6015c0c3e992cc/tumblr_mp2nz9fOhp1=
+qakddfo1_r1_1280.png"><img src=3D"https://gs1.wac.edgecastcdn.net/8019B6/da=
+ta.tumblr.com/49172d339ba66736da6015c0c3e992cc/tumblr_mp2nz9fOhp1qakddfo1_r=
+1_500.png" title=3D"Please signal boost the Empowermentors Collective!
+
+Use these posters to share and spread the word.
+
+On liberalism, assimilation, and multiculturalism:
+
+We are not just another diversifySTEM=E2=84=A2 organization aiming to integ=
+rate &amp;#8220;minority&quot; groups into the so-called &amp;#8220;open so=
+urce&quot; community. We are creating our own space. We combine a critical =
+passion for technology and digital media arts with our work towards POC emp=
+owerment, disability justice, decolonization, queer liberation, prison abol=
+ition, the destabilization of patriarchy, and other struggles we share.
+
+Learn more and join us:
+
+This is not a space for white allies. We do not (yet) have plans for such a=
+ space, but appreciate any support and help spreading the word!
+
+Wiki page
+
+http://freeculture.org/empowermentors
+Mailing list
+
+http://lists.libreplanet.org/mailman/listinfo/empowermentors
+Chat room (#empowermentors on Freenode)
+
+http://webchat.freenode.net/?channels=3Dempowermentors
+[[MORE]]
+
+About us:
+
+The Empowermentors Collective is a skillshare, activism, and discussion net=
+work for intersectionally marginalized people of color in the free culture =
+and free software movement. We see radical potential in free culture and fr=
+ee software (often marketed as &amp;#8220;open source software&quot;) to wo=
+rk against ableism, racism, cissexism, heterosexism, sexism, and classism.
+
+We say &amp;#8220;intersectionally marginalized&quot; to refer to people of=
+ color who experience intersectionality, that is, the interactions of multi=
+ple systems of oppression. This means we are open to all people of color wi=
+th disabilities, trans* people of color, queer people of color, women of co=
+lor, class oppressed people of color, etc.
+
+We are called Empowermentors because we focus on sharing knowledge and tech=
+nical skills, producing free software and free media, and learning about an=
+d from each other. In this way we are being mentors for one another to empo=
+wer ourselves.
+
+Driving questions:
+
+What dangers lie in private ownership over media and software as it concent=
+rates power over technology &amp;amp; telecommunications?
+How are race, gender, sexuality, class, and other cultural meanings coded i=
+nto technology?
+Does free culture necessarily topple or reproduce those in power?
+Can we reconcile opposing both permission culture &amp;amp; cultural approp=
+riation?
+Why do movements aiming to represent everyone often leave out already margi=
+nalized groups?
+Why does openness and meritocracy frequently lead to exclusion?
+When does equal treatment ignore preexisting differences in power, privileg=
+e, &amp;amp; access?
+Where do wefit into the free sotware &amp;amp; free culture community as qu=
+eer people of color, women of color, POC with disabilities, etc.&amp;#160;?
+Who does the free software &amp;amp; free culture movement fight for&amp;#8=
+230;and who is leading it?
+View in flyer form as a png or pdf" alt=3D"Please signal boost the Empowerm=
+entors Collective!
+
+Use these posters to share and spread the word.
+
+On liberalism, assimilation, and multiculturalism:
+
+We are not just another diversifySTEM=E2=84=A2 organization aiming to integ=
+rate &amp;#8220;minority&quot; groups into the so-called &amp;#8220;open so=
+urce&quot; community. We are creating our own space. We combine a critical =
+passion for technology and digital media arts with our work towards POC emp=
+owerment, disability justice, decolonization, queer liberation, prison abol=
+ition, the destabilization of patriarchy, and other struggles we share.
+
+Learn more and join us:
+
+This is not a space for white allies. We do not (yet) have plans for such a=
+ space, but appreciate any support and help spreading the word!
+
+Wiki page
+
+http://freeculture.org/empowermentors
+Mailing list
+
+http://lists.libreplanet.org/mailman/listinfo/empowermentors
+Chat room (#empowermentors on Freenode)
+
+http://webchat.freenode.net/?channels=3Dempowermentors
+[[MORE]]
+
+About us:
+
+The Empowermentors Collective is a skillshare, activism, and discussion net=
+work for intersectionally marginalized people of color in the free culture =
+and free software movement. We see radical potential in free culture and fr=
+ee software (often marketed as &amp;#8220;open source software&quot;) to wo=
+rk against ableism, racism, cissexism, heterosexism, sexism, and classism.
+
+We say &amp;#8220;intersectionally marginalized&quot; to refer to people of=
+ color who experience intersectionality, that is, the interactions of multi=
+ple systems of oppression. This means we are open to all people of color wi=
+th disabilities, trans* people of color, queer people of color, women of co=
+lor, class oppressed people of color, etc.
+
+We are called Empowermentors because we focus on sharing knowledge and tech=
+nical skills, producing free software and free media, and learning about an=
+d from each other. In this way we are being mentors for one another to empo=
+wer ourselves.
+
+Driving questions:
+
+What dangers lie in private ownership over media and software as it concent=
+rates power over technology &amp;amp; telecommunications?
+How are race, gender, sexuality, class, and other cultural meanings coded i=
+nto technology?
+Does free culture necessarily topple or reproduce those in power?
+Can we reconcile opposing both permission culture &amp;amp; cultural approp=
+riation?
+Why do movements aiming to represent everyone often leave out already margi=
+nalized groups?
+Why does openness and meritocracy frequently lead to exclusion?
+When does equal treatment ignore preexisting differences in power, privileg=
+e, &amp;amp; access?
+Where do wefit into the free sotware &amp;amp; free culture community as qu=
+eer people of color, women of color, POC with disabilities, etc.&amp;#160;?
+Who does the free software &amp;amp; free culture movement fight for&amp;#8=
+230;and who is leading it?
+View in flyer form as a png or pdf"><span class=3D"overlay-effect" style=3D=
+"display:block;width:500px"><span class=3D"magnifying-glass"></span></span>=
+</a>
+                                    </div>
+                                   =20
+                                    <div class=3D"caption">
+                                       =20
+<h1><strong><a href=3D"http://kxra.info/page/view-page-slug/2/please-signal=
+-boost-the-empowermentors-collective">Please signal boost the Empowermentor=
+s Collective!</a></strong></h1>
+
+<p><em>Use <a href=3D"http://libreplanet.org/wiki/Group:Empowermentors/Mate=
+rials#Empowermentors_Call_to_Arms">these posters</a> to share and spread th=
+e word.</em></p>
+
+<h2><strong>On liberalism, assimilation, and multiculturalism:</strong></h2=
+>
+
+<p>We are not just another diversifySTEM=E2=84=A2 organization aiming to=20
+integrate =E2=80=9Cminority&quot; groups into the so-called =E2=80=9Copen s=
+ource&quot; community.=20
+We are creating our own space. We combine a critical passion for=20
+technology and digital media arts with our work towards POC empowerment,
+ disability justice, decolonization, queer liberation, prison abolition,
+ the destabilization of patriarchy, and other struggles we share.</p>
+
+<h2><strong>Learn more and join us:</strong></h2>
+
+<p>This is not a space for white allies. We do not (yet) have plans for=20
+such a space, but appreciate any support and help spreading the word!</p>
+
+<p>Wiki page</p>
+
+<ul><li>
+<a href=3D"http://freeculture.org/empowermentors">http://freeculture.org/em=
+powermentors</a>
+</li></ul>
+<p>Mailing list</p>
+
+<ul><li>
+<a href=3D"http://lists.libreplanet.org/mailman/listinfo/empowermentors">ht=
+tp://lists.libreplanet.org/mailman/listinfo/empowermentors</a>
+</li></ul>
+<p>Chat room (#empowermentors on Freenode)</p>
+
+<ul><li>
+<a href=3D"http://webchat.freenode.net/?channels=3Dempowermentors">http://w=
+ebchat.freenode.net/?channels=3Dempowermentors</a>
+</li></ul>
+
+<p class=3D"read_more_container"><a href=3D"http://kxra.tumblr.com/post/541=
+39122042/please-signal-boost-the-empowermentors" class=3D"read_more">Read M=
+ore</a></p>
+                                    </div>
+                                   =20
+                                </div>
+                            <br clear=3D"all"><br>-- <br><div dir=3D"ltr">B=
+oard of Directors, Free Culture Foundation: <a href=3D"http://www.freecultu=
+re.org" target=3D"_blank">www.freeculture.org</a><br><br>Web: <a href=3D"ht=
+tp://kxra.info" target=3D"_blank">kxra.info</a>=C2=A0 -=C2=A0 StatusNet Mic=
+roblog: <a href=3D"http://identi.ca/kxra" target=3D"_blank">http://identi.c=
+a/kxra</a><br>
+
+Email: <a href=3D"mailto:kxra@freeculture.org" target=3D"_blank">kxra@freec=
+ulture.org</a>=C2=A0 -=C2=A0 SMS: +<a href=3D"http://1.617.340.3661" target=
+=3D"_blank">1.617.340.3661</a><br>Jabber/XMPP: <a href=3D"mailto:kxra@riseu=
+p.net" target=3D"_blank">kxra@riseup.net</a>=C2=A0 -=C2=A0 IRC: kxra @freen=
+ode @oftc @indymedia<br>
+
+</div>
+
+--001a11c2ea2ca1befe04e0552a51--

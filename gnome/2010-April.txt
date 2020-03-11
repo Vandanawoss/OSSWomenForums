@@ -1,0 +1,554 @@
+From wingo@pobox.com  Fri Apr  9 21:23:19 2010
+Return-Path: <wingo@pobox.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 456EE7500A5
+	for <gnome-women-list@gnome.org>; Fri,  9 Apr 2010 21:23:19 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id tZSQbdjAgD2z for <gnome-women-list@gnome.org>;
+	Fri,  9 Apr 2010 21:23:17 +0000 (UTC)
+X-Greylist: delayed 380 seconds by postgrey-1.32 at menubar.gnome.org;
+	Fri, 09 Apr 2010 21:23:17 UTC
+Received: from sasl.smtp.pobox.com (a-pb-sasl-quonix.pobox.com [208.72.237.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 122BB750152
+	for <gnome-women-list@gnome.org>; Fri,  9 Apr 2010 21:23:08 +0000 (UTC)
+Received: from sasl.smtp.pobox.com (unknown [127.0.0.1])
+	by a-pb-sasl-quonix.pobox.com (Postfix) with ESMTP id 62953A9216;
+	Fri,  9 Apr 2010 17:16:31 -0400 (EDT)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=pobox.com; h=from:to
+	:subject:date:message-id:mime-version:content-type
+	:content-transfer-encoding; s=sasl; bh=B4Sm0G/xsLyB1oKBQ7FO0WF+z
+	k4=; b=rVjsbRYT5jSkuxKCFH1DDHQU8wmtc9AABLx7FCXHDy4BFN7J0xft6Qe5o
+	AUG3CwZ45w/kePqiDhYMXBX4i42oUnqvTmA4sWS+Ncr+BKXZD983JuHlX7/QX40I
+	vEZ5SOn/c7tiOcYOLncyHtho8lx3FsXatshwxtzuYvTtYlO3Sk=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=pobox.com; h=from:to:subject
+	:date:message-id:mime-version:content-type
+	:content-transfer-encoding; q=dns; s=sasl; b=DXAZdQvJkHRT14O+R2y
+	D4Uxpv0/76SQX34kze+J4g/6Oi7FkLSm+jvic+No9nXiMH3PIKfCimjatCavRtRj
+	3HmhZ2WOfY6Tcj+zAYgUY1gwmaTwnyLaJyhsCq+lxydazeQdAvgIXautd104zQkY
+	O5isNuru1CClodGD4N9vIFaE=
+Received: from a-pb-sasl-quonix. (unknown [127.0.0.1])
+	by a-pb-sasl-quonix.pobox.com (Postfix) with ESMTP id 4EA50A9215;
+	Fri,  9 Apr 2010 17:16:30 -0400 (EDT)
+Received: from unquote (unknown [81.39.162.147]) (using TLSv1 with cipher
+	DHE-RSA-AES256-SHA (256/256 bits)) (No client certificate requested) by
+	a-pb-sasl-quonix.pobox.com (Postfix) with ESMTPSA id E9412A9211;
+	Fri,  9 Apr 2010 17:16:27 -0400 (EDT)
+From: Andy Wingo <wingo@pobox.com>
+To: gnome-women-list@gnome.org
+Date: Fri, 09 Apr 2010 23:18:10 +0200
+Message-ID: <m3eiiopbot.fsf@pobox.com>
+User-Agent: Gnus/5.13 (Gnus v5.13) Emacs/23.0.92 (gnu/linux)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Pobox-Relay-ID: 2A8B7FE2-441D-11DF-BA38-D033EE7EF46B-02397024!a-pb-sasl-quonix.pobox.com
+X-Mailman-Approved-At: Fri, 09 Apr 2010 21:35:53 +0000
+Subject: [gnome-women] engagement with gnu project
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 09 Apr 2010 21:23:19 -0000
+
+Hello all,
+
+By way of introduction, I maintain GNU Guile, an implementation of the
+Scheme programming language. My GNOME involvement started with work on
+GStreamer, a media handling framework -- frustrated attempts to make
+music, the common condition -- but I've moved more to the GNU side of
+things now.
+
+I'm writing this list because I'm organizing the upcoming GNU Hackers
+Meeting, co-located with GUADEC this year, at the Hague, 24-25 July. The
+weekend before, yes. I recently read the Leslie Hawthorne interview at
+LWN.net -- http://lwn.net/SubscriberLink/382813/3827d0dfb18605d9/ -- and
+I realized I should be engaging with a GNU women's group to see about
+getting speakers.
+
+Except, there is no GNU women's group, and a cursory investigation of
+the list of GNU maintainers pulls up no women. I didn't realize the
+situation was this bad!
+
+I guess I have two requests.
+
+The first request is for speakers for the upcoming GHM. GNOME is part of
+GNU if it wants to be -- see
+http://wingolog.org/archives/2009/12/13/gnu-gnome-and-the-fsf -- and you
+are very welcome to speak at the event.
+
+Even if you are not really involved with GNU, please consider attending
+the GHM. Speaking personally, it has been really enriching to become a
+part of the OS that underlies most GNOME deployments. You will be most
+welcome.
+
+The second request is for people who feel identified with GNU in some
+way to consider organizing a "GNU women's group". I would imagine that
+the proper route is to choose someone that you trust as a maintainer,
+then to contact RMS to set up a new GNU project. (Yes, I think it's that
+important.) Please contact me if you are interested and have any
+questions; I'm "wingo" on freenode and gimpnet IRC.
+
+                                ***
+
+A final thought, from a relative GNU newcomer: GNU culture is
+interesting, similar to GNOME culture in many aspects, but different in
+its own way. It's rooted in Stallman and MIT and old hackers and
+visionaries. These roots affect the present, as with any organization
+with a long history.
+
+But because it's been male-dominated for so long, some "typically
+masculine" elements might have infiltrated into that culture. RTFM-ness,
+for example. I don't think these parts are in any essential; they're
+trash, as you all well know. /=C3=81nimo, peregrina/; if you find this
+element, rooting it out is the good fight.
+
+
+Peace, and please, let's talk about the GHM!
+
+Copy me on any replies, as I'm not on the list :)
+
+Andy
+--=20
+http://wingolog.org/
+From gpoo@calcifer.org  Tue Apr 13 01:50:37 2010
+Return-Path: <gpoo@calcifer.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E06AC75007E;
+	Tue, 13 Apr 2010 01:50:36 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.324
+X-Spam-Level: 
+X-Spam-Status: No, score=0.324 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_NONE=-0.0001,
+	RCVD_IN_NJABL_PROXY=2.224] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id H+595tobizj0; Tue, 13 Apr 2010 01:50:35 +0000 (UTC)
+Received: from mail-iw0-f177.google.com (mail-iw0-f177.google.com
+	[209.85.223.177])
+	by menubar.gnome.org (Postfix) with ESMTP id A9800750061;
+	Tue, 13 Apr 2010 01:50:26 +0000 (UTC)
+Received: by iwn7 with SMTP id 7so5454444iwn.31
+	for <multiple recipients>; Mon, 12 Apr 2010 18:50:24 -0700 (PDT)
+Received: by 10.231.156.80 with SMTP id v16mr2262975ibw.99.1271123424522;
+	Mon, 12 Apr 2010 18:50:24 -0700 (PDT)
+Received: from [192.168.1.102] (pc-217-194-86-200.cm.vtr.net [200.86.194.217])
+	by mx.google.com with ESMTPS id
+	c21sm2584738ibr.16.2010.04.12.18.50.21
+	(version=SSLv3 cipher=RC4-MD5); Mon, 12 Apr 2010 18:50:23 -0700 (PDT)
+Sender: =?UTF-8?B?R2VybcOhbiBQw7NvLUNhYW1hw7Fv?= <gpoo@calcifer.org>
+From: =?ISO-8859-1?Q?Germ=E1n_P=F3o-Caama=F1o?= <gpoo@gnome.org>
+To: foundation-list@gnome.org
+Content-Type: multipart/signed; micalg="pgp-sha1";
+	protocol="application/pgp-signature";
+	boundary="=-8QaUIEr8uRqOebqrAsDt"
+Organization: GNOME
+Date: Mon, 12 Apr 2010 21:50:15 -0400
+Message-ID: <1271123415.2154.97.camel@calcifer>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.28.1
+X-Mailman-Approved-At: Tue, 13 Apr 2010 11:57:36 +0000
+Cc: guadec-list@gnome.org, travel-committee@gnome.org,
+	gnome-women-list@gnome.org, desktop-devel-list@gnome.org
+Subject: [gnome-women] Travel assistance applications to attend to GUADEC
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 13 Apr 2010 01:50:37 -0000
+
+
+--=-8QaUIEr8uRqOebqrAsDt
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear hackers,
+
+The GNOME Foundation provides travel sponsorships to individuals=20
+that want to attend GUADEC and need financial assistance.
+
+We are happy to announce the Travel Committee is ready to receive
+applications for sponsorships to attend to GUADEC 2010.  This year,
+GUADEC is being held in the The Hague University, in The Hague,
+Netherlands, from Monday 26th July, until Friday 30th July.
+
+The instructions are detailed at http://live.gnome.org/Travel
+Please read them carefully.
+
+Deadline: April 27, 2009, 19:00 UTC.  You can start sending
+your applications now!
+
+Some additional comments:
+* Any information you send to the Travel Committee will be private.
+* Asking for sponsorship *does not* guarantee you will get sponsored.
+* A good application with good information will be processed faster.
+* If you need help with accommodation, the Travel Committee will book=20
+  the hotel or hostel for you. This enables us to get group rates and=20
+  provide accommodation assistance to the most people possible.
+  You should state that you need accommodation, and leave the cost
+  blank.
+* Always choose the most economical option whenever possible.  People who=20
+  need travel sponsorship, should look for the best price
+  (i.e. through a service like kayak.com).  If the Travel Committee=20
+  finds a cheaper price, that will be the price considered during the
+  evaluation.
+* If you are applying to a Google Summer of Code program (as student
+  or mentor) you should mention it in your application. Preference will=20
+  be given to students and mentors participating in the Google Summer=20
+  of Code or the Outreach Program for Women.
+  GSoC students usually get a percentage of their GUADEC expenses=20
+  covered.
+* If you submitted an abstract to be presented at GUADEC, you should
+  mention it in your application.  Preference will be given to people=20
+  giving presentations at GUADEC.
+  The GUADEC paper committee will let the travel committee know which
+  talks have been accepted, so as long as you let us know you submitted
+  one, there is no need to follow up.
+* The Travel committee should reply back about receiving your
+  application within 2-3 days. After that we would accumulate all the
+  sponsorship requests and process them together. So please do not panic
+  (have any butterflies in your stomach) if we take some time to reply on
+  the status. Affirmative/Negative you would surely get a response.
+* No personal emails. Please keep travel-committee Cc'ed on all your=20
+  replies.
+
+You can find us in the #travel channel at irc.gnome.org.
+
+Kind regards,
+
+--=20
+Germ=C3=A1n P=C3=B3o-Caama=C3=B1o
+Concepci=C3=B3n - Chile
+http://www.gnome.org/~gpoo/
+
+--=-8QaUIEr8uRqOebqrAsDt
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: This is a digitally signed message part
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEUEABECAAYFAkvDzdEACgkQ1hl0UcEpZYyZFACghtIBTWnQ2QqqnOqOIDdt4N2I
+tyoAlRauSc9RuCWv9x1WwxkXJK14jwM=
+=a31x
+-----END PGP SIGNATURE-----
+
+--=-8QaUIEr8uRqOebqrAsDt--
+
+From gpoo@calcifer.org  Tue Apr 27 04:24:55 2010
+Return-Path: <gpoo@calcifer.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 5045B7500A5;
+	Tue, 27 Apr 2010 04:24:55 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.9
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.9 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_NONE=-0.0001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ovvmcK6ruH3x; Tue, 27 Apr 2010 04:24:52 +0000 (UTC)
+Received: from mail-vw0-f54.google.com (mail-vw0-f54.google.com
+	[209.85.212.54])
+	by menubar.gnome.org (Postfix) with ESMTP id F1CC7750077;
+	Tue, 27 Apr 2010 04:24:43 +0000 (UTC)
+Received: by vws1 with SMTP id 1so120412vws.27
+	for <multiple recipients>; Mon, 26 Apr 2010 21:24:42 -0700 (PDT)
+Received: by 10.220.158.6 with SMTP id d6mr3521227vcx.158.1272342281956;
+	Mon, 26 Apr 2010 21:24:41 -0700 (PDT)
+Received: from [127.0.0.1] (cronos.dci.ubiobio.cl [146.83.195.84])
+	by mx.google.com with ESMTPS id m13sm22941316vcs.1.2010.04.26.21.24.39
+	(version=SSLv3 cipher=RC4-MD5); Mon, 26 Apr 2010 21:24:40 -0700 (PDT)
+Sender: =?UTF-8?B?R2VybcOhbiBQw7NvLUNhYW1hw7Fv?= <gpoo@calcifer.org>
+From: =?ISO-8859-1?Q?Germ=E1n_P=F3o-Caama=F1o?= <gpoo@gnome.org>
+To: foundation-list@gnome.org
+Content-Type: multipart/signed; micalg="pgp-sha1";
+	protocol="application/pgp-signature";
+	boundary="=-OBr7PzgGjcme7MssgsRO"
+Organization: GNOME
+Date: Tue, 27 Apr 2010 00:24:35 -0400
+Message-ID: <1272342275.2660.110.camel@calcifer>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.28.1
+Cc: guadec-list@gnome.org, travel-committee@gnome.org,
+	gnome-women-list@gnome.org, desktop-devel-list@gnome.org
+Subject: [gnome-women] [Reminder] Deadline for GUADEC travel assistance
+ applications is due on April 27th
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 27 Apr 2010 04:24:55 -0000
+
+
+--=-OBr7PzgGjcme7MssgsRO
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear hackers,
+
+The deadline for sending your GUADEC travel assistance application is
+due on April 27th, 19:00 UTC, that is in 14=C2=BD hours from now.
+
+The instructions are detailed at http://live.gnome.org/Travel
+
+Kind regards,
+
+--=20
+Germ=C3=A1n P=C3=B3o-Caama=C3=B1o
+Concepci=C3=B3n - Chile
+http://www.gnome.org/~gpoo/
+
+
+--=-OBr7PzgGjcme7MssgsRO
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: This is a digitally signed message part
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.9 (GNU/Linux)
+
+iEYEABECAAYFAkvWZvsACgkQ1hl0UcEpZYy3JgCfYfpIQp8/UWk3Yquy9D+7TkaX
+8GwAnAkQjkESQ1Cja8+iFbbV7YNMWlla
+=Wqyn
+-----END PGP SIGNATURE-----
+
+--=-OBr7PzgGjcme7MssgsRO--
+
+From danielle.madeley@collabora.co.uk  Wed Apr 28 06:16:12 2010
+Return-Path: <danielle.madeley@collabora.co.uk>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 1822875007D
+	for <gnome-women-list@gnome.org>; Wed, 28 Apr 2010 06:16:12 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.909
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.909 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, T_RP_MATCHES_RCVD=-0.01,
+	UNPARSEABLE_RELAY=0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id k2f4beZc-8YK for <gnome-women-list@gnome.org>;
+	Wed, 28 Apr 2010 06:16:10 +0000 (UTC)
+X-Greylist: delayed 432 seconds by postgrey-1.32 at menubar.gnome.org;
+	Wed, 28 Apr 2010 06:16:09 UTC
+Received: from bhuna.collabora.co.uk (bhuna.collabora.co.uk [93.93.128.226])
+	by menubar.gnome.org (Postfix) with ESMTP id E6C9A750060
+	for <gnome-women-list@gnome.org>; Wed, 28 Apr 2010 06:16:01 +0000 (UTC)
+Received: from [127.0.0.1] (localhost [127.0.0.1])
+	(Authenticated sender: danni) with ESMTPSA id 27F7960084C
+From: Danielle Madeley <danielle.madeley@collabora.co.uk>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset="UTF-8"
+Organization: Collabora Ltd.
+Date: Wed, 28 Apr 2010 16:08:41 +1000
+Message-ID: <1272434921.12796.30.camel@adelie>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.28.3 
+Content-Transfer-Encoding: 7bit
+Subject: [gnome-women] who's going to GUADEC?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 28 Apr 2010 06:16:12 -0000
+
+Hey all,
+
+Just wondering who's going to GUADEC this year. Maybe we could have a
+get together or something.
+
+--danni
+
+-- 
+Danielle Madeley
+Software Developer, Collabora Ltd.                  Melbourne, Australia
+
+www.collabora.co.uk
+
+From stormy.peters@gmail.com  Wed Apr 28 13:03:11 2010
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EB5CF7500A6
+	for <gnome-women-list@gnome.org>; Wed, 28 Apr 2010 13:03:10 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.899
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.899 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id cKvJQPv1-tu4 for <gnome-women-list@gnome.org>;
+	Wed, 28 Apr 2010 13:03:09 +0000 (UTC)
+Received: from mail-iw0-f173.google.com (mail-iw0-f173.google.com
+	[209.85.223.173])
+	by menubar.gnome.org (Postfix) with ESMTP id BF83E75006B
+	for <gnome-women-list@gnome.org>; Wed, 28 Apr 2010 13:03:00 +0000 (UTC)
+Received: by iwn3 with SMTP id 3so11579487iwn.3
+	for <gnome-women-list@gnome.org>; Wed, 28 Apr 2010 06:02:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:sender:received
+	:in-reply-to:references:date:x-google-sender-auth:message-id:subject
+	:from:to:cc:content-type;
+	bh=W23ON08B6aXUP+MLGKESG9PrQW9YMwYZDwLME7QpjIg=;
+	b=pY99PXQknbdCUwUKofZe+E7FLJPeul8TYjFIUaARswvjauzoNb0jM0r59b1Cr3h5v1
+	dJ/lclPsm/E0Omb2xaWa2G1sHBagciH4uVENFP4hwfLPZ80Y5peNV1T4EAKpRzSSOhFL
+	FTCbE4gzv3xUtxJFtwVrPyMipjLeIiHgODmpU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:in-reply-to:references:date
+	:x-google-sender-auth:message-id:subject:from:to:cc:content-type;
+	b=emu3O/4An17gI5LqRnLbo0pqjgtzT2xR/dD/B/YNMqZ80OiAH2X738GcXPWNQATKr8
+	j3T79xjtXXdVE6eS+1Zk7OCf7Zt/2c5MqWWzR8uoeQTB4bWpc4Gaq2k7lGlhmC/z1RbE
+	RScy3MnuLyb0DaLDAVkX4Ujyu1fh7b8A4e5JM=
+MIME-Version: 1.0
+Received: by 10.142.202.15 with SMTP id z15mr4140296wff.5.1272459777559; Wed, 
+	28 Apr 2010 06:02:57 -0700 (PDT)
+Sender: stormy.peters@gmail.com
+Received: by 10.143.14.7 with HTTP; Wed, 28 Apr 2010 06:02:57 -0700 (PDT)
+In-Reply-To: <1272434921.12796.30.camel@adelie>
+References: <1272434921.12796.30.camel@adelie>
+Date: Wed, 28 Apr 2010 07:02:57 -0600
+X-Google-Sender-Auth: fe11de6675f4db2d
+Message-ID: <g2o7ceb3e961004280602l6383b429o9ce4d5b78c77c251@mail.gmail.com>
+From: Stormy Peters <stormy@gnome.org>
+To: Danielle Madeley <danielle.madeley@collabora.co.uk>
+Content-Type: multipart/alternative; boundary=000e0cd2e2ee084eae04854ba1fe
+Cc: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] who's going to GUADEC?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.13
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 28 Apr 2010 13:03:11 -0000
+
+--000e0cd2e2ee084eae04854ba1fe
+Content-Type: text/plain; charset=ISO-8859-1
+
+Danielle,
+
+That's a great idea.
+
+I will be there.
+
+Stormy
+
+
+On Wed, Apr 28, 2010 at 12:08 AM, Danielle Madeley <
+danielle.madeley@collabora.co.uk> wrote:
+
+> Hey all,
+>
+> Just wondering who's going to GUADEC this year. Maybe we could have a
+> get together or something.
+>
+> --danni
+>
+> --
+> Danielle Madeley
+> Software Developer, Collabora Ltd.                  Melbourne, Australia
+>
+> www.collabora.co.uk
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--000e0cd2e2ee084eae04854ba1fe
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Danielle,<br><br>That&#39;s a great idea.<br><br>I will be there.<br><br>St=
+ormy<br><br><br><div class=3D"gmail_quote">On Wed, Apr 28, 2010 at 12:08 AM=
+, Danielle Madeley <span dir=3D"ltr">&lt;<a href=3D"mailto:danielle.madeley=
+@collabora.co.uk">danielle.madeley@collabora.co.uk</a>&gt;</span> wrote:<br=
+>
+<blockquote class=3D"gmail_quote" style=3D"margin: 0pt 0pt 0pt 0.8ex; borde=
+r-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;">Hey all,<br>
+<br>
+Just wondering who&#39;s going to GUADEC this year. Maybe we could have a<b=
+r>
+get together or something.<br>
+<br>
+--danni<br>
+<br>
+--<br>
+Danielle Madeley<br>
+Software Developer, Collabora Ltd. =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0 =A0Melbo=
+urne, Australia<br>
+<br>
+<a href=3D"http://www.collabora.co.uk" target=3D"_blank">www.collabora.co.u=
+k</a><br>
+<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>
+</blockquote></div><br>
+
+--000e0cd2e2ee084eae04854ba1fe--

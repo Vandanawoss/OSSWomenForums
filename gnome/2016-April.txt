@@ -1,0 +1,100 @@
+From suprabha_shekhar@yahoo.com  Thu Apr 21 18:52:32 2016
+Return-Path: <suprabha_shekhar@yahoo.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id D696676A63
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 21 Apr 2016 18:52:32 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.995
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.995 tagged_above=-999 required=2
+	tests=[BAYES_50=0.8, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, RP_MATCHES_RCVD=-0.996, SPF_PASS=-0.001]
+	autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id b_zQ_7_Xbqps for <gnome-women-list@mail.gnome.org>;
+	Thu, 21 Apr 2016 18:52:32 +0000 (UTC)
+Received: from nm6.bullet.mail.bf1.yahoo.com (nm6.bullet.mail.bf1.yahoo.com
+	[98.139.212.165])
+	by restaurant.gnome.org (Postfix) with ESMTP id 271A0765A0
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 21 Apr 2016 18:52:31 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s2048;
+	t=1461264750; bh=cnFZwbFWiKjnYt1oW4rnuAQMgck+HArTnbdOPoTScFw=;
+	h=Date:From:Reply-To:To:Subject:References:From:Subject;
+	b=aZ55yxavhXM2Zgu1RbpOslijEBJPI3ICchd6ATgBM+UtYd2nMpqZZE79r/wR+0pbYfXnkGAmdFVNt9EI+QJyAKiKZFnyfpR4b16m8jAG05N+yo7gQI0mMEwHFbuVKk+SYCAK5NuqQBqZ7wbUVWsry/wMEbHLdQOfWtk6N2RzembgJGW4sRaRYzpptyKZxD120nLJtJNJkdSHBWEBWom7M25fE3qgQ4OzSj+cWuIe2/9gFIlm4Gl8BzA92c9DSB4k0fv1kP8EAAVGx+5mHAOBN4H4/6XOQm8zDnvINUIRgk3eeO2PcpLTOEBEx/D8xsYlBqUedbtVhBN3aU0SLXX05A==
+Received: from [98.139.215.141] by nm6.bullet.mail.bf1.yahoo.com with NNFMP;
+	21 Apr 2016 18:52:30 -0000
+Received: from [98.139.212.230] by tm12.bullet.mail.bf1.yahoo.com with NNFMP;
+	21 Apr 2016 18:52:30 -0000
+Received: from [127.0.0.1] by omp1039.mail.bf1.yahoo.com with NNFMP;
+	21 Apr 2016 18:52:30 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 56664.41613.bm@omp1039.mail.bf1.yahoo.com
+X-YMail-OSG: 6xVAjWsVM1mQvIbYDe8kQd_w_EbOXlqoOuvjFdqcDQ6ZCqjbXiLVMA7AOF6pw7d
+	WjFNE.Tt6_G.9j7qrbsSBSKZ_ftceGZrEdQKGk8xY0HPZ5jYDmnE7lZV6uCNqwW0Ufk5EQ9YS74J
+	OJsh0knp3_HIaTN_70kNnDYrzpMDgGxinsvOlV1gvllkO9I3MeB2c9UZ1EPCZtp4erKK18Uy1Fbh
+	3GGGfofZFoQJlojbgrv8dxKbUWwqoSu.DLoa9tsexM2vr.ktZrbHYUR4Q8c9H9zu8HRU2IyTZt7U
+	_4FJ1VbMZhKpLBzwjo.sdcsqawGLSFpXot13FboerfrLIw7HbTIK9pNhrsz70qZk2GOPlwrX8IOu
+	lErHRoL.EXky28VgZ7BGOOtU0xiSukd9tgaJQ8STfQOb0zYiCDEM6mNBrX8jM1JMSUgH41GJdZgS
+	.p26bddvjCo.xEGgXTJHzgdosGr8I.T_jRcUbKGXINbZWGOQDxMEM41fuihjH3_hJCh3JBd2Yyv.
+	siNR8slkPpbsg3ZKXX47YJ_g-
+Received: by 76.13.26.198; Thu, 21 Apr 2016 18:52:29 +0000 
+Date: Thu, 21 Apr 2016 18:52:20 +0000 (UTC)
+From: Suprabha Shekhar <suprabha_shekhar@yahoo.com>
+To: "gnome-women-list@mail.gnome.org" <gnome-women-list@mail.gnome.org>
+Message-ID: <843601170.5014463.1461264740095.JavaMail.yahoo@mail.yahoo.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_5014462_448711459.1461264740093"
+References: <843601170.5014463.1461264740095.JavaMail.yahoo.ref@mail.yahoo.com>
+Subject: [gnome-women] (no subject)
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+Reply-To: Suprabha Shekhar <suprabha_shekhar@yahoo.com>
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 21 Apr 2016 18:52:32 -0000
+
+------=_Part_5014462_448711459.1461264740093
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello Ladies!=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0 I am extremely happy to be a part of this club now=
+.Well,to give a short intro about myself-I am Suprabha.I have completed by =
+undergrad in Comp Science in 2015.I am currently working for VMware,I am ex=
+tremely passionate about coding.I am familiar with C,C++,Java and Python.Th=
+ough I have coding for quiet sometime now,I have never been a part of open =
+source.I would really appreciate if someone could mentor me and help me in =
+choosing a project and guide me with the same.I can roughly devote upto 3 h=
+ours per day for this.Looking forward for someone to mentor me.Thanks
+------=_Part_5014462_448711459.1461264740093
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<html><head></head><body><div style="color:#000; background-color:#fff; font-family:HelveticaNeue, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:13px"><div id="yui_3_16_0_ym19_1_1461244800839_22006">Hello Ladies!</div><div id="yui_3_16_0_ym19_1_1461244800839_22007" dir="ltr">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ I am extremely happy to be a part of this club now.Well,to give a short
+ intro about myself-I am Suprabha.I have completed by undergrad in Comp 
+Science in 2015.I am currently working for VMware,</div><div id="yui_3_16_0_ym19_1_1461244800839_22008" dir="ltr">I
+ am extremely passionate about coding.I am familiar with C,C++,Java and 
+Python.Though I have coding for quiet sometime now,I have never been a 
+part of open source.I would really appreciate if someone could mentor me
+ and help me in choosing a project and guide me with the same.I can 
+roughly devote upto 3 hours per day for this.Looking forward for someone
+ to mentor me.</div><div id="yui_3_16_0_ym19_1_1461244800839_22009" dir="ltr">Thanks</div></div></body></html>
+------=_Part_5014462_448711459.1461264740093--

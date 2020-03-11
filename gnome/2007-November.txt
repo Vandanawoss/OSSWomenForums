@@ -1,0 +1,69 @@
+From g@socallinuxexpo.org  Thu Nov 29 05:26:51 2007
+Return-Path: <g@socallinuxexpo.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 49CEA75008E
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 29 Nov 2007 05:26:51 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: 0.001
+X-Spam-Level: 
+X-Spam-Status: No, score=0.001 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001]
+X-Amavis-OS-Fingerprint: Linux 2.6 (newer, 1) (up: 1019 hrs), (distance 15,
+	link: ethernet/modem), [208.83.98.26]
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id SRHYRiGxaaNK for <gnome-women-list@mail.gnome.org>;
+	Thu, 29 Nov 2007 05:26:45 +0000 (GMT)
+Received: from maggie.socallinuxexpo.org (www.socallinuxexpo.org
+	[208.83.98.26])
+	by menubar.gnome.org (Postfix) with ESMTP id C5FE87500A9
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 29 Nov 2007 05:26:14 +0000 (GMT)
+Received: from blackoil.loc.wiked.org (border.wiked.org [208.127.52.15])
+	(authenticated bits=0)
+	by maggie.socallinuxexpo.org (8.13.8/8.13.8/Debian-3) with ESMTP id
+	lAT5Q17J017900
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+	for <gnome-women-list@mail.gnome.org>; Wed, 28 Nov 2007 21:26:02 -0800
+Date: Wed, 28 Nov 2007 21:22:10 -0800
+From: "Gareth J. Greenaway" <g@socallinuxexpo.org>
+To: gnome-women-list@mail.gnome.org
+Message-Id: <20071128212210.c96b671b.g@socallinuxexpo.org>
+X-Mailer: Sylpheed 2.4.5 (GTK+ 2.12.0; i486-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: ClamAV 0.91.2/4948/Wed Nov 28 12:42:33 2007 on maggie
+X-Virus-Status: Clean
+Subject: [gnome-women] So Cal Linux Exp Calls For Papers close Friday!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 29 Nov 2007 05:26:51 -0000
+
+The Calls for Paper for the So Cal Linux Expo, and its Friday special 
+sessions, Women in Open Source, Demonstrating Open Source Software 
+Health Care Solutions, and Open Source Software in Education, close 
+Friday 11/30.
+
+If you're contemplating submitting a paper for any of these session, 
+don't delay - there are only a few speaker slots left.
+
+-- 
+Gareth J. Greenaway <g@socallinuxexpo.org>
+Voice - 877-831-2569 x130
+Southern California Linux Expo 
+http://www.socallinuxexpo.org

@@ -1,0 +1,923 @@
+From hagerbenmahmoud at yahoo.com  Fri Jan  9 19:31:48 2004
+From: hagerbenmahmoud at yahoo.com (Hager Ben-Mahmoud)
+Date: Fri Jan  9 19:32:01 2004
+Subject: [Kde-women] Hello!
+Message-ID: <20040109183148.70291.qmail@web80805.mail.yahoo.com>
+
+Hello KDE Women,
+ 
+I just joined the list. I am a newbie to Linux and have been using KDE since the beginning. I would be very interested in helping out, however way possible to promote KDE. I am currently in DC in the US. 
+ 
+Cheers,
+
+Hager
+ 
+ 
+
+
+---------------------------------
+Do you Yahoo!?
+New Yahoo! Photos - easier uploading and sharing
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20040109/351a9f4b/attachment.html
+From jo at sharrad.co.uk  Wed Jan 28 00:45:23 2004
+From: jo at sharrad.co.uk (Joanna Harris)
+Date: Wed Jan 28 00:47:14 2004
+Subject: [Kde-women] KDE Women - Introduction
+Message-ID: <web-1030507@sharrad.co.uk>
+
+Hi,
+
+I thought I would write, as I haven't had an mail through 
+on the mailing list!!
+
+Well, an Introduction is that I am a 19 year old female 
+from the UK, who as been interested in Linux since I was 
+17.
+
+I am at the moment concentrating on several projects, the 
+first is my PHP and Mysql skills, the second is learning 
+to program in C (I haven't yet found an answer to wheather 
+or not I'm too old to start learning!! Everyone seems like 
+they are 14 year old boys!!), and a website that I hope to 
+get up and running soon about Open Source in Schools 
+around the world to show people it can be done!!!
+
+I am at the moment a Technician in a secondary school in 
+Kent, which I'm afraid doesn't use Linux, though the last 
+2 schools I worked at did!! Plus my partner Paul is also 
+spreading the word by having Linux server etc at the 
+school he works at too.
+
+Sorry if this has bored everyone, if its quiet because 
+I've set my communigate pro rules wrong please let me 
+know....urmmm...somehow!!
+
+Jo
+
+ps. I did run Mandrake 10, but due to lack of functions 
+went back to M9.2.....miss KDE 3.2 now!!!
+
+pps. I would like to help with a project like KDE but feel 
+that I lack the programming skills (hence the studying!) 
+what would I need to learn, and is there anything I could 
+do in the mean time??
+From oster at kde.org  Wed Jan 28 10:30:16 2004
+From: oster at kde.org (Frauke Oster)
+Date: Wed Jan 28 10:35:49 2004
+Subject: [Kde-women] KDE Women - Introduction
+In-Reply-To: <web-1030507@sharrad.co.uk>
+References: <web-1030507@sharrad.co.uk>
+Message-ID: <40178128.5040804@kde.org>
+
+Hi!
+
+Welcome to KDE Women!
+
+
+> Well, an Introduction is that I am a 19 year old female from the UK, who 
+> as been interested in Linux since I was 17.
+> 
+> I am at the moment concentrating on several projects, the first is my 
+> PHP and Mysql skills, 
+
+Hey, you just remembered me of something. I'll send a second mail about 
+it later :)
+
+the second is learning to program in C (I haven't
+> yet found an answer to wheather or not I'm too old to start learning!! 
+> Everyone seems like they are 14 year old boys!!), 
+
+I would like to answer your question, because I am 20 and I started to 
+learn C++ a year ago. I have to say that I wasn't really good in 
+learning it from books, but now I study computer science at uni and I 
+just learned how to code in C. So, if I can manage to learn something 
+like that you will make it too. It's true that there are a lot of 14 
+year old boys learning C / C++, but there are also some women who start 
+to learn C. I know another woman, who is at our age and she just started 
+to learn C too. So, I think you really should go ahead with learning.
+
+and a website that I
+> hope to get up and running soon about Open Source in Schools around the 
+> world to show people it can be done!!!
+> 
+> I am at the moment a Technician in a secondary school in Kent, which I'm 
+> afraid doesn't use Linux, though the last 2 schools I worked at did!! 
+> Plus my partner Paul is also spreading the word by having Linux server 
+> etc at the school he works at too.
+> 
+> Sorry if this has bored everyone, if its quiet because I've set my 
+> communigate pro rules wrong please let me know....urmmm...somehow!!
+
+Why should it bore everyone? I think it is quiet good to introduce 
+oneself to the mailinglist, so we know you are here ;-)
+
+
+> ps. I did run Mandrake 10, but due to lack of functions went back to 
+> M9.2.....miss KDE 3.2 now!!!
+
+You don't have to wait long I guess...
+
+> 
+> pps. I would like to help with a project like KDE but feel that I lack 
+> the programming skills (hence the studying!) what would I need to learn, 
+> and is there anything I could do in the mean time??
+
+Ok, if you want to start contributing by coding in KDE, you should learn 
+C++. Most of the code in KDE is written in C++. But there is also the 
+possibility in coding in other languages, because there are language 
+bindings in KDE available. You also can have a look at Qt, the toolkit 
+that is used by KDE. If you want to read a tutorial about Coding for KDE 
+you can have a look at our website. Annma wrote some nice tutorials. 
+You'll find them under http://women.kde.org/articles/
+In the mean time there is a lot to do. You can help developing our 
+website or write articles for it. You can also contribute to KDE in 
+other ways. The newest possibility is the KDE Quality Team, if I get 
+that right. You can also work together with our male supporters and help 
+for example to improve Usability. It isn't a question of what tasks has 
+to be done, because there are enough, believe me, but a question about 
+what are you interested in?
+
+If you have any questions, just go ahead and ask. And again welcome to 
+KDE Women!
+
+From oster at kde.org  Wed Jan 28 10:36:47 2004
+From: oster at kde.org (Frauke Oster)
+Date: Wed Jan 28 10:46:02 2004
+Subject: [Kde-women] Anyone who wants to help me?
+Message-ID: <401782AF.2050208@kde.org>
+
+Hi!
+As I wrote in my last mail, I was reminded of something and I badly need 
+help with it. Some time ago I wrote that I want to setup a database for 
+the website to handle tasks, that need to be done. Unfortunately I have 
+no time to work hard on it and my first attempt to create the database 
+was completely rubbish. So I am searching for someone who knows Mysql 
+and maybe php too. Anyone who is interested in writing the database, 
+please help me!
+
+Cheers,
+Frauke
+
+
+From jo at sharrad.co.uk  Wed Jan 28 22:02:24 2004
+From: jo at sharrad.co.uk (Joanna Harris)
+Date: Wed Jan 28 22:03:18 2004
+Subject: [Kde-women] Re: introduction - mysql + php
+In-Reply-To: <20040128110407.26024.qmail@ktown.kde.org>
+Message-ID: <web-1030542@sharrad.co.uk>
+
+thanks for the friendly response....I know my anti-spam is 
+working now!!!
+
+Talking about MySQL and PHP have you tried PHP-Nuke? I 
+have used it a many a time re-wrote it to my own 
+advantage...eg. using the content page for teachers to 
+post homework online (for students and parents sake) they 
+might have something that you can change... though saying 
+that after about 3 months I have "grown out" of that and 
+and have started to php and mysql mysql myself....but for 
+a quick answer it might be worth looking.
+
+Jo
+From pgd-karolinali at algonet.se  Thu Jan 29 08:54:06 2004
+From: pgd-karolinali at algonet.se (Karolina Lindqvist)
+Date: Thu Jan 29 08:52:49 2004
+Subject: [Kde-women] KDE Women - Introduction
+In-Reply-To: <web-1030507@sharrad.co.uk>
+References: <web-1030507@sharrad.co.uk>
+Message-ID: <200401290854.07046.pgd-karolinali@algonet.se>
+
+onsdagen den 28 januari 2004 00.45 skrev Joanna Harris:
+
+> I am at the moment concentrating on several projects, the
+> first is my PHP and Mysql skills, the second is learning
+> to program in C (I haven't yet found an answer to wheather
+> or not I'm too old to start learning!! Everyone seems like
+> they are 14 year old boys!!), 
+
+I learned C at 20+, and C++ at 30.  I don't see age as a problem.
+
+Karolina
+From eva at kde.org  Thu Jan 29 12:18:01 2004
+From: eva at kde.org (Eva Brucherseifer)
+Date: Thu Jan 29 12:21:16 2004
+Subject: [Kde-women] KDE Women - Introduction
+In-Reply-To: <200401290854.07046.pgd-karolinali@algonet.se>
+References: <web-1030507@sharrad.co.uk>
+	<200401290854.07046.pgd-karolinali@algonet.se>
+Message-ID: <200401291218.01386.eva@kde.org>
+
+Am Donnerstag, 29. Januar 2004 08:54 schrieb Karolina Lindqvist:
+> onsdagen den 28 januari 2004 00.45 skrev Joanna Harris:
+> > I am at the moment concentrating on several projects, the
+> > first is my PHP and Mysql skills, the second is learning
+> > to program in C (I haven't yet found an answer to wheather
+> > or not I'm too old to start learning!! Everyone seems like
+> > they are 14 year old boys!!),
+>
+> I learned C at 20+, and C++ at 30.  I don't see age as a problem.
+
+Same for me. I did some basic and pascal in school, but today I wouldn't 
+regard that as real programming. I started learning C/C++ when I was 25, but 
+my main learning period was when I did a real large-scale project with 27+. I 
+learned all the things that can go wrong ;-) Today I'd say that 
+object-oriented programming like in C++ helps more against these faults than 
+structured programming in C. 
+I don't think age matters and my experience is, that 14 year old boys often 
+want to show off themselves and that they can talk a lot of rubbish ;-) What 
+really matters is, that you don't only study books but do real projects.
+
+Welcome to the project :-)
+eva
+
+>
+> Karolina
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+From webdiva at skynet.be  Thu Jan 29 14:31:29 2004
+From: webdiva at skynet.be (webdiva@skynet.be)
+Date: Thu Jan 29 14:31:47 2004
+Subject: [Kde-women] KDE Women - Introduction
+Message-ID: <200401291331.i0TDVUCS013694@october.skynet.be>
+
+Talking about learning... I've been looking for evening courses like crazy and found nothing. No programming courses (unless you want to go back to uni and become engineer), no unix or linux courses. I even posted messages on the Brussels Linux message list and no one could tell where I could follow a unix or linux course??? The only thing I can find is expensive courses like red hat certification which must be 400 € for a 3 day course and you have to know the basics already...
+Any idea on how to learn programming when you're working all day and don't have much money??? ;-)
+
+Marie
+
+
+
+
+
+
+
+
+Am Donnerstag, 29. Januar 2004 08:54 schrieb Karolina Lindqvist:
+> onsdagen den 28 januari 2004 00.45 skrev Joanna Harris:
+> > I am at the moment concentrating on several projects, the
+> > first is my PHP and Mysql skills, the second is learning
+> > to program in C (I haven't yet found an answer to wheather
+> > or not I'm too old to start learning!! Everyone seems like
+> > they are 14 year old boys!!),
+>
+> I learned C at 20+, and C++ at 30. I don't see age as a problem.
+
+Same for me. I did some basic and pascal in school, but today I wouldn't 
+regard that as real programming. I started learning C/C++ when I was 25, but 
+my main learning period was when I did a real large-scale project with 27+. I 
+learned all the things that can go wrong ;-) Today I'd say that 
+object-oriented programming like in C++ helps more against these faults than 
+structured programming in C. 
+I don't think age matters and my experience is, that 14 year old boys often 
+want to show off themselves and that they can talk a lot of rubbish ;-) What 
+really matters is, that you don't only study books but do real projects.
+
+Welcome to the project :-)
+eva
+
+>
+> Karolina
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+_______________________________________________
+kde-women mailing list
+kde-women@kde.org
+https://mail.kde.org/mailman/listinfo/kde-women
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20040129/75833e86/attachment.html
+From annemarie.mahfouf at free.fr  Thu Jan 29 14:59:38 2004
+From: annemarie.mahfouf at free.fr (Anne-Marie Mahfouf)
+Date: Thu Jan 29 15:02:52 2004
+Subject: [Kde-women] KDE Women - Introduction
+In-Reply-To: <200401291331.i0TDVUCS013694@october.skynet.be>
+References: <200401291331.i0TDVUCS013694@october.skynet.be>
+Message-ID: <200401290859.38275.annemarie.mahfouf@free.fr>
+
+On January 29, 2004 08:31 am, webdiva@skynet.be wrote:
+> Talking about learning... I've been looking for evening courses like crazy
+> and found nothing. No programming courses (unless you want to go back to
+> uni and become engineer), no unix or linux courses. I even posted messages
+> on the Brussels Linux message list and no one could tell where I could
+> follow a unix or linux course??? The only thing I can find is expensive
+> courses like red hat certification which must be 400 ? for a 3 day course
+> and you have to know the basics already... Any idea on how to learn
+> programming when you're working all day and don't have much money??? ;-)
+>
+> Marie
+
+Just buy a book or study some online tutorials. You'll find some sample code 
+to try. Then try your hands on a real project when you have the basics. Then 
+you'll be able to learn deeper.
+I began with some online C++ tutorials and now I have 5 C++ books plus 2 
+Design Patterns books! (well, I love books...) I bring a C++ book while my 
+daughter is having her ice-skating lesson for example.
+Each time I come to something new in C++, I try to read about it. I also 
+understand better things that I have learnt at the beginning. But I would say 
+that after 3 years, I am still a beginner...
+
+Maybe I could write a webpage on the women.kde.org with a sort of 'guideline' 
+on learning C++/Qt/KDE
+- online C++ tutorials
+- online Qt tutorials
+- annma's tutorial ;)
+- try it yourself! and use: Qt doc and KDE API doc
+
+The incredible fact is that everything is possible in Open Source, whatever 
+gender, country and ... age ;)
+
+Latest  website news:
+1) Marina translated some tutorials to Russian, thanks!
+2) Did you read the article Tuxy wrote on the website about Kalzium? If anyone 
+feels like writing something about a KDE application or anything else related 
+to Free Software, please do it and either send me the html or go further and 
+use cvs yourself to put it online (I'll guide you)!
+3) Someone with php/mySQL knowledge is needed to carry on the database 
+project.
+
+Cheers,
+
+annma
+From jh at weltraumsofa.de  Thu Jan 29 15:08:22 2004
+From: jh at weltraumsofa.de (Jutta Horstmann)
+Date: Thu Jan 29 15:12:34 2004
+Subject: database project, Was: Re: [Kde-women] KDE Women - Introduction
+In-Reply-To: <200401290859.38275.annemarie.mahfouf@free.fr>
+References: <200401291331.i0TDVUCS013694@october.skynet.be>
+	<200401290859.38275.annemarie.mahfouf@free.fr>
+Message-ID: <401913D6.2060509@weltraumsofa.de>
+
+Anne-Marie Mahfouf wrote:
+
+> Latest  website news:
+[...]
+> 3) Someone with php/mySQL knowledge is needed to carry on the database 
+> project.
+
+What exactly is needed to be done? How time-consuming will it be? I 
+might be able to contribute, but I need some more information!
+
+[whoami: Jutta Horstmann, 27year old student of computer science, living 
+in Berlin, Germany]
+
+Regards,
+Jutta
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/x-pkcs7-signature
+Size: 2839 bytes
+Desc: S/MIME Cryptographic Signature
+Url : http://mail.kde.org/pipermail/kde-women/attachments/20040129/4ac3a409/smime.bin
+From ines at drury.edu  Thu Jan 29 15:17:06 2004
+From: ines at drury.edu (Ines)
+Date: Thu Jan 29 15:20:38 2004
+Subject: [Kde-women] KDE Women - Introduction
+In-Reply-To: <200401290859.38275.annemarie.mahfouf@free.fr>
+References: <200401291331.i0TDVUCS013694@october.skynet.be>
+	<200401290859.38275.annemarie.mahfouf@free.fr>
+Message-ID: <401915E2.501@drury.edu>
+
+Hello Girls,
+
+I work as a DBA... what is the database project about?
+Ines
+
+Anne-Marie Mahfouf wrote:
+> 3) Someone with php/mySQL knowledge is needed to carry on the database 
+> project.
+> 
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+
+
+From oster at kde.org  Thu Jan 29 15:23:50 2004
+From: oster at kde.org (Frauke Oster)
+Date: Thu Jan 29 15:22:42 2004
+Subject: AW: Re: [Kde-women] KDE Women - Introduction
+In-Reply-To: <200401291331.i0TDVUCS013694@october.skynet.be>
+Message-ID: <FMEILJKIAKGAHGAOKABKMEABCAAA.oster@kde.org>
+
+I only can say that it is very important to practice programming. I read
+some books about C++ before I started to study computer science at uni and
+books can only teach you the syntax. To get the real understanding for the
+programming language you have to practice it. I would give you the advice to
+use books that give you coding tasks, so that you can practice using the
+syntax. At my uni I get every week a coding task and it really helped me to
+get better and to understand what I am doing. So just try to find a way for
+practicing.
+
+If you need any advice I guess you'll find it at this mailing list.
+
+Cheers,
+Frauke
+  -----Ursprungliche Nachricht-----
+  Von: webdiva@skynet.be [mailto:webdiva@skynet.be]
+  Gesendet: Donnerstag, 29. Januar 2004 14:31
+  An: kde-women@mail.kde.org
+  Betreff: RE: Re: [Kde-women] KDE Women - Introduction
+
+
+  Talking about learning... I've been looking for evening courses like crazy
+and found nothing. No programming courses (unless you want to go back to uni
+and become engineer), no unix or linux courses. I even posted messages on
+the Brussels Linux message list and no one could tell where I could follow a
+unix or linux course??? The only thing I can find is expensive courses like
+red hat certification which must be 400 for a 3 day course and you have to
+know the basics already...
+  Any idea on how to learn programming when you're working all day and don't
+have much money??? ;-)
+
+  Marie
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20040129/f4de32e5/attachment.html
+From ines at drury.edu  Thu Jan 29 15:20:38 2004
+From: ines at drury.edu (Ines)
+Date: Thu Jan 29 15:24:07 2004
+Subject: [Kde-women] Anyone who wants to help me?
+In-Reply-To: <401782AF.2050208@kde.org>
+References: <401782AF.2050208@kde.org>
+Message-ID: <401916B6.2000204@drury.edu>
+
+Hello Frauke,
+
+I just returned from vacation and while catching up with email found 
+this one. I can help, I have been working as a database 
+administrator/programmer/designer for almost 4 years to the date on 
+multiple architectures. Are you free to chat some of these days?
+Take care,
+
+Ines
+
+Frauke Oster wrote:
+
+> Hi!
+> As I wrote in my last mail, I was reminded of something and I badly need 
+> help with it. Some time ago I wrote that I want to setup a database for 
+> the website to handle tasks, that need to be done. Unfortunately I have 
+> no time to work hard on it and my first attempt to create the database 
+> was completely rubbish. So I am searching for someone who knows Mysql 
+> and maybe php too. Anyone who is interested in writing the database, 
+> please help me!
+> 
+> Cheers,
+> Frauke
+> 
+> 
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+
+
+From oster at kde.org  Thu Jan 29 15:34:29 2004
+From: oster at kde.org (Frauke Oster)
+Date: Thu Jan 29 15:33:22 2004
+Subject: AW: database project, Was: Re: [Kde-women] KDE Women - Introduction
+In-Reply-To: <401913D6.2060509@weltraumsofa.de>
+Message-ID: <FMEILJKIAKGAHGAOKABKKEACCAAA.oster@kde.org>
+
+Hi!
+
+>
+> What exactly is needed to be done? How time-consuming will it be? I
+> might be able to contribute, but I need some more information!
+
+I explained the main idea of the database in a mail some time ago. Maybe you
+read this as a first step.
+http://lists.kde.org/?l=kde-women&m=106987214831803&w=2
+
+The database should contain some tables, one for information about the task
+that need to be done, one for personal information about the person who
+assigned to the task and there should be a table that consists information
+about the level of the task and some other details about the task.
+
+So, what is needed to be done, is to write this database with Mysql and to
+write a webinterface for the database. The webinterface should include a
+search function (application, level, or something else), read through the
+task description, a formula for the assignment or background questions and
+so on.
+
+If the database is ready and the webinterface, one of the guys will put the
+database on our server, so the database can be used by everyone who wants to
+contribute to KDE and searches a task that needs to be done.
+
+Any volunteer for the job to write the database??
+
+I will now go online in the IRC, if someone wants to talk about it, just
+join the channel.
+
+Cheers,
+Frauke
+
+
+From henrigirard at yahoo.fr  Thu Jan 29 15:44:45 2004
+From: henrigirard at yahoo.fr (=?iso-8859-1?q?Girard=20Henri?=)
+Date: Thu Jan 29 15:45:00 2004
+Subject: [Kde-women] webdiva : learning programing
+Message-ID: <20040129144445.28294.qmail@web12005.mail.yahoo.com>
+
+Hello :)
+I have been a long time in your case... Wanting even to change job and working in computing... So I did it with books I baught... But at the end I got internet and learned everything with tutorials... At the age of 50y after waiting 25y I endly got the chance in France to get a training as Analyst ! 
+But great deception : No much programming and old methods... i  found a job six years ago as analyst but I had a lot of work to train myself to a better level !!!
+Now I soon in "retirement"... And just learned it won't be well paid ! As it should have been... Well doesn't matter : I just started to learn "POV-RAY" to be able to write a theory in maths and physics I am seeking for years !!!
+So if you have internet and know english they are so many good tutorials than can make you a real good one, with patience and work :)
+Kde-women is a good start : kdevelop will help you... I think what you have to do is in which "domain" you want to programm, and which language... c /c++, basic etc...
+There is a good BASIC like visual basic on linux : http://gambas.sourceforge.net... And start ! Examples are many and working !!!
+kdevelop too and kde apps... with gnome : glade (http://www.gtk.org) and follow glade links... http://anjuta.sourceforge.net an IDE ...
+And if you speak french : Go to http://www.developpez.com...
+You have all things from beginners to advanced programming : You can even be in a list or go in forum ... For linux you can get fedora or mandrake which are quite easy to install... And if you want more precise details, send me an email and I will see how i can help you... Communauty is a great family and when one is newbie.. (i am always newbie... lol.. Because there is so much to learn !! ) just ask for help... And be patient ! Some people are very nice other less.. But don't worry : Just tell them nicely they aren't very nice and usually they apologize !!! If there are gentleman or lady !!!
+wish you good luck :)
+Henri
+
+
+		
+---------------------------------
+Yahoo! Mail: votre e-mail personnel et gratuit qui vous suit partout !
+Cr?ez votre Yahoo! Mail
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20040129/d06af998/attachment.html
+From katyi at web.de  Thu Jan 29 18:37:28 2004
+From: katyi at web.de (Katrin Wolf)
+Date: Thu Jan 29 18:36:35 2004
+Subject: AW: database project,
+	Was: Re: [Kde-women] KDE Women - Introduction
+In-Reply-To: <FMEILJKIAKGAHGAOKABKKEACCAAA.oster@kde.org>
+References: <FMEILJKIAKGAHGAOKABKKEACCAAA.oster@kde.org>
+Message-ID: <401944D8.8070108@web.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi everybody,
+I just talked to Frauke on IRC. I'm also interested in working on this
+database-project, but the next 2 months I won't have much time as the
+winter term is nearly over and examination time starts - so lot of work
+for me and less free time.
+
+Our idea was to have a meeting on IRC with all women, who are interested
+in working on this project, maybe at the weekend (Jan 31/Feb 1) as this
+is maybe faster and more effective than discussing on the list.
+
+I have made a little ER-diagram about how the database could look like -
+have a look at http://www.missmarple-net.de/kde-women/tasks_db.png
+(sorry, this is a quick'n'dirty-dia-hack)
+
+OK, enough said, cu
+
+Katrin
+
+- --
+http://www.cs.uni-magdeburg.de/~kwolf
+GnuPG Key-ID: 48507D0F
+ICQ #72094493
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+iD8DBQFAGUTYWHO/+khQfQ8RApX9AJ4rb+xWZ4tMedW0Pb9tbvs3FYwKaQCfS/oQ
+VOvmt7lk3eOsM6iqekw/NN4=
+=nt+m
+-----END PGP SIGNATURE-----
+
+From katyi at web.de  Thu Jan 29 18:41:53 2004
+From: katyi at web.de (Katrin Wolf)
+Date: Thu Jan 29 18:42:24 2004
+Subject: [Kde-women] Linux-Day in Chemnitz/Germany March 6/7
+Message-ID: <401945E1.30009@web.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi everybody,
+just wanted to ask who of you will visit the Linux-Day in
+Chemnitz/Germany at March 6/7.
+I will be there both days, so maybe we can meet there - I really like to
+get to know you in real life (as I just joined the project and don't
+know anyone of you in real life).
+
+CU, Katrin
+- --
+http://www.cs.uni-magdeburg.de/~kwolf
+GnuPG Key-ID: 48507D0F
+ICQ #72094493
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+iD8DBQFAGUXgWHO/+khQfQ8RArFYAJ9CNLiE8ZCzzTOwBoAUIJCN5Xo4aACeM3yT
+dStGeN/bBzONZZXA7czG3VQ=
+=BJum
+-----END PGP SIGNATURE-----
+
+From ines at drury.edu  Thu Jan 29 18:56:37 2004
+From: ines at drury.edu (Ines)
+Date: Thu Jan 29 19:00:13 2004
+Subject: AW: database project,
+	Was: Re: [Kde-women] KDE Women - Introduction
+In-Reply-To: <401944D8.8070108@web.de>
+References: <FMEILJKIAKGAHGAOKABKKEACCAAA.oster@kde.org>
+	<401944D8.8070108@web.de>
+Message-ID: <40194955.9060509@drury.edu>
+
+Took your ERD and made some suggestions:
+
+http://kobrin.drury.edu/ines/images/01292004_KdeWomenERD.JPG
+
+I'm a bit unavailable this weekend ... any chance we can chat during the 
+week?
+
+Ines
+
+Katrin Wolf wrote:
+
+> -----BEGIN PGP SIGNED MESSAGE-----
+> Hash: SHA1
+> 
+> Hi everybody,
+> I just talked to Frauke on IRC. I'm also interested in working on this
+> database-project, but the next 2 months I won't have much time as the
+> winter term is nearly over and examination time starts - so lot of work
+> for me and less free time.
+> 
+> Our idea was to have a meeting on IRC with all women, who are interested
+> in working on this project, maybe at the weekend (Jan 31/Feb 1) as this
+> is maybe faster and more effective than discussing on the list.
+> 
+> I have made a little ER-diagram about how the database could look like -
+> have a look at http://www.missmarple-net.de/kde-women/tasks_db.png
+> (sorry, this is a quick'n'dirty-dia-hack)
+> 
+> OK, enough said, cu
+> 
+> Katrin
+> 
+> - --
+> http://www.cs.uni-magdeburg.de/~kwolf
+> GnuPG Key-ID: 48507D0F
+> ICQ #72094493
+> -----BEGIN PGP SIGNATURE-----
+> Version: GnuPG v1.2.3 (GNU/Linux)
+> Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+> 
+> iD8DBQFAGUTYWHO/+khQfQ8RApX9AJ4rb+xWZ4tMedW0Pb9tbvs3FYwKaQCfS/oQ
+> VOvmt7lk3eOsM6iqekw/NN4=
+> =nt+m
+> -----END PGP SIGNATURE-----
+> 
+> _______________________________________________
+> kde-women mailing list
+> kde-women@kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+
+
+From katyi at web.de  Thu Jan 29 19:39:46 2004
+From: katyi at web.de (Katrin Wolf)
+Date: Thu Jan 29 19:38:56 2004
+Subject: AW: database project,
+	Was: Re: [Kde-women] KDE Women - Introduction
+In-Reply-To: <40194955.9060509@drury.edu>
+References: <FMEILJKIAKGAHGAOKABKKEACCAAA.oster@kde.org>	<401944D8.8070108@web.de>
+	<40194955.9060509@drury.edu>
+Message-ID: <40195372.8010705@web.de>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Ines wrote:
+| Took your ERD and made some suggestions:
+|
+| http://kobrin.drury.edu/ines/images/01292004_KdeWomenERD.JPG
+|
+| I'm a bit unavailable this weekend ... any chance we can chat during the
+| week?
+|
+| Ines
+|
+
+Hi Ines,
+very nice diagram - I guess now I understood more the thing it is all
+about ;-) (BTW: What tool do you use to draw your diagrams?)
+Well we can also chat during the week, the suggestion to chat on the
+weekend was made with the intention that you might have more time on
+weekends. Maybe we wait for some more responses of the others and then
+agree upon a date.
+
+Katrin
+- --
+http://www.cs.uni-magdeburg.de/~kwolf
+GnuPG Key-ID: 48507D0F
+ICQ #72094493
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.3 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://enigmail.mozdev.org
+
+iD8DBQFAGVNyWHO/+khQfQ8RAnz7AKCqqs+Z9pDkQID4x/+J0kQj1jDWyACaA64W
+stD2R05CkIBYAHlWMrd1RqM=
+=1tlz
+-----END PGP SIGNATURE-----
+
+From ines at drury.edu  Thu Jan 29 23:37:40 2004
+From: ines at drury.edu (Ines)
+Date: Thu Jan 29 23:41:12 2004
+Subject: AW: database project,
+	Was: Re: [Kde-women] KDE Women - Introduction
+In-Reply-To: <40195372.8010705@web.de>
+References: <FMEILJKIAKGAHGAOKABKKEACCAAA.oster@kde.org>	<401944D8.8070108@web.de>	<40194955.9060509@drury.edu>
+	<40195372.8010705@web.de>
+Message-ID: <40198B34.1010304@drury.edu>
+
+Hello Katrin,
+
+The diagram is not even close to finished that's why we need to chat 
+about it (I'm sure tons of other attributes will show up). To draw my 
+diagrams I use a database CASE called ERWIN that also writes the DDL 
+statements that make up the entities.
+Looking forward to talking with you all,
+
+Ines
+
+Katrin Wolf wrote:
+> Hi Ines,
+> very nice diagram - I guess now I understood more the thing it is all
+> about ;-) (BTW: What tool do you use to draw your diagrams?)
+> Well we can also chat during the week, the suggestion to chat on the
+> weekend was made with the intention that you might have more time on
+> weekends. Maybe we wait for some more responses of the others and then
+> agree upon a date.
+> 
+> Katrin
+-- 
+****************************************************
+  (o_  (define (Pix-signature foo)(cond ((zero? foo)())
+  //\  (else (cons 'IS-THIS-ANNOYING??? (Pix-signature (- foo 1))))))
+  V_/_ (Pix-signature 42)
+  ****************************************************
+
+
+From nolden at kde.org  Fri Jan 30 01:56:53 2004
+From: nolden at kde.org (Ralf Nolden)
+Date: Fri Jan 30 01:58:41 2004
+Subject: [Kde-women] Linux-Day in Chemnitz/Germany March 6/7
+In-Reply-To: <401945E1.30009@web.de>
+References: <401945E1.30009@web.de>
+Message-ID: <200401300156.54082.nolden@kde.org>
+
+On Thursday 29 January 2004 18:41, Katrin Wolf wrote:
+> Hi everybody,
+> just wanted to ask who of you will visit the Linux-Day in
+> Chemnitz/Germany at March 6/7.
+> I will be there both days, so maybe we can meet there - I really like to
+> get to know you in real life (as I just joined the project and don't
+> know anyone of you in real life).
+
+Hi Katrin,
+
+you may want to contact Tobias Koenig who is in Chemnitz. He'll probably also 
+run the KDE booth there, so if you want, he'll surely be thankful if you 
+could help him (and the others who are there). His email address is 
+tokoe@kde.org.
+
+Welcome to KDE, BTW :)) You certainly did the right thing :)
+
+Ralf
+>
+> CU, Katrin
+
+-- 
+We're not a company, we just produce better code at less costs.
+--------------------------------------------------------------------
+Ralf Nolden
+nolden@kde.org
+
+The K Desktop Environment       The KDevelop Project
+http://www.kde.org              http://www.kdevelop.org
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: not available
+Type: application/pgp-signature
+Size: 189 bytes
+Desc: signature
+Url : http://mail.kde.org/pipermail/kde-women/attachments/20040130/12eddb88/attachment.pgp
+From girardhenri at hotmail.com  Thu Jan 29 15:36:42 2004
+From: girardhenri at hotmail.com (Henri Girard)
+Date: Fri Jan 30 09:27:51 2004
+Subject: [Kde-women] KDE Women - Introduction
+References: <200401291331.i0TDVUCS013694@october.skynet.be>
+Message-ID: <BAY8-DAV50WAFsTmICl00011c8d@hotmail.com>
+
+Hello :)
+I have been a long time in your case... Wanting even to change job and working in computing... So I did it with books I baught... But at the end I got internet and learned everything with tutorials... At the age of 50y after waiting 25y I endly got the chance in France to get a training as Analyst ! 
+But great deception : No much programming and old methods... i  found a job six years ago as analyst but I had a lot of work to train myself to a better level !!!
+Now I soon in "retirement"... And just learned it won't be well paid ! As it should have been... Well doesn't matter : I just started to learn "POV-RAY" to be able to write a theory in maths and physics I am seeking for years !!!
+So if you have internet and know english they are so many good tutorials than can make you a real good one, with patience and work :)
+Kde-women is a good start : kdevelop will help you... I think what you have to do is in which "domain" you want to programm, and which language... c /c++, basic etc...
+There is a good BASIC like visual basic on linux : http://gambas.sourceforge.net... And start ! Examples are many and working !!!
+kdevelop too and kde apps... with gnome : glade (http://www.gtk.org) and follow glade links... http://anjuta.sourceforge.net an IDE ...
+And if you speak french : Go to http://www.developpez.com...
+You have all things from beginners to advanced programming : You can even be in a list or go in forum ... For linux you can get fedora or mandrake which are quite easy to install... And if you want more precise details, send me an email and I will see how i can help you... Communauty is a great family and when one is newbie.. (i am always newbie... lol.. Because there is so much to learn !! ) just ask for help... And be patient ! Some people are very nice other less.. But don't worry : Just tell them nicely they aren't very nice and usually they apologize !!! If there are gentleman or lady !!!
+wish you good luck :)
+Henri
+
+  ----- Original Message ----- 
+  From: webdiva@skynet.be 
+  To: kde-women@mail.kde.org 
+  Sent: Thursday, January 29, 2004 2:31 PM
+  Subject: RE: Re: [Kde-women] KDE Women - Introduction
+
+
+  Talking about learning... I've been looking for evening courses like crazy and found nothing. No programming courses (unless you want to go back to uni and become engineer), no unix or linux courses. I even posted messages on the Brussels Linux message list and no one could tell where I could follow a unix or linux course??? The only thing I can find is expensive courses like red hat certification which must be 400 ? for a 3 day course and you have to know the basics already...
+  Any idea on how to learn programming when you're working all day and don't have much money??? ;-)
+   
+  Marie
+   
+
+
+   
+
+
+------------------------------------------------------------------------------
+  Am Donnerstag, 29. Januar 2004 08:54 schrieb Karolina Lindqvist:
+  > onsdagen den 28 januari 2004 00.45 skrev Joanna Harris:
+  > > I am at the moment concentrating on several projects, the
+  > > first is my PHP and Mysql skills, the second is learning
+  > > to program in C (I haven't yet found an answer to wheather
+  > > or not I'm too old to start learning!! Everyone seems like
+  > > they are 14 year old boys!!),
+  >
+  > I learned C at 20+, and C++ at 30. I don't see age as a problem.
+
+  Same for me. I did some basic and pascal in school, but today I wouldn't 
+  regard that as real programming. I started learning C/C++ when I was 25, but 
+  my main learning period was when I did a real large-scale project with 27+. I 
+  learned all the things that can go wrong ;-) Today I'd say that 
+  object-oriented programming like in C++ helps more against these faults than 
+  structured programming in C. 
+  I don't think age matt! ers and my experience is, that 14 year old boys often 
+  want to show off themselves and that they can talk a lot of rubbish ;-) What 
+  really matters is, that you don't only study books but do real projects.
+
+  Welcome to the project :-)
+  eva
+
+  >
+  > Karolina
+  > _______________________________________________
+  > kde-women mailing list
+  > kde-women@kde.org
+  > https://mail.kde.org/mailman/listinfo/kde-women
+
+  _______________________________________________
+  kde-women mailing list
+  kde-women@kde.org
+  https://mail.kde.org/mailman/listinfo/kde-women
+
+
+
+
+
+
+
+------------------------------------------------------------------------------
+
+
+  _______________________________________________
+  kde-women mailing list
+  kde-women@kde.org
+  https://mail.kde.org/mailman/listinfo/kde-women
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: http://mail.kde.org/pipermail/kde-women/attachments/20040129/0fb42de8/attachment-0001.html

@@ -1,0 +1,1703 @@
+From kesha.shah1106@gmail.com  Wed Jul 17 11:04:42 2013
+Return-Path: <kesha.shah1106@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id EBE587702F
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 11:04:42 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id g97PeGIpWAtq for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 11:04:28 +0000 (UTC)
+Received: from mail-pa0-f47.google.com (mail-pa0-f47.google.com
+	[209.85.220.47])
+	by restaurant.gnome.org (Postfix) with ESMTP id 7547F77013
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 11:04:19 +0000 (UTC)
+Received: by mail-pa0-f47.google.com with SMTP id kl14so1839208pab.6
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 04:04:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:content-type; bh=ZdNcbjRzykxmgLkO+Mu/Nq/HKADEtbvLhB9ob3lu4sI=;
+	b=co2fEbzViQLgY/WdDZNtNJrRn+KWRwojFQWYNmn2S5eZS++ISuPYdMAuWgdxcDpnMx
+	4xNfpPAG3ojQsWvecse1TQoY1atTvpnDvcQF3cw+hwF/Ox94jnMKBeNWP6DIPcw8Isbz
+	WiSDysVFSnnk4VeXAmF5KkrypT1mAaUt6s8mOV+kh1XiNkdZm4ho3U3nuj3lV1HlRDR1
+	LgX1Y0nj6X3Yx3vsCWj6UpQQheiYulT1HeK2OG3DxhvwaXiDkdeTFFiy1SR+BYNfAwy1
+	y4zT2DRkgtEGW3kzIDFKByK+a+FkOqGyNaga3k5kk6cbrH0xvgXJKNAr+sLp075S6Yo4
+	nvHQ==
+MIME-Version: 1.0
+X-Received: by 10.68.52.10 with SMTP id p10mr6283503pbo.92.1374059058670; Wed,
+	17 Jul 2013 04:04:18 -0700 (PDT)
+Received: by 10.66.219.68 with HTTP; Wed, 17 Jul 2013 04:04:18 -0700 (PDT)
+In-Reply-To: <CALHv3TK1j1kyGPrr8Deh5ucqZy3NE=Pn7k+nDXu0QYeO5xmcmw@mail.gmail.com>
+References: <CALHv3TK1j1kyGPrr8Deh5ucqZy3NE=Pn7k+nDXu0QYeO5xmcmw@mail.gmail.com>
+Date: Wed, 17 Jul 2013 16:34:18 +0530
+Message-ID: <CALHv3TJb9vbqHOFtKbVSz4XHaMYxd-2FD4yNvF44YCv-e1ZQLw@mail.gmail.com>
+From: Kesha Shah <kesha.shah1106@gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=bcaec54307a017b05204e1b30e05
+Subject: [gnome-women] Fwd: Introducing me and my interest
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 17 Jul 2013 11:04:43 -0000
+
+--bcaec54307a017b05204e1b30e05
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi all,
+
+I am an undergraduate student at Dhirubhai Ambani Institute of Information
+and Communication Technology. I have known the FOSS culture and Open source
+organizations since past 8 months and love it.
+
+I belong to a university, where there are brilliant coders and students
+with great potentials, but there are few who have got in-depth knowledge
+about open source, how anyone can become a part of it and there exists many
+misconceptions about it. I have read up how Gnome supports
+new contributes and coders and encourages them and I really like it.
+
+This is often considered as a male-dominated field, where hardly women are
+aware of it. To increase the awareness among women in software development,
+hats off to programs like Outreach Program for Women. I was unfortunate to
+hear about it after the deadline elasped and couldn't participate in it but
+fortunate enough to know its hand in hand another program- Google Summer of
+Code and be a part of it.
+
+Amongst the 17 students selected from our university this year, I am the
+only girl student. None of my female batchmates or female seniors present
+at college have got the same opportunity as me. Many of my batchmates,
+juniors and friends ask me how do I start. I do explain them to the best I
+can, but still I feel something is lacked and I can't guide them 100%.
+
+I use Gnome and its various softwares. One of them, I feel more attached
+with is GCompris. My younger sister loves it and plays it all day long. I
+have many plans in head for its improvement. I have downloaded its source
+but had got no time to hack upon it due to current project. I plan working
+for it after september and do a full time project for its improvement and
+adding new activities.
+
+I am willing to attend GUADEC 2013 to learn more about Gnome, involve my
+fellow batchmates, junior and friends and also for myself to contribute to
+it. I want to meet this awesome community and wonderful people from it, but
+I am in financial crisis. It would be great if I can get some sponsership
+so that I can attend this conference and bridge the gap.
+
+I am interested in many talks which includes First Step Towards
+Contributing, Gnome in Open Source Community, Gnome Outreach from Three
+Point zero to Hero,FLOSS community outreaches, Outreach Preogram for
+Women-Lessons in Collaboration, Foss & Education. I am also willing to
+volunteer, if given an opportunity to come which may smooth the management
+and I can get to help this awesome community :)
+
+I know it has been too long, but thanks for spending you time and reading
+it :)
+
+Best Regards,
+-- 
+Kesha Shah.
+
+--bcaec54307a017b05204e1b30e05
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi all,<br><div class=3D"gmail_quote"><div dir=3D"ltr"><di=
+v><br></div><div>I am an undergraduate student at Dhirubhai Ambani Institut=
+e of Information and Communication Technology. I have known the FOSS cultur=
+e and Open source organizations since past 8 months and love it.</div>
+
+<div><br></div><div>I belong to a university, where there are brilliant cod=
+ers and students with great potentials, but there are few who have got in-d=
+epth knowledge about open source, how anyone can become a part of it and th=
+ere exists many misconceptions about it. I have read up how Gnome supports =
+new=A0contributes=A0and coders and encourages them and I really like it.=A0=
+</div>
+
+<div><br></div><div>This is often considered as a male-dominated field, whe=
+re hardly women are aware of it. To increase the awareness among women in s=
+oftware development, hats off to programs like Outreach Program for Women. =
+I was unfortunate to hear about it after the deadline elasped and couldn&#3=
+9;t participate in it but fortunate enough to know its hand in hand another=
+ program- Google Summer of Code and be a part of it.=A0</div>
+
+<div><br></div><div>Amongst the 17 students selected from our university th=
+is year, I am the only girl student. None of my female batchmates or female=
+ seniors present at college have got the same opportunity as me. Many of my=
+ batchmates, juniors and friends ask me how do I start. I do explain them t=
+o the best I can, but still I feel something is lacked and I can&#39;t guid=
+e them 100%.</div>
+
+<div><br></div><div>I use Gnome and its various softwares. One of them, I f=
+eel more attached with is GCompris. My younger sister loves it and plays it=
+ all day long. I have many plans in head for its improvement. I have downlo=
+aded its source but had got no time to hack upon it due to current project.=
+ I plan working for it after september and do a full time project for its i=
+mprovement and adding new activities.</div>
+
+<div><br></div><div>I am willing to attend GUADEC 2013 to learn more about =
+Gnome, involve my fellow batchmates, junior and friends and also for myself=
+ to contribute to it. I want to meet this awesome community and wonderful p=
+eople from it, but I am in financial crisis. It would be great if I can get=
+ some sponsership so that I can attend this conference and bridge the gap.<=
+br>
+
+</div><div><br></div><div>I am interested in many talks which includes Firs=
+t Step Towards Contributing, Gnome in Open Source Community, Gnome Outreach=
+ from Three Point zero to Hero,FLOSS community outreaches, Outreach Preogra=
+m for Women-Lessons in Collaboration, Foss &amp; Education. I am also willi=
+ng to volunteer, if given an opportunity to come which may smooth the manag=
+ement and I can get to help this awesome community :)</div>
+
+<div><br></div><div>I know it has been too long, but thanks for spending yo=
+u time and reading it :)</div><div><br></div><div>Best Regards,</div><span =
+class=3D"HOEnZb"><font color=3D"#888888">-- <br>Kesha Shah.<br><br></font><=
+/span></div>
+</div><br>
+</div>
+
+--bcaec54307a017b05204e1b30e05--
+From kesha.shah1106@gmail.com  Wed Jul 17 11:41:23 2013
+Return-Path: <kesha.shah1106@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id A949677039
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 11:41:23 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=unavailable
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id Qjxxwwfvvv6L for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 11:41:10 +0000 (UTC)
+Received: from mail-pa0-f43.google.com (mail-pa0-f43.google.com
+	[209.85.220.43])
+	by restaurant.gnome.org (Postfix) with ESMTP id 0472D7702F
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 11:41:01 +0000 (UTC)
+Received: by mail-pa0-f43.google.com with SMTP id hz11so1861124pad.2
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 04:41:00 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:content-type; bh=Dvg0sfskjmtQirg7PPvuYf5Y+k6ujANeBxjC7mZH0KM=;
+	b=Af/m5BKeVkycsj/X49J4zA5mU1KmkqW9h9O3Bw+M/eE8TCkIxzZDqeyFQJDcNAcbUR
+	SqZnylajJGnvi3kjLs4DSqQ/CRVoyUG8jSJBBeCFiNPkFaiKPH3dPC8X/doZRdvL/wB0
+	ghzs4O5zmQ0mRx8TQAvUxdw/6T/MLSRQB8sNENLyX6pS008xSB6IVW3Q7C5GEDcjCBJo
+	V5VEgKaI8qfEDF2I8kooAJQmyn5/2lJgFEblQE3vTGslMd5YLRT4Wn/owS8Wv3cfQWS5
+	c6EKmqA4mjbJ6J0KwGOpLS6BkP7KkjMLmDnLpEm6+k0BRsUBYJIKRvND2553wzMUYM0v
+	bwHA==
+MIME-Version: 1.0
+X-Received: by 10.66.219.103 with SMTP id pn7mr7447145pac.123.1374061260419;
+	Wed, 17 Jul 2013 04:41:00 -0700 (PDT)
+Received: by 10.66.219.68 with HTTP; Wed, 17 Jul 2013 04:41:00 -0700 (PDT)
+In-Reply-To: <CAM=PHJ4BQMiqCKNx7OUX4i23Bx3S7ASN8U+oLP32-T+FhSP_TQ@mail.gmail.com>
+References: <CALHv3TK1j1kyGPrr8Deh5ucqZy3NE=Pn7k+nDXu0QYeO5xmcmw@mail.gmail.com>
+	<CAM=PHJ4BQMiqCKNx7OUX4i23Bx3S7ASN8U+oLP32-T+FhSP_TQ@mail.gmail.com>
+Date: Wed, 17 Jul 2013 17:11:00 +0530
+Message-ID: <CALHv3T+pF7i8_gecNoH-5CyUkMaMtZNeDLXdyVEKymUD_00GVA@mail.gmail.com>
+From: Kesha Shah <kesha.shah1106@gmail.com>
+To: roopesh shenoy <shenoy.roopesh@gmail.com>,
+	gcompris-devel@lists.sourceforge.net, 
+	gnome-love@gnome.org, gnome-women-list@mail.gnome.org,
+	guadec-list@gnome.org
+Content-Type: multipart/alternative; boundary=047d7b5d68b653b95304e1b391cb
+Subject: Re: [gnome-women] [gcompris-devel] Introducing me and my interest
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 17 Jul 2013 11:41:23 -0000
+
+--047d7b5d68b653b95304e1b391cb
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Roopesh,
+
+-Regarding the size of sponsorship, I would be great if I can get travel
+support.
+-I believe in-person meeting, having interactions and attending will have a
+huge impact over webinars.
+-Sure. This was one of the things in my mind like adding support to Hindi
+and small Hindi alphabet recognization and playing activity.
+Also, in the joining different province to make a country activity which
+exist now (oops ! I cant recall the name), I also thought of adding Indian
+states- this will make small Indian kids recognize different states, where
+it is located, how many are there etc.
+With a little more effort, if we can include capital of every state that
+would also be great !
+An actiivity regarding recipes of Indian dishes will also be cool :)
+These are few which involves adding activities specific to Indian audience.
+
+Best Regards,
+
+On Wed, Jul 17, 2013 at 4:50 PM, roopesh shenoy <shenoy.roopesh@gmail.com>wrote:
+
+> Hey Kesha
+>
+> Few questions -
+>
+> - What is the size of sponsorship you are looking for?
+> - Is it necessary to attend this conference instead of viewing webinars or
+> using other online media?
+> - Would you be interested in an internship that involves adding activities
+> specific to Indian audience to a GCompris fork? (we would contribute the
+> patches upstream but whether they get accepted or not will depend on the
+> project owner Bruno)
+>
+>
+> Thanks.
+>
+>
+> Best Regards,
+>
+> Roopesh
+>
+>
+> On Wed, Jul 17, 2013 at 4:22 PM, Kesha Shah <kesha.shah1106@gmail.com>wrote:
+>
+>> Hi all,
+>>
+>> I am an undergraduate student at Dhirubhai Ambani Institute of Information
+>> and Communication Technology. I have known the FOSS culture and Open
+>> source
+>> organizations since past 8 months and love it.
+>>
+>> I belong to a university, where there are brilliant coders and students
+>> with great potentials, but there are few who have got in-depth knowledge
+>> about open source, how anyone can become a part of it and there exists
+>> many
+>> misconceptions about it. I have read up how Gnome supports
+>> new contributes and coders and encourages them and I really like it.
+>>
+>> This is often considered as a male-dominated field, where hardly women are
+>> aware of it. To increase the awareness among women in software
+>> development,
+>> hats off to programs like Outreach Program for Women. I was unfortunate to
+>> hear about it after the deadline elasped and couldn't participate in it
+>> but
+>> fortunate enough to know its hand in hand another program- Google Summer
+>> of
+>> Code and be a part of it.
+>>
+>> Amongst the 17 students selected from our university this year, I am the
+>> only girl student. None of my female batchmates or female seniors present
+>> at college have got the same opportunity as me. Many of my batchmates,
+>> juniors and friends ask me how do I start. I do explain them to the best I
+>> can, but still I feel something is lacked and I can't guide them 100%.
+>>
+>> I use Gnome and its various softwares. One of them, I feel more attached
+>> with is GCompris. My younger sister loves it and plays it all day long. I
+>> have many plans in head for its improvement. I have downloaded its source
+>> but had got no time to hack upon it due to current project. I plan working
+>> for it after september and do a full time project for its improvement and
+>> adding new activities.
+>>
+>> I am willing to attend GUADEC 2013 to learn more about Gnome, involve my
+>> fellow batchmates, junior and friends and also for myself to contribute to
+>> it. I want to meet this awesome community and wonderful people from it,
+>> but
+>> I am in financial crisis. It would be great if I can get some sponsership
+>> so that I can attend this conference and bridge the gap.
+>>
+>> I am interested in many talks which includes First Step Towards
+>> Contributing, Gnome in Open Source Community, Gnome Outreach from Three
+>> Point zero to Hero,FLOSS community outreaches, Outreach Preogram for
+>> Women-Lessons in Collaboration, Foss & Education. I am also willing to
+>> volunteer, if given an opportunity to come which may smooth the management
+>> and I can get to help this awesome community :)
+>>
+>> I know it has been too long, but thanks for spending you time and reading
+>> it :)
+>>
+>> Best Regards,
+>> --
+>> Kesha Shah.
+>>
+>> ------------------------------------------------------------------------------
+>> See everything from the browser to the database with AppDynamics
+>> Get end-to-end visibility with application monitoring from AppDynamics
+>> Isolate bottlenecks and diagnose root cause in seconds.
+>> Start your free trial of AppDynamics Pro today!
+>>
+>> http://pubads.g.doubleclick.net/gampad/clk?id=48808831&iu=/4140/ostg.clktrk
+>> _______________________________________________
+>> gcompris-devel mailing list
+>> gcompris-devel@lists.sourceforge.net
+>> https://lists.sourceforge.net/lists/listinfo/gcompris-devel
+>>
+>
+>
+
+
+-- 
+Kesha Shah.
+
+--047d7b5d68b653b95304e1b391cb
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Roopesh,<div><br></div><div style>-Regarding the size o=
+f sponsorship, I would be great if I can get travel support.</div><div styl=
+e>-I believe in-person meeting, having interactions and attending will have=
+ a huge impact over webinars.=A0</div>
+<div style>-Sure. This was one of the things in my mind like adding support=
+ to Hindi and small Hindi alphabet recognization and playing activity.</div=
+><div style>Also, in the joining different province to make a country activ=
+ity which exist now (oops ! I cant recall the name), I also thought of addi=
+ng Indian states- this will make small Indian kids recognize different stat=
+es, where it is located, how many are there etc.</div>
+<div style>With a little more effort, if we can include capital of every st=
+ate that would also be great !=A0</div><div style>An actiivity regarding re=
+cipes of Indian dishes will also be cool :)<br>These are few which involves=
+ adding activities specific to Indian audience.</div>
+<div class=3D"gmail_extra"><br></div><div class=3D"gmail_extra">Best Regard=
+s,<br><br><div class=3D"gmail_quote">On Wed, Jul 17, 2013 at 4:50 PM, roope=
+sh shenoy <span dir=3D"ltr">&lt;<a href=3D"mailto:shenoy.roopesh@gmail.com"=
+ target=3D"_blank">shenoy.roopesh@gmail.com</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div dir=3D"ltr"><div><div><div>Hey Kesha<br=
+><br>Few questions - <br><br></div>- What is the size of sponsorship you ar=
+e looking for?<br>
+- Is it necessary to attend this conference instead of viewing webinars or =
+using other online media?<br>
+</div></div><div>- Would you be interested in an internship that involves a=
+dding activities specific to Indian audience to a GCompris fork? (we would =
+contribute the patches upstream but whether they get accepted or not will d=
+epend on the project owner Bruno)<br>
+
+<br><br></div><div>Thanks.<br></div><div><br></div><div><br></div>
+Best Regards,<br><br>Roopesh<br><div class=3D"gmail_extra"><br><br><div cla=
+ss=3D"gmail_quote"><div><div class=3D"h5">On Wed, Jul 17, 2013 at 4:22 PM, =
+Kesha Shah <span dir=3D"ltr">&lt;<a href=3D"mailto:kesha.shah1106@gmail.com=
+" target=3D"_blank">kesha.shah1106@gmail.com</a>&gt;</span> wrote:<br>
+
+
+</div></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bo=
+rder-left:1px #ccc solid;padding-left:1ex"><div><div class=3D"h5">Hi all,<b=
+r>
+<br>
+I am an undergraduate student at Dhirubhai Ambani Institute of Information<=
+br>
+and Communication Technology. I have known the FOSS culture and Open source=
+<br>
+organizations since past 8 months and love it.<br>
+<br>
+I belong to a university, where there are brilliant coders and students<br>
+with great potentials, but there are few who have got in-depth knowledge<br=
+>
+about open source, how anyone can become a part of it and there exists many=
+<br>
+misconceptions about it. I have read up how Gnome supports<br>
+new contributes and coders and encourages them and I really like it.<br>
+<br>
+This is often considered as a male-dominated field, where hardly women are<=
+br>
+aware of it. To increase the awareness among women in software development,=
+<br>
+hats off to programs like Outreach Program for Women. I was unfortunate to<=
+br>
+hear about it after the deadline elasped and couldn&#39;t participate in it=
+ but<br>
+fortunate enough to know its hand in hand another program- Google Summer of=
+<br>
+Code and be a part of it.<br>
+<br>
+Amongst the 17 students selected from our university this year, I am the<br=
+>
+only girl student. None of my female batchmates or female seniors present<b=
+r>
+at college have got the same opportunity as me. Many of my batchmates,<br>
+juniors and friends ask me how do I start. I do explain them to the best I<=
+br>
+can, but still I feel something is lacked and I can&#39;t guide them 100%.<=
+br>
+<br>
+I use Gnome and its various softwares. One of them, I feel more attached<br=
+>
+with is GCompris. My younger sister loves it and plays it all day long. I<b=
+r>
+have many plans in head for its improvement. I have downloaded its source<b=
+r>
+but had got no time to hack upon it due to current project. I plan working<=
+br>
+for it after september and do a full time project for its improvement and<b=
+r>
+adding new activities.<br>
+<br>
+I am willing to attend GUADEC 2013 to learn more about Gnome, involve my<br=
+>
+fellow batchmates, junior and friends and also for myself to contribute to<=
+br>
+it. I want to meet this awesome community and wonderful people from it, but=
+<br>
+I am in financial crisis. It would be great if I can get some sponsership<b=
+r>
+so that I can attend this conference and bridge the gap.<br>
+<br>
+I am interested in many talks which includes First Step Towards<br>
+Contributing, Gnome in Open Source Community, Gnome Outreach from Three<br>
+Point zero to Hero,FLOSS community outreaches, Outreach Preogram for<br>
+Women-Lessons in Collaboration, Foss &amp; Education. I am also willing to<=
+br>
+volunteer, if given an opportunity to come which may smooth the management<=
+br>
+and I can get to help this awesome community :)<br>
+<br>
+I know it has been too long, but thanks for spending you time and reading<b=
+r>
+it :)<br>
+<br>
+Best Regards,<br>
+</div></div><span class=3D"HOEnZb"><font color=3D"#888888"><span><font colo=
+r=3D"#888888">--<br>
+Kesha Shah.<br>
+---------------------------------------------------------------------------=
+---<br>
+See everything from the browser to the database with AppDynamics<br>
+Get end-to-end visibility with application monitoring from AppDynamics<br>
+Isolate bottlenecks and diagnose root cause in seconds.<br>
+Start your free trial of AppDynamics Pro today!<br>
+<a href=3D"http://pubads.g.doubleclick.net/gampad/clk?id=3D48808831&amp;iu=
+=3D/4140/ostg.clktrk" target=3D"_blank">http://pubads.g.doubleclick.net/gam=
+pad/clk?id=3D48808831&amp;iu=3D/4140/ostg.clktrk</a><br>
+_______________________________________________<br>
+gcompris-devel mailing list<br>
+<a href=3D"mailto:gcompris-devel@lists.sourceforge.net" target=3D"_blank">g=
+compris-devel@lists.sourceforge.net</a><br>
+<a href=3D"https://lists.sourceforge.net/lists/listinfo/gcompris-devel" tar=
+get=3D"_blank">https://lists.sourceforge.net/lists/listinfo/gcompris-devel<=
+/a><br>
+</font></span></font></span></blockquote></div><br></div></div>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br>Kesha Shah.<=
+br><br>
+</div></div>
+
+--047d7b5d68b653b95304e1b391cb--
+From kesha.shah1106@gmail.com  Wed Jul 17 10:53:04 2013
+Return-Path: <kesha.shah1106@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 7584A76FCC;
+	Wed, 17 Jul 2013 10:53:04 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id rJ5f4Ov7XL5p; Wed, 17 Jul 2013 10:52:59 +0000 (UTC)
+Received: from mail-pb0-f49.google.com (mail-pb0-f49.google.com
+	[209.85.160.49])
+	by restaurant.gnome.org (Postfix) with ESMTP id 60F0D76FAE;
+	Wed, 17 Jul 2013 10:52:51 +0000 (UTC)
+Received: by mail-pb0-f49.google.com with SMTP id jt11so1754236pbb.36
+	for <multiple recipients>; Wed, 17 Jul 2013 03:52:49 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:date:message-id:subject:from:to:content-type;
+	bh=GOXZ/UCFCQCxm/WnLLAWo7gflOivzrbqCcwAmvJIoNI=;
+	b=vfXBZQJ65oFRYkzSBaIPuDLz4RcRb6qQnmS8ilxDmhzMpnrrAVcsAxel9YnusO56XN
+	yzK3uBUBXNpe1jYMK7UUdYpbuM58LoBrhTsE/o+OVFht6wuTSuf3bpsoDeDkCl4FumKg
+	rxNPglNnC61xQvblXnHIglRkTF+yQT3mlIYmfagdQy7WCwkVDSP8nSDUdpBYJI7bkUxB
+	h8NBMRU+vSsMF/sAzobbwPuq9MMWbpo5074vU+fVrdChBIbw9K3QwKmIMbV+J/FMtFDz
+	6XSQa2sv2eLNMxAboEC1kXFTOqFCV/uEFj8colAmoXOwcWPEpTuImieN4gt7eRByFHiO
+	FDxg==
+MIME-Version: 1.0
+X-Received: by 10.68.164.33 with SMTP id yn1mr6200047pbb.102.1374058369653;
+	Wed, 17 Jul 2013 03:52:49 -0700 (PDT)
+Received: by 10.66.219.68 with HTTP; Wed, 17 Jul 2013 03:52:49 -0700 (PDT)
+Date: Wed, 17 Jul 2013 16:22:49 +0530
+Message-ID: <CALHv3TK1j1kyGPrr8Deh5ucqZy3NE=Pn7k+nDXu0QYeO5xmcmw@mail.gmail.com>
+From: Kesha Shah <kesha.shah1106@gmail.com>
+To: guadec-list@gnome.org, gnome-women-list@gnome.org, 
+	women-outreach@gnome.org, gcompris-devel@lists.sourceforge.net
+Content-Type: multipart/alternative; boundary=047d7b6243400624de04e1b2e584
+X-Mailman-Approved-At: Wed, 17 Jul 2013 14:58:13 +0000
+Subject: [gnome-women] Introducing me and my interest
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 17 Jul 2013 10:53:04 -0000
+
+--047d7b6243400624de04e1b2e584
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi all,
+
+I am an undergraduate student at Dhirubhai Ambani Institute of Information
+and Communication Technology. I have known the FOSS culture and Open source
+organizations since past 8 months and love it.
+
+I belong to a university, where there are brilliant coders and students
+with great potentials, but there are few who have got in-depth knowledge
+about open source, how anyone can become a part of it and there exists many
+misconceptions about it. I have read up how Gnome supports
+new contributes and coders and encourages them and I really like it.
+
+This is often considered as a male-dominated field, where hardly women are
+aware of it. To increase the awareness among women in software development,
+hats off to programs like Outreach Program for Women. I was unfortunate to
+hear about it after the deadline elasped and couldn't participate in it but
+fortunate enough to know its hand in hand another program- Google Summer of
+Code and be a part of it.
+
+Amongst the 17 students selected from our university this year, I am the
+only girl student. None of my female batchmates or female seniors present
+at college have got the same opportunity as me. Many of my batchmates,
+juniors and friends ask me how do I start. I do explain them to the best I
+can, but still I feel something is lacked and I can't guide them 100%.
+
+I use Gnome and its various softwares. One of them, I feel more attached
+with is GCompris. My younger sister loves it and plays it all day long. I
+have many plans in head for its improvement. I have downloaded its source
+but had got no time to hack upon it due to current project. I plan working
+for it after september and do a full time project for its improvement and
+adding new activities.
+
+I am willing to attend GUADEC 2013 to learn more about Gnome, involve my
+fellow batchmates, junior and friends and also for myself to contribute to
+it. I want to meet this awesome community and wonderful people from it, but
+I am in financial crisis. It would be great if I can get some sponsership
+so that I can attend this conference and bridge the gap.
+
+I am interested in many talks which includes First Step Towards
+Contributing, Gnome in Open Source Community, Gnome Outreach from Three
+Point zero to Hero,FLOSS community outreaches, Outreach Preogram for
+Women-Lessons in Collaboration, Foss & Education. I am also willing to
+volunteer, if given an opportunity to come which may smooth the management
+and I can get to help this awesome community :)
+
+I know it has been too long, but thanks for spending you time and reading
+it :)
+
+Best Regards,
+-- 
+Kesha Shah.
+
+--047d7b6243400624de04e1b2e584
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div style>Hi all,</div><div style><br></div><div style>I =
+am an undergraduate student at Dhirubhai Ambani Institute of Information an=
+d Communication Technology. I have known the FOSS culture and Open source o=
+rganizations since past 8 months and love it.</div>
+<div style><br></div><div style>I belong to a university, where there are b=
+rilliant coders and students with great potentials, but there are few who h=
+ave got in-depth knowledge about open source, how anyone can become a part =
+of it and there exists many misconceptions about it. I have read up how Gno=
+me supports new=A0contributes=A0and coders and encourages them and I really=
+ like it.=A0</div>
+<div style><br></div><div style>This is often considered as a male-dominate=
+d field, where hardly women are aware of it. To increase the awareness amon=
+g women in software development, hats off to programs like Outreach Program=
+ for Women. I was unfortunate to hear about it after the deadline elasped a=
+nd couldn&#39;t participate in it but fortunate enough to know its hand in =
+hand another program- Google Summer of Code and be a part of it.=A0</div>
+<div style><br></div><div style>Amongst the 17 students selected from our u=
+niversity this year, I am the only girl student. None of my female batchmat=
+es or female seniors present at college have got the same opportunity as me=
+. Many of my batchmates, juniors and friends ask me how do I start. I do ex=
+plain them to the best I can, but still I feel something is lacked and I ca=
+n&#39;t guide them 100%.</div>
+<div style><br></div><div style>I use Gnome and its various softwares. One =
+of them, I feel more attached with is GCompris. My younger sister loves it =
+and plays it all day long. I have many plans in head for its improvement. I=
+ have downloaded its source but had got no time to hack upon it due to curr=
+ent project. I plan working for it after september and do a full time proje=
+ct for its improvement and adding new activities.</div>
+<div style><br></div><div style>I am willing to attend GUADEC 2013 to learn=
+ more about Gnome, involve my fellow batchmates, junior and friends and als=
+o for myself to contribute to it. I want to meet this awesome community and=
+ wonderful people from it, but I am in financial crisis. It would be great =
+if I can get some sponsership so that I can attend this conference and brid=
+ge the gap.<br>
+</div><div style><br></div><div style>I am interested in many talks which i=
+ncludes First Step Towards Contributing, Gnome in Open Source Community, Gn=
+ome Outreach from Three Point zero to Hero,FLOSS community outreaches, Outr=
+each Preogram for Women-Lessons in Collaboration, Foss &amp; Education. I a=
+m also willing to volunteer, if given an opportunity to come which may smoo=
+th the management and I can get to help this awesome community :)</div>
+<div style><br></div><div style>I know it has been too long, but thanks for=
+ spending you time and reading it :)</div><div style><br></div><div style>B=
+est Regards,</div>-- <br>Kesha Shah.<br><br>
+</div>
+
+--047d7b6243400624de04e1b2e584--
+From kesha.shah1106@gmail.com  Wed Jul 17 17:32:20 2013
+Return-Path: <kesha.shah1106@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 2023A771CB
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 17:32:20 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -0.749
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.749 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, FREEMAIL_REPLY=1, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_NONE=-0.0001, SPF_PASS=-0.001] autolearn=no
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id W0WjVAFfSOev for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 17:32:16 +0000 (UTC)
+Received: from mail-pd0-f178.google.com (mail-pd0-f178.google.com
+	[209.85.192.178])
+	by restaurant.gnome.org (Postfix) with ESMTP id 36834771D2
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 17:32:07 +0000 (UTC)
+Received: by mail-pd0-f178.google.com with SMTP id w11so2054402pde.23
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 10:32:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:content-type; bh=8+Ck6VtaGGqXMnGVPk3J6EqhyIiltPdTwvmXYfL5fSY=;
+	b=n/5zSXN8QMvVk2iBo9mphcbEfnLRxYheX4mG+GpxmbxDV1lbt8um3h5fgNXpN1bcj5
+	OfFjouSFbw7NR64qpqbaffMpaNew/TCn/fYQyHiIN7eodXmTpixW47agp1PHfhEsQsHD
+	pwNTBemUgBEICxL6s0PNaMweQtGE6WFPNaQdWdAUgQZnk6BTXCS7HPDCa/kfBQpnCLeY
+	qSiKhXAHbHGzMZdMYkRCk2ac+rBpfce1P/5lpuIYpzpNSwVF2KhQIq9hb5JbOJaiySjB
+	5rqsVr0W9J09Jkalyn423LkJxy63wIZzdn8RsSn0n6fESuVOfiv5iYP4Wkn6lPioMRL+
+	5w/A==
+MIME-Version: 1.0
+X-Received: by 10.66.122.131 with SMTP id ls3mr9107736pab.2.1374082325775;
+	Wed, 17 Jul 2013 10:32:05 -0700 (PDT)
+Received: by 10.66.219.68 with HTTP; Wed, 17 Jul 2013 10:32:05 -0700 (PDT)
+In-Reply-To: <CAM=PHJ7mn_vNBHeZE1yzi9GTg1aNDamzdAKR+zNRVxMoJuVudA@mail.gmail.com>
+References: <CALHv3TK1j1kyGPrr8Deh5ucqZy3NE=Pn7k+nDXu0QYeO5xmcmw@mail.gmail.com>
+	<CAM=PHJ4BQMiqCKNx7OUX4i23Bx3S7ASN8U+oLP32-T+FhSP_TQ@mail.gmail.com>
+	<CALHv3T+pF7i8_gecNoH-5CyUkMaMtZNeDLXdyVEKymUD_00GVA@mail.gmail.com>
+	<CAM=PHJ7mn_vNBHeZE1yzi9GTg1aNDamzdAKR+zNRVxMoJuVudA@mail.gmail.com>
+Date: Wed, 17 Jul 2013 23:02:05 +0530
+Message-ID: <CALHv3TJ9BSpuREXS3L4T8EeSHhoj6zX_CatqUcBQTuA29eQtzA@mail.gmail.com>
+From: Kesha Shah <kesha.shah1106@gmail.com>
+To: roopesh shenoy <shenoy.roopesh@gmail.com>, guadec-list@gnome.org,
+	gnome-love@gnome.org, gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=047d7bf0e052eb8f4a04e1b878fa
+Subject: Re: [gnome-women] [gcompris-devel] Introducing me and my interest
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 17 Jul 2013 17:32:20 -0000
+
+--047d7bf0e052eb8f4a04e1b878fa
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hi Roopesh,
+
+Thank you for your views. Academically, I am bright, but I have realized
+that just learning things isolated and small lab codes do not help much.
+One should have some experience how large real world codebase are
+maintained and worked with with many developers contributing at the same
+time.
+
+Moreover, my intention is not exactly to learn FOSS and get involved in
+open source projects. I already have the basics idea and I am currently a
+GSoC student. My main aim for attending this conference is knowing more
+about GNOME and get myself involved in Gcompris and introduce my fellow
+batchmates and juniors to this fascinating community. We have got a lot of
+spirit and enthusiastic students at DA-IICT, but still most of them are not
+aware, how to enhance their skills in a better direction. I found this
+Gnome community as the best because it provides a lot of options and every
+interested student can contribute to the field which he/she likes. Also, I
+love gnome for its encouragement of Female developers. I am the only girl
+from my university and I know how my friends are ignorant about it and the
+difficulties I faced. I also want to learn how large international
+conferences are organized and I am interested in getting more experience in
+management, so I wish to volunteer there also. In the month of September,
+we usually have a seminar in our college to introduce juniors to open
+source, gsoc and similar opportunities. I wish to take a session there
+about GNOME in particular, if I have enough knowledge about it.
+
+I agree that visas needs to be arranged, and still we have 13 days, its not
+too late also. If things get to sort out fast and if I get confirmation for
+some financial help as soon as possible , probably by tomorrow, I can start
+visa procedure. I have very short time, but if tried, I am sure we can deal
+with it and successfully do it in time. Can you please discuss with company
+.Waiting for fellow Gnome community members to have their opinion and
+response.
+
+Thank you and do reply soon :)
+
+Cheers !
+
+Best Regards,
+
+
+On Wed, Jul 17, 2013 at 6:07 PM, roopesh shenoy <shenoy.roopesh@gmail.com>wrote:
+
+> (Taking this off-list again)
+>
+> Kesha,
+>
+> I do not deny that attending an international level conference in person
+> can be a very enriching experience. However there needs to be a
+> cost-benefit analysis to ensure that you are getting that much in return.
+> Even if I convince my company to sponsor 50% of your travel costs (and I'm
+> not yet promising that yet, it's not my decision alone), you still will
+> have to find rest of it (something like another Rs. 35k) for the flight
+> return tickets. On top of that, visas need to be arranged, and I don't know
+> whether the organizers of the conference will help you with that. I see
+> that the GNome conference is around 13 days away, that leaves a very short
+> window to work out all the logistics.
+>
+> If your intention is to learn more about FOSS and getting involved in open
+> source projects, there are much simpler and cheaper ways to get started.
+> There should be conferences/fests in India as well that you can attend much
+> more easily (for e.g. https://wiki.gnome.org/Hackfests/India2013 although
+> the dates are yet TBC)
+>
+> Note that I am not trying to discourage you here - it is great that you
+> are interested in going out of your academics and attending international
+> conferences. However IMHO, getting basic knowledge does not necessitate you
+> to bear this expense and go to this kind of a conference, at least not yet.
+> You can spend a similar budget much more frugally and attend a lot more
+> software conferences (both open source or otherwise) in India if you ask
+> me. However I can be wrong too, so I'll wait to see if others have any
+> interesting perspectives about this - this is why I've taken this mail
+> off-list.
+>
+> Do call me on 09663230314, if you feel like speaking about this.
+>
+>
+> Thanks.
+>
+>
+> Best Regards,
+>
+> Roopesh
+>
+>
+>
+>
+> On Wed, Jul 17, 2013 at 5:11 PM, Kesha Shah <kesha.shah1106@gmail.com>wrote:
+>
+>> Hi Roopesh,
+>>
+>> -Regarding the size of sponsorship, I would be great if I can get travel
+>> support.
+>> -I believe in-person meeting, having interactions and attending will have
+>> a huge impact over webinars.
+>> -Sure. This was one of the things in my mind like adding support to Hindi
+>> and small Hindi alphabet recognization and playing activity.
+>> Also, in the joining different province to make a country activity which
+>> exist now (oops ! I cant recall the name), I also thought of adding Indian
+>> states- this will make small Indian kids recognize different states, where
+>> it is located, how many are there etc.
+>> With a little more effort, if we can include capital of every state that
+>> would also be great !
+>> An actiivity regarding recipes of Indian dishes will also be cool :)
+>> These are few which involves adding activities specific to Indian
+>> audience.
+>>
+>> Best Regards,
+>>
+>>
+>> On Wed, Jul 17, 2013 at 4:50 PM, roopesh shenoy <shenoy.roopesh@gmail.com
+>> > wrote:
+>>
+>>> Hey Kesha
+>>>
+>>> Few questions -
+>>>
+>>> - What is the size of sponsorship you are looking for?
+>>> - Is it necessary to attend this conference instead of viewing webinars
+>>> or using other online media?
+>>> - Would you be interested in an internship that involves adding
+>>> activities specific to Indian audience to a GCompris fork? (we would
+>>> contribute the patches upstream but whether they get accepted or not will
+>>> depend on the project owner Bruno)
+>>>
+>>>
+>>> Thanks.
+>>>
+>>>
+>>> Best Regards,
+>>>
+>>> Roopesh
+>>>
+>>>
+>>> On Wed, Jul 17, 2013 at 4:22 PM, Kesha Shah <kesha.shah1106@gmail.com>wrote:
+>>>
+>>>> Hi all,
+>>>>
+>>>> I am an undergraduate student at Dhirubhai Ambani Institute of
+>>>> Information
+>>>> and Communication Technology. I have known the FOSS culture and Open
+>>>> source
+>>>> organizations since past 8 months and love it.
+>>>>
+>>>> I belong to a university, where there are brilliant coders and students
+>>>> with great potentials, but there are few who have got in-depth knowledge
+>>>> about open source, how anyone can become a part of it and there exists
+>>>> many
+>>>> misconceptions about it. I have read up how Gnome supports
+>>>> new contributes and coders and encourages them and I really like it.
+>>>>
+>>>> This is often considered as a male-dominated field, where hardly women
+>>>> are
+>>>> aware of it. To increase the awareness among women in software
+>>>> development,
+>>>> hats off to programs like Outreach Program for Women. I was unfortunate
+>>>> to
+>>>> hear about it after the deadline elasped and couldn't participate in it
+>>>> but
+>>>> fortunate enough to know its hand in hand another program- Google
+>>>> Summer of
+>>>> Code and be a part of it.
+>>>>
+>>>> Amongst the 17 students selected from our university this year, I am the
+>>>> only girl student. None of my female batchmates or female seniors
+>>>> present
+>>>> at college have got the same opportunity as me. Many of my batchmates,
+>>>> juniors and friends ask me how do I start. I do explain them to the
+>>>> best I
+>>>> can, but still I feel something is lacked and I can't guide them 100%.
+>>>>
+>>>> I use Gnome and its various softwares. One of them, I feel more attached
+>>>> with is GCompris. My younger sister loves it and plays it all day long.
+>>>> I
+>>>> have many plans in head for its improvement. I have downloaded its
+>>>> source
+>>>> but had got no time to hack upon it due to current project. I plan
+>>>> working
+>>>> for it after september and do a full time project for its improvement
+>>>> and
+>>>> adding new activities.
+>>>>
+>>>> I am willing to attend GUADEC 2013 to learn more about Gnome, involve my
+>>>> fellow batchmates, junior and friends and also for myself to contribute
+>>>> to
+>>>> it. I want to meet this awesome community and wonderful people from it,
+>>>> but
+>>>> I am in financial crisis. It would be great if I can get some
+>>>> sponsership
+>>>> so that I can attend this conference and bridge the gap.
+>>>>
+>>>> I am interested in many talks which includes First Step Towards
+>>>> Contributing, Gnome in Open Source Community, Gnome Outreach from Three
+>>>> Point zero to Hero,FLOSS community outreaches, Outreach Preogram for
+>>>> Women-Lessons in Collaboration, Foss & Education. I am also willing to
+>>>> volunteer, if given an opportunity to come which may smooth the
+>>>> management
+>>>> and I can get to help this awesome community :)
+>>>>
+>>>> I know it has been too long, but thanks for spending you time and
+>>>> reading
+>>>> it :)
+>>>>
+>>>> Best Regards,
+>>>> --
+>>>> Kesha Shah.
+>>>>
+>>>> ------------------------------------------------------------------------------
+>>>> See everything from the browser to the database with AppDynamics
+>>>> Get end-to-end visibility with application monitoring from AppDynamics
+>>>> Isolate bottlenecks and diagnose root cause in seconds.
+>>>> Start your free trial of AppDynamics Pro today!
+>>>>
+>>>> http://pubads.g.doubleclick.net/gampad/clk?id=48808831&iu=/4140/ostg.clktrk
+>>>> _______________________________________________
+>>>> gcompris-devel mailing list
+>>>> gcompris-devel@lists.sourceforge.net
+>>>> https://lists.sourceforge.net/lists/listinfo/gcompris-devel
+>>>>
+>>>
+>>>
+>>
+>>
+>> --
+>> Kesha Shah.
+>>
+>>
+>
+
+
+-- 
+Kesha Shah.
+
+--047d7bf0e052eb8f4a04e1b878fa
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Roopesh,<div><br></div><div style>Thank you for your vi=
+ews. Academically, I am bright, but I have realized that just learning thin=
+gs isolated and small lab codes do not help much. One should have some expe=
+rience how large real world codebase are maintained and worked with with ma=
+ny developers contributing at the same time.</div>
+<div style><br></div><div style>Moreover, my intention is not exactly to le=
+arn FOSS and get involved in open source projects. I already have the basic=
+s idea and I am currently a GSoC student. My main aim for attending this co=
+nference is knowing more about GNOME and get myself involved in Gcompris an=
+d introduce my fellow batchmates and juniors to this fascinating community.=
+ We have got a lot of spirit and=A0enthusiastic=A0students at DA-IICT, but =
+still most of them are not aware, how to enhance their skills in a better d=
+irection. I found this Gnome community as the best because it provides a lo=
+t of options and every interested student can contribute to the field which=
+ he/she likes. Also, I love gnome for its encouragement of Female developer=
+s. I am the only girl from my university and I know how my friends are igno=
+rant about it and the difficulties I faced. I also want to learn how large =
+international conferences are organized and I am interested in getting more=
+ experience in management, so I wish to volunteer there also. In the month =
+of September, we usually have a seminar in our college to introduce juniors=
+ to open source, gsoc and similar opportunities. I wish to take a session t=
+here about GNOME in particular, if I have enough knowledge about it.</div>
+<div style><br></div><div style>I agree that visas needs to be arranged, an=
+d still we have 13 days, its not too late also. If things get to sort out f=
+ast and if I get confirmation for some financial help as soon as possible ,=
+ probably by tomorrow, I can start visa procedure. I have very short time, =
+but if tried, I am sure we can deal with it and successfully do it in time.=
+ Can you please discuss with company .Waiting for fellow Gnome community me=
+mbers to have their opinion and response.=A0</div>
+<div>=A0</div><div style>Thank you and do reply soon :)</div><div style><br=
+></div><div style>Cheers !</div><div style><br></div><div style>Best Regard=
+s,</div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">On We=
+d, Jul 17, 2013 at 6:07 PM, roopesh shenoy <span dir=3D"ltr">&lt;<a href=3D=
+"mailto:shenoy.roopesh@gmail.com" target=3D"_blank">shenoy.roopesh@gmail.co=
+m</a>&gt;</span> wrote:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div dir=3D"ltr"><div><div><div>(Taking this=
+ off-list again)<br></div><div><br>Kesha,<br><br>I do not deny that attendi=
+ng an international level conference in person can be a very enriching expe=
+rience. However there needs to be a cost-benefit analysis to ensure that yo=
+u are getting that much in return. Even if I convince my company to sponsor=
+ 50% of your travel costs (and I&#39;m not yet promising that yet, it&#39;s=
+ not my decision alone), you still will have to find rest of it (something =
+like another Rs. 35k) for the flight return tickets. On top of that, visas =
+need to be arranged, and I don&#39;t know whether the organizers of the con=
+ference will help you with that. I see that the GNome conference is around =
+13 days away, that leaves a very short window to work out all the logistics=
+. <br>
+
+<br></div>If your intention is to learn more about FOSS and getting involve=
+d in open source projects, there are much simpler and cheaper ways to get s=
+tarted. There should be conferences/fests in India as well that you can att=
+end much more easily (for e.g. <a href=3D"https://wiki.gnome.org/Hackfests/=
+India2013" target=3D"_blank">https://wiki.gnome.org/Hackfests/India2013</a>=
+ although the dates are yet TBC)<br>
+
+<br></div>Note that I am not trying to discourage you here - it is great th=
+at you are interested in going out of your academics and attending internat=
+ional conferences. However IMHO, getting basic knowledge does not necessita=
+te you to bear this expense and go to this kind of a conference, at least n=
+ot yet. You can spend a similar budget much more frugally and attend a lot =
+more software conferences (both open source or otherwise) in India if you a=
+sk me. However I can be wrong too, so I&#39;ll wait to see if others have a=
+ny interesting perspectives about this - this is why I&#39;ve taken this ma=
+il off-list.<br>
+
+<br>Do call me on 09663230314, if you feel like speaking about this. <br></=
+div><div><br><br></div><div>Thanks.<br></div><div><br><br></div>Best Regard=
+s,<br><br>Roopesh<br><div><div><div><br><br></div></div></div></div><div cl=
+ass=3D"HOEnZb">
+<div class=3D"h5"><div class=3D"gmail_extra">
+<br><br><div class=3D"gmail_quote">On Wed, Jul 17, 2013 at 5:11 PM, Kesha S=
+hah <span dir=3D"ltr">&lt;<a href=3D"mailto:kesha.shah1106@gmail.com" targe=
+t=3D"_blank">kesha.shah1106@gmail.com</a>&gt;</span> wrote:<br><blockquote =
+class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid=
+;padding-left:1ex">
+
+<div dir=3D"ltr">Hi Roopesh,<div><br></div><div>-Regarding the size of spon=
+sorship, I would be great if I can get travel support.</div><div>-I believe=
+ in-person meeting, having interactions and attending will have a huge impa=
+ct over webinars.=A0</div>
+
+
+<div>-Sure. This was one of the things in my mind like adding support to Hi=
+ndi and small Hindi alphabet recognization and playing activity.</div><div>=
+Also, in the joining different province to make a country activity which ex=
+ist now (oops ! I cant recall the name), I also thought of adding Indian st=
+ates- this will make small Indian kids recognize different states, where it=
+ is located, how many are there etc.</div>
+
+
+<div>With a little more effort, if we can include capital of every state th=
+at would also be great !=A0</div><div>An actiivity regarding recipes of Ind=
+ian dishes will also be cool :)<br>These are few which involves adding acti=
+vities specific to Indian audience.</div>
+
+
+<div class=3D"gmail_extra"><br></div><div class=3D"gmail_extra">Best Regard=
+s,<div><div><br><br><div class=3D"gmail_quote">On Wed, Jul 17, 2013 at 4:50=
+ PM, roopesh shenoy <span dir=3D"ltr">&lt;<a href=3D"mailto:shenoy.roopesh@=
+gmail.com" target=3D"_blank">shenoy.roopesh@gmail.com</a>&gt;</span> wrote:=
+<br>
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div dir=3D"ltr"><div><div><div>Hey Kesha<br=
+><br>Few questions - <br><br></div>- What is the size of sponsorship you ar=
+e looking for?<br>
+
+
+- Is it necessary to attend this conference instead of viewing webinars or =
+using other online media?<br>
+</div></div><div>- Would you be interested in an internship that involves a=
+dding activities specific to Indian audience to a GCompris fork? (we would =
+contribute the patches upstream but whether they get accepted or not will d=
+epend on the project owner Bruno)<br>
+
+
+
+<br><br></div><div>Thanks.<br></div><div><br></div><div><br></div>
+Best Regards,<br><br>Roopesh<br><div class=3D"gmail_extra"><br><br><div cla=
+ss=3D"gmail_quote"><div><div>On Wed, Jul 17, 2013 at 4:22 PM, Kesha Shah <s=
+pan dir=3D"ltr">&lt;<a href=3D"mailto:kesha.shah1106@gmail.com" target=3D"_=
+blank">kesha.shah1106@gmail.com</a>&gt;</span> wrote:<br>
+
+
+
+
+</div></div><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;bo=
+rder-left:1px #ccc solid;padding-left:1ex"><div><div>Hi all,<br>
+<br>
+I am an undergraduate student at Dhirubhai Ambani Institute of Information<=
+br>
+and Communication Technology. I have known the FOSS culture and Open source=
+<br>
+organizations since past 8 months and love it.<br>
+<br>
+I belong to a university, where there are brilliant coders and students<br>
+with great potentials, but there are few who have got in-depth knowledge<br=
+>
+about open source, how anyone can become a part of it and there exists many=
+<br>
+misconceptions about it. I have read up how Gnome supports<br>
+new contributes and coders and encourages them and I really like it.<br>
+<br>
+This is often considered as a male-dominated field, where hardly women are<=
+br>
+aware of it. To increase the awareness among women in software development,=
+<br>
+hats off to programs like Outreach Program for Women. I was unfortunate to<=
+br>
+hear about it after the deadline elasped and couldn&#39;t participate in it=
+ but<br>
+fortunate enough to know its hand in hand another program- Google Summer of=
+<br>
+Code and be a part of it.<br>
+<br>
+Amongst the 17 students selected from our university this year, I am the<br=
+>
+only girl student. None of my female batchmates or female seniors present<b=
+r>
+at college have got the same opportunity as me. Many of my batchmates,<br>
+juniors and friends ask me how do I start. I do explain them to the best I<=
+br>
+can, but still I feel something is lacked and I can&#39;t guide them 100%.<=
+br>
+<br>
+I use Gnome and its various softwares. One of them, I feel more attached<br=
+>
+with is GCompris. My younger sister loves it and plays it all day long. I<b=
+r>
+have many plans in head for its improvement. I have downloaded its source<b=
+r>
+but had got no time to hack upon it due to current project. I plan working<=
+br>
+for it after september and do a full time project for its improvement and<b=
+r>
+adding new activities.<br>
+<br>
+I am willing to attend GUADEC 2013 to learn more about Gnome, involve my<br=
+>
+fellow batchmates, junior and friends and also for myself to contribute to<=
+br>
+it. I want to meet this awesome community and wonderful people from it, but=
+<br>
+I am in financial crisis. It would be great if I can get some sponsership<b=
+r>
+so that I can attend this conference and bridge the gap.<br>
+<br>
+I am interested in many talks which includes First Step Towards<br>
+Contributing, Gnome in Open Source Community, Gnome Outreach from Three<br>
+Point zero to Hero,FLOSS community outreaches, Outreach Preogram for<br>
+Women-Lessons in Collaboration, Foss &amp; Education. I am also willing to<=
+br>
+volunteer, if given an opportunity to come which may smooth the management<=
+br>
+and I can get to help this awesome community :)<br>
+<br>
+I know it has been too long, but thanks for spending you time and reading<b=
+r>
+it :)<br>
+<br>
+Best Regards,<br>
+</div></div><span><font color=3D"#888888"><span><font color=3D"#888888">--<=
+br>
+Kesha Shah.<br>
+---------------------------------------------------------------------------=
+---<br>
+See everything from the browser to the database with AppDynamics<br>
+Get end-to-end visibility with application monitoring from AppDynamics<br>
+Isolate bottlenecks and diagnose root cause in seconds.<br>
+Start your free trial of AppDynamics Pro today!<br>
+<a href=3D"http://pubads.g.doubleclick.net/gampad/clk?id=3D48808831&amp;iu=
+=3D/4140/ostg.clktrk" target=3D"_blank">http://pubads.g.doubleclick.net/gam=
+pad/clk?id=3D48808831&amp;iu=3D/4140/ostg.clktrk</a><br>
+_______________________________________________<br>
+gcompris-devel mailing list<br>
+<a href=3D"mailto:gcompris-devel@lists.sourceforge.net" target=3D"_blank">g=
+compris-devel@lists.sourceforge.net</a><br>
+<a href=3D"https://lists.sourceforge.net/lists/listinfo/gcompris-devel" tar=
+get=3D"_blank">https://lists.sourceforge.net/lists/listinfo/gcompris-devel<=
+/a><br>
+</font></span></font></span></blockquote></div><br></div></div>
+</blockquote></div><br><br clear=3D"all"><div><br></div></div></div><span><=
+font color=3D"#888888">-- <br>Kesha Shah.<br><br>
+</font></span></div></div>
+</blockquote></div><br></div>
+</div></div></blockquote></div><br><br clear=3D"all"><div><br></div>-- <br>=
+Kesha Shah.<br><br>
+</div></div>
+
+--047d7bf0e052eb8f4a04e1b878fa--
+From svaksha@gmail.com  Wed Jul 17 18:27:02 2013
+Return-Path: <svaksha@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id B635476A40
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 18:27:02 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.6
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.6 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001]
+	autolearn=unavailable
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id pPBw6yAfVR3j for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 18:26:49 +0000 (UTC)
+Received: from mail-ve0-f169.google.com (mail-ve0-f169.google.com
+	[209.85.128.169])
+	by restaurant.gnome.org (Postfix) with ESMTP id 5628976D51
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 18:26:40 +0000 (UTC)
+Received: by mail-ve0-f169.google.com with SMTP id m1so1790665ves.28
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 11:26:39 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:sender:in-reply-to:references:from:date
+	:x-google-sender-auth:message-id:subject:to:cc:content-type
+	:content-transfer-encoding;
+	bh=OyQ1tNNKP/eE/qZxw+pph0JddsDhlf9v1QKpsaXVGUQ=;
+	b=ZAWeyjpUSuVHNpxK1AGDUhZhFcbFRGpdY/kJJAKjf5k4Su+2TuRvzn1/Snvzk4EoJW
+	omCJj7lL0oUg2/K3pa4JftnMu28tNWqNhIWX65DzLOFPOzFWDYVHEdup2XiRX3FLjtDe
+	FprQk3HSeym98AMtv2vl2HDx2+fhBHnMuxypMo08KVyTZyeKfD97Teal+8kuk8YAWJzz
+	wOfRCthCRjtn+3XqfiMFdfGZnbUN4aYHC/7XH9+dWasVEpRjlqxnByP7J8j8OIscQg9F
+	Hl9LnNPfUppJzfae921RniTgbbakJcvH4B0wqfA87Zu9u826ckW3cv+NSdK7jrAIY2R9
+	V+7Q==
+X-Received: by 10.52.100.166 with SMTP id ez6mr2179667vdb.19.1374085599298;
+	Wed, 17 Jul 2013 11:26:39 -0700 (PDT)
+MIME-Version: 1.0
+Sender: svaksha@gmail.com
+Received: by 10.220.203.198 with HTTP; Wed, 17 Jul 2013 11:26:19 -0700 (PDT)
+In-Reply-To: <CALHv3TJ9BSpuREXS3L4T8EeSHhoj6zX_CatqUcBQTuA29eQtzA@mail.gmail.com>
+References: <CALHv3TK1j1kyGPrr8Deh5ucqZy3NE=Pn7k+nDXu0QYeO5xmcmw@mail.gmail.com>
+	<CAM=PHJ4BQMiqCKNx7OUX4i23Bx3S7ASN8U+oLP32-T+FhSP_TQ@mail.gmail.com>
+	<CALHv3T+pF7i8_gecNoH-5CyUkMaMtZNeDLXdyVEKymUD_00GVA@mail.gmail.com>
+	<CAM=PHJ7mn_vNBHeZE1yzi9GTg1aNDamzdAKR+zNRVxMoJuVudA@mail.gmail.com>
+	<CALHv3TJ9BSpuREXS3L4T8EeSHhoj6zX_CatqUcBQTuA29eQtzA@mail.gmail.com>
+From: Vid <vid@svaksha.com>
+Date: Wed, 17 Jul 2013 18:26:19 +0000
+X-Google-Sender-Auth: SRLFJRtQFVoJY852g_uQ0iAcqkk
+Message-ID: <CAN9ztG94dQyULh1KdzxHn5czo3sAo5_JKc+ZJu-rCffNG761MQ@mail.gmail.com>
+To: Kesha Shah <kesha.shah1106@gmail.com>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Cc: roopesh shenoy <shenoy.roopesh@gmail.com>, gnome-women-list@mail.gnome.org,
+	gnome-love@gnome.org, guadec-list@gnome.org
+Subject: Re: [gnome-women] [gcompris-devel] Introducing me and my interest
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 17 Jul 2013 18:27:02 -0000
+
+Hi,
+I usually dont top-post but that seems to be the trend in this thread
+so sorry about the bungled order.
+
+Kesha, Glad to see another Indian woman in Foss. Welcome!
+
+Could you please not post Roopesh's mail on the list, especially since
+he has explicitly said his mail (to you) is off-list, for the second
+time. Since you are new, I wanted to let you know that posting
+people's private mails to a publicly archived mailing list, without
+their permission**, is considered rude. Its is an unwritten rule
+(more, an etiquette) that people are expected to abide by.
+
+... and while at it, since you asked here is my zero paise worth:  I
+completely agree with Roopesh's opinions. He has explained it well
+imho. If your goal is to introduce fellow-students to Foss, you can do
+it from within India - find a Gnome project that they are interested
+in, organize a bug/hack-fest, join their irc channel (if you want live
+help from core-devs) and get started. Most Foss dev's wont be mad at
+getting free help :). As for knowing about Gnome, there is a lot of
+information online which you can use for your presentations.
+
+Once you have done the above, you'd have also learned to organize,
+speak, co-ordinate and manage a group of people, thereby obtaining the
+management experience you seek. Hope that helps!
+
+best,
+Vid
+=E0=A5=A5 http://svaksha.com =E0=A5=A5
+** IME, the only exception is when someone threatens or abuses you in
+private. Then, you should go public.
+
+
+On Wed, Jul 17, 2013 at 5:32 PM, Kesha Shah <kesha.shah1106@gmail.com> wrot=
+e:
+> Hi Roopesh,
+>
+> Thank you for your views. Academically, I am bright, but I have realized
+> that just learning things isolated and small lab codes do not help much. =
+One
+> should have some experience how large real world codebase are maintained =
+and
+> worked with with many developers contributing at the same time.
+>
+> Moreover, my intention is not exactly to learn FOSS and get involved in o=
+pen
+> source projects. I already have the basics idea and I am currently a GSoC
+> student. My main aim for attending this conference is knowing more about
+> GNOME and get myself involved in Gcompris and introduce my fellow batchma=
+tes
+> and juniors to this fascinating community. We have got a lot of spirit an=
+d
+> enthusiastic students at DA-IICT, but still most of them are not aware, h=
+ow
+> to enhance their skills in a better direction. I found this Gnome communi=
+ty
+> as the best because it provides a lot of options and every interested
+> student can contribute to the field which he/she likes. Also, I love gnom=
+e
+> for its encouragement of Female developers. I am the only girl from my
+> university and I know how my friends are ignorant about it and the
+> difficulties I faced. I also want to learn how large international
+> conferences are organized and I am interested in getting more experience =
+in
+> management, so I wish to volunteer there also. In the month of September,=
+ we
+> usually have a seminar in our college to introduce juniors to open source=
+,
+> gsoc and similar opportunities. I wish to take a session there about GNOM=
+E
+> in particular, if I have enough knowledge about it.
+>
+> I agree that visas needs to be arranged, and still we have 13 days, its n=
+ot
+> too late also. If things get to sort out fast and if I get confirmation f=
+or
+> some financial help as soon as possible , probably by tomorrow, I can sta=
+rt
+> visa procedure. I have very short time, but if tried, I am sure we can de=
+al
+> with it and successfully do it in time. Can you please discuss with compa=
+ny
+> .Waiting for fellow Gnome community members to have their opinion and
+> response.
+>
+> Thank you and do reply soon :)
+>
+> Cheers !
+>
+> Best Regards,
+>
+>
+> On Wed, Jul 17, 2013 at 6:07 PM, roopesh shenoy <shenoy.roopesh@gmail.com=
+>
+> wrote:
+>>
+>> (Taking this off-list again)
+>>
+>> Kesha,
+>>
+>> I do not deny that attending an international level conference in person
+>> can be a very enriching experience. However there needs to be a cost-ben=
+efit
+>> analysis to ensure that you are getting that much in return. Even if I
+>> convince my company to sponsor 50% of your travel costs (and I'm not yet
+>> promising that yet, it's not my decision alone), you still will have to =
+find
+>> rest of it (something like another Rs. 35k) for the flight return ticket=
+s.
+>> On top of that, visas need to be arranged, and I don't know whether the
+>> organizers of the conference will help you with that. I see that the GNo=
+me
+>> conference is around 13 days away, that leaves a very short window to wo=
+rk
+>> out all the logistics.
+>>
+>> If your intention is to learn more about FOSS and getting involved in op=
+en
+>> source projects, there are much simpler and cheaper ways to get started.
+>> There should be conferences/fests in India as well that you can attend m=
+uch
+>> more easily (for e.g. https://wiki.gnome.org/Hackfests/India2013 althoug=
+h
+>> the dates are yet TBC)
+>>
+>> Note that I am not trying to discourage you here - it is great that you
+>> are interested in going out of your academics and attending internationa=
+l
+>> conferences. However IMHO, getting basic knowledge does not necessitate =
+you
+>> to bear this expense and go to this kind of a conference, at least not y=
+et.
+>> You can spend a similar budget much more frugally and attend a lot more
+>> software conferences (both open source or otherwise) in India if you ask=
+ me.
+>> However I can be wrong too, so I'll wait to see if others have any
+>> interesting perspectives about this - this is why I've taken this mail
+>> off-list.
+>>
+>> Do call me on 09663230314, if you feel like speaking about this.
+>>
+>>
+>> Thanks.
+>>
+>>
+>> Best Regards,
+>>
+>> Roopesh
+>>
+>>
+>>
+>>
+>> On Wed, Jul 17, 2013 at 5:11 PM, Kesha Shah <kesha.shah1106@gmail.com>
+>> wrote:
+>>>
+>>> Hi Roopesh,
+>>>
+>>> -Regarding the size of sponsorship, I would be great if I can get trave=
+l
+>>> support.
+>>> -I believe in-person meeting, having interactions and attending will ha=
+ve
+>>> a huge impact over webinars.
+>>> -Sure. This was one of the things in my mind like adding support to Hin=
+di
+>>> and small Hindi alphabet recognization and playing activity.
+>>> Also, in the joining different province to make a country activity whic=
+h
+>>> exist now (oops ! I cant recall the name), I also thought of adding Ind=
+ian
+>>> states- this will make small Indian kids recognize different states, wh=
+ere
+>>> it is located, how many are there etc.
+>>> With a little more effort, if we can include capital of every state tha=
+t
+>>> would also be great !
+>>> An actiivity regarding recipes of Indian dishes will also be cool :)
+>>> These are few which involves adding activities specific to Indian
+>>> audience.
+>>>
+>>> Best Regards,
+>>>
+>>>
+>>> On Wed, Jul 17, 2013 at 4:50 PM, roopesh shenoy
+>>> <shenoy.roopesh@gmail.com> wrote:
+>>>>
+>>>> Hey Kesha
+>>>>
+>>>> Few questions -
+>>>>
+>>>> - What is the size of sponsorship you are looking for?
+>>>> - Is it necessary to attend this conference instead of viewing webinar=
+s
+>>>> or using other online media?
+>>>> - Would you be interested in an internship that involves adding
+>>>> activities specific to Indian audience to a GCompris fork? (we would
+>>>> contribute the patches upstream but whether they get accepted or not w=
+ill
+>>>> depend on the project owner Bruno)
+>>>>
+>>>>
+>>>> Thanks.
+>>>>
+>>>>
+>>>> Best Regards,
+>>>>
+>>>> Roopesh
+>>>>
+>>>>
+>>>> On Wed, Jul 17, 2013 at 4:22 PM, Kesha Shah <kesha.shah1106@gmail.com>
+>>>> wrote:
+>>>>>
+>>>>> Hi all,
+>>>>>
+>>>>> I am an undergraduate student at Dhirubhai Ambani Institute of
+>>>>> Information
+>>>>> and Communication Technology. I have known the FOSS culture and Open
+>>>>> source
+>>>>> organizations since past 8 months and love it.
+>>>>>
+>>>>> I belong to a university, where there are brilliant coders and studen=
+ts
+>>>>> with great potentials, but there are few who have got in-depth
+>>>>> knowledge
+>>>>> about open source, how anyone can become a part of it and there exist=
+s
+>>>>> many
+>>>>> misconceptions about it. I have read up how Gnome supports
+>>>>> new contributes and coders and encourages them and I really like it.
+>>>>>
+>>>>> This is often considered as a male-dominated field, where hardly wome=
+n
+>>>>> are
+>>>>> aware of it. To increase the awareness among women in software
+>>>>> development,
+>>>>> hats off to programs like Outreach Program for Women. I was unfortuna=
+te
+>>>>> to
+>>>>> hear about it after the deadline elasped and couldn't participate in =
+it
+>>>>> but
+>>>>> fortunate enough to know its hand in hand another program- Google
+>>>>> Summer of
+>>>>> Code and be a part of it.
+>>>>>
+>>>>> Amongst the 17 students selected from our university this year, I am
+>>>>> the
+>>>>> only girl student. None of my female batchmates or female seniors
+>>>>> present
+>>>>> at college have got the same opportunity as me. Many of my batchmates=
+,
+>>>>> juniors and friends ask me how do I start. I do explain them to the
+>>>>> best I
+>>>>> can, but still I feel something is lacked and I can't guide them 100%=
+.
+>>>>>
+>>>>> I use Gnome and its various softwares. One of them, I feel more
+>>>>> attached
+>>>>> with is GCompris. My younger sister loves it and plays it all day lon=
+g.
+>>>>> I
+>>>>> have many plans in head for its improvement. I have downloaded its
+>>>>> source
+>>>>> but had got no time to hack upon it due to current project. I plan
+>>>>> working
+>>>>> for it after september and do a full time project for its improvement
+>>>>> and
+>>>>> adding new activities.
+>>>>>
+>>>>> I am willing to attend GUADEC 2013 to learn more about Gnome, involve
+>>>>> my
+>>>>> fellow batchmates, junior and friends and also for myself to contribu=
+te
+>>>>> to
+>>>>> it. I want to meet this awesome community and wonderful people from i=
+t,
+>>>>> but
+>>>>> I am in financial crisis. It would be great if I can get some
+>>>>> sponsership
+>>>>> so that I can attend this conference and bridge the gap.
+>>>>>
+>>>>> I am interested in many talks which includes First Step Towards
+>>>>> Contributing, Gnome in Open Source Community, Gnome Outreach from Thr=
+ee
+>>>>> Point zero to Hero,FLOSS community outreaches, Outreach Preogram for
+>>>>> Women-Lessons in Collaboration, Foss & Education. I am also willing t=
+o
+>>>>> volunteer, if given an opportunity to come which may smooth the
+>>>>> management
+>>>>> and I can get to help this awesome community :)
+>>>>>
+>>>>> I know it has been too long, but thanks for spending you time and
+>>>>> reading
+>>>>> it :)
+>>>>>
+>>>>> Best Regards,
+>>>>> --
+>>>>> Kesha Shah.
+>>>>>
+>>>>> ---------------------------------------------------------------------=
+---------
+>>>>> See everything from the browser to the database with AppDynamics
+>>>>> Get end-to-end visibility with application monitoring from AppDynamic=
+s
+>>>>> Isolate bottlenecks and diagnose root cause in seconds.
+>>>>> Start your free trial of AppDynamics Pro today!
+>>>>>
+>>>>> http://pubads.g.doubleclick.net/gampad/clk?id=3D48808831&iu=3D/4140/o=
+stg.clktrk
+>>>>> _______________________________________________
+>>>>> gcompris-devel mailing list
+>>>>> gcompris-devel@lists.sourceforge.net
+>>>>> https://lists.sourceforge.net/lists/listinfo/gcompris-devel
+>>>>
+>>>>
+>>>
+>>>
+>>>
+>>> --
+>>> Kesha Shah.
+>>>
+>>
+>
+>
+>
+> --
+From ak-47@gmx.net  Wed Jul 17 20:08:45 2013
+Return-Path: <ak-47@gmx.net>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by restaurant.gnome.org (Postfix) with ESMTP id 1BD25771F7
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 20:08:45 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.206
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.206 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_NONE=-0.0001,
+	RP_MATCHES_RCVD=-0.556, SPF_PASS=-0.001] autolearn=ham
+Received: from restaurant.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id CRVRSzjzH44h for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 20:08:40 +0000 (UTC)
+Received: from mout.gmx.net (mout.gmx.net [212.227.17.20])
+	by restaurant.gnome.org (Postfix) with ESMTP id 1E92B76A46
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 17 Jul 2013 20:08:31 +0000 (UTC)
+Received: from [192.168.1.13] ([89.176.96.40]) by mail.gmx.com (mrgmx101)
+	with ESMTPSA (Nemesis) id 0MRCCJ-1UZrt62wVL-00UckV for
+	<gnome-women-list@mail.gnome.org>; Wed, 17 Jul 2013 22:08:27 +0200
+Message-ID: <1374091705.21070.14.camel@localhost>
+From: Andre Klapper <ak-47@gmx.net>
+To: Kesha Shah <kesha.shah1106@gmail.com>
+Date: Wed, 17 Jul 2013 22:08:25 +0200
+In-Reply-To: <CALHv3TJ9BSpuREXS3L4T8EeSHhoj6zX_CatqUcBQTuA29eQtzA@mail.gmail.com>
+References: <CALHv3TK1j1kyGPrr8Deh5ucqZy3NE=Pn7k+nDXu0QYeO5xmcmw@mail.gmail.com>
+	<CAM=PHJ4BQMiqCKNx7OUX4i23Bx3S7ASN8U+oLP32-T+FhSP_TQ@mail.gmail.com>
+	<CALHv3T+pF7i8_gecNoH-5CyUkMaMtZNeDLXdyVEKymUD_00GVA@mail.gmail.com>
+	<CAM=PHJ7mn_vNBHeZE1yzi9GTg1aNDamzdAKR+zNRVxMoJuVudA@mail.gmail.com>
+	<CALHv3TJ9BSpuREXS3L4T8EeSHhoj6zX_CatqUcBQTuA29eQtzA@mail.gmail.com>
+Content-Type: text/plain; charset="UTF-8"
+X-Mailer: Evolution 3.8.3 (3.8.3-2.fc19) 
+Mime-Version: 1.0
+Content-Transfer-Encoding: 7bit
+X-Provags-ID: V03:K0:a43zbOtqBwXgaUaSWQ7uwR8K6wiint17NwkkGy3HAN6wl0c+0lB
+	YCbWiz20RvQBhqoRsQPiACpCDNo2+EvcWKJetWtVALl/9k5pA74EaZg/nO/UXSEaFjsAz6g
+	J4LTicEbdi4JCKCdriAUVN59U9nItF5ykzysx0SSTdaeRXi7gCz/CnskOHuAYLZmVGt6ufc
+	KphVCRwQNQEslXCTthq+Q==
+X-Mailman-Approved-At: Wed, 17 Jul 2013 20:16:21 +0000
+Cc: guadec-list@gnome.org, gnome-women-list@mail.gnome.org,
+	gnome-love@gnome.org
+Subject: Re: [gnome-women] [guadec-list] [gcompris-devel] Introducing me and
+	my interest
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 17 Jul 2013 20:08:45 -0000
+
+Hi Kesha,
+
+thanks for your interest! However, the deadline for GUADEC travel
+sponsorship application was in May, see
+https://mail.gnome.org/archives/foundation-list/2013-May/msg00166.html
+and from personal experience it's unlikely that you could arrange a visa
+within two weeks...  But in case things don't work out this year it
+would be awesome to see you at next year's GUADEC conference in
+Strasbourg (France)!
+
+Cheers,
+andre
+
+-- 
+Andre Klapper  |  ak-47@gmx.net
+http://blogs.gnome.org/aklapper/
+

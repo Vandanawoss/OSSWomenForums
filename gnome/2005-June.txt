@@ -1,0 +1,3618 @@
+From mairin@gmail.com  Mon Jun 13 10:34:50 2005
+Return-Path: <mairin@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DDD603B077F
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:34:49 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11037-05 for <gnome-women-list@gnome.org>;
+	Mon, 13 Jun 2005 10:34:47 -0400 (EDT)
+Received: from zproxy.gmail.com (zproxy.gmail.com [64.233.162.199])
+	by menubar.gnome.org (Postfix) with ESMTP id 5469E3B06CB
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:34:46 -0400 (EDT)
+Received: by zproxy.gmail.com with SMTP id 12so428019nzp
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 07:34:45 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:content-disposition;
+	b=Dj4N94jbtM7NerdLUAdoBuq7hR6pzt14foRPpRh7G5S5fHmNFhJDBg0/SJb3Jh03XhrxDCF91fVMuoR1kyFYqkRQlhnQaRUwR/KXGH7PXcq6r1wDPTgTy1zJxk6/cfkcHn9dLSAWqO/24+Lb5N9oRBvGuD4lQYckU+8RlWnDTG4=
+Received: by 10.36.57.20 with SMTP id f20mr2886880nza;
+	Mon, 13 Jun 2005 07:28:04 -0700 (PDT)
+Received: by 10.36.24.9 with HTTP; Mon, 13 Jun 2005 07:28:04 -0700 (PDT)
+Message-ID: <cce7a31305061307283997440c@mail.gmail.com>
+Date: Mon, 13 Jun 2005 10:28:04 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+To: gnome-women-list@gnome.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: test
+X-BeenThere: gnome-women-list@gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+List-Id: gnome-women-list.gnome.org
+List-Unsubscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@gnome.org>
+List-Help: <mailto:gnome-women-list-request@gnome.org?subject=help>
+List-Subscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Jun 2005 14:34:50 -0000
+
+test
+From emily@atropine.ath.cx  Mon Jun 13 10:47:39 2005
+Return-Path: <emily@atropine.ath.cx>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BFA943B0929
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:47:39 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11962-04 for <gnome-women-list@gnome.org>;
+	Mon, 13 Jun 2005 10:47:37 -0400 (EDT)
+Received: from atropine.ath.cx (adsl-220-33-63.sav.bellsouth.net
+	[68.220.33.63])
+	by menubar.gnome.org (Postfix) with ESMTP id 137F63B0ECA
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:47:37 -0400 (EDT)
+Received: from [192.168.1.84] ([192.168.1.1]) (authenticated bits=0)
+	by atropine.ath.cx (8.13.1/8.13.1) with ESMTP id j5DElmE2012420
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:47:48 -0400
+Message-ID: <42AD9C89.1070301@atropine.ath.cx>
+Date: Mon, 13 Jun 2005 10:47:37 -0400
+From: Emily Brantley <emily@atropine.ath.cx>
+User-Agent: Mozilla Thunderbird 1.0.2-1.3.3 (X11/20050513)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+X-Enigmail-Version: 0.91.0.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: test
+X-BeenThere: gnome-women-list@gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: gnome-women-list@gnome.org
+List-Id: gnome-women-list.gnome.org
+List-Unsubscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@gnome.org>
+List-Help: <mailto:gnome-women-list-request@gnome.org?subject=help>
+List-Subscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Jun 2005 14:47:40 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+did i join ?  hi you guys !
+
+Em
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.6 (GNU/Linux)
+
+iD8DBQFCrZyHl/fI0i0h13cRAsgxAJ9KVfhnsxmVY9/jjdntY8GlzPRgsACfbswz
+tcnZjn9HimKOWFJDnHfs464=
+=cy2m
+-----END PGP SIGNATURE-----
+From dfong@redhat.com  Mon Jun 13 14:57:26 2005
+Return-Path: <dfong@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 6B7263B0665
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 13 Jun 2005 14:57:26 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30467-01 for <gnome-women-list@mail.gnome.org>;
+	Mon, 13 Jun 2005 14:57:24 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id AA8DE3B006D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 13 Jun 2005 14:57:24 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j5DIvOfi001734
+	for <gnome-women-list@mail.gnome.org>; Mon, 13 Jun 2005 14:57:24 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j5DIvOu13202
+	for <gnome-women-list@mail.gnome.org>; Mon, 13 Jun 2005 14:57:24 -0400
+Received: from dhcp83-80.boston.redhat.com (dhcp83-80.boston.redhat.com
+	[172.16.83.80])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j5DIvOCv014355
+	for <gnome-women-list@mail.gnome.org>; Mon, 13 Jun 2005 14:57:24 -0400
+From: Diana Fong <dfong@redhat.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Date: Mon, 13 Jun 2005 14:57:23 -0400
+Message-Id: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-3) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Mailman-Approved-At: Mon, 13 Jun 2005 14:59:05 -0400
+Subject: [gnome-women] gnome women webpage
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Jun 2005 18:57:26 -0000
+
+Hello all,
+
+It's pretty exciting starting gnome women...and a webpage would
+definitely help with communication and promotion.  I'd like to take on
+the task of designing a site but before I begin, it would be great to
+get suggestions concerning what to include and whatnot.
+
+If someone wants to come up with content, that would also be cool.
+
+One of my ideas is to include an area for bios.  I think that would be
+pretty useful in getting to know each other and for newcomers in
+figuring out who to contact. =)
+
+Diana
+
+From gnome-women-list@kennethpaul.com  Wed Jun 15 17:21:19 2005
+Return-Path: <gnome-women-list@kennethpaul.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F1EB03B0674
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:18 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30737-03 for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:17 -0400 (EDT)
+Received: from ms-smtp-03-eri0.southeast.rr.com
+	(ms-smtp-03-lbl.southeast.rr.com [24.25.9.102])
+	by menubar.gnome.org (Postfix) with ESMTP id 098AC3B0737
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:17 -0400 (EDT)
+Received: from ken (cpe-065-188-087-133.carolina.res.rr.com [65.188.87.133])
+	by ms-smtp-03-eri0.southeast.rr.com (8.12.10/8.12.7) with ESMTP id
+	j5FLLCY4015044 for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:13 -0400 (EDT)
+Message-Id: <200506152121.j5FLLCY4015044@ms-smtp-03-eri0.southeast.rr.com>
+From: "Ken Stanley" <gnome-women-list@kennethpaul.com>
+To: <gnome-women-list@mail.gnome.org>
+Date: Wed, 15 Jun 2005 17:21:09 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcVx8CXEpP3B63bjQZe/IocXXZeeRQ==
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: [gnome-women] Mirrors to the HOWTO and assorted Kudos!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 15 Jun 2005 21:21:19 -0000
+
+Hi,
+
+I just read about the Gnome Women movement on Footnotes and although I've
+posted comments there, I thought it would be prudent to send this email and
+let everybody know that I am offering two of my servers to host the HOWTO
+written by many of the women in the computer industry. 
+
+Original:
+http://infohost.nmt.edu/~val/howto.html
+
+Mirrors:
+http://www.kennethpaul.com/Encourage-Women-in-Linux-HOWTO.html
+http://www.makeitfast.com/Encourage-Women-in-Linux-HOWTO.html
+
+Also, if there is any other assistance I may be able to provide, I'd like to
+extend my offer of help. While I know this is mainly for women helping other
+women get into the industry, it may be helpful for everyone to have
+like-minded men available to show newcomers that there are guys out there
+that are more than willing to help promote and encourage them where needed.
+
+Congratulations on taking the first steps, and I look forward to seeing the
+success of Gnome Women.
+
+- Ken
+
+From JWilliams@business.otago.ac.nz  Fri Jun 17 00:49:36 2005
+Return-Path: <JWilliams@business.otago.ac.nz>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BC0383B07F2
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 17 Jun 2005 00:49:35 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29355-06 for <gnome-women-list@mail.gnome.org>;
+	Fri, 17 Jun 2005 00:49:32 -0400 (EDT)
+Received: from mailhub1.otago.ac.nz (mailhub1.otago.ac.nz [139.80.64.218])
+	by menubar.gnome.org (Postfix) with ESMTP id 637893B0891
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 17 Jun 2005 00:49:31 -0400 (EDT)
+Received: from SOBMAIL1.commerce.otago.ac.nz (sbadex02.commerce.otago.ac.nz
+	[139.80.81.53])
+	by mailhub1.otago.ac.nz (8.12.11/8.12.11) with ESMTP id j5H4nSkv023727
+	for <gnome-women-list@mail.gnome.org>; Fri, 17 Jun 2005 16:49:29 +1200
+Received: sobmail1.commerce.otago.ac.nz 139.80.81.89 from 202.150.113.144
+	202.150.113.144 via HTTP with MS-WebStorage 6.5.6944
+Received: from localhost by sobmail1.commerce.otago.ac.nz;
+	17 Jun 2005 04:52:45 +0000
+From: John Williams <jwilliams@business.otago.ac.nz>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+Date: Fri, 17 Jun 2005 16:48:42 +1200
+Message-Id: <1118983722.2936.1.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.2.2 (2.2.2-5) 
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Mailman-Approved-At: Fri, 17 Jun 2005 03:09:43 -0400
+Subject: [gnome-women] Interested in helping out GNOME with marketing ideas?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 17 Jun 2005 04:49:36 -0000
+
+Hello GNOME Women! I am not a woman. I am here to ask you to consider
+becoming involved with marketing GNOME. See #marketing, #gnome-journal
+and http://live.gnome.org/MarketingTeam. I think we really need a more
+gender-balanced view.
+
+cheers,
+
+John
+
+-- 
+ICQ: 261810463
+AIM: johnfrombluff
+AOL: johnfrombluff
+MSN: johnwilliamsFromBluff@hotmail.com
+Yahoo: JohnFromBluff
+Jabber: jwilliamsFromBluff@jabber.org
+
+From mairin@gmail.com  Tue Jun 21 23:46:40 2005
+Return-Path: <mairin@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DD7CE3B0CA4
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 23:46:39 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29612-10 for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 23:46:35 -0400 (EDT)
+Received: from zproxy.gmail.com (zproxy.gmail.com [64.233.162.203])
+	by menubar.gnome.org (Postfix) with ESMTP id 8EF543B0ECC
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 23:46:33 -0400 (EDT)
+Received: by zproxy.gmail.com with SMTP id 12so71169nzp
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 20:46:32 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:cc:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=BS0IfCA2yWg03PkqiWUN7Epu438ugr0qIuoW/ISqWFb/gPJt0JbALrIFSPNY5qR92ok8u60Sv4VQ2PP6SPxlzaHgHd0GomSmBuhX+vuBB2qoOBuDtN5cy3yE1d9EUUnliO0EWLXUDZjTk3y3uUSll2CvfQuZk8X3kxAdPj9IsdU=
+Received: by 10.36.227.31 with SMTP id z31mr262422nzg;
+	Tue, 21 Jun 2005 20:46:32 -0700 (PDT)
+Received: by 10.36.24.9 with HTTP; Tue, 21 Jun 2005 20:46:32 -0700 (PDT)
+Message-ID: <cce7a31305062120466b252f5a@mail.gmail.com>
+Date: Tue, 21 Jun 2005 23:46:32 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+To: Diana Fong <dfong@redhat.com>
+Subject: Re: [gnome-women] gnome women webpage
+In-Reply-To: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+References: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: gnome-women-list@mail.gnome.org, hmw26@cam.ac.uk
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 03:46:40 -0000
+
+Hi Diana & All,
+
+I think we all need to have a discussion about the specific goals we'd
+like to achieve and tailor the website towards supporting that.
+
+My thoughts were that the website, at the least, should serve as sort
+of a professional-looking "business card" that we could advertise to
+say university comp sci depts to try to recruit more women.
+
+Bios I agree are also important; we should make it really easy for
+people to contact us, making our irc names and email addys visible, as
+well as our time zones and areas of specialty. :).
+
+I think in the meantime though, while we are sorting out and defining
+our goals, we could work on a logo. I think the most popular idea is
+to emulate the debian-women venus logo, incorporating the gnome "G"
+foot rather than the debian swirl. There have been ideas involving
+"making up" the foot, e.g. nail polish, toe rings, lipstick, etc., and
+I think a lot of them could be cute, but I'm worried about such logos
+conveying the wrong idea about the project. We want to be taken
+seriously, bottom-line.
+
+~m
+
+On 6/13/05, Diana Fong <dfong@redhat.com> wrote:
+> Hello all,
+>=20
+> It's pretty exciting starting gnome women...and a webpage would
+> definitely help with communication and promotion.  I'd like to take on
+> the task of designing a site but before I begin, it would be great to
+> get suggestions concerning what to include and whatnot.
+>=20
+> If someone wants to come up with content, that would also be cool.
+>=20
+> One of my ideas is to include an area for bios.  I think that would be
+> pretty useful in getting to know each other and for newcomers in
+> figuring out who to contact. =3D)
+>=20
+> Diana
+>=20
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+From hmw26@cam.ac.uk  Wed Jun 22 00:15:41 2005
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CAA353B0E67
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 00:15:41 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30981-02 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 00:15:40 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id 074703B0ECB
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 00:15:40 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from [141.151.82.136] (port=36181 helo=localhost.localdomain)
+	by ppsw-9.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.159]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1DkweC-0003bm-T3 (Exim 4.51)
+	(return-path <hmw26@cam.ac.uk>); Wed, 22 Jun 2005 05:15:32 +0100
+Received: from hmw26 by localhost.localdomain with local (Exim 4.51)
+	id 1Dkwco-0001ju-Us; Wed, 22 Jun 2005 00:14:06 -0400
+Date: Wed, 22 Jun 2005 00:14:06 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: =?iso-8859-1?B?TeFpcu1u?= Duffy <mairin@gmail.com>
+Subject: Re: [gnome-women] gnome women webpage
+Message-ID: <20050622041406.GB6594@bayes>
+References: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+	<cce7a31305062120466b252f5a@mail.gmail.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <cce7a31305062120466b252f5a@mail.gmail.com>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: hmw26@hermes.cam.ac.uk
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: Diana Fong <dfong@redhat.com>, gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 04:15:42 -0000
+
+Hi M�ir�n, hi everyone!
+
+> I think we all need to have a discussion about the specific goals we'd
+> like to achieve and tailor the website towards supporting that.
+
+I agree. I think our high-level goal is pretty simple: "Encourage more
+women to get involved in GNOME development."
+
+There are a number of ways we can go about this. Personally, I'd like
+to see GNOME Women be an action-oriented group. Primarily
+support-based groups do (of course) serve a purpose, but I'm not
+convinced that this isthe best way to actually increase women's
+involvement in free software projects.
+
+I think it's worth considering some of the things that the Debian
+Women project has found to be successful, and adopting a similar
+strategy. Some possible things to aim for would be:
+
+* Role models. Greater visibility of active women.
+* Mentoring.
+* Tutorials held on IRC.
+* Bug-squashing parties.
+* Creating opportunities for collaborating with existing GNOME
+  developers.
+* Organising BOFs and giving talks at Linux conferences.
+* Actively encouraging and educating the GNOME community to increase
+  understanding of the issues facing women who wish to get more
+  involved in GNOME development.
+
+Obviously, this list of activities is likely to evolve (and hopefully
+grow!) as GNOME Women becomes larger, but I think these things are a
+good starting point for discussion, planning and action. 
+
+> My thoughts were that the website, at the least, should serve as sort
+> of a professional-looking "business card" that we could advertise to
+> say university comp sci depts to try to recruit more women.
+
+That sounds like a decent idea. I think the website should also serve
+as a starting point for women interested in getting more involved with
+GNOME. In other words, I think that tutorials, FAQs, ways people can
+get involved etc. are all good things to have on the site.
+
+> Bios I agree are also important; we should make it really easy for
+> people to contact us, making our irc names and email addys visible, as
+> well as our time zones and areas of specialty. :).
+
+Absolutely!
+
+> I think in the meantime though, while we are sorting out and
+> defining our goals, we could work on a logo. I think the most
+> popular idea is to emulate the debian-women venus logo,
+> incorporating the gnome "G" foot rather than the debian swirl.
+
+I think that's a good starting point. Do we have any graphic designers
+on the list? If so, this'd be a great time to step forwards. :-)
+
+> There have been ideas involving "making up" the foot, e.g. nail
+> polish, toe rings, lipstick, etc., and I think a lot of them could
+> be cute, but I'm worried about such logos conveying the wrong idea
+> about the project. We want to be taken seriously, bottom-line.
+
+I very much agree with this. Projects aimed at getting more women
+involved in technology development are rarely taken seriously by the
+existing development community, whatever it may be, if there is too
+much emphasis on "cutesy" and stereotypically feminine logos etc. I'd
+like to think we're about breaking stereotypes, not reinforcing them!
+
+Regards,
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+From runabh@gmail.com  Wed Jun 22 04:50:43 2005
+Return-Path: <runabh@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 325193B069C
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 04:50:39 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15447-10 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 04:50:31 -0400 (EDT)
+Received: from rproxy.gmail.com (rproxy.gmail.com [64.233.170.198])
+	by menubar.gnome.org (Postfix) with ESMTP id C14623B0669
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 04:50:05 -0400 (EDT)
+Received: by rproxy.gmail.com with SMTP id b11so63335rne
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 01:50:05 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:subject:from:to:cc:in-reply-to:references:content-type:date:message-id:mime-version:x-mailer:content-transfer-encoding;
+	b=bm/hNfkJSuVaYxuJMkU1dDqXQUer+D+3kJ0tgujgoOTsvDKcBZeZV1aFTsVuGIWvDOZQ8ONdk/opunSGEn4vWnDVGfk+A5StMCssJcdY9khmb4ASUOeZ/1N+8/ftbfgB3TYU1ju7A43F9wany8GDr90cypuZa3iXHLSiuYMjXqA=
+Received: by 10.38.76.3 with SMTP id y3mr234249rna;
+	Wed, 22 Jun 2005 01:50:05 -0700 (PDT)
+Received: from runab.pnq.redhat.com ([202.41.228.162])
+	by mx.gmail.com with ESMTP id 74sm378171rnb.2005.06.22.01.50.03;
+	Wed, 22 Jun 2005 01:50:05 -0700 (PDT)
+Subject: Re: [gnome-women] gnome women webpage
+From: Runa Bhattacharjee <runabh@gmail.com>
+To: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+In-Reply-To: <20050622041406.GB6594@bayes>
+References: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+	<cce7a31305062120466b252f5a@mail.gmail.com>
+	<20050622041406.GB6594@bayes>
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 22 Jun 2005 14:20:00 +0530
+Message-Id: <1119430200.3791.11.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-14) 
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: Diana Fong <dfong@redhat.com>,
+	gnome-women <gnome-women-list@mail.gnome.org>
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 08:50:44 -0000
+
+বুধ, 2005-06-22 -র 00:14 -0400-এ, Hanna M. Wallach লিখেছিলেন:
+> Hi Máirín, hi everyone!
+> 
+Hi everyone,
+
+This is Runa from India. I am part of the bengali localisation team
+(www.bengalinux.org) and have so far contributed to Gnome, Fedora, Xfce
+and Mozilla l10n projects. I use either runa or runab on the irc. Came
+across this forum a few days back and its really encouraging to see
+women carving out a place for themselves and making their efforts
+visible, as more often than not in techincal domains we are pushed back
+as non-serious players inspite of noteworthy contributions.
+> 
+> > There have been ideas involving "making up" the foot, e.g. nail
+> > polish, toe rings, lipstick, etc., and I think a lot of them could
+> > be cute, but I'm worried about such logos conveying the wrong idea
+> > about the project. We want to be taken seriously, bottom-line.
+> 
+> I very much agree with this. Projects aimed at getting more women
+> involved in technology development are rarely taken seriously by the
+> existing development community, whatever it may be, if there is too
+> much emphasis on "cutesy" and stereotypically feminine logos etc. I'd
+> like to think we're about breaking stereotypes, not reinforcing them!
+> 
+
+Perhaps a logo that doesnt really scream "we are females" and portrays
+the fact that we are "professionals, know what we are doing and we r
+good at it too" might help. 
+
+just my 2 cents :)
+
+regards
+
+-- 
+Runa Bhattacharjee <runabh@gmail.com>
+
+From mary@home.puzzling.org  Wed Jun 22 19:05:32 2005
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 4B0D83B0703
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:05:32 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15143-08 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:05:31 -0400 (EDT)
+Received: from smtp.syd.swiftdsl.com.au (smtp.syd.swiftdsl.com.au
+	[218.214.224.138])
+	by menubar.gnome.org (Postfix) with SMTP id 1C01E3B088F
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:05:30 -0400 (EDT)
+Received: (qmail 4140 invoked from network); 22 Jun 2005 23:05:32 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp.syd.swiftdsl.com.au with SMTP; 22 Jun 2005 23:05:32 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id D9136788083
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 23 Jun 2005 09:05:29 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 30423-04 for <gnome-women-list@mail.gnome.org>;
+	Thu, 23 Jun 2005 09:05:29 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id C6318788082; Thu, 23 Jun 2005 09:05:29 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Thu, 23 Jun 2005 09:05:29 +1000
+Resent-Message-ID: <20050622230529.GA30504@home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Thu, 23 Jun 2005 09:04:08 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20050622230408.GA30472@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: [gnome-women] IRC channel invite only
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 23:05:32 -0000
+
+Hi,
+
+Quick introduction:
+
+I'm a woman, and I'm genuinely interested in being part of GNOME women,
+probably as a development mentee (I'm a programmer, but not familiar
+with GNOME libraries, the HIG etc). My FOSS involvement to date has
+been doing some documentation development for the Twisted community. In
+addition, I've been heavily involved in my local LUG at times and have a
+fairly high involvement in the LinuxChix community.
+
+So, moving on... can I join the IRC channel on GIMPnet? This morning I
+got 
+--- Cannot join #gnome-women (Channel is invite only).
+Fele free to contact me off-list with details. (And assume I can, is
+there some way I can avoid having to ask to be reinvited every 24 hours?
+I log off IRC at night.)
+
+-Mary
+From erinn@double-helix.org  Wed Jun 22 19:16:57 2005
+Return-Path: <erinn@double-helix.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 158A93B0703
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:57 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16407-09 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:54 -0400 (EDT)
+Received: from imf18aec.mail.bellsouth.net (imf18aec.mail.bellsouth.net
+	[205.152.59.66])
+	by menubar.gnome.org (Postfix) with ESMTP id 2D2123B075B
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:54 -0400 (EDT)
+Received: from ibm61aec.bellsouth.net ([68.154.199.164])
+	by imf18aec.mail.bellsouth.net with ESMTP id
+	<20050622231649.LDJN2372.imf18aec.mail.bellsouth.net@ibm61aec.bellsouth.net>
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:49 -0400
+Received: from double-helix.org ([68.154.199.164])
+	by ibm61aec.bellsouth.net with ESMTP
+	id <20050622231649.KMED4468.ibm61aec.bellsouth.net@double-helix.org>
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:49 -0400
+Received: by anemone (Postfix, from userid 1001)
+	id E0DC42FBD0; Wed, 22 Jun 2005 19:16:41 -0400 (EDT)
+Date: Wed, 22 Jun 2005 19:16:41 -0400
+From: Erinn Clark <erinn@double-helix.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC channel invite only
+Message-ID: <20050622231641.GA8864@double-helix.org>
+References: <20050622230408.GA30472@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20050622230408.GA30472@home.puzzling.org>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 23:16:57 -0000
+
+* Mary Gardiner <mary-gnome@puzzling.org> [2005:06:23 09:04 +1000]: 
+> So, moving on... can I join the IRC channel on GIMPnet? This morning I
+> got 
+> --- Cannot join #gnome-women (Channel is invite only).
+
+Hi Mary,
+
+There was some confusion earlier and it got set +i by accident. I've
+fixed it so you (and anyone else who's run into this problem) can join
+now.
+
+-- 
+off the chain like a rebellious guanine nucleotide
+From hmw26@cam.ac.uk  Wed Jun 22 19:19:30 2005
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A84B93B10B5
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:19:30 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16594-06 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:19:28 -0400 (EDT)
+Received: from ppsw-1.csi.cam.ac.uk (ppsw-1.csi.cam.ac.uk [131.111.8.131])
+	by menubar.gnome.org (Postfix) with ESMTP id 4D49A3B0703
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:19:28 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from [141.151.82.136] (port=37731 helo=localhost.localdomain)
+	by ppsw-1.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.151]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1DlEVA-0001Y9-5c (Exim 4.51) for gnome-women-list@mail.gnome.org
+	(return-path <hmw26@cam.ac.uk>); Thu, 23 Jun 2005 00:19:24 +0100
+Received: from hmw26 by localhost.localdomain with local (Exim 4.51)
+	id 1DlETi-0005e4-Am
+	for gnome-women-list@mail.gnome.org; Wed, 22 Jun 2005 19:17:54 -0400
+Date: Wed, 22 Jun 2005 19:17:54 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC channel invite only
+Message-ID: <20050622231754.GC15317@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org
+References: <20050622230408.GA30472@home.puzzling.org>
+	<20050622231641.GA8864@double-helix.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20050622231641.GA8864@double-helix.org>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: hmw26@hermes.cam.ac.uk
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 23:19:30 -0000
+
+Hi Mary, Erinn and everyone,
+
+> There was some confusion earlier and it got set +i by accident. I've
+> fixed it so you (and anyone else who's run into this problem) can
+> join now.
+
+Indeed. I'm sorry about that. (Not quite sure how it happened, but
+we'll try to ensure it doesn't happen again!)
+
+Regards, 
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+From hmw26@cam.ac.uk  Mon Jun 27 12:28:03 2005
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7267D3B0530
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Jun 2005 12:28:03 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 20381-10 for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Jun 2005 12:28:02 -0400 (EDT)
+Received: from ppsw-1.csi.cam.ac.uk (ppsw-1.csi.cam.ac.uk [131.111.8.131])
+	by menubar.gnome.org (Postfix) with ESMTP id E0A2E3B0690
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Jun 2005 12:28:01 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from cpc2-cmbg6-6-0-cust61.cmbg.cable.ntl.com ([81.104.214.61]:35400
+	helo=localhost.localdomain)
+	by ppsw-1.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.151]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1DmwSb-0002E2-6C (Exim 4.51) for gnome-women-list@mail.gnome.org
+	(return-path <hmw26@cam.ac.uk>); Mon, 27 Jun 2005 17:27:49 +0100
+Received: from hmw26 by localhost.localdomain with local (Exim 4.51)
+	id 1DmwSW-0003pj-6B
+	for gnome-women-list@mail.gnome.org; Mon, 27 Jun 2005 17:27:44 +0100
+Date: Mon, 27 Jun 2005 17:27:44 +0100
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20050627162744.GF14485@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: hmw26@hermes.cam.ac.uk
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: [gnome-women] Getting Involved in GNOME
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 27 Jun 2005 16:28:03 -0000
+
+Hi people, 
+
+I recently found out about Getting Involved
+(http://live.gnome.org/MarketingTeam_2fGettingInvolved), the GNOME
+Marketing Team's new project, which aims to provide (better)
+information on getting involved in GNOME. Some of the things they plan
+to do include:
+
+* Look for the more inclusive concept of "contributors" rather than
+  the more restricted term "developers".
+
+* Make sure programmers understand why GNOME is a great platform and
+  community to develop software, where the help is needed and how to
+  start contributing.
+
+* Make sure that all willing contributors but non-programmers
+  understand as well that there is a place for them and a plenty of
+  exciting things to do and share.
+
+Sounds like this is something highly relevant to GNOME Women, and
+worth keeping an eye on, if not contributing to.
+
+Regards, 
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+From clytie@riverland.net.au  Tue Jun 28 03:17:04 2005
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E9B533B08D1
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 03:17:03 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 12544-07 for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 03:17:02 -0400 (EDT)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 831943B0C49
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 03:17:00 -0400 (EDT)
+Received: from [10.1.1.91] (ppp223-237.lns3.adl2.internode.on.net
+	[203.122.223.237])
+	by smtp1.adl2.internode.on.net (8.12.9/8.12.9) with ESMTP id
+	j5S7GwTp047236 for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 16:46:59 +0930 (CST)
+Mime-Version: 1.0 (Apple Message framework v730)
+In-Reply-To: <20050627162744.GF14485@bayes>
+References: <20050627162744.GF14485@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <67995E47-32D2-47A6-B941-DB2386466C42@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] Getting Involved in GNOME
+Date: Tue, 28 Jun 2005 16:46:54 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.730)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 28 Jun 2005 07:17:04 -0000
+
+
+On 28/06/2005, at 1:57 AM, Hanna M. Wallach wrote:
+>
+> I recently found out about Getting Involved
+> (http://live.gnome.org/MarketingTeam_2fGettingInvolved), the GNOME
+> Marketing Team's new project, which aims to provide (better)
+> information on getting involved in GNOME. Some of the things they plan
+> to do include:
+>
+> * Look for the more inclusive concept of "contributors" rather than
+>   the more restricted term "developers".
+>
+> * Make sure programmers understand why GNOME is a great platform and
+>   community to develop software, where the help is needed and how to
+>   start contributing.
+>
+> * Make sure that all willing contributors but non-programmers
+>   understand as well that there is a place for them and a plenty of
+>   exciting things to do and share.
+>
+> Sounds like this is something highly relevant to GNOME Women, and
+> worth keeping an eye on, if not contributing to.
+
+As a very new Gnome-Woman who has just crawled in the door <peels off =20=
+
+shrinkwrap, itchy..> I think this sounds like an exciting and =20
+possibly overdue move.
+
+We'll certainly get much more participation, and a broader range of =20
+it, if people know that anything positive and useful is welcomed. We =20
+need to get out of people's heads (including our own) the thoughts =20
+"I'm only a user", "I only do patches sometimes", "I'm only a =20
+translator" "I could only run a discussion group, I don't really know =20=
+
+anything" which really hold back people from contributing their =20
+definitely valuable skills and experience.
+
+I hope it works well. :)  I'll start inside my head: it needs =20
+updating badly.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+
+Clytie Siddall--Renmark, in the Riverland of South Australia
+
+=E1=BB=9E th=C3=A0nh ph=E1=BB=91 Renmark, t=E1=BA=A1i mi=E1=BB=81n s=C3=B4=
+ng c=E1=BB=A7a Nam =C3=9Ac
+
+From duffy@redhat.com  Thu Jun 30 19:31:41 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 1E6873B0874
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 19:31:41 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 05302-01 for <gnome-women-list@gnome.org>;
+	Thu, 30 Jun 2005 19:31:38 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 186B13B072B
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 19:31:37 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j5UKw6xe003291
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 16:58:06 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j5UKw6u24755
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 16:58:06 -0400
+Received: from dhcp83-82.boston.redhat.com
+	(IDENT:U2FsdGVkX1+FyBEBQqmKLnUK6wcENwRQpnusBkq5ScA@dhcp83-82.boston.redhat.com
+	[172.16.83.82])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j5UKw5eP006482
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 16:58:05 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain
+Organization: Red Hat, Inc.
+Date: Thu, 30 Jun 2005 17:00:09 -0400
+Message-Id: <1120165210.4184.43.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-16) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: 
+Subject: [gnome-women] Gnome Women Logo Contest
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 30 Jun 2005 23:31:41 -0000
+
+Hey Everybody,
+
+We need a logo for the Gnome Women project! So, we're running a contest
+for logo ideas. Even if you are not artistically inclined, submit your
+idea and we'll discuss it on the list! If you are, that's cool too; you
+can post the URL to your logo on list or just attach it to your email.
+We'll decide on our favorites on-list and Diana and/or I will finalize
+any work that needs to be done graphically.
+
+We'll give two weeks for submissions, so the due date for submissions
+is: Friday, Jul 15th. You can reply to this message with your submission
+(s).
+
+Some things to keep in mind when creating your logo:
+
+o The current 'mission statement' of the Gnome Women project is: "GNOME
+Women is a project to (1) provide encouragement for women to contribute
+to GNOME (2) make visible the GNOME contributors who are women."
+
+o Let's try not to reinforce too many gender stereotypes. It's hard, I
+know.
+
+o You can get an svg versios of the GNOME logo at:
+http://linuxgrrl.com/gnomewomen/gnome2-fancy-pat.svg
+(Normally there are multiple versions available at
+http://www.gnome.org/~jdub/random/logo/ but the gnome servers were just
+relocated physically and it looks like some stuff is still down.)
+
+o Inkscape (http://www.inkscape.org/) and sodipodi
+(http://www.sodipodi.com/) are really nice vector graphics programs
+suitable for creating vector logos in GNOME. ;-)
+
+~m
+
+
+
+From mary@home.puzzling.org  Thu Jun 30 19:42:26 2005
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C260D3B1060
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 30 Jun 2005 19:42:26 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 06172-08 for <gnome-women-list@mail.gnome.org>;
+	Thu, 30 Jun 2005 19:42:21 -0400 (EDT)
+Received: from smtp.syd.swiftdsl.com.au (smtp.syd.swiftdsl.com.au
+	[218.214.224.138])
+	by menubar.gnome.org (Postfix) with SMTP id 539C63B072B
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 30 Jun 2005 19:42:20 -0400 (EDT)
+Received: (qmail 9515 invoked from network); 30 Jun 2005 23:42:21 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp.syd.swiftdsl.com.au with SMTP; 30 Jun 2005 23:42:21 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 375C1788088
+	for <gnome-women-list@mail.gnome.org>;
+	Fri,  1 Jul 2005 09:42:17 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 10593-03 for <gnome-women-list@mail.gnome.org>;
+	Fri, 1 Jul 2005 09:42:17 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id 19657788087; Fri,  1 Jul 2005 09:42:17 +1000 (EST)
+Date: Fri, 1 Jul 2005 09:42:17 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Gnome Women Logo Contest
+Message-ID: <20050630234217.GE6871@home.puzzling.org>
+References: <1120165210.4184.43.camel@localhost.localdomain>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <1120165210.4184.43.camel@localhost.localdomain>
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 30 Jun 2005 23:42:26 -0000
+
+On Thu, Jun 30, 2005, M?ir?n Duffy wrote:
+> We need a logo for the Gnome Women project! So, we're running a contest
+> for logo ideas. Even if you are not artistically inclined, submit your
+> idea and we'll discuss it on the list! If you are, that's cool too; you
+> can post the URL to your logo on list or just attach it to your email.
+> We'll decide on our favorites on-list and Diana and/or I will finalize
+> any work that needs to be done graphically.
+
+Hmmm, one brainstorm style idea (as in, I haven't thought about the
+graphics difficulty):  a stylised woman martial artist kicking straight
+at the viewer. Her foot is the GNOME foot.
+
+-Mary
+From mairin@gmail.com  Mon Jun 13 10:34:50 2005
+Return-Path: <mairin@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DDD603B077F
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:34:49 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11037-05 for <gnome-women-list@gnome.org>;
+	Mon, 13 Jun 2005 10:34:47 -0400 (EDT)
+Received: from zproxy.gmail.com (zproxy.gmail.com [64.233.162.199])
+	by menubar.gnome.org (Postfix) with ESMTP id 5469E3B06CB
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:34:46 -0400 (EDT)
+Received: by zproxy.gmail.com with SMTP id 12so428019nzp
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 07:34:45 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:content-disposition;
+	b=Dj4N94jbtM7NerdLUAdoBuq7hR6pzt14foRPpRh7G5S5fHmNFhJDBg0/SJb3Jh03XhrxDCF91fVMuoR1kyFYqkRQlhnQaRUwR/KXGH7PXcq6r1wDPTgTy1zJxk6/cfkcHn9dLSAWqO/24+Lb5N9oRBvGuD4lQYckU+8RlWnDTG4=
+Received: by 10.36.57.20 with SMTP id f20mr2886880nza;
+	Mon, 13 Jun 2005 07:28:04 -0700 (PDT)
+Received: by 10.36.24.9 with HTTP; Mon, 13 Jun 2005 07:28:04 -0700 (PDT)
+Message-ID: <cce7a31305061307283997440c@mail.gmail.com>
+Date: Mon, 13 Jun 2005 10:28:04 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+To: gnome-women-list@gnome.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: test
+X-BeenThere: gnome-women-list@gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+List-Id: gnome-women-list.gnome.org
+List-Unsubscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@gnome.org>
+List-Help: <mailto:gnome-women-list-request@gnome.org?subject=help>
+List-Subscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Jun 2005 14:34:50 -0000
+
+test
+
+From emily@atropine.ath.cx  Mon Jun 13 10:47:39 2005
+Return-Path: <emily@atropine.ath.cx>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BFA943B0929
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:47:39 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11962-04 for <gnome-women-list@gnome.org>;
+	Mon, 13 Jun 2005 10:47:37 -0400 (EDT)
+Received: from atropine.ath.cx (adsl-220-33-63.sav.bellsouth.net
+	[68.220.33.63])
+	by menubar.gnome.org (Postfix) with ESMTP id 137F63B0ECA
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:47:37 -0400 (EDT)
+Received: from [192.168.1.84] ([192.168.1.1]) (authenticated bits=0)
+	by atropine.ath.cx (8.13.1/8.13.1) with ESMTP id j5DElmE2012420
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:47:48 -0400
+Message-ID: <42AD9C89.1070301@atropine.ath.cx>
+Date: Mon, 13 Jun 2005 10:47:37 -0400
+From: Emily Brantley <emily@atropine.ath.cx>
+User-Agent: Mozilla Thunderbird 1.0.2-1.3.3 (X11/20050513)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+X-Enigmail-Version: 0.91.0.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: test
+X-BeenThere: gnome-women-list@gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: gnome-women-list@gnome.org
+List-Id: gnome-women-list.gnome.org
+List-Unsubscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@gnome.org>
+List-Help: <mailto:gnome-women-list-request@gnome.org?subject=help>
+List-Subscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Jun 2005 14:47:40 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+did i join ?  hi you guys !
+
+Em
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.6 (GNU/Linux)
+
+iD8DBQFCrZyHl/fI0i0h13cRAsgxAJ9KVfhnsxmVY9/jjdntY8GlzPRgsACfbswz
+tcnZjn9HimKOWFJDnHfs464=
+=cy2m
+-----END PGP SIGNATURE-----
+
+From dfong@redhat.com  Mon Jun 13 14:57:26 2005
+Return-Path: <dfong@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 6B7263B0665
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 13 Jun 2005 14:57:26 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30467-01 for <gnome-women-list@mail.gnome.org>;
+	Mon, 13 Jun 2005 14:57:24 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id AA8DE3B006D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 13 Jun 2005 14:57:24 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j5DIvOfi001734
+	for <gnome-women-list@mail.gnome.org>; Mon, 13 Jun 2005 14:57:24 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j5DIvOu13202
+	for <gnome-women-list@mail.gnome.org>; Mon, 13 Jun 2005 14:57:24 -0400
+Received: from dhcp83-80.boston.redhat.com (dhcp83-80.boston.redhat.com
+	[172.16.83.80])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j5DIvOCv014355
+	for <gnome-women-list@mail.gnome.org>; Mon, 13 Jun 2005 14:57:24 -0400
+From: Diana Fong <dfong@redhat.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Date: Mon, 13 Jun 2005 14:57:23 -0400
+Message-Id: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-3) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Mailman-Approved-At: Mon, 13 Jun 2005 14:59:05 -0400
+Subject: [gnome-women] gnome women webpage
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Jun 2005 18:57:26 -0000
+
+Hello all,
+
+It's pretty exciting starting gnome women...and a webpage would
+definitely help with communication and promotion.  I'd like to take on
+the task of designing a site but before I begin, it would be great to
+get suggestions concerning what to include and whatnot.
+
+If someone wants to come up with content, that would also be cool.
+
+One of my ideas is to include an area for bios.  I think that would be
+pretty useful in getting to know each other and for newcomers in
+figuring out who to contact. =)
+
+Diana
+
+
+From gnome-women-list@kennethpaul.com  Wed Jun 15 17:21:19 2005
+Return-Path: <gnome-women-list@kennethpaul.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F1EB03B0674
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:18 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30737-03 for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:17 -0400 (EDT)
+Received: from ms-smtp-03-eri0.southeast.rr.com
+	(ms-smtp-03-lbl.southeast.rr.com [24.25.9.102])
+	by menubar.gnome.org (Postfix) with ESMTP id 098AC3B0737
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:17 -0400 (EDT)
+Received: from ken (cpe-065-188-087-133.carolina.res.rr.com [65.188.87.133])
+	by ms-smtp-03-eri0.southeast.rr.com (8.12.10/8.12.7) with ESMTP id
+	j5FLLCY4015044 for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:13 -0400 (EDT)
+Message-Id: <200506152121.j5FLLCY4015044@ms-smtp-03-eri0.southeast.rr.com>
+From: "Ken Stanley" <gnome-women-list@kennethpaul.com>
+To: <gnome-women-list@mail.gnome.org>
+Date: Wed, 15 Jun 2005 17:21:09 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcVx8CXEpP3B63bjQZe/IocXXZeeRQ==
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: [gnome-women] Mirrors to the HOWTO and assorted Kudos!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 15 Jun 2005 21:21:19 -0000
+
+Hi,
+
+I just read about the Gnome Women movement on Footnotes and although I've
+posted comments there, I thought it would be prudent to send this email and
+let everybody know that I am offering two of my servers to host the HOWTO
+written by many of the women in the computer industry. 
+
+Original:
+http://infohost.nmt.edu/~val/howto.html
+
+Mirrors:
+http://www.kennethpaul.com/Encourage-Women-in-Linux-HOWTO.html
+http://www.makeitfast.com/Encourage-Women-in-Linux-HOWTO.html
+
+Also, if there is any other assistance I may be able to provide, I'd like to
+extend my offer of help. While I know this is mainly for women helping other
+women get into the industry, it may be helpful for everyone to have
+like-minded men available to show newcomers that there are guys out there
+that are more than willing to help promote and encourage them where needed.
+
+Congratulations on taking the first steps, and I look forward to seeing the
+success of Gnome Women.
+
+- Ken
+
+
+From JWilliams@business.otago.ac.nz  Fri Jun 17 00:49:36 2005
+Return-Path: <JWilliams@business.otago.ac.nz>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BC0383B07F2
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 17 Jun 2005 00:49:35 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29355-06 for <gnome-women-list@mail.gnome.org>;
+	Fri, 17 Jun 2005 00:49:32 -0400 (EDT)
+Received: from mailhub1.otago.ac.nz (mailhub1.otago.ac.nz [139.80.64.218])
+	by menubar.gnome.org (Postfix) with ESMTP id 637893B0891
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 17 Jun 2005 00:49:31 -0400 (EDT)
+Received: from SOBMAIL1.commerce.otago.ac.nz (sbadex02.commerce.otago.ac.nz
+	[139.80.81.53])
+	by mailhub1.otago.ac.nz (8.12.11/8.12.11) with ESMTP id j5H4nSkv023727
+	for <gnome-women-list@mail.gnome.org>; Fri, 17 Jun 2005 16:49:29 +1200
+Received: sobmail1.commerce.otago.ac.nz 139.80.81.89 from 202.150.113.144
+	202.150.113.144 via HTTP with MS-WebStorage 6.5.6944
+Received: from localhost by sobmail1.commerce.otago.ac.nz;
+	17 Jun 2005 04:52:45 +0000
+From: John Williams <jwilliams@business.otago.ac.nz>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+Date: Fri, 17 Jun 2005 16:48:42 +1200
+Message-Id: <1118983722.2936.1.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.2.2 (2.2.2-5) 
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Mailman-Approved-At: Fri, 17 Jun 2005 03:09:43 -0400
+Subject: [gnome-women] Interested in helping out GNOME with marketing ideas?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 17 Jun 2005 04:49:36 -0000
+
+Hello GNOME Women! I am not a woman. I am here to ask you to consider
+becoming involved with marketing GNOME. See #marketing, #gnome-journal
+and http://live.gnome.org/MarketingTeam. I think we really need a more
+gender-balanced view.
+
+cheers,
+
+John
+
+-- 
+ICQ: 261810463
+AIM: johnfrombluff
+AOL: johnfrombluff
+MSN: johnwilliamsFromBluff@hotmail.com
+Yahoo: JohnFromBluff
+Jabber: jwilliamsFromBluff@jabber.org
+
+
+From mairin@gmail.com  Tue Jun 21 23:46:40 2005
+Return-Path: <mairin@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DD7CE3B0CA4
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 23:46:39 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29612-10 for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 23:46:35 -0400 (EDT)
+Received: from zproxy.gmail.com (zproxy.gmail.com [64.233.162.203])
+	by menubar.gnome.org (Postfix) with ESMTP id 8EF543B0ECC
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 23:46:33 -0400 (EDT)
+Received: by zproxy.gmail.com with SMTP id 12so71169nzp
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 20:46:32 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:cc:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=BS0IfCA2yWg03PkqiWUN7Epu438ugr0qIuoW/ISqWFb/gPJt0JbALrIFSPNY5qR92ok8u60Sv4VQ2PP6SPxlzaHgHd0GomSmBuhX+vuBB2qoOBuDtN5cy3yE1d9EUUnliO0EWLXUDZjTk3y3uUSll2CvfQuZk8X3kxAdPj9IsdU=
+Received: by 10.36.227.31 with SMTP id z31mr262422nzg;
+	Tue, 21 Jun 2005 20:46:32 -0700 (PDT)
+Received: by 10.36.24.9 with HTTP; Tue, 21 Jun 2005 20:46:32 -0700 (PDT)
+Message-ID: <cce7a31305062120466b252f5a@mail.gmail.com>
+Date: Tue, 21 Jun 2005 23:46:32 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+To: Diana Fong <dfong@redhat.com>
+Subject: Re: [gnome-women] gnome women webpage
+In-Reply-To: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+References: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: gnome-women-list@mail.gnome.org, hmw26@cam.ac.uk
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 03:46:40 -0000
+
+Hi Diana & All,
+
+I think we all need to have a discussion about the specific goals we'd
+like to achieve and tailor the website towards supporting that.
+
+My thoughts were that the website, at the least, should serve as sort
+of a professional-looking "business card" that we could advertise to
+say university comp sci depts to try to recruit more women.
+
+Bios I agree are also important; we should make it really easy for
+people to contact us, making our irc names and email addys visible, as
+well as our time zones and areas of specialty. :).
+
+I think in the meantime though, while we are sorting out and defining
+our goals, we could work on a logo. I think the most popular idea is
+to emulate the debian-women venus logo, incorporating the gnome "G"
+foot rather than the debian swirl. There have been ideas involving
+"making up" the foot, e.g. nail polish, toe rings, lipstick, etc., and
+I think a lot of them could be cute, but I'm worried about such logos
+conveying the wrong idea about the project. We want to be taken
+seriously, bottom-line.
+
+~m
+
+On 6/13/05, Diana Fong <dfong@redhat.com> wrote:
+> Hello all,
+>=20
+> It's pretty exciting starting gnome women...and a webpage would
+> definitely help with communication and promotion.  I'd like to take on
+> the task of designing a site but before I begin, it would be great to
+> get suggestions concerning what to include and whatnot.
+>=20
+> If someone wants to come up with content, that would also be cool.
+>=20
+> One of my ideas is to include an area for bios.  I think that would be
+> pretty useful in getting to know each other and for newcomers in
+> figuring out who to contact. =3D)
+>=20
+> Diana
+>=20
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+From hmw26@cam.ac.uk  Wed Jun 22 00:15:41 2005
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CAA353B0E67
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 00:15:41 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30981-02 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 00:15:40 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id 074703B0ECB
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 00:15:40 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from [141.151.82.136] (port=36181 helo=localhost.localdomain)
+	by ppsw-9.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.159]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1DkweC-0003bm-T3 (Exim 4.51)
+	(return-path <hmw26@cam.ac.uk>); Wed, 22 Jun 2005 05:15:32 +0100
+Received: from hmw26 by localhost.localdomain with local (Exim 4.51)
+	id 1Dkwco-0001ju-Us; Wed, 22 Jun 2005 00:14:06 -0400
+Date: Wed, 22 Jun 2005 00:14:06 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: =?iso-8859-1?B?TeFpcu1u?= Duffy <mairin@gmail.com>
+Subject: Re: [gnome-women] gnome women webpage
+Message-ID: <20050622041406.GB6594@bayes>
+References: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+	<cce7a31305062120466b252f5a@mail.gmail.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <cce7a31305062120466b252f5a@mail.gmail.com>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: hmw26@hermes.cam.ac.uk
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: Diana Fong <dfong@redhat.com>, gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 04:15:42 -0000
+
+Hi M�ir�n, hi everyone!
+
+> I think we all need to have a discussion about the specific goals we'd
+> like to achieve and tailor the website towards supporting that.
+
+I agree. I think our high-level goal is pretty simple: "Encourage more
+women to get involved in GNOME development."
+
+There are a number of ways we can go about this. Personally, I'd like
+to see GNOME Women be an action-oriented group. Primarily
+support-based groups do (of course) serve a purpose, but I'm not
+convinced that this isthe best way to actually increase women's
+involvement in free software projects.
+
+I think it's worth considering some of the things that the Debian
+Women project has found to be successful, and adopting a similar
+strategy. Some possible things to aim for would be:
+
+* Role models. Greater visibility of active women.
+* Mentoring.
+* Tutorials held on IRC.
+* Bug-squashing parties.
+* Creating opportunities for collaborating with existing GNOME
+  developers.
+* Organising BOFs and giving talks at Linux conferences.
+* Actively encouraging and educating the GNOME community to increase
+  understanding of the issues facing women who wish to get more
+  involved in GNOME development.
+
+Obviously, this list of activities is likely to evolve (and hopefully
+grow!) as GNOME Women becomes larger, but I think these things are a
+good starting point for discussion, planning and action. 
+
+> My thoughts were that the website, at the least, should serve as sort
+> of a professional-looking "business card" that we could advertise to
+> say university comp sci depts to try to recruit more women.
+
+That sounds like a decent idea. I think the website should also serve
+as a starting point for women interested in getting more involved with
+GNOME. In other words, I think that tutorials, FAQs, ways people can
+get involved etc. are all good things to have on the site.
+
+> Bios I agree are also important; we should make it really easy for
+> people to contact us, making our irc names and email addys visible, as
+> well as our time zones and areas of specialty. :).
+
+Absolutely!
+
+> I think in the meantime though, while we are sorting out and
+> defining our goals, we could work on a logo. I think the most
+> popular idea is to emulate the debian-women venus logo,
+> incorporating the gnome "G" foot rather than the debian swirl.
+
+I think that's a good starting point. Do we have any graphic designers
+on the list? If so, this'd be a great time to step forwards. :-)
+
+> There have been ideas involving "making up" the foot, e.g. nail
+> polish, toe rings, lipstick, etc., and I think a lot of them could
+> be cute, but I'm worried about such logos conveying the wrong idea
+> about the project. We want to be taken seriously, bottom-line.
+
+I very much agree with this. Projects aimed at getting more women
+involved in technology development are rarely taken seriously by the
+existing development community, whatever it may be, if there is too
+much emphasis on "cutesy" and stereotypically feminine logos etc. I'd
+like to think we're about breaking stereotypes, not reinforcing them!
+
+Regards,
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From runabh@gmail.com  Wed Jun 22 04:50:43 2005
+Return-Path: <runabh@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 325193B069C
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 04:50:39 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15447-10 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 04:50:31 -0400 (EDT)
+Received: from rproxy.gmail.com (rproxy.gmail.com [64.233.170.198])
+	by menubar.gnome.org (Postfix) with ESMTP id C14623B0669
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 04:50:05 -0400 (EDT)
+Received: by rproxy.gmail.com with SMTP id b11so63335rne
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 01:50:05 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:subject:from:to:cc:in-reply-to:references:content-type:date:message-id:mime-version:x-mailer:content-transfer-encoding;
+	b=bm/hNfkJSuVaYxuJMkU1dDqXQUer+D+3kJ0tgujgoOTsvDKcBZeZV1aFTsVuGIWvDOZQ8ONdk/opunSGEn4vWnDVGfk+A5StMCssJcdY9khmb4ASUOeZ/1N+8/ftbfgB3TYU1ju7A43F9wany8GDr90cypuZa3iXHLSiuYMjXqA=
+Received: by 10.38.76.3 with SMTP id y3mr234249rna;
+	Wed, 22 Jun 2005 01:50:05 -0700 (PDT)
+Received: from runab.pnq.redhat.com ([202.41.228.162])
+	by mx.gmail.com with ESMTP id 74sm378171rnb.2005.06.22.01.50.03;
+	Wed, 22 Jun 2005 01:50:05 -0700 (PDT)
+Subject: Re: [gnome-women] gnome women webpage
+From: Runa Bhattacharjee <runabh@gmail.com>
+To: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+In-Reply-To: <20050622041406.GB6594@bayes>
+References: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+	<cce7a31305062120466b252f5a@mail.gmail.com>
+	<20050622041406.GB6594@bayes>
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 22 Jun 2005 14:20:00 +0530
+Message-Id: <1119430200.3791.11.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-14) 
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: Diana Fong <dfong@redhat.com>,
+	gnome-women <gnome-women-list@mail.gnome.org>
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 08:50:44 -0000
+
+বুধ, 2005-06-22 -র 00:14 -0400-এ, Hanna M. Wallach লিখেছিলেন:
+> Hi Máirín, hi everyone!
+> 
+Hi everyone,
+
+This is Runa from India. I am part of the bengali localisation team
+(www.bengalinux.org) and have so far contributed to Gnome, Fedora, Xfce
+and Mozilla l10n projects. I use either runa or runab on the irc. Came
+across this forum a few days back and its really encouraging to see
+women carving out a place for themselves and making their efforts
+visible, as more often than not in techincal domains we are pushed back
+as non-serious players inspite of noteworthy contributions.
+> 
+> > There have been ideas involving "making up" the foot, e.g. nail
+> > polish, toe rings, lipstick, etc., and I think a lot of them could
+> > be cute, but I'm worried about such logos conveying the wrong idea
+> > about the project. We want to be taken seriously, bottom-line.
+> 
+> I very much agree with this. Projects aimed at getting more women
+> involved in technology development are rarely taken seriously by the
+> existing development community, whatever it may be, if there is too
+> much emphasis on "cutesy" and stereotypically feminine logos etc. I'd
+> like to think we're about breaking stereotypes, not reinforcing them!
+> 
+
+Perhaps a logo that doesnt really scream "we are females" and portrays
+the fact that we are "professionals, know what we are doing and we r
+good at it too" might help. 
+
+just my 2 cents :)
+
+regards
+
+-- 
+Runa Bhattacharjee <runabh@gmail.com>
+
+
+From mary@home.puzzling.org  Wed Jun 22 19:05:32 2005
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 4B0D83B0703
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:05:32 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15143-08 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:05:31 -0400 (EDT)
+Received: from smtp.syd.swiftdsl.com.au (smtp.syd.swiftdsl.com.au
+	[218.214.224.138])
+	by menubar.gnome.org (Postfix) with SMTP id 1C01E3B088F
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:05:30 -0400 (EDT)
+Received: (qmail 4140 invoked from network); 22 Jun 2005 23:05:32 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp.syd.swiftdsl.com.au with SMTP; 22 Jun 2005 23:05:32 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id D9136788083
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 23 Jun 2005 09:05:29 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 30423-04 for <gnome-women-list@mail.gnome.org>;
+	Thu, 23 Jun 2005 09:05:29 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id C6318788082; Thu, 23 Jun 2005 09:05:29 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Thu, 23 Jun 2005 09:05:29 +1000
+Resent-Message-ID: <20050622230529.GA30504@home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Thu, 23 Jun 2005 09:04:08 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20050622230408.GA30472@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: [gnome-women] IRC channel invite only
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 23:05:32 -0000
+
+Hi,
+
+Quick introduction:
+
+I'm a woman, and I'm genuinely interested in being part of GNOME women,
+probably as a development mentee (I'm a programmer, but not familiar
+with GNOME libraries, the HIG etc). My FOSS involvement to date has
+been doing some documentation development for the Twisted community. In
+addition, I've been heavily involved in my local LUG at times and have a
+fairly high involvement in the LinuxChix community.
+
+So, moving on... can I join the IRC channel on GIMPnet? This morning I
+got 
+--- Cannot join #gnome-women (Channel is invite only).
+Fele free to contact me off-list with details. (And assume I can, is
+there some way I can avoid having to ask to be reinvited every 24 hours?
+I log off IRC at night.)
+
+-Mary
+
+From erinn@double-helix.org  Wed Jun 22 19:16:57 2005
+Return-Path: <erinn@double-helix.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 158A93B0703
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:57 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16407-09 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:54 -0400 (EDT)
+Received: from imf18aec.mail.bellsouth.net (imf18aec.mail.bellsouth.net
+	[205.152.59.66])
+	by menubar.gnome.org (Postfix) with ESMTP id 2D2123B075B
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:54 -0400 (EDT)
+Received: from ibm61aec.bellsouth.net ([68.154.199.164])
+	by imf18aec.mail.bellsouth.net with ESMTP id
+	<20050622231649.LDJN2372.imf18aec.mail.bellsouth.net@ibm61aec.bellsouth.net>
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:49 -0400
+Received: from double-helix.org ([68.154.199.164])
+	by ibm61aec.bellsouth.net with ESMTP
+	id <20050622231649.KMED4468.ibm61aec.bellsouth.net@double-helix.org>
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:49 -0400
+Received: by anemone (Postfix, from userid 1001)
+	id E0DC42FBD0; Wed, 22 Jun 2005 19:16:41 -0400 (EDT)
+Date: Wed, 22 Jun 2005 19:16:41 -0400
+From: Erinn Clark <erinn@double-helix.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC channel invite only
+Message-ID: <20050622231641.GA8864@double-helix.org>
+References: <20050622230408.GA30472@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20050622230408.GA30472@home.puzzling.org>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 23:16:57 -0000
+
+* Mary Gardiner <mary-gnome@puzzling.org> [2005:06:23 09:04 +1000]: 
+> So, moving on... can I join the IRC channel on GIMPnet? This morning I
+> got 
+> --- Cannot join #gnome-women (Channel is invite only).
+
+Hi Mary,
+
+There was some confusion earlier and it got set +i by accident. I've
+fixed it so you (and anyone else who's run into this problem) can join
+now.
+
+-- 
+off the chain like a rebellious guanine nucleotide
+
+From hmw26@cam.ac.uk  Wed Jun 22 19:19:30 2005
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A84B93B10B5
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:19:30 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16594-06 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:19:28 -0400 (EDT)
+Received: from ppsw-1.csi.cam.ac.uk (ppsw-1.csi.cam.ac.uk [131.111.8.131])
+	by menubar.gnome.org (Postfix) with ESMTP id 4D49A3B0703
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:19:28 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from [141.151.82.136] (port=37731 helo=localhost.localdomain)
+	by ppsw-1.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.151]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1DlEVA-0001Y9-5c (Exim 4.51) for gnome-women-list@mail.gnome.org
+	(return-path <hmw26@cam.ac.uk>); Thu, 23 Jun 2005 00:19:24 +0100
+Received: from hmw26 by localhost.localdomain with local (Exim 4.51)
+	id 1DlETi-0005e4-Am
+	for gnome-women-list@mail.gnome.org; Wed, 22 Jun 2005 19:17:54 -0400
+Date: Wed, 22 Jun 2005 19:17:54 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC channel invite only
+Message-ID: <20050622231754.GC15317@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org
+References: <20050622230408.GA30472@home.puzzling.org>
+	<20050622231641.GA8864@double-helix.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20050622231641.GA8864@double-helix.org>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: hmw26@hermes.cam.ac.uk
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 23:19:30 -0000
+
+Hi Mary, Erinn and everyone,
+
+> There was some confusion earlier and it got set +i by accident. I've
+> fixed it so you (and anyone else who's run into this problem) can
+> join now.
+
+Indeed. I'm sorry about that. (Not quite sure how it happened, but
+we'll try to ensure it doesn't happen again!)
+
+Regards, 
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From hmw26@cam.ac.uk  Mon Jun 27 12:28:03 2005
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7267D3B0530
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Jun 2005 12:28:03 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 20381-10 for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Jun 2005 12:28:02 -0400 (EDT)
+Received: from ppsw-1.csi.cam.ac.uk (ppsw-1.csi.cam.ac.uk [131.111.8.131])
+	by menubar.gnome.org (Postfix) with ESMTP id E0A2E3B0690
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Jun 2005 12:28:01 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from cpc2-cmbg6-6-0-cust61.cmbg.cable.ntl.com ([81.104.214.61]:35400
+	helo=localhost.localdomain)
+	by ppsw-1.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.151]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1DmwSb-0002E2-6C (Exim 4.51) for gnome-women-list@mail.gnome.org
+	(return-path <hmw26@cam.ac.uk>); Mon, 27 Jun 2005 17:27:49 +0100
+Received: from hmw26 by localhost.localdomain with local (Exim 4.51)
+	id 1DmwSW-0003pj-6B
+	for gnome-women-list@mail.gnome.org; Mon, 27 Jun 2005 17:27:44 +0100
+Date: Mon, 27 Jun 2005 17:27:44 +0100
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20050627162744.GF14485@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: hmw26@hermes.cam.ac.uk
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: [gnome-women] Getting Involved in GNOME
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 27 Jun 2005 16:28:03 -0000
+
+Hi people, 
+
+I recently found out about Getting Involved
+(http://live.gnome.org/MarketingTeam_2fGettingInvolved), the GNOME
+Marketing Team's new project, which aims to provide (better)
+information on getting involved in GNOME. Some of the things they plan
+to do include:
+
+* Look for the more inclusive concept of "contributors" rather than
+  the more restricted term "developers".
+
+* Make sure programmers understand why GNOME is a great platform and
+  community to develop software, where the help is needed and how to
+  start contributing.
+
+* Make sure that all willing contributors but non-programmers
+  understand as well that there is a place for them and a plenty of
+  exciting things to do and share.
+
+Sounds like this is something highly relevant to GNOME Women, and
+worth keeping an eye on, if not contributing to.
+
+Regards, 
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From clytie@riverland.net.au  Tue Jun 28 03:17:04 2005
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E9B533B08D1
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 03:17:03 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 12544-07 for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 03:17:02 -0400 (EDT)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 831943B0C49
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 03:17:00 -0400 (EDT)
+Received: from [10.1.1.91] (ppp223-237.lns3.adl2.internode.on.net
+	[203.122.223.237])
+	by smtp1.adl2.internode.on.net (8.12.9/8.12.9) with ESMTP id
+	j5S7GwTp047236 for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 16:46:59 +0930 (CST)
+Mime-Version: 1.0 (Apple Message framework v730)
+In-Reply-To: <20050627162744.GF14485@bayes>
+References: <20050627162744.GF14485@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <67995E47-32D2-47A6-B941-DB2386466C42@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] Getting Involved in GNOME
+Date: Tue, 28 Jun 2005 16:46:54 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.730)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 28 Jun 2005 07:17:04 -0000
+
+
+On 28/06/2005, at 1:57 AM, Hanna M. Wallach wrote:
+>
+> I recently found out about Getting Involved
+> (http://live.gnome.org/MarketingTeam_2fGettingInvolved), the GNOME
+> Marketing Team's new project, which aims to provide (better)
+> information on getting involved in GNOME. Some of the things they plan
+> to do include:
+>
+> * Look for the more inclusive concept of "contributors" rather than
+>   the more restricted term "developers".
+>
+> * Make sure programmers understand why GNOME is a great platform and
+>   community to develop software, where the help is needed and how to
+>   start contributing.
+>
+> * Make sure that all willing contributors but non-programmers
+>   understand as well that there is a place for them and a plenty of
+>   exciting things to do and share.
+>
+> Sounds like this is something highly relevant to GNOME Women, and
+> worth keeping an eye on, if not contributing to.
+
+As a very new Gnome-Woman who has just crawled in the door <peels off =20=
+
+shrinkwrap, itchy..> I think this sounds like an exciting and =20
+possibly overdue move.
+
+We'll certainly get much more participation, and a broader range of =20
+it, if people know that anything positive and useful is welcomed. We =20
+need to get out of people's heads (including our own) the thoughts =20
+"I'm only a user", "I only do patches sometimes", "I'm only a =20
+translator" "I could only run a discussion group, I don't really know =20=
+
+anything" which really hold back people from contributing their =20
+definitely valuable skills and experience.
+
+I hope it works well. :)  I'll start inside my head: it needs =20
+updating badly.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+
+Clytie Siddall--Renmark, in the Riverland of South Australia
+
+=E1=BB=9E th=C3=A0nh ph=E1=BB=91 Renmark, t=E1=BA=A1i mi=E1=BB=81n s=C3=B4=
+ng c=E1=BB=A7a Nam =C3=9Ac
+
+
+From duffy@redhat.com  Thu Jun 30 19:31:41 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 1E6873B0874
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 19:31:41 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 05302-01 for <gnome-women-list@gnome.org>;
+	Thu, 30 Jun 2005 19:31:38 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 186B13B072B
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 19:31:37 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j5UKw6xe003291
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 16:58:06 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j5UKw6u24755
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 16:58:06 -0400
+Received: from dhcp83-82.boston.redhat.com
+	(IDENT:U2FsdGVkX1+FyBEBQqmKLnUK6wcENwRQpnusBkq5ScA@dhcp83-82.boston.redhat.com
+	[172.16.83.82])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j5UKw5eP006482
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 16:58:05 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain
+Organization: Red Hat, Inc.
+Date: Thu, 30 Jun 2005 17:00:09 -0400
+Message-Id: <1120165210.4184.43.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-16) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: 
+Subject: [gnome-women] Gnome Women Logo Contest
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 30 Jun 2005 23:31:41 -0000
+
+Hey Everybody,
+
+We need a logo for the Gnome Women project! So, we're running a contest
+for logo ideas. Even if you are not artistically inclined, submit your
+idea and we'll discuss it on the list! If you are, that's cool too; you
+can post the URL to your logo on list or just attach it to your email.
+We'll decide on our favorites on-list and Diana and/or I will finalize
+any work that needs to be done graphically.
+
+We'll give two weeks for submissions, so the due date for submissions
+is: Friday, Jul 15th. You can reply to this message with your submission
+(s).
+
+Some things to keep in mind when creating your logo:
+
+o The current 'mission statement' of the Gnome Women project is: "GNOME
+Women is a project to (1) provide encouragement for women to contribute
+to GNOME (2) make visible the GNOME contributors who are women."
+
+o Let's try not to reinforce too many gender stereotypes. It's hard, I
+know.
+
+o You can get an svg versios of the GNOME logo at:
+http://linuxgrrl.com/gnomewomen/gnome2-fancy-pat.svg
+(Normally there are multiple versions available at
+http://www.gnome.org/~jdub/random/logo/ but the gnome servers were just
+relocated physically and it looks like some stuff is still down.)
+
+o Inkscape (http://www.inkscape.org/) and sodipodi
+(http://www.sodipodi.com/) are really nice vector graphics programs
+suitable for creating vector logos in GNOME. ;-)
+
+~m
+
+
+
+
+From mary@home.puzzling.org  Thu Jun 30 19:42:26 2005
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C260D3B1060
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 30 Jun 2005 19:42:26 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 06172-08 for <gnome-women-list@mail.gnome.org>;
+	Thu, 30 Jun 2005 19:42:21 -0400 (EDT)
+Received: from smtp.syd.swiftdsl.com.au (smtp.syd.swiftdsl.com.au
+	[218.214.224.138])
+	by menubar.gnome.org (Postfix) with SMTP id 539C63B072B
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 30 Jun 2005 19:42:20 -0400 (EDT)
+Received: (qmail 9515 invoked from network); 30 Jun 2005 23:42:21 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp.syd.swiftdsl.com.au with SMTP; 30 Jun 2005 23:42:21 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 375C1788088
+	for <gnome-women-list@mail.gnome.org>;
+	Fri,  1 Jul 2005 09:42:17 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 10593-03 for <gnome-women-list@mail.gnome.org>;
+	Fri, 1 Jul 2005 09:42:17 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id 19657788087; Fri,  1 Jul 2005 09:42:17 +1000 (EST)
+Date: Fri, 1 Jul 2005 09:42:17 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Gnome Women Logo Contest
+Message-ID: <20050630234217.GE6871@home.puzzling.org>
+References: <1120165210.4184.43.camel@localhost.localdomain>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <1120165210.4184.43.camel@localhost.localdomain>
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 30 Jun 2005 23:42:26 -0000
+
+On Thu, Jun 30, 2005, M?ir?n Duffy wrote:
+> We need a logo for the Gnome Women project! So, we're running a contest
+> for logo ideas. Even if you are not artistically inclined, submit your
+> idea and we'll discuss it on the list! If you are, that's cool too; you
+> can post the URL to your logo on list or just attach it to your email.
+> We'll decide on our favorites on-list and Diana and/or I will finalize
+> any work that needs to be done graphically.
+
+Hmmm, one brainstorm style idea (as in, I haven't thought about the
+graphics difficulty):  a stylised woman martial artist kicking straight
+at the viewer. Her foot is the GNOME foot.
+
+-Mary
+
+From mairin@gmail.com  Mon Jun 13 10:34:50 2005
+Return-Path: <mairin@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DDD603B077F
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:34:49 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11037-05 for <gnome-women-list@gnome.org>;
+	Mon, 13 Jun 2005 10:34:47 -0400 (EDT)
+Received: from zproxy.gmail.com (zproxy.gmail.com [64.233.162.199])
+	by menubar.gnome.org (Postfix) with ESMTP id 5469E3B06CB
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:34:46 -0400 (EDT)
+Received: by zproxy.gmail.com with SMTP id 12so428019nzp
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 07:34:45 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:content-disposition;
+	b=Dj4N94jbtM7NerdLUAdoBuq7hR6pzt14foRPpRh7G5S5fHmNFhJDBg0/SJb3Jh03XhrxDCF91fVMuoR1kyFYqkRQlhnQaRUwR/KXGH7PXcq6r1wDPTgTy1zJxk6/cfkcHn9dLSAWqO/24+Lb5N9oRBvGuD4lQYckU+8RlWnDTG4=
+Received: by 10.36.57.20 with SMTP id f20mr2886880nza;
+	Mon, 13 Jun 2005 07:28:04 -0700 (PDT)
+Received: by 10.36.24.9 with HTTP; Mon, 13 Jun 2005 07:28:04 -0700 (PDT)
+Message-ID: <cce7a31305061307283997440c@mail.gmail.com>
+Date: Mon, 13 Jun 2005 10:28:04 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+To: gnome-women-list@gnome.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: test
+X-BeenThere: gnome-women-list@gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+List-Id: gnome-women-list.gnome.org
+List-Unsubscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@gnome.org>
+List-Help: <mailto:gnome-women-list-request@gnome.org?subject=help>
+List-Subscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Jun 2005 14:34:50 -0000
+
+test
+
+From emily@atropine.ath.cx  Mon Jun 13 10:47:39 2005
+Return-Path: <emily@atropine.ath.cx>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BFA943B0929
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:47:39 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 11962-04 for <gnome-women-list@gnome.org>;
+	Mon, 13 Jun 2005 10:47:37 -0400 (EDT)
+Received: from atropine.ath.cx (adsl-220-33-63.sav.bellsouth.net
+	[68.220.33.63])
+	by menubar.gnome.org (Postfix) with ESMTP id 137F63B0ECA
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:47:37 -0400 (EDT)
+Received: from [192.168.1.84] ([192.168.1.1]) (authenticated bits=0)
+	by atropine.ath.cx (8.13.1/8.13.1) with ESMTP id j5DElmE2012420
+	for <gnome-women-list@gnome.org>; Mon, 13 Jun 2005 10:47:48 -0400
+Message-ID: <42AD9C89.1070301@atropine.ath.cx>
+Date: Mon, 13 Jun 2005 10:47:37 -0400
+From: Emily Brantley <emily@atropine.ath.cx>
+User-Agent: Mozilla Thunderbird 1.0.2-1.3.3 (X11/20050513)
+X-Accept-Language: en-us, en
+MIME-Version: 1.0
+To: gnome-women-list@gnome.org
+X-Enigmail-Version: 0.91.0.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: test
+X-BeenThere: gnome-women-list@gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: gnome-women-list@gnome.org
+List-Id: gnome-women-list.gnome.org
+List-Unsubscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@gnome.org>
+List-Help: <mailto:gnome-women-list-request@gnome.org?subject=help>
+List-Subscribe: <http://gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Jun 2005 14:47:40 -0000
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+did i join ?  hi you guys !
+
+Em
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.6 (GNU/Linux)
+
+iD8DBQFCrZyHl/fI0i0h13cRAsgxAJ9KVfhnsxmVY9/jjdntY8GlzPRgsACfbswz
+tcnZjn9HimKOWFJDnHfs464=
+=cy2m
+-----END PGP SIGNATURE-----
+
+From dfong@redhat.com  Mon Jun 13 14:57:26 2005
+Return-Path: <dfong@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 6B7263B0665
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 13 Jun 2005 14:57:26 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30467-01 for <gnome-women-list@mail.gnome.org>;
+	Mon, 13 Jun 2005 14:57:24 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id AA8DE3B006D
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 13 Jun 2005 14:57:24 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j5DIvOfi001734
+	for <gnome-women-list@mail.gnome.org>; Mon, 13 Jun 2005 14:57:24 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j5DIvOu13202
+	for <gnome-women-list@mail.gnome.org>; Mon, 13 Jun 2005 14:57:24 -0400
+Received: from dhcp83-80.boston.redhat.com (dhcp83-80.boston.redhat.com
+	[172.16.83.80])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j5DIvOCv014355
+	for <gnome-women-list@mail.gnome.org>; Mon, 13 Jun 2005 14:57:24 -0400
+From: Diana Fong <dfong@redhat.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Date: Mon, 13 Jun 2005 14:57:23 -0400
+Message-Id: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-3) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Mailman-Approved-At: Mon, 13 Jun 2005 14:59:05 -0400
+Subject: [gnome-women] gnome women webpage
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 13 Jun 2005 18:57:26 -0000
+
+Hello all,
+
+It's pretty exciting starting gnome women...and a webpage would
+definitely help with communication and promotion.  I'd like to take on
+the task of designing a site but before I begin, it would be great to
+get suggestions concerning what to include and whatnot.
+
+If someone wants to come up with content, that would also be cool.
+
+One of my ideas is to include an area for bios.  I think that would be
+pretty useful in getting to know each other and for newcomers in
+figuring out who to contact. =)
+
+Diana
+
+
+From gnome-women-list@kennethpaul.com  Wed Jun 15 17:21:19 2005
+Return-Path: <gnome-women-list@kennethpaul.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F1EB03B0674
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:18 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30737-03 for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:17 -0400 (EDT)
+Received: from ms-smtp-03-eri0.southeast.rr.com
+	(ms-smtp-03-lbl.southeast.rr.com [24.25.9.102])
+	by menubar.gnome.org (Postfix) with ESMTP id 098AC3B0737
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:17 -0400 (EDT)
+Received: from ken (cpe-065-188-087-133.carolina.res.rr.com [65.188.87.133])
+	by ms-smtp-03-eri0.southeast.rr.com (8.12.10/8.12.7) with ESMTP id
+	j5FLLCY4015044 for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Jun 2005 17:21:13 -0400 (EDT)
+Message-Id: <200506152121.j5FLLCY4015044@ms-smtp-03-eri0.southeast.rr.com>
+From: "Ken Stanley" <gnome-women-list@kennethpaul.com>
+To: <gnome-women-list@mail.gnome.org>
+Date: Wed, 15 Jun 2005 17:21:09 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Mailer: Microsoft Office Outlook, Build 11.0.6353
+X-MIMEOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+Thread-Index: AcVx8CXEpP3B63bjQZe/IocXXZeeRQ==
+X-Virus-Scanned: Symantec AntiVirus Scan Engine
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: [gnome-women] Mirrors to the HOWTO and assorted Kudos!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 15 Jun 2005 21:21:19 -0000
+
+Hi,
+
+I just read about the Gnome Women movement on Footnotes and although I've
+posted comments there, I thought it would be prudent to send this email and
+let everybody know that I am offering two of my servers to host the HOWTO
+written by many of the women in the computer industry. 
+
+Original:
+http://infohost.nmt.edu/~val/howto.html
+
+Mirrors:
+http://www.kennethpaul.com/Encourage-Women-in-Linux-HOWTO.html
+http://www.makeitfast.com/Encourage-Women-in-Linux-HOWTO.html
+
+Also, if there is any other assistance I may be able to provide, I'd like to
+extend my offer of help. While I know this is mainly for women helping other
+women get into the industry, it may be helpful for everyone to have
+like-minded men available to show newcomers that there are guys out there
+that are more than willing to help promote and encourage them where needed.
+
+Congratulations on taking the first steps, and I look forward to seeing the
+success of Gnome Women.
+
+- Ken
+
+
+From JWilliams@business.otago.ac.nz  Fri Jun 17 00:49:36 2005
+Return-Path: <JWilliams@business.otago.ac.nz>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id BC0383B07F2
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 17 Jun 2005 00:49:35 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29355-06 for <gnome-women-list@mail.gnome.org>;
+	Fri, 17 Jun 2005 00:49:32 -0400 (EDT)
+Received: from mailhub1.otago.ac.nz (mailhub1.otago.ac.nz [139.80.64.218])
+	by menubar.gnome.org (Postfix) with ESMTP id 637893B0891
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 17 Jun 2005 00:49:31 -0400 (EDT)
+Received: from SOBMAIL1.commerce.otago.ac.nz (sbadex02.commerce.otago.ac.nz
+	[139.80.81.53])
+	by mailhub1.otago.ac.nz (8.12.11/8.12.11) with ESMTP id j5H4nSkv023727
+	for <gnome-women-list@mail.gnome.org>; Fri, 17 Jun 2005 16:49:29 +1200
+Received: sobmail1.commerce.otago.ac.nz 139.80.81.89 from 202.150.113.144
+	202.150.113.144 via HTTP with MS-WebStorage 6.5.6944
+Received: from localhost by sobmail1.commerce.otago.ac.nz;
+	17 Jun 2005 04:52:45 +0000
+From: John Williams <jwilliams@business.otago.ac.nz>
+To: gnome-women-list@mail.gnome.org
+Content-Type: text/plain
+Content-Transfer-Encoding: 7bit
+Date: Fri, 17 Jun 2005 16:48:42 +1200
+Message-Id: <1118983722.2936.1.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.2.2 (2.2.2-5) 
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Mailman-Approved-At: Fri, 17 Jun 2005 03:09:43 -0400
+Subject: [gnome-women] Interested in helping out GNOME with marketing ideas?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 17 Jun 2005 04:49:36 -0000
+
+Hello GNOME Women! I am not a woman. I am here to ask you to consider
+becoming involved with marketing GNOME. See #marketing, #gnome-journal
+and http://live.gnome.org/MarketingTeam. I think we really need a more
+gender-balanced view.
+
+cheers,
+
+John
+
+-- 
+ICQ: 261810463
+AIM: johnfrombluff
+AOL: johnfrombluff
+MSN: johnwilliamsFromBluff@hotmail.com
+Yahoo: JohnFromBluff
+Jabber: jwilliamsFromBluff@jabber.org
+
+
+From mairin@gmail.com  Tue Jun 21 23:46:40 2005
+Return-Path: <mairin@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DD7CE3B0CA4
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 23:46:39 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 29612-10 for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 23:46:35 -0400 (EDT)
+Received: from zproxy.gmail.com (zproxy.gmail.com [64.233.162.203])
+	by menubar.gnome.org (Postfix) with ESMTP id 8EF543B0ECC
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 23:46:33 -0400 (EDT)
+Received: by zproxy.gmail.com with SMTP id 12so71169nzp
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 21 Jun 2005 20:46:32 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:message-id:date:from:reply-to:to:subject:cc:in-reply-to:mime-version:content-type:content-transfer-encoding:content-disposition:references;
+	b=BS0IfCA2yWg03PkqiWUN7Epu438ugr0qIuoW/ISqWFb/gPJt0JbALrIFSPNY5qR92ok8u60Sv4VQ2PP6SPxlzaHgHd0GomSmBuhX+vuBB2qoOBuDtN5cy3yE1d9EUUnliO0EWLXUDZjTk3y3uUSll2CvfQuZk8X3kxAdPj9IsdU=
+Received: by 10.36.227.31 with SMTP id z31mr262422nzg;
+	Tue, 21 Jun 2005 20:46:32 -0700 (PDT)
+Received: by 10.36.24.9 with HTTP; Tue, 21 Jun 2005 20:46:32 -0700 (PDT)
+Message-ID: <cce7a31305062120466b252f5a@mail.gmail.com>
+Date: Tue, 21 Jun 2005 23:46:32 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+To: Diana Fong <dfong@redhat.com>
+Subject: Re: [gnome-women] gnome women webpage
+In-Reply-To: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Content-Disposition: inline
+References: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: gnome-women-list@mail.gnome.org, hmw26@cam.ac.uk
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+Reply-To: =?ISO-8859-1?Q?M=E1ir=EDn_Duffy?= <mairin@gmail.com>
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 03:46:40 -0000
+
+Hi Diana & All,
+
+I think we all need to have a discussion about the specific goals we'd
+like to achieve and tailor the website towards supporting that.
+
+My thoughts were that the website, at the least, should serve as sort
+of a professional-looking "business card" that we could advertise to
+say university comp sci depts to try to recruit more women.
+
+Bios I agree are also important; we should make it really easy for
+people to contact us, making our irc names and email addys visible, as
+well as our time zones and areas of specialty. :).
+
+I think in the meantime though, while we are sorting out and defining
+our goals, we could work on a logo. I think the most popular idea is
+to emulate the debian-women venus logo, incorporating the gnome "G"
+foot rather than the debian swirl. There have been ideas involving
+"making up" the foot, e.g. nail polish, toe rings, lipstick, etc., and
+I think a lot of them could be cute, but I'm worried about such logos
+conveying the wrong idea about the project. We want to be taken
+seriously, bottom-line.
+
+~m
+
+On 6/13/05, Diana Fong <dfong@redhat.com> wrote:
+> Hello all,
+>=20
+> It's pretty exciting starting gnome women...and a webpage would
+> definitely help with communication and promotion.  I'd like to take on
+> the task of designing a site but before I begin, it would be great to
+> get suggestions concerning what to include and whatnot.
+>=20
+> If someone wants to come up with content, that would also be cool.
+>=20
+> One of my ideas is to include an area for bios.  I think that would be
+> pretty useful in getting to know each other and for newcomers in
+> figuring out who to contact. =3D)
+>=20
+> Diana
+>=20
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+From hmw26@cam.ac.uk  Wed Jun 22 00:15:41 2005
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id CAA353B0E67
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 00:15:41 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 30981-02 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 00:15:40 -0400 (EDT)
+Received: from ppsw-9.csi.cam.ac.uk (ppsw-9.csi.cam.ac.uk [131.111.8.139])
+	by menubar.gnome.org (Postfix) with ESMTP id 074703B0ECB
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 00:15:40 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from [141.151.82.136] (port=36181 helo=localhost.localdomain)
+	by ppsw-9.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.159]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1DkweC-0003bm-T3 (Exim 4.51)
+	(return-path <hmw26@cam.ac.uk>); Wed, 22 Jun 2005 05:15:32 +0100
+Received: from hmw26 by localhost.localdomain with local (Exim 4.51)
+	id 1Dkwco-0001ju-Us; Wed, 22 Jun 2005 00:14:06 -0400
+Date: Wed, 22 Jun 2005 00:14:06 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: =?iso-8859-1?B?TeFpcu1u?= Duffy <mairin@gmail.com>
+Subject: Re: [gnome-women] gnome women webpage
+Message-ID: <20050622041406.GB6594@bayes>
+References: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+	<cce7a31305062120466b252f5a@mail.gmail.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+In-Reply-To: <cce7a31305062120466b252f5a@mail.gmail.com>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: hmw26@hermes.cam.ac.uk
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: Diana Fong <dfong@redhat.com>, gnome-women-list@mail.gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 04:15:42 -0000
+
+Hi M�ir�n, hi everyone!
+
+> I think we all need to have a discussion about the specific goals we'd
+> like to achieve and tailor the website towards supporting that.
+
+I agree. I think our high-level goal is pretty simple: "Encourage more
+women to get involved in GNOME development."
+
+There are a number of ways we can go about this. Personally, I'd like
+to see GNOME Women be an action-oriented group. Primarily
+support-based groups do (of course) serve a purpose, but I'm not
+convinced that this isthe best way to actually increase women's
+involvement in free software projects.
+
+I think it's worth considering some of the things that the Debian
+Women project has found to be successful, and adopting a similar
+strategy. Some possible things to aim for would be:
+
+* Role models. Greater visibility of active women.
+* Mentoring.
+* Tutorials held on IRC.
+* Bug-squashing parties.
+* Creating opportunities for collaborating with existing GNOME
+  developers.
+* Organising BOFs and giving talks at Linux conferences.
+* Actively encouraging and educating the GNOME community to increase
+  understanding of the issues facing women who wish to get more
+  involved in GNOME development.
+
+Obviously, this list of activities is likely to evolve (and hopefully
+grow!) as GNOME Women becomes larger, but I think these things are a
+good starting point for discussion, planning and action. 
+
+> My thoughts were that the website, at the least, should serve as sort
+> of a professional-looking "business card" that we could advertise to
+> say university comp sci depts to try to recruit more women.
+
+That sounds like a decent idea. I think the website should also serve
+as a starting point for women interested in getting more involved with
+GNOME. In other words, I think that tutorials, FAQs, ways people can
+get involved etc. are all good things to have on the site.
+
+> Bios I agree are also important; we should make it really easy for
+> people to contact us, making our irc names and email addys visible, as
+> well as our time zones and areas of specialty. :).
+
+Absolutely!
+
+> I think in the meantime though, while we are sorting out and
+> defining our goals, we could work on a logo. I think the most
+> popular idea is to emulate the debian-women venus logo,
+> incorporating the gnome "G" foot rather than the debian swirl.
+
+I think that's a good starting point. Do we have any graphic designers
+on the list? If so, this'd be a great time to step forwards. :-)
+
+> There have been ideas involving "making up" the foot, e.g. nail
+> polish, toe rings, lipstick, etc., and I think a lot of them could
+> be cute, but I'm worried about such logos conveying the wrong idea
+> about the project. We want to be taken seriously, bottom-line.
+
+I very much agree with this. Projects aimed at getting more women
+involved in technology development are rarely taken seriously by the
+existing development community, whatever it may be, if there is too
+much emphasis on "cutesy" and stereotypically feminine logos etc. I'd
+like to think we're about breaking stereotypes, not reinforcing them!
+
+Regards,
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From runabh@gmail.com  Wed Jun 22 04:50:43 2005
+Return-Path: <runabh@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 325193B069C
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 04:50:39 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15447-10 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 04:50:31 -0400 (EDT)
+Received: from rproxy.gmail.com (rproxy.gmail.com [64.233.170.198])
+	by menubar.gnome.org (Postfix) with ESMTP id C14623B0669
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 04:50:05 -0400 (EDT)
+Received: by rproxy.gmail.com with SMTP id b11so63335rne
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 01:50:05 -0700 (PDT)
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws; s=beta; d=gmail.com;
+	h=received:subject:from:to:cc:in-reply-to:references:content-type:date:message-id:mime-version:x-mailer:content-transfer-encoding;
+	b=bm/hNfkJSuVaYxuJMkU1dDqXQUer+D+3kJ0tgujgoOTsvDKcBZeZV1aFTsVuGIWvDOZQ8ONdk/opunSGEn4vWnDVGfk+A5StMCssJcdY9khmb4ASUOeZ/1N+8/ftbfgB3TYU1ju7A43F9wany8GDr90cypuZa3iXHLSiuYMjXqA=
+Received: by 10.38.76.3 with SMTP id y3mr234249rna;
+	Wed, 22 Jun 2005 01:50:05 -0700 (PDT)
+Received: from runab.pnq.redhat.com ([202.41.228.162])
+	by mx.gmail.com with ESMTP id 74sm378171rnb.2005.06.22.01.50.03;
+	Wed, 22 Jun 2005 01:50:05 -0700 (PDT)
+Subject: Re: [gnome-women] gnome women webpage
+From: Runa Bhattacharjee <runabh@gmail.com>
+To: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+In-Reply-To: <20050622041406.GB6594@bayes>
+References: <1118689043.24345.21.camel@dhcp83-80.boston.redhat.com>
+	<cce7a31305062120466b252f5a@mail.gmail.com>
+	<20050622041406.GB6594@bayes>
+Content-Type: text/plain; charset=utf-8
+Date: Wed, 22 Jun 2005 14:20:00 +0530
+Message-Id: <1119430200.3791.11.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-14) 
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: Diana Fong <dfong@redhat.com>,
+	gnome-women <gnome-women-list@mail.gnome.org>
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 08:50:44 -0000
+
+বুধ, 2005-06-22 -র 00:14 -0400-এ, Hanna M. Wallach লিখেছিলেন:
+> Hi Máirín, hi everyone!
+> 
+Hi everyone,
+
+This is Runa from India. I am part of the bengali localisation team
+(www.bengalinux.org) and have so far contributed to Gnome, Fedora, Xfce
+and Mozilla l10n projects. I use either runa or runab on the irc. Came
+across this forum a few days back and its really encouraging to see
+women carving out a place for themselves and making their efforts
+visible, as more often than not in techincal domains we are pushed back
+as non-serious players inspite of noteworthy contributions.
+> 
+> > There have been ideas involving "making up" the foot, e.g. nail
+> > polish, toe rings, lipstick, etc., and I think a lot of them could
+> > be cute, but I'm worried about such logos conveying the wrong idea
+> > about the project. We want to be taken seriously, bottom-line.
+> 
+> I very much agree with this. Projects aimed at getting more women
+> involved in technology development are rarely taken seriously by the
+> existing development community, whatever it may be, if there is too
+> much emphasis on "cutesy" and stereotypically feminine logos etc. I'd
+> like to think we're about breaking stereotypes, not reinforcing them!
+> 
+
+Perhaps a logo that doesnt really scream "we are females" and portrays
+the fact that we are "professionals, know what we are doing and we r
+good at it too" might help. 
+
+just my 2 cents :)
+
+regards
+
+-- 
+Runa Bhattacharjee <runabh@gmail.com>
+
+
+From mary@home.puzzling.org  Wed Jun 22 19:05:32 2005
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 4B0D83B0703
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:05:32 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 15143-08 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:05:31 -0400 (EDT)
+Received: from smtp.syd.swiftdsl.com.au (smtp.syd.swiftdsl.com.au
+	[218.214.224.138])
+	by menubar.gnome.org (Postfix) with SMTP id 1C01E3B088F
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:05:30 -0400 (EDT)
+Received: (qmail 4140 invoked from network); 22 Jun 2005 23:05:32 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp.syd.swiftdsl.com.au with SMTP; 22 Jun 2005 23:05:32 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id D9136788083
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 23 Jun 2005 09:05:29 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 30423-04 for <gnome-women-list@mail.gnome.org>;
+	Thu, 23 Jun 2005 09:05:29 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id C6318788082; Thu, 23 Jun 2005 09:05:29 +1000 (EST)
+Resent-From: mary@home.puzzling.org
+Resent-Date: Thu, 23 Jun 2005 09:05:29 +1000
+Resent-Message-ID: <20050622230529.GA30504@home.puzzling.org>
+Resent-To: gnome-women-list@mail.gnome.org
+Date: Thu, 23 Jun 2005 09:04:08 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20050622230408.GA30472@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: [gnome-women] IRC channel invite only
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 23:05:32 -0000
+
+Hi,
+
+Quick introduction:
+
+I'm a woman, and I'm genuinely interested in being part of GNOME women,
+probably as a development mentee (I'm a programmer, but not familiar
+with GNOME libraries, the HIG etc). My FOSS involvement to date has
+been doing some documentation development for the Twisted community. In
+addition, I've been heavily involved in my local LUG at times and have a
+fairly high involvement in the LinuxChix community.
+
+So, moving on... can I join the IRC channel on GIMPnet? This morning I
+got 
+--- Cannot join #gnome-women (Channel is invite only).
+Fele free to contact me off-list with details. (And assume I can, is
+there some way I can avoid having to ask to be reinvited every 24 hours?
+I log off IRC at night.)
+
+-Mary
+
+From erinn@double-helix.org  Wed Jun 22 19:16:57 2005
+Return-Path: <erinn@double-helix.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 158A93B0703
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:57 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16407-09 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:54 -0400 (EDT)
+Received: from imf18aec.mail.bellsouth.net (imf18aec.mail.bellsouth.net
+	[205.152.59.66])
+	by menubar.gnome.org (Postfix) with ESMTP id 2D2123B075B
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:54 -0400 (EDT)
+Received: from ibm61aec.bellsouth.net ([68.154.199.164])
+	by imf18aec.mail.bellsouth.net with ESMTP id
+	<20050622231649.LDJN2372.imf18aec.mail.bellsouth.net@ibm61aec.bellsouth.net>
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:49 -0400
+Received: from double-helix.org ([68.154.199.164])
+	by ibm61aec.bellsouth.net with ESMTP
+	id <20050622231649.KMED4468.ibm61aec.bellsouth.net@double-helix.org>
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:16:49 -0400
+Received: by anemone (Postfix, from userid 1001)
+	id E0DC42FBD0; Wed, 22 Jun 2005 19:16:41 -0400 (EDT)
+Date: Wed, 22 Jun 2005 19:16:41 -0400
+From: Erinn Clark <erinn@double-helix.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC channel invite only
+Message-ID: <20050622231641.GA8864@double-helix.org>
+References: <20050622230408.GA30472@home.puzzling.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20050622230408.GA30472@home.puzzling.org>
+X-Operating-System: Debian GNU/Linux
+X-GPG-Key-Server: pgp.mit.edu
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 23:16:57 -0000
+
+* Mary Gardiner <mary-gnome@puzzling.org> [2005:06:23 09:04 +1000]: 
+> So, moving on... can I join the IRC channel on GIMPnet? This morning I
+> got 
+> --- Cannot join #gnome-women (Channel is invite only).
+
+Hi Mary,
+
+There was some confusion earlier and it got set +i by accident. I've
+fixed it so you (and anyone else who's run into this problem) can join
+now.
+
+-- 
+off the chain like a rebellious guanine nucleotide
+
+From hmw26@cam.ac.uk  Wed Jun 22 19:19:30 2005
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A84B93B10B5
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:19:30 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 16594-06 for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:19:28 -0400 (EDT)
+Received: from ppsw-1.csi.cam.ac.uk (ppsw-1.csi.cam.ac.uk [131.111.8.131])
+	by menubar.gnome.org (Postfix) with ESMTP id 4D49A3B0703
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 22 Jun 2005 19:19:28 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from [141.151.82.136] (port=37731 helo=localhost.localdomain)
+	by ppsw-1.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.151]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1DlEVA-0001Y9-5c (Exim 4.51) for gnome-women-list@mail.gnome.org
+	(return-path <hmw26@cam.ac.uk>); Thu, 23 Jun 2005 00:19:24 +0100
+Received: from hmw26 by localhost.localdomain with local (Exim 4.51)
+	id 1DlETi-0005e4-Am
+	for gnome-women-list@mail.gnome.org; Wed, 22 Jun 2005 19:17:54 -0400
+Date: Wed, 22 Jun 2005 19:17:54 -0400
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] IRC channel invite only
+Message-ID: <20050622231754.GC15317@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org
+References: <20050622230408.GA30472@home.puzzling.org>
+	<20050622231641.GA8864@double-helix.org>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <20050622231641.GA8864@double-helix.org>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: hmw26@hermes.cam.ac.uk
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 22 Jun 2005 23:19:30 -0000
+
+Hi Mary, Erinn and everyone,
+
+> There was some confusion earlier and it got set +i by accident. I've
+> fixed it so you (and anyone else who's run into this problem) can
+> join now.
+
+Indeed. I'm sorry about that. (Not quite sure how it happened, but
+we'll try to ensure it doesn't happen again!)
+
+Regards, 
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From hmw26@cam.ac.uk  Mon Jun 27 12:28:03 2005
+Return-Path: <hmw26@cam.ac.uk>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7267D3B0530
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Jun 2005 12:28:03 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 20381-10 for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Jun 2005 12:28:02 -0400 (EDT)
+Received: from ppsw-1.csi.cam.ac.uk (ppsw-1.csi.cam.ac.uk [131.111.8.131])
+	by menubar.gnome.org (Postfix) with ESMTP id E0A2E3B0690
+	for <gnome-women-list@mail.gnome.org>;
+	Mon, 27 Jun 2005 12:28:01 -0400 (EDT)
+X-Cam-SpamDetails: Not scanned
+X-Cam-AntiVirus: No virus found
+X-Cam-ScannerInfo: http://www.cam.ac.uk/cs/email/scanner/
+Received: from cpc2-cmbg6-6-0-cust61.cmbg.cable.ntl.com ([81.104.214.61]:35400
+	helo=localhost.localdomain)
+	by ppsw-1.csi.cam.ac.uk (smtp.hermes.cam.ac.uk [131.111.8.151]:587)
+	with esmtpsa (PLAIN:hmw26) (TLSv1:AES256-SHA:256)
+	id 1DmwSb-0002E2-6C (Exim 4.51) for gnome-women-list@mail.gnome.org
+	(return-path <hmw26@cam.ac.uk>); Mon, 27 Jun 2005 17:27:49 +0100
+Received: from hmw26 by localhost.localdomain with local (Exim 4.51)
+	id 1DmwSW-0003pj-6B
+	for gnome-women-list@mail.gnome.org; Mon, 27 Jun 2005 17:27:44 +0100
+Date: Mon, 27 Jun 2005 17:27:44 +0100
+From: "Hanna M. Wallach" <hmw26@cam.ac.uk>
+To: gnome-women-list@mail.gnome.org
+Message-ID: <20050627162744.GF14485@bayes>
+Mail-Followup-To: gnome-women-list@mail.gnome.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.9i
+Sender: hmw26@hermes.cam.ac.uk
+X-Virus-Scanned: by amavisd-new at gnome.org
+Subject: [gnome-women] Getting Involved in GNOME
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 27 Jun 2005 16:28:03 -0000
+
+Hi people, 
+
+I recently found out about Getting Involved
+(http://live.gnome.org/MarketingTeam_2fGettingInvolved), the GNOME
+Marketing Team's new project, which aims to provide (better)
+information on getting involved in GNOME. Some of the things they plan
+to do include:
+
+* Look for the more inclusive concept of "contributors" rather than
+  the more restricted term "developers".
+
+* Make sure programmers understand why GNOME is a great platform and
+  community to develop software, where the help is needed and how to
+  start contributing.
+
+* Make sure that all willing contributors but non-programmers
+  understand as well that there is a place for them and a plenty of
+  exciting things to do and share.
+
+Sounds like this is something highly relevant to GNOME Women, and
+worth keeping an eye on, if not contributing to.
+
+Regards, 
+
+-- 
+hanna m. wallach
+blog: http://join-the-dots.org/
+work: http://www.inference.phy.cam.ac.uk/hmw26/
+
+From clytie@riverland.net.au  Tue Jun 28 03:17:04 2005
+Return-Path: <clytie@riverland.net.au>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E9B533B08D1
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 03:17:03 -0400 (EDT)
+Received: from menubar.gnome.org ([12.107.209.248])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 12544-07 for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 03:17:02 -0400 (EDT)
+Received: from smtp1.adl2.internode.on.net (smtp1.adl2.internode.on.net
+	[203.16.214.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 831943B0C49
+	for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 03:17:00 -0400 (EDT)
+Received: from [10.1.1.91] (ppp223-237.lns3.adl2.internode.on.net
+	[203.122.223.237])
+	by smtp1.adl2.internode.on.net (8.12.9/8.12.9) with ESMTP id
+	j5S7GwTp047236 for <gnome-women-list@mail.gnome.org>;
+	Tue, 28 Jun 2005 16:46:59 +0930 (CST)
+Mime-Version: 1.0 (Apple Message framework v730)
+In-Reply-To: <20050627162744.GF14485@bayes>
+References: <20050627162744.GF14485@bayes>
+Content-Type: text/plain; charset=UTF-8; delsp=yes; format=flowed
+Message-Id: <67995E47-32D2-47A6-B941-DB2386466C42@riverland.net.au>
+Content-Transfer-Encoding: quoted-printable
+From: Clytie Siddall <clytie@riverland.net.au>
+Subject: Re: [gnome-women] Getting Involved in GNOME
+Date: Tue, 28 Jun 2005 16:46:54 +0930
+To: gnome-women-list@mail.gnome.org
+X-Mailer: Apple Mail (2.730)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 28 Jun 2005 07:17:04 -0000
+
+
+On 28/06/2005, at 1:57 AM, Hanna M. Wallach wrote:
+>
+> I recently found out about Getting Involved
+> (http://live.gnome.org/MarketingTeam_2fGettingInvolved), the GNOME
+> Marketing Team's new project, which aims to provide (better)
+> information on getting involved in GNOME. Some of the things they plan
+> to do include:
+>
+> * Look for the more inclusive concept of "contributors" rather than
+>   the more restricted term "developers".
+>
+> * Make sure programmers understand why GNOME is a great platform and
+>   community to develop software, where the help is needed and how to
+>   start contributing.
+>
+> * Make sure that all willing contributors but non-programmers
+>   understand as well that there is a place for them and a plenty of
+>   exciting things to do and share.
+>
+> Sounds like this is something highly relevant to GNOME Women, and
+> worth keeping an eye on, if not contributing to.
+
+As a very new Gnome-Woman who has just crawled in the door <peels off =20=
+
+shrinkwrap, itchy..> I think this sounds like an exciting and =20
+possibly overdue move.
+
+We'll certainly get much more participation, and a broader range of =20
+it, if people know that anything positive and useful is welcomed. We =20
+need to get out of people's heads (including our own) the thoughts =20
+"I'm only a user", "I only do patches sometimes", "I'm only a =20
+translator" "I could only run a discussion group, I don't really know =20=
+
+anything" which really hold back people from contributing their =20
+definitely valuable skills and experience.
+
+I hope it works well. :)  I'll start inside my head: it needs =20
+updating badly.
+
+from Clytie (vi-VN, Vietnamese free-software translation team / nh=C3=B3m =
+=20
+Vi=E1=BB=87t h=C3=B3a ph=E1=BA=A7n m=E1=BB=81m t=E1=BB=B1 do)
+
+Clytie Siddall--Renmark, in the Riverland of South Australia
+
+=E1=BB=9E th=C3=A0nh ph=E1=BB=91 Renmark, t=E1=BA=A1i mi=E1=BB=81n s=C3=B4=
+ng c=E1=BB=A7a Nam =C3=9Ac
+
+
+From duffy@redhat.com  Thu Jun 30 19:31:41 2005
+Return-Path: <duffy@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 1E6873B0874
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 19:31:41 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 05302-01 for <gnome-women-list@gnome.org>;
+	Thu, 30 Jun 2005 19:31:38 -0400 (EDT)
+Received: from mx1.redhat.com (mx1.redhat.com [66.187.233.31])
+	by menubar.gnome.org (Postfix) with ESMTP id 186B13B072B
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 19:31:37 -0400 (EDT)
+Received: from int-mx1.corp.redhat.com (int-mx1.corp.redhat.com
+	[172.16.52.254])
+	by mx1.redhat.com (8.12.11/8.12.11) with ESMTP id j5UKw6xe003291
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 16:58:06 -0400
+Received: from mail.boston.redhat.com (mail.boston.redhat.com [172.16.76.12])
+	by int-mx1.corp.redhat.com (8.11.6/8.11.6) with ESMTP id j5UKw6u24755
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 16:58:06 -0400
+Received: from dhcp83-82.boston.redhat.com
+	(IDENT:U2FsdGVkX1+FyBEBQqmKLnUK6wcENwRQpnusBkq5ScA@dhcp83-82.boston.redhat.com
+	[172.16.83.82])
+	by mail.boston.redhat.com (8.12.8/8.12.8) with ESMTP id j5UKw5eP006482
+	for <gnome-women-list@gnome.org>; Thu, 30 Jun 2005 16:58:05 -0400
+From: =?ISO-8859-1?Q?M=E1ir=EDn?= Duffy <duffy@redhat.com>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain
+Organization: Red Hat, Inc.
+Date: Thu, 30 Jun 2005 17:00:09 -0400
+Message-Id: <1120165210.4184.43.camel@localhost.localdomain>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.0.2 (2.0.2-16) 
+Content-Transfer-Encoding: 7bit
+X-Virus-Scanned: by amavisd-new at gnome.org
+Cc: 
+Subject: [gnome-women] Gnome Women Logo Contest
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 30 Jun 2005 23:31:41 -0000
+
+Hey Everybody,
+
+We need a logo for the Gnome Women project! So, we're running a contest
+for logo ideas. Even if you are not artistically inclined, submit your
+idea and we'll discuss it on the list! If you are, that's cool too; you
+can post the URL to your logo on list or just attach it to your email.
+We'll decide on our favorites on-list and Diana and/or I will finalize
+any work that needs to be done graphically.
+
+We'll give two weeks for submissions, so the due date for submissions
+is: Friday, Jul 15th. You can reply to this message with your submission
+(s).
+
+Some things to keep in mind when creating your logo:
+
+o The current 'mission statement' of the Gnome Women project is: "GNOME
+Women is a project to (1) provide encouragement for women to contribute
+to GNOME (2) make visible the GNOME contributors who are women."
+
+o Let's try not to reinforce too many gender stereotypes. It's hard, I
+know.
+
+o You can get an svg versios of the GNOME logo at:
+http://linuxgrrl.com/gnomewomen/gnome2-fancy-pat.svg
+(Normally there are multiple versions available at
+http://www.gnome.org/~jdub/random/logo/ but the gnome servers were just
+relocated physically and it looks like some stuff is still down.)
+
+o Inkscape (http://www.inkscape.org/) and sodipodi
+(http://www.sodipodi.com/) are really nice vector graphics programs
+suitable for creating vector logos in GNOME. ;-)
+
+~m
+
+
+
+
+From mary@home.puzzling.org  Thu Jun 30 19:42:26 2005
+Return-Path: <mary@home.puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (unknown [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C260D3B1060
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 30 Jun 2005 19:42:26 -0400 (EDT)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 06172-08 for <gnome-women-list@mail.gnome.org>;
+	Thu, 30 Jun 2005 19:42:21 -0400 (EDT)
+Received: from smtp.syd.swiftdsl.com.au (smtp.syd.swiftdsl.com.au
+	[218.214.224.138])
+	by menubar.gnome.org (Postfix) with SMTP id 539C63B072B
+	for <gnome-women-list@mail.gnome.org>;
+	Thu, 30 Jun 2005 19:42:20 -0400 (EDT)
+Received: (qmail 9515 invoked from network); 30 Jun 2005 23:42:21 -0000
+Received: from unknown (HELO home.puzzling.org) (218.214.66.203)
+	by smtp.syd.swiftdsl.com.au with SMTP; 30 Jun 2005 23:42:21 -0000
+Received: from localhost (flay [127.0.0.1])
+	by home.puzzling.org (Postfix) with ESMTP id 375C1788088
+	for <gnome-women-list@mail.gnome.org>;
+	Fri,  1 Jul 2005 09:42:17 +1000 (EST)
+Received: from home.puzzling.org ([127.0.0.1])
+	by localhost (flay [127.0.0.1]) (amavisd-new, port 10024) with ESMTP
+	id 10593-03 for <gnome-women-list@mail.gnome.org>;
+	Fri, 1 Jul 2005 09:42:17 +1000 (EST)
+Received: by home.puzzling.org (Postfix, from userid 1000)
+	id 19657788087; Fri,  1 Jul 2005 09:42:17 +1000 (EST)
+Date: Fri, 1 Jul 2005 09:42:17 +1000
+From: Mary Gardiner <mary-gnome@puzzling.org>
+To: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] Gnome Women Logo Contest
+Message-ID: <20050630234217.GE6871@home.puzzling.org>
+References: <1120165210.4184.43.camel@localhost.localdomain>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <1120165210.4184.43.camel@localhost.localdomain>
+X-Nihilism: All I ask is our common due... Give us this day our daily cue.
+X-GPG-Key: 1024D/77625870
+X-GPG-Fingerprint: B141 CD1A 4603 1CD7 6D64  EFBF D256 C568 7762 5870
+User-Agent: Mutt/1.5.6+20040907i
+X-Virus-Scanned: by amavisd-new-20030616-p10 (Debian) at home.puzzling.org
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.5
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 30 Jun 2005 23:42:26 -0000
+
+On Thu, Jun 30, 2005, M?ir?n Duffy wrote:
+> We need a logo for the Gnome Women project! So, we're running a contest
+> for logo ideas. Even if you are not artistically inclined, submit your
+> idea and we'll discuss it on the list! If you are, that's cool too; you
+> can post the URL to your logo on list or just attach it to your email.
+> We'll decide on our favorites on-list and Diana and/or I will finalize
+> any work that needs to be done graphically.
+
+Hmmm, one brainstorm style idea (as in, I haven't thought about the
+graphics difficulty):  a stylised woman martial artist kicking straight
+at the viewer. Her foot is the GNOME foot.
+
+-Mary
+

@@ -1,0 +1,989 @@
+From kde-women@mail.kde.org  Sat Mar  2 15:48:35 2002
+From: kde-women@mail.kde.org (Sallie Krebs)
+Date: Sat, 2 Mar 2002 09:48:35 -0600
+Subject: [Kde-women]Re: SPAM: kde-women digest, Vol 1 #79 - 1 msg
+In-Reply-To: <200203020502671.SM00180@mail.kde.org>
+References: <200203020502671.SM00180@mail.kde.org>
+Message-ID: <200203020946234.SM00180@there>
+
+On Saturday 02 March 2002 05:02, kde-women-request@mail.kde.org wrote:
+
+I apologize for the "Subject" line... I'm not sure why, but now all of 
+my mailing list messages are coming in with "SPAM" preceding the 
+subject... anyone know why? Maybe I installed something and don't have 
+it configured properly, but I don't remember doing it;(
+
+-- 
+-------------------------
+Sallie - aka: TuxGal
+-------------------------
+
+
+From kde-women@mail.kde.org  Sat Mar  2 14:01:57 2002
+From: kde-women@mail.kde.org (Addis P?rez)
+Date: Sat, 2 Mar 2002 18:01:57 +0400
+Subject: [Kde-women]greetings and salutations
+In-Reply-To: <20020302070080.SM01044@mail.kde.org>
+References: <20020302070080.SM01044@mail.kde.org>
+Message-ID: <200203021754518.SM01044@there>
+
+Seeing that the ice has been broken, let me introduce myself:
+
+For starters, yes! I'm a female! :)  I'm a jr. at the University of Puerto 
+Rico, pulling a double major in CS and Math.  I'm a 21-yr. old Texan living 
+in Puerto Rico (don't ask!)  I learned of Linux early in my sophomore year, 
+and have been using it ever since.  All this [school] year, my sole OS has 
+been RH7.2.  I'm a proud KDE user, used Gnome once at my old job ... 
+Why did I subscribe?  I've already subscribed to Grrls-only with Val and 
+company ... was browsing around through the KDE mailing lists ... and ouila! 
+Here I am.  My email was just recently added this week.  I use my computer, 
+and hence, KDE, everyday, at least some 4 hours.  I'm not to keen on 
+programming, but well, it comes with the studies.  I'm also interested in 
+digital art.  
+
+That just about sums up my mini-intro.
+Addis Pérez
+
+
+From kde-women@mail.kde.org  Fri Mar  1 14:59:10 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Fri, 1 Mar 2002 15:59:10 +0100
+Subject: [Kde-women]Who are you?
+Message-ID: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+
+Hi all,
+
+this list isn't really active... still there are 85 people subscribed and I 
+am _very_ curious about who you all are. From the email addresses I'd say, 
+you are about 80% female. There are also some email collecters for search 
+machines subscribed and some I cannot say which gender they are. 
+
+The email address look really interesting... so what about doing a round of 
+introductions? Who are you? How did you find this list? How long have you 
+been subsribed? Why are you subscribed? Where do you come from? How old are 
+you (ok, forget about this one ;-)? Do you work in IT? What is your 
+profession? Are you a student? What OS do you mainly use? How did you learn 
+Linux/KDE? Do you use KDE on a daily basis? Do you miss something in KDE? 
+...lot's of questions.
+
+Looking forward to see what's under the curtain of anonymity ;-)
+eva
+
+From kde-women@mail.kde.org  Sat Mar  2 15:31:19 2002
+From: kde-women@mail.kde.org (Sallie Krebs)
+Date: Sat, 2 Mar 2002 09:31:19 -0600
+Subject: [Kde-women]Re: SPAM: kde-women digest, Vol 1 #79 - 1 msg
+In-Reply-To: <200203020502671.SM00180@mail.kde.org>
+References: <200203020502671.SM00180@mail.kde.org>
+Message-ID: <20020302092978.SM00180@there>
+
+On Saturday 02 March 2002 05:02, kde-women-request@mail.kde.org wrote:
+
+>    1. Who are you? (Eva Brucherseifer)
+...
+> The email address look really interesting... so what about doing a
+> round of introductions? Who are you? How did you find this list? How
+> long have you been subsribed? Why are you subscribed? Where do you
+> come from? How old are you (ok, forget about this one ;-)? Do you
+> work in IT? What is your profession? Are you a student? What OS do
+> you mainly use? How did you learn Linux/KDE? Do you use KDE on a
+> daily basis? Do you miss something in KDE? ...lot's of questions.
+
+Hi! I'm Sallie Krebs, from Illinois (USA), *way* too old (51)
+
+I've been subscribed from day one... I think I was contacted by someone 
+in IRC about joining the list, but I don't remember who it was now. The 
+reason I subscribed was to learn more about KDE, and hopefully to 
+participate and share some of my experiences with others. 
+Unfortunately- due to work and other commitments- I haven't had time to 
+really participate in any of the lists I've joined, which include 
+several for Kapital products I've purchased plus Progeny (now, 
+unfortunately, defunct.)
+
+I work at the Post Office as an electronics technician- I maintain and 
+repair mail processing equipment, computers, etc. 
+
+I've been running Linux for about 4 years now- Debian for most of that 
+time. I think the first distro I tried was Caldera which introduced me 
+to KDE. I tried Gnome a couple of times, but found that KDE was much 
+easier to use and has far more functionality. I haven't tried Gnome in 
+over a year now, though. I *do* love having a choice and will probably 
+do more experimenting with different desktops when I have more time- 
+maybe in 4 years when I will, hopefully, retire :)
+
+Do I miss something in KDE? That's hard to answer... It's been about a 
+year and a half since I had windoze installed and in use even on a part 
+time basis. I do have to use it at work, however, and am constantly 
+cursing the lack of functionality that I take for granted in Linux/KDE. 
+I keep hearing that Linux isn't ready for the desktop... HUH? It 
+certainly has everything I need, and more! Oh, well, there is one 
+thing- but it's a Konqueror problem, not KDE. I can't do my online 
+banking using Konq, so I have to use Mozilla. I read an online 
+discussion about the problem- it has something to do with Java. Overall 
+though, KDE is spectacular!
+
+-- 
+-------------------------
+Sallie - aka: TuxGal
+-------------------------
+
+
+From kde-women@mail.kde.org  Fri Mar  1 23:56:51 2002
+From: kde-women@mail.kde.org (Darin & Tina Gasperson)
+Date: Fri, 1 Mar 2002 18:56:51 -0500
+Subject: [Kde-women]Who are you?
+In-Reply-To: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+References: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+Message-ID: <3C800E450002ED25@mta03.san.yahoo.com> (added by postmaster@mail.san.yahoo.com)
+
+On Friday 01 March 2002 09:59 am, Eva Brucherseifer wrote:
+> Hi all,
+>
+> this list isn't really active... still there are 85 people subscribed and I
+> am _very_ curious about who you all are. 
+
+Hi, I'm Tina Gasperson; I work as a reporter for the Open Source Developers 
+Network (OSDN). I've been using Linux and KDE for about 2 1/2 years. I try to 
+stay subscribed to a lot of mailing lists because its a good way to tune in 
+to what's going on in the community; but I specifically sought out and became 
+a part of this list and also the LinuxChix list in order to hang out with 
+other females who are interested in Linux. It's reassuring to be reminded I'm 
+not the only one.
+
+-Tina
+
+
+From kde-women@mail.kde.org  Sun Mar  3 01:07:08 2002
+From: kde-women@mail.kde.org (cynthia s)
+Date: Sat, 2 Mar 2002 20:07:08 -0500
+Subject: [Kde-women]Re: who I am
+In-Reply-To: <200203021104.g22B46678781@mail.ncweb.com>
+References: <200203021104.g22B46678781@mail.ncweb.com>
+Message-ID: <200203021929.12007@from cynthia>
+
+On Saturday 02 March 2002 06:04 am, kde-women-request@mail.kde.org wrote:
+
+Hi Eva,
+ Hay all!  I, Cynthia, hail from Painesville, OH which is about 30 miles=20
+outside of Cleveland.  (no Cleve jokes! I love it here! ..no really:)  I =
+am=20
+usually using Linux now.  It took awhile and lots of distros, but I'm fin=
+ally=20
+here.  I am still dual-booting, though.  Started going to CLUG  (Cleve LU=
+G)=20
+meetings even.  Which are all men.  I am "very" newbie to computers and=20
+Linux.  I spent most of my life up until recently taking care of=20
+responsibilities and sole-supporting.  My "responsibilities" are now off =
+on=20
+their own doing fine and I'm somewhat free to follow my own interests! =20
+(hooray)   I have kept up with the world of computers from the outside fo=
+r a=20
+long while believing (naively possibly)  that there is a hacker lurking=20
+inside me.  I ran across Linux in MIT's Technology Review and fell in lov=
+e. =20
+It spoke to the left-winger in me as well as that hidden geek.  Now I'm=20
+working on learning as much as I can, as quickly as I can. =20
+
+I am interested in building my next computer, soon.  (It's a gas to go in=
+to=20
+the computer store and know what I'm talking about).  I am taking an  a+ =
+cert=20
+course -just to get to know what's going on, and will be teaching myself =
+C++.=20
+I work for the Post Office and it while it would be nice to work my way t=
+o a=20
+new job, it's not a necessity.   So, I'm basically jumping into the water=
+ and=20
+hoping to learn how to swim.  I'm good at making a fool of myself and=20
+laughing about it so I hope I'll be OK.  =20
+
+This is actually the first computer group for women I have come across.  =
+I=20
+use KDE with Red Hat7.2.  I've played with Debian and may use that on my =
+new=20
+box.
+
+I'm surprised at how much I have to say.  I hope to get to know some of y=
+ou=20
+-and learn from you.=20
+
+Cynthia(or Cyn, or Cynners-not cindy) S.
+"The knowledge of all things is possible."
+~~~~~~~~~~~~~~~~~~Leonardo da Vinci
+(to this hope I cling)~~~~~~~~~~~~~~~~~
+
+From kde-women@mail.kde.org  Sun Mar  3 12:41:40 2002
+From: kde-women@mail.kde.org (Rachel Andrew)
+Date: Sun, 3 Mar 2002 12:41:40 +0000
+Subject: [Kde-women]Who are you?
+In-Reply-To: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+References: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+Message-ID: <02030312414005.00495@louis>
+
+Hi
+
+I'm Rachel, I'm a web developer with my own company - working mainly with 
+ASP/SQL Server (sorry!) but increasingly with PHP/mySQL and learning Java 
+becase I don't want to get sucked into the black hole that is .NET.
+
+I use Linux (and therefore KDE) on the desktop around 50% of the time. I run 
+Debian (testing).
+
+I'm a mother with a 4 year old daughter, as well as messing around with 
+computers I'm doing a course in World Religions with the Open University here 
+in the UK. 
+
+
+-- 
+Rachel
+work: http://www.edgeofmyseat.com
+play: http://www.rachelandrew.co.uk
+WaSP Dreamweaver Task Force: http://www.webstandards.org
+
+From kde-women@mail.kde.org  Sun Mar  3 16:18:01 2002
+From: kde-women@mail.kde.org (=?iso-8859-1?q?Girard=20Henri?=)
+Date: Sun, 3 Mar 2002 17:18:01 +0100 (CET)
+Subject: [Kde-women]Who are you?
+In-Reply-To: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+Message-ID: <20020303161801.21359.qmail@web12002.mail.yahoo.com>
+
+--0-253138679-1015172281=:19917
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+
+Hi all :)
+
+I am 57y old and soon going to retreat !! (60y in france..) but I hope next year to go... I think there is a lot much more to do than working as a slave for capitalism... In france when one reaches 50y old he is considered good for the rubbish bin !!! 
+
+I registered here because I was looking for a tutorial how to use qtdesigner in kdev... And the only one my taste at that time (2y ago) was anne marie one...
+
+I am analyst at NEC computer international .. Based in Angers France... But we work only with windows and I like very much linux... I have still a lot of project to do... Mainly two : Theory of 5th dimension a critical work in physics about the 4th Relativity's theory)... dimension and the implementation of a "TRINARY system"... I worked on the 1th for about 40y now and the second appears very recently following my theory... 5y ago about... 
+
+Unfortunatly I am working alone on this subjects... Otherwise I think they would be more advanced... 
+
+I like the Open "way of thinking"... And that's mainly why I like linux...
+
+Delighted to meet you,
+
+Henri Girard
+
+
+
+---------------------------------
+Yahoo! Mail -- Une adresse @yahoo.fr gratuite et en français !
+
+--0-253138679-1015172281=:19917
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+
+<P>Hi all :)</P>
+<P>I am 57y old and soon going to retreat !! (60y in france..) but I hope next year to go... I think there is a lot much more to do than working as a slave for capitalism... In france when one reaches 50y old he is considered good for the rubbish bin !!! </P>
+<P>I registered here because I was looking for a tutorial how to use qtdesigner in kdev... And the only one my taste at that time (2y ago) was anne marie one...</P>
+<P>I am analyst at NEC computer international .. Based in Angers France... But we work only with windows and I like very much linux... I have still a lot of project to do... Mainly two : Theory of 5th dimension a critical work in physics about the 4th Relativity's theory)... dimension and the implementation of a "TRINARY system"... I worked on the 1th for about 40y now and the second appears very recently following my theory... 5y ago about... </P>
+<P>Unfortunatly I am working alone on this subjects... Otherwise I think they would be more advanced... </P>
+<P>I like the Open "way of thinking"... And that's mainly why I like linux...</P>
+<P>Delighted to meet you,</P>
+<P>Henri Girard</P><p><br><hr size=1><a href="http://fr.mail.yahoo.com">Yahoo! Mail</a> -- Une adresse @yahoo.fr gratuite et en français !<br>
+--0-253138679-1015172281=:19917--
+
+From kde-women@mail.kde.org  Sun Mar  3 19:09:19 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Sun, 3 Mar 2002 20:09:19 +0100
+Subject: [Kde-women]problems to receive mails?
+Message-ID: <200203032009.19483.eva@kde.org>
+
+Hi all,
+
+last week I had problems with mails I sent to the mailing list - they did=
+n't=20
+show up and/or I didn't receive mails via the list. Thanks to Bastian Wal=
+do=20
+this problem should be fixed now, at least my mails are in sync with the=20
+archive at http://lists.kde.org
+
+If you still encounter problems, please tell me.
+
+Cheers,
+eva
+
+From kde-women@mail.kde.org  Sun Mar  3 19:11:49 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Sun, 3 Mar 2002 20:11:49 +0100
+Subject: [Kde-women]Re: SPAM: kde-women digest, Vol 1 #79 - 1 msg
+In-Reply-To: <200203020946234.SM00180@there>
+References: <200203020502671.SM00180@mail.kde.org> <200203020946234.SM00180@there>
+Message-ID: <200203032011.49879.eva@kde.org>
+
+> On Saturday 02 March 2002 05:02, kde-women-request@mail.kde.org wrote:
+>
+> I apologize for the "Subject" line... I'm not sure why, but now all of
+> my mailing list messages are coming in with "SPAM" preceding the
+> subject... anyone know why? Maybe I installed something and don't have
+> it configured properly, but I don't remember doing it;(
+
+Only an idea... but maybe the company where your mailserver is hosted has=
+=20
+installed some mailfilter?=20
+
+
+Hope this helps,
+eva
+
+From kde-women@mail.kde.org  Sun Mar  3 19:31:30 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Sun, 3 Mar 2002 20:31:30 +0100
+Subject: [Kde-women]Re: SPAM: kde-women digest, Vol 1 #79 - 1 msg
+In-Reply-To: <20020302092978.SM00180@there>
+References: <200203020502671.SM00180@mail.kde.org> <20020302092978.SM00180@there>
+Message-ID: <200203032031.30613.eva@kde.org>
+
+Hi Sallie,
+
+> I haven't had time to
+> really participate in any of the lists I've joined, which include
+> several for Kapital products I've purchased plus Progeny (now,
+> unfortunately, defunct.)
+
+Do you mean products by theKompany? If so I'd be very interested in which=
+=20
+products you bought and if you feel satisfied about the product and the=20
+service.=20
+
+> Do I miss something in KDE? That's hard to answer... It's been about a
+> year and a half since I had windoze installed and in use even on a part
+> time basis. I do have to use it at work, however, and am constantly
+> cursing the lack of functionality that I take for granted in Linux/KDE.
+> I keep hearing that Linux isn't ready for the desktop... HUH? It
+> certainly has everything I need, and more! Oh, well, there is one
+> thing- but it's a Konqueror problem, not KDE. I can't do my online
+> banking using Konq, so I have to use Mozilla.
+
+Oh yes... I have the same problem :-( And it's even worse because it does=
+n't=20
+work with Netscape either. The support keeps telling me, that I they only=
+=20
+support windows and that I should get one. Fortunately I talked to an=20
+employee of the bank who also uses Linux and he told me that there is som=
+e=20
+trick and he wants to find out what it is. So I am still hoping.
+
+>  I read an online
+> discussion about the problem- it has something to do with Java. Overall
+> though, KDE is spectacular!
+
+There is a webpage with information about online banking with konqueror:
+http://home.in.tum.de/strutyns/banking
+
+Greetings,
+eva
+
+
+
+From kde-women@mail.kde.org  Mon Mar  4 22:02:36 2002
+From: kde-women@mail.kde.org (Sallie Krebs)
+Date: Mon, 4 Mar 2002 16:02:36 -0600
+Subject: [Kde-women]Re: kde-women digest, Vol 1 #81 - 5 msgs
+In-Reply-To: <200203040502383.SM00178@mail.kde.org>
+References: <200203040502383.SM00178@mail.kde.org>
+Message-ID: <200203041600485.SM00203@there>
+
+On Monday 04 March 2002 05:02, kde-women-request@mail.kde.org wrote:
+
+> Message: 1
+> From: Rachel Andrew <lists@rachelandrew.co.uk>
+
+> I'm Rachel, I'm a web developer with my own company - working mainly
+> with ASP/SQL Server (sorry!) but increasingly with PHP/mySQL...
+
+> time. I run Debian (testing).
+
+I see we have some things in common... I run Debian- mostly unstable. 
+I'm fighting with getting Apache/PHP/MySQL working at the moment. My 
+husband is the database & networking guru, but mostly in the Windows 
+and Novell areas- so he can't help me much. When we retire in a few 
+years, I'd love to do something like you- in web development.
+
+-- 
+-------------------------
+Sallie - aka: TuxGal
+-------------------------
+
+
+From kde-women@mail.kde.org  Mon Mar  4 22:30:00 2002
+From: kde-women@mail.kde.org (Sallie Krebs)
+Date: Mon, 4 Mar 2002 16:30:00 -0600
+Subject: [Kde-women]Re: SPAM, and banking :)
+In-Reply-To: <200203040502383.SM00178@mail.kde.org>
+References: <200203040502383.SM00178@mail.kde.org>
+Message-ID: <200203041628485.SM00203@there>
+
+On Monday 04 March 2002 05:02, kde-women-request@mail.kde.org wrote:
+> From: Eva Brucherseifer <eva@kde.org>
+
+> Only an idea... but maybe the company where your mailserver is hosted
+> has= =20
+> installed some mailfilter?=20
+
+Yes, I forgot to check the message headers. I already sent them an 
+email about it, but they haven't fixed the KDE Women list yet. Most of 
+the others are ok now, so I guess they're working on it. I just have to 
+remember to edit the subject line. Thanks!
+
+> Do you mean products by theKompany? If so I'd be very interested in
+> which= =20
+> products you bought and if you feel satisfied about the product and
+> the=20 service.=20
+
+Yes, I'm sorry... theKompany. I've purchased Kapital, Quanta Gold, 
+DataArchitect, and DocBrowser from them. Kapital is still very much 
+beta software, but it's usable. I've installed the others, but haven't 
+had time to really work with them yet. My husband was really impressed 
+with DataArchitect, as comparable Windows products cost much more (it's 
+an entity relationship diagram editor... yet another thing I'm just 
+learning about.) They do seem to respond quickly to questions in their 
+mailing lists, and post "bug-fix" releases quite regularly.
+
+> > can't do my online banking using Konq, so I have to use Mozilla.
+>
+> There is a webpage with information about online banking with
+> konqueror: http://home.in.tum.de/strutyns/banking
+
+Thanks- I bookmarked that page. I might switch banks eventually!
+
+-- 
+-------------------------
+Sallie - aka: TuxGal
+-------------------------
+
+
+From kde-women@mail.kde.org  Wed Mar  6 23:30:58 2002
+From: kde-women@mail.kde.org (Amelie Zapf)
+Date: Thu, 7 Mar 2002 00:30:58 +0100
+Subject: [Kde-women]Who are you?
+In-Reply-To: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+References: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+Message-ID: <02030700305801.00950@amy>
+
+Hi Eva, kde-women,
+
+> The email address look really interesting... so what about doing a round of
+> introductions? Who are you? 
+
+A 27-year-old jazz pianist / studied physical chemist / turned Perl hacker 
+out of Berlin, Germany. Actually, I don't have _very_ much to do with KDE. I 
+joined this list, and also kde-devel because I wanted to spark a project that 
+I alone cannot develop: because I'm working as a freelance musician, I'm in 
+desperate need of a program that:
+- has an interface to KOrganizer to keep track of dates
+- has an interface to MySQL to maintain a musicians and customers database
+- helps me keep track with invoices & stuff
+- can do bookkeeping WITH the option of taking the VAT out by triple booking
+  (is this the right word?).
+
+Obviously, Perl/Tk is not the language of choice for that. But I did not have 
+time to get down into Qt that much that I could swing it alone. Plus, I don't 
+have the time. It may be an antitheton to Linux/KDE/Open Source, but what 
+we're lacking most is business software. I'm maintaining a computer network 
+for our small musicians collective here in Berlin (2 desktop computers, one 
+web/mail/fax server/gateway, one file/scan server/audio/graphics, plus 2 
+laptops, the whole thing running on SuSE and Debian Linuces, which I 
+exclusively use some 6 hours a day.
+
+I learned about Linux/KDE from a friend at university some four years ago and 
+have used it ever since, picking up knowledge by myself, bit by bit. Hobbies 
+outside of piano and computing: composition / reading / collecting and 
+smoking pipes (odd for a woman ;-).
+
+All the best to all of you,
+
+Amy from Berlin
+
+-- 
+Louey & Amy
+Soul, Jazz & Gospel from Berlin
+
+www.louey-amy.de
+
+From kde-women@mail.kde.org  Thu Mar  7 09:11:03 2002
+From: kde-women@mail.kde.org (Schneider, Nina)
+Date: Thu, 7 Mar 2002 10:11:03 +0100
+Subject: [Kde-women]Re: Who are you?
+Message-ID: <602E7DA848F6D511B3390001FAF8181C5A5C55@FRA_EXC1>
+
+This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+------=_NextPartTM-000-ec6ce06b-2cea-11d6-a732-008048fbdfae
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01C1C5B8.01A61340"
+
+------_=_NextPart_001_01C1C5B8.01A61340
+Content-Type: text/plain;
+	charset="iso-8859-1"
+
+Hi Eva, kde-women,
+
+> The email address look really interesting... so what about doing a round
+of
+> introductions? Who are you? 
+
+Hola, I'm ninteen (well, almost twenty) year old girl
+living near Marburg. Since August last year I'm 
+going to be Fachinformatikerin/Systemintegration.
+over a half year has faded now and I feel I learned 
+a lot in this time.
+In my class at school are 15 guys and 3 girls.
+I learned a lot through mailinglists and I found
+this list because I had to do a research on linux..
+even write some small c++ programms with kdevelop..
+We don't use linux at work but I got it at home,
+though I need a bootmanager to choose between linux and xp.
+don't have much time at the moment, cause I 
+go between Frankfurt and Marburg everyday, but this
+will change soon hopefully.
+
+I really hope this list gets lively
+ciao chix
+
+nina
+
+
+--------------------
+
+www.ninyafour6.com
+
+------_=_NextPart_001_01C1C5B8.01A61340
+Content-Type: text/html;
+	charset="iso-8859-1"
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<META NAME="Generator" CONTENT="MS Exchange Server version 5.5.2653.12">
+<TITLE>Re: Who are you?</TITLE>
+</HEAD>
+<BODY>
+
+<P><FONT SIZE=2>Hi Eva, kde-women,</FONT>
+</P>
+
+<P><FONT SIZE=2>&gt; The email address look really interesting... so what about doing a round of</FONT>
+<BR><FONT SIZE=2>&gt; introductions? Who are you? </FONT>
+</P>
+
+<P><FONT SIZE=2>Hola, I'm ninteen (well, almost twenty) year old girl</FONT>
+<BR><FONT SIZE=2>living near Marburg. Since August last year I'm </FONT>
+<BR><FONT SIZE=2>going to be Fachinformatikerin/Systemintegration.</FONT>
+<BR><FONT SIZE=2>over a half year has faded now and I feel I learned </FONT>
+<BR><FONT SIZE=2>a lot in this time.</FONT>
+<BR><FONT SIZE=2>In my class at school are 15 guys and 3 girls.</FONT>
+<BR><FONT SIZE=2>I learned a lot through mailinglists and I found</FONT>
+<BR><FONT SIZE=2>this list because I had to do a research on linux..</FONT>
+<BR><FONT SIZE=2>even write some small c++ programms with kdevelop..</FONT>
+<BR><FONT SIZE=2>We don't use linux at work but I got it at home,</FONT>
+<BR><FONT SIZE=2>though I need a bootmanager to choose between linux and xp.</FONT>
+<BR><FONT SIZE=2>don't have much time at the moment, cause I </FONT>
+<BR><FONT SIZE=2>go between Frankfurt and Marburg everyday, but this</FONT>
+<BR><FONT SIZE=2>will change soon hopefully.</FONT>
+</P>
+
+<P><FONT SIZE=2>I really hope this list gets lively</FONT>
+<BR><FONT SIZE=2>ciao chix</FONT>
+</P>
+
+<P><FONT SIZE=2>nina</FONT>
+</P>
+<BR>
+
+<P><FONT SIZE=2>--------------------</FONT>
+</P>
+
+<P><FONT SIZE=2>www.ninyafour6.com</FONT>
+</P>
+
+</BODY>
+</HTML>
+------_=_NextPart_001_01C1C5B8.01A61340--
+
+------=_NextPartTM-000-ec6ce06b-2cea-11d6-a732-008048fbdfae--
+
+
+From kde-women@mail.kde.org  Thu Mar  7 10:14:40 2002
+From: kde-women@mail.kde.org (Patricia Jung)
+Date: Thu, 7 Mar 2002 11:14:40 +0100
+Subject: [Kde-women]Who are you?
+In-Reply-To: <02030700305801.00950@amy>; from amelie.zapf@louey-amy.de on Thu, Mar 07, 2002 at 12:30:58AM +0100
+References: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de> <02030700305801.00950@amy>
+Message-ID: <20020307111440.B31387@bra.gulbrandsen.priv.no>
+
+On Thu, Mar 07, 2002 at 12:30:58AM +0100, Amelie Zapf wrote:
+ 
+> A 27-year-old jazz pianist / studied physical chemist / turned Perl hacker 
+/me shakes hand with another studied physical chemist and female pipe smoker :)
+I'm Patricia (trish) from Munich, Germany, and I earn my living being an
+editor with LinuxUser and Linux-Magazin, German monthlies dealing with 
+Linux exclusively. Though this is very much of a dream job (no Windows!), 
+it is extremely time consuming and frequently kills all my efforts to keep 
+a tiny programming project (using Qt) alive.
+
+I have however another project going: lists.answergirl.de is a mailing list
+server running Ecartis (one of the few open source projects initiated and
+mainly run by a woman) that hosts a few technical and women only mailing 
+lists. The most prominent ones are lynn, a German (and quite lively) 
+mailing list for female Linuxers and Unixers, and ada, a female programmers'
+list, as well German. Feel free to join us if you're interested in German 
+techtalk among women and still have enough bandwidth for yet another 
+mailing list :).  (BTW: Whoever set the link in 
+http://women.kde.org/projects/div/sisterpages.html -- thanks a lot :) 
+
+KDEwise I'm not so much more than a user, if it was not for professional reasons,
+I'd be happy with a couple of xterms ;) And I still have this vision of
+a women only software project... 
+
+
+Best
+
+	Patricia
+
+From kde-women@mail.kde.org  Thu Mar  7 12:39:37 2002
+From: kde-women@mail.kde.org (Lauri Watts)
+Date: Thu, 7 Mar 2002 13:39:37 +0100
+Subject: [Kde-women]Who am I?
+Message-ID: <200203071339.37557.lauri@kde.org>
+
+Hi :)
+
+I think the last thing I wrote on here was my last introduction.  I reall=
+y=20
+wish I had more time to help create a more active community, but it's sti=
+ll=20
+nice to see traffic on the list :)
+
+Here's what I am not: I'm not a programmer, I'm not a Linux User, I'm not=
+ a=20
+physicist, and I don't smoke a pipe (well, I may have once, but I didn't=20
+inhale, I swear)
+
+I'm 29, I'm from New Zealand, and live now in Sweden, I have three childr=
+en=20
+ranging from 11 to 3, and I'm a graphic designer by day.  My employment=20
+history in IT is mostly in hardware - I used to be one of those nice peop=
+le=20
+you call up from IBM to come and fix your monitor.  Or your printer, or y=
+our=20
+ATM machine out on the street.. if it can be intimidated into working wit=
+h a=20
+screwdriver or a solder kit, or for recalcitrant cases, both, I can proba=
+bly=20
+fix it.    =20
+
+I have absolutely no skill at programming, I once wrote a shell script th=
+at=20
+nearly does what I want, most of the time.  I'm not much interested in be=
+ing=20
+an admin although I can manage it if I have to.  My Unix background cover=
+s=20
+various incarnations of several commercial UNIXes, from AIX to Solaris wi=
+th a=20
+smallish helping of HP-UX, but only as an end-user.  Linux and I just=20
+entirely don't get along, I've several times tried and it's *just too har=
+d*=20
+heh.  I use FreeBSD instead, have done for 6 or 7 years now at home.
+
+What do I do for KDE?  Well, I'm KDE's Documentation Coordinator, which s=
+ounds=20
+impressive but mostly consists of a nearly unmanageable email load,=20
+handholding new writers as they take the steps from tentative approach to=
+=20
+being productive, sometimes translating extended tantrums from the=20
+translators into polite requests to the development teams, and desperatel=
+y=20
+trying to get some documentation written in the small down time I have.  =
+This=20
+position has enabled me to develop advanced skills in Nagging, which shou=
+ld=20
+be made a sport, because I would earn medals, and it's also earned me the=
+=20
+nickname "the Documinatrix" in certain quarters, which I must admit, I th=
+ink=20
+is pretty cute.
+
+My other task for KDE is more peripheral, I'm one of the FreeBSD packager=
+s,=20
+which can be interesting at times.
+
+My goals for KDE? I want KDE to have documentation as excellent as the Fr=
+eeBSD=20
+handbook, which is good enough the online version is regularly printed=20
+directly as a dead-tree book by O'Reilly.  KDE is not there yet, and some=
+=20
+days I feel like we're slipping further back, but that's the goal. =20
+
+My other goal is to make sure KDE stays a cross platform/cross OS desktop=
+=2E  It=20
+should be sold as an enormous advantage to corporate environments with a =
+lot=20
+of legacy Unix hardware and operating systems, that they could put a=20
+homogenous desktop environment on them all, which has to be good for inte=
+rnal=20
+IT to support.
+
+And finally, I need to learn to not write epic novels when I'm starting o=
+ut to=20
+write an email!
+
+Regards,
+--=20
+Lauri Watts
+
+
+
+
+From kde-women@mail.kde.org  Thu Mar  7 15:37:42 2002
+From: kde-women@mail.kde.org (Patricia Jung)
+Date: Thu, 7 Mar 2002 16:37:42 +0100
+Subject: OT: Re: [Kde-women]Who am I?
+In-Reply-To: <200203071339.37557.lauri@kde.org>; from lauri@kde.org on Thu, Mar 07, 2002 at 01:39:37PM +0100
+References: <200203071339.37557.lauri@kde.org>
+Message-ID: <20020307163742.A31783@bra.gulbrandsen.priv.no>
+
+On Thu, Mar 07, 2002 at 01:39:37PM +0100, Lauri Watts wrote:
+> physicist, and I don't smoke a pipe (well, I may have once, but I didn't 
+> inhale, I swear)
+<offtopic>
+Well you don't inhale the pipe smoke anyway :) 
+Guess you're talking about the wrong type
+of pipes ;)
+</offtopic>
+
+SCNR
+
+	Patricia
+
+From kde-women@mail.kde.org  Thu Mar  7 16:04:08 2002
+From: kde-women@mail.kde.org (Laura Bowser)
+Date: Thu, 7 Mar 2002 11:04:08 -0500
+Subject: [Kde-women]Who are you?
+In-Reply-To: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+References: <200203011459.g21ExuS10755@glia.rt.e-technik.tu-darmstadt.de>
+Message-ID: <200203071104.10325.lbowser@andrew.cmu.edu>
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Howdy!
+
+   I'm Laura Bowser, and I'm originally from Texas, but I'm getting my Ma=
+sters=20
+in Information Networking at Carnegie Mellon in Pittsburgh.=20
+
+I've been using Linux since 96, and KDE since 1.0  and I love both.  I us=
+e=20
+both almost exclusively.  There are a few things I need windows for (Turb=
+oTax=20
+and games), but I do all my work in Linux.   I've been using KDE3-beta2 s=
+ince=20
+the day it came out and beta1 and alpha1 before that.
+My favorite word processor is LaTeX, which is very nice and lightweight b=
+ut=20
+has a steep learning curve.=20
+
+One thing I think KDE needs is to have 3-final released soon, it's soo mu=
+ch=20
+nicer than 2.2.2, but some people (my fiancee) won't use a "beta quality"=
+=20
+product.
+
+I live with my fiancee and two cats and 8 computers.
+
+Laura
+
+
+- --=20
+Public Key available at=20
+http://callista.dyndns.org/~elwing/lbowser.gpg
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.6 (GNU/Linux)
+Comment: For info see http://www.gnupg.org
+
+iD8DBQE8h494DxAypHN+smoRApNiAKCa4kbMAcw/KOxA4dS8NBhVYL85IACgkRWI
+9avd8y6sAcpVyQELq+OYLJc=3D
+=3DaGm3
+-----END PGP SIGNATURE-----
+
+
+From kde-women@mail.kde.org  Thu Mar  7 16:24:05 2002
+From: kde-women@mail.kde.org (Lauri Watts)
+Date: Thu, 7 Mar 2002 17:24:05 +0100
+Subject: OT: Re: [Kde-women]Who am I?
+In-Reply-To: <20020307163742.A31783@bra.gulbrandsen.priv.no>
+References: <200203071339.37557.lauri@kde.org> <20020307163742.A31783@bra.gulbrandsen.priv.no>
+Message-ID: <200203071724.05513.lauri@physos.org>
+
+On Thursday 07 March 2002 16.37, Patricia Jung wrote:
+> On Thu, Mar 07, 2002 at 01:39:37PM +0100, Lauri Watts wrote:
+> > physicist, and I don't smoke a pipe (well, I may have once, but I did=
+n't
+> > inhale, I swear)
+>
+> <offtopic>
+> Well you don't inhale the pipe smoke anyway :)
+> Guess you're talking about the wrong type
+> of pipes ;)
+> </offtopic>
+
+<still-offtopic>
+Well, just proves how little I know about pipe smoking doesn't it :)
+</>
+
+Gee, I wonder if this is the address I'm subscribed with, so I don't have=
+ to=20
+bug Eva with moderating me :)
+
+I think I forgot to put in my brain when I got up this morning.
+--=20
+Lauri
+
+From kde-women@mail.kde.org  Thu Mar  7 16:32:03 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Thu, 7 Mar 2002 17:32:03 +0100
+Subject: OT: Re: [Kde-women]Who am I?
+In-Reply-To: <200203071724.05513.lauri@physos.org>
+References: <200203071339.37557.lauri@kde.org> <20020307163742.A31783@bra.gulbrandsen.priv.no> <200203071724.05513.lauri@physos.org>
+Message-ID: <200203071633.g27GXOS19113@glia.rt.e-technik.tu-darmstadt.de>
+
+On Thursday 07 March 2002 17:24, Lauri Watts wrote:
+> On Thursday 07 March 2002 16.37, Patricia Jung wrote:
+> > On Thu, Mar 07, 2002 at 01:39:37PM +0100, Lauri Watts wrote:
+> > > physicist, and I don't smoke a pipe (well, I may have once, but I
+> > > didn't inhale, I swear)
+> >
+> > <offtopic>
+> > Well you don't inhale the pipe smoke anyway :)
+> > Guess you're talking about the wrong type
+> > of pipes ;)
+> > </offtopic>
+>
+> <still-offtopic>
+> Well, just proves how little I know about pipe smoking doesn't it :)
+> </>
+>
+> Gee, I wonder if this is the address I'm subscribed with, so I don't have
+> to bug Eva with moderating me :)
+
+it is ;-) 
+Actually I prefer moderating people instead of a dead list :-)
+
+In case you don't want to remember the right email, you can also subscribe 
+with several email addresses and set the "no mail" option. (That is what I 
+do, since I forget the right emails too...)
+
+>
+> I think I forgot to put in my brain when I got up this morning.
+
+From kde-women@mail.kde.org  Thu Mar  7 17:16:06 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Thu, 7 Mar 2002 18:16:06 +0100
+Subject: [Kde-women]Who am I?
+In-Reply-To: <200203071339.37557.lauri@kde.org>
+References: <200203071339.37557.lauri@kde.org>
+Message-ID: <200203071717.g27HHSS19214@glia.rt.e-technik.tu-darmstadt.de>
+
+After reading all your interesting stories, I guess it's also my turn. So for 
+all of you who didn't read my last introduction, here is a new one:
+
+Well, I am german and also leave in Germany - in Darmstadt, that's close to 
+Frankfurt. I'm 29 and at the moment I am a PhD student at the Technical 
+University in Darmstadt. Before that I studied electrical engineering and 
+there I first met Linux and KDE :-)
+
+In the meanwhile I have a boyfriend who is as computer addictive as I am and 
+we only have linux at home. We both spend a lot of our free time with KDE, 
+but each of us found an own corner of activity. 
+My stuff is mostly the event organisation, like Linuxtag and CeBIT, but also 
+a lot of testing, writing bug reports, administrating several mailinglists 
+etc. The most recent project is a new KDE domain called events.kde.org, where 
+I'd like to have some kind of database to organize events, where people can 
+register for an event and other can see who's coming. So I am going to 
+struggle with mySQL... 
+
+During my job I do a lot of C++ coding and I am very much interested in 
+software engineering with design patterns, refactoring and XProgramming.
+
+The reason why I like linux and KDE so much is, that I can do things on my 
+own. I can always learn how to solve problems and if necessary I can change 
+the system by changing the code. That doesn't mean, that I 'm necessarily 
+doing it, but I appreciate the freedom very much. 
+So why KDE-women? It's great to know, that I am not the only (weird) one :-))
+
+And the rest of my life... well, I don't exactly smoke, but I appreciate a 
+good single malt very much. Also I love italian pasta and like to experiment 
+on the weekends :)  Another hobby is motorbiking and reading good books (e.g. 
+by Marianne Fredrikson, an excellent swedish author).
+
+Ciao,
+eva
+
+-- 
+Dijkstra:
+"Testing can prove the presence of bugs, but not their absence."
+
+From kde-women@mail.kde.org  Mon Mar 11 20:59:02 2002
+From: kde-women@mail.kde.org (Tink)
+Date: Mon, 11 Mar 2002 13:59:02 -0700
+Subject: [Kde-women]KDE-cafe
+Message-ID: <p05100302b8b2c8231e70@[192.168.0.3]>
+
+With great proudness we present to you: "KDE-cafe"
+
+KDE-cafe is the virtual chill-out zone of KDE, a cross between 
+slashdot and irc, a cross between the local pub and the opinions page 
+of your newspaper. Specially designed for KDE addicts like you.
+
+You know those endless discussions abouts Tabs vs. Spaces? Which 
+editor works best? Why STL is evil? Whether Microsoft should be 
+broken up in 10.000 pieces or Bill Gates should become president of 
+the U.N.? Those discussions will finally have found a place of their 
+own on KDE's latest mailinglist: KDE-cafe. There is one rule: don't 
+hit each other with the chairs, play it fair.
+
+Of course KDE-cafe is also a great place for sharing your latest 
+vacation pictures with your KDE friends or posting interesting links 
+to stories about KDE, life or the universe.
+
+Behind the tap of KDE-cafe you will find nobody less than our own 
+Tink, famous for "The People Behind KDE" series.
+
+We hope to see you soon on KDE-cafe@kde.org
+
+To subscribe mail to kde-cafe-request@kde.org with in the subject: subscribe
+
+--
+Tink
+
+From kde-women@mail.kde.org  Mon Mar 18 21:41:43 2002
+From: kde-women@mail.kde.org (Tink)
+Date: Mon, 18 Mar 2002 14:41:43 -0700
+Subject: [Kde-women]KDE-cafe subscriberslist
+Message-ID: <p05100306b8bc0b075a92@[192.168.0.3]>
+
+Hi,
+
+Last week I announced the new KDE mailing list KDE-cafe, the virtual 
+chill-out zone of KDE, a cross between slashdot and irc, a cross 
+between the local pub and the opinions page of your newspaper.
+
+As you probably all know there was a server crash. A back-up copy of 
+the subscribers list was restored, which means we lost more than half 
+of our new subscribers. If you subscribed early last week to kde-cafe 
+and haven't seen any mail the last few days chances are that your 
+subscription got lost. Visit 
+http://mail.kde.org/mailman/roster/kde-cafe  to see if you're still 
+listed or please subscribe again at 
+http://mail.kde.org/mailman/listinfo/kde-cafe
+
+--
+Tink
+

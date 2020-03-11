@@ -1,0 +1,1938 @@
+From Amy.Marrich at rackspace.com  Thu Jul  7 14:29:19 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Thu, 7 Jul 2016 14:29:19 +0000
+Subject: [Women-of-openstack] Interesting Idea from Chef Conf
+Message-ID: <D3A3D1B6.1E24B%amy.marrich@rackspace.com>
+
+Just go an email for Chef Conf next week in Austin and one section caught my eye, dinner with a stranger. Not sure how practical doing something like this is for Barcelona but maybe in Boston?
+
+https://www.eventbrite.com/e/dinner-with-strangers-chefconf-2016-tickets-26214370889
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160707/a5737bd0/attachment.html>
+
+From carol.l.barrett at intel.com  Thu Jul  7 14:34:42 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Thu, 7 Jul 2016 14:34:42 +0000
+Subject: [Women-of-openstack] Interesting Idea from Chef Conf
+In-Reply-To: <D3A3D1B6.1E24B%amy.marrich@rackspace.com>
+References: <D3A3D1B6.1E24B%amy.marrich@rackspace.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D60122E23@ORSMSX113.amr.corp.intel.com>
+
+Interesting idea - would be great to checkin with someone who attends one of the dinners and hear what they think.
+
+Thanks for passing along.
+Carol
+
+From: Amy Marrich [mailto:Amy.Marrich at rackspace.com]
+Sent: Thursday, July 07, 2016 7:29 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Interesting Idea from Chef Conf
+
+Just go an email for Chef Conf next week in Austin and one section caught my eye, dinner with a stranger. Not sure how practical doing something like this is for Barcelona but maybe in Boston?
+
+https://www.eventbrite.com/e/dinner-with-strangers-chefconf-2016-tickets-26214370889
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160707/3b7dc342/attachment.html>
+
+From Amy.Marrich at rackspace.com  Thu Jul  7 14:53:34 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Thu, 7 Jul 2016 14:53:34 +0000
+Subject: [Women-of-openstack] Interesting Idea from Chef Conf
+In-Reply-To: <2D352D0CD819F64F9715B1B89695400D60122E23@ORSMSX113.amr.corp.intel.com>
+References: <D3A3D1B6.1E24B%amy.marrich@rackspace.com>
+ <2D352D0CD819F64F9715B1B89695400D60122E23@ORSMSX113.amr.corp.intel.com>
+Message-ID: <D3A3D6BC.1E252%amy.marrich@rackspace.com>
+
+Carol,
+
+I'm commuting back and forth each day but I'll try to keep an ear out for chatter. I don't think it's far off from when people asked on group me but a bit more organized.:) Definitely a great way to network or just have company if you're in a new place and may not have any friends/co-workers.
+
+Amy
+
+From: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Thursday, July 7, 2016 at 9:34 AM
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: RE: Interesting Idea from Chef Conf
+
+Interesting idea - would be great to checkin with someone who attends one of the dinners and hear what they think.
+
+Thanks for passing along.
+Carol
+
+From: Amy Marrich [mailto:Amy.Marrich at rackspace.com]
+Sent: Thursday, July 07, 2016 7:29 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Interesting Idea from Chef Conf
+
+Just go an email for Chef Conf next week in Austin and one section caught my eye, dinner with a stranger. Not sure how practical doing something like this is for Barcelona but maybe in Boston?
+
+https://www.eventbrite.com/e/dinner-with-strangers-chefconf-2016-tickets-26214370889
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160707/ff7893a4/attachment.html>
+
+From dthakkar at cisco.com  Thu Jul  7 15:52:24 2016
+From: dthakkar at cisco.com (Dipa Thakkar (dthakkar))
+Date: Thu, 7 Jul 2016 15:52:24 +0000
+Subject: [Women-of-openstack] Interesting Idea from Chef Conf
+Message-ID: <D3A3F1AF.249B28%dthakkar@cisco.com>
+
+I attended one of these when I attended the chef conference a few years ago in San Francisco,  then the focus was to bring the women developing chef together,  it was fun to meet and network, there was no set agenda we just introduced ourselves and just enjoyed dinner and hung out.
+
+As always you need some outgoing people to be inclusive and get the conversations going :-).
+
+I would love to hear how things have evolved since then.
+
+Dipa
+
+
+From: Amy Marrich <Amy.Marrich at rackspace.com<mailto:Amy.Marrich at rackspace.com>>
+Date: Thursday, July 7, 2016 at 10:53 AM
+To: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Interesting Idea from Chef Conf
+
+Carol,
+
+I'm commuting back and forth each day but I'll try to keep an ear out for chatter. I don't think it's far off from when people asked on group me but a bit more organized.:) Definitely a great way to network or just have company if you're in a new place and may not have any friends/co-workers.
+
+Amy
+
+From: "Barrett, Carol L" <carol.l.barrett at intel.com<mailto:carol.l.barrett at intel.com>>
+Date: Thursday, July 7, 2016 at 9:34 AM
+To: Amy Marrich <amy.marrich at rackspace.com<mailto:amy.marrich at rackspace.com>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: RE: Interesting Idea from Chef Conf
+
+Interesting idea - would be great to checkin with someone who attends one of the dinners and hear what they think.
+
+Thanks for passing along.
+Carol
+
+From: Amy Marrich [mailto:Amy.Marrich at rackspace.com]
+Sent: Thursday, July 07, 2016 7:29 AM
+To: women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>
+Subject: [Women-of-openstack] Interesting Idea from Chef Conf
+
+Just go an email for Chef Conf next week in Austin and one section caught my eye, dinner with a stranger. Not sure how practical doing something like this is for Barcelona but maybe in Boston?
+
+https://www.eventbrite.com/e/dinner-with-strangers-chefconf-2016-tickets-26214370889
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160707/0b54d15d/attachment-0001.html>
+
+From beth.cohen at verizon.com  Sun Jul 10 21:30:00 2016
+From: beth.cohen at verizon.com (Cohen, Beth F (Beth))
+Date: Sun, 10 Jul 2016 17:30:00 -0400
+Subject: [Women-of-openstack] Update on WOO Presentation ideas
+Message-ID: <24310489C27ED447A664542AA6E308A917F6FDB33C@FHDP1LUMXC7V33.us.one.verizon.com>
+
+Folks -
+I took a number of ideas from the Etherpad and put together a presentation on a combination of how to bring a culture of innovation and diversity to an organization.
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com
+
+????Folks -
+
+Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.  
+I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them. Don't forget that presentation submissions close Mid July so we want to get going!
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+--
+
+
+From Nithya.Ruff at sandisk.com  Sun Jul 10 23:08:22 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Sun, 10 Jul 2016 23:08:22 +0000
+Subject: [Women-of-openstack] Update on WOO Presentation ideas
+In-Reply-To: <24310489C27ED447A664542AA6E308A917F6FDB33C@FHDP1LUMXC7V33.us.one.verizon.com>
+References: <24310489C27ED447A664542AA6E308A917F6FDB33C@FHDP1LUMXC7V33.us.one.verizon.com>
+Message-ID: <0A754E25-F7BA-44B8-A162-47C042A6CEB9@sandisk.com>
+
+Beth
+
+Plan to add one more tomorrow.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+> On Jul 10, 2016, at 2:32 PM, Cohen, Beth F (Beth) <beth.cohen at verizon.com> wrote:
+>
+> Folks -
+> I took a number of ideas from the Etherpad and put together a presentation on a combination of how to bring a culture of innovation and diversity to an organization.
+>
+> https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+>
+>
+>
+> Beth Cohen
+> NFV/SDN Network Product Strategy
+>
+> O +781-466-2055 | M +781-434-8553
+> beth.cohen at verizon.com
+>
+>     Folks -
+>
+> Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.
+> I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them. Don't forget that presentation submissions close Mid July so we want to get going!
+>
+> https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+>
+> --
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+
+
+From ifat.afek at nokia.com  Mon Jul 11 15:33:23 2016
+From: ifat.afek at nokia.com (Afek, Ifat (Nokia - IL))
+Date: Mon, 11 Jul 2016 15:33:23 +0000
+Subject: [Women-of-openstack]  Hello
+In-Reply-To: <0A754E25-F7BA-44B8-A162-47C042A6CEB9@sandisk.com>
+References: <24310489C27ED447A664542AA6E308A917F6FDB33C@FHDP1LUMXC7V33.us.one.verizon.com>
+ <0A754E25-F7BA-44B8-A162-47C042A6CEB9@sandisk.com>
+Message-ID: <9841DBD2892A114981DE0B773C01AF30017F273921@FR711WXCHMBA01.zeu.alcatel-lucent.com>
+
+Hi,
+
+Let me introduce myself. My name is Ifat Afek, and I'm a system architect in Nokia and the PTL of Vitrage RCA Service - a new and official OpenStack project. Oh, and I am a woman :-)
+
+I heard that you are thinking of ways to encourage women participation in OpenStack, and I will be happy to help in this effort. I understood that you are planning several panels for Barcelona. I'd love to take part in one of them but I can't commit to that at the moment, as I already plan to submit three Vitrage sessions (which is the limit per speaker). If there is another way to help I will be happy to do it. 
+
+Looking forward to meeting you in Barcelona,
+Ifat.
+
+
+
+
+From erin at openstack.org  Mon Jul 11 15:56:13 2016
+From: erin at openstack.org (Erin Disney)
+Date: Mon, 11 Jul 2016 10:56:13 -0500
+Subject: [Women-of-openstack] Update on WOO Presentation ideas
+In-Reply-To: <0A754E25-F7BA-44B8-A162-47C042A6CEB9@sandisk.com>
+References: <24310489C27ED447A664542AA6E308A917F6FDB33C@FHDP1LUMXC7V33.us.one.verizon.com>
+ <0A754E25-F7BA-44B8-A162-47C042A6CEB9@sandisk.com>
+Message-ID: <0D0E07EB-ABC9-4492-88E4-35BBD54C15B1@openstack.org>
+
+Thanks ladies! Just want to flag that submissions are due EOD this Wednesday (7/13). Can?t believe it is mid-July already :) 
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+> On Jul 10, 2016, at 6:08 PM, Nithya Ruff <Nithya.Ruff at sandisk.com> wrote:
+> 
+> Beth
+> 
+> Plan to add one more tomorrow.
+> 
+> Thank You,
+> Nithya
+> 
+> Sent from my IPhone
+> 
+>> On Jul 10, 2016, at 2:32 PM, Cohen, Beth F (Beth) <beth.cohen at verizon.com> wrote:
+>> 
+>> Folks -
+>> I took a number of ideas from the Etherpad and put together a presentation on a combination of how to bring a culture of innovation and diversity to an organization.
+>> 
+>> https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+>> 
+>> 
+>> 
+>> Beth Cohen
+>> NFV/SDN Network Product Strategy
+>> 
+>> O +781-466-2055 | M +781-434-8553
+>> beth.cohen at verizon.com
+>> 
+>>    Folks -
+>> 
+>> Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.
+>> I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them. Don't forget that presentation submissions close Mid July so we want to get going!
+>> 
+>> https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+>> 
+>> --
+>> 
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+> 
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160711/e61535b1/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Mon Jul 11 15:57:53 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Mon, 11 Jul 2016 15:57:53 +0000
+Subject: [Women-of-openstack] Update on WOO Presentation ideas
+In-Reply-To: <0D0E07EB-ABC9-4492-88E4-35BBD54C15B1@openstack.org>
+References: <24310489C27ED447A664542AA6E308A917F6FDB33C@FHDP1LUMXC7V33.us.one.verizon.com>
+ <0A754E25-F7BA-44B8-A162-47C042A6CEB9@sandisk.com>,
+ <0D0E07EB-ABC9-4492-88E4-35BBD54C15B1@openstack.org>
+Message-ID: <3CD06B62-B806-4C5A-9FDE-089C8379138F@sandisk.com>
+
+Deadline looming ahead.  Beth, I can work with you offline to submit the panels. Want to continue the male allies work.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+On Jul 11, 2016, at 8:56 AM, Erin Disney <erin at openstack.org<mailto:erin at openstack.org>> wrote:
+
+Thanks ladies! Just want to flag that submissions are due EOD this Wednesday (7/13). Can't believe it is mid-July already :)
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org<mailto:erin at openstack.org>
+
+On Jul 10, 2016, at 6:08 PM, Nithya Ruff <Nithya.Ruff at sandisk.com<mailto:Nithya.Ruff at sandisk.com>> wrote:
+
+Beth
+
+Plan to add one more tomorrow.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+On Jul 10, 2016, at 2:32 PM, Cohen, Beth F (Beth) <beth.cohen at verizon.com<mailto:beth.cohen at verizon.com>> wrote:
+
+Folks -
+I took a number of ideas from the Etherpad and put together a presentation on a combination of how to bring a culture of innovation and diversity to an organization.
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com<mailto:beth.cohen at verizon.com>
+
+   Folks -
+
+Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.
+I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them. Don't forget that presentation submissions close Mid July so we want to get going!
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+--
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160711/eaf29545/attachment.html>
+
+From beth.cohen at verizon.com  Mon Jul 11 16:06:22 2016
+From: beth.cohen at verizon.com (Cohen, Beth F (Beth))
+Date: Mon, 11 Jul 2016 12:06:22 -0400
+Subject: [Women-of-openstack] [Women-of-OpenStack] Update on WOO
+	Presentation ideas
+Message-ID: <24310489C27ED447A664542AA6E308A917F6FDB54B@FHDP1LUMXC7V33.us.one.verizon.com>
+
+Hi Nithya -
+I have one posted already.  We can add more.  I like the Male allies work.  You around so we can talk directly?
+
+
+
+[cid:image001.png at 01D1DB6C.A23C8080]<http://www.verizon.com/>
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com<mailto:beth.cohen at verizon.com>
+
+<http://www.facebook.com/verizon>  [cid:image003.png at 01D1DB6C.A23C8080] <http://twitter.com/verizon>   [cid:image004.png at 01D1DB6C.A23C8080] <http://www.instagram.com/verizon>
+
+
+From: Nithya Ruff [mailto:Nithya.Ruff at sandisk.com]
+Sent: Monday, July 11, 2016 11:58 AM
+To: Erin Disney
+Cc: Cohen, Beth F (Beth); women-of-openstack at lists.openstack.org
+Subject: [E] Re: [Women-of-openstack] Update on WOO Presentation ideas
+
+Deadline looming ahead.  Beth, I can work with you offline to submit the panels. Want to continue the male allies work.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+On Jul 11, 2016, at 8:56 AM, Erin Disney <erin at openstack.org<mailto:erin at openstack.org>> wrote:
+Thanks ladies! Just want to flag that submissions are due EOD this Wednesday (7/13). Can't believe it is mid-July already :)
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org<mailto:erin at openstack.org>
+
+On Jul 10, 2016, at 6:08 PM, Nithya Ruff <Nithya.Ruff at sandisk.com<mailto:Nithya.Ruff at sandisk.com>> wrote:
+
+Beth
+
+Plan to add one more tomorrow.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+
+On Jul 10, 2016, at 2:32 PM, Cohen, Beth F (Beth) <beth.cohen at verizon.com<mailto:beth.cohen at verizon.com>> wrote:
+
+Folks -
+I took a number of ideas from the Etherpad and put together a presentation on a combination of how to bring a culture of innovation and diversity to an organization.
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com<mailto:beth.cohen at verizon.com>
+
+   Folks -
+
+Rather than being catch as catch can about the WOO sponsored presentations -- besides I need to get some more input for the topics.
+I have created an Ether Pad for us to share ideas.  I would like to identify 2 or so panel topics and people who will volunteer to be on them. Don't forget that presentation submissions close Mid July so we want to get going!
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+--
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org<mailto:Women-of-openstack at lists.openstack.org>
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160711/2589c3a2/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 1378 bytes
+Desc: image001.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160711/2589c3a2/attachment-0004.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image002.png
+Type: image/png
+Size: 306 bytes
+Desc: image002.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160711/2589c3a2/attachment-0005.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image003.png
+Type: image/png
+Size: 446 bytes
+Desc: image003.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160711/2589c3a2/attachment-0006.png>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image004.png
+Type: image/png
+Size: 457 bytes
+Desc: image004.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160711/2589c3a2/attachment-0007.png>
+
+From ash at wildernessvoice.com  Mon Jul 11 16:45:47 2016
+From: ash at wildernessvoice.com (Ash)
+Date: Mon, 11 Jul 2016 06:45:47 -1000
+Subject: [Women-of-openstack] Update on WOO Presentation ideas
+In-Reply-To: <0A754E25-F7BA-44B8-A162-47C042A6CEB9@sandisk.com>
+References: <24310489C27ED447A664542AA6E308A917F6FDB33C@FHDP1LUMXC7V33.us.one.verizon.com>
+ <0A754E25-F7BA-44B8-A162-47C042A6CEB9@sandisk.com>
+Message-ID: <CAA14+9_C13XUmv-H1-w273_fJBACDLKGQFigR+a+aOtwx80LWg@mail.gmail.com>
+
+Hi Beth,
+
+I provided some feedback on the Etherpad and added one more suggestion. I'm
+not sure if it's too late, but finally took some time away from snorkeling
+in Hawaii for this. Hope you don't mind.
+
+Best,
+
+Ash
+
+On Sun, Jul 10, 2016 at 1:08 PM, Nithya Ruff <Nithya.Ruff at sandisk.com>
+wrote:
+
+> Beth
+>
+> Plan to add one more tomorrow.
+>
+> Thank You,
+> Nithya
+>
+> Sent from my IPhone
+>
+> > On Jul 10, 2016, at 2:32 PM, Cohen, Beth F (Beth) <
+> beth.cohen at verizon.com> wrote:
+> >
+> > Folks -
+> > I took a number of ideas from the Etherpad and put together a
+> presentation on a combination of how to bring a culture of innovation and
+> diversity to an organization.
+> >
+> > https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+> >
+> >
+> >
+> > Beth Cohen
+> > NFV/SDN Network Product Strategy
+> >
+> > O +781-466-2055 | M +781-434-8553
+> > beth.cohen at verizon.com
+> >
+> >     Folks -
+> >
+> > Rather than being catch as catch can about the WOO sponsored
+> presentations -- besides I need to get some more input for the topics.
+> > I have created an Ether Pad for us to share ideas.  I would like to
+> identify 2 or so panel topics and people who will volunteer to be on them.
+> Don't forget that presentation submissions close Mid July so we want to get
+> going!
+> >
+> > https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+> >
+> > --
+> >
+> > _______________________________________________
+> > Women-of-openstack mailing list
+> > Women-of-openstack at lists.openstack.org
+> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+> PLEASE NOTE: The information contained in this electronic mail message is
+> intended only for the use of the designated recipient(s) named above. If
+> the reader of this message is not the intended recipient, you are hereby
+> notified that you have received this message in error and that any review,
+> dissemination, distribution, or copying of this message is strictly
+> prohibited. If you have received this communication in error, please notify
+> the sender by telephone or e-mail (as shown above) immediately and destroy
+> any and all copies of this message in your possession (whether hard copies
+> or electronically stored copies).
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160711/6877338a/attachment.html>
+
+From beth.cohen at verizon.com  Tue Jul 12 12:06:44 2016
+From: beth.cohen at verizon.com (Cohen, Beth F (Beth))
+Date: Tue, 12 Jul 2016 08:06:44 -0400
+Subject: [Women-of-openstack] WOO Summit Session proposals
+Message-ID: <24310489C27ED447A664542AA6E308A917F8371DC4@FHDP1LUMXC7V33.us.one.verizon.com>
+
+Folks -
+I put in a proposal for a WOO panel based on the discussions and Nithya did as well.  If anyone else on the list wants to create a panel from the suggestions that were posted on the Etherpad discussion, I encourage you to do so.
+
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas 
+
+
+Beth Cohen
+NFV/SDN Network Product Strategy
+
+O +781-466-2055 | M +781-434-8553
+beth.cohen at verizon.com
+
+????
+
+
+-----Original Message-----
+From: women-of-openstack-request at lists.openstack.org [mailto:women-of-openstack-request at lists.openstack.org] 
+Sent: Tuesday, July 12, 2016 8:00 AM
+To: women-of-openstack at lists.openstack.org
+Subject: [E] Women-of-openstack Digest, Vol 21, Issue 4
+
+Send Women-of-openstack mailing list submissions to
+	women-of-openstack at lists.openstack.org
+
+To subscribe or unsubscribe via the World Wide Web, visit
+	http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+or, via email, send a message with subject or body 'help' to
+	women-of-openstack-request at lists.openstack.org
+
+You can reach the person managing the list at
+	women-of-openstack-owner at lists.openstack.org
+
+When replying, please edit your Subject line so it is more specific than "Re: Contents of Women-of-openstack digest..."
+
+
+Today's Topics:
+
+   1. Re: Update on WOO Presentation ideas (Ash)
+
+
+----------------------------------------------------------------------
+
+Message: 1
+Date: Mon, 11 Jul 2016 06:45:47 -1000
+From: Ash <ash at wildernessvoice.com>
+To: Nithya Ruff <Nithya.Ruff at sandisk.com>
+Cc: "Cohen, Beth F \(Beth\)" <beth.cohen at verizon.com>,
+	"women-of-openstack at lists.openstack.org"
+	<women-of-openstack at lists.openstack.org>
+Subject: Re: [Women-of-openstack] Update on WOO Presentation ideas
+Message-ID:
+	<CAA14+9_C13XUmv-H1-w273_fJBACDLKGQFigR+a+aOtwx80LWg at mail.gmail.com>
+Content-Type: text/plain; charset="utf-8"
+
+Hi Beth,
+
+I provided some feedback on the Etherpad and added one more suggestion. I'm not sure if it's too late, but finally took some time away from snorkeling in Hawaii for this. Hope you don't mind.
+
+Best,
+
+Ash
+
+On Sun, Jul 10, 2016 at 1:08 PM, Nithya Ruff <Nithya.Ruff at sandisk.com>
+wrote:
+
+> Beth
+>
+> Plan to add one more tomorrow.
+>
+> Thank You,
+> Nithya
+>
+> Sent from my IPhone
+>
+> > On Jul 10, 2016, at 2:32 PM, Cohen, Beth F (Beth) <
+> beth.cohen at verizon.com> wrote:
+> >
+> > Folks -
+> > I took a number of ideas from the Etherpad and put together a
+> presentation on a combination of how to bring a culture of innovation 
+> and diversity to an organization.
+> >
+> > https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+> >
+> >
+> >
+> > Beth Cohen
+> > NFV/SDN Network Product Strategy
+> >
+> > O +781-466-2055 | M +781-434-8553
+> > beth.cohen at verizon.com
+> >
+> >     Folks -
+> >
+> > Rather than being catch as catch can about the WOO sponsored
+> presentations -- besides I need to get some more input for the topics.
+> > I have created an Ether Pad for us to share ideas.  I would like to
+> identify 2 or so panel topics and people who will volunteer to be on them.
+> Don't forget that presentation submissions close Mid July so we want 
+> to get going!
+> >
+> > https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+> >
+> > --
+> >
+> > _______________________________________________
+> > Women-of-openstack mailing list
+> > Women-of-openstack at lists.openstack.org
+> > http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-opensta
+> > ck
+> PLEASE NOTE: The information contained in this electronic mail message 
+> is intended only for the use of the designated recipient(s) named 
+> above. If the reader of this message is not the intended recipient, 
+> you are hereby notified that you have received this message in error 
+> and that any review, dissemination, distribution, or copying of this 
+> message is strictly prohibited. If you have received this 
+> communication in error, please notify the sender by telephone or 
+> e-mail (as shown above) immediately and destroy any and all copies of 
+> this message in your possession (whether hard copies or electronically stored copies).
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160711/6877338a/attachment-0001.html>
+
+------------------------------
+
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+End of Women-of-openstack Digest, Vol 21, Issue 4
+*************************************************
+
+
+From jessicak at us.ibm.com  Thu Jul 14 03:50:11 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Wed, 13 Jul 2016 22:50:11 -0500
+Subject: [Women-of-openstack] Please review July 11 meeting etherpad - July
+	25 call for agenda topics
+Message-ID: <OFD079209F.33A4882E-ON00257FF0.0013FBBB-88257FF0.00151343@notes.na.collabserv.com>
+
+
+
+Thanks to everyone who contributed and submitted WOO session proposals for
+Barcelona. You can see the working drafts from the
+Barcelona Etherpad:
+https://etherpad.openstack.org/p/WOS_Bacelona_Sessions_Ideas
+
+If you not able to join our WOO meeting this week, please review the
+discussion from the meeting etherpad:
+https://etherpad.openstack.org/p/WOS_7_11_16
+
+Our next meeting is scheduled Monday, July 25, 2016 @  2000 UTC?(1pm PT,
+3pm CT, and 4pm ET). Thank you, Amy Marrich for volunteering to lead our
+discussion.
+
+Dial In: 1-203-277-8157 or 866-619-0383? Participant: 7217256# Leader 4018#
+
+You can add your agenda items to the meeting etherpad:
+https://etherpad.openstack.org/p/WOS_7_25_16
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160713/b96d2f63/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Wed Jul 20 19:10:26 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Wed, 20 Jul 2016 19:10:26 +0000
+Subject: [Women-of-openstack] Quick poll - need your input
+Message-ID: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+
+I am doing an interview with the superuser magazine and want to make sure to represent the sentiments and issues we see as a group.  Could you answer these 2-3 questions for me. I will aggregate and represent the answer in my Q&A.   Thank you in advance for your input and perspectives.
+
+
+Q: What obstacles do you think women face when getting involved in the OpenStack community?
+
+
+Q: There are always a lot of debates in the OpenStack community - which one is the most important, now?
+
+
+Q. Why do you believe it is important for the OpenStack community to be diverse?
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, CTO Office
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160720/fd489cdb/attachment.html>
+
+From carol.l.barrett at intel.com  Wed Jul 20 20:37:56 2016
+From: carol.l.barrett at intel.com (Barrett, Carol L)
+Date: Wed, 20 Jul 2016 20:37:56 +0000
+Subject: [Women-of-openstack] Quick poll - need your input
+In-Reply-To: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+References: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+Message-ID: <2D352D0CD819F64F9715B1B89695400D6013F3B3@ORSMSX113.amr.corp.intel.com>
+
+Thanks Nithya - My thoughts below...
+
+From: Nithya Ruff [mailto:Nithya.Ruff at sandisk.com]
+Sent: Wednesday, July 20, 2016 12:10 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Quick poll - need your input
+
+I am doing an interview with the superuser magazine and want to make sure to represent the sentiments and issues we see as a group.  Could you answer these 2-3 questions for me. I will aggregate and represent the answer in my Q&A.   Thank you in advance for your input and perspectives.
+
+
+Q: What obstacles do you think women face when getting involved in the OpenStack community?
+[Barrett, Carol L] I think the challenges faced are the same for all newcomers, women are no exception.
+[Barrett, Carol L] I think the challenges fall into 3 categories:
+
+1)      Tools: Getting up and running on IRC, gerrit/github, etc. This include proxy configuration.
+
+2)      Community Culture: How to interact with the community, how to propose a patch, how to comment on a review, etc.
+
+3)      Building a Network: Both getting known and knowing others so that you can operate effectively within the Community.
+
+Q: There are always a lot of debates in the OpenStack community - which one is the most important, now?
+[Barrett, Carol L] I think the most important debate is the one not occurring - what is the next generation of OpenStack? Future Strategy and overall OpenStack planning.
+
+Q. Why do you believe it is important for the OpenStack community to be diverse?
+[Barrett, Carol L] People with different backgrounds think differently, see things differently and act differently. We can learn from each other and create better, more innovative solutions together!
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, CTO Office
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160720/469744e0/attachment.html>
+
+From bfcohen at luthcomputer.com  Wed Jul 20 23:11:38 2016
+From: bfcohen at luthcomputer.com (Beth Cohen)
+Date: Wed, 20 Jul 2016 19:11:38 -0400
+Subject: [Women-of-openstack] Quick poll - need your input
+In-Reply-To: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+References: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+Message-ID: <560d08e7-7221-da72-7250-719e3ddfbe83@luthcomputer.com>
+
+Notes below
+
+
+On 7/20/2016 3:10 PM, Nithya Ruff wrote:
+>
+> I am doing an interview with the superuser magazine and want to make 
+> sure to represent the sentiments and issues we see as a group.  Could 
+> you answer these 2-3 questions for me. I will aggregate and represent 
+> the answer in my Q&A.   Thank you in advance for your input and 
+> perspectives.
+>
+> Q: What obstacles do you think women face when getting involved in the 
+> OpenStack community?
+>
+  Geek culture is still not female friendly
+
+Access to resources and support in their companies
+>
+> Q: There are always a lot of debates in the OpenStack community - 
+> which one is the most important, now?
+>
+> Q. Why do you believe it is important for the OpenStack community to 
+> be diverse?
+>
+Diversity spawns creativity and innovation!
+>
+> Thank You,
+>
+> *Nithya A. Ruff*
+>
+> *Director, SanDisk Open Source Strategy, CTO Office *
+>
+> *WIN Board Member*
+>
+> *SanDisk *|a Western Digital brand**
+> 951 SanDisk Drive, Milpitas, CA 95035
+> T: + (408-801-7068)| M: + (510-378-3159)
+>
+> Nithya.Ruff at SanDisk.com <mailto:Nithya.Ruff at SanDisk.com> 
+> Twitter:@nithyaruff <https://twitter.com/nithyaruff>
+>
+> PLEASE NOTE: The information contained in this electronic mail message 
+> is intended only for the use of the designated recipient(s) named 
+> above. If the reader of this message is not the intended recipient, 
+> you are hereby notified that you have received this message in error 
+> and that any review, dissemination, distribution, or copying of this 
+> message is strictly prohibited. If you have received this 
+> communication in error, please notify the sender by telephone or 
+> e-mail (as shown above) immediately and destroy any and all copies of 
+> this message in your possession (whether hard copies or electronically 
+> stored copies).
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+-- 
+_____________________________________________________________________
+
+Beth Cohen	
+Luth Computer Specialists, Inc.
+www.luthcomputer.com
+15 Wellington Street
+Arlington, MA 02476
+
+bfcohen at luthcomputer.com
+Cell 617-721-7256
+781-646-4018
+Twitter: @bfcohen
+Skype: bfcohen100
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160720/fd55fc2a/attachment-0001.html>
+
+From nalee999 at gmail.com  Thu Jul 21 01:44:43 2016
+From: nalee999 at gmail.com (Nalee Jang)
+Date: Thu, 21 Jul 2016 10:44:43 +0900
+Subject: [Women-of-openstack] Quick poll - need your input
+In-Reply-To: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+References: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+Message-ID: <CADkXDhO+esQn8jS180VVargrvem3pgwxL87YFNU1a8mbiEFr2A@mail.gmail.com>
+
+I also commented below my opinion.
+My English skill is not good yet. If you don't understand my english,
+Please understood me.
+
+2016-07-21 4:10 GMT+09:00 Nithya Ruff <Nithya.Ruff at sandisk.com>:
+
+> I am doing an interview with the superuser magazine and want to make sure
+> to represent the sentiments and issues we see as a group.  Could you answer
+> these 2-3 questions for me. I will aggregate and represent the answer in my
+> Q&A.   Thank you in advance for your input and perspectives.
+>
+>
+>
+> Q: What obstacles do you think women face when getting involved in the
+> OpenStack community?
+>
+I think getting involved in the OpenStack community is mind. the behaviors
+is free. but most women are not interesting infrastructure like network,
+operating system, hypervisor, hardware and etc. and in married women case,
+they don't have free time for involving in the community. so I think these
+issues are obstacles.
+
+>
+>
+>
+>
+> Q: There are always a lot of debates in the OpenStack community - which
+> one is the most important, now?
+>
+ I think Future planning, strategy are important.
+
+>
+>
+>
+>
+> Q. Why do you believe it is important for the OpenStack community to be
+> diverse?
+>
+ It is different interested things each person. so we can involve
+interested part of OpenStack community.
+
+>
+>
+> Thank You,
+>
+> *Nithya A. Ruff*
+>
+> *Director, SanDisk Open Source Strategy, CTO Office *
+>
+> *WIN Board Member*
+>
+> *SanDisk *|a Western Digital brand
+> 951 SanDisk Drive, Milpitas, CA 95035
+> T: + (408-801-7068)| M: + (510-378-3159)
+>
+> Nithya.Ruff at SanDisk.com        Twitter: @nithyaruff
+> <https://twitter.com/nithyaruff>
+>
+>
+> PLEASE NOTE: The information contained in this electronic mail message is
+> intended only for the use of the designated recipient(s) named above. If
+> the reader of this message is not the intended recipient, you are hereby
+> notified that you have received this message in error and that any review,
+> dissemination, distribution, or copying of this message is strictly
+> prohibited. If you have received this communication in error, please notify
+> the sender by telephone or e-mail (as shown above) immediately and destroy
+> any and all copies of this message in your possession (whether hard copies
+> or electronically stored copies).
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+==================================================
+ - Community : *Openstack Korea Community*
+ - Name          : Nalee Jang (???)
+ - Company    : ASD Korea Cloudike System Engineer.
+ - Contact       : +82-10-3454-4260 / nalee999 at gmail.com
+ - Blog            : http://naleejang.tistory.com
+ - HomePage  : http://www.openstack.or.kr
+ - Facebook   : https://www.facebook.com/groups/openstack.kr/
+==================================================
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160721/9a5a3cf6/attachment.html>
+
+From petra_sargent at yahoo.com  Fri Jul 22 05:23:24 2016
+From: petra_sargent at yahoo.com (Petra W. Sargent)
+Date: Fri, 22 Jul 2016 05:23:24 +0000 (UTC)
+Subject: [Women-of-openstack] Quick Poll
+References: <1112423626.3836860.1469165004828.JavaMail.yahoo.ref@mail.yahoo.com>
+Message-ID: <1112423626.3836860.1469165004828.JavaMail.yahoo@mail.yahoo.com>
+
+
+
+Q: What obstacles do you think women face when getting involved in the OpenStack community?Obstacles:Women are not viewed as technically competentWomen viewed as imposters
+Q: There are always a lot of debates in the OpenStack community - which one is the most important, now?
+
+The Future of OpenStack
+Q. Why do you believe it is important for the OpenStack community to be diverse?Diverse enhances creativity and leads to better problem solving and discussion.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160722/86b0655c/attachment.html>
+
+From Amy.Marrich at rackspace.com  Fri Jul 22 18:26:55 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Fri, 22 Jul 2016 18:26:55 +0000
+Subject: [Women-of-openstack] Quick poll - need your input
+In-Reply-To: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+References: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+Message-ID: <D3B7CF6C.1EBA7%amy.marrich@rackspace.com>
+
+Answers below
+
+Amy
+
+From: Nithya Ruff <Nithya.Ruff at sandisk.com<mailto:Nithya.Ruff at sandisk.com>>
+Date: Wednesday, July 20, 2016 at 2:10 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Quick poll - need your input
+
+I am doing an interview with the superuser magazine and want to make sure to represent the sentiments and issues we see as a group.  Could you answer these 2-3 questions for me. I will aggregate and represent the answer in my Q&A.   Thank you in advance for your input and perspectives.
+
+
+Q: What obstacles do you think women face when getting involved in the OpenStack community?
+ I think one of the major issues is where to get started as well as how to get started. I personally haven't experienced any bias or issues working on a project but I know a lot of the people involved in the projects I've worked on.
+
+Q: There are always a lot of debates in the OpenStack community - which one is the most important, now?
+Where are we going both within projects and OpenStack as a whole.
+
+Q. Why do you believe it is important for the OpenStack community to be diverse?
+Diversity gives different viewpoints, it allows the differences in how people think and look at things to be incorporated in what we do, how we do it and why we do it.
+
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, CTO Office
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160722/491a78c4/attachment.html>
+
+From ramamani.yeleswarapu at intel.com  Fri Jul 22 21:37:36 2016
+From: ramamani.yeleswarapu at intel.com (Yeleswarapu, Ramamani)
+Date: Fri, 22 Jul 2016 21:37:36 +0000
+Subject: [Women-of-openstack] Quick poll - need your input
+In-Reply-To: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+References: <SN1PR02MB21738B2C227513B42B05E1C2F6080@SN1PR02MB2173.namprd02.prod.outlook.com>
+Message-ID: <D6915AEA4E73214C87C853A9D9BBC72D10F0A577@ORSMSX103.amr.corp.intel.com>
+
+Hi Nithya,
+
+Thanks for the poll. Here are my answers (below the questions).
+
+Regards,
+Ramamani.
+
+From: Nithya Ruff [mailto:Nithya.Ruff at sandisk.com]
+Sent: Wednesday, July 20, 2016 12:10 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Quick poll - need your input
+
+I am doing an interview with the superuser magazine and want to make sure to represent the sentiments and issues we see as a group.  Could you answer these 2-3 questions for me. I will aggregate and represent the answer in my Q&A.   Thank you in advance for your input and perspectives.
+
+
+Q: What obstacles do you think women face when getting involved in the OpenStack community?
+
+There are strong women contributors in OpenStack and that is good news. I think the percentage is very small and there needs to be more encouragement for the rest to speak their mind, ask questions and influence decisions. I think the obstacles women face are similar anywhere in the technical world, which depend on a variety of issues:
+
+-          Local work environment and barriers for growth
+
+-          Access to resources
+
+-          Individual attitudes towards challenges and risk taking.
+
+Q: There are always a lot of debates in the OpenStack community - which one is the most important, now?
+
+I think it should be about the rate of adoption and the future of OpenStack.
+
+Q. Why do you believe it is important for the OpenStack community to be diverse?
+
+Diversity is very important for an open source community as it brings varied strengths, perspectives and creativity of mind.
+
+
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, CTO Office
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160722/0326f728/attachment.html>
+
+From jessicak at us.ibm.com  Mon Jul 25 13:43:15 2016
+From: jessicak at us.ibm.com (Jessica Murillo)
+Date: Mon, 25 Jul 2016 08:43:15 -0500
+Subject: [Women-of-openstack] Reminder: WOO telecon today @ 2000 UTC
+Message-ID: <OF82576FEA.FCBA6D02-ON00257FFB.004AEE54-86257FFB.004B5EEE@notes.na.collabserv.com>
+
+
+
+Reminder - we have our bi-weekly Women of OpenStack teleconference
+July 25, 2016?@ 2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383? Participant: 7217256# Leader 4018#
+
+Leader: Amy Marrich
+Etherpad:https://etherpad.openstack.org/p/WOS_7_25_16
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160725/95de8a2d/attachment.html>
+
+From Amy.Marrich at rackspace.com  Mon Jul 25 15:32:39 2016
+From: Amy.Marrich at rackspace.com (Amy Marrich)
+Date: Mon, 25 Jul 2016 15:32:39 +0000
+Subject: [Women-of-openstack] Reminder: WOO telecon today @ 2000 UTC
+In-Reply-To: <OF82576FEA.FCBA6D02-ON00257FFB.004AEE54-86257FFB.004B5EEE@notes.na.collabserv.com>
+References: <OF82576FEA.FCBA6D02-ON00257FFB.004AEE54-86257FFB.004B5EEE@notes.na.collabserv.com>
+Message-ID: <D3BB9BB7.1EC5E%amy.marrich@rackspace.com>
+
+Thanks Jessica,
+
+You're definitely more awake then I am this morning.
+
+Amy
+
+From: Jessica Murillo <jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>>
+Date: Monday, July 25, 2016 at 8:43 AM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Reminder: WOO telecon today @ 2000 UTC
+
+
+Reminder - we have our bi-weekly Women of OpenStack teleconference
+July 25, 2016 @ 2000 UTC, 1pm PT, 3pm CT, 4pm ET
+
+Dial In: 1-203-277-8157 or 866-619-0383  Participant: 7217256# Leader 4018#
+
+Leader: Amy Marrich
+Etherpad:https://etherpad.openstack.org/p/WOS_7_25_16
+
+
+Jessica Murillo
+Vice President, Strategy
+IBM Systems
+jessicak at us.ibm.com<mailto:jessicak at us.ibm.com>
+Mobile Phone: 512-970-8466
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160725/76c5c787/attachment.html>
+
+From erin at openstack.org  Tue Jul 26 15:00:30 2016
+From: erin at openstack.org (Erin Disney)
+Date: Tue, 26 Jul 2016 10:00:30 -0500
+Subject: [Women-of-openstack] Community Voting NOW OPEN- OpenStack Summit
+	Barcelona
+Message-ID: <C920C682-CB1D-4092-9DE2-6BCCBB405AFE@openstack.org>
+
+Hi everyone, 
+
+Session voting is now open for the October 2016 OpenStack Summit in Barcelona!
+
+VOTE HERE <https://www.openstack.org/summit/barcelona-2016/vote-for-speakers/> 
+
+Hurry, voting closes Monday, August 8th at 11:59pm PDT (August 9th at 6:59am UTC).
+
+Please Note: Based on community feedback, unique URLs to submissions have been removed for this Summit. 
+
+Track Chairs will ultimately determine the final schedule. Community votes are meant to help inform the decision, but are not the only guide and not considered to be the deciding factor. Track chairs exercise judgment in their area of expertise and help ensure diversity. View full details of the session selection process here <https://www.openstack.org/summit/barcelona-2016/call-for-presentations/selection-process>. 
+
+Continue to visit openstack.org/summit/barcelona-2016/ <https://www.openstack.org/summit/barcelona-2016/> for all Summit-related information.
+
+REGISTER
+Register HERE <https://www.eventbrite.com/e/openstack-summit-october-2016-barcelona-tickets-24406960877> before prices increase in early September.
+
+TRAVEL SUPPORT PROGRAM
+August 8th is the last day to submit applications. Please submit your applications HERE <https://www.openstack.org/summit/barcelona-2016/travel-support/> by 11:59pm PDT (August 9th at 6:59am UTC). 
+
+VISA APPLICATION PROCESS
+If you require a visa to travel to the Spain, please carefully read the instructions HERE <https://www.openstack.org/summit/barcelona-2016/travel/#visa>. All visa letter requests must be received by October 3rd.
+
+BECOME A SPONSOR
+If you are interested in sponsoring the Summit as well, it's not too late. Please email summit at openstack.org <mailto:summit at openstack.org> no later than September 12th. 
+
+
+Erin Disney
+OpenStack Marketing
+erin at openstack.org <mailto:erin at openstack.org>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160726/7c555e88/attachment.html>
+
+From Nithya.Ruff at sandisk.com  Tue Jul 26 21:05:13 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Tue, 26 Jul 2016 21:05:13 +0000
+Subject: [Women-of-openstack] FW: Nithya Ruff Q&A - Invitation to edit
+In-Reply-To: <001a114aad7c7e935305389036be@google.com>
+References: <e3b774e8-c8da-4831-8fe9-9c615faa88d4@docs-share.google.com>
+ <001a114aad7c7e935305389036be@google.com>
+Message-ID: <SN1PR02MB2173EC5350F6F6FAF5A47C25F60E0@SN1PR02MB2173.namprd02.prod.outlook.com>
+
+My Q&A for the SuperUser magazine on WOO and other things.  Thanks to many of you for providing valuable comments and content.   Feel free to send any add comments back to me.  Erin Disney is also looking for #s to add to this of our growth and engagement.
+
+Nithya
+
+
+Nithya Ruff<mailto:nithya.ruff at gmail.com> has invited you to edit the following document:
+[https://ssl.gstatic.com/docs/documents/share/images/services/document-4.png]
+Nithya Ruff Q&A<https://docs.google.com/document/d/1Y_VfAfg2ln6tp4SjcO9HYgEMUD0XfRkht8IYP6U0ZSU/edit?usp=sharing_eid&ts=5797cfcc>
+Open in Docs<https://docs.google.com/document/d/1Y_VfAfg2ln6tp4SjcO9HYgEMUD0XfRkht8IYP6U0ZSU/edit?usp=sharing_eid&ts=5797cfcc>
+
+
+
+
+
+
+
+
+
+Google Docs: Create and edit documents online.
+
+[Logo for Google Docs]<https://drive.google.com>
+
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, Research
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+Nithya.Ruff at SanDisk.com<mailto:Nithya.Ruff at SanDisk.com>        Twitter: @nithyaruff<https://twitter.com/nithyaruff>
+
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160726/35334095/attachment-0001.html>
+
+From vkmc at redhat.com  Wed Jul 27 14:51:57 2016
+From: vkmc at redhat.com (Victoria Martinez de la Cruz)
+Date: Wed, 27 Jul 2016 11:51:57 -0300
+Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+	Training for next OpenStack Summit
+Message-ID: <CAP-MG3eHAFRvs08QdMD6fbpd==anFdUYq+qhK2zZsp-E0KQ7Lw@mail.gmail.com>
+
+Hi all,
+
+The OpenStack Summit is rapidly approaching and I wanted to chat about the
+different mentoring efforts that are happening in the OpenStack community
+before it in order to unite forces and make the best for all of them.
+
+As the OpenStack Summit in Austin we had
+
+- Mentoring within internships like Outreachy and Google Summer of Code
+-- Duration: 3 month length
+-- Target: Underrepresented groups/Students respectively interested in
+contributing to OpenStack
+-- Mentors: Volunteers each round, not fixed list
+-- Coordinators: vkmc, mahatic, devdatta, dims
+- WOO light-weight mentoring + Speed-mentoring
+-- Duration: Not defined
+-- Target: People getting involved with OpenStack, with no prior experience
+in contributing to open source
+-- Mentors: DB of mentors
+-- Coordinators: ekhugen
+- Upstream Training
+-- Duration: 2 days training before OpenStack Summit
+-- Target: People getting involved with OpenStack, with no prior experience
+in contributing to open source
+-- Mentors: Volunteers each edition, not fixed list
+-- Coordinators: Volunteers each edition, not sure how this is defined
+
+How can we merge all the efforts together?
+
+Now, with regards to Upstream Training for the OpenStack Summit. Is there
+any update about this training? Who is taking the lead this time? I see
+that [0] shows information from latest round. Ildiko and I wanted to join
+this edition too and we want to be ready to help whenever we can with it.
+
+Best,
+
+Victoria
+
+[0] http://docs.openstack.org/upstream-training/
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160727/a018aa16/attachment.html>
+
+From ekhugenbruch at us.ibm.com  Wed Jul 27 16:02:51 2016
+From: ekhugenbruch at us.ibm.com (Emily K Hugenbruch)
+Date: Wed, 27 Jul 2016 12:02:51 -0400
+Subject: [Women-of-openstack] OpenStack mentoring efforts and
+ Upstream	Training for next OpenStack Summit
+In-Reply-To: <CAP-MG3eHAFRvs08QdMD6fbpd==anFdUYq+qhK2zZsp-E0KQ7Lw@mail.gmail.com>
+References: <CAP-MG3eHAFRvs08QdMD6fbpd==anFdUYq+qhK2zZsp-E0KQ7Lw@mail.gmail.com>
+Message-ID: <OFC4692210.B2A568FF-ON00257FFD.0057CDF5-85257FFD.005826E6@notes.na.collabserv.com>
+
+
+Hi Victoria,
+I'll send you an invite to the mentoring committee meetings on Wednesdays.
+Ildiko actually contacted me yesterday to start to talk a bit about
+Upstream training and the lightweight mentoring, and next Wednesday we're
+set to start talking about Speed Mentoring.  We have started to talk a bit
+at our meetings about how we can interact with other mentoring initiatives
+in the community, like Hackathons, etc.
+Thanks for bringing this up, we definitely need to get a united approach
+for mentoring.
+Sincerely,
+Emily Kate Hugenbruch
+OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+IBM Corporation Endicott, NY
+Twitter: @ekhugen
+IRC: ekhugen at freenode
+
+
+
+From:	Victoria Martinez de la Cruz <vkmc at redhat.com>
+To:	women-of-openstack at lists.openstack.org,
+            foundation at lists.openstack.org
+Cc:	marton.kiss at gmail.com, ildiko.vancsa at ericsson.com
+Date:	07/27/2016 10:52 AM
+Subject:	[Women-of-openstack] OpenStack mentoring efforts and Upstream
+            Training for next OpenStack Summit
+
+
+
+Hi all,
+
+The OpenStack Summit is rapidly approaching and I wanted to chat about the
+different mentoring efforts that are happening in the OpenStack community
+before it in order to unite forces and make the best for all of them.
+
+As the OpenStack Summit in Austin we had
+
+- Mentoring within internships like Outreachy and Google Summer of Code
+-- Duration: 3 month length
+-- Target: Underrepresented groups/Students respectively interested in
+contributing to OpenStack
+-- Mentors: Volunteers each round, not fixed list
+-- Coordinators: vkmc, mahatic, devdatta, dims
+- WOO light-weight mentoring + Speed-mentoring
+-- Duration: Not defined
+-- Target: People getting involved with OpenStack, with no prior experience
+in contributing to open source
+-- Mentors: DB of mentors
+-- Coordinators: ekhugen
+- Upstream Training
+-- Duration: 2 days training before OpenStack Summit
+-- Target: People getting involved with OpenStack, with no prior experience
+in contributing to open source
+-- Mentors: Volunteers each edition, not fixed list
+-- Coordinators: Volunteers each edition, not sure how this is defined
+
+How can we merge all the efforts together?
+
+Now, with regards to Upstream Training for the OpenStack Summit. Is there
+any update about this training? Who is taking the lead this time? I see
+that [0] shows information from latest round. Ildiko and I wanted to join
+this edition too and we want to be ready to help whenever we can with it.
+
+Best,
+
+Victoria
+
+[0]?http://docs.openstack.org/upstream-training/
+_______________________________________________
+Women-of-openstack mailing list
+Women-of-openstack at lists.openstack.org
+http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160727/b246fa6c/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160727/b246fa6c/attachment.gif>
+
+From vkmc at redhat.com  Wed Jul 27 17:40:42 2016
+From: vkmc at redhat.com (Victoria Martinez de la Cruz)
+Date: Wed, 27 Jul 2016 14:40:42 -0300
+Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+ Training for next OpenStack Summit
+In-Reply-To: <OFC4692210.B2A568FF-ON00257FFD.0057CDF5-85257FFD.005826E6@notes.na.collabserv.com>
+References: <CAP-MG3eHAFRvs08QdMD6fbpd==anFdUYq+qhK2zZsp-E0KQ7Lw@mail.gmail.com>
+ <OFC4692210.B2A568FF-ON00257FFD.0057CDF5-85257FFD.005826E6@notes.na.collabserv.com>
+Message-ID: <CAP-MG3cRkZ4mz+T5G8B6hW2R9AHQJQgoSXk8bv44_7L0fLeCQA@mail.gmail.com>
+
+Thanks for your quick response Emily, will join next mentoring
+committee meeting!
+
+Best,
+
+Victoria
+
+On Wed, Jul 27, 2016 at 1:02 PM, Emily K Hugenbruch <ekhugenbruch at us.ibm.com
+> wrote:
+
+> Hi Victoria,
+> I'll send you an invite to the mentoring committee meetings on Wednesdays.
+> Ildiko actually contacted me yesterday to start to talk a bit about
+> Upstream training and the lightweight mentoring, and next Wednesday we're
+> set to start talking about Speed Mentoring. We have started to talk a bit
+> at our meetings about how we can interact with other mentoring initiatives
+> in the community, like Hackathons, etc.
+> Thanks for bringing this up, we definitely need to get a united approach
+> for mentoring.
+> Sincerely,
+> Emily Kate Hugenbruch
+> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+> IBM Corporation Endicott, NY
+> Twitter: @ekhugen
+> IRC: ekhugen at freenode
+>
+> [image: Inactive hide details for Victoria Martinez de la Cruz
+> ---07/27/2016 10:52:50 AM---Hi all, The OpenStack Summit is rapidly appr]Victoria
+> Martinez de la Cruz ---07/27/2016 10:52:50 AM---Hi all, The OpenStack
+> Summit is rapidly approaching and I wanted to chat about the
+>
+> From: Victoria Martinez de la Cruz <vkmc at redhat.com>
+> To: women-of-openstack at lists.openstack.org, foundation at lists.openstack.org
+> Cc: marton.kiss at gmail.com, ildiko.vancsa at ericsson.com
+> Date: 07/27/2016 10:52 AM
+> Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+> Training for next OpenStack Summit
+> ------------------------------
+>
+>
+>
+> Hi all,
+>
+> The OpenStack Summit is rapidly approaching and I wanted to chat about the
+> different mentoring efforts that are happening in the OpenStack community
+> before it in order to unite forces and make the best for all of them.
+>
+> As the OpenStack Summit in Austin we had
+>
+> - Mentoring within internships like Outreachy and Google Summer of Code
+> -- Duration: 3 month length
+> -- Target: Underrepresented groups/Students respectively interested in
+> contributing to OpenStack
+> -- Mentors: Volunteers each round, not fixed list
+> -- Coordinators: vkmc, mahatic, devdatta, dims
+> - WOO light-weight mentoring + Speed-mentoring
+> -- Duration: Not defined
+> -- Target: People getting involved with OpenStack, with no prior
+> experience in contributing to open source
+> -- Mentors: DB of mentors
+> -- Coordinators: ekhugen
+> - Upstream Training
+> -- Duration: 2 days training before OpenStack Summit
+> -- Target: People getting involved with OpenStack, with no prior
+> experience in contributing to open source
+> -- Mentors: Volunteers each edition, not fixed list
+> -- Coordinators: Volunteers each edition, not sure how this is defined
+>
+> How can we merge all the efforts together?
+>
+> Now, with regards to Upstream Training for the OpenStack Summit. Is there
+> any update about this training? Who is taking the lead this time? I see
+> that [0] shows information from latest round. Ildiko and I wanted to join
+> this edition too and we want to be ready to help whenever we can with it.
+>
+> Best,
+>
+> Victoria
+>
+> [0] *http://docs.openstack.org/upstream-training/*
+> <http://docs.openstack.org/upstream-training/>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160727/a530b16a/attachment-0001.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160727/a530b16a/attachment-0001.gif>
+
+From nicole.k.rutherford at intel.com  Wed Jul 27 19:38:11 2016
+From: nicole.k.rutherford at intel.com (Rutherford, Nicole K)
+Date: Wed, 27 Jul 2016 19:38:11 +0000
+Subject: [Women-of-openstack] OpenStack Summit Barcelona | Diversity Session
+	Submission
+Message-ID: <7BDB8AF77E41744CAF5C8D115B01DDDB76E67773@ORSMSX103.amr.corp.intel.com>
+
+Team,
+
+Wanted to let you know that Amy Marrich & I have submitted the abstract below for a session focused on diversity.  Would really appreciate your assistance during the voting process, so that we can make sure this session is accepted.  Many thanks in advance!
+
+Inspiring the Future of OpenStack through Diversity
+https://www.openstack.org/summit/barcelona-2016/vote-for-speakers/presentation/15292/?category=56
+The incredible spirit of open source and a community-driven development approach has spawned one of the fastest-growing open source communities in the world, with over 54,000 members across 180 countries now contributing to the OpenStack platform in some form. While there is strength in numbers, there is also strength in diversity of viewpoints and perspectives, fundamental to guiding the future of OpenStack and ensuring its vitality. Join us for a captivating session that features TED-style talks from inspiring individuals within the OpenStack community who will share their experiences and insights, and help ease the path for others to join us on our journey. Potential speakers include individuals from EMC, Comcast, Huawei, IBM, Intel, Rackspace, SanDisk, and SUSE.
+
+***
+
+Cheers,
+
+Nicole K. Huesman
+Open Source Technology Center
+OSS Data Center Marketing
+Software and Services Group | Intel Corporation
+503.807.5599
+
+[cid:image001.png at 01D1E802.D9975FD0]
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160727/16ea51a0/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: image001.png
+Type: image/png
+Size: 9130 bytes
+Desc: image001.png
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160727/16ea51a0/attachment.png>
+
+From Nithya.Ruff at sandisk.com  Wed Jul 27 22:20:12 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Wed, 27 Jul 2016 22:20:12 +0000
+Subject: [Women-of-openstack] OpenStack Summit Barcelona | Diversity
+ Session	Submission
+In-Reply-To: <7BDB8AF77E41744CAF5C8D115B01DDDB76E67773@ORSMSX103.amr.corp.intel.com>
+References: <7BDB8AF77E41744CAF5C8D115B01DDDB76E67773@ORSMSX103.amr.corp.intel.com>
+Message-ID: <SN1PR02MB21734E0CFA025F3F42503071F60F0@SN1PR02MB2173.namprd02.prod.outlook.com>
+
+All,
+
+Could I ask you to go in and enter 'Women of OpenStack' into the speaker search button and you will find a number of sessions that a number of us submitted with the words "sponsored by Women of OpenStack. "
+
+https://www.openstack.org/summit/barcelona-2016/vote-for-speakers/presentation/15292/?category=56
+
+Would appreciate your #3 vote for these sessions - meaning you would love to see it at the show.   I have also tweeted on this @nithyaruff.  If you tweet, kindly retweet.
+I will also post it on the Linkedin user group. Thank you very much for continuing our discussion on inclusion and the big tent.
+
+Thank You,
+Nithya A. Ruff
+Director, SanDisk Open Source Strategy, Research
+WIN Board Member
+SanDisk |a Western Digital brand
+951 SanDisk Drive, Milpitas, CA 95035
+T: + (408-801-7068)| M: + (510-378-3159)
+
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160727/b8afb622/attachment-0001.html>
+
+From openstack at lanabrindley.com  Thu Jul 28 02:02:29 2016
+From: openstack at lanabrindley.com (Lana Brindley)
+Date: Thu, 28 Jul 2016 12:02:29 +1000
+Subject: [Women-of-openstack] linux.conf.au CFP open
+Message-ID: <c71a9fe4-5e83-fd1b-1a8f-baf47ed970e9@lanabrindley.com>
+
+Hi everyone,
+
+Just a quick plug that the biggest open source conference in Australia, linux.conf.au, has their call for proposals open for another week or so. It would be great to get some more women involved! The conference generally seeks talk proposals ranging from the deeply technical to community-focused, with the only caveat that it must be related to open source. OpenStack has been a popular topic over the past few years, with many OpenStack engineers being based in the Southern Hemisphere. This year, it's being held in beautiful Tasmania, so the sightseeing is not to be missed either!
+
+All the info is here: http://linux.conf.au/proposals
+
+I've been involved with LCA for many years (including being on the organising committee for 2013, and the papers committee every year since then), so if you want some personal feedback before you submit, or just want to ask questions, feel free to reach out to me directly :)
+
+Hope to see some of you there!
+Lana
+
+-- 
+Lana Brindley
+Technical Writer
+Rackspace Cloud Builders Australia
+http://lanabrindley.com
+
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: signature.asc
+Type: application/pgp-signature
+Size: 538 bytes
+Desc: OpenPGP digital signature
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160728/29e0eabd/attachment.pgp>
+
+From emma.l.foley at intel.com  Thu Jul 28 11:39:20 2016
+From: emma.l.foley at intel.com (Foley, Emma L)
+Date: Thu, 28 Jul 2016 11:39:20 +0000
+Subject: [Women-of-openstack] : OpenStack Summit Barcelona | Diversity
+ Session Submission
+Message-ID: <0078AE486081F642B4747581212AD05F013B3D88@IRSMSX109.ger.corp.intel.com>
+
+Linking to a submissions doesn't work this time.
+That ability was removed for this voting sessions due to community feedback.
+
+You'll have to use the search functions to get to the abstract you want to vote for.
+
+Best Regards,
+Emma
+
+> Date: Wed, 27 Jul 2016 19:38:11 +0000
+> From: "Rutherford, Nicole K" <nicole.k.rutherford at intel.com>
+> To: "women-of-openstack at lists.openstack.org"
+> 	<women-of-openstack at lists.openstack.org>
+> Subject: [Women-of-openstack] OpenStack Summit Barcelona | Diversity
+> 	Session	Submission
+> Message-ID:
+> 	<7BDB8AF77E41744CAF5C8D115B01DDDB76E67773 at ORSMSX103.am
+> r.corp.intel.com>
+> 
+> Content-Type: text/plain; charset="us-ascii"
+> 
+> Team,
+> 
+> Wanted to let you know that Amy Marrich & I have submitted the abstract
+> below for a session focused on diversity.  Would really appreciate your
+> assistance during the voting process, so that we can make sure this session is
+> accepted.  Many thanks in advance!
+> 
+> Inspiring the Future of OpenStack through Diversity
+> https://www.openstack.org/summit/barcelona-2016/vote-for-
+> speakers/presentation/15292/?category=56
+> The incredible spirit of open source and a community-driven development
+> approach has spawned one of the fastest-growing open source communities
+> in the world, with over 54,000 members across 180 countries now
+> contributing to the OpenStack platform in some form. While there is strength
+> in numbers, there is also strength in diversity of viewpoints and perspectives,
+> fundamental to guiding the future of OpenStack and ensuring its vitality. Join
+> us for a captivating session that features TED-style talks from inspiring
+> individuals within the OpenStack community who will share their experiences
+> and insights, and help ease the path for others to join us on our journey.
+> Potential speakers include individuals from EMC, Comcast, Huawei, IBM,
+> Intel, Rackspace, SanDisk, and SUSE.
+> 
+> ***
+> 
+> Cheers,
+> 
+> Nicole K. Huesman
+> Open Source Technology Center
+> OSS Data Center Marketing
+> Software and Services Group | Intel Corporation
+> 503.807.5599
+> 
+> [cid:image001.png at 01D1E802.D9975FD0]
+> 
+
+
+
+From Nithya.Ruff at sandisk.com  Thu Jul 28 13:38:30 2016
+From: Nithya.Ruff at sandisk.com (Nithya Ruff)
+Date: Thu, 28 Jul 2016 13:38:30 +0000
+Subject: [Women-of-openstack] : OpenStack Summit Barcelona | Diversity
+ Session Submission
+In-Reply-To: <0078AE486081F642B4747581212AD05F013B3D88@IRSMSX109.ger.corp.intel.com>
+References: <0078AE486081F642B4747581212AD05F013B3D88@IRSMSX109.ger.corp.intel.com>
+Message-ID: <35B0BAAB-0A99-49B6-93B2-62FB1571B289@sandisk.com>
+
+Emma is right.  Please search for
+Women of Openstack for sponsored sessions or name of speaker
+Beth Cohen
+Nithya Ruff
+Nicole K Rutherford
+
+If there are other speakers you know you will need to enter their name.
+
+Thank You,
+Nithya
+
+Sent from my IPhone
+
+> On Jul 28, 2016, at 4:40 AM, Foley, Emma L <emma.l.foley at intel.com> wrote:
+>
+> Linking to a submissions doesn't work this time.
+> That ability was removed for this voting sessions due to community feedback.
+>
+> You'll have to use the search functions to get to the abstract you want to vote for.
+>
+> Best Regards,
+> Emma
+>
+>> Date: Wed, 27 Jul 2016 19:38:11 +0000
+>> From: "Rutherford, Nicole K" <nicole.k.rutherford at intel.com>
+>> To: "women-of-openstack at lists.openstack.org"
+>>    <women-of-openstack at lists.openstack.org>
+>> Subject: [Women-of-openstack] OpenStack Summit Barcelona | Diversity
+>>    Session    Submission
+>> Message-ID:
+>>    <7BDB8AF77E41744CAF5C8D115B01DDDB76E67773 at ORSMSX103.am
+>> r.corp.intel.com>
+>>
+>> Content-Type: text/plain; charset="us-ascii"
+>>
+>> Team,
+>>
+>> Wanted to let you know that Amy Marrich & I have submitted the abstract
+>> below for a session focused on diversity.  Would really appreciate your
+>> assistance during the voting process, so that we can make sure this session is
+>> accepted.  Many thanks in advance!
+>>
+>> Inspiring the Future of OpenStack through Diversity
+>> https://www.openstack.org/summit/barcelona-2016/vote-for-
+>> speakers/presentation/15292/?category=56
+>> The incredible spirit of open source and a community-driven development
+>> approach has spawned one of the fastest-growing open source communities
+>> in the world, with over 54,000 members across 180 countries now
+>> contributing to the OpenStack platform in some form. While there is strength
+>> in numbers, there is also strength in diversity of viewpoints and perspectives,
+>> fundamental to guiding the future of OpenStack and ensuring its vitality. Join
+>> us for a captivating session that features TED-style talks from inspiring
+>> individuals within the OpenStack community who will share their experiences
+>> and insights, and help ease the path for others to join us on our journey.
+>> Potential speakers include individuals from EMC, Comcast, Huawei, IBM,
+>> Intel, Rackspace, SanDisk, and SUSE.
+>>
+>> ***
+>>
+>> Cheers,
+>>
+>> Nicole K. Huesman
+>> Open Source Technology Center
+>> OSS Data Center Marketing
+>> Software and Services Group | Intel Corporation
+>> 503.807.5599
+>>
+>> [cid:image001.png at 01D1E802.D9975FD0]
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+PLEASE NOTE: The information contained in this electronic mail message is intended only for the use of the designated recipient(s) named above. If the reader of this message is not the intended recipient, you are hereby notified that you have received this message in error and that any review, dissemination, distribution, or copying of this message is strictly prohibited. If you have received this communication in error, please notify the sender by telephone or e-mail (as shown above) immediately and destroy any and all copies of this message in your possession (whether hard copies or electronically stored copies).
+
+
+From annegentle at justwriteclick.com  Sun Jul 31 20:12:58 2016
+From: annegentle at justwriteclick.com (Anne Gentle)
+Date: Sun, 31 Jul 2016 15:12:58 -0500
+Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+ Training for next OpenStack Summit
+In-Reply-To: <CAP-MG3cRkZ4mz+T5G8B6hW2R9AHQJQgoSXk8bv44_7L0fLeCQA@mail.gmail.com>
+References: <CAP-MG3eHAFRvs08QdMD6fbpd==anFdUYq+qhK2zZsp-E0KQ7Lw@mail.gmail.com>
+ <OFC4692210.B2A568FF-ON00257FFD.0057CDF5-85257FFD.005826E6@notes.na.collabserv.com>
+ <CAP-MG3cRkZ4mz+T5G8B6hW2R9AHQJQgoSXk8bv44_7L0fLeCQA@mail.gmail.com>
+Message-ID: <CAD0KtVH9HEtD2rYfFx7Xn+t0Mx8PGu17yzL2aMR77+C1FCPKVQ@mail.gmail.com>
+
+Thanks for all the efforts.
+
+One outcome I'd like to see from the WOO mentoring is a duration and
+end-date for the mentoring. Should it be close to the 3-months of the
+Outreachy program, or 6 months, Summit-to-Summit, or for a year? By letting
+mentors know when they are freed from one mentoring commitment they can
+then be ready for another round.
+
+Thanks,
+Anne
+
+On Wed, Jul 27, 2016 at 12:40 PM, Victoria Martinez de la Cruz <
+vkmc at redhat.com> wrote:
+
+> Thanks for your quick response Emily, will join next mentoring
+> committee meeting!
+>
+> Best,
+>
+> Victoria
+>
+> On Wed, Jul 27, 2016 at 1:02 PM, Emily K Hugenbruch <
+> ekhugenbruch at us.ibm.com> wrote:
+>
+>> Hi Victoria,
+>> I'll send you an invite to the mentoring committee meetings on
+>> Wednesdays. Ildiko actually contacted me yesterday to start to talk a bit
+>> about Upstream training and the lightweight mentoring, and next Wednesday
+>> we're set to start talking about Speed Mentoring. We have started to talk a
+>> bit at our meetings about how we can interact with other mentoring
+>> initiatives in the community, like Hackathons, etc.
+>> Thanks for bringing this up, we definitely need to get a united approach
+>> for mentoring.
+>> Sincerely,
+>> Emily Kate Hugenbruch
+>> OpenStack Cloud Enablement Engineer - z/VM and Software Engineer - z/VM
+>> IBM Corporation Endicott, NY
+>> Twitter: @ekhugen
+>> IRC: ekhugen at freenode
+>>
+>> [image: Inactive hide details for Victoria Martinez de la Cruz
+>> ---07/27/2016 10:52:50 AM---Hi all, The OpenStack Summit is rapidly appr]Victoria
+>> Martinez de la Cruz ---07/27/2016 10:52:50 AM---Hi all, The OpenStack
+>> Summit is rapidly approaching and I wanted to chat about the
+>>
+>> From: Victoria Martinez de la Cruz <vkmc at redhat.com>
+>> To: women-of-openstack at lists.openstack.org,
+>> foundation at lists.openstack.org
+>> Cc: marton.kiss at gmail.com, ildiko.vancsa at ericsson.com
+>> Date: 07/27/2016 10:52 AM
+>> Subject: [Women-of-openstack] OpenStack mentoring efforts and Upstream
+>> Training for next OpenStack Summit
+>> ------------------------------
+>>
+>>
+>>
+>> Hi all,
+>>
+>> The OpenStack Summit is rapidly approaching and I wanted to chat about
+>> the different mentoring efforts that are happening in the OpenStack
+>> community before it in order to unite forces and make the best for all of
+>> them.
+>>
+>> As the OpenStack Summit in Austin we had
+>>
+>> - Mentoring within internships like Outreachy and Google Summer of Code
+>> -- Duration: 3 month length
+>> -- Target: Underrepresented groups/Students respectively interested in
+>> contributing to OpenStack
+>> -- Mentors: Volunteers each round, not fixed list
+>> -- Coordinators: vkmc, mahatic, devdatta, dims
+>> - WOO light-weight mentoring + Speed-mentoring
+>> -- Duration: Not defined
+>> -- Target: People getting involved with OpenStack, with no prior
+>> experience in contributing to open source
+>> -- Mentors: DB of mentors
+>> -- Coordinators: ekhugen
+>> - Upstream Training
+>> -- Duration: 2 days training before OpenStack Summit
+>> -- Target: People getting involved with OpenStack, with no prior
+>> experience in contributing to open source
+>> -- Mentors: Volunteers each edition, not fixed list
+>> -- Coordinators: Volunteers each edition, not sure how this is defined
+>>
+>> How can we merge all the efforts together?
+>>
+>> Now, with regards to Upstream Training for the OpenStack Summit. Is there
+>> any update about this training? Who is taking the lead this time? I see
+>> that [0] shows information from latest round. Ildiko and I wanted to join
+>> this edition too and we want to be ready to help whenever we can with it.
+>>
+>> Best,
+>>
+>> Victoria
+>>
+>> [0] *http://docs.openstack.org/upstream-training/*
+>> <http://docs.openstack.org/upstream-training/>
+>> _______________________________________________
+>> Women-of-openstack mailing list
+>> Women-of-openstack at lists.openstack.org
+>> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>>
+>>
+>>
+>>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+
+
+-- 
+Anne Gentle
+www.justwriteclick.com
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160731/084d53ef/attachment.html>
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: graycol.gif
+Type: image/gif
+Size: 105 bytes
+Desc: not available
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20160731/084d53ef/attachment.gif>
+

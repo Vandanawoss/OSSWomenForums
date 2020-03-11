@@ -1,0 +1,251 @@
+From aishahalim@gmail.com  Mon Mar 14 15:11:49 2011
+Return-Path: <aishahalim@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id DEC0375019E
+	for <gnome-women-list@gnome.org>; Mon, 14 Mar 2011 15:11:49 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.69
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.69 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001, T_TO_NO_BRKTS_FREEMAIL=0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id C7c9gyTlKr5I for <gnome-women-list@gnome.org>;
+	Mon, 14 Mar 2011 15:11:47 +0000 (UTC)
+Received: from mail-fx0-f54.google.com (mail-fx0-f54.google.com
+	[209.85.161.54])
+	by menubar.gnome.org (Postfix) with ESMTP id A05A8750112
+	for <gnome-women-list@gnome.org>; Mon, 14 Mar 2011 15:11:37 +0000 (UTC)
+Received: by fxm11 with SMTP id 11so4674430fxm.27
+	for <gnome-women-list@gnome.org>; Mon, 14 Mar 2011 08:11:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:from:date:message-id:subject:to
+	:content-type; bh=comOl354NvFsB9IslHsEaZCmllO/prDDgcQ/hg3Bbds=;
+	b=UjodNUhUS7cAGXonoC/rPTBnnYGPj5DdWO7I8T2eFgtSw8ia3nwOTVshyLUsGWjGmP
+	Adozzs3HfdMy8B1WLcWyxvEbASwcIgPO6WTdsNJ7FLMzaJWtHJAi3r/vZ9XvuiJ33swo
+	Wustwj8jkjK3ucZL9mLMBhgrtpllylxp0vR/M=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:from:date:message-id:subject:to:content-type;
+	b=mJRzWI7HqX1/te7ktDvHWfaU0noysXnp9GmJpCTtsNArXo3KKwgJTFdrqv/3aYoiqs
+	/NPhbgl1e4ljedm7P03FrWT4BCYILVh3XoZ3sRkqpnfAGye4VNUAy4TWj/4d2QjM6awI
+	ucg6QTf/6/0IsocW1vkia5iFz2BxqpARFdyAY=
+Received: by 10.223.78.138 with SMTP id l10mr3379266fak.106.1300115398304;
+	Mon, 14 Mar 2011 08:09:58 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.223.109.199 with HTTP; Mon, 14 Mar 2011 08:09:31 -0700 (PDT)
+From: Aisha Halim <aishahalim@gmail.com>
+Date: Mon, 14 Mar 2011 10:09:31 -0500
+Message-ID: <AANLkTinOz-kxiAHhmE9dA+F26y2u6-OwS22-VJvzwo=0@mail.gmail.com>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1
+Subject: [gnome-women] Flourish 2011 Conference (Chicago), Apr 1st to 3rd
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 14 Mar 2011 15:11:50 -0000
+
+Hi, I don't usually post on this list (lurk), but I help organize an
+open source conference in Chicago called Flourish. If any of you are
+around here early April, and are interested, please check it out. The
+conference is held in UIC and has a lot of the tech/geek community
+here. For once, we (surprisingly) don't have a women in open source
+talk, but we have a pretty interesting line-up of speakers, so please
+check us out.
+
+I hope you don't mind me posting this here...
+
+More information below the sign off.
+
+-Aisha
+
+CELEBRATE INNOVATION WITH CHICAGO'S LINUX & OPEN-SOURCE SOFTWARE ENTHUSIASTS
+AT FLOURISH! 2011
+
+*From April 1 - 3, Free Technology Conference Brings Fifth Year of
+Insightful Talks and Hands-on Workshops about Open-source Software,
+Technology, and Culture*
+
+WHAT
+
+An annual gathering of, for, and by enthusiasts of open-source software,
+technology, and culture, taking place at the University of Illinois at
+Chicago.
+
+This year, you can also take your exams for certification by the Linux
+Professional Institute (LPI) and BSD Certification Group (BSDCG).
+
+FEATURED SPEAKERS and TOPICS
+
+Flourish! 2011's list of speakers include:
+
+ - Chris Palmer, Technology Director of the Electronic Frontier
+ Foundation, on Internet decentralization efforts
+ - Chris McAvoy, VP of Technology at Threadless, on "What Should You
+ Build?"
+ - Ryan "Icculus" Gordon, professional Linux 3D game developer
+ - Vinod Kutty, CME Group, on migrating to Linux on x86
+ - Cathy Malmrose, CEO of ZaReason, on stress-testing Linux hardware
+ - Mark Meeker, Principal UI Engineer for Orbitz Worldwide, on real-world
+ Web development
+ - Edward R. Swiderski III, partner at GreenCanyon, on "Is Software
+ Licensing Still Relevant?"
+ - Daliah Saper, Principal of SaperLaw, on the legal aspects of open
+ source
+ - Italo Vignoli, The Document Foundation, LibreOffice
+ - Mitch Altman, CEO of Cornfield Electronics, on forming communities
+ - Dru Lavigne, Community Manager of PC-BSD, on the PC-BSD desktop
+ - Dean Wampler, Principal of Aspect Research Associates, on Scala
+
+Complete list of speakers at http://www.flourishconf.com/2011/speakers
+
+WHEN
+
+April 1 - 3, 2011
+
+April 1, Evening Program
+Reception 4:00 - 4:30 p.m.
+Keynotes start at 4:30 p.m.
+
+April 2, Day-Long Program
+Morning Reception 9:00 a.m. - 10:00 a.m.
+Main conference starts at 10:00 a.m.
+
+April 3, Mid-Day Program
+Morning Reception 10:00 - 11:00 a.m.
+Day starts at 11:00 a.m
+
+
+Certification exams take place from 11am - 3pm. Go to the Flourish! website
+for more details: http://www.flourishconf.com/2011/exams
+
+Complete schedule will be available at
+http://www.flourishconf.com/2011/schedule
+
+WHERE
+
+UIC Student Center East
+750 South Halsted Street
+Chicago, IL
+
+WHO
+
+Flourish! is organized by the Computer Science department of the University
+of Illinois at Chicago's (UIC's) School of Engineering, as well as the
+University's Linux user group and chapter of the Association of Computing
+Machinery (ACM). The conference is sponsored in part by GreenCanyon, Linux
+Journal, the Linux Professional Institute, Orbitz, O'Reilly, SourceForge,
+Times Two Technology, Threadless and Ubuntu.
+
+HOW
+
+Registration is free at http://www.flourishconf.com/2011/registration
+
+Join us on Facebook at http://facebook.com/flourishconf/
+
+Conference updates and conversation-starters on Twitter at
+http://twitter.com/flourishconf/.
+From marinaz@redhat.com  Wed Mar 16 20:43:48 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id ABF3575034D;
+	Wed, 16 Mar 2011 20:43:48 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -4.212
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.212 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_MED=-2.3, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id mUONlya3PyPD; Wed, 16 Mar 2011 20:43:46 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 9282F7500E4;
+	Wed, 16 Mar 2011 20:43:38 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p2GKhb6w001872;
+	Wed, 16 Mar 2011 16:43:37 -0400
+Date: Wed, 16 Mar 2011 16:43:37 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list  <gnome-women-list@mail.gnome.org>
+Message-ID: <1169132938.395848.1300308217080.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <918577.394949.1300304712721.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.41]
+X-Mailer: Zimbra 6.0.9_GA_2686 (ZimbraWebClient - FF3.0 (Linux)/6.0.9_GA_2686)
+Cc: women-outreach <women-outreach@gnome.org>
+Subject: [gnome-women] Outreach Program for Women internships
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 16 Mar 2011 20:43:48 -0000
+
+Hi all!
+
+The eight GNOME Outreach Program for Women interns have just completed thei=
+r internships! Congratulations to everyone on the job well done! We definit=
+ely hope this was a great experience for you and you will stay involved in =
+GNOME!
+
+We have opened the application process for the new round of internships. Th=
+e dates for these internships are May 23 to August 22, 2011. These dates ma=
+tch the ones for the Google Summer of Code program, so I would like to enco=
+urage women who qualify for Google Summer of Code to apply for both program=
+s. Google Summer of Code requires applicants to be students applying for co=
+ding projects, while Outreach Program for Women internships are open to non=
+-students and non-coders. For example, three out of eight interns last roun=
+d were non-students, and two others worked on the Documentation Project.
+
+The application deadline is April 8, 2011. As part of the application proce=
+ss, we are asking women to take the time to learn about the participating p=
+rojects and make a small contribution to the one they are interested in. Th=
+ese projects include ones in programming, graphic design, documentation, an=
+d marketing.
+
+All the program details are here:
+http://live.gnome.org/GnomeWomen/OutreachProgram2011
+
+We also have an awesome flyer for the program that was designed and updated=
+ by M=C3=A1ir=C3=ADn Duffy:
+http://live.gnome.org/GnomeWomen/OutreachProgram2011?action=3DAttachFile&do=
+=3Dview&target=3Dgnome-women-outreach-poster_2011.png
+
+Please consider applying for the internship, signing up as a mentor, or hel=
+ping us spread the word! Send the information about the program to the univ=
+ersities and organizations, post the flyer on the university campuses or ha=
+nd it out at conferences, encourage anyone who'd be a good candidate to app=
+ly, or write an update on Identi.ca, Twitter or Facebook!
+
+All the materials for helping us spread the word are here:
+http://live.gnome.org/GnomeWomen/OutreachProgram2011/SpreadTheWord
+
+Thank you!
+Marina

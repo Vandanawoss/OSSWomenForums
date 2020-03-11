@@ -1,0 +1,330 @@
+From rauch at kde.org  Tue Mar 12 16:30:15 2013
+From: rauch at kde.org (Claudia Rauch)
+Date: Tue, 12 Mar 2013 17:30:15 +0100
+Subject: [Kde-women] Akademy 2013 Call for Presentations
+Message-ID: <CAA0Jy_zy7B_8+P=Wn7MNOUF0=QP9fQFwNMq7Wz3=h-DfxgC=Ow@mail.gmail.com>
+
+Hi ladies (and gentlemen) on this list,
+
+The Akademy program committee is still looking for talk proposals for
+Akademy 2013. The detailed CfP can be found here:
+http://akademy2013.kde.org/cfp
+
+The deadline for proposals is this Friday. Please consider submitting
+a proposal, even if you haven't done so before. This is your chance to
+present your application, share ideas and best practices, or gain new
+contributors. A cordial environment with people who want you to
+succeed. Don't be shy :).
+
+Thanks and looking forward to seeing many of you in Bilbao in July!
+Claudia
+
+PS. I'd like to organize another Women's BoF - if you have ideas or
+just want to attend, ping me.
+
+
+
+--
+
+Claudia Rauch
+Business Manager
+KDE e.V.
+Linienstr. 141
+10115 Berlin
+Germany
+Phone: +49 (0) 30 2023 7305 0
+Fax: +49 (0) 30 2023 7305 9
+Mobile: +49 178 522 3086
+
+KDE e.V. is a German Verein registered at the Amtsgericht Berlin
+(Charlottenburg), with number VR 31685 B. Its president is Cornelius
+Schumacher. For more information please see http://ev.kde.org, and
+http://kde.org/
+
+From agnes at meyder.eu  Sat Mar 16 15:41:36 2013
+From: agnes at meyder.eu (Agnes Meyder)
+Date: Sat, 16 Mar 2013 16:41:36 +0100
+Subject: [Kde-women] Short introduction
+Message-ID: <514492B0.8060003@meyder.eu>
+
+Hej everyone,
+
+I subscribed today to this list to combine two interests of mine.
+-> I like and use open source software, especially KDE, so why shouldn't
+I help in its development :).
+-> I am interested in the female corner of this movement in general.
+Huge mailing lists can also be quite a hassle :) so instead I would like
+to ask in a smaller group:
+
+As a phd student in bioinformatics (Hamburg/ Germany) my interests are
+mostly centered around machine learning and parallel programming.
+I am educated in the first and would like to find a project in the
+second field to rise from beginners level to .. anything better :). I
+dislike GUI development but am a "resource" if somebody wants to check
+her/his front end against visually impaired people because I am one.
+Does anyone have an idea of a fitting KDE project for me?
+
+Thanks for your answers!
+Agnes
+
+From lydia at kde.org  Mon Mar 18 10:29:13 2013
+From: lydia at kde.org (Lydia Pintscher)
+Date: Mon, 18 Mar 2013 11:29:13 +0100
+Subject: [Kde-women] Short introduction
+In-Reply-To: <514492B0.8060003@meyder.eu>
+References: <514492B0.8060003@meyder.eu>
+Message-ID: <CAFkLwpUC=PpZMayoeQ3QHDCOMZNkWmZ42oWQzqZzKXSk26dh+w@mail.gmail.com>
+
+On Sat, Mar 16, 2013 at 4:41 PM, Agnes Meyder <agnes at meyder.eu> wrote:
+> Hej everyone,
+>
+> I subscribed today to this list to combine two interests of mine.
+> -> I like and use open source software, especially KDE, so why shouldn't
+> I help in its development :).
+> -> I am interested in the female corner of this movement in general.
+> Huge mailing lists can also be quite a hassle :) so instead I would like
+> to ask in a smaller group:
+>
+> As a phd student in bioinformatics (Hamburg/ Germany) my interests are
+> mostly centered around machine learning and parallel programming.
+> I am educated in the first and would like to find a project in the
+> second field to rise from beginners level to .. anything better :). I
+> dislike GUI development but am a "resource" if somebody wants to check
+> her/his front end against visually impaired people because I am one.
+> Does anyone have an idea of a fitting KDE project for me?
+
+Hi Agnes,
+
+Nice to have you here!
+What do you mean with parallel programming exactly? There is probably
+some multithreading stuff in kdelibs.
+As for machine learning: There might be some for example in Simon
+Listens. Or you could talk to the KDEGames team and see if there is
+something in that direction for you.
+
+
+Cheers
+Lydia
+
+-- 
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+
+From myriam at kde.org  Wed Mar 20 13:19:51 2013
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Wed, 20 Mar 2013 14:19:51 +0100
+Subject: [Kde-women] Outreach Program for Women
+Message-ID: <CAGzoOB-SyW_6PPwVawSNAfe6OO9Jp9S4pSZZkX9K-_4j48nc9g@mail.gmail.com>
+
+Hi everyone,
+
+KDE will ?- for the first time this year - participate in the
+"Outreach Program for Women"[1]. This was originally started by GNOME,
+but has also other participating organisations like Wikimedia,
+Mozilla, Fedora and others.
+
+With KDAB as our sponsor we will be offering one internship. This is
+in no way only limited to coding, but includes user experience design,
+graphic design, documentation, web development, marketing, translation
+and other types of tasks needed to sustain a Free Software project.
+
+Prerequisits for application: Any woman who has not previously
+participated in an Outreach Program for Women or Google Summer of Code
+internship is welcome to apply, provided she is available for a
+full-time internship during this time period. This program is open to
+anyone who identifies as a woman regardless of gender presentation or
+assigned sex at birth. Genderqueer and genderfluid people are welcome
+to apply.
+
+The application deadline for candidates is already on May 1st, while
+the program runs from June 17 to September 23.
+
+Please all, suggest suitable tasks on this wiki page [2] and volunteer
+to mentor. Feel free to contact me or Lydia for more information.
+
+
+Regards, Myriam
+
+
+[1] https://live.gnome.org/OutreachProgramForWomen
+[2] https://community.kde.org/OutreachProgramForWomen
+--
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+
+From david at davidedmundson.co.uk  Wed Mar 20 21:39:48 2013
+From: david at davidedmundson.co.uk (David Edmundson)
+Date: Wed, 20 Mar 2013 21:39:48 +0000
+Subject: [Kde-women] Outreach Program for Women
+In-Reply-To: <CAGzoOB-SyW_6PPwVawSNAfe6OO9Jp9S4pSZZkX9K-_4j48nc9g@mail.gmail.com>
+References: <CAGzoOB-SyW_6PPwVawSNAfe6OO9Jp9S4pSZZkX9K-_4j48nc9g@mail.gmail.com>
+Message-ID: <CAGeFrHBbGjUwbS3Jt9ct1APLd5LsQqqkmdY0Qosrf=aSg8U1VA@mail.gmail.com>
+
+On Wed, Mar 20, 2013 at 1:19 PM, Myriam Schweingruber <myriam at kde.org> wrote:
+> Hi everyone,
+>
+> KDE will ?- for the first time this year - participate in the
+> "Outreach Program for Women"[1]. This was originally started by GNOME,
+> but has also other participating organisations like Wikimedia,
+> Mozilla, Fedora and others.
+>
+> With KDAB as our sponsor we will be offering one internship. This is
+> in no way only limited to coding, but includes user experience design,
+> graphic design, documentation, web development, marketing, translation
+> and other types of tasks needed to sustain a Free Software project.
+>
+> Prerequisits for application: Any woman who has not previously
+> participated in an Outreach Program for Women or Google Summer of Code
+> internship is welcome to apply, provided she is available for a
+> full-time internship during this time period. This program is open to
+> anyone who identifies as a woman regardless of gender presentation or
+> assigned sex at birth. Genderqueer and genderfluid people are welcome
+> to apply.
+>
+> The application deadline for candidates is already on May 1st, while
+> the program runs from June 17 to September 23.
+>
+> Please all, suggest suitable tasks on this wiki page [2] and volunteer
+> to mentor. Feel free to contact me or Lydia for more information.
+>
+
+Do you need anything from us as developers?
+>From our point of view is it effectively just like having one extra
+GSOC student?
+
+I would suggest adding on the KDE wiki page instructions on how to
+apply, linking to the relevant bit of the Gnome wiki. As I understand
+it they are to email  opw-list at gnome.org, how do these get back to us?
+
+David Edmundson
+
+> Regards, Myriam
+>
+>
+> [1] https://live.gnome.org/OutreachProgramForWomen
+> [2] https://community.kde.org/OutreachProgramForWomen
+> --
+> Proud member of the Amarok and KDE Community
+> Protect your freedom and join the Fellowship of FSFE:
+> http://www.fsfe.org
+> Please don't send me proprietary file formats,
+> use ISO standard ODF instead (ISO/IEC 26300)
+> _______________________________________________
+> Kde-testing mailing list
+> Kde-testing at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-testing
+
+From myriam at kde.org  Thu Mar 21 09:34:56 2013
+From: myriam at kde.org (Myriam Schweingruber)
+Date: Thu, 21 Mar 2013 10:34:56 +0100
+Subject: [Kde-women] Outreach Program for Women
+In-Reply-To: <CAGeFrHBbGjUwbS3Jt9ct1APLd5LsQqqkmdY0Qosrf=aSg8U1VA@mail.gmail.com>
+References: <CAGzoOB-SyW_6PPwVawSNAfe6OO9Jp9S4pSZZkX9K-_4j48nc9g@mail.gmail.com>
+ <CAGeFrHBbGjUwbS3Jt9ct1APLd5LsQqqkmdY0Qosrf=aSg8U1VA@mail.gmail.com>
+Message-ID: <CAGzoOB8WE4v_j1cu17LUcKzUGC0Dxb9VhW8UpHHmp014qbh_mQ@mail.gmail.com>
+
+Hi David,
+
+On Wed, Mar 20, 2013 at 10:39 PM, David Edmundson
+<david at davidedmundson.co.uk> wrote:
+
+>
+> Do you need anything from us as developers?
+> From our point of view is it effectively just like having one extra
+> GSOC student?
+
+Not exactly, as the OPW is not aimed at students only, and it can also
+be abvout projects not related to coding directly. So if you have a
+task suggestion that is little or not at all about code and more about
+all the rest of work that needs to be done in KDE, please add it to
+the wiki page.
+>
+> I would suggest adding on the KDE wiki page instructions on how to
+> apply, linking to the relevant bit of the Gnome wiki. As I understand
+> it they are to email  opw-list at gnome.org, how do these get back to us?
+
+The OPW admins will forward them. But yes, I will add the links for
+that, good point.
+
+Before they actually send the application they have to get in touch
+with us and make a contribution, as it will be part of their
+application.
+
+
+Regards, Myriam
+
+-- 
+Proud member of the Amarok and KDE Community
+Protect your freedom and join the Fellowship of FSFE:
+http://www.fsfe.org
+Please don't send me proprietary file formats,
+use ISO standard ODF instead (ISO/IEC 26300)
+
+From agnes at meyder.eu  Sun Mar 24 13:00:30 2013
+From: agnes at meyder.eu (Agnes Meyder)
+Date: Sun, 24 Mar 2013 14:00:30 +0100
+Subject: [Kde-women] Short introduction
+In-Reply-To: <CAFkLwpUC=PpZMayoeQ3QHDCOMZNkWmZ42oWQzqZzKXSk26dh+w@mail.gmail.com>
+References: <514492B0.8060003@meyder.eu>
+ <CAFkLwpUC=PpZMayoeQ3QHDCOMZNkWmZ42oWQzqZzKXSk26dh+w@mail.gmail.com>
+Message-ID: <514EF8EE.4090307@meyder.eu>
+
+Hej Lydia,
+
+Thanks for your answer.
+Am 18.03.2013 11:29, schrieb Lydia Pintscher:
+> What do you mean with parallel programming exactly? 
+On the long term openMPI, openAcc would be nice.
+On the base level I would appreciate learning how to program parallel
+algorithms and debug them. A project where I would like to contribute
+would be quite a motivation to work through the study book lying on my
+desk since weeks.
+
+There is probably
+> some multithreading stuff in kdelibs.
+Oh thanks for stating the obvious :). I didn't know that some projects I
+have heard of are actually in kdelibs.
+> As for machine learning: There might be some for example in Simon
+> Listens. 
+I haven't heard of that at all. Thanks for it already in general.
+
+Looking forward to contributing
+Agnes
+
+
+From lydia at kde.org  Sun Mar 24 20:39:31 2013
+From: lydia at kde.org (Lydia Pintscher)
+Date: Sun, 24 Mar 2013 21:39:31 +0100
+Subject: [Kde-women] Outreach Program for Women
+In-Reply-To: <CAGzoOB-SyW_6PPwVawSNAfe6OO9Jp9S4pSZZkX9K-_4j48nc9g@mail.gmail.com>
+References: <CAGzoOB-SyW_6PPwVawSNAfe6OO9Jp9S4pSZZkX9K-_4j48nc9g@mail.gmail.com>
+Message-ID: <CAFkLwpV1AuWiWhXCVyJ7mCobcR0k6KUn+Qx3qZDdGKo+HifkbQ@mail.gmail.com>
+
+Hey :)
+
+Just in case you're unsure about what kind of ideas to propose...
+Wikimedia has taken part in the last round and the interns worked on
+such things as
+* release management
+* organizing bug triage days
+* making an inventory of MediaWiki consultants/companies
+* documenting noteworthy templates on-wiki
+* writing an extension
+* creating designs and workflows for a new project
+
+Much more is possible. This is your chance to get some important work
+done ;-)  Add ideas to the ideas page please.
+
+
+Cheers
+Lydia
+
+--
+Lydia Pintscher - http://about.me/lydia.pintscher
+KDE Community Working Group / KDE e.V. board member
+http://kde.org - http://open-advice.org
+

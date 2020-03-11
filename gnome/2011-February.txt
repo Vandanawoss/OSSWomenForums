@@ -1,0 +1,391 @@
+From marinaz@redhat.com  Thu Feb 10 05:12:10 2011
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A841B750195
+	for <gnome-women-list@gnome.org>; Thu, 10 Feb 2011 05:12:10 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1J04MYMG9tIq for <gnome-women-list@gnome.org>;
+	Thu, 10 Feb 2011 05:12:07 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id 4F74E750172
+	for <gnome-women-list@gnome.org>; Thu, 10 Feb 2011 05:11:38 +0000 (UTC)
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id p1A5BbjR017568
+	for <gnome-women-list@gnome.org>; Thu, 10 Feb 2011 00:11:37 -0500
+Date: Thu, 10 Feb 2011 00:11:37 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list  <gnome-women-list@gnome.org>
+Message-ID: <2094762235.300343.1297314697693.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.41]
+X-Mailer: Zimbra 6.0.9_GA_2686 (ZimbraWebClient - FF3.0 (Linux)/6.0.9_GA_2686)
+Subject: [gnome-women] Outreach Program for Women quarterly update
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 10 Feb 2011 05:12:10 -0000
+
+Hi!
+
+Outreach Program for Women quarterly update for Q4 is below. You can also f=
+ind it on:
+http://live.gnome.org/GnomeMarketing/QuarterlyReports/2010/Q4
+
+Please let me know if you'd like to add anything!
+
+Thanks,
+Marina
+
+------------------------
+
+Outreach Program for Women
+
+by: Marina Zhurakhinskaya
+
+The GNOME project proudly announced eight Outreach Program for Women intern=
+s on November 5 in the following press release: http://www.gnome.org/press/=
+releases/2010-11-women-outreach-interns.html . We were able to accept eight=
+ strong candidates thanks to Google sponsoring four of them, the GNOME Foun=
+dation sponsoring three, and Collabora sponsoring one. The participants, as=
+ well as their location, project, and mentor, are:
+
+  * Tiffany Antopolski, Toronto, Canada - Documentation - Paul Cutler
+  * Nanci de Brito Bonfim, Salvador, Brazil - Anjuta - S=C3=A9bastien Granj=
+oux
+  * Luciana Fujii Pontello, Belo Horizonte, Brazil - Cheese - Thiago Sousa =
+Santos
+  * Eugenia Gabrielova, Chicago, USA - Anjuta - Johannes Schmid
+  * Laura Elisa Lucas Alday, Buenos Aires, Argentina - Cheese - Daniel Sieg=
+el
+  * Hellyna Ng, Johor, Malaysia / Singapore - GNOME Shell - Marina Zhurakhi=
+nskaya
+  * Natalia Andrea Ruz Leiva, Valpara=C3=ADso, Chile - Documentation - Paul=
+ Cutler
+  * Chandni Verma, Lucknow, India - Empathy - Danielle Madeley
+
+The following blog post has more information about each participant as well=
+ as the links to their individual blogs: http://blogs.gnome.org/marina/2010=
+/11/05/meet-the-gnome-outreach-program-for-women-interns The participants h=
+ave started their internships on December 15 and have been updating the GNO=
+ME community about their work with frequent blog posts that are aggregated =
+on Planet GNOME. The internships period will end March 15. We are hoping th=
+at all of the participants will stay active in the GNOME community past the=
+ completion of their internships.
+
+We are planning to run the next round of internships from end of May throug=
+h end of August, with the application process announced sometime in the beg=
+inning of March and the application deadline on April 8. This application d=
+eadline is same as the application deadline for Google Summer of Code (GSoC=
+) this year, which will allow us to direct qualifying applicants to apply f=
+or both programs. GNOME has historically had few female applicants for GSoC=
+, and running these programs in parallel will bring the attention of more f=
+emale student coders to the opportunity to participate in GSoC. Unlike GSoC=
+, GNOME Outreach Program for Women doesn=E2=80=99t require applicants to be=
+ students and includes non-coding internships, such as documentation, graph=
+ic design and marketing.
+
+M=C3=A1ir=C3=ADn Duffy has completed teaching Girl Scouts=E2=80=99 Digital =
+Media Course that she developed as part of the FSF Womens' Caucus' =E2=80=
+=9CBringing free software to girls and young women=E2=80=9D outreach progra=
+m with the Girl Scouts of Eastern Massachusetts and Red Hat. The course con=
+sisted of 9 weekly two hour sessions teaching photo and image manipulation =
+using Gimp and Inkscape. The excellent handout materials that M=C3=A1ir=C3=
+=ADn developed for the course can be found in her wrap up blog post: http:/=
+/mairin.wordpress.com/2011/01/26/girl-scouts=E2=80=99-digital-media-course-=
+materials These materials can be used for other similar courses by anyone i=
+nterested in teaching them.
+From emilychen522@gmail.com  Thu Feb 10 13:56:13 2011
+Return-Path: <emilychen522@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 102B0750373
+	for <gnome-women-list@gnome.org>; Thu, 10 Feb 2011 13:56:13 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.146
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.146 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=1.553,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id GXI4JVKS1obU for <gnome-women-list@gnome.org>;
+	Thu, 10 Feb 2011 13:56:09 +0000 (UTC)
+Received: from mail-fx0-f54.google.com (mail-fx0-f54.google.com
+	[209.85.161.54])
+	by menubar.gnome.org (Postfix) with ESMTP id 5B8A57503B5
+	for <gnome-women-list@gnome.org>; Thu, 10 Feb 2011 13:56:00 +0000 (UTC)
+Received: by fxm16 with SMTP id 16so1574006fxm.27
+	for <gnome-women-list@gnome.org>; Thu, 10 Feb 2011 05:55:58 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:in-reply-to:references:date
+	:message-id:subject:from:to:cc:content-type;
+	bh=GliSXY3PIgIbzZdhTeDhWenf0WZKg7Gvwa/5y8FgR0I=;
+	b=J/M+oL1k1DB+Ef9CnG47wJPAj7f/WNS5AnTXIkLhorF3mLC4zMvFXn+6x0HKXJryb5
+	0BZ6tQdZfU58eo+NfAV43bgppv/EwaXRnWX8Y3oyejTBCFtfSEs/apqip6i+zxmXdptb
+	Hsr3LE0N7hsBOxX4yNlANzpwiT/kIKtZZj6WU=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	b=GHEELsCJf1I/GrVL5kwTrjCdBg8DcSYcjMBm6kTHuQqF4j7xt+k0tIVnIKwEhw+8TG
+	AvIp4boWW+8MbXnxzjYWH+I/bMfa0Bbp15klXNS8dWRmUorSOnWPAV5TL6FUU0E89YSj
+	eScPOaiDN2rF7Z1EyqaAJ0a8ilWiKl/fcL4gs=
+MIME-Version: 1.0
+Received: by 10.223.101.206 with SMTP id d14mr3251160fao.134.1297346158589;
+	Thu, 10 Feb 2011 05:55:58 -0800 (PST)
+Received: by 10.223.111.78 with HTTP; Thu, 10 Feb 2011 05:55:58 -0800 (PST)
+In-Reply-To: <2094762235.300343.1297314697693.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <2094762235.300343.1297314697693.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Thu, 10 Feb 2011 21:55:58 +0800
+Message-ID: <AANLkTin6M2zFEHBz5ERS7VHBQU2LEt5Af5jzrLT5F-L=@mail.gmail.com>
+From: Emily Chen <emilychen522@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=20cf3054a507eef943049bedf0b2
+Cc: gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] Outreach Program for Women quarterly update
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 10 Feb 2011 13:56:13 -0000
+
+--20cf3054a507eef943049bedf0b2
+Content-Type: text/plain; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Hi Marina,
+
+This is awsome. Great to see these good progress.
+
+M=E1ir=EDn's "Girl Scouts=92 Digital Media Course" might a good example for=
+ me to
+do the same thing in China.
+
+-Emily
+
+2011/2/10 Marina Zhurakhinskaya <marinaz@redhat.com>
+
+> Hi!
+>
+> Outreach Program for Women quarterly update for Q4 is below. You can also
+> find it on:
+> http://live.gnome.org/GnomeMarketing/QuarterlyReports/2010/Q4
+>
+> Please let me know if you'd like to add anything!
+>
+> Thanks,
+> Marina
+>
+> ------------------------
+>
+> Outreach Program for Women
+>
+> by: Marina Zhurakhinskaya
+>
+> The GNOME project proudly announced eight Outreach Program for Women
+> interns on November 5 in the following press release:
+> http://www.gnome.org/press/releases/2010-11-women-outreach-interns.html .
+> We were able to accept eight strong candidates thanks to Google sponsorin=
+g
+> four of them, the GNOME Foundation sponsoring three, and Collabora
+> sponsoring one. The participants, as well as their location, project, and
+> mentor, are:
+>
+>  * Tiffany Antopolski, Toronto, Canada - Documentation - Paul Cutler
+>  * Nanci de Brito Bonfim, Salvador, Brazil - Anjuta - S=E9bastien Granjou=
+x
+>  * Luciana Fujii Pontello, Belo Horizonte, Brazil - Cheese - Thiago Sousa
+> Santos
+>  * Eugenia Gabrielova, Chicago, USA - Anjuta - Johannes Schmid
+>  * Laura Elisa Lucas Alday, Buenos Aires, Argentina - Cheese - Daniel
+> Siegel
+>  * Hellyna Ng, Johor, Malaysia / Singapore - GNOME Shell - Marina
+> Zhurakhinskaya
+>  * Natalia Andrea Ruz Leiva, Valpara=EDso, Chile - Documentation - Paul
+> Cutler
+>  * Chandni Verma, Lucknow, India - Empathy - Danielle Madeley
+>
+> The following blog post has more information about each participant as we=
+ll
+> as the links to their individual blogs:
+> http://blogs.gnome.org/marina/2010/11/05/meet-the-gnome-outreach-program-=
+for-women-internsThe participants have started their internships on Decembe=
+r 15 and have been
+> updating the GNOME community about their work with frequent blog posts th=
+at
+> are aggregated on Planet GNOME. The internships period will end March 15.=
+ We
+> are hoping that all of the participants will stay active in the GNOME
+> community past the completion of their internships.
+>
+> We are planning to run the next round of internships from end of May
+> through end of August, with the application process announced sometime in
+> the beginning of March and the application deadline on April 8. This
+> application deadline is same as the application deadline for Google Summe=
+r
+> of Code (GSoC) this year, which will allow us to direct qualifying
+> applicants to apply for both programs. GNOME has historically had few fem=
+ale
+> applicants for GSoC, and running these programs in parallel will bring th=
+e
+> attention of more female student coders to the opportunity to participate=
+ in
+> GSoC. Unlike GSoC, GNOME Outreach Program for Women doesn=92t require
+> applicants to be students and includes non-coding internships, such as
+> documentation, graphic design and marketing.
+>
+> M=E1ir=EDn Duffy has completed teaching Girl Scouts=92 Digital Media Cour=
+se that
+> she developed as part of the FSF Womens' Caucus' =93Bringing free softwar=
+e to
+> girls and young women=94 outreach program with the Girl Scouts of Eastern
+> Massachusetts and Red Hat. The course consisted of 9 weekly two hour
+> sessions teaching photo and image manipulation using Gimp and Inkscape. T=
+he
+> excellent handout materials that M=E1ir=EDn developed for the course can =
+be
+> found in her wrap up blog post:
+> http://mairin.wordpress.com/2011/01/26/girl-scouts=92-digital-media-cours=
+e-materials
+> These materials can be used for other similar courses by anyone intereste=
+d
+> in teaching them.
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+--20cf3054a507eef943049bedf0b2
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: quoted-printable
+
+Hi Marina, <br><br>This is awsome. Great to see these good progress. <br><b=
+r>M=E1ir=EDn&#39;s &quot;Girl Scouts=92 Digital Media Course&quot; might a =
+good example for me to do the same thing in China. <br><br>-Emily <br><br><=
+div class=3D"gmail_quote">
+2011/2/10 Marina Zhurakhinskaya <span dir=3D"ltr">&lt;<a href=3D"mailto:mar=
+inaz@redhat.com">marinaz@redhat.com</a>&gt;</span><br><blockquote class=3D"=
+gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-=
+left:1ex;">
+Hi!<br>
+<br>
+Outreach Program for Women quarterly update for Q4 is below. You can also f=
+ind it on:<br>
+<a href=3D"http://live.gnome.org/GnomeMarketing/QuarterlyReports/2010/Q4" t=
+arget=3D"_blank">http://live.gnome.org/GnomeMarketing/QuarterlyReports/2010=
+/Q4</a><br>
+<br>
+Please let me know if you&#39;d like to add anything!<br>
+<br>
+Thanks,<br>
+Marina<br>
+<br>
+------------------------<br>
+<br>
+Outreach Program for Women<br>
+<br>
+by: Marina Zhurakhinskaya<br>
+<br>
+The GNOME project proudly announced eight Outreach Program for Women intern=
+s on November 5 in the following press release: <a href=3D"http://www.gnome=
+.org/press/releases/2010-11-women-outreach-interns.html" target=3D"_blank">=
+http://www.gnome.org/press/releases/2010-11-women-outreach-interns.html</a>=
+ . We were able to accept eight strong candidates thanks to Google sponsori=
+ng four of them, the GNOME Foundation sponsoring three, and Collabora spons=
+oring one. The participants, as well as their location, project, and mentor=
+, are:<br>
+
+<br>
+ =A0* Tiffany Antopolski, Toronto, Canada - Documentation - Paul Cutler<br>
+ =A0* Nanci de Brito Bonfim, Salvador, Brazil - Anjuta - S=E9bastien Granjo=
+ux<br>
+ =A0* Luciana Fujii Pontello, Belo Horizonte, Brazil - Cheese - Thiago Sous=
+a Santos<br>
+ =A0* Eugenia Gabrielova, Chicago, USA - Anjuta - Johannes Schmid<br>
+ =A0* Laura Elisa Lucas Alday, Buenos Aires, Argentina - Cheese - Daniel Si=
+egel<br>
+ =A0* Hellyna Ng, Johor, Malaysia / Singapore - GNOME Shell - Marina Zhurak=
+hinskaya<br>
+ =A0* Natalia Andrea Ruz Leiva, Valpara=EDso, Chile - Documentation - Paul =
+Cutler<br>
+ =A0* Chandni Verma, Lucknow, India - Empathy - Danielle Madeley<br>
+<br>
+The following blog post has more information about each participant as well=
+ as the links to their individual blogs: <a href=3D"http://blogs.gnome.org/=
+marina/2010/11/05/meet-the-gnome-outreach-program-for-women-interns" target=
+=3D"_blank">http://blogs.gnome.org/marina/2010/11/05/meet-the-gnome-outreac=
+h-program-for-women-interns</a> The participants have started their interns=
+hips on December 15 and have been updating the GNOME community about their =
+work with frequent blog posts that are aggregated on Planet GNOME. The inte=
+rnships period will end March 15. We are hoping that all of the participant=
+s will stay active in the GNOME community past the completion of their inte=
+rnships.<br>
+
+<br>
+We are planning to run the next round of internships from end of May throug=
+h end of August, with the application process announced sometime in the beg=
+inning of March and the application deadline on April 8. This application d=
+eadline is same as the application deadline for Google Summer of Code (GSoC=
+) this year, which will allow us to direct qualifying applicants to apply f=
+or both programs. GNOME has historically had few female applicants for GSoC=
+, and running these programs in parallel will bring the attention of more f=
+emale student coders to the opportunity to participate in GSoC. Unlike GSoC=
+, GNOME Outreach Program for Women doesn=92t require applicants to be stude=
+nts and includes non-coding internships, such as documentation, graphic des=
+ign and marketing.<br>
+
+<br>
+M=E1ir=EDn Duffy has completed teaching Girl Scouts=92 Digital Media Course=
+ that she developed as part of the FSF Womens&#39; Caucus&#39; =93Bringing =
+free software to girls and young women=94 outreach program with the Girl Sc=
+outs of Eastern Massachusetts and Red Hat. The course consisted of 9 weekly=
+ two hour sessions teaching photo and image manipulation using Gimp and Ink=
+scape. The excellent handout materials that M=E1ir=EDn developed for the co=
+urse can be found in her wrap up blog post: <a href=3D"http://mairin.wordpr=
+ess.com/2011/01/26/girl-scouts" target=3D"_blank">http://mairin.wordpress.c=
+om/2011/01/26/girl-scouts</a>=92-digital-media-course-materials These mater=
+ials can be used for other similar courses by anyone interested in teaching=
+ them.<br>
+
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a></bl=
+ockquote></div><br>
+
+--20cf3054a507eef943049bedf0b2--

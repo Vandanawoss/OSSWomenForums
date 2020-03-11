@@ -1,0 +1,147 @@
+From leigh at rsvs.ulaval.ca  Wed Nov 16 19:49:40 2005
+From: leigh at rsvs.ulaval.ca (Leigh Willard)
+Date: Wed, 16 Nov 2005 13:49:40 -0500
+Subject: [Kde-women] applet help
+Message-ID: <437B7F44.30208@rsvs.ulaval.ca>
+
+Hello Group,
+
+I have written my first kde application - a kicker applet.  I must admit, I've 
+had a lot of fun writing this little program for my lab that reminds people when 
+it's time to do their backups.  However, there is one problem left that I need 
+to resolve.  When I install my application into the kicker, and I open my 
+"configure" panel for my applet, the entire kicker panel locks up (blocks) until 
+I close my configuration window eg. I cannot use any of the kde menus, switch 
+workspaces, or open applications from the panel.  I have installed some other 
+third-party kicker applets, and they do the same thing for me.    I am using kde 
+3.4, but I believe that kde 3.3 also has the same problem.  Are there any applet 
+programmers out there that can help me?
+
+Thanks!
+Leigh Willard
+leigh at rsvs.ulaval.ca
+
+From eva.brucherseifer at basyskom.de  Wed Nov 16 23:08:29 2005
+From: eva.brucherseifer at basyskom.de (Eva Brucherseifer)
+Date: Wed, 16 Nov 2005 23:08:29 +0100
+Subject: [Kde-women] applet help
+In-Reply-To: <437B7F44.30208@rsvs.ulaval.ca>
+References: <437B7F44.30208@rsvs.ulaval.ca>
+Message-ID: <200511162308.30194.eva.brucherseifer@basyskom.de>
+
+Hi Leigh,
+
+On Wednesday 16 November 2005 19:49, Leigh Willard wrote:
+> Hello Group,
+>
+> I have written my first kde application - a kicker applet.  I must admit,
+> I've had a lot of fun writing this little program for my lab that reminds
+> people when it's time to do their backups.  However, there is one problem
+> left that I need to resolve.  When I install my application into the
+> kicker, and I open my "configure" panel for my applet, the entire kicker
+> panel locks up (blocks) until I close my configuration window eg. I cannot
+> use any of the kde menus, switch workspaces, or open applications from the
+> panel.  I have installed some other third-party kicker applets, and they do
+> the same thing for me.    I am using kde 3.4, but I believe that kde 3.3
+> also has the same problem.  Are there any applet programmers out there that
+> can help me?
+
+This is strange, as the kicker applets I have running here don't show that 
+behaviour. 
+
+For your own app you should check wether your dialog is modal. there is a 
+parameter in the contstructor switching between modal and non-modal.
+
+Hope that helps! Otherwise I suggest to ask on kde-devel at kde.org.
+
+Greetings,
+eva
+
+
+
+>
+> Thanks!
+> Leigh Willard
+> leigh at rsvs.ulaval.ca
+> _______________________________________________
+> kde-women mailing list
+> kde-women at kde.org
+> https://mail.kde.org/mailman/listinfo/kde-women
+
+-- 
+Eva Brucherseifer
+General Manager
+
+basysKom GmbH
+Robert-Bosch-Str. 7 | 64293 Darmstadt | Germany
+Tel: +49 6151 3969-961 | Fax: -736 | Mobile: +49 170 5533642
+eva.brucherseifer at basyskom.de | www.basyskom.de
+
+From leigh at rsvs.ulaval.ca  Thu Nov 17 16:30:28 2005
+From: leigh at rsvs.ulaval.ca (Leigh Willard)
+Date: Thu, 17 Nov 2005 10:30:28 -0500
+Subject: [Kde-women] applet help
+In-Reply-To: <200511162308.30194.eva.brucherseifer@basyskom.de>
+References: <437B7F44.30208@rsvs.ulaval.ca>
+	<200511162308.30194.eva.brucherseifer@basyskom.de>
+Message-ID: <437CA214.2050603@rsvs.ulaval.ca>
+
+Hi Eva,
+
+Okay I just checked and modal is definitely set to false.  But what I did was 
+take the code of another application, then re-wrote it with my own code.  So if 
+there was something wrong in the original code, I have no doubt copied it.
+
+I am going to start work on my second panel applet today, and this time I am 
+going to start from code that works properly when I click on "configure". 
+However, I had a hard time finding an example application that doesn't block me 
+when I click on "configure".  Have you installed any third-party kicker applets?
+
+Thanks for your reply!
+Leigh Willard
+
+
+Eva Brucherseifer wrote:
+> Hi Leigh,
+> 
+> On Wednesday 16 November 2005 19:49, Leigh Willard wrote:
+> 
+>>Hello Group,
+>>
+>>I have written my first kde application - a kicker applet.  I must admit,
+>>I've had a lot of fun writing this little program for my lab that reminds
+>>people when it's time to do their backups.  However, there is one problem
+>>left that I need to resolve.  When I install my application into the
+>>kicker, and I open my "configure" panel for my applet, the entire kicker
+>>panel locks up (blocks) until I close my configuration window eg. I cannot
+>>use any of the kde menus, switch workspaces, or open applications from the
+>>panel.  I have installed some other third-party kicker applets, and they do
+>>the same thing for me.    I am using kde 3.4, but I believe that kde 3.3
+>>also has the same problem.  Are there any applet programmers out there that
+>>can help me?
+> 
+> 
+> This is strange, as the kicker applets I have running here don't show that 
+> behaviour. 
+> 
+> For your own app you should check wether your dialog is modal. there is a 
+> parameter in the contstructor switching between modal and non-modal.
+> 
+> Hope that helps! Otherwise I suggest to ask on kde-devel at kde.org.
+> 
+> Greetings,
+> eva
+> 
+> 
+> 
+> 
+>>Thanks!
+>>Leigh Willard
+>>leigh at rsvs.ulaval.ca
+>>_______________________________________________
+>>kde-women mailing list
+>>kde-women at kde.org
+>>https://mail.kde.org/mailman/listinfo/kde-women
+> 
+> 
+

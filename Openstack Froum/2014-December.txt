@@ -1,0 +1,28 @@
+From kathyc at openstack.org  Thu Dec 18 20:40:41 2014
+From: kathyc at openstack.org (Kathy Cacciatore)
+Date: Thu, 18 Dec 2014 14:40:41 -0600 (CST)
+Subject: [Women-of-openstack] 2015 OpenStack Events Plan and Call for Papers
+Message-ID: <1418935241.843132252@mail.openstack.org>
+
+
+I apologize in advance for those of you who are on multiple mailing lists (Marketing, Community, Women of OpenStack, and the Enterprise workgroup.  Please delete duplicates, thanks!
+ 
+The 2015 event plan is now available.   We've posted the information in the OpenStack blog, direct link [ http://www.openstack.org/blog/2014/12/2015-openstack-foundation-events-plan-and-calls-for-papers-available/ ]( http://www.openstack.org/blog/2014/12/2015-openstack-foundation-events-plan-and-calls-for-papers-available/ ). We're accepting feedback and input. There are also opportunities to join the Foundation at first half 2015 events in London and Melbourne.  
+ 
+Be sure to check out the CFP deadlines (Call for Papers/Proposals - requests for speaking sessions).  Many are coming up soon.  For example, the deadline to submit a session request for the June Cloud Expo East, DevOps Summit, Big Data Expo, IoT Expo, and SDDC Expo - all co-located events in New York City - is December 31, 2014.  Sessions are the best way to reach prospective OpenStack users while demonstrating your knowledge and expertise.  
+ 
+Thank you for your support of events this year and we look forward to your participation in 2015.  Happy holidays to you and yours!
+ 
+-- 
+Regards, 
+
+Kathy Cacciatore
+Consulting Marketing Manager
+OpenStack Foundation
+1-512-970-2807 (mobile)
+Part time: Monday - Thursday, 9am - 2pm US CT
+kathyc at openstack.org
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20141218/1552ea7e/attachment.html>
+

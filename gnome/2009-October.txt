@@ -1,0 +1,1124 @@
+From marinaz@redhat.com  Thu Oct  1 05:04:35 2009
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 8892D75019F
+	for <gnome-women-list@gnome.org>; Thu,  1 Oct 2009 05:04:35 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id QI3RmnmNZ8-D for <gnome-women-list@gnome.org>;
+	Thu,  1 Oct 2009 05:04:26 +0000 (GMT)
+Received: from mx1.redhat.com (mx1.redhat.com [209.132.183.28])
+	by menubar.gnome.org (Postfix) with ESMTP id B5A047500F1
+	for <gnome-women-list@gnome.org>; Thu,  1 Oct 2009 05:04:18 +0000 (GMT)
+Received: from int-mx05.intmail.prod.int.phx2.redhat.com
+	(int-mx05.intmail.prod.int.phx2.redhat.com [10.5.11.18])
+	by mx1.redhat.com (8.13.8/8.13.8) with ESMTP id n9154Hfp011440
+	for <gnome-women-list@gnome.org>; Thu, 1 Oct 2009 01:04:17 -0400
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by int-mx05.intmail.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP
+	id n9154GEw010831
+	for <gnome-women-list@gnome.org>; Thu, 1 Oct 2009 01:04:16 -0400
+Date: Thu, 1 Oct 2009 01:04:16 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <382513773.943291254373456995.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <684599132.943271254373427495.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.5.41]
+X-Scanned-By: MIMEDefang 2.67 on 10.5.11.18
+Subject: [gnome-women] IRC meeting about a new women outreach program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 01 Oct 2009 05:04:35 -0000
+
+Hi all,
+
+We are going to hold the first IRC meeting about a new women outreach program today (Thursday) at 2pm EST on #gnome-women on irc.gnome.org
+
+We are planning to discuss:
+* what was learned from running the program in 2006
+* format for this years program
+* search for mentors
+* fundraising for this years program
+* any ideas you have about the program or about increasing participation of women in GNOME
+
+The updated page with ideas about the program is here:
+http://live.gnome.org/GnomeWomen/OutreachProgram
+
+In particular, it contains a link to the comments that one of the organizers of the program in 2006, Chris Ball, had about the program:
+http://live.gnome.org/GnomeWomen/OutreachProgram/2006
+
+Please join the IRC meeting if you can or share any thoughts on the mailing list.
+
+Thanks,
+Marina
+From svaksha@gmail.com  Fri Oct  2 07:07:07 2009
+Return-Path: <svaksha@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 3DE5475019C
+	for <gnome-women-list@gnome.org>; Fri,  2 Oct 2009 07:07:07 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id W9TJQx4gat+7 for <gnome-women-list@gnome.org>;
+	Fri,  2 Oct 2009 07:06:57 +0000 (GMT)
+Received: from mail-yx0-f176.google.com (mail-yx0-f176.google.com
+	[209.85.210.176])
+	by menubar.gnome.org (Postfix) with ESMTP id 8FF2E7500C3
+	for <gnome-women-list@gnome.org>; Fri,  2 Oct 2009 07:06:49 +0000 (GMT)
+Received: by yxe6 with SMTP id 6so911427yxe.13
+	for <gnome-women-list@gnome.org>; Fri, 02 Oct 2009 00:06:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:in-reply-to:references
+	:date:message-id:subject:from:to:content-type;
+	bh=QYpNuPbWTfarAtqlm24AUu574RVMQ+YH5lEbJDyB100=;
+	b=umFwaKMHIL3yxIY0PEnL/rcS7V8pQNZYLlcw/egxQ+MpbQR9sXq+rqQR8qm+HM23eZ
+	UCxVJNzD9AozMFfic300ZeJ/zuaD5yBl0kSjCdsapBg+eDUpseaaAbh3SuazqiNLCYpl
+	By0hsTVJj/55KG0djKUxHGImQXi3+ODB8N+SE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:content-type;
+	b=FoZ1fLpXmdLRSTgJyBzdtB+yE3yg17snoKp50/pWK9wcm5qLyYMRnvVEoF+VvRyh9+
+	s0clrh2G7z5mxn4w9h+OVGUr0DHLAkrTRaCvpxV9j3kiMmVoC2QJRNv9ufednAF9JgrF
+	cXqd6LKPlKkGbOMpB3cARBuSAv+mDO1iqwY90=
+MIME-Version: 1.0
+Received: by 10.101.126.10 with SMTP id d10mr2345010ann.147.1254467207321; 
+	Fri, 02 Oct 2009 00:06:47 -0700 (PDT)
+In-Reply-To: <382513773.943291254373456995.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <684599132.943271254373427495.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+	<382513773.943291254373456995.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Fri, 2 Oct 2009 12:51:47 +0545
+Message-ID: <12470af00910020006v7dec7afaye0a4e4beca3e23cd@mail.gmail.com>
+From: VidA <svaksha@gmail.com>
+To: gnome-women-list@gnome.org
+Content-Type: text/plain; charset=UTF-8
+Subject: Re: [gnome-women] IRC meeting about a new women outreach program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 02 Oct 2009 07:07:07 -0000
+
+Hi ! I was unable to attend the IRC meet but I had some suggestions
+and a question.
+
+On Thu, Oct 1, 2009 at 10:49, Marina Zhurakhinskaya <marinaz@redhat.com> wrote:
+> * any ideas you have about the program or about increasing participation of women in GNOME
+
+Like GSOC, would apertium (or even nltk) would fall within the GWOP domain?
+http://en.wikipedia.org/wiki/Apertium
+http://en.wikipedia.org/wiki/Nltk
+
+Secondly, I'd like to raise an important issue of summer/spring
+timings which are usually EU or US seasons. It would be a lot more
+easier for everyone if there were a more flexible system of entry
+which was annual for participants from other parts of the world.  Ex.
+A 4-month cycle which is open for applicants three times in a  year.
+I do understand the complexities and huge overheads this would
+introduce but if its being experimented with fewer than a dozen women,
+its worth thinking about.
+
+cheers,
+vid
+http://vid.svaksha.com ||
+From susana.pereira@gmail.com  Fri Oct  2 22:04:45 2009
+Return-Path: <susana.pereira@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C2D8F75011B
+	for <gnome-women-list@gnome.org>; Fri,  2 Oct 2009 22:04:45 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1lbr2wJzNL6z for <gnome-women-list@gnome.org>;
+	Fri,  2 Oct 2009 22:04:34 +0000 (GMT)
+Received: from mail-ew0-f205.google.com (mail-ew0-f205.google.com
+	[209.85.219.205])
+	by menubar.gnome.org (Postfix) with ESMTP id C8834750206
+	for <gnome-women-list@gnome.org>; Fri,  2 Oct 2009 22:04:25 +0000 (GMT)
+Received: by ewy1 with SMTP id 1so710306ewy.34
+	for <gnome-women-list@gnome.org>; Fri, 02 Oct 2009 15:04:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:in-reply-to:references
+	:date:message-id:subject:from:to:content-type
+	:content-transfer-encoding;
+	bh=yAR8XLQpyVG3Cd3SI7l4huxDSLs1RhqfDLF2wMsEN9w=;
+	b=q01OxriuHdNb6GTIDZ+EcLBgtENSFzMZwzTRxRR3KkgCbLRPM1jEnGHn8YWbNMU2eA
+	dV1lLJ+5CtzUi1uwtxgmgtkVxbYhhCXepvirvA2zFaeUv/Nz1LJI/L9xP6+DlEnRvKTO
+	ZhIncc56+pD0atRQI7comzy0fIkNVbax0Ocoo=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:content-type:content-transfer-encoding;
+	b=LM/j0QF1oSASsNCZkc/0zb9zii2P/BZ7R0R1tHIRffWayNUF0TGaaauIopeo4oAGBH
+	zHwdiYsQYKxeNWPeza8kUZaXJr/1SD3iV6skJCfVGH9CAj/3GpB8nyicPxeSjNjKLji1
+	d8dZ3oCIGGnpJMhfibiddAUt7Zxs8NZ6vXslE=
+MIME-Version: 1.0
+Received: by 10.216.3.194 with SMTP id 44mr416173weh.223.1254521063258; Fri, 
+	02 Oct 2009 15:04:23 -0700 (PDT)
+In-Reply-To: <1828627537.403131251335578313.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+References: <1828627537.403131251335578313.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+Date: Fri, 2 Oct 2009 23:04:23 +0100
+Message-ID: <e6811b160910021504l730560f8p8ef93a9697ae21a7@mail.gmail.com>
+From: Susana Pereira <susana.pereira@gmail.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Subject: Re: [gnome-women] Round of introductions
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 02 Oct 2009 22:04:46 -0000
+
+Hi everyone,
+
+I know I'm a bit late for the round of introductions but I'll still do mine=
+.
+
+My name is Susana Pereira, I'm from Portugal and I work as a software engin=
+eer.
+
+I got introduced to Unix in 2001, but times were a bit difficult. I
+didn't know much about Unix and people were always playing tricks on
+me (sending funny messages via talk, filling my .login with huge
+echos, writing poems in my .rhosts, you know, the usual). I was
+determined to learn more, even if it was just enough to make it stop,
+so I decided to install linux on my computer to play with it and learn
+more. I fell in love with FLOSS ever since. :)
+
+I started contributing to GNOME in 2006 as a member of the bugsquad,
+sometimes I try to fix the bugs I report, and I recently joined the
+membership committee. I think the GNOME community is great, very nice
+and welcoming. It's great to participate in the DE I use every day and
+to talk to people who know so much about things which I have an
+interest on.
+
+I think the outreach program is a great idea. Unfortunately, I was
+unable to attend the recent IRC meeting but I look forward to reading
+the minutes.
+
+Cheers,
+
+Susana
+
+
+
+
+On Thu, Aug 27, 2009 at 2:12 AM, Marina Zhurakhinskaya
+<marinaz@redhat.com> wrote:
+> Hi!
+>
+> The broader free software community has restarted the discussion about wo=
+men participation in open source by a series of interviews in the ROSE Blog=
+ [1], plans to host a women in free software mini-summit [2], and approachi=
+ng the GNOME project about running another women outreach program [3].
+>
+> Running another women outreach program is a very concrete way of getting =
+more women contributors, and I'd like to ask you to review the current idea=
+s for the program on the wiki and share any feedback you have.
+>
+> http://live.gnome.org/GnomeWomen/OutreachProgram
+>
+> This also sounds like a great time for re-vitalizing the Women in GNOME c=
+ommunity. So I would like to propose we do a round of introductions. The fi=
+rst bullet point on the GnomeWomen wiki page is "providing role models by i=
+ncreasing the visibility of active women in GNOME" and I think it is a part=
+icularly effective way of attracting new contributors. By sharing what we l=
+ove about our involvement in GNOME, we can show that it really is a women-f=
+riendly environment and serve as a starting point of contact for women who =
+want to get involved.
+>
+> Finally, please join the Women in GNOME group I created on Facebook:
+>
+> http://www.facebook.com/group.php?gid=3D118943919669
+>
+> As for my introduction, I work as a software developer on the GNOME Shell=
+ project [4] at Red Hat. Working on the GNOME Shell is particularly excitin=
+g because it is the next generation of the GNOME desktop or GNOME 3. I get =
+to code many parts of the desktop interface, weigh in on the design decisio=
+ns, and make sure that our project is friendly to new contributors by updat=
+ing the wiki and offering answers to anything I know about on IRC. Because =
+GNOME Shell is a community project, I get to work with people from Red Hat =
+and with anyone from the GNOME community who decides to contribute. Everyon=
+e is top-notch and motivated, and while people have strong opinions, they a=
+re generally polite. I have recently started blogging [5], and hope to keep=
+ my blog updated with the GNOME Shell news and posts that will encourage wo=
+men to get involved in GNOME.
+>
+> Now it's your turn :)!
+>
+> Marina
+>
+> [1] http://www.linuxpromagazine.com/Online/Blogs/ROSE-Blog-Rikki-s-Open-S=
+ource-Exchange
+> [2] http://www.fsf.org/news/summit-on-women-in-free-software
+> [3] http://live.gnome.org/GnomeWomen/OutreachProgram
+> [4] http://live.gnome.org/GnomeShell
+> [5] http://blogs.gnome.org/marina
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+From marinaz@redhat.com  Sun Oct 18 19:34:03 2009
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A3A08750078
+	for <gnome-women-list@gnome.org>; Sun, 18 Oct 2009 19:34:03 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.522
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.522 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, TW_GF=0.077] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FRuNvnE0MHt1 for <gnome-women-list@gnome.org>;
+	Sun, 18 Oct 2009 19:33:52 +0000 (GMT)
+Received: from mx1.redhat.com (mx1.redhat.com [209.132.183.28])
+	by menubar.gnome.org (Postfix) with ESMTP id C6F8375004D
+	for <gnome-women-list@gnome.org>; Sun, 18 Oct 2009 19:33:44 +0000 (GMT)
+Received: from int-mx02.intmail.prod.int.phx2.redhat.com
+	(int-mx02.intmail.prod.int.phx2.redhat.com [10.5.11.12])
+	by mx1.redhat.com (8.13.8/8.13.8) with ESMTP id n9IJXh29013864
+	for <gnome-women-list@gnome.org>; Sun, 18 Oct 2009 15:33:43 -0400
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by int-mx02.intmail.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP
+	id n9IJXhQU022188
+	for <gnome-women-list@gnome.org>; Sun, 18 Oct 2009 15:33:43 -0400
+Date: Sun, 18 Oct 2009 15:33:43 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <40244272.395711255894423132.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <2138267880.395691255894202121.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+X-Originating-IP: [10.5.5.41]
+X-Scanned-By: MIMEDefang 2.67 on 10.5.11.12
+Subject: [gnome-women] IRC meeting minutes and updates
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 18 Oct 2009 19:34:03 -0000
+
+Hi all!
+
+Below are the minutes from the #gnome-women IRC meeting about the women out=
+reach program that was held on October 1. But first, here are the latest up=
+dates about the program:
+
+1) The donations page for the program is up featuring an awesome graphic fo=
+r the banner from M=C3=A1ir=C3=ADn!
+http://projects.gnome.org/outreach/women
+We are in the process of setting up a dedicated donations account, but the =
+page links to http://www.gnome.org/friends for now.
+
+2) I ran a session about Women Outreach / Marketing at the GNOME Summit in =
+Boston last weekend. Here is a write-up about the session from Jason Clinto=
+n who blogged about most of the sessions at the summit!
+http://jasondclinton.livejournal.com/75107.html
+
+3) Please sign up here if you are interested in mentoring students as part =
+of the outreach program. It is important that we have the mentors who are c=
+ommitted to the program early on and can start putting together the resourc=
+es for the program.
+http://live.gnome.org/GnomeWomen/OutreachProgram#participating-projects
+
+4) Stormy is putting together a November issue of the GNOME Journal with ar=
+ticles by women contributors. Please let her know ASAP if you would like to=
+ write an article for it. The articles are due on November 1st and should b=
+e 1000-1750 words.
+
+Cheers,
+Marina
+
+---------------------------------------------------------------------------=
+------------------------------
+Minutes from the IRC meeting in #gnome-women on October 1, 2009.
+
+Participants:
+cjb - Chris Ball, co-organizer of GNOME Women Summer Outreach Program in 20=
+06
+
+hanna - Hanna Wallach,  co-organizer of GNOME Women Summer Outreach Program=
+ in 2006
+
+marina - Marina Zhurakhinskaya, GNOME Shell developer, working for Red Hat,=
+ planning a new outreach program for women in GNOME, generally interested i=
+n increasing women participation and creating good resources for all newbie=
+s
+
+mizmo - M=C3=A1ir=C3=ADn Duffy, an interaction designer who works on UI des=
+ign, web app design, icons, artwork, mostly for Fedora and Red Hat products
+
+stormy - Stormy Peters, an Executive Director of the GNOME Foundation and v=
+ery interested in encouraging women to participate in free software and in =
+particular GNOME. Participating from a session at the Grace Hopper Women in=
+ Computing conference
+
+Agenda:
+* what was learned from running the program in 2006
+* format for this years program
+* search for mentors
+* fundraising for this years program
+* any ideas you have about the program or about increasing participation of=
+ women in GNOME
+
+Hanna's impressions from running the program in 2006 (from a sequence of IR=
+C messages):
+
+* When Chris and I first said we were going to run the program there was a =
+lot of discussion in #gnome-hackers. A lot of people saying that given that=
+ gnome had had 181 applications for summer of code and 0 were women would w=
+e really be able to find any women for WSOP. There was a lot of discussion =
+about this and people were fairly sceptical.
+
+* We put a HUGE amount of time and energy into publicising the program, ema=
+iling mailing lists, people I knew at universities, anyone I thought would =
+be interested. Joe 'Zonker' Brockmeier wrote an article on it. I think what=
+ made the biggest difference re. publicity were the personal emails. Emaili=
+ng people individually and saying "do you have students who'd be interested=
+" etc. Sending individual emails (rather than just things to mailing lists =
+or to large numbers of people) made a huge difference. People were more lik=
+ely to respond and then more likely to actually tell their students about t=
+he program.
+ <stormy> can help get press for this; Rikki Kite, Carla Schroeder, Tina Ga=
+sperson and others all interested in promoting women in oss
+
+* The other thing that made a big difference was the tone in which we descr=
+ibed the program. Basically summer of code is advertised in a very "are you=
+ the best? prove you're the best!" kind of way and we felt that was offputt=
+ing. Even though I'm a pretty decent coder, *I* wouldn't feel comfortable a=
+pplying for GSoC. So we advertised it with the tone of "are you interested =
+in getting involved in GNOME development? Would you like to work with a men=
+tor for 2 months?" etc. and that seemed to make a BIG difference. Women wou=
+ld contact us saying "oh I don't know if I'm qualified enough but working w=
+ith a mentor sounds good etc etc etc and then have REALLY impressive CVs --=
+ clearly they'd've been accepted to GSoC if they'd applied, but they were c=
+learly not confident enough to do so.
+
+* Here is a poster for the program in 2006: http://www.flickr.com/photos/be=
+hdad/167266546 which was awesome. Having the poster was also really really =
+really helpful because we asked people all over the place to put it up in C=
+S departments.
+
+* In the end something like 200 women contacted us about the program and 96=
+ actually applied. This was for THREE positions, but after getting 96 appli=
+cants (most of whom were incredibly talented) we asked Google to sponsor an=
+other 3, which they did.
+
+* We asked for people to volunteer to be mentors and people offered. We had=
+ some mentors who proposed projects and some students applied to do those. =
+I think (but I could be wrong) some students proposed their own projects, w=
+ith the idea being that we'd find them a suitable mentor. Basically mentor =
+selection all happened via #gnome-hackers. Chris mentored at least one of t=
+he projects.
+ <cjb> We did have a bit of trouble finding mentors; the reason I mentored =
+two (I think?) of the women was that the original volunteers for mentoring =
+turned out to not have enough time to do it properly. So I think something =
+to do better at next time is to get really solid commitments from mentors b=
+efore accepting a project, and perhaps also to insist on multiple mentors p=
+er student.
+
+* We encouraged them all to start blogs and created Planet WSOP so they cou=
+ld all see each other's blog posts easily. They were on Planet GNOME during=
+ that summer too. I don't think there was much activity on gnome-women -- c=
+ertainly more use should be made of the list and the IRC channel this time.=
+ Some people joined #gnome-hackers
+ <stormy> this year we could add them to Planet with a special logo like we=
+ did GSoC students
+
+Marina:
+Chris found current e-mails for the 2006 program participants and I'm going=
+ to create an e-mail with questions for them. Stormy is planning an all-wom=
+en GNOME Journal issue in November and we can try to make an article with t=
+heir responses. We can co-author it with Hanna and include stuff about "les=
+sons learned from WSOP 2006".
+
+M=C3=A1ir=C3=ADn:
+Would be happy to do logos and marketing materials and such again. Maybe i =
+can start a bit early so some of the gfx could be used for the GNOME Journa=
+l.
+
+Marina:
+We need to raise funds for the stipends for this year's participants, so wo=
+rking on the fundraising page and asked M=C3=A1ir=C3=ADn to do a logo for t=
+he header.
+Update: The page and the logo are already done! http://projects.gnome.org/o=
+utreach/women
+                The dedicated fundraising account is still being set up, so=
+ it just forwards to http://www.gnome.org/friends for making a donation for=
+ now.
+
+The name should be Women Outreach Program, so that it reflects the fact tha=
+t it is an ongoing effort, not just something we do in the summer. We could=
+ incorporate GNOME into the name somehow, but adjacency of "GNOME" and "Wom=
+en" is odd because it spawns jokes about the women being gnomes from some p=
+eople. I think we can just use "Women Outreach Program" because it is usual=
+ly already found in the context of it being a program within GNOME. We can =
+use "Women Outreach Program run by GNOME" or "GNOME created a Women Outreac=
+h Program", etc. when introducing the program. WSOP also did not have GNOME=
+ as part of its official name. It should be ok to abbreviate the program na=
+me as WOP, GNOME WOP or GWOP.
+
+Ideas for the name were:
+"Women Outreach Program"
+"GNOME Women Outreach Program"
+"GNOME Women's Outreach Program"
+"GNOME Outreach Program for Women"
+"Women in GNOME Outreach Program"
+
+"Women in GNOME" is the name of the Facebook group
+
+Chris (re: finding mentors and making sure projects are successful):
+I don't think any of this was different to normal SoC problems; it's certai=
+nly not the case that 100% of SoC projects are successful (perhaps more lik=
+e 50% or 70%). But when you have a smaller sample, each project's going to =
+be more visible. So that's a danger, I guess -- you need to make sure peopl=
+e don't turn "this student's project didn't work well" into "the whole proj=
+ect was a bad idea", which they wouldn't do with SoC as a whole but may be =
+more willing to do for us.
+
+ <marina> Definitely similar to the general GSoC problems. I've been talkin=
+g to people in my team and mentoring newbies is definitely one of the chall=
+enges due to lack of time. Basically, we need very self-directed participan=
+ts, but also we need to create good resources and have mentors who are real=
+ly committed to this particular program. Also, originally it was suggested =
+that a couple participants can be working on GNOME Shell. So some of the re=
+sources created can be used by multiple people and I can ask people in my t=
+eam to be mentors. But it'd be definitely great if we can have various proj=
+ects represented and various directions, such as design work. GNOME Shell c=
+an use a designer student too though. I think the stakes are higher than wi=
+th the GSoC mentoring because we'll still have relatively few participants =
+and we can't allow anyone's individual experience be anything less than suc=
+cess due to a busy mentor. While with GSoC I don't think a typical mentor f=
+eels that it's the end of the world if what the student did does not end up=
+ incorporated (while passing the student).
+    <cjb> I don't know if there are statistics on what % of "successful GSo=
+C projects" are, with code that gets merged and maintained afterwards. I th=
+ink I would guess maybe 30%? But it's worrying when you apply that to our s=
+maller sample size, even though no-one really cares when you have 20 or mor=
+e slots, because there'll still be some really successful projects. While t=
+he women students are plenty smart, I think it's natural that they'll need =
+more mentoring than the normal GSoC ones, because they aren't experienced w=
+ith GNOME/Gtk2 yet.  (If they were, we wouldn't need to run the program :) =
+So, I agree that we're asking something pretty significant from the mentors=
+, and that maybe it's even more than the already onerous GSoc mentor load. =
+Perhaps that's an argument for not running it entirely alongside GSoC. Sinc=
+e if we do, the best mentors will already have their hands full with GSoC s=
+tudents. I don't know what your plans were for when to run the program.
+      <hanna> cjb: that's true  -- however I worry about running it at some=
+ other time of year because students have other committments pretty much al=
+l year except summer
+      <cjb> hanna: Australian students don't :) (it feels really harsh that=
+ Google SoC is always convenient for northern hemisphere students and ignor=
+es southern hemisphere ones.)
+      <marina> we can make sure we get the best and most committed mentors =
+by recruiting them early :)
+
+ <stormy> We can also build a network of support around the program. This I=
+RC channel, the mailing list, all of us. So if there is any trouble with a =
+mentor (like not having enough time), the women have somewhere to go. And i=
+f we are talking to them regularly, we'll catch it early enough.
+
+M=C3=A1ir=C3=ADn:
+It would be good to build up a contact list of cs dept contacts too for oth=
+er years if we do it again. The teachingopensource.org folks might be a goo=
+d place to find recruits too.
+ <hanna> I agree -- and people too personally email too. I wonder if we can=
+ create a (non-public) wiki for storing this information in? I say non-publ=
+ic because I don't feel comfortable putting random people's names on the we=
+b.
+ <stormy> We could ask the whole GNOME community to help. If everyone appro=
+ached their alma matter, we'd reach a lot of universities.
+
+Marina:
+Also my idea for the program format was to have workshops/bootcamps by the =
+projects who want to participate BEFORE the application process. That way t=
+he students will be more prepared and we'll have actual patches from the st=
+udents beforehand as a selection criteria. I'm sure it's true that most suc=
+cessful GSoCs are with people who were already contributing extensive patch=
+es to the projects during the school year and then got accepted into the pr=
+ogram (certainly was true for the GNOME Shell students this summer). So hav=
+ing an Outreach Program not just be about the summer, but about getting wom=
+en contributors in preparation for the summer program would be best
+ <hanna> oh! we could have some online (IRC) drop-by meetings for people wh=
+o are potentially interested
+ <mizmo> screencast demos of the projects they'd be working on might be nic=
+e. GNOME Shell might not mean anything to someone new to GNOME, but if they=
+ see eye candy then it can spark their imagination.
+ <stormy> marina, I didn't follow that. Is the summer program the women's i=
+nternships? I think we could still call it a summer outreach program and ob=
+viously we'd have lots of work before hand to get there.
+   <marina> stormy: yes, but we want to have events before the selection pr=
+ocess to get the women to learn about the projects and contribute. That way=
+ it's not just a summer program, but an overarching women outreach effort a=
+nd we'll also have more information for the selection process. We'd need to=
+ think how to name the program and phrase the announcements, so that it's n=
+ot just about applying, but rather about getting involved.
+     <stormy> cool (on it being an ongoing program)
+From marinaz@redhat.com  Sun Oct 18 20:06:05 2009
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 1C7937500D4
+	for <gnome-women-list@gnome.org>; Sun, 18 Oct 2009 20:06:05 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id bwqjiYuqYQlr for <gnome-women-list@gnome.org>;
+	Sun, 18 Oct 2009 20:05:55 +0000 (GMT)
+Received: from mx1.redhat.com (mx1.redhat.com [209.132.183.28])
+	by menubar.gnome.org (Postfix) with ESMTP id 29B0075004D
+	for <gnome-women-list@gnome.org>; Sun, 18 Oct 2009 20:05:45 +0000 (GMT)
+Received: from int-mx02.intmail.prod.int.phx2.redhat.com
+	(int-mx02.intmail.prod.int.phx2.redhat.com [10.5.11.12])
+	by mx1.redhat.com (8.13.8/8.13.8) with ESMTP id n9IK5gCa026497;
+	Sun, 18 Oct 2009 16:05:42 -0400
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by int-mx02.intmail.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP
+	id n9IK5gf9027749; Sun, 18 Oct 2009 16:05:42 -0400
+Date: Sun, 18 Oct 2009 16:05:42 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: VidA <svaksha@gmail.com>
+Message-ID: <1883454211.396051255896342416.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <993706882.396031255896295512.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.5.41]
+X-Scanned-By: MIMEDefang 2.67 on 10.5.11.12
+Cc: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] IRC meeting about a new women outreach program
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 18 Oct 2009 20:06:05 -0000
+
+Hi Vid,
+
+> Like GSOC, would apertium (or even nltk) would fall within the GWOP
+> domain?
+> http://en.wikipedia.org/wiki/Apertium
+> http://en.wikipedia.org/wiki/Nltk
+
+I don't think these would fall under GNOME WOP or GNOME GSoC. It looks like they are FOSS projects that are independent of GNOME. For example, The Apertium Project was a separate GSoC project this summer with 8 participants:
+http://socghop.appspot.com/program/accepted_orgs/google/gsoc2009
+
+I would think that coding or non-coding projects pertaining to the modules under http://git.gnome.org/cgit are the ones that should fall under GNOME WOP and GNOME GSoC.
+
+You could definitely run an outreach for these projects similar to the one done by GNOME to get women participants and we can have various announcements include both programs (you'd need to find mentors, select participants, and provide funding separately though). This can turn into GSoC for women before we know it :), as I imagine participation in all of GSoC projects is pretty low among women.
+
+> Secondly, I'd like to raise an important issue of summer/spring
+> timings which are usually EU or US seasons. It would be a lot more
+> easier for everyone if there were a more flexible system of entry
+> which was annual for participants from other parts of the world.  Ex.
+> A 4-month cycle which is open for applicants three times in a  year.
+> I do understand the complexities and huge overheads this would
+> introduce but if its being experimented with fewer than a dozen
+> women, its worth thinking about.
+
+This was brought up in the IRC meeting too and is something we should address. I agree that it would be easier to address in a program with fewer participants. This also would work well with the goal for the women outreach program to be an ongoing effort.
+
+Let's plan to put together the resources and the selection process for this summer first, and then we can do another cycle for next winter if we have the funding.
+
+Marina
+
+----- Original Message -----
+From: "VidA" <svaksha@gmail.com>
+To: gnome-women-list@gnome.org
+Sent: Friday, October 2, 2009 3:06:47 AM GMT -05:00 US/Canada Eastern
+Subject: Re: [gnome-women] IRC meeting about a new women outreach program
+
+Hi ! I was unable to attend the IRC meet but I had some suggestions
+and a question.
+
+On Thu, Oct 1, 2009 at 10:49, Marina Zhurakhinskaya <marinaz@redhat.com> wrote:
+> * any ideas you have about the program or about increasing participation of women in GNOME
+
+Like GSOC, would apertium (or even nltk) would fall within the GWOP domain?
+http://en.wikipedia.org/wiki/Apertium
+http://en.wikipedia.org/wiki/Nltk
+
+Secondly, I'd like to raise an important issue of summer/spring
+timings which are usually EU or US seasons. It would be a lot more
+easier for everyone if there were a more flexible system of entry
+which was annual for participants from other parts of the world.  Ex.
+A 4-month cycle which is open for applicants three times in a  year.
+I do understand the complexities and huge overheads this would
+introduce but if its being experimented with fewer than a dozen women,
+its worth thinking about.
+
+cheers,
+vid
+http://vid.svaksha.com ||
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-women-list
+From paul.r.cutler@gmail.com  Fri Oct 23 13:36:53 2009
+Return-Path: <paul.r.cutler@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 91F79750257
+	for <gnome-women-list@gnome.org>; Fri, 23 Oct 2009 13:36:53 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.598
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.598 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id uEVRhTCLm5EO for <gnome-women-list@gnome.org>;
+	Fri, 23 Oct 2009 13:36:47 +0000 (GMT)
+Received: from mail-px0-f202.google.com (mail-px0-f202.google.com
+	[209.85.216.202])
+	by menubar.gnome.org (Postfix) with ESMTP id 2A00B750254
+	for <gnome-women-list@gnome.org>; Fri, 23 Oct 2009 13:36:38 +0000 (GMT)
+Received: by pxi40 with SMTP id 40so467573pxi.13
+	for <gnome-women-list@gnome.org>; Fri, 23 Oct 2009 06:36:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:sender:reply-to:received
+	:in-reply-to:references:date:x-google-sender-auth:message-id:subject
+	:from:to:content-type;
+	bh=gdXoKRpYwfwqSwhuQpR648++PoqWT/tR4CjGHV55YpM=;
+	b=uIEKeE9HBj3IHLIWp1w3k9bvI2hLLqEdHD10Q0CQ1lKujcQ1fA2eeBUmdSw02Mw8wZ
+	/Ozx9oE3Rvmet2xYFW6eRhRlaqs6GmT5zBeKOrxlX6B5yDPfz1Cgv4RRqPAm5NmMwgwR
+	aICGj8ynhpNU87Ijen9/lF3vJnaVjSBlRQCHA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:reply-to:in-reply-to:references:date
+	:x-google-sender-auth:message-id:subject:from:to:content-type;
+	b=eycTBvhAzX5Z6WHhePG17S2iajP/hk7a4TdBe4CW9ZtDG0e4AhtnR/yhki/iC/+mwD
+	PZxiD4/Js49LRWV4nEY/r12LpskqQ+iuGGIA1ae/WiUCi298HlX5uBF9vFbJOAE1d893
+	ntAhRYSvOFDzRE/7iaXOiRdbdXfPE1W4tZtgI=
+MIME-Version: 1.0
+Sender: paul.r.cutler@gmail.com
+Received: by 10.114.163.26 with SMTP id l26mr16137885wae.173.1256304997198; 
+	Fri, 23 Oct 2009 06:36:37 -0700 (PDT)
+In-Reply-To: <39428b2a0910230633r698505cam39228b7139b53c7a@mail.gmail.com>
+References: <39428b2a0910230633r698505cam39228b7139b53c7a@mail.gmail.com>
+Date: Fri, 23 Oct 2009 08:36:36 -0500
+X-Google-Sender-Auth: 3311ed83a95799a6
+Message-ID: <39428b2a0910230636s31a716b6uccca8f0f2e0ca9e2@mail.gmail.com>
+From: Paul Cutler <pcutler@gnome.org>
+To: gnome-women-list@gnome.org
+Content-Type: multipart/alternative; boundary=00504502f62317462304769a4d9f
+Subject: [gnome-women] Fwd: GNOME Journal Issue 17 Status Updates Needed
+	(And Editors Wanted!)
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: pcutler@gnome.org
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 23 Oct 2009 13:36:53 -0000
+
+--00504502f62317462304769a4d9f
+Content-Type: text/plain; charset=ISO-8859-1
+
+Oops, typed in the wrong email address (sorry!)
+
+Paul
+
+---------- Forwarded message ----------
+From: Paul Cutler <pcutler@gnome.org>
+Date: Fri, Oct 23, 2009 at 8:33 AM
+Subject: GNOME Journal Issue 17 Status Updates Needed (And Editors Wanted!)
+To: gnome-journal-list@gnome.org, gnome-women@gnome.org
+
+
+Hi GNOME Journal and GNOME Women team!
+
+GNOME Journal Issue 17 (Women in GNOME) is one week away from articles being
+due!  I just wanted to check-in and see how the articles are coming.
+Articles are due 11/1 and editors will a week to ten days to review and then
+we have a few days for formatting in our CMS.
+
+We'll also need a handful of editors to review the articles, including
+structure, grammar and spelling.  Our editors work with the writers and ask
+questions for clarity.
+
+I'm very excited about this issue and if anyone has any questions, please
+let me know.
+
+Thanks.
+
+Paul
+
+PS - Stormy or Marina - if any of the writers are not subscribed to the
+GNOME Women list can you please forward?  Thanks!
+
+--00504502f62317462304769a4d9f
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Oops, typed in the wrong email address (sorry!)<br><br>Paul<br><br><div cla=
+ss=3D"gmail_quote">---------- Forwarded message ----------<br>From: <b clas=
+s=3D"gmail_sendername">Paul Cutler</b> <span dir=3D"ltr">&lt;<a href=3D"mai=
+lto:pcutler@gnome.org">pcutler@gnome.org</a>&gt;</span><br>
+Date: Fri, Oct 23, 2009 at 8:33 AM<br>Subject: GNOME Journal Issue 17 Statu=
+s Updates Needed (And Editors Wanted!)<br>To: <a href=3D"mailto:gnome-journ=
+al-list@gnome.org">gnome-journal-list@gnome.org</a>, <a href=3D"mailto:gnom=
+e-women@gnome.org">gnome-women@gnome.org</a><br>
+<br><br>Hi GNOME Journal and GNOME Women team!<br><br>GNOME Journal Issue 1=
+7 (Women in GNOME) is one week away from articles being due!=A0 I just want=
+ed to check-in and see how the articles are coming.=A0 Articles are due 11/=
+1 and editors will a week to ten days to review and then we have a few days=
+ for formatting in our CMS.<br>
+
+
+<br>We&#39;ll also need a handful of editors to review the articles, includ=
+ing structure, grammar and spelling.=A0 Our editors work with the writers a=
+nd ask questions for clarity.<br><br>I&#39;m very excited about this issue =
+and if anyone has any questions, please let me know.<br>
+
+
+<br>Thanks.<br><font color=3D"#888888"><br>Paul<br></font><br>PS - Stormy o=
+r Marina - if any of the writers are not subscribed to the GNOME Women list=
+ can you please forward?=A0 Thanks!<br><br><br>
+</div><br>
+
+--00504502f62317462304769a4d9f--
+From jzb@zonker.net  Fri Oct 23 13:38:20 2009
+Return-Path: <jzb@zonker.net>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id EE309750318;
+	Fri, 23 Oct 2009 13:38:19 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.522
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.522 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, TW_JZ=0.077] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id YKA5tJ45MQ6O; Fri, 23 Oct 2009 13:38:12 +0000 (GMT)
+Received: from mail-px0-f202.google.com (mail-px0-f202.google.com
+	[209.85.216.202])
+	by menubar.gnome.org (Postfix) with ESMTP id BE6C0750254;
+	Fri, 23 Oct 2009 13:38:04 +0000 (GMT)
+Received: by pxi40 with SMTP id 40so468221pxi.13
+	for <multiple recipients>; Fri, 23 Oct 2009 06:38:03 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.142.60.15 with SMTP id i15mr87326wfa.321.1256305083356; Fri, 
+	23 Oct 2009 06:38:03 -0700 (PDT)
+In-Reply-To: <39428b2a0910230636s31a716b6uccca8f0f2e0ca9e2@mail.gmail.com>
+References: <39428b2a0910230633r698505cam39228b7139b53c7a@mail.gmail.com>
+	<39428b2a0910230636s31a716b6uccca8f0f2e0ca9e2@mail.gmail.com>
+Date: Fri, 23 Oct 2009 09:38:03 -0400
+Message-ID: <81d32afc0910230638s73c8b16ake6166c130f828730@mail.gmail.com>
+From: "Joe 'Zonker' Brockmeier" <jzb@zonker.net>
+To: pcutler@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Cc: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] Fwd: GNOME Journal Issue 17 Status Updates Needed
+	(And Editors Wanted!)
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 23 Oct 2009 13:38:20 -0000
+
+On Fri, Oct 23, 2009 at 9:36 AM, Paul Cutler <pcutler@gnome.org> wrote:
+>
+> We'll also need a handful of editors to review the articles, including
+> structure, grammar and spelling.=A0 Our editors work with the writers and=
+ ask
+> questions for clarity.
+
+I'm willing to help with editing as needed. I need a bit of notice,
+but I do have some experience in that area. :-)
+
+Best,
+
+Zonker
+--=20
+Joe 'Zonker' Brockmeier <jzb@zonker.net>
+openSUSE Community Manager
+Twitter: jzb | Identica: jzb
+About: http://www.dissociatedpress.net/about/
+From rayna.st@gmail.com  Fri Oct 23 13:42:01 2009
+Return-Path: <rayna.st@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A8814750316
+	for <gnome-women-list@gnome.org>; Fri, 23 Oct 2009 13:42:01 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.229
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.229 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001, MISSING_HEADERS=1.292,
+	TW_JZ=0.077] autolearn=no
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id FkjhPPXGGrxg for <gnome-women-list@gnome.org>;
+	Fri, 23 Oct 2009 13:41:52 +0000 (GMT)
+Received: from mail-ew0-f217.google.com (mail-ew0-f217.google.com
+	[209.85.219.217])
+	by menubar.gnome.org (Postfix) with ESMTP id E7BDD75031E
+	for <gnome-women-list@gnome.org>; Fri, 23 Oct 2009 13:41:43 +0000 (GMT)
+Received: by ewy17 with SMTP id 17so11307979ewy.15
+	for <gnome-women-list@gnome.org>; Fri, 23 Oct 2009 06:41:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:received:in-reply-to:references
+	:from:date:message-id:subject:cc:content-type;
+	bh=Fm51b9OIqoUL8TG9EnaJytuM4KLigSDHSncCH01PyV4=;
+	b=tORsyX/xolreMTqwAGlm+4y+aHWsHZGE+xqEuyvktJ4WDt5xTMp465IDaoIidwuiDC
+	lK6yhRDLwfX3wV/lXxz05JGALtyluSgB7ONCRbw7mNTGKqdpMLY5UQLlsH1VwNOZEUmn
+	SV+0W+2YMKwBbYhYXNz6Iurr4F/hExS+r4A+4=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:in-reply-to:references:from:date:message-id:subject:cc
+	:content-type;
+	b=KzggBBD9+y97ZwIINZFKWcqeUKfUBRYhHMrlxM4sKyzbQ/ipJZLacC4aCtTLUximxl
+	dmjH04Hunhj+qRY7tfhIKBfD/BRsoVw0O0qFbbQ0B/HrDc3fvg3VCbOAN3wEPZ7+QEpi
+	Gq5UUzDdGmJSo97FW1L0Uw7MqBIFBxCdtFMrQ=
+MIME-Version: 1.0
+Received: by 10.211.131.34 with SMTP id i34mt17501453ebn.35.1256305301177; 
+	Fri, 23 Oct 2009 06:41:41 -0700 (PDT)
+In-Reply-To: <81d32afc0910230638s73c8b16ake6166c130f828730@mail.gmail.com>
+References: <39428b2a0910230633r698505cam39228b7139b53c7a@mail.gmail.com> 
+	<39428b2a0910230636s31a716b6uccca8f0f2e0ca9e2@mail.gmail.com> 
+	<81d32afc0910230638s73c8b16ake6166c130f828730@mail.gmail.com>
+From: Rayna <rayna.st@gmail.com>
+Date: Fri, 23 Oct 2009 15:41:21 +0200
+Message-ID: <69c6de030910230641y365628cbq12733600a21ef205@mail.gmail.com>
+Content-Type: multipart/alternative; boundary=001636c5ba2f3536dd04769a5f80
+Cc: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] Fwd: GNOME Journal Issue 17 Status Updates Needed
+	(And Editors Wanted!)
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 23 Oct 2009 13:42:01 -0000
+
+--001636c5ba2f3536dd04769a5f80
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi all,
+
+That's my first post on the list :o)
+
+It's just to say that I'm willing to help with editing. I'm not very
+self-confident of writing stuff for the moment ;o)
+
+Cheers,
+Rayna
+
+2009/10/23 Joe 'Zonker' Brockmeier <jzb@zonker.net>
+
+> On Fri, Oct 23, 2009 at 9:36 AM, Paul Cutler <pcutler@gnome.org> wrote:
+> >
+> > We'll also need a handful of editors to review the articles, including
+> > structure, grammar and spelling.  Our editors work with the writers and
+> ask
+> > questions for clarity.
+>
+> I'm willing to help with editing as needed. I need a bit of notice,
+> but I do have some experience in that area. :-)
+>
+> Best,
+>
+> Zonker
+> --
+> Joe 'Zonker' Brockmeier <jzb@zonker.net>
+> openSUSE Community Manager
+> Twitter: jzb | Identica: jzb
+> About: http://www.dissociatedpress.net/about/
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+
+
+--=20
+"Change l'ordre du monde plut=C3=B4t que tes d=C3=A9sirs."
+
+Membre de l'April - Promouvoir et d=C3=A9fendre les logiciels libres
+
+PhD Student
+"Molecular Evolution and Bioinformatics"
+Ludwig-Maximilians University (LMU) of Munich
+
+
+
+What happens when you've worked too long in the lab :
+*You wonder what absolute alcohol tastes like with orange juice.
+*Warning labels invoke curiosity rather than caution.
+*The Christmas nightout reveals scientists can't dance, although a formula
+for the movement of hands and feet combined with beats per min is found
+scrawled on a napkin by a waiter the next day.
+*When you have twins, you call one of them John and the other - Control.
+
+--001636c5ba2f3536dd04769a5f80
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi all,<br><br>That&#39;s my first post on the list :o)<br><br>It&#39;s jus=
+t to say that I&#39;m willing to help with editing. I&#39;m not very self-c=
+onfident of writing stuff for the moment ;o)<br><br>Cheers,<br>Rayna<br>
+
+<br><div class=3D"gmail_quote">2009/10/23 Joe &#39;Zonker&#39; Brockmeier <=
+span dir=3D"ltr">&lt;<a href=3D"mailto:jzb@zonker.net">jzb@zonker.net</a>&g=
+t;</span><br><blockquote class=3D"gmail_quote" style=3D"border-left: 1px so=
+lid rgb(204, 204, 204); margin: 0pt 0pt 0pt 0.8ex; padding-left: 1ex;">
+
+<div class=3D"im">On Fri, Oct 23, 2009 at 9:36 AM, Paul Cutler &lt;<a href=
+=3D"mailto:pcutler@gnome.org">pcutler@gnome.org</a>&gt; wrote:<br>
+&gt;<br>
+&gt; We&#39;ll also need a handful of editors to review the articles, inclu=
+ding<br>
+&gt; structure, grammar and spelling.=C2=A0 Our editors work with the write=
+rs and ask<br>
+&gt; questions for clarity.<br>
+<br>
+</div>I&#39;m willing to help with editing as needed. I need a bit of notic=
+e,<br>
+but I do have some experience in that area. :-)<br>
+<br>
+Best,<br>
+<br>
+Zonker<br>
+--<br>
+<font color=3D"#888888">Joe &#39;Zonker&#39; Brockmeier &lt;<a href=3D"mail=
+to:jzb@zonker.net">jzb@zonker.net</a>&gt;<br>
+openSUSE Community Manager<br>
+Twitter: jzb | Identica: jzb<br>
+About: <a href=3D"http://www.dissociatedpress.net/about/" target=3D"_blank"=
+>http://www.dissociatedpress.net/about/</a><br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"http://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">http://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br>
+</font></blockquote></div><br><br clear=3D"all"><br>-- <br>&quot;Change l&#=
+39;ordre du monde plut=C3=B4t que tes d=C3=A9sirs.&quot;<br><br>Membre de l=
+&#39;April - Promouvoir et d=C3=A9fendre les logiciels libres<br><br>PhD St=
+udent <br>&quot;Molecular Evolution and Bioinformatics&quot; <br>
+
+Ludwig-Maximilians University (LMU) of Munich <br><br><br><br>What happens =
+when you&#39;ve worked too long in the lab :<br>*You wonder what absolute a=
+lcohol tastes like with orange juice.<br>*Warning labels invoke curiosity r=
+ather than caution.<br>
+
+*The Christmas nightout reveals scientists can&#39;t dance, although a form=
+ula for the movement of hands and feet combined with beats per min is found=
+ scrawled on a napkin by a waiter the next day.<br>*When you have twins, yo=
+u call one of them John and the other - Control.<br>
+
+
+
+--001636c5ba2f3536dd04769a5f80--

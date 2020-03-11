@@ -1,0 +1,189 @@
+From esther@bitranch.com  Wed Nov 15 18:25:07 2006
+Return-Path: <esther@bitranch.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 75DD03B006E
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Nov 2006 18:25:07 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 01862-10 for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Nov 2006 18:25:03 -0500 (EST)
+Received: from mail.bitranch.com (wsip-24-248-80-225.ph.ph.cox.net
+	[24.248.80.225])
+	by menubar.gnome.org (Postfix) with ESMTP id 071D93B0105
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Nov 2006 18:25:01 -0500 (EST)
+Received: from [192.168.1.94] (aloe.bitranch.com [::ffff:24.248.80.227])
+	(AUTH: CRAM-MD5 esther@bitranch.com)
+	by mail.bitranch.com with esmtp; Wed, 15 Nov 2006 16:24:16 -0700
+	id 00000368.455BA1CC.0000194A
+Mime-Version: 1.0 (Apple Message framework v752.3)
+Content-Transfer-Encoding: 7bit
+Message-Id: <22C4DCA3-4C9A-4211-B9EB-C3E051C3A92E@bitranch.com>
+Content-Type: text/plain; charset=US-ASCII; delsp=yes; format=flowed
+To: gnome-women-list@mail.gnome.org
+From: Esther Schindler <esther@bitranch.com>
+Date: Wed, 15 Nov 2006 16:24:58 -0700
+X-Mailer: Apple Mail (2.752.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.977 tagged_above=-999 required=2
+	tests=[BAYES_05=-1.11, FORGED_RCVD_HELO=0.135, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001]
+X-Spam-Score: -0.977
+X-Spam-Level: 
+Subject: [gnome-women] Help a journalist: Does your company pay you to write
+	open source code?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 15 Nov 2006 23:25:07 -0000
+
+I'm a computer industry journalist who just started in a new  
+position; I'm senior online editor cio.com and csoonline.com. The  
+first article that I decided to tackle is about open source  
+development in the enterprise, and I hope you can help me.
+
+In essence: if you write open source software as part of your  
+salaried job, I want to ask a few questions about how you've worked  
+out the logistics or legal details with your management. (And I'd be  
+*really* happy if I can quote open source women! Yay for visibility!)
+
+I know, from Evans Data research, that a rather high percentage of  
+software developers write open source code, whether on their own time  
+or the company's clock; some meaningful percentage of those  
+developers also contribute the changes back to the open source  
+community. And one of the factoids mentioned in passing at the  
+Gartner Open Source summit in September was that a growing percentage  
+of corporations are paying their own developers to work on open  
+source projects, some of whom do so full time. IBM is probably the  
+easiest example, with several people on the Eclipse project employed  
+by IBM.
+
+I'm looking for salaried open source developers, those developers'  
+management, or those who can speak personally to the issue -- so I  
+can write an article to provide guidance to IT Managers who are  
+contemplating such options.
+
+I hope to create management guidelines for companies who want to take  
+advantage of open source code, by adding the features they need to  
+the existing code base, then contributing the enhancements back to  
+the development community. But doing so can raise intellectual  
+property questions (such as "what does it mean for 'work for  
+hire'?")... and perhaps several other issues that make lawyers and  
+CEOs uncomfortable. I'd like to get your input on the issues the open  
+source developer and her manager need to deal with.
+
+If you're willing to chat with me (ideally in e-mail), drop me a line  
+at eschindler@cxo.com and I'll inundate you with questions. If not...  
+I apologize for interrupting your day. <smile>
+
+Esther Schindler
+senior online editor, cio.com
+
+
+From esther@bitranch.com  Wed Nov 15 18:25:07 2006
+Return-Path: <esther@bitranch.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 75DD03B006E
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Nov 2006 18:25:07 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 01862-10 for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Nov 2006 18:25:03 -0500 (EST)
+Received: from mail.bitranch.com (wsip-24-248-80-225.ph.ph.cox.net
+	[24.248.80.225])
+	by menubar.gnome.org (Postfix) with ESMTP id 071D93B0105
+	for <gnome-women-list@mail.gnome.org>;
+	Wed, 15 Nov 2006 18:25:01 -0500 (EST)
+Received: from [192.168.1.94] (aloe.bitranch.com [::ffff:24.248.80.227])
+	(AUTH: CRAM-MD5 esther@bitranch.com)
+	by mail.bitranch.com with esmtp; Wed, 15 Nov 2006 16:24:16 -0700
+	id 00000368.455BA1CC.0000194A
+Mime-Version: 1.0 (Apple Message framework v752.3)
+Content-Transfer-Encoding: 7bit
+Message-Id: <22C4DCA3-4C9A-4211-B9EB-C3E051C3A92E@bitranch.com>
+Content-Type: text/plain; charset=US-ASCII; delsp=yes; format=flowed
+To: gnome-women-list@mail.gnome.org
+From: Esther Schindler <esther@bitranch.com>
+Date: Wed, 15 Nov 2006 16:24:58 -0700
+X-Mailer: Apple Mail (2.752.3)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.977 tagged_above=-999 required=2
+	tests=[BAYES_05=-1.11, FORGED_RCVD_HELO=0.135, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001]
+X-Spam-Score: -0.977
+X-Spam-Level: 
+Subject: [gnome-women] Help a journalist: Does your company pay you to write
+	open source code?
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 15 Nov 2006 23:25:07 -0000
+
+I'm a computer industry journalist who just started in a new  
+position; I'm senior online editor cio.com and csoonline.com. The  
+first article that I decided to tackle is about open source  
+development in the enterprise, and I hope you can help me.
+
+In essence: if you write open source software as part of your  
+salaried job, I want to ask a few questions about how you've worked  
+out the logistics or legal details with your management. (And I'd be  
+*really* happy if I can quote open source women! Yay for visibility!)
+
+I know, from Evans Data research, that a rather high percentage of  
+software developers write open source code, whether on their own time  
+or the company's clock; some meaningful percentage of those  
+developers also contribute the changes back to the open source  
+community. And one of the factoids mentioned in passing at the  
+Gartner Open Source summit in September was that a growing percentage  
+of corporations are paying their own developers to work on open  
+source projects, some of whom do so full time. IBM is probably the  
+easiest example, with several people on the Eclipse project employed  
+by IBM.
+
+I'm looking for salaried open source developers, those developers'  
+management, or those who can speak personally to the issue -- so I  
+can write an article to provide guidance to IT Managers who are  
+contemplating such options.
+
+I hope to create management guidelines for companies who want to take  
+advantage of open source code, by adding the features they need to  
+the existing code base, then contributing the enhancements back to  
+the development community. But doing so can raise intellectual  
+property questions (such as "what does it mean for 'work for  
+hire'?")... and perhaps several other issues that make lawyers and  
+CEOs uncomfortable. I'd like to get your input on the issues the open  
+source developer and her manager need to deal with.
+
+If you're willing to chat with me (ideally in e-mail), drop me a line  
+at eschindler@cxo.com and I'll inundate you with questions. If not...  
+I apologize for interrupting your day. <smile>
+
+Esther Schindler
+senior online editor, cio.com
+
+
+

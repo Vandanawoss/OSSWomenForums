@@ -1,0 +1,915 @@
+From marinaz@redhat.com  Tue Dec 11 02:22:51 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D212B7533C1
+	for <gnome-women-list@gnome.org>; Tue, 11 Dec 2012 02:22:50 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.926
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.926 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-0.024,
+	SPF_HELO_PASS=-0.001, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id NcCv3r7eELio for <gnome-women-list@gnome.org>;
+	Tue, 11 Dec 2012 02:22:37 +0000 (UTC)
+Received: from mx4-phx2.redhat.com (mx4-phx2.redhat.com [209.132.183.25])
+	by menubar.gnome.org (Postfix) with ESMTP id 5F17F752D02
+	for <gnome-women-list@gnome.org>; Tue, 11 Dec 2012 02:22:37 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx4-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id qBB2MaiL014968;
+	Mon, 10 Dec 2012 21:22:36 -0500
+Date: Mon, 10 Dec 2012 21:22:36 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <718181690.59874586.1355192556070.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.3.113.45]
+X-Mailer: Zimbra 7.2.0_GA_2669 (ZimbraWebClient - FF3.0 (Linux)/7.2.0_GA_2669)
+Cc: james@hackervisions.org
+Subject: [gnome-women] get your blog added to the Women in Free Software
+	planet!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Tue, 11 Dec 2012 02:22:52 -0000
+
+Hi all,
+
+James Vasile, who maintains http://planeteria.org/wfs/ asked me to let women in the GNOME community know that all women who contribute to free software (and sometimes blog about it) are welcome to add their blogs to the Women in Free Software planet. Please e-mail him at james at hackervisions dot org providing RSS to your blog or feed you want to get aggregated.
+
+We are announcing Outreach Program for Women participants for January - April 2013 tomorrow, and since they will be working with many different free software organizations, we will be aggregating their blogs on that planet, in addition to the planets specific to each participant's organization.
+
+Thanks,
+Marina
+From marinaz@redhat.com  Sat Dec 22 04:02:42 2012
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 7694B7507FD
+	for <gnome-women-list@gnome.org>; Sat, 22 Dec 2012 04:02:36 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.912
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.912 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, SPF_HELO_PASS=-0.001,
+	SPF_PASS=-0.001, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 9JPl+EMgKOPO for <gnome-women-list@gnome.org>;
+	Sat, 22 Dec 2012 04:02:19 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by menubar.gnome.org (Postfix) with ESMTP id 56EAF7507F1
+	for <gnome-women-list@gnome.org>; Sat, 22 Dec 2012 04:01:30 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id qBM41bdD009361;
+	Fri, 21 Dec 2012 23:01:37 -0500
+Date: Fri, 21 Dec 2012 23:01:37 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <1279230460.68341841.1356148897705.JavaMail.root@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.3.113.45]
+X-Mailer: Zimbra 7.2.0_GA_2669 (ZimbraWebClient - FF3.0 (Linux)/7.2.0_GA_2669)
+Cc: Jessica McKellar <jessica.mckellar@gmail.com>
+Subject: [gnome-women] Hacker School
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 22 Dec 2012 04:02:43 -0000
+
+Hi all,
+
+Jessica McKellar (a mentor for the Twisted project for the Outreach Program for Women) asked me to pass this on to you. She had the pleasure and honor of being a Resident at Hacker School this past batch and had a great time. She highly recommends it!
+
+Please consider applying for it and feel free to pass on this information!
+
+Thanks,
+Marina
+
+----------------------------------------------------------------------------
+
+Apply to Hacker School
+
+Hacker School is a three-month, full-time school in New York for
+becoming a better programmer. It's like a writers retreat for hackers.
+Tuition is free, and we provide space, a little structure, time to
+focus, and a friendly community of smart people dedicated to
+self-improvement.
+
+We strive to make Hacker School the best environment to learn and grow
+as a programer. Towards that end, we have explicit social rules (e.g.,
+no "well, actuallys," no "feigning surprise," no "subtle sexism"), we
+aim for gender parity (our past two batches were 37-45% female), and
+we host amazing people as programmers in residence who work directly
+with students (last batch: Jessica McKellar, Peter Seibel, Alex Payne,
+Stefan Karpinski, and David Nolen).
+
+Tuition is free, and we provide $5k, need-based grants to women for
+living expenses.
+
+We value free software, beautiful code, and personal growth. Apply now
+to be part of our winter 2013 batch, which begins in February:
+
+https://www.hackerschool.com/about
+https://www.hackerschool.com/apply
+
+You can also learn about the type of people we look for and if we'd be
+a fit for you:
+
+https://www.hackerschool.com/blog/12-what-we-mean-by-hacker
+From tamara.atanasoska20@gmail.com  Sat Dec 22 10:42:11 2012
+Return-Path: <tamara.atanasoska20@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E213C7500A9
+	for <gnome-women-list@gnome.org>; Sat, 22 Dec 2012 10:42:10 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.449
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.449 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_ENVFROM_END_DIGIT=0.25,
+	FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001, RCVD_IN_DNSWL_LOW=-0.7,
+	SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id iE0cjuYVUplf for <gnome-women-list@gnome.org>;
+	Sat, 22 Dec 2012 10:42:05 +0000 (UTC)
+Received: from mail-qa0-f51.google.com (mail-qa0-f51.google.com
+	[209.85.216.51])
+	by menubar.gnome.org (Postfix) with ESMTP id 45C0B7507F4
+	for <gnome-women-list@gnome.org>; Sat, 22 Dec 2012 10:39:37 +0000 (UTC)
+Received: by mail-qa0-f51.google.com with SMTP id i20so4036035qad.3
+	for <gnome-women-list@gnome.org>; Sat, 22 Dec 2012 02:39:45 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+	:cc:content-type;
+	bh=C4qQyOJFeOmilLcCirX/0BKQNc0XFqbPZB8rEobv5oI=;
+	b=HmKRvK3xBBd++JMnjj4NCJUPNuG/JO6up6vPg4giXLotbbwaaNGSjpyZGVPE5DRVjW
+	cGXZ2+RkyJNdkW0cMbdjE3Dgxzo/UJyxwDjD5P7IAeJX9KS1j/BTjjJoyOtoE5aJMiHz
+	Q8FgxfcBuNVEKWdyAzl0Ge5JGgjFytXHsF/Vn27z5dxitvpG55ycR7wOcQxzBqf6B8cj
+	LS7yBxkshOJjmvLNsSAv7/25DySyqTPwy9cbnsueEqgAtkPyB3ulhV4TRFylRjvoS2BL
+	RzCOldC8jjRaE+1IBtkcsUJTd2xmvMg0T0Pv++uMWb6yZWGhQ9SRu8iz00JcZa93hrK/
+	opEg==
+MIME-Version: 1.0
+Received: by 10.224.191.137 with SMTP id dm9mr8335603qab.40.1356172785078;
+	Sat, 22 Dec 2012 02:39:45 -0800 (PST)
+Received: by 10.49.120.99 with HTTP; Sat, 22 Dec 2012 02:39:44 -0800 (PST)
+In-Reply-To: <1279230460.68341841.1356148897705.JavaMail.root@redhat.com>
+References: <1279230460.68341841.1356148897705.JavaMail.root@redhat.com>
+Date: Sat, 22 Dec 2012 11:39:44 +0100
+Message-ID: <CAFDnFaBQX=_PaM9=xTx4H-cPVrkrqbBqcY=U0O1BzDj2185hGw@mail.gmail.com>
+From: Tamara Atanasoska <tamara.atanasoska20@gmail.com>
+To: Marina Zhurakhinskaya <marinaz@redhat.com>
+Content-Type: multipart/alternative; boundary=20cf3005dfa81bd21e04d16e9506
+Cc: Jessica McKellar <jessica.mckellar@gmail.com>,
+	gnome-women-list <gnome-women-list@gnome.org>
+Subject: Re: [gnome-women] Hacker School
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 22 Dec 2012 10:42:11 -0000
+
+--20cf3005dfa81bd21e04d16e9506
+Content-Type: text/plain; charset=UTF-8
+
+I got accepted for this batch too, but I didn't get the visa at the end :(.
+I will try with the visa next year too and we'll see.
+
+
+On Sat, Dec 22, 2012 at 5:01 AM, Marina Zhurakhinskaya
+<marinaz@redhat.com>wrote:
+
+> Hi all,
+>
+> Jessica McKellar (a mentor for the Twisted project for the Outreach
+> Program for Women) asked me to pass this on to you. She had the pleasure
+> and honor of being a Resident at Hacker School this past batch and had a
+> great time. She highly recommends it!
+>
+> Please consider applying for it and feel free to pass on this information!
+>
+> Thanks,
+> Marina
+>
+>
+> ----------------------------------------------------------------------------
+>
+> Apply to Hacker School
+>
+> Hacker School is a three-month, full-time school in New York for
+> becoming a better programmer. It's like a writers retreat for hackers.
+> Tuition is free, and we provide space, a little structure, time to
+> focus, and a friendly community of smart people dedicated to
+> self-improvement.
+>
+> We strive to make Hacker School the best environment to learn and grow
+> as a programer. Towards that end, we have explicit social rules (e.g.,
+> no "well, actuallys," no "feigning surprise," no "subtle sexism"), we
+> aim for gender parity (our past two batches were 37-45% female), and
+> we host amazing people as programmers in residence who work directly
+> with students (last batch: Jessica McKellar, Peter Seibel, Alex Payne,
+> Stefan Karpinski, and David Nolen).
+>
+> Tuition is free, and we provide $5k, need-based grants to women for
+> living expenses.
+>
+> We value free software, beautiful code, and personal growth. Apply now
+> to be part of our winter 2013 batch, which begins in February:
+>
+> https://www.hackerschool.com/about
+> https://www.hackerschool.com/apply
+>
+> You can also learn about the type of people we look for and if we'd be
+> a fit for you:
+>
+> https://www.hackerschool.com/blog/12-what-we-mean-by-hacker
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+
+--20cf3005dfa81bd21e04d16e9506
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">I got accepted for this batch too, but I didn&#39;t get th=
+e visa at the end :(.<div style>I will try with the visa next year too and =
+we&#39;ll see.</div></div><div class=3D"gmail_extra"><br><br><div class=3D"=
+gmail_quote">
+On Sat, Dec 22, 2012 at 5:01 AM, Marina Zhurakhinskaya <span dir=3D"ltr">&l=
+t;<a href=3D"mailto:marinaz@redhat.com" target=3D"_blank">marinaz@redhat.co=
+m</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quote" style=3D"margi=
+n:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+Hi all,<br>
+<br>
+Jessica McKellar (a mentor for the Twisted project for the Outreach Program=
+ for Women) asked me to pass this on to you. She had the pleasure and honor=
+ of being a Resident at Hacker School this past batch and had a great time.=
+ She highly recommends it!<br>
+
+<div><div class=3D"h5"><br>
+Please consider applying for it and feel free to pass on this information!<=
+br>
+<br>
+Thanks,<br>
+Marina<br>
+<br>
+---------------------------------------------------------------------------=
+-<br>
+<br>
+Apply to Hacker School<br>
+<br>
+Hacker School is a three-month, full-time school in New York for<br>
+becoming a better programmer. It&#39;s like a writers retreat for hackers.<=
+br>
+Tuition is free, and we provide space, a little structure, time to<br>
+focus, and a friendly community of smart people dedicated to<br>
+self-improvement.<br>
+<br>
+We strive to make Hacker School the best environment to learn and grow<br>
+as a programer. Towards that end, we have explicit social rules (e.g.,<br>
+no &quot;well, actuallys,&quot; no &quot;feigning surprise,&quot; no &quot;=
+subtle sexism&quot;), we<br>
+aim for gender parity (our past two batches were 37-45% female), and<br>
+we host amazing people as programmers in residence who work directly<br>
+with students (last batch: Jessica McKellar, Peter Seibel, Alex Payne,<br>
+Stefan Karpinski, and David Nolen).<br>
+<br>
+Tuition is free, and we provide $5k, need-based grants to women for<br>
+living expenses.<br>
+<br>
+We value free software, beautiful code, and personal growth. Apply now<br>
+to be part of our winter 2013 batch, which begins in February:<br>
+<br>
+<a href=3D"https://www.hackerschool.com/about" target=3D"_blank">https://ww=
+w.hackerschool.com/about</a><br>
+<a href=3D"https://www.hackerschool.com/apply" target=3D"_blank">https://ww=
+w.hackerschool.com/apply</a><br>
+<br>
+You can also learn about the type of people we look for and if we&#39;d be<=
+br>
+a fit for you:<br>
+<br>
+<a href=3D"https://www.hackerschool.com/blog/12-what-we-mean-by-hacker" tar=
+get=3D"_blank">https://www.hackerschool.com/blog/12-what-we-mean-by-hacker<=
+/a><br>
+</div></div>_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+>
+</blockquote></div><br></div>
+
+--20cf3005dfa81bd21e04d16e9506--
+From bleonafoniqi@gmail.com  Sat Dec 22 13:47:52 2012
+Return-Path: <bleonafoniqi@gmail.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id F00E8750488
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 22 Dec 2012 13:47:51 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.699
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.699 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, DKIM_SIGNED=0.1, DKIM_VALID=-0.1,
+	DKIM_VALID_AU=-0.1, FREEMAIL_FROM=0.001, HTML_MESSAGE=0.001,
+	RCVD_IN_DNSWL_LOW=-0.7, SPF_PASS=-0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id gYe+uEqnCydw for <gnome-women-list@mail.gnome.org>;
+	Sat, 22 Dec 2012 13:47:34 +0000 (UTC)
+Received: from mail-qa0-f54.google.com (mail-qa0-f54.google.com
+	[209.85.216.54])
+	by menubar.gnome.org (Postfix) with ESMTP id AFBB07500A9
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 22 Dec 2012 13:47:33 +0000 (UTC)
+Received: by mail-qa0-f54.google.com with SMTP id j15so4073606qaq.6
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 22 Dec 2012 05:47:41 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=20120113;
+	h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+	:content-type; bh=QeHfX4ijf+qbLOssMfCpJQzp7+iZxD+ZNEChJ6+vMsg=;
+	b=Vvy9YXpKpYqnBVBO8+Djcb+a4lCwCf1SzH0QqvJIPVIIJkT2dfNVAEwoEInpyccOSI
+	CBr3xiHLWRMPKrQa423/5SkLDtoRYUcF7saJjOg3eRxfY28DbA7Joa+7g5ZjL7XltFfb
+	ZsBhwI+XsG3S/5ZEpCT8Ar2Dld8c7KJ3NQimzvHwoUe/SEtMk0KuERHXC6GAXz2mWca5
+	kuGhNU/6Rtm+YphSx+PJe5p/Okhb+mmGZ9McWzl6Vq5WnEEnxa0FMRroaMvDvX5LbGfc
+	hKwA4U9NSqQgv+V/PjlBE+amrUVxOFSXuMyQggm3uqn9cSI0fJpN2sS5hlTfbZyO3aec
+	IOMw==
+Received: by 10.229.195.167 with SMTP id ec39mr1900090qcb.38.1356184061354;
+	Sat, 22 Dec 2012 05:47:41 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.49.96.72 with HTTP; Sat, 22 Dec 2012 05:47:21 -0800 (PST)
+In-Reply-To: <mailman.29.1356177615.18955.gnome-women-list@mail.gnome.org>
+References: <mailman.29.1356177615.18955.gnome-women-list@mail.gnome.org>
+From: Bleona Foniqi <bleonafoniqi@gmail.com>
+Date: Sat, 22 Dec 2012 14:47:21 +0100
+Message-ID: <CAGZFZFACwtZeB5fyNkLOPaUn9YdfiAB+SZovyvrosU5DHrwGnQ@mail.gmail.com>
+To: gnome-women-list@mail.gnome.org
+Content-Type: multipart/alternative; boundary=0016e6d285b43a240204d1713575
+Subject: Re: [gnome-women] gnome-women-list Digest, Vol 56, Issue 2
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 22 Dec 2012 13:47:52 -0000
+
+--0016e6d285b43a240204d1713575
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello,
+Does anyone know if you have to live inside US to apply?
+Thanks,
+Bleona
+
+
+On Sat, Dec 22, 2012 at 1:00 PM, <gnome-women-list-request@mail.gnome.org>wrote:
+
+> Send gnome-women-list mailing list submissions to
+>         gnome-women-list@mail.gnome.org
+>
+> To subscribe or unsubscribe via the World Wide Web, visit
+>         https://mail.gnome.org/mailman/listinfo/gnome-women-list
+> or, via email, send a message with subject or body 'help' to
+>         gnome-women-list-request@mail.gnome.org
+>
+> You can reach the person managing the list at
+>         gnome-women-list-owner@mail.gnome.org
+>
+> When replying, please edit your Subject line so it is more specific
+> than "Re: Contents of gnome-women-list digest..."
+>
+>
+> Today's Topics:
+>
+>    1.  Hacker School (Marina Zhurakhinskaya)
+>    2. Re:  Hacker School (Tamara Atanasoska)
+>
+>
+> ----------------------------------------------------------------------
+>
+> Message: 1
+> Date: Fri, 21 Dec 2012 23:01:37 -0500 (EST)
+> From: Marina Zhurakhinskaya <marinaz@redhat.com>
+> To: gnome-women-list <gnome-women-list@gnome.org>
+> Cc: Jessica McKellar <jessica.mckellar@gmail.com>
+> Subject: [gnome-women] Hacker School
+> Message-ID:
+>         <1279230460.68341841.1356148897705.JavaMail.root@redhat.com>
+> Content-Type: text/plain; charset=utf-8
+>
+> Hi all,
+>
+> Jessica McKellar (a mentor for the Twisted project for the Outreach
+> Program for Women) asked me to pass this on to you. She had the pleasure
+> and honor of being a Resident at Hacker School this past batch and had a
+> great time. She highly recommends it!
+>
+> Please consider applying for it and feel free to pass on this information!
+>
+> Thanks,
+> Marina
+>
+>
+> ----------------------------------------------------------------------------
+>
+> Apply to Hacker School
+>
+> Hacker School is a three-month, full-time school in New York for
+> becoming a better programmer. It's like a writers retreat for hackers.
+> Tuition is free, and we provide space, a little structure, time to
+> focus, and a friendly community of smart people dedicated to
+> self-improvement.
+>
+> We strive to make Hacker School the best environment to learn and grow
+> as a programer. Towards that end, we have explicit social rules (e.g.,
+> no "well, actuallys," no "feigning surprise," no "subtle sexism"), we
+> aim for gender parity (our past two batches were 37-45% female), and
+> we host amazing people as programmers in residence who work directly
+> with students (last batch: Jessica McKellar, Peter Seibel, Alex Payne,
+> Stefan Karpinski, and David Nolen).
+>
+> Tuition is free, and we provide $5k, need-based grants to women for
+> living expenses.
+>
+> We value free software, beautiful code, and personal growth. Apply now
+> to be part of our winter 2013 batch, which begins in February:
+>
+> https://www.hackerschool.com/about
+> https://www.hackerschool.com/apply
+>
+> You can also learn about the type of people we look for and if we'd be
+> a fit for you:
+>
+> https://www.hackerschool.com/blog/12-what-we-mean-by-hacker
+>
+>
+> ------------------------------
+>
+> Message: 2
+> Date: Sat, 22 Dec 2012 11:39:44 +0100
+> From: Tamara Atanasoska <tamara.atanasoska20@gmail.com>
+> To: Marina Zhurakhinskaya <marinaz@redhat.com>
+> Cc: Jessica McKellar <jessica.mckellar@gmail.com>,      gnome-women-list
+>         <gnome-women-list@gnome.org>
+> Subject: Re: [gnome-women] Hacker School
+> Message-ID:
+>         <CAFDnFaBQX=_PaM9=xTx4H-cPVrkrqbBqcY=
+> U0O1BzDj2185hGw@mail.gmail.com>
+> Content-Type: text/plain; charset="utf-8"
+>
+> I got accepted for this batch too, but I didn't get the visa at the end :(.
+> I will try with the visa next year too and we'll see.
+>
+>
+> On Sat, Dec 22, 2012 at 5:01 AM, Marina Zhurakhinskaya
+> <marinaz@redhat.com>wrote:
+>
+> > Hi all,
+> >
+> > Jessica McKellar (a mentor for the Twisted project for the Outreach
+> > Program for Women) asked me to pass this on to you. She had the pleasure
+> > and honor of being a Resident at Hacker School this past batch and had a
+> > great time. She highly recommends it!
+> >
+> > Please consider applying for it and feel free to pass on this
+> information!
+> >
+> > Thanks,
+> > Marina
+> >
+> >
+> >
+> ----------------------------------------------------------------------------
+> >
+> > Apply to Hacker School
+> >
+> > Hacker School is a three-month, full-time school in New York for
+> > becoming a better programmer. It's like a writers retreat for hackers.
+> > Tuition is free, and we provide space, a little structure, time to
+> > focus, and a friendly community of smart people dedicated to
+> > self-improvement.
+> >
+> > We strive to make Hacker School the best environment to learn and grow
+> > as a programer. Towards that end, we have explicit social rules (e.g.,
+> > no "well, actuallys," no "feigning surprise," no "subtle sexism"), we
+> > aim for gender parity (our past two batches were 37-45% female), and
+> > we host amazing people as programmers in residence who work directly
+> > with students (last batch: Jessica McKellar, Peter Seibel, Alex Payne,
+> > Stefan Karpinski, and David Nolen).
+> >
+> > Tuition is free, and we provide $5k, need-based grants to women for
+> > living expenses.
+> >
+> > We value free software, beautiful code, and personal growth. Apply now
+> > to be part of our winter 2013 batch, which begins in February:
+> >
+> > https://www.hackerschool.com/about
+> > https://www.hackerschool.com/apply
+> >
+> > You can also learn about the type of people we look for and if we'd be
+> > a fit for you:
+> >
+> > https://www.hackerschool.com/blog/12-what-we-mean-by-hacker
+> > _______________________________________________
+> > gnome-women-list mailing list
+> > gnome-women-list@mail.gnome.org
+> > https://mail.gnome.org/mailman/listinfo/gnome-women-list
+> >
+> -------------- next part --------------
+> An HTML attachment was scrubbed...
+> URL: <
+> https://mail.gnome.org/archives/gnome-women-list/attachments/20121222/73b0f5c9/attachment.html
+> >
+>
+> ------------------------------
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> https://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+> End of gnome-women-list Digest, Vol 56, Issue 2
+> ***********************************************
+>
+
+
+
+-- 
+*Bleona Foniqi*
+bleonafoniqi.wordpress.com
+*Member of Free Libre Open Source Software Kosova* http://flossk.org
+*Free Software Foundation Europe Fellow*
+https://wiki.fsfe.org/Fellows/bleona_foniqi
+
+--0016e6d285b43a240204d1713575
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div>Hello,<br>Does anyone know if you have to live i=
+nside US to apply? <br></div>Thanks,<br></div>Bleona<br></div><div class=3D=
+"gmail_extra"><br><br><div class=3D"gmail_quote">On Sat, Dec 22, 2012 at 1:=
+00 PM,  <span dir=3D"ltr">&lt;<a href=3D"mailto:gnome-women-list-request@ma=
+il.gnome.org" target=3D"_blank">gnome-women-list-request@mail.gnome.org</a>=
+&gt;</span> wrote:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Send gnome-women-list mailing list submissio=
+ns to<br>
+=A0 =A0 =A0 =A0 <a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-wo=
+men-list@mail.gnome.org</a><br>
+<br>
+To subscribe or unsubscribe via the World Wide Web, visit<br>
+=A0 =A0 =A0 =A0 <a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-wo=
+men-list" target=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-w=
+omen-list</a><br>
+or, via email, send a message with subject or body &#39;help&#39; to<br>
+=A0 =A0 =A0 =A0 <a href=3D"mailto:gnome-women-list-request@mail.gnome.org">=
+gnome-women-list-request@mail.gnome.org</a><br>
+<br>
+You can reach the person managing the list at<br>
+=A0 =A0 =A0 =A0 <a href=3D"mailto:gnome-women-list-owner@mail.gnome.org">gn=
+ome-women-list-owner@mail.gnome.org</a><br>
+<br>
+When replying, please edit your Subject line so it is more specific<br>
+than &quot;Re: Contents of gnome-women-list digest...&quot;<br>
+<br>
+<br>
+Today&#39;s Topics:<br>
+<br>
+=A0 =A01. =A0Hacker School (Marina Zhurakhinskaya)<br>
+=A0 =A02. Re: =A0Hacker School (Tamara Atanasoska)<br>
+<br>
+<br>
+----------------------------------------------------------------------<br>
+<br>
+Message: 1<br>
+Date: Fri, 21 Dec 2012 23:01:37 -0500 (EST)<br>
+From: Marina Zhurakhinskaya &lt;<a href=3D"mailto:marinaz@redhat.com">marin=
+az@redhat.com</a>&gt;<br>
+To: gnome-women-list &lt;<a href=3D"mailto:gnome-women-list@gnome.org">gnom=
+e-women-list@gnome.org</a>&gt;<br>
+Cc: Jessica McKellar &lt;<a href=3D"mailto:jessica.mckellar@gmail.com">jess=
+ica.mckellar@gmail.com</a>&gt;<br>
+Subject: [gnome-women] Hacker School<br>
+Message-ID:<br>
+=A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:1279230460.68341841.1356148897705.Jav=
+aMail.root@redhat.com">1279230460.68341841.1356148897705.JavaMail.root@redh=
+at.com</a>&gt;<br>
+Content-Type: text/plain; charset=3Dutf-8<br>
+<br>
+Hi all,<br>
+<br>
+Jessica McKellar (a mentor for the Twisted project for the Outreach Program=
+ for Women) asked me to pass this on to you. She had the pleasure and honor=
+ of being a Resident at Hacker School this past batch and had a great time.=
+ She highly recommends it!<br>
+
+
+<br>
+Please consider applying for it and feel free to pass on this information!<=
+br>
+<br>
+Thanks,<br>
+Marina<br>
+<br>
+---------------------------------------------------------------------------=
+-<br>
+<br>
+Apply to Hacker School<br>
+<br>
+Hacker School is a three-month, full-time school in New York for<br>
+becoming a better programmer. It&#39;s like a writers retreat for hackers.<=
+br>
+Tuition is free, and we provide space, a little structure, time to<br>
+focus, and a friendly community of smart people dedicated to<br>
+self-improvement.<br>
+<br>
+We strive to make Hacker School the best environment to learn and grow<br>
+as a programer. Towards that end, we have explicit social rules (e.g.,<br>
+no &quot;well, actuallys,&quot; no &quot;feigning surprise,&quot; no &quot;=
+subtle sexism&quot;), we<br>
+aim for gender parity (our past two batches were 37-45% female), and<br>
+we host amazing people as programmers in residence who work directly<br>
+with students (last batch: Jessica McKellar, Peter Seibel, Alex Payne,<br>
+Stefan Karpinski, and David Nolen).<br>
+<br>
+Tuition is free, and we provide $5k, need-based grants to women for<br>
+living expenses.<br>
+<br>
+We value free software, beautiful code, and personal growth. Apply now<br>
+to be part of our winter 2013 batch, which begins in February:<br>
+<br>
+<a href=3D"https://www.hackerschool.com/about" target=3D"_blank">https://ww=
+w.hackerschool.com/about</a><br>
+<a href=3D"https://www.hackerschool.com/apply" target=3D"_blank">https://ww=
+w.hackerschool.com/apply</a><br>
+<br>
+You can also learn about the type of people we look for and if we&#39;d be<=
+br>
+a fit for you:<br>
+<br>
+<a href=3D"https://www.hackerschool.com/blog/12-what-we-mean-by-hacker" tar=
+get=3D"_blank">https://www.hackerschool.com/blog/12-what-we-mean-by-hacker<=
+/a><br>
+<br>
+<br>
+------------------------------<br>
+<br>
+Message: 2<br>
+Date: Sat, 22 Dec 2012 11:39:44 +0100<br>
+From: Tamara Atanasoska &lt;<a href=3D"mailto:tamara.atanasoska20@gmail.com=
+">tamara.atanasoska20@gmail.com</a>&gt;<br>
+To: Marina Zhurakhinskaya &lt;<a href=3D"mailto:marinaz@redhat.com">marinaz=
+@redhat.com</a>&gt;<br>
+Cc: Jessica McKellar &lt;<a href=3D"mailto:jessica.mckellar@gmail.com">jess=
+ica.mckellar@gmail.com</a>&gt;, =A0 =A0 =A0gnome-women-list<br>
+=A0 =A0 =A0 =A0 &lt;<a href=3D"mailto:gnome-women-list@gnome.org">gnome-wom=
+en-list@gnome.org</a>&gt;<br>
+Subject: Re: [gnome-women] Hacker School<br>
+Message-ID:<br>
+=A0 =A0 =A0 =A0 &lt;CAFDnFaBQX=3D_PaM9=3DxTx4H-cPVrkrqbBqcY=3D<a href=3D"ma=
+ilto:U0O1BzDj2185hGw@mail.gmail.com">U0O1BzDj2185hGw@mail.gmail.com</a>&gt;=
+<br>
+Content-Type: text/plain; charset=3D&quot;utf-8&quot;<br>
+<br>
+I got accepted for this batch too, but I didn&#39;t get the visa at the end=
+ :(.<br>
+I will try with the visa next year too and we&#39;ll see.<br>
+<br>
+<br>
+On Sat, Dec 22, 2012 at 5:01 AM, Marina Zhurakhinskaya<br>
+&lt;<a href=3D"mailto:marinaz@redhat.com">marinaz@redhat.com</a>&gt;wrote:<=
+br>
+<br>
+&gt; Hi all,<br>
+&gt;<br>
+&gt; Jessica McKellar (a mentor for the Twisted project for the Outreach<br=
+>
+&gt; Program for Women) asked me to pass this on to you. She had the pleasu=
+re<br>
+&gt; and honor of being a Resident at Hacker School this past batch and had=
+ a<br>
+&gt; great time. She highly recommends it!<br>
+&gt;<br>
+&gt; Please consider applying for it and feel free to pass on this informat=
+ion!<br>
+&gt;<br>
+&gt; Thanks,<br>
+&gt; Marina<br>
+&gt;<br>
+&gt;<br>
+&gt; ----------------------------------------------------------------------=
+------<br>
+&gt;<br>
+&gt; Apply to Hacker School<br>
+&gt;<br>
+&gt; Hacker School is a three-month, full-time school in New York for<br>
+&gt; becoming a better programmer. It&#39;s like a writers retreat for hack=
+ers.<br>
+&gt; Tuition is free, and we provide space, a little structure, time to<br>
+&gt; focus, and a friendly community of smart people dedicated to<br>
+&gt; self-improvement.<br>
+&gt;<br>
+&gt; We strive to make Hacker School the best environment to learn and grow=
+<br>
+&gt; as a programer. Towards that end, we have explicit social rules (e.g.,=
+<br>
+&gt; no &quot;well, actuallys,&quot; no &quot;feigning surprise,&quot; no &=
+quot;subtle sexism&quot;), we<br>
+&gt; aim for gender parity (our past two batches were 37-45% female), and<b=
+r>
+&gt; we host amazing people as programmers in residence who work directly<b=
+r>
+&gt; with students (last batch: Jessica McKellar, Peter Seibel, Alex Payne,=
+<br>
+&gt; Stefan Karpinski, and David Nolen).<br>
+&gt;<br>
+&gt; Tuition is free, and we provide $5k, need-based grants to women for<br=
+>
+&gt; living expenses.<br>
+&gt;<br>
+&gt; We value free software, beautiful code, and personal growth. Apply now=
+<br>
+&gt; to be part of our winter 2013 batch, which begins in February:<br>
+&gt;<br>
+&gt; <a href=3D"https://www.hackerschool.com/about" target=3D"_blank">https=
+://www.hackerschool.com/about</a><br>
+&gt; <a href=3D"https://www.hackerschool.com/apply" target=3D"_blank">https=
+://www.hackerschool.com/apply</a><br>
+&gt;<br>
+&gt; You can also learn about the type of people we look for and if we&#39;=
+d be<br>
+&gt; a fit for you:<br>
+&gt;<br>
+&gt; <a href=3D"https://www.hackerschool.com/blog/12-what-we-mean-by-hacker=
+" target=3D"_blank">https://www.hackerschool.com/blog/12-what-we-mean-by-ha=
+cker</a><br>
+&gt; _______________________________________________<br>
+&gt; gnome-women-list mailing list<br>
+&gt; <a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@ma=
+il.gnome.org</a><br>
+&gt; <a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" t=
+arget=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</=
+a><br>
+&gt;<br>
+-------------- next part --------------<br>
+An HTML attachment was scrubbed...<br>
+URL: &lt;<a href=3D"https://mail.gnome.org/archives/gnome-women-list/attach=
+ments/20121222/73b0f5c9/attachment.html" target=3D"_blank">https://mail.gno=
+me.org/archives/gnome-women-list/attachments/20121222/73b0f5c9/attachment.h=
+tml</a>&gt;<br>
+
+
+<br>
+------------------------------<br>
+<br>
+_______________________________________________<br>
+gnome-women-list mailing list<br>
+<a href=3D"mailto:gnome-women-list@mail.gnome.org">gnome-women-list@mail.gn=
+ome.org</a><br>
+<a href=3D"https://mail.gnome.org/mailman/listinfo/gnome-women-list" target=
+=3D"_blank">https://mail.gnome.org/mailman/listinfo/gnome-women-list</a><br=
+>
+<br>
+End of gnome-women-list Digest, Vol 56, Issue 2<br>
+***********************************************<br>
+</blockquote></div><br><br clear=3D"all"><br>-- <br><i>Bleona Foniqi</i><br=
+><a href=3D"http://bleonafoniqi.wordpress.com" target=3D"_blank">bleonafoni=
+qi.wordpress.com</a><br><i>Member of Free Libre Open Source Software Kosova=
+</i> <a href=3D"http://flossk.org" target=3D"_blank">http://flossk.org</a><=
+br>
+
+<i>Free Software Foundation Europe Fellow</i> <a href=3D"https://wiki.fsfe.=
+org/Fellows/bleona_foniqi" target=3D"_blank">https://wiki.fsfe.org/Fellows/=
+bleona_foniqi</a><br><br>
+</div>
+
+--0016e6d285b43a240204d1713575--
+From mary@puzzling.org  Sat Dec 22 22:31:55 2012
+Return-Path: <mary@puzzling.org>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 89994750668
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 22 Dec 2012 22:31:55 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -1.91
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.91 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, T_RP_MATCHES_RCVD=-0.01] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 6IHIfRFdMg0T for <gnome-women-list@mail.gnome.org>;
+	Sat, 22 Dec 2012 22:31:40 +0000 (UTC)
+X-Greylist: delayed 652 seconds by postgrey-1.34 at menubar.gnome.org;
+	Sat, 22 Dec 2012 22:31:40 UTC
+Received: from fuchsia.puzzling.org (fuchsia.puzzling.org [65.49.60.222])
+	by menubar.gnome.org (Postfix) with ESMTP id 1F3EB750309
+	for <gnome-women-list@mail.gnome.org>;
+	Sat, 22 Dec 2012 22:31:39 +0000 (UTC)
+Received: from [10.125.0.29] (unknown [49.176.97.235])
+	(using TLSv1 with cipher RC4-MD5 (128/128 bits))
+	(Client did not present a certificate) (Authenticated sender: mary)
+	by fuchsia.puzzling.org (Postfix) with ESMTPSA id 8784816C98;
+	Sun, 23 Dec 2012 09:20:54 +1100 (EST)
+User-Agent: K-9 Mail for Android
+In-Reply-To: <CAGZFZFACwtZeB5fyNkLOPaUn9YdfiAB+SZovyvrosU5DHrwGnQ@mail.gmail.com>
+References: <mailman.29.1356177615.18955.gnome-women-list@mail.gnome.org>
+	<CAGZFZFACwtZeB5fyNkLOPaUn9YdfiAB+SZovyvrosU5DHrwGnQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 8bit
+From: Mary Gardiner <mary@puzzling.org>
+Date: Sun, 23 Dec 2012 09:18:28 +1100
+To: Bleona Foniqi <bleonafoniqi@gmail.com>,gnome-women-list@mail.gnome.org
+Message-ID: <9c9a85dc-2a93-431b-82c3-f96fc5cd7ede@email.android.com>
+Subject: Re: [gnome-women] gnome-women-list Digest, Vol 56, Issue 2
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.14
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 22 Dec 2012 22:31:55 -0000
+
+
+
+Bleona Foniqi <bleonafoniqi@gmail.com> wrote:
+
+>Hello,
+>Does anyone know if you have to live inside US to apply?
+>Thanks,
+>Bleona
+
+You don't, but they won't assist you in applying for permission to live in the States for the duration.
+
+https://www.hackerschool.com/faq has some details.
+
+-Mary
+-- 
+Sent from my Android phone with K-9 Mail. Please excuse my brevity.

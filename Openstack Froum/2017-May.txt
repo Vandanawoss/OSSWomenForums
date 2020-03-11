@@ -1,0 +1,24 @@
+From amy at demarco.com  Tue May 16 22:53:26 2017
+From: amy at demarco.com (Amy Marrich)
+Date: Tue, 16 May 2017 17:53:26 -0500
+Subject: [Women-of-openstack] Meeting Cancellation Reminder
+Message-ID: <CAFs83QqDD4DXb0_4iC_neHgZGpynw8938J9Vgsb4pWoc-pgZpg@mail.gmail.com>
+
+Hey all,
+
+It was great seeing everyone who made it to Summit last week and those who
+didn't make it you were missed! Hope everyone remembered yesterday's
+meeting was cancelled, I apologize for not sending out a reminder.
+
+I do want to remind everyone we will not have the next meeting either as it
+falls on Memorial Day, May 29th. We will return to our regular meetings on
+June 12 led by yours truly. If you would like to sign up to lead a meeting
+you can do so here https://etherpad.openstack.org/p/WOS_Agenda_Tracker
+
+Thanks,
+
+Amy
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20170516/3596b440/attachment.html>
+

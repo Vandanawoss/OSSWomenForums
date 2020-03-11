@@ -1,0 +1,172 @@
+From kde-women@mail.kde.org  Wed Oct  9 21:31:44 2002
+From: kde-women@mail.kde.org (Eva Brucherseifer)
+Date: Wed, 9 Oct 2002 22:31:44 +0200
+Subject: [Kde-women]Fwd: Structure of our websites (in CVS + on the servers)
+Message-ID: <200210092231.59988.eva@kde.org>
+
+=2D----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Comments are welcome.
+
+Greetings,
+eva
+
+=2D ----------    ----------
+
+Subject: Structure of our websites (in CVS + on the servers)
+Date: Wednesday 09 October 2002 21:10
+=46rom: Christoph Cullmann <crossfire@babylon2k.de>
+To: kde-core-devel@mail.kde.org, kde-www@mail.kde.org
+Cc: sysadmin@kde.org
+
+=2D -----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hi,
+overlooking the current mess in www + the mass of *.kde.org domains (some
+ have even own cvs modules) I would like to know if it wouldn't be possible
+ to clean that up a "bit". ;)
+
+My proposal would be:
+
+a) move the applications homepages to www/apps/"appname" + make the
+"appname".kde.org domains pointing to that + create a index in www/apps whi=
+ch
+shows what application are around there with links
+
+b) move ALL *.kde.org subdomains into www/areas/"areaname" + make the
+"areaname".kde.org domains pointing to that (and again index)
+
+c) move ALL internationalisation pages to www/i18n/?? (or
+ www/international/?? or even seperated www-?? modules)
+
+d) let all this pages (after we have our new design ready + xhtml conform)
+ use the templates located at www/templates to get one corporate identity
+ look for the whole kde web sites (but that is AFTER we have done the first
+ hard restructuring)
+
+e) use <base href=3D"http://www.kde.org"> (and let the *.kde.org domains not
+change the docroot, only redirect them to the given subdirs, which will make
+links consistent to the base url, which might be set different (like
+www.kde.?? for the translated websites which will get a document root set to
+www/international/?? or www/i18n/??)
+
+Would that be possible ?
+
+BTW., would be nice to get a common suffix for the pages that are written in
+php, should we use .html (as now on www.kde.org) or the more comment .php
+suffix (if .php should be it, please change that the server accepts
+index.php), the includes will get .inc.
+
+P.S.
+Please constructive answers, no flames ;P
+This mail goes to kde-core-devel + kde-www and the sysadmin(s), please feel
+free to forward to any other people involved in the www stuff.
+
+cu
+Christoph
+
+=2D - --
+Christoph "Crossfire" Cullmann
+Kate/KDE developer
+cullmann@kde.org
+http://kate.kde.org
+=2D -----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.2.0 (GNU/Linux)
+
+iD8DBQE9pH8uyPjDGePm9UIRAt8CAJ9IuSLfp73whcm43J/dXiaCiAZaUwCeJTfy
+7WwnyGn8kojMP2TxDd1Fr+8=3D
+=3DhX74
+=2D -----END PGP SIGNATURE-----
+
+=2D -------------------------------------------------------
+=2D----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.0.7 (GNU/Linux)
+
+iD8DBQE9pJI+TaAgihPikKQRAisIAJsEZKjNKA8XzA+mEb/yH+zCpoSkMwCfeC10
+YSfDinSrtLo/4CDFUz7ej+w=3D
+=3D92gj
+=2D----END PGP SIGNATURE-----
+
+
+From kde-women@mail.kde.org  Fri Oct 18 19:34:36 2002
+From: kde-women@mail.kde.org (Ute Kuehne)
+Date: Fri, 18 Oct 2002 20:34:36 +0200
+Subject: [Kde-women]introduction
+Message-ID: <200210182034.36889.ute.kuehne@freenet.de>
+
+Hello,=20
+
+I just subscribed this list and want to introduce myself:=20
+
+My Name is Ute and I would like to do some private programming with KDE.
+
+But first I want to collect informations and listen to your experiences, =
+so=20
+that I have a good start. And I have to learn more about the QT-classes.
+
+I am working fully, and develop Software with Microsoft's MFC - and don't=
+ like=20
+it very much, it works in many cases more intuitive than logical. That's =
+also=20
+a reason to try another system.
+
+if you have any further questions, don't hesitate to ask.
+
+Ute
+
+
+From kde-women@mail.kde.org  Mon Oct 28 00:54:23 2002
+From: kde-women@mail.kde.org (Jason Bainbridge)
+Date: Mon, 28 Oct 2002 08:54:23 +0800
+Subject: [Kde-women]Requirements for the new kde.org website
+Message-ID: <1035766463.633ce1c0JaseOne@myrealbox.com>
+
+Firstly apologies for the cross posting but I wanted to get the attention o=
+f all potential stakeholders, so if I have missed any important groups pl=
+ease forward this on or alternatively if you have gotten this mail and ar=
+en't interested in the re-design of kde.org please ignore it.
+
+As many of you are already aware there have been several prototypes floatin=
+g about for a new design of the kde.org website, the main ones of which a=
+re listed below:
+
+http://kde.org/testing/
+
+http://www.kde.org/testing/modified-2/index.html
+
+http://usability.kde.org/newdesign/
+
+It is becoming more and more apparent however that none of these designs co=
+me close to meeting everyone's requirements as the discussions on how the=
+y should be modified seem neverending.
+
+I am hence proposing that a proper Requirements Specification be drafted so=
+ a design can then be implemented that best meets everyone's needs and wa=
+nts. Some may see this as an unecessary delay holding back implementing a=
+ new design but I think it is a step backwards that will ultimately reap =
+many benefits. 
+
+To complete this document I will be trawling through all of the previous po=
+sts and I also ask that if anyone has any input that they would like to a=
+dd that they reply to this email to the kde-www list (please don't reply =
+to whichever list you receive this from as I don't wish to pollute the ot=
+her lists, if you are interested in following the discussion then you can=
+ join kde-www :-)
+
+I will be storing these requirements on http://usability.kde.org/newdesign =
+simply as it is a convenient place for me to do so. I am also contemplati=
+ng on drafting a survey to better guage the collective needs and wants of=
+ all, but will do this once the requirements have been gathered.
+
+Again if you have any thoughts on any of the above please reply to kde-www =
+or if you want to reply off list for some reason please email me direct.
+
+Regards,
+Jason Bainbridge
+(not signed as I'm at work using webmail whilst the boss isn't looking)
+
+
+
+

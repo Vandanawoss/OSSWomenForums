@@ -1,0 +1,435 @@
+From marinaz@redhat.com  Mon Sep 19 17:34:42 2016
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.gnome.org (Postfix) with ESMTP id 51D5D765BB;
+	Mon, 19 Sep 2016 17:34:42 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -10
+X-Spam-Level: 
+X-Spam-Status: No, score=-10 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-3.099,
+	SPF_HELO_PASS=-0.001] autolearn=ham
+Received: from smtp.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id E6cmhJCf5iY1; Mon, 19 Sep 2016 17:34:41 +0000 (UTC)
+Received: from mx3-phx2.redhat.com (mx3-phx2.redhat.com [209.132.183.24])
+	by smtp.gnome.org (Postfix) with ESMTPS id CA024762AB;
+	Mon, 19 Sep 2016 17:34:41 +0000 (UTC)
+Received: from zmail12.collab.prod.int.phx2.redhat.com
+	(zmail12.collab.prod.int.phx2.redhat.com [10.5.83.14])
+	by mx3-phx2.redhat.com (8.13.8/8.13.8) with ESMTP id u8JHYeRQ009341;
+	Mon, 19 Sep 2016 13:34:40 -0400
+Date: Mon, 19 Sep 2016 13:34:40 -0400 (EDT)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: desktop-devel-list <desktop-devel-list@gnome.org>,
+	foundation-list <foundation-list@gnome.org>,
+	gnome-women-list <gnome-women-list@gnome.org>
+Message-ID: <527858039.334823.1474306480152.JavaMail.zimbra@redhat.com>
+In-Reply-To: <626531078.333135.1474306014113.JavaMail.zimbra@redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.3.116.38]
+X-Mailer: Zimbra 8.0.6_GA_5922 (ZimbraWebClient - FF40 (Linux)/8.0.6_GA_5922)
+Thread-Topic: mentor for Outreachy!
+Thread-Index: WkgFYYzu0qOGW8wwQZFNfDrTAlo1HQ==
+Cc: gnome-outreachy-list@gnome.org
+Subject: [gnome-women] mentor for Outreachy!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 19 Sep 2016 17:34:42 -0000
+
+Hi all,
+
+Thanks to a confirmed sponsorship from the GNOME Foundation, GNOME is participating in Outreachy in the upcoming December round! Please consider adding your project idea and yourself as a mentor at https://wiki.gnome.org/Outreach/Outreachy/2016/DecemberMarch to help someone from an underrepresented background become a part of our community.
+
+Because GNOME only usually has a few participants in Outreachy, we are looking to offer projects that are most strategic for GNOME. These include, but are not limited to, projects in the area of privacy, developer experience, GTK+, core experience, core applications, and web infrastructure.
+
+Please add your ideas as soon as possible. The application period for Outreachy is already open and the application deadline is October 17.
+
+Thanks,
+Marina
+From mv@fsf.org  Mon Sep 26 15:13:48 2016
+Return-Path: <mv@fsf.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by smtp.gnome.org (Postfix) with ESMTP id 8CE2076B02
+	for <gnome-women-list@gnome.org>; Mon, 26 Sep 2016 15:13:48 +0000 (UTC)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -8.197
+X-Spam-Level: 
+X-Spam-Status: No, score=-8.197 tagged_above=-999 required=2
+	tests=[BAYES_00=-1.9, HTML_MESSAGE=0.001, LOTS_OF_MONEY=0.001,
+	MONEY_FORM_SHORT=1.692, RCVD_IN_DNSWL_HI=-5, RP_MATCHES_RCVD=-3,
+	SPF_PASS=-0.001, T_FILL_THIS_FORM_SHORT=0.01] autolearn=ham
+Received: from smtp.gnome.org ([127.0.0.1])
+	by localhost (restaurant.gnome.org [127.0.0.1]) (amavisd-new,
+	port 10024)
+	with ESMTP id oI0GpCvKAe9p for <gnome-women-list@gnome.org>;
+	Mon, 26 Sep 2016 15:13:45 +0000 (UTC)
+Received: from mail.fsf.org (mail.fsf.org [208.118.235.13])
+	by smtp.gnome.org (Postfix) with ESMTPS id 638E376A74
+	for <gnome-women-list@gnome.org>; Mon, 26 Sep 2016 15:13:44 +0000 (UTC)
+Received: (helo=crunchcapital)
+	by mail.fsf.org with esmtpsa (TLS-1.0:RSA_AES_256_CBC_SHA1:32)
+	(Exim 4.69) (envelope-from <mv@fsf.org>) id 1boXb7-0007bD-Kh
+	for gnome-women-list@gnome.org; Mon, 26 Sep 2016 11:13:37 -0400
+Message-ID: <1474902814.4792.36.camel@fsf.org>
+From: stephen mahood <mv@fsf.org>
+To: gnome-women-list@gnome.org
+Organization: free software foundation
+Content-Type: multipart/alternative; boundary="=-VDJcmJfP1to5NxvRSiSb"
+Date: Mon, 26 Sep 2016 11:13:34 -0400
+Mime-Version: 1.0
+X-Mailer: Evolution 3.20.5-1 
+X-detected-operating-system: by mail.fsf.org: GNU/Linux 2.2.x-3.x [generic]
+X-Mailman-Approved-At: Mon, 26 Sep 2016 15:43:37 +0000
+Subject: [gnome-women] FSF Job Opportunity: Senior GNU/Linux Systems
+	Administrator
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <https://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <https://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <https://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 26 Sep 2016 15:13:48 -0000
+
+
+--=-VDJcmJfP1to5NxvRSiSb
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hey folks,
+
+Please share this amongst your list.
+
+Thanks,
+~stephen mahood
+
+Read online:=C2=A0
+https://www.fsf.org/news/fsf-job-opportunity-senior-gnu-linux-systems-a
+dministrator
+
+=C2=A0The Free Software Foundation (FSF), a Massachusetts 501(c)(3) charity
+with a worldwide mission to protect computer user freedom, seeks a
+motivated and talented Boston-based individual to be a full-time Senior
+GNU/Linux Systems Administrator.
+
+This position, reporting to the executive director and working closely
+with the president, is an opportunity to make key contributions to the
+organization that started the GNU Project, launched the free software
+movement, and authored the GNU General Public License. The position is
+part of a technical team including a counterpart Senior Systems
+Administrator, a Web Developer, and many volunteers, tasked with
+maintaining and improving the FSF's technology infrastructure.
+
+The ideal candidate will be a well-rounded GNU/Linux systems
+administrator who thrives on constant broad-based learning and problem-
+solving. They will also be familiar with the free software community
+and how it works; the position includes frequent contact and
+collaboration with volunteers and many GNU developers. Together, the
+Senior Systems Administrators have a great deal of influence over
+technology decisions within the FSF, and do crucial work empowering
+thousands of others to develop free software.
+
+Examples of job responsibilities include, but are not limited to:
+
+=C2=A0=C2=A0=C2=A0=C2=A0be a lead voice in the FSF's software system decisi=
+on-making and
+policy positions in technical areas;
+
+=C2=A0=C2=A0=C2=A0=C2=A0install and maintain fully free GNU/Linux systems o=
+n servers,
+desktops, laptops, and embedded devices;
+
+=C2=A0=C2=A0=C2=A0=C2=A0support GNU developers and FSF representatives in t=
+heir use of FSF-
+owned systems;
+
+=C2=A0=C2=A0=C2=A0=C2=A0monitor and improve system security and network inf=
+rastructure;
+
+=C2=A0=C2=A0=C2=A0=C2=A0spec, purchase, and maintain new equipment;
+
+=C2=A0=C2=A0=C2=A0=C2=A0coordinate and mentor interns and volunteer systems=
+ administrators
+both in the office and remotely;
+
+=C2=A0=C2=A0=C2=A0=C2=A0share in the on-call rotation to deal with core sys=
+tem emergencies;
+
+=C2=A0=C2=A0=C2=A0=C2=A0blog and speak about the technologies used at the F=
+SF;
+
+=C2=A0=C2=A0=C2=A0=C2=A0run the tech at our annual LibrePlanet conference;
+
+=C2=A0=C2=A0=C2=A0=C2=A0pitch in to help with organization-wide projects li=
+ke our major
+fundraising activities;
+
+=C2=A0=C2=A0=C2=A0=C2=A0fix bugs and submit patches upstream for the softwa=
+re we use, and
+
+=C2=A0=C2=A0=C2=A0=C2=A0occasionally help design, write, and release new so=
+ftware when
+existing software doesn't fit the bill.
+
+Applicants should have an undergraduate degree in a related field, at
+least five years of experience as a GNU/Linux systems administrator,
+and highlight their familiarity with any of the following:
+
+=C2=A0=C2=A0=C2=A0=C2=A0apt-based GNU/Linux distributions;
+
+=C2=A0=C2=A0=C2=A0=C2=A0TCP/IP, BGP, DNS, FTP, NFS, DHCP, iptables;
+
+=C2=A0=C2=A0=C2=A0=C2=A0Libreboot and Coreboot;
+
+=C2=A0=C2=A0=C2=A0=C2=A0Xen, KVM, CFEngine, RAID;
+
+=C2=A0=C2=A0=C2=A0=C2=A0Drupal, Nginx, Apache2, CiviCRM, Plone, Zope, Media=
+wiki, Ikiwiki,
+Request Tracker, CAS, SQL, Squid;
+
+=C2=A0=C2=A0=C2=A0=C2=A0Python, Bash, Perl, PHP, JavaScript, Ruby;
+
+=C2=A0=C2=A0=C2=A0=C2=A0git, SVN, CVS;
+
+=C2=A0=C2=A0=C2=A0=C2=A0Exim, Spamassassin, GNU Mailman; and
+
+=C2=A0=C2=A0=C2=A0=C2=A0any physical hardware maintenance and hacking.
+
+Because the FSF works globally and seeks to have our materials
+distributed in as many languages as possible, multilingual candidates
+will have an advantage. With our small staff of thirteen, each person
+makes a clear contribution. We work hard, but offer a humane and fun
+work environment at an office located in the heart of downtown Boston.
+The FSF is a mature but growing organization that provides great
+potential for advancement; existing staff get the first chance at any
+new job openings.
+Benefits and Salary
+
+This job is a union position that must be worked on-site at the FSF's
+downtown Boston office. The salary is fixed at $62,587/year and is non-
+negotiable. An on-site interview will be required with the executive
+director and other team members. Other benefits include:
+
+=C2=A0=C2=A0=C2=A0=C2=A0full family health coverage through Blue Cross/Blue=
+ Shield's HMO
+Blue program,
+=C2=A0=C2=A0=C2=A0=C2=A0subsidized dental plan,
+=C2=A0=C2=A0=C2=A0=C2=A0four weeks of paid vacation annually,
+=C2=A0=C2=A0=C2=A0=C2=A0seventeen paid holidays annually,
+=C2=A0=C2=A0=C2=A0=C2=A0public transit commuting cost reimbursement,
+=C2=A0=C2=A0=C2=A0=C2=A0403(b) program through TIAA-CREF,
+=C2=A0=C2=A0=C2=A0=C2=A0yearly cost-of-living pay increases (based on gover=
+nment
+guidelines), and
+=C2=A0=C2=A0=C2=A0=C2=A0conference travel opportunities.
+
+Application Instructions
+
+Applications must be submitted via email to hiring@fsf.org. The email
+must contain the subject line "Senior Systems Administrator." A
+complete application should include:
+
+=C2=A0=C2=A0=C2=A0=C2=A0cover letter,
+=C2=A0=C2=A0=C2=A0=C2=A0resume, and
+=C2=A0=C2=A0=C2=A0=C2=A0links to any published free software work.
+
+All materials must be in a free format. Email submissions that do not
+follow these instructions will probably be overlooked. No phone calls,
+please.
+
+Applications will be reviewed on a rolling basis until the position is
+filled. To guarantee consideration, submit your application by Tuesday,
+October 11, 2016, 9:00am EDT.
+
+The FSF is an equal opportunity employer and will not discriminate
+against any employee or application for employment on the basis of
+race, color, marital status, religion, age, sex, sexual orientation,
+national origin, handicap, or any other legally protected status
+recognized by federal, state or local law. We value diversity in our
+workplace.
+About the Free Software Foundation
+
+The Free Software Foundation, founded in 1985, is dedicated to
+promoting computer users' right to use, study, copy, modify, and
+redistribute computer programs. The FSF promotes the development and
+use of free (as in freedom) software -- particularly the GNU operating
+system and its GNU/Linux variants -- and free documentation for free
+software. The FSF also helps to spread awareness of the ethical and
+political issues of freedom in the use of software, and its Web sites,
+located at fsf.org and gnu.org, are an important source of information
+about GNU/Linux. Donations to support the FSF's work can be made at htt
+ps://donate.fsf.org. We are based in Boston, MA, USA.
+
+More information about the FSF, as well as important information for
+journalists and publishers, is at https://www.fsf.org/press.
+
+--=C2=A0
+stephen mahood
+outreach & communication
+free software foundation
+http://fsf.org http://gnu.org
+GPG Key: F684 973B 25CC C264 AA79
+91C4 5FE4 259E 7CF9 305D
+--=C2=A0
+stephen mahood
+outreach & communication
+free software foundation
+http://fsf.org http://gnu.org
+GPG Key: F684 973B 25CC C264 AA79
+91C4 5FE4 259E 7CF9 305D
+--=-VDJcmJfP1to5NxvRSiSb
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html><head></head><body bgcolor=3D"#ffffff" text=3D"#444444" link=3D"#0000=
+ff" vlink=3D"#444444"><div>Hey folks,</div><div><br></div><div>Please share=
+ this amongst your list.</div><div><br></div><div>Thanks,</div><div>~stephe=
+n mahood</div><div><br></div><div>Read online:&nbsp;</div><div><a href=3D"h=
+ttps://www.fsf.org/news/fsf-job-opportunity-senior-gnu-linux-systems-admini=
+strator">https://www.fsf.org/news/fsf-job-opportunity-senior-gnu-linux-syst=
+ems-administrator</a></div><div><br></div><div>&nbsp;The Free Software Foun=
+dation (FSF), a Massachusetts 501(c)(3) charity</div><div>with a worldwide =
+mission to protect computer user freedom, seeks a</div><div>motivated and t=
+alented Boston-based individual to be a full-time Senior</div><div>GNU/Linu=
+x Systems Administrator.</div><div><br></div><div>This position, reporting =
+to the executive director and working closely</div><div>with the president,=
+ is an opportunity to make key contributions to the</div><div>organization =
+that started the GNU Project, launched the free software</div><div>movement=
+, and authored the GNU General Public License. The position is</div><div>pa=
+rt of a technical team including a counterpart Senior Systems</div><div>Adm=
+inistrator, a Web Developer, and many volunteers, tasked with</div><div>mai=
+ntaining and improving the FSF's technology infrastructure.</div><div><br><=
+/div><div>The ideal candidate will be a well-rounded GNU/Linux systems</div=
+><div>administrator who thrives on constant broad-based learning and proble=
+m-</div><div>solving. They will also be familiar with the free software com=
+munity</div><div>and how it works; the position includes frequent contact a=
+nd</div><div>collaboration with volunteers and many GNU developers. Togethe=
+r, the</div><div>Senior Systems Administrators have a great deal of influen=
+ce over</div><div>technology decisions within the FSF, and do crucial work =
+empowering</div><div>thousands of others to develop free software.</div><di=
+v><br></div><div>Examples of job responsibilities include, but are not limi=
+ted to:</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;be a lead voice in=
+ the FSF's software system decision-making and</div><div>policy positions i=
+n technical areas;</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;install=
+ and maintain fully free GNU/Linux systems on servers,</div><div>desktops, =
+laptops, and embedded devices;</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&=
+nbsp;support GNU developers and FSF representatives in their use of FSF-</d=
+iv><div>owned systems;</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;mon=
+itor and improve system security and network infrastructure;</div><div><br>=
+</div><div>&nbsp;&nbsp;&nbsp;&nbsp;spec, purchase, and maintain new equipme=
+nt;</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;coordinate and mentor =
+interns and volunteer systems administrators</div><div>both in the office a=
+nd remotely;</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;share in the =
+on-call rotation to deal with core system emergencies;</div><div><br></div>=
+<div>&nbsp;&nbsp;&nbsp;&nbsp;blog and speak about the technologies used at =
+the FSF;</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;run the tech at o=
+ur annual LibrePlanet conference;</div><div><br></div><div>&nbsp;&nbsp;&nbs=
+p;&nbsp;pitch in to help with organization-wide projects like our major</di=
+v><div>fundraising activities;</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&=
+nbsp;fix bugs and submit patches upstream for the software we use, and</div=
+><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;occasionally help design, writ=
+e, and release new software when</div><div>existing software doesn't fit th=
+e bill.</div><div><br></div><div>Applicants should have an undergraduate de=
+gree in a related field, at</div><div>least five years of experience as a G=
+NU/Linux systems administrator,</div><div>and highlight their familiarity w=
+ith any of the following:</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;=
+apt-based GNU/Linux distributions;</div><div><br></div><div>&nbsp;&nbsp;&nb=
+sp;&nbsp;TCP/IP, BGP, DNS, FTP, NFS, DHCP, iptables;</div><div><br></div><d=
+iv>&nbsp;&nbsp;&nbsp;&nbsp;Libreboot and Coreboot;</div><div><br></div><div=
+>&nbsp;&nbsp;&nbsp;&nbsp;Xen, KVM, CFEngine, RAID;</div><div><br></div><div=
+>&nbsp;&nbsp;&nbsp;&nbsp;Drupal, Nginx, Apache2, CiviCRM, Plone, Zope, Medi=
+awiki, Ikiwiki,</div><div>Request Tracker, CAS, SQL, Squid;</div><div><br><=
+/div><div>&nbsp;&nbsp;&nbsp;&nbsp;Python, Bash, Perl, PHP, JavaScript, Ruby=
+;</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;git, SVN, CVS;</div><div=
+><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;Exim, Spamassassin, GNU Mailman; an=
+d</div><div><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;any physical hardware ma=
+intenance and hacking.</div><div><br></div><div>Because the FSF works globa=
+lly and seeks to have our materials</div><div>distributed in as many langua=
+ges as possible, multilingual candidates</div><div>will have an advantage. =
+With our small staff of thirteen, each person</div><div>makes a clear contr=
+ibution. We work hard, but offer a humane and fun</div><div>work environmen=
+t at an office located in the heart of downtown Boston.</div><div>The FSF i=
+s a mature but growing organization that provides great</div><div>potential=
+ for advancement; existing staff get the first chance at any</div><div>new =
+job openings.</div><div>Benefits and Salary</div><div><br></div><div>This j=
+ob is a union position that must be worked on-site at the FSF's</div><div>d=
+owntown Boston office. The salary is fixed at $62,587/year and is non-</div=
+><div>negotiable. An on-site interview will be required with the executive<=
+/div><div>director and other team members. Other benefits include:</div><di=
+v><br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;full family health coverage throug=
+h Blue Cross/Blue Shield's HMO</div><div>Blue program,</div><div>&nbsp;&nbs=
+p;&nbsp;&nbsp;subsidized dental plan,</div><div>&nbsp;&nbsp;&nbsp;&nbsp;fou=
+r weeks of paid vacation annually,</div><div>&nbsp;&nbsp;&nbsp;&nbsp;sevent=
+een paid holidays annually,</div><div>&nbsp;&nbsp;&nbsp;&nbsp;public transi=
+t commuting cost reimbursement,</div><div>&nbsp;&nbsp;&nbsp;&nbsp;403(b) pr=
+ogram through TIAA-CREF,</div><div>&nbsp;&nbsp;&nbsp;&nbsp;yearly cost-of-l=
+iving pay increases (based on government</div><div>guidelines), and</div><d=
+iv>&nbsp;&nbsp;&nbsp;&nbsp;conference travel opportunities.</div><div><br><=
+/div><div>Application Instructions</div><div><br></div><div>Applications mu=
+st be submitted via email to <a href=3D"mailto:hiring@fsf.org">hiring@fsf.o=
+rg</a>. The email</div><div>must contain the subject line "Senior Systems A=
+dministrator." A</div><div>complete application should include:</div><div><=
+br></div><div>&nbsp;&nbsp;&nbsp;&nbsp;cover letter,</div><div>&nbsp;&nbsp;&=
+nbsp;&nbsp;resume, and</div><div>&nbsp;&nbsp;&nbsp;&nbsp;links to any publi=
+shed free software work.</div><div><br></div><div>All materials must be in =
+a free format. Email submissions that do not</div><div>follow these instruc=
+tions will probably be overlooked. No phone calls,</div><div>please.</div><=
+div><br></div><div>Applications will be reviewed on a rolling basis until t=
+he position is</div><div>filled. To guarantee consideration, submit your ap=
+plication by Tuesday,</div><div>October 11, 2016, 9:00am EDT.</div><div><br=
+></div><div>The FSF is an equal opportunity employer and will not discrimin=
+ate</div><div>against any employee or application for employment on the bas=
+is of</div><div>race, color, marital status, religion, age, sex, sexual ori=
+entation,</div><div>national origin, handicap, or any other legally protect=
+ed status</div><div>recognized by federal, state or local law. We value div=
+ersity in our</div><div>workplace.</div><div>About the Free Software Founda=
+tion</div><div><br></div><div>The Free Software Foundation, founded in 1985=
+, is dedicated to</div><div>promoting computer users' right to use, study, =
+copy, modify, and</div><div>redistribute computer programs. The FSF promote=
+s the development and</div><div>use of free (as in freedom) software -- par=
+ticularly the GNU operating</div><div>system and its GNU/Linux variants -- =
+and free documentation for free</div><div>software. The FSF also helps to s=
+pread awareness of the ethical and</div><div>political issues of freedom in=
+ the use of software, and its Web sites,</div><div>located at fsf.org and g=
+nu.org, are an important source of information</div><div>about GNU/Linux. D=
+onations to support the FSF's work can be made at htt</div><div>ps://donate=
+.fsf.org. We are based in Boston, MA, USA.</div><div><br></div><div>More in=
+formation about the FSF, as well as important information for</div><div>jou=
+rnalists and publishers, is at <a href=3D"https://www.fsf.org/press">https:=
+//www.fsf.org/press</a>.</div><div><br></div><div>--&nbsp;</div><div>stephe=
+n mahood</div><div>outreach &amp; communication</div><div>free software fou=
+ndation</div><div><a href=3D"http://fsf.org">http://fsf.org</a> http://gnu.=
+org</div><div>GPG Key: F684 973B 25CC C264 AA79</div><div>91C4 5FE4 259E 7C=
+F9 305D</div><div><span><pre>-- <br></pre><div>stephen mahood</div><div>out=
+reach &amp; communication</div><div>free software foundation</div><div><a h=
+ref=3D"http://fsf.org">http://fsf.org</a> http://gnu.org</div><div><font fa=
+ce=3D"monospace">GPG Key: F684 973B 25CC C264 AA79</font></div><div><font f=
+ace=3D"monospace">91C4 5FE4 259E 7CF9 305D</font></div></span></div></body>=
+</html>
+--=-VDJcmJfP1to5NxvRSiSb--
+

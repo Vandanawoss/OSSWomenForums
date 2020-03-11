@@ -1,0 +1,508 @@
+From claire at openstack.org  Thu Apr  9 20:54:37 2015
+From: claire at openstack.org (Claire Massey)
+Date: Thu, 9 Apr 2015 15:54:37 -0500
+Subject: [Women-of-openstack] Vancouver Summit Save the Date!
+Message-ID: <CEDA8A29-FAC7-434D-AAD7-0F0ADB3F4F1D@openstack.org>
+
+Hi there,
+
+If you?re planning to attend the Summit in Vancouver, May 18-22, then please SAVE THE DATE for the following Women of OpenStack events!
+
+More details and RSVP links coming soon.
+
+Cheers,
+Claire
+
+
+SUNDAY
+Women of OpenStack Networking Event sponsored by Intel and IBM
+You won?t want to miss this two-part event! RSVP links and more detailed will be shared soon. Space is limited so an RSVP will be required!
+
+Yacht Cruise, 3:00 - 6:00pm
+Part One: We will board a chartered yacht <http://www.sunsetbaycharters.net/yacht/> and slowly cruise around the perimeter of Vancouver from 3:00 - 6:00pm. The city and mountains views are spectacular from the water! Beverages and snacks will be provided.
+
+Happy Hour, 6:00 - 7:30pm
+Part Two: Following the boat cruise we will head to The Roof <http://the-roof.ca/#/34-2/>, a nearby venue, for Happy Hour and hors d?oeuvres from 6:00 - 7:30pm. Transportation will be provided from the boat dock to The Roof venue. Folks who are unable to arrive in time to partake in the boat ride are encouraged to attend the Happy Hour. The Roof venue is a 10-minute walk from the Convention Centre and surrounding Summit hotels. More details will be shared soon. 
+
+MONDAY
+Ally Skills Workshop <https://adainitiative.org/what-we-do/workshops-and-training/> lead by the Ada Initiative - Sponsored by the Women of OpenStack, 2:00-6:00pm
+A workshop designed to teach men simple, everyday ways to support women in their workplaces and communities. This event is geared towards men participants and has a very limited capacity so there will be an application. Details will be announced soon. Please encourage your male colleagues to participate!
+
+TUESDAY
+Breakfast Working Session, 7:00-8:45am
+There will again be a working breakfast session for the Women of OpenStack on Tuesday morning before keynotes. Details coming soon!
+
+Session: Standing Tall in the Room <https://openstacksummitmay2015vancouver.sched.org/event/b284b605b47b6652358b8ac650366eca#.VSbb1VzyS5I>, 2:00-2:40pm
+Room 110
+Join this panel of empowered women as we cover some of the tips and tricks for getting heard in an environment filled with many egos and opinions. Presenters: Beth Cohen, Nalee Jang, Liz Joseph, Rainya Mosher, Radha Ratnaparkhi, Shilla Saebi and Alexandra Settle. 
+
+Tech Talk Presentations, 11:00am - 6pm
+Room 106
+SUBMIT TALKS HERE! <http://openstack.prov12n.com/vbrownbag-techtalks-in-vancouver/> The #vBrownBag Tech Talks are brief 10-minute talks presented to a very small audience (less than 20 people). The talks are livestreamed, video recorded and posted online within 24 hours. This is a great way to ease into presenting if you?re not yet comfortable with public speaking. All of the Tech Talks slots on Tuesday have been reserved for the Women of OpenStack. There are still 15 slots open - It?s not too late to submit a talk!
+
+WEDNESDAY
+Afternoon Coffee Break Sync,  4:00-4:30pm
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. The exact location will be shared soon. 
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150409/41b7a4c2/attachment.html>
+
+From nikacost at cisco.com  Thu Apr  9 20:59:10 2015
+From: nikacost at cisco.com (Niki Acosta (nikacost))
+Date: Thu, 9 Apr 2015 20:59:10 +0000
+Subject: [Women-of-openstack] Vancouver Summit Save the Date!
+In-Reply-To: <CEDA8A29-FAC7-434D-AAD7-0F0ADB3F4F1D@openstack.org>
+References: <CEDA8A29-FAC7-434D-AAD7-0F0ADB3F4F1D@openstack.org>
+Message-ID: <D14C5216.20B3B%nikacost@cisco.com>
+
+THIS. IS. AWESOME.
+
+Thanks, IBM,  for sponsoring!! Can?t wait!!!
+
+
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+
+From: Claire Massey <claire at openstack.org<mailto:claire at openstack.org>>
+Date: Thursday, April 9, 2015 at 3:54 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Vancouver Summit Save the Date!
+
+Hi there,
+
+If you?re planning to attend the Summit in Vancouver, May 18-22, then please SAVE THE DATE for the following Women of OpenStack events!
+
+More details and RSVP links coming soon.
+
+Cheers,
+Claire
+
+
+SUNDAY
+Women of OpenStack Networking Event sponsored by Intel and IBM
+You won?t want to miss this two-part event! RSVP links and more detailed will be shared soon. Space is limited so an RSVP will be required!
+
+Yacht Cruise, 3:00 - 6:00pm
+Part One: We will board a chartered yacht<http://www.sunsetbaycharters.net/yacht/> and slowly cruise around the perimeter of Vancouver from 3:00 - 6:00pm. The city and mountains views are spectacular from the water! Beverages and snacks will be provided.
+
+Happy Hour, 6:00 - 7:30pm
+Part Two: Following the boat cruise we will head to The Roof<http://the-roof.ca/#/34-2/>, a nearby venue, for Happy Hour and hors d?oeuvres from 6:00 - 7:30pm. Transportation will be provided from the boat dock to The Roof venue. Folks who are unable to arrive in time to partake in the boat ride are encouraged to attend the Happy Hour. The Roof venue is a 10-minute walk from the Convention Centre and surrounding Summit hotels. More details will be shared soon.
+
+MONDAY
+Ally Skills Workshop<https://adainitiative.org/what-we-do/workshops-and-training/> lead by the Ada Initiative - Sponsored by the Women of OpenStack, 2:00-6:00pm
+A workshop designed to teach men simple, everyday ways to support women in their workplaces and communities. This event is geared towards men participants and has a very limited capacity so there will be an application. Details will be announced soon. Please encourage your male colleagues to participate!
+
+TUESDAY
+Breakfast Working Session, 7:00-8:45am
+There will again be a working breakfast session for the Women of OpenStack on Tuesday morning before keynotes. Details coming soon!
+
+Session: Standing Tall in the Room<https://openstacksummitmay2015vancouver.sched.org/event/b284b605b47b6652358b8ac650366eca#.VSbb1VzyS5I>, 2:00-2:40pm
+Room 110
+Join this panel of empowered women as we cover some of the tips and tricks for getting heard in an environment filled with many egos and opinions. Presenters: Beth Cohen, Nalee Jang, Liz Joseph, Rainya Mosher, Radha Ratnaparkhi, Shilla Saebi and Alexandra Settle.
+
+Tech Talk Presentations, 11:00am - 6pm
+Room 106
+SUBMIT TALKS HERE!<http://openstack.prov12n.com/vbrownbag-techtalks-in-vancouver/> The #vBrownBag Tech Talks are brief 10-minute talks presented to a very small audience (less than 20 people). The talks are livestreamed, video recorded and posted online within 24 hours. This is a great way to ease into presenting if you?re not yet comfortable with public speaking. All of the Tech Talks slots on Tuesday have been reserved for the Women of OpenStack. There are still 15 slots open - It?s not too late to submit a talk!
+
+WEDNESDAY
+Afternoon Coffee Break Sync,  4:00-4:30pm
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. The exact location will be shared soon.
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150409/d1ff2bbe/attachment.html>
+
+From nikacost at cisco.com  Thu Apr  9 21:00:09 2015
+From: nikacost at cisco.com (Niki Acosta (nikacost))
+Date: Thu, 9 Apr 2015 21:00:09 +0000
+Subject: [Women-of-openstack] Vancouver Summit Save the Date!
+In-Reply-To: <D14C5216.20B3B%nikacost@cisco.com>
+References: <CEDA8A29-FAC7-434D-AAD7-0F0ADB3F4F1D@openstack.org>
+ <D14C5216.20B3B%nikacost@cisco.com>
+Message-ID: <D14C5277.20B40%nikacost@cisco.com>
+
+OOPS! And Intel!! Thanks, Intel!
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+
+From: nikacost <nikacost at cisco.com<mailto:nikacost at cisco.com>>
+Date: Thursday, April 9, 2015 at 3:59 PM
+To: Claire Massey <claire at openstack.org<mailto:claire at openstack.org>>, "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: Re: [Women-of-openstack] Vancouver Summit Save the Date!
+
+THIS. IS. AWESOME.
+
+Thanks, IBM,  for sponsoring!! Can?t wait!!!
+
+
+[http://www.cisco.com/c/dam/assets/email-signature-tool/logo_02.png?ct=1416252642374]
+
+Niki Acosta
+Cloud Evangelist
+Cisco.com<http://www.cisco.com/>
+nikacost at cisco.com<mailto:nikacost at cisco.com>
+Phone: +1 512-912-6716
+
+
+
+
+[http://www.cisco.com/assets/social_media_icons/twitter-16x16.png]<http://www.twitter.com/nikiacosta>
+
+
+[http://www.cisco.com/assets/swa/img/thinkbeforeyouprint.gif] Think before you print.
+
+This email may contain confidential and privileged material for the sole use of the intended recipient. Any review, use, distribution or disclosure by others is strictly prohibited. If you are not the intended recipient (or authorized to receive for the recipient), please contact the sender by reply email and delete all copies of this message.
+
+Please click here<http://www.cisco.com/web/about/doing_business/legal/cri/index.html> for Company Registration Information.
+
+
+From: Claire Massey <claire at openstack.org<mailto:claire at openstack.org>>
+Date: Thursday, April 9, 2015 at 3:54 PM
+To: "women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>" <women-of-openstack at lists.openstack.org<mailto:women-of-openstack at lists.openstack.org>>
+Subject: [Women-of-openstack] Vancouver Summit Save the Date!
+
+Hi there,
+
+If you?re planning to attend the Summit in Vancouver, May 18-22, then please SAVE THE DATE for the following Women of OpenStack events!
+
+More details and RSVP links coming soon.
+
+Cheers,
+Claire
+
+
+SUNDAY
+Women of OpenStack Networking Event sponsored by Intel and IBM
+You won?t want to miss this two-part event! RSVP links and more detailed will be shared soon. Space is limited so an RSVP will be required!
+
+Yacht Cruise, 3:00 - 6:00pm
+Part One: We will board a chartered yacht<http://www.sunsetbaycharters.net/yacht/> and slowly cruise around the perimeter of Vancouver from 3:00 - 6:00pm. The city and mountains views are spectacular from the water! Beverages and snacks will be provided.
+
+Happy Hour, 6:00 - 7:30pm
+Part Two: Following the boat cruise we will head to The Roof<http://the-roof.ca/#/34-2/>, a nearby venue, for Happy Hour and hors d?oeuvres from 6:00 - 7:30pm. Transportation will be provided from the boat dock to The Roof venue. Folks who are unable to arrive in time to partake in the boat ride are encouraged to attend the Happy Hour. The Roof venue is a 10-minute walk from the Convention Centre and surrounding Summit hotels. More details will be shared soon.
+
+MONDAY
+Ally Skills Workshop<https://adainitiative.org/what-we-do/workshops-and-training/> lead by the Ada Initiative - Sponsored by the Women of OpenStack, 2:00-6:00pm
+A workshop designed to teach men simple, everyday ways to support women in their workplaces and communities. This event is geared towards men participants and has a very limited capacity so there will be an application. Details will be announced soon. Please encourage your male colleagues to participate!
+
+TUESDAY
+Breakfast Working Session, 7:00-8:45am
+There will again be a working breakfast session for the Women of OpenStack on Tuesday morning before keynotes. Details coming soon!
+
+Session: Standing Tall in the Room<https://openstacksummitmay2015vancouver.sched.org/event/b284b605b47b6652358b8ac650366eca#.VSbb1VzyS5I>, 2:00-2:40pm
+Room 110
+Join this panel of empowered women as we cover some of the tips and tricks for getting heard in an environment filled with many egos and opinions. Presenters: Beth Cohen, Nalee Jang, Liz Joseph, Rainya Mosher, Radha Ratnaparkhi, Shilla Saebi and Alexandra Settle.
+
+Tech Talk Presentations, 11:00am - 6pm
+Room 106
+SUBMIT TALKS HERE!<http://openstack.prov12n.com/vbrownbag-techtalks-in-vancouver/> The #vBrownBag Tech Talks are brief 10-minute talks presented to a very small audience (less than 20 people). The talks are livestreamed, video recorded and posted online within 24 hours. This is a great way to ease into presenting if you?re not yet comfortable with public speaking. All of the Tech Talks slots on Tuesday have been reserved for the Women of OpenStack. There are still 15 slots open - It?s not too late to submit a talk!
+
+WEDNESDAY
+Afternoon Coffee Break Sync,  4:00-4:30pm
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. The exact location will be shared soon.
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150409/c03613ea/attachment-0001.html>
+
+From ruchi.bhargava at intel.com  Thu Apr  9 21:03:02 2015
+From: ruchi.bhargava at intel.com (Bhargava, Ruchi)
+Date: Thu, 9 Apr 2015 21:03:02 +0000
+Subject: [Women-of-openstack] Vancouver Summit Save the Date!
+In-Reply-To: <CEDA8A29-FAC7-434D-AAD7-0F0ADB3F4F1D@openstack.org>
+References: <CEDA8A29-FAC7-434D-AAD7-0F0ADB3F4F1D@openstack.org>
+Message-ID: <A7ABD22757C7EA4D9B9F00DDA880BB9B72CAC992@ORSMSX101.amr.corp.intel.com>
+
+Thanks Claire!
+
+I think we (Intel) may be hosting another event for Women of OpenStack on Wednesday evening ? stay tuned!
+
+Ruchi Bhargava
+Director, OTC Datacenter & Cloud SW Engineering
+Intel Corporation
+
+From: Claire Massey [mailto:claire at openstack.org]
+Sent: Thursday, April 9, 2015 1:55 PM
+To: women-of-openstack at lists.openstack.org
+Subject: [Women-of-openstack] Vancouver Summit Save the Date!
+
+Hi there,
+
+If you?re planning to attend the Summit in Vancouver, May 18-22, then please SAVE THE DATE for the following Women of OpenStack events!
+
+More details and RSVP links coming soon.
+
+Cheers,
+Claire
+
+
+SUNDAY
+Women of OpenStack Networking Event sponsored by Intel and IBM
+You won?t want to miss this two-part event! RSVP links and more detailed will be shared soon. Space is limited so an RSVP will be required!
+
+Yacht Cruise, 3:00 - 6:00pm
+Part One: We will board a chartered yacht<http://www.sunsetbaycharters.net/yacht/> and slowly cruise around the perimeter of Vancouver from 3:00 - 6:00pm. The city and mountains views are spectacular from the water! Beverages and snacks will be provided.
+
+Happy Hour, 6:00 - 7:30pm
+Part Two: Following the boat cruise we will head to The Roof<http://the-roof.ca/#/34-2/>, a nearby venue, for Happy Hour and hors d?oeuvres from 6:00 - 7:30pm. Transportation will be provided from the boat dock to The Roof venue. Folks who are unable to arrive in time to partake in the boat ride are encouraged to attend the Happy Hour. The Roof venue is a 10-minute walk from the Convention Centre and surrounding Summit hotels. More details will be shared soon.
+
+MONDAY
+Ally Skills Workshop<https://adainitiative.org/what-we-do/workshops-and-training/> lead by the Ada Initiative - Sponsored by the Women of OpenStack, 2:00-6:00pm
+A workshop designed to teach men simple, everyday ways to support women in their workplaces and communities. This event is geared towards men participants and has a very limited capacity so there will be an application. Details will be announced soon. Please encourage your male colleagues to participate!
+
+TUESDAY
+Breakfast Working Session, 7:00-8:45am
+There will again be a working breakfast session for the Women of OpenStack on Tuesday morning before keynotes. Details coming soon!
+
+Session: Standing Tall in the Room<https://openstacksummitmay2015vancouver.sched.org/event/b284b605b47b6652358b8ac650366eca#.VSbb1VzyS5I>, 2:00-2:40pm
+Room 110
+Join this panel of empowered women as we cover some of the tips and tricks for getting heard in an environment filled with many egos and opinions. Presenters: Beth Cohen, Nalee Jang, Liz Joseph, Rainya Mosher, Radha Ratnaparkhi, Shilla Saebi and Alexandra Settle.
+
+Tech Talk Presentations, 11:00am - 6pm
+Room 106
+SUBMIT TALKS HERE!<http://openstack.prov12n.com/vbrownbag-techtalks-in-vancouver/> The #vBrownBag Tech Talks are brief 10-minute talks presented to a very small audience (less than 20 people). The talks are livestreamed, video recorded and posted online within 24 hours. This is a great way to ease into presenting if you?re not yet comfortable with public speaking. All of the Tech Talks slots on Tuesday have been reserved for the Women of OpenStack. There are still 15 slots open - It?s not too late to submit a talk!
+
+WEDNESDAY
+Afternoon Coffee Break Sync,  4:00-4:30pm
+Join your fellow Women of OpenStack to sync up once more during the Summit and provide feedback on how your Summit experience is going thus far. Coffee and snacks will be provided. The exact location will be shared soon.
+
+
+
+
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150409/f8298939/attachment.html>
+
+From shilla.saebi at gmail.com  Thu Apr  9 21:41:24 2015
+From: shilla.saebi at gmail.com (Shilla Saebi)
+Date: Thu, 9 Apr 2015 17:41:24 -0400
+Subject: [Women-of-openstack] Vancouver Summit Save the Date!
+In-Reply-To: <A7ABD22757C7EA4D9B9F00DDA880BB9B72CAC992@ORSMSX101.amr.corp.intel.com>
+References: <CEDA8A29-FAC7-434D-AAD7-0F0ADB3F4F1D@openstack.org>
+ <A7ABD22757C7EA4D9B9F00DDA880BB9B72CAC992@ORSMSX101.amr.corp.intel.com>
+Message-ID: <CAPrU3jGX1NS0fox-fCOnAozXmiGg5BUD4XmghH3_UQ5u18t4Sw@mail.gmail.com>
+
+These events look amazing, I can't wait!!!
+
+On Thu, Apr 9, 2015 at 5:03 PM, Bhargava, Ruchi <ruchi.bhargava at intel.com>
+wrote:
+
+>  Thanks Claire!
+>
+>
+>
+> I think we (Intel) may be hosting another event for Women of OpenStack on
+> Wednesday evening ? stay tuned!
+>
+>
+>
+> Ruchi Bhargava
+>
+> Director, OTC Datacenter & Cloud SW Engineering
+>
+> Intel Corporation
+>
+>
+>
+> *From:* Claire Massey [mailto:claire at openstack.org]
+> *Sent:* Thursday, April 9, 2015 1:55 PM
+> *To:* women-of-openstack at lists.openstack.org
+> *Subject:* [Women-of-openstack] Vancouver Summit Save the Date!
+>
+>
+>
+> Hi there,
+>
+>
+>
+> If you?re planning to attend the Summit in Vancouver, May 18-22, then
+> please SAVE THE DATE for the following Women of OpenStack events!
+>
+>
+>
+> More details and RSVP links coming soon.
+>
+>
+>
+> Cheers,
+>
+> Claire
+>
+>
+>
+>
+>
+> SUNDAY
+>
+> *Women of OpenStack Networking Event sponsored by Intel and IBM*
+>
+> You won?t want to miss this two-part event! RSVP links and more detailed
+> will be shared soon. Space is limited so an RSVP will be required!
+>
+>
+>
+> *Yacht Cruise, 3:00 - 6:00pm*
+>
+> Part One: We will board a chartered yacht
+> <http://www.sunsetbaycharters.net/yacht/> and slowly cruise around the
+> perimeter of Vancouver from 3:00 - 6:00pm. The city and mountains views are
+> spectacular from the water! Beverages and snacks will be provided.
+>
+>
+>
+> *Happy Hour, 6:00 - 7:30pm*
+>
+> Part Two: Following the boat cruise we will head to The Roof
+> <http://the-roof.ca/#/34-2/>, a nearby venue, for Happy Hour and hors
+> d?oeuvres from 6:00 - 7:30pm. Transportation will be provided from the boat
+> dock to The Roof venue. Folks who are unable to arrive in time to partake
+> in the boat ride are encouraged to attend the Happy Hour. The Roof venue is
+> a 10-minute walk from the Convention Centre and surrounding Summit hotels.
+> More details will be shared soon.
+>
+>
+>
+> MONDAY
+>
+> *Ally Skills Workshop
+> <https://adainitiative.org/what-we-do/workshops-and-training/> lead by the
+> Ada Initiative - Sponsored by the Women of OpenStack, 2:00-6:00pm*
+>
+> A workshop designed to teach men simple, everyday ways to support women in
+> their workplaces and communities. This event is geared towards men
+> participants and has a very limited capacity so there will be an
+> application. Details will be announced soon. Please encourage your male
+> colleagues to participate!
+>
+>
+>
+> TUESDAY
+>
+> *Breakfast Working Session, 7:00-8:45am*
+>
+> There will again be a working breakfast session for the Women of OpenStack
+> on Tuesday morning before keynotes. Details coming soon!
+>
+>
+>
+> *Session: Standing Tall in the Room
+> <https://openstacksummitmay2015vancouver.sched.org/event/b284b605b47b6652358b8ac650366eca#.VSbb1VzyS5I>,
+> 2:00-2:40pm*
+>
+> Room 110
+>
+> Join this panel of empowered women as we cover some of the tips and tricks
+> for getting heard in an environment filled with many egos and opinions.
+> Presenters: Beth Cohen, Nalee Jang, Liz Joseph, Rainya Mosher, Radha
+> Ratnaparkhi, Shilla Saebi and Alexandra Settle.
+>
+>
+>
+> *Tech Talk Presentations, 11:00am - 6pm*
+>
+> Room 106
+>
+> SUBMIT TALKS HERE!
+> <http://openstack.prov12n.com/vbrownbag-techtalks-in-vancouver/> The
+> #vBrownBag Tech Talks are brief 10-minute talks presented to a very small
+> audience (less than 20 people). The talks are livestreamed, video recorded
+> and posted online within 24 hours. This is a great way to ease into
+> presenting if you?re not yet comfortable with public speaking. All of the
+> Tech Talks slots on Tuesday have been reserved for the Women of OpenStack.
+> There are still 15 slots open - It?s not too late to submit a talk!
+>
+>
+>
+> WEDNESDAY
+>
+> *Afternoon Coffee Break Sync,  4:00-4:30pm*
+>
+> Join your fellow Women of OpenStack to sync up once more during the Summit
+> and provide feedback on how your Summit experience is going thus far.
+> Coffee and snacks will be provided. The exact location will be shared soon.
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> _______________________________________________
+> Women-of-openstack mailing list
+> Women-of-openstack at lists.openstack.org
+> http://lists.openstack.org/cgi-bin/mailman/listinfo/women-of-openstack
+>
+>
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150409/b9813554/attachment-0001.html>
+
+From ruchi.bhargava at intel.com  Tue Apr 28 19:25:48 2015
+From: ruchi.bhargava at intel.com (Bhargava, Ruchi)
+Date: Tue, 28 Apr 2015 19:25:48 +0000
+Subject: [Women-of-openstack] Invitation to another fun networking event for
+ women at the Liberty Summit - Please register
+Message-ID: <A7ABD22757C7EA4D9B9F00DDA880BB9B72CD9F7B@ORSMSX101.amr.corp.intel.com>
+
+Hi there,
+Intel is hosting another women's networking reception on Wednesday 5/20, objective being to share what it is like to work for Intel!
+
+Please register to reserve a place
+https://www.eventbrite.com/e/intel-womens-networking-reception-at-openstack-tickets-16621606673
+
+
+Thanks
+Ruchi Bhargava
+Intel Corporation
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <http://lists.openstack.org/pipermail/women-of-openstack/attachments/20150428/0ff32adf/attachment.html>
+

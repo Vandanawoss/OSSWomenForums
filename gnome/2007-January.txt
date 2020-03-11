@@ -1,0 +1,374 @@
+From amk@amk.ca  Sat Jan  6 15:21:46 2007
+Return-Path: <amk@amk.ca>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C39B23B006A
+	for <gnome-women-list@gnome.org>; Sat,  6 Jan 2007 15:21:46 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 05273-09 for <gnome-women-list@gnome.org>;
+	Sat,  6 Jan 2007 15:21:43 -0500 (EST)
+Received: from mail1.sea5.speakeasy.net (mail1.sea5.speakeasy.net
+	[69.17.117.3])
+	by menubar.gnome.org (Postfix) with ESMTP id 0E9753B042F
+	for <gnome-women-list@gnome.org>; Sat,  6 Jan 2007 15:21:43 -0500 (EST)
+Received: (qmail 32332 invoked from network); 6 Jan 2007 20:21:42 -0000
+Received: from dsl092-163-165.wdc2.dsl.speakeasy.net (HELO localhost)
+	(akuchling@[66.92.163.165]) (envelope-sender <amk@amk.ca>)
+	by mail1.sea5.speakeasy.net (qmail-ldap-1.03) with AES256-SHA encrypted
+	SMTP for <gnome-women-list@gnome.org>; 6 Jan 2007 20:21:42 -0000
+Date: Sat, 6 Jan 2007 15:24:58 -0500
+From: "A.M. Kuchling" <amk@amk.ca>
+To: gnome-women-list@gnome.org
+Message-ID: <20070106202458.GB6053@Andrew-iBook2.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.5.10i
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.831 tagged_above=-999 required=2
+	tests=[AWL=-0.832, BAYES_50=0.001]
+X-Spam-Score: -0.831
+X-Spam-Level: 
+X-Mailman-Approved-At: Mon, 08 Jan 2007 15:08:02 -0500
+Subject: [gnome-women] FYI: Events at PyCon 2007
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+Reply-To: amk@amk.ca
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 06 Jan 2007 20:21:46 -0000
+
+I'm co-chair of PyCon 2007, a conference focusing on the Python
+programming language, that will be held February 23-25 2007 in
+Addison, Texas.  The complete list of talks is at
+<http://us.pycon.org/apps07/talks/>; some talks that might be of
+special interest to readers of this list:
+
+ * Three keynotes on education: Ivan Krstic on Python's use in the 
+   "One Laptop Per Child" project; Adele Goldberg on
+   "eLearning does not Belong in Public Schools"; and Robert 
+   Lefkowitz on "The Importance of Programming Literacy".
+ * Weaving Together Women and IT
+ * Becoming an Open Source Developer: Lessons from the Django Project
+ * The Absolute Minimum an Open Source Developer Must Know About
+   Intellectual Property
+ * Studying Internet Censorship: a Python case study
+ * Jython for Python Developers
+ * Panel discussions on web frameworks, testing tools, and Python development.
+ * BoFs on topics such as Jython development.
+
+Please don't hesitate to contact me if you have any questions about
+PyCon.
+
+
+Andrew M. Kuchling
+amk@amk.ca
+Co-chair, PyCon 2007
+http://us.pycon.org
+From sharon@linuxchixla.org  Sat Jan  6 22:59:40 2007
+Return-Path: <sharon@linuxchixla.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 1A0523B03FC
+	for <gnome-women-list@gnome.org>; Sat,  6 Jan 2007 22:59:40 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 32403-05 for <gnome-women-list@gnome.org>;
+	Sat,  6 Jan 2007 22:59:36 -0500 (EST)
+Received: from svr01.parallaxplace.com (svr01.parallaxplace.com
+	[207.58.162.161])
+	by menubar.gnome.org (Postfix) with ESMTP id 151303B02CD
+	for <gnome-women-list@gnome.org>; Sat,  6 Jan 2007 22:59:36 -0500 (EST)
+Received: from dsl135-093.labridge.com ([206.117.135.93] helo=localhost)
+	by svr01.parallaxplace.com with smtp (Exim 4.63)
+	(envelope-from <sharon@linuxchixla.org>) id 1H3PC2-0000VY-V1
+	for gnome-women-list@gnome.org; Sat, 06 Jan 2007 22:59:35 -0500
+Date: Sat, 6 Jan 2007 19:59:30 -0800
+From: Sharon <sharon@linuxchixla.org>
+To: gnome-women-list@gnome.org
+Message-Id: <20070106195930.d56745af.sharon@linuxchixla.org>
+Organization: Linux Chix Los Angeles
+X-Mailer: Sylpheed version 2.2.4 (GTK+ 2.8.20; i486-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+X-AntiAbuse: This header was added to track abuse,
+	please include it with any abuse report
+X-AntiAbuse: Primary Hostname - svr01.parallaxplace.com
+X-AntiAbuse: Original Domain - gnome.org
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - linuxchixla.org
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=0.001 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001]
+X-Spam-Score: 0.001
+X-Spam-Level: 
+X-Mailman-Approved-At: Mon, 08 Jan 2007 15:08:02 -0500
+Subject: [gnome-women] SCALE To Host Women in Open Source Mini Conference
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 07 Jan 2007 03:59:40 -0000
+
+FOR IMMEDIATE RELEASE
+Los Angeles, CA
+January 2, 2007
+
+The Southern California Linux Expo announces plans to a 'Women In
+Open Source' Mini-conference. The goals of the conference are to
+encourage women to use technology and open source and free software,
+and to explore the obstacles that women face in breaking into the
+technology industry.  The audience will be those women who may have
+an interest in technology, but hesitate to get into it because they
+believe it's a male-only club.  The conference will be held in
+conjunction with the Fifth Annual So Cal Linux Expo, at the Westin
+LAX Hotel.  The 'Women in Open Source' mini-conference will be held
+February 9th.
+
+If you are interested in speaking, there are still speaker slots
+available. Contact Gareth Greenaway (gareth@socallinuxexpo.com) with
+your talk proposal.
+
+About the Southern California Linux Expo:
+The Southern California Linux Expo is the premier grass roots Linux
+and Open Source Software conference in the United States. SCALE 5x,
+their fifth annual event, will be held on February 10th and 11th,
+2007 at the Los Angeles Airport Westin hotel. SCALE will include
+seminars by leaders from the open source community, tutorials for
+beginners, and an exhibit hall with both vendor booths and
+non-commercial booths.
+
+Linux Expo of Southern California, Inc. is a non-profit organization
+whose members are currently comprised of, but not limited to, members
+of the SCLUG, USCLUG, and UCLALUGs.
+For more information see http://www.socallinuxexpo.org
+
+Call For Papers Submissions:
+gareth@socallinuxexpo.org
+
+Media Inquiries:
+Orv Beach
+info@socallinuxexpo.org
+1.877.831.2569 ext 120
+
+Attendance Information:
+Gareth J. Greenaway
+gareth@socallinuxexpo.org
+1.877.831.2569 ext 130
+
+-- 
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+From amk@amk.ca  Sat Jan  6 15:21:46 2007
+Return-Path: <amk@amk.ca>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id C39B23B006A
+	for <gnome-women-list@gnome.org>; Sat,  6 Jan 2007 15:21:46 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 05273-09 for <gnome-women-list@gnome.org>;
+	Sat,  6 Jan 2007 15:21:43 -0500 (EST)
+Received: from mail1.sea5.speakeasy.net (mail1.sea5.speakeasy.net
+	[69.17.117.3])
+	by menubar.gnome.org (Postfix) with ESMTP id 0E9753B042F
+	for <gnome-women-list@gnome.org>; Sat,  6 Jan 2007 15:21:43 -0500 (EST)
+Received: (qmail 32332 invoked from network); 6 Jan 2007 20:21:42 -0000
+Received: from dsl092-163-165.wdc2.dsl.speakeasy.net (HELO localhost)
+	(akuchling@[66.92.163.165]) (envelope-sender <amk@amk.ca>)
+	by mail1.sea5.speakeasy.net (qmail-ldap-1.03) with AES256-SHA encrypted
+	SMTP for <gnome-women-list@gnome.org>; 6 Jan 2007 20:21:42 -0000
+Date: Sat, 6 Jan 2007 15:24:58 -0500
+From: "A.M. Kuchling" <amk@amk.ca>
+To: gnome-women-list@gnome.org
+Message-ID: <20070106202458.GB6053@Andrew-iBook2.local>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+User-Agent: Mutt/1.5.10i
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=-0.831 tagged_above=-999 required=2
+	tests=[AWL=-0.832, BAYES_50=0.001]
+X-Spam-Score: -0.831
+X-Spam-Level: 
+X-Mailman-Approved-At: Mon, 08 Jan 2007 15:08:02 -0500
+Subject: [gnome-women] FYI: Events at PyCon 2007
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+Reply-To: amk@amk.ca
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 06 Jan 2007 20:21:46 -0000
+
+I'm co-chair of PyCon 2007, a conference focusing on the Python
+programming language, that will be held February 23-25 2007 in
+Addison, Texas.  The complete list of talks is at
+<http://us.pycon.org/apps07/talks/>; some talks that might be of
+special interest to readers of this list:
+
+ * Three keynotes on education: Ivan Krstic on Python's use in the 
+   "One Laptop Per Child" project; Adele Goldberg on
+   "eLearning does not Belong in Public Schools"; and Robert 
+   Lefkowitz on "The Importance of Programming Literacy".
+ * Weaving Together Women and IT
+ * Becoming an Open Source Developer: Lessons from the Django Project
+ * The Absolute Minimum an Open Source Developer Must Know About
+   Intellectual Property
+ * Studying Internet Censorship: a Python case study
+ * Jython for Python Developers
+ * Panel discussions on web frameworks, testing tools, and Python development.
+ * BoFs on topics such as Jython development.
+
+Please don't hesitate to contact me if you have any questions about
+PyCon.
+
+
+Andrew M. Kuchling
+amk@amk.ca
+Co-chair, PyCon 2007
+http://us.pycon.org
+
+From sharon@linuxchixla.org  Sat Jan  6 22:59:40 2007
+Return-Path: <sharon@linuxchixla.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 1A0523B03FC
+	for <gnome-women-list@gnome.org>; Sat,  6 Jan 2007 22:59:40 -0500 (EST)
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 32403-05 for <gnome-women-list@gnome.org>;
+	Sat,  6 Jan 2007 22:59:36 -0500 (EST)
+Received: from svr01.parallaxplace.com (svr01.parallaxplace.com
+	[207.58.162.161])
+	by menubar.gnome.org (Postfix) with ESMTP id 151303B02CD
+	for <gnome-women-list@gnome.org>; Sat,  6 Jan 2007 22:59:36 -0500 (EST)
+Received: from dsl135-093.labridge.com ([206.117.135.93] helo=localhost)
+	by svr01.parallaxplace.com with smtp (Exim 4.63)
+	(envelope-from <sharon@linuxchixla.org>) id 1H3PC2-0000VY-V1
+	for gnome-women-list@gnome.org; Sat, 06 Jan 2007 22:59:35 -0500
+Date: Sat, 6 Jan 2007 19:59:30 -0800
+From: Sharon <sharon@linuxchixla.org>
+To: gnome-women-list@gnome.org
+Message-Id: <20070106195930.d56745af.sharon@linuxchixla.org>
+Organization: Linux Chix Los Angeles
+X-Mailer: Sylpheed version 2.2.4 (GTK+ 2.8.20; i486-pc-linux-gnu)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+X-AntiAbuse: This header was added to track abuse,
+	please include it with any abuse report
+X-AntiAbuse: Primary Hostname - svr01.parallaxplace.com
+X-AntiAbuse: Original Domain - gnome.org
+X-AntiAbuse: Originator/Caller UID/GID - [0 0] / [47 12]
+X-AntiAbuse: Sender Address Domain - linuxchixla.org
+X-Source: 
+X-Source-Args: 
+X-Source-Dir: 
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Status: No, score=0.001 tagged_above=-999 required=2
+	tests=[BAYES_50=0.001]
+X-Spam-Score: 0.001
+X-Spam-Level: 
+X-Mailman-Approved-At: Mon, 08 Jan 2007 15:08:02 -0500
+Subject: [gnome-women] SCALE To Host Women in Open Source Mini Conference
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.8
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: </archives/gnome-women-list>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sun, 07 Jan 2007 03:59:40 -0000
+
+FOR IMMEDIATE RELEASE
+Los Angeles, CA
+January 2, 2007
+
+The Southern California Linux Expo announces plans to a 'Women In
+Open Source' Mini-conference. The goals of the conference are to
+encourage women to use technology and open source and free software,
+and to explore the obstacles that women face in breaking into the
+technology industry.  The audience will be those women who may have
+an interest in technology, but hesitate to get into it because they
+believe it's a male-only club.  The conference will be held in
+conjunction with the Fifth Annual So Cal Linux Expo, at the Westin
+LAX Hotel.  The 'Women in Open Source' mini-conference will be held
+February 9th.
+
+If you are interested in speaking, there are still speaker slots
+available. Contact Gareth Greenaway (gareth@socallinuxexpo.com) with
+your talk proposal.
+
+About the Southern California Linux Expo:
+The Southern California Linux Expo is the premier grass roots Linux
+and Open Source Software conference in the United States. SCALE 5x,
+their fifth annual event, will be held on February 10th and 11th,
+2007 at the Los Angeles Airport Westin hotel. SCALE will include
+seminars by leaders from the open source community, tutorials for
+beginners, and an exhibit hall with both vendor booths and
+non-commercial booths.
+
+Linux Expo of Southern California, Inc. is a non-profit organization
+whose members are currently comprised of, but not limited to, members
+of the SCLUG, USCLUG, and UCLALUGs.
+For more information see http://www.socallinuxexpo.org
+
+Call For Papers Submissions:
+gareth@socallinuxexpo.org
+
+Media Inquiries:
+Orv Beach
+info@socallinuxexpo.org
+1.877.831.2569 ext 120
+
+Attendance Information:
+Gareth J. Greenaway
+gareth@socallinuxexpo.org
+1.877.831.2569 ext 130
+
+-- 
+Gareth J. Greenaway  | g@socallinuxexpo.org
+Voice - 877-831-2569 x130
+Southern California Linux Expo
+http://www.socallinuxexpo.org
+

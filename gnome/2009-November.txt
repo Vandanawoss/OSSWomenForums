@@ -1,0 +1,916 @@
+From paul.r.cutler@gmail.com  Wed Nov  4 14:13:48 2009
+Return-Path: <paul.r.cutler@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 3A7B37502E5;
+	Wed,  4 Nov 2009 14:13:29 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.598
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.598 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id RuH1S5PDuD9w; Wed,  4 Nov 2009 14:13:21 +0000 (GMT)
+Received: from mail-pw0-f44.google.com (mail-pw0-f44.google.com
+	[209.85.160.44])
+	by menubar.gnome.org (Postfix) with ESMTP id 32AEA7501E3;
+	Wed,  4 Nov 2009 14:13:12 +0000 (GMT)
+Received: by pwj15 with SMTP id 15so173515pwj.23
+	for <multiple recipients>; Wed, 04 Nov 2009 06:13:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:sender:reply-to:received:date
+	:x-google-sender-auth:message-id:subject:from:to:content-type;
+	bh=NBrVWf8frNFQRq2GzYzArR5/XwUqGoJqjKr/EXu2zJg=;
+	b=Wq6+pl0HRDd4W4e31ZBCX+iofAGzFHuHOhcSn52SADq0YGOciMJQHXjW5XcqFxr04W
+	Kqw/1rJ0eQvVaKx+Zl3hL9MgL81P8Ua/+prHVulRbcUQrA8Pn8HiJ5GxB6Xmbtact5L0
+	pdbDUs/hwtjhhiyqnb25cAinl2h+8Gv7gz42E=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:reply-to:date:x-google-sender-auth:message-id
+	:subject:from:to:content-type;
+	b=gjwHSsDOfhj+gn6IMym64F7+xuro80/bEye/o6xwzA2/anGXtzAq29TI5uF0djsc65
+	Rasv4R3Pb85xV6/GdOJldNVM/L/IX+yZQDSBzmP+naQB421A3f0Eo8h4Myb/94Fp6eZB
+	IRrBYUbOvj+x04+SThe08h5ts2MdbCWbpwlYc=
+MIME-Version: 1.0
+Sender: paul.r.cutler@gmail.com
+Received: by 10.114.215.6 with SMTP id n6mr2080401wag.158.1257343991638; Wed, 
+	04 Nov 2009 06:13:11 -0800 (PST)
+Date: Wed, 4 Nov 2009 09:13:11 -0500
+X-Google-Sender-Auth: dbff0a189288c0bf
+Message-ID: <39428b2a0911040613v3cde120esbc71770193008fac@mail.gmail.com>
+From: Paul Cutler <pcutler@gnome.org>
+To: gnome-women-list@gnome.org, gnome-journal-list@gnome.org
+Content-Type: multipart/alternative; boundary=0016e64bff24fb6ad604778c351f
+Subject: [gnome-women] Issue 17 (GNOME Women) Update & Editors Needed
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: pcutler@gnome.org
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 04 Nov 2009 14:13:49 -0000
+
+--0016e64bff24fb6ad604778c351f
+Content-Type: text/plain; charset=ISO-8859-1
+
+Good morning!
+
+I've updated the wiki to reflect what articles we've received for Issue 17 -
+Women in GNOME.  We have 4 of the 7 articles, and I'm in the process of
+uploading them to our CMS, Textpattern, today. (
+http://live.gnome.org/GnomeJournal/ArticleSubmissionQueue)
+
+If you've submitted your article and I've missed it, please let me know.
+
+If you are interested and have the time to help edit them, the help would be
+appreciated.  If you're new to the GNOME Journal team and need an account
+for Textpattern, please reply to the list with your name & email address and
+Jim will create an account for you.  If you have questions on editing,
+please let us know, and if you do edit an article it's encouraged to work
+with the writer if there is a section you're not clear on.
+
+My goal is to have all articles edited by Nov. 11th, formatting complete by
+Nov. 14th and publish on Sunday, Nov. 15th.
+
+Thank you to all our writers, I'm really looking forward to this issue.  And
+thank you in advance to our editors.  Please let me know if you have any
+questions.
+
+Paul
+
+--0016e64bff24fb6ad604778c351f
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Good morning!<br><br>I&#39;ve updated the wiki to reflect what articles we&=
+#39;ve received for Issue 17 - Women in GNOME.=A0 We have 4 of the 7 articl=
+es, and I&#39;m in the process of uploading them to our CMS, Textpattern, t=
+oday. (<a href=3D"http://live.gnome.org/GnomeJournal/ArticleSubmissionQueue=
+">http://live.gnome.org/GnomeJournal/ArticleSubmissionQueue</a>)<br>
+<br>If you&#39;ve submitted your article and I&#39;ve missed it, please let=
+ me know.<br><br>If you are interested and have the time to help edit them,=
+ the help would be appreciated.=A0 If you&#39;re new to the GNOME Journal t=
+eam and need an account for Textpattern, please reply to the list with your=
+ name &amp; email address and Jim will create an account for you.=A0 If you=
+ have questions on editing, please let us know, and if you do edit an artic=
+le it&#39;s encouraged to work with the writer if there is a section you&#3=
+9;re not clear on.<br>
+<br>My goal is to have all articles edited by Nov. 11th, formatting complet=
+e by Nov. 14th and publish on Sunday, Nov. 15th.<br><br>Thank you to all ou=
+r writers, I&#39;m really looking forward to this issue.=A0 And thank you i=
+n advance to our editors.=A0 Please let me know if you have any questions.<=
+br>
+<br>Paul<br>
+
+--0016e64bff24fb6ad604778c351f--
+From jzb@zonker.net  Wed Nov  4 14:15:38 2009
+Return-Path: <jzb@zonker.net>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id E1BB77502E5;
+	Wed,  4 Nov 2009 14:15:37 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.522
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.522 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, TW_JZ=0.077] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id CXAtrvsSrECE; Wed,  4 Nov 2009 14:15:30 +0000 (GMT)
+Received: from mail-bw0-f213.google.com (mail-bw0-f213.google.com
+	[209.85.218.213])
+	by menubar.gnome.org (Postfix) with ESMTP id 70B787504DC;
+	Wed,  4 Nov 2009 14:15:20 +0000 (GMT)
+Received: by bwz5 with SMTP id 5so9145865bwz.23
+	for <multiple recipients>; Wed, 04 Nov 2009 06:15:18 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.223.92.131 with SMTP id r3mr216641fam.40.1257344118575; Wed, 
+	04 Nov 2009 06:15:18 -0800 (PST)
+In-Reply-To: <39428b2a0911040613v3cde120esbc71770193008fac@mail.gmail.com>
+References: <39428b2a0911040613v3cde120esbc71770193008fac@mail.gmail.com>
+Date: Wed, 4 Nov 2009 09:15:18 -0500
+Message-ID: <81d32afc0911040615j4421361chfe2d01287b1aea59@mail.gmail.com>
+From: "Joe 'Zonker' Brockmeier" <jzb@zonker.net>
+To: pcutler@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Cc: gnome-women-list@gnome.org, gnome-journal-list@gnome.org
+Subject: Re: [gnome-women] Issue 17 (GNOME Women) Update & Editors Needed
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 04 Nov 2009 14:15:38 -0000
+
+On Wed, Nov 4, 2009 at 9:13 AM, Paul Cutler <pcutler@gnome.org> wrote:
+>
+> If you are interested and have the time to help edit them, the help would=
+ be
+> appreciated.=A0 If you're new to the GNOME Journal team and need an accou=
+nt
+> for Textpattern, please reply to the list with your name & email address =
+and
+> Jim will create an account for you.=A0 If you have questions on editing,
+> please let us know, and if you do edit an article it's encouraged to work
+> with the writer if there is a section you're not clear on.
+
+I'm new. Happy to take one or two articles. Name & email are below
+(and above...)
+
+Best,
+
+Zonker
+--=20
+Joe 'Zonker' Brockmeier <jzb@zonker.net>
+openSUSE Community Manager
+Twitter: jzb | Identica: jzb
+About: http://www.dissociatedpress.net/about/
+From stormy.peters@gmail.com  Wed Nov  4 14:38:44 2009
+Return-Path: <stormy.peters@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 6D1AD750505;
+	Wed,  4 Nov 2009 14:38:44 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.522
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.522 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, TW_XT=0.077] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id YyyKg0qxrytN; Wed,  4 Nov 2009 14:38:36 +0000 (GMT)
+Received: from mail-qy0-f181.google.com (mail-qy0-f181.google.com
+	[209.85.221.181])
+	by menubar.gnome.org (Postfix) with ESMTP id 64AA67504DC;
+	Wed,  4 Nov 2009 14:38:28 +0000 (GMT)
+Received: by qyk11 with SMTP id 11so3389560qyk.13
+	for <multiple recipients>; Wed, 04 Nov 2009 06:38:26 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:sender:received:in-reply-to
+	:references:date:x-google-sender-auth:message-id:subject:from:to:cc
+	:content-type:content-transfer-encoding;
+	bh=Dygm8Mc7r1t9+nMA87BqsO20IY2sVuf/kh5lfq1WoU8=;
+	b=AUJxL52djb02hJWepon1jrFasG1DKxTh+rdQGLyaEgx8ULkjtLAD1a3lj1MAHhb6Cr
+	PXCRs5PP1+FjtbMr1oHeduIv4QYenH4c+5CFE/hfxWosi5Uc8INgivGqTgZuEanAV4Ib
+	2r+HmrYH/6VNcYueqNcg+EbbPxVtuOiI5Vz4s=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:in-reply-to:references:date
+	:x-google-sender-auth:message-id:subject:from:to:cc:content-type
+	:content-transfer-encoding;
+	b=IqViFG2OhbgIwT/WZNQhcsxylt1QAQ1MaOGzfvmB3/MK53QaouPUd1VZaAOIxylCns
+	c4vQFbO4/MG9KdfXBcWEuMt0dS6IhoEf5oq8oWaAVm0PAZtLQdyQ6Qc8D6t5j9JBw2Gr
+	Pdo38nXpCFYbMarqVU24fQpbciZeUgXYIbnTY=
+MIME-Version: 1.0
+Sender: stormy.peters@gmail.com
+Received: by 10.224.119.4 with SMTP id x4mr767511qaq.304.1257345506484; Wed, 
+	04 Nov 2009 06:38:26 -0800 (PST)
+In-Reply-To: <39428b2a0911040613v3cde120esbc71770193008fac@mail.gmail.com>
+References: <39428b2a0911040613v3cde120esbc71770193008fac@mail.gmail.com>
+Date: Wed, 4 Nov 2009 07:38:26 -0700
+X-Google-Sender-Auth: 1021491f178ff604
+Message-ID: <7ceb3e960911040638s47e934b9i8550fc5778420dbc@mail.gmail.com>
+From: Stormy Peters <stormy@gnome.org>
+To: pcutler@gnome.org
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+Cc: gnome-women-list@gnome.org, gnome-journal-list@gnome.org
+Subject: Re: [gnome-women] Issue 17 (GNOME Women) Update & Editors Needed
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Wed, 04 Nov 2009 14:38:45 -0000
+
+I'm happy to help edit assuming Textpattern doesn't have a huge learning cu=
+rve.
+
+Stormy Peters, stormy@gnome.org
+
+Stormy
+
+On Wed, Nov 4, 2009 at 7:13 AM, Paul Cutler <pcutler@gnome.org> wrote:
+> Good morning!
+>
+> I've updated the wiki to reflect what articles we've received for Issue 1=
+7 -
+> Women in GNOME.=A0 We have 4 of the 7 articles, and I'm in the process of
+> uploading them to our CMS, Textpattern, today.
+> (http://live.gnome.org/GnomeJournal/ArticleSubmissionQueue)
+>
+> If you've submitted your article and I've missed it, please let me know.
+>
+> If you are interested and have the time to help edit them, the help would=
+ be
+> appreciated.=A0 If you're new to the GNOME Journal team and need an accou=
+nt
+> for Textpattern, please reply to the list with your name & email address =
+and
+> Jim will create an account for you.=A0 If you have questions on editing,
+> please let us know, and if you do edit an article it's encouraged to work
+> with the writer if there is a section you're not clear on.
+>
+> My goal is to have all articles edited by Nov. 11th, formatting complete =
+by
+> Nov. 14th and publish on Sunday, Nov. 15th.
+>
+> Thank you to all our writers, I'm really looking forward to this issue.=
+=A0 And
+> thank you in advance to our editors.=A0 Please let me know if you have an=
+y
+> questions.
+>
+> Paul
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+>
+From paul.r.cutler@gmail.com  Thu Nov 12 20:11:02 2009
+Return-Path: <paul.r.cutler@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A03C1750169
+	for <gnome-women-list@gnome.org>; Thu, 12 Nov 2009 20:11:02 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.598
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.598 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 41rETM+LApo4 for <gnome-women-list@gnome.org>;
+	Thu, 12 Nov 2009 20:10:53 +0000 (GMT)
+Received: from mail-pw0-f44.google.com (mail-pw0-f44.google.com
+	[209.85.160.44])
+	by menubar.gnome.org (Postfix) with ESMTP id EEF257506CA
+	for <gnome-women-list@gnome.org>; Thu, 12 Nov 2009 20:10:17 +0000 (GMT)
+Received: by pwj15 with SMTP id 15so1641714pwj.23
+	for <gnome-women-list@gnome.org>; Thu, 12 Nov 2009 12:10:16 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:sender:reply-to:received:date
+	:x-google-sender-auth:message-id:subject:from:to:content-type;
+	bh=CWoWQyYuL2UEH5bYqwnHOgN5DavzTpA9aJTLcglNLX4=;
+	b=D2S4CDfN8luz/SRE5BMeGtk8XhZ7doabU+f3XlB8wQyY4OkfGoEjWdlfsmqSuozexl
+	Ok2pJP0Y0/0Zi4v0U82uhbqSc2MSvgcKPa+KYPjM9G7+tZ8CXsC1+iOMGCGlrBRsnOAl
+	jslXWT7jmRbUqbZ2zOEdi3turW71PGK74G0b0=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:reply-to:date:x-google-sender-auth:message-id
+	:subject:from:to:content-type;
+	b=sqhKw0Glbwm3GSHjpOzykhghgZkGaKE+i7w41MP482yq0Mjd1TqIMZuK36kEMszV//
+	u4Ewbzy5kGJBoYkJGrB6H5KCfFr8V5nTtpX1Tdq3nRBqP3LTXVRoCaG+R70EJYRqtBWX
+	kF4XsST0EWWd4mtRoowb/D1SZSdJpyKFC3nAE=
+MIME-Version: 1.0
+Sender: paul.r.cutler@gmail.com
+Received: by 10.115.103.29 with SMTP id f29mr6487108wam.222.1258056615328; 
+	Thu, 12 Nov 2009 12:10:15 -0800 (PST)
+Date: Thu, 12 Nov 2009 14:10:15 -0600
+X-Google-Sender-Auth: 57b3bb5ec3c0f62f
+Message-ID: <39428b2a0911121210n720fef16s2d7e2e3ea5b03a6c@mail.gmail.com>
+From: Paul Cutler <pcutler@gnome.org>
+To: gnome-women-list@gnome.org
+Content-Type: multipart/alternative; boundary=0016e64cc4a8a9fd780478322108
+Subject: [gnome-women] GNOME Journal - Bios needed
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: pcutler@gnome.org
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 12 Nov 2009 20:11:03 -0000
+
+--0016e64cc4a8a9fd780478322108
+Content-Type: text/plain; charset=ISO-8859-1
+
+For those of you who wrote articles for the upcoming GNOME Journal - Women
+In Open Source edition, I need a short one to sentence bio for each of you.
+If you need examples please look at past GJ articles at
+http://www.gnomejournal.org/archives/ and there is almost always an "About
+the Author" blurb at the end of the article.
+
+If you can reply back to this thread, or the GJ list or email me, I'd
+appreciate it.
+
+Thanks!
+
+Paul
+
+--0016e64cc4a8a9fd780478322108
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+For those of you who wrote articles for the upcoming GNOME Journal - Women =
+In Open Source edition, I need a short one to sentence bio for each of you.=
+=A0 If you need examples please look at past GJ articles at <a href=3D"http=
+://www.gnomejournal.org/archives/">http://www.gnomejournal.org/archives/</a=
+> and there is almost always an &quot;About the Author&quot; blurb at the e=
+nd of the article.<br>
+<br>If you can reply back to this thread, or the GJ list or email me, I&#39=
+;d appreciate it.<br><br>Thanks!<br><br>Paul<br>
+
+--0016e64cc4a8a9fd780478322108--
+From danielle.madeley@collabora.co.uk  Thu Nov 12 21:36:16 2009
+Return-Path: <danielle.madeley@collabora.co.uk>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id D796F7501F5;
+	Thu, 12 Nov 2009 21:36:16 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id aPpaL0fIbDtx; Thu, 12 Nov 2009 21:36:08 +0000 (GMT)
+Received: from bhuna.collabora.co.uk (bhuna.collabora.co.uk [93.93.128.226])
+	by menubar.gnome.org (Postfix) with ESMTP id D1547750169;
+	Thu, 12 Nov 2009 21:35:59 +0000 (GMT)
+Received: from [192.168.0.6] (203-217-86-74.dyn.iinet.net.au [203.217.86.74])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by bhuna.collabora.co.uk (Postfix) with ESMTPSA id 8ECA360004D;
+	Thu, 12 Nov 2009 21:35:56 +0000 (GMT)
+From: Danielle Madeley <danielle.madeley@collabora.co.uk>
+To: pcutler@gnome.org
+In-Reply-To: <39428b2a0911121210n720fef16s2d7e2e3ea5b03a6c@mail.gmail.com>
+References: <39428b2a0911121210n720fef16s2d7e2e3ea5b03a6c@mail.gmail.com>
+Content-Type: text/plain; charset="UTF-8"
+Organization: Collabora Ltd.
+Date: Fri, 13 Nov 2009 08:35:50 +1100
+Message-ID: <1258061750.31066.145.camel@adelie>
+Mime-Version: 1.0
+X-Mailer: Evolution 2.28.1 
+Content-Transfer-Encoding: 7bit
+Cc: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] GNOME Journal - Bios needed
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Thu, 12 Nov 2009 21:36:17 -0000
+
+Danielle Madeley is an Australian software developer working for
+Collabora Ltd. The first Linux distribution she used was RedHat 6.0. She
+enjoys taking photographs, playing the saxophone and eating vegan food.
+Her favourite colour is purple, but it used to be green.
+
+On Thu, 2009-11-12 at 14:10 -0600, Paul Cutler wrote:
+> For those of you who wrote articles for the upcoming GNOME Journal -
+> Women In Open Source edition, I need a short one to sentence bio for
+> each of you.  If you need examples please look at past GJ articles at
+> http://www.gnomejournal.org/archives/ and there is almost always an
+> "About the Author" blurb at the end of the article.
+> 
+> If you can reply back to this thread, or the GJ list or email me, I'd
+> appreciate it.
+> 
+> Thanks!
+> 
+> Paul
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+
+-- 
+Danielle Madeley
+
+Collabora Ltd., Melbourne, Australia
+http://www.collabora.co.uk/
+
+From ara@ubuntu.com  Fri Nov 13 07:50:37 2009
+Return-Path: <ara@ubuntu.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 0B707750744
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Nov 2009 07:50:37 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -3.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-3.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_LOW=-1] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id qWUISmvks7Sd for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Nov 2009 07:50:27 +0000 (GMT)
+Received: from adelie.canonical.com (adelie.canonical.com [91.189.90.139])
+	by menubar.gnome.org (Postfix) with ESMTP id 6417C750367
+	for <gnome-women-list@mail.gnome.org>;
+	Fri, 13 Nov 2009 07:50:08 +0000 (GMT)
+Received: from hutte.canonical.com ([91.189.90.181])
+	by adelie.canonical.com with esmtp (Exim 4.69 #1 (Debian))
+	id 1N8qv0-0001mE-68
+	for <gnome-women-list@mail.gnome.org>; Fri, 13 Nov 2009 07:50:06 +0000
+Received: from 63.red-88-2-162.staticip.rima-tde.net ([88.2.162.63]
+	helo=[192.168.1.43]) by hutte.canonical.com with esmtpsa
+	(TLS-1.0:DHE_RSA_AES_256_CBC_SHA1:32) (Exim 4.69)
+	(envelope-from <ara@ubuntu.com>) id 1N8quz-000575-VW
+	for gnome-women-list@mail.gnome.org; Fri, 13 Nov 2009 07:50:06 +0000
+Message-ID: <4AFD0FAB.5080107@ubuntu.com>
+Date: Fri, 13 Nov 2009 08:50:03 +0100
+From: Ara Pulido <ara@ubuntu.com>
+User-Agent: Mozilla/5.0 (X11; U; Linux i686; en-US;
+	rv:1.9.1.6pre) Gecko/20091112 Shredder/3.0pre
+MIME-Version: 1.0
+To: gnome-women-list@mail.gnome.org
+References: <39428b2a0911121210n720fef16s2d7e2e3ea5b03a6c@mail.gmail.com>
+In-Reply-To: <39428b2a0911121210n720fef16s2d7e2e3ea5b03a6c@mail.gmail.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 7bit
+Subject: Re: [gnome-women] GNOME Journal - Bios needed
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Nov 2009 07:50:39 -0000
+
+Ara Pulido is a Spanish software tester working for Canonical as part of 
+the Ubuntu QA Team. She believes that testing is a very much needed 
+activity in FOSS and she will try to convince you about it.
+
+When not at work you will find her cooking, traveling or laying on the 
+beach.
+
+On 11/12/2009 09:10 PM, Paul Cutler wrote:
+> For those of you who wrote articles for the upcoming GNOME Journal -
+> Women In Open Source edition, I need a short one to sentence bio for
+> each of you.  If you need examples please look at past GJ articles at
+> http://www.gnomejournal.org/archives/ and there is almost always an
+> "About the Author" blurb at the end of the article.
+>
+> If you can reply back to this thread, or the GJ list or email me, I'd
+> appreciate it.
+>
+> Thanks!
+>
+> Paul
+>
+>
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+From marinaz@redhat.com  Fri Nov 13 20:21:15 2009
+Return-Path: <marinaz@redhat.com>
+X-Original-To: gnome-women-list@mail.gnome.org
+Delivered-To: gnome-women-list@mail.gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 1BDD575022E;
+	Fri, 13 Nov 2009 20:21:15 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -6.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-6.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, RCVD_IN_DNSWL_MED=-4] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id Lt+mABEIc55S; Fri, 13 Nov 2009 20:21:07 +0000 (GMT)
+Received: from mx1.redhat.com (mx1.redhat.com [209.132.183.28])
+	by menubar.gnome.org (Postfix) with ESMTP id A6E647501E9;
+	Fri, 13 Nov 2009 20:20:59 +0000 (GMT)
+Received: from int-mx05.intmail.prod.int.phx2.redhat.com
+	(int-mx05.intmail.prod.int.phx2.redhat.com [10.5.11.18])
+	by mx1.redhat.com (8.13.8/8.13.8) with ESMTP id nADKKvu6001546
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=OK);
+	Fri, 13 Nov 2009 15:20:58 -0500
+Received: from mail03.corp.redhat.com (zmail07.collab.prod.int.phx2.redhat.com
+	[10.5.5.47])
+	by int-mx05.intmail.prod.int.phx2.redhat.com (8.13.8/8.13.8) with ESMTP
+	id nADKKv2d024758; Fri, 13 Nov 2009 15:20:57 -0500
+Date: Fri, 13 Nov 2009 15:20:57 -0500 (EST)
+From: Marina Zhurakhinskaya <marinaz@redhat.com>
+To: "paul.r.cutler@gmail.com" <pcutler@gnome.org>
+Message-ID: <450371944.1464651258143657685.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+In-Reply-To: <1970383055.1464311258143440782.JavaMail.root@zmail07.collab.prod.int.phx2.redhat.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [10.5.5.41]
+X-Scanned-By: MIMEDefang 2.67 on 10.5.11.18
+Cc: gnome-women-list@mail.gnome.org
+Subject: Re: [gnome-women] GNOME Journal - Bios needed
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Nov 2009 20:21:15 -0000
+
+Marina Zhurakhinskaya is a Senior Software Engineer working on the new shiny GNOME Shell code on the desktop team at Red Hat. She is particularly interested in making sure that GNOME desktop is intuitive for the users and well-documented for the contributors. Outside of work, she likes to hang out with friends and family, travel, listen to audio books, and read reviews on Yelp, TripAdvisor, and Amazon.
+
+----- Original Message -----
+From: "Ara Pulido" <ara@ubuntu.com>
+To: gnome-women-list@mail.gnome.org
+Sent: Friday, November 13, 2009 2:50:03 AM GMT -05:00 US/Canada Eastern
+Subject: Re: [gnome-women] GNOME Journal - Bios needed
+
+Ara Pulido is a Spanish software tester working for Canonical as part of 
+the Ubuntu QA Team. She believes that testing is a very much needed 
+activity in FOSS and she will try to convince you about it.
+
+When not at work you will find her cooking, traveling or laying on the 
+beach.
+
+On 11/12/2009 09:10 PM, Paul Cutler wrote:
+> For those of you who wrote articles for the upcoming GNOME Journal -
+> Women In Open Source edition, I need a short one to sentence bio for
+> each of you.  If you need examples please look at past GJ articles at
+> http://www.gnomejournal.org/archives/ and there is almost always an
+> "About the Author" blurb at the end of the article.
+>
+> If you can reply back to this thread, or the GJ list or email me, I'd
+> appreciate it.
+>
+> Thanks!
+>
+> Paul
+>
+>
+>
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+_______________________________________________
+gnome-women-list mailing list
+gnome-women-list@mail.gnome.org
+http://mail.gnome.org/mailman/listinfo/gnome-women-list
+From wallach@cs.umass.edu  Fri Nov 13 20:25:31 2009
+Return-Path: <wallach@cs.umass.edu>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 140237500B7;
+	Fri, 13 Nov 2009 20:25:31 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.599
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.599 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id ihe6MgLd8qjp; Fri, 13 Nov 2009 20:25:21 +0000 (GMT)
+Received: from dirichlet.join-the-dots.org (dirichlet.join-the-dots.org
+	[66.246.138.8])
+	by menubar.gnome.org (Postfix) with ESMTP id C4B5B7500A2;
+	Fri, 13 Nov 2009 20:25:13 +0000 (GMT)
+Received: by dirichlet.join-the-dots.org (Postfix, from userid 1000)
+	id 338DF140D3; Fri, 13 Nov 2009 20:25:12 +0000 (UTC)
+Date: Fri, 13 Nov 2009 20:25:12 +0000
+From: "Hanna M. Wallach" <wallach@cs.umass.edu>
+To: Paul Cutler <pcutler@gnome.org>
+Message-ID: <20091113202512.GA26935@join-the-dots.org>
+References: <39428b2a0911121210n720fef16s2d7e2e3ea5b03a6c@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+In-Reply-To: <39428b2a0911121210n720fef16s2d7e2e3ea5b03a6c@mail.gmail.com>
+Mail-Copies-To: never
+User-Agent: Mutt/1.5.17+20080114 (2008-01-14)
+X-Mailman-Approved-At: Fri, 13 Nov 2009 20:28:26 +0000
+Cc: gnome-women-list@gnome.org
+Subject: Re: [gnome-women] GNOME Journal - Bios needed
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Fri, 13 Nov 2009 20:25:31 -0000
+
+Hanna Wallach is a senior postdoctoral research associate at the
+University of Massachusetts Amherst, working on Bayesian inference for
+machine learning problems. In her not-so-spare time, Hanna has
+contributed to both GNOME and Debian, and is involved in several
+projects that encourage women to participate in free software
+development. Her favourite food is kale.
+
+On Thu, Nov 12, 2009 at 02:10:15PM -0600, Paul Cutler wrote:
+> For those of you who wrote articles for the upcoming GNOME Journal - Women
+> In Open Source edition, I need a short one to sentence bio for each of you.
+> If you need examples please look at past GJ articles at
+> http://www.gnomejournal.org/archives/ and there is almost always an "About
+> the Author" blurb at the end of the article.
+> 
+> If you can reply back to this thread, or the GJ list or email me, I'd
+> appreciate it.
+> 
+> Thanks!
+> 
+> Paul
+
+> _______________________________________________
+> gnome-women-list mailing list
+> gnome-women-list@mail.gnome.org
+> http://mail.gnome.org/mailman/listinfo/gnome-women-list
+
+-- 
+hanna m. wallach
+senior postdoctoral research associate
+department of computer science, umass amherst
+http://www.cs.umass.edu/~wallach/
+From rms@gnu.org  Sat Nov 14 11:23:07 2009
+Return-Path: <rms@gnu.org>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id A99677500A6;
+	Sat, 14 Nov 2009 11:23:07 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.871
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.871 tagged_above=-999 required=2 tests=[AWL=1.869, 
+	BAYES_20=-0.74, RCVD_IN_DNSWL_MED=-4] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id 1FeYWICa7XTJ; Sat, 14 Nov 2009 11:22:57 +0000 (GMT)
+Received: from fencepost.gnu.org (fencepost.gnu.org [140.186.70.10])
+	by menubar.gnome.org (Postfix) with ESMTP id 219357500B5;
+	Sat, 14 Nov 2009 11:22:49 +0000 (GMT)
+Received: from rms by fencepost.gnu.org with local (Exim 4.67)
+	(envelope-from <rms@gnu.org>)
+	id 1N9GiN-0002iu-NC; Sat, 14 Nov 2009 06:22:47 -0500
+Content-Type: text/plain; charset=ISO-8859-15
+From: Richard Stallman <rms@gnu.org>
+To: foundation-list@gnome.org, gnome-women-list@gnome.org
+Message-Id: <E1N9GiN-0002iu-NC@fencepost.gnu.org>
+Date: Sat, 14 Nov 2009 06:22:47 -0500
+Subject: [gnome-women] For avoidance of misunderstandings
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: rms@gnu.org
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Sat, 14 Nov 2009 11:23:07 -0000
+
+Some of the people in the audience in my speech in the Gran Canaria
+Desktop Summit thought that my joke about the Virgin of Emacs was
+intended to make some kind of statement about women.
+
+I was surprised by that reaction, since I had told the same joke dozens
+of times and this is the first report of interpreting it that way.  In
+any case, it was a misunderstanding: the only intended meaning of the
+Cult of the Virgin of Emacs is to parody another Cult of the Virgin.
+The whole St IGNUius routine makes fun of me, the free software
+movement and religion, through parody.
+
+To be abundantly clear, my views about women in connection with free
+software are simply that they deserve freedom in using computers, just
+as men do.  Some women already appreciate this freedom and have become
+free software activists.  We need more people, regardless of sex, to
+do this, so that someday all women, and all men, will enjoy the
+freedom that free software offers.
+
+Misunderstanding is not a good outcome.  To help avoid
+misunderstandings of this kind in the future, since August I have
+changed the joke so that the Virgin of Emacs can be of either sex.
+From paul.r.cutler@gmail.com  Mon Nov 23 22:36:06 2009
+Return-Path: <paul.r.cutler@gmail.com>
+X-Original-To: gnome-women-list@gnome.org
+Delivered-To: gnome-women-list@gnome.org
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by menubar.gnome.org (Postfix) with ESMTP id 00D177500D0;
+	Mon, 23 Nov 2009 22:36:06 +0000 (GMT)
+X-Virus-Scanned: by amavisd-new at gnome.org
+X-Spam-Flag: NO
+X-Spam-Score: -2.598
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.598 tagged_above=-999 required=2
+	tests=[BAYES_00=-2.599, HTML_MESSAGE=0.001] autolearn=ham
+Received: from menubar.gnome.org ([127.0.0.1])
+	by localhost (menubar.gnome.org [127.0.0.1]) (amavisd-new, port 10024)
+	with ESMTP id pAQaXmpJF9CB; Mon, 23 Nov 2009 22:35:54 +0000 (GMT)
+Received: from mail-pz0-f182.google.com (mail-pz0-f182.google.com
+	[209.85.222.182])
+	by menubar.gnome.org (Postfix) with ESMTP id C1D727500D7;
+	Mon, 23 Nov 2009 22:35:45 +0000 (GMT)
+Received: by pzk12 with SMTP id 12so3951195pzk.13
+	for <multiple recipients>; Mon, 23 Nov 2009 14:35:43 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=gmail.com; s=gamma;
+	h=domainkey-signature:mime-version:sender:reply-to:received:date
+	:x-google-sender-auth:message-id:subject:from:to:content-type;
+	bh=OQuzV4ExQsEGGGDLsH6AyYozvKhSYTr8n2s/pWcX2ng=;
+	b=W3LCOuBmYKqajOWmshUFFzYkiZQguTqMKUfwEO9K9KbewzKHcPPCfXgpG1BnAsUqtJ
+	zjypeamxGkzLIrgJwYIy16l5SqYZocsT+yBU+tmoDpJ26CdZrqfdq/S8Uw8ZkwWVxJo5
+	tx9lC8SvoksmLfv5qbQlNYIzx6yxoy4yCnkow=
+DomainKey-Signature: a=rsa-sha1; c=nofws; d=gmail.com; s=gamma;
+	h=mime-version:sender:reply-to:date:x-google-sender-auth:message-id
+	:subject:from:to:content-type;
+	b=GgjFO0rROst7TCh7Ygp64yJavwoVF2eDAY5ASw6aO01fh/zOybZRHmQHucIWwDdfuG
+	epqMtqBUjh8ZOo1/GZ3nhUY0ICfVIwISWgC79SGdrMlTZsZsBTEzBdWvikfLwKmL4hAh
+	iYm5xPWuPXKeKOQwPBlhI/Ri/VftwINTfWkmo=
+MIME-Version: 1.0
+Sender: paul.r.cutler@gmail.com
+Received: by 10.114.45.13 with SMTP id s13mr10218058was.167.1259015743603; 
+	Mon, 23 Nov 2009 14:35:43 -0800 (PST)
+Date: Mon, 23 Nov 2009 16:35:43 -0600
+X-Google-Sender-Auth: 4cc547fe8a124235
+Message-ID: <39428b2a0911231435p304cd37p32d7b163433690d3@mail.gmail.com>
+From: Paul Cutler <pcutler@gnome.org>
+To: gnome-journal-list@gnome.org, 
+	GNOME Marketing List <marketing-list@gnome.org>, gnome-women-list@gnome.org
+Content-Type: multipart/alternative; boundary=00504502964d2a043f0479117211
+Subject: [gnome-women] GNOME Journal Issue 17 - Women in Open Source
+	released!
+X-BeenThere: gnome-women-list@mail.gnome.org
+X-Mailman-Version: 2.1.12
+Precedence: list
+Reply-To: pcutler@gnome.org
+List-Id: Discussion about the GNOME Women project
+	<gnome-women-list.mail.gnome.org>
+List-Unsubscribe: <http://mail.gnome.org/mailman/options/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=unsubscribe>
+List-Archive: <http://mail.gnome.org/archives/gnome-women-list/>
+List-Post: <mailto:gnome-women-list@mail.gnome.org>
+List-Help: <mailto:gnome-women-list-request@mail.gnome.org?subject=help>
+List-Subscribe: <http://mail.gnome.org/mailman/listinfo/gnome-women-list>,
+	<mailto:gnome-women-list-request@mail.gnome.org?subject=subscribe>
+X-List-Received-Date: Mon, 23 Nov 2009 22:36:06 -0000
+
+--00504502964d2a043f0479117211
+Content-Type: text/plain; charset=ISO-8859-1
+
+The GNOME Journal team is pleased to announce Issue 17 of the GNOME Journal,
+Women In Open Source.
+
+This is our first ever issue with a unified theme and all articles were
+written by women in the open source community.  The idea and execution of
+this issue was created by the GNOME Women community.
+
+The following articles are in this issue:
+
+Telepathy, Empathy and Mission Control 5 in GNOME 2.28
+Telepathy Overview
+The Un-Scary Screwdriver
+Where are they now? The Participants of the 2006 Women's Summer Outreach
+Program
+Easy Breezy Beautiful GNOME Shell
+GNOME desktop testing automation and how to use Mago
+Epiphany from a - not so experienced - user perspective
+An Interview with Leslie Hawthorn
+
+Thank you to our writers, and to the GNOME Women community for the idea of
+this issue, including organizing the writers and article ideas.
+
+I would also like to thank some of our new editors who help was invaluable
+including Sumana Harihareswara and Zonker.
+
+Go read GNOME Journal now!   http://www.gnomejournal.org
+
+Paul
+
+--00504502964d2a043f0479117211
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+The GNOME Journal team is pleased to announce Issue 17 of the GNOME Journal=
+, Women In Open Source.<br><br>This is our first ever issue with a unified =
+theme and all articles were written by women in the open source community.=
+=A0 The idea and execution of this issue was created by the GNOME Women com=
+munity.<br>
+
+<br>The following articles are in this issue:<br><br>Telepathy, Empathy and=
+ Mission Control 5 in GNOME 2.28<br>Telepathy Overview<br>The Un-Scary Scre=
+wdriver<br>Where are they now? The Participants of the 2006 Women&#39;s Sum=
+mer Outreach Program<br>
+
+Easy Breezy Beautiful GNOME Shell<br>GNOME desktop testing automation and h=
+ow to use Mago<br>Epiphany from a - not so experienced - user perspective<b=
+r>An Interview with Leslie Hawthorn<br><br>Thank you to our writers, and to=
+ the GNOME Women community for the idea of this issue, including organizing=
+ the writers and article ideas.<br>
+
+<br>I would also like to thank some of our new editors who help was invalua=
+ble including Sumana Harihareswara and Zonker.<br><br>Go read GNOME Journal=
+ now!=A0=A0 <a rel=3D"nofollow" href=3D"http://www.gnomejournal.org/" targe=
+t=3D"_blank">http://www.gnomejournal.org</a><br>
+
+<br>Paul<br><br>
+
+--00504502964d2a043f0479117211--
